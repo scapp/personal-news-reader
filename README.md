@@ -20,3 +20,5 @@ On load, the site asks for a PIN. Client-side Web Crypto hashes `salt + PIN` (SH
 
 ## Local preview
 From this folder: `python3 -m http.server 8080` then open http://localhost:8080/
+
+<!-- pages-build 2026-09-23T15:16:18Z -->
