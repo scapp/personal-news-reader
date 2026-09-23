@@ -92,14 +92,23 @@
       </div>`;
   }
 
-  function leadHtml(story, isRead) {
+  function mediaBlock(story, kind) {
+    // Always emit a media column so grid layout never collapses when a photo is missing.
+    const cls = kind === 'lead' ? 'lead-media' : 'thumb';
+    const loading = kind === 'lead' ? 'eager' : 'lazy';
     const img = imageSrc(story);
-    const media = img
-      ? `<a class="lead-media" href="${escapeHtml(story.url)}" target="_blank" rel="noopener noreferrer"><img src="${escapeHtml(img)}" alt="" loading="eager"></a>`
-      : '';
+    const cat = escapeHtml(story.cat || 'News');
+    const url = escapeHtml(story.url || '#');
+    if (img) {
+      return `<a class="${cls}" href="${url}" target="_blank" rel="noopener noreferrer"><img src="${escapeHtml(img)}" alt="" loading="${loading}" onerror="this.parentElement.classList.add('placeholder'); this.outerHTML='<span class=\'ph-label\'>${cat}</span>';"></a>`;
+    }
+    return `<a class="${cls} placeholder" href="${url}" target="_blank" rel="noopener noreferrer" aria-label="${cat}"><span class="ph-label">${cat}</span></a>`;
+  }
+
+  function leadHtml(story, isRead) {
     return `
       <article class="lead-card${isRead ? ' read' : ''}" data-id="${escapeHtml(story.id)}">
-        ${media}
+        ${mediaBlock(story, 'lead')}
         <div class="lead-copy">
           <div class="cat">${escapeHtml(story.cat || 'News')}</div>
           <h2><a href="${escapeHtml(story.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(story.headline)}</a></h2>
@@ -111,13 +120,9 @@
   }
 
   function cardHtml(story, isRead) {
-    const img = imageSrc(story);
-    const thumb = img
-      ? `<a class="thumb" href="${escapeHtml(story.url)}" target="_blank" rel="noopener noreferrer"><img src="${escapeHtml(img)}" alt="" loading="lazy"></a>`
-      : '';
     return `
       <article class="story${isRead ? ' read' : ''}" data-id="${escapeHtml(story.id)}">
-        ${thumb}
+        ${mediaBlock(story, 'card')}
         <div class="copy">
           <div class="cat">${escapeHtml(story.cat || 'News')}</div>
           <h2><a href="${escapeHtml(story.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(story.headline)}</a></h2>

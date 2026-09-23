@@ -169,12 +169,12 @@ body {
   display: block;
 }
 .lead-copy {
-  padding: 1.5rem 1.5rem 1.35rem 0;
+  padding: 1.5rem 1.5rem 1.35rem 0.25rem;
   display: flex;
   flex-direction: column;
   justify-content: center;
+  min-width: 0;
 }
-.lead-card:not(:has(.lead-media)) .lead-copy { padding-left: 1.5rem; }
 .cat {
   display: inline-block;
   margin-bottom: 0.55rem;
@@ -261,12 +261,36 @@ body {
   object-fit: cover;
   display: block;
 }
+.thumb.placeholder,
+.lead-media.placeholder {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  background:
+    linear-gradient(145deg, #dbeafe 0%, #eff6ff 45%, #e2e8f0 100%);
+  border-right: 1px solid var(--line);
+}
+.lead-media.placeholder { min-height: 280px; }
+.thumb.placeholder { min-height: 150px; align-self: stretch; }
+.ph-label {
+  display: block;
+  max-width: 85%;
+  text-align: center;
+  color: var(--blue-deep);
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  line-height: 1.35;
+  opacity: 0.85;
+}
 .story .copy {
-  padding: 1rem 1rem 0.9rem 0;
+  padding: 1rem 1rem 0.9rem 0.15rem;
   display: flex;
   flex-direction: column;
+  min-width: 0;
 }
-.story:not(:has(.thumb)) .copy { padding-left: 1rem; }
 .story h2 {
   margin: 0 0 0.45rem;
   font-family: var(--font);
