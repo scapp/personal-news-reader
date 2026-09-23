@@ -18,6 +18,13 @@
 
 * { box-sizing: border-box; }
 html, body { margin: 0; padding: 0; }
+
+/* Author `display` rules override the HTML hidden attribute — force hide. */
+.gate[hidden],
+.app[hidden],
+[hidden] {
+  display: none !important;
+}
 body {
   background:
     linear-gradient(180deg, #e8eef9 0%, var(--paper) 220px),
