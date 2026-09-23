@@ -5,8 +5,6 @@
   const READ_KEY = 'pnr_read';
   const REMOVED_KEY = 'pnr_removed';
   const HIDE_READ_KEY = 'pnr_hide_read';
-  const SYNC_TOKEN_KEY = 'pnr_sync_token';
-  const SYNC_META_KEY = 'pnr_sync_meta';
 
   const gate = document.getElementById('gate');
   const app = document.getElementById('app');
@@ -24,10 +22,6 @@
   let auth = null;
   let stories = [];
   let updatedLabel = '';
-  let syncToken = null;
-  let gistFileSha = null;
-  let pushTimer = null;
-  let syncing = false;
 
   function loadList(key) {
     try {
@@ -46,225 +40,11 @@
   function readIds() { return new Set(loadList(READ_KEY)); }
   function removedIds() { return new Set(loadList(REMOVED_KEY)); }
 
-  function unionLists(a, b) {
-    return [...new Set([...(a || []), ...(b || [])].map(String))];
-  }
-
-  function currentState() {
-    return {
-      read: loadList(READ_KEY),
-      removed: loadList(REMOVED_KEY),
-      updated: new Date().toISOString(),
-    };
-  }
-
-  function applyState(state, { saveLocal = true } = {}) {
-    if (!state || typeof state !== 'object') return;
-    const read = unionLists(loadList(READ_KEY), state.read || []);
-    const removed = unionLists(loadList(REMOVED_KEY), state.removed || []);
-    if (saveLocal) {
-      saveList(READ_KEY, read);
-      saveList(REMOVED_KEY, removed);
-    }
-    return { read, removed };
-  }
-
-  async function sha256Hex(text) {
-    const data = new TextEncoder().encode(text);
-    const digest = await crypto.subtle.digest('SHA-256', data);
-    return [...new Uint8Array(digest)].map((b) => b.toString(16).padStart(2, '0')).join('');
-  }
-
-  function b64ToBytes(b64) {
-    const bin = atob(b64);
-    const out = new Uint8Array(bin.length);
-    for (let i = 0; i < bin.length; i++) out[i] = bin.charCodeAt(i);
-    return out;
-  }
-
-  async function deriveAesKey(pin, salt, iterations) {
-    const base = await crypto.subtle.importKey(
-      'raw',
-      new TextEncoder().encode(String(pin)),
-      'PBKDF2',
-      false,
-      ['deriveKey']
-    );
-    return crypto.subtle.deriveKey(
-      {
-        name: 'PBKDF2',
-        salt: new TextEncoder().encode(String(salt)),
-        iterations: iterations || 150000,
-        hash: 'SHA-256',
-      },
-      base,
-      { name: 'AES-GCM', length: 256 },
-      false,
-      ['decrypt']
-    );
-  }
-
-  async function decryptSyncToken(pin) {
-    const sync = auth && auth.sync;
-    if (!sync || !sync.tokenEnc || !sync.iv || !sync.tag) {
-      throw new Error('Sync is not configured');
-    }
-    const key = await deriveAesKey(pin, auth.salt, sync.iterations);
-    const iv = b64ToBytes(sync.iv);
-    const tag = b64ToBytes(sync.tag);
-    const data = b64ToBytes(sync.tokenEnc);
-    const combined = new Uint8Array(data.length + tag.length);
-    combined.set(data, 0);
-    combined.set(tag, data.length);
-    const plain = await crypto.subtle.decrypt(
-      { name: 'AES-GCM', iv },
-      key,
-      combined
-    );
-    return new TextDecoder().decode(plain);
-  }
-
-  function rememberSyncToken(token) {
-    syncToken = token || null;
-    try {
-      if (token) localStorage.setItem(SYNC_TOKEN_KEY, token);
-      else localStorage.removeItem(SYNC_TOKEN_KEY);
-    } catch (_) {}
-  }
-
-  function loadRememberedSyncToken() {
-    try {
-      syncToken = localStorage.getItem(SYNC_TOKEN_KEY) || null;
-    } catch (_) {
-      syncToken = null;
-    }
-    return syncToken;
-  }
-
-  function syncConfigured() {
-    return !!(auth && auth.sync && auth.sync.gistId && auth.sync.tokenEnc);
-  }
-
-  function gistApiUrl() {
-    return `https://api.github.com/gists/${auth.sync.gistId}`;
-  }
-
-  function setSyncStatus(msg) {
-    if (!refreshStatus) return;
-    if (!msg) {
-      refreshStatus.hidden = true;
-      refreshStatus.textContent = '';
-      return;
-    }
-    refreshStatus.hidden = false;
-    refreshStatus.textContent = msg;
-  }
-
-  async function pullRemoteState() {
-    if (!syncConfigured() || !syncToken) return null;
-    const res = await fetch(gistApiUrl(), {
-      headers: {
-        Accept: 'application/vnd.github+json',
-        Authorization: `Bearer ${syncToken}`,
-        'X-GitHub-Api-Version': '2022-11-28',
-      },
-      cache: 'no-store',
-    });
-    if (!res.ok) throw new Error(`Sync pull failed (${res.status})`);
-    const gist = await res.json();
-    const file =
-      (gist.files && (gist.files['reader-state.json'] || Object.values(gist.files)[0])) || null;
-    if (!file) return null;
-    gistFileSha = file.raw_url || null;
-    let parsed = { read: [], removed: [] };
-    if (file.content) {
-      parsed = JSON.parse(file.content);
-    } else if (file.raw_url) {
-      const raw = await fetch(file.raw_url + (file.raw_url.includes('?') ? '&' : '?') + '_=' + Date.now(), {
-        cache: 'no-store',
-        headers: { Authorization: `Bearer ${syncToken}` },
-      });
-      if (raw.ok) parsed = await raw.json();
-    }
-    applyState(parsed, { saveLocal: true });
-    try {
-      localStorage.setItem(
-        SYNC_META_KEY,
-        JSON.stringify({ pulledAt: Date.now(), updated: parsed.updated || null })
-      );
-    } catch (_) {}
-    return parsed;
-  }
-
-  async function pushRemoteState() {
-    if (!syncConfigured() || !syncToken) return false;
-    const body = currentState();
-    // Also mirror into local site cache shape
-    const content = JSON.stringify(body, null, 2);
-    const res = await fetch(gistApiUrl(), {
-      method: 'PATCH',
-      headers: {
-        Accept: 'application/vnd.github+json',
-        Authorization: `Bearer ${syncToken}`,
-        'Content-Type': 'application/json',
-        'X-GitHub-Api-Version': '2022-11-28',
-      },
-      body: JSON.stringify({
-        files: {
-          'reader-state.json': { content },
-        },
-      }),
-    });
-    if (!res.ok) {
-      const text = await res.text().catch(() => '');
-      throw new Error(`Sync push failed (${res.status}) ${text.slice(0, 120)}`);
-    }
-    return true;
-  }
-
-  function schedulePush() {
-    if (!syncConfigured() || !syncToken) return;
-    if (pushTimer) clearTimeout(pushTimer);
-    pushTimer = setTimeout(async () => {
-      pushTimer = null;
-      try {
-        await pushRemoteState();
-        setSyncStatus('Saved across devices');
-        window.setTimeout(() => setSyncStatus(''), 2500);
-      } catch (err) {
-        console.error(err);
-        setSyncStatus('Could not sync. Will keep this device.');
-        window.setTimeout(() => setSyncStatus(''), 4000);
-      }
-    }, 400);
-  }
-
-  async function syncNow(reason) {
-    if (!syncConfigured() || !syncToken || syncing) return;
-    syncing = true;
-    try {
-      if (reason !== 'push-only') {
-        await pullRemoteState();
-        render();
-      }
-      await pushRemoteState();
-    } catch (err) {
-      console.error(err);
-      if (reason === 'boot') {
-        setSyncStatus('Sync unavailable — using this device only');
-        window.setTimeout(() => setSyncStatus(''), 4000);
-      }
-    } finally {
-      syncing = false;
-    }
-  }
-
   function markRead(id) {
     const list = loadList(READ_KEY);
     list.push(id);
     saveList(READ_KEY, list);
     render();
-    schedulePush();
   }
 
   function removeStory(id) {
@@ -272,7 +52,12 @@
     list.push(id);
     saveList(REMOVED_KEY, list);
     render();
-    schedulePush();
+  }
+
+  async function sha256Hex(text) {
+    const data = new TextEncoder().encode(text);
+    const digest = await crypto.subtle.digest('SHA-256', data);
+    return [...new Uint8Array(digest)].map((b) => b.toString(16).padStart(2, '0')).join('');
   }
 
   function showUnlocked() {
@@ -310,6 +95,7 @@
   }
 
   function mediaBlock(story, kind) {
+    // Always emit a media column so grid layout never collapses when a photo is missing.
     const cls = kind === 'lead' ? 'lead-media' : 'thumb';
     const loading = kind === 'lead' ? 'eager' : 'lazy';
     const img = imageSrc(story);
@@ -396,11 +182,11 @@
       const reads = loadList(READ_KEY);
       if (reads.includes(id)) {
         saveList(READ_KEY, reads.filter((x) => x !== id));
-        render();
-        schedulePush();
       } else {
         markRead(id);
+        return;
       }
+      render();
     }
   }
 
@@ -444,6 +230,7 @@
       }
     }
 
+    // Prefer archive order (accumulating), then any new from data.json
     if (archive) {
       if (Array.isArray(archive.order)) {
         for (const id of archive.order) {
@@ -465,6 +252,7 @@
 
     ingest(data.stories || []);
 
+    // If data.json has a preferred order for latest batch, put those first while keeping archive rest
     const latestIds = (data.stories || []).map((s) => s && s.id).filter(Boolean);
     const rest = order.filter((id) => !latestIds.includes(id));
     const finalOrder = [...latestIds, ...rest];
@@ -493,9 +281,6 @@
     setRefreshStatus(reason === 'auto' ? 'Checking for updates…' : 'Refreshing…', true);
     try {
       await loadStories(true);
-      if (syncConfigured() && syncToken) {
-        await syncNow('refresh');
-      }
       const when = new Date().toLocaleTimeString('en-US', {
         timeZone: 'America/New_York',
         hour: 'numeric',
@@ -524,6 +309,7 @@
     if (refreshBtn) {
       refreshBtn.addEventListener('click', () => refreshStories('manual'));
     }
+    // Standalone/iPad: no browser refresh chrome — reload stories when app returns.
     document.addEventListener('visibilitychange', () => {
       if (document.visibilityState === 'visible' && !app.hidden) {
         if (Date.now() - lastFetchedAt > 30 * 1000) refreshStories('auto');
@@ -536,12 +322,7 @@
 
   async function bootApp() {
     wireUiOnce();
-    loadRememberedSyncToken();
     await loadStories(true);
-    if (syncConfigured() && syncToken) {
-      await syncNow('boot');
-      render();
-    }
   }
 
   form.addEventListener('submit', async (e) => {
@@ -554,16 +335,6 @@
         gateError.hidden = false;
         pinInput.select();
         return;
-      }
-      if (syncConfigured()) {
-        try {
-          const token = await decryptSyncToken(pin);
-          rememberSyncToken(token);
-        } catch (syncErr) {
-          console.error(syncErr);
-          gateError.textContent = 'Unlocked, but device sync could not start. Reload and try again.';
-          gateError.hidden = false;
-        }
       }
       sessionStorage.setItem(UNLOCK_KEY, '1');
       try { localStorage.setItem(UNLOCK_KEY, '1'); } catch (_) {}
@@ -588,18 +359,8 @@
       return;
     }
 
-    loadRememberedSyncToken();
     const unlocked = sessionStorage.getItem(UNLOCK_KEY) === '1'
       || (function () { try { return localStorage.getItem(UNLOCK_KEY) === '1'; } catch (_) { return false; } })();
-
-    // If sync is on but this device has no sync token yet, ask for PIN again once.
-    if (unlocked && syncConfigured() && !syncToken) {
-      showGate();
-      gateError.textContent = 'Enter your PIN once to turn on sync across devices.';
-      gateError.hidden = false;
-      return;
-    }
-
     if (unlocked) {
       try { sessionStorage.setItem(UNLOCK_KEY, '1'); } catch (_) {}
       showUnlocked();
