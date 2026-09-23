@@ -1,7 +1,7 @@
 {
   "updated": "Wednesday, September 23, 2026 · 11:06 AM ET",
-  "stories": [
-    {
+  "stories": {
+    "4f5610ca9725eb040a390db80364b5aac0606bb9": {
       "n": 1,
       "headline": "DOJ defends Trump’s White House media ban: access is a “privilege,” not a right",
       "cat": "Politics / MAGA",
@@ -12,7 +12,7 @@
       "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260922-trump-media-mb-0727-0f3a85.jpg",
       "id": "4f5610ca9725eb040a390db80364b5aac0606bb9"
     },
-    {
+    "7f626649abfd3c5493487b0cec668153d9078111": {
       "n": 2,
       "headline": "ICE’s “Operation Rotten Apple” nets more than 2,000 arrests across New York",
       "cat": "Immigration / NYC",
@@ -23,7 +23,7 @@
       "image_remote": "https://nypost.com/wp-content/uploads/sites/2/2026/09/rotten-apple.jpg?quality=75&strip=all&w=1200",
       "id": "7f626649abfd3c5493487b0cec668153d9078111"
     },
-    {
+    "b9f9effdde32475829c0ab561f9014572c49b8d2": {
       "n": 3,
       "headline": "Matt Walsh: diesel spiral and Ukraine refinery strikes could fuel a deeper energy crisis",
       "cat": "Matt Walsh",
@@ -34,7 +34,7 @@
       "image_remote": "https://dw-wp-production.imgix.net/2026/09/Zelensky.jpeg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800",
       "id": "b9f9effdde32475829c0ab561f9014572c49b8d2"
     },
-    {
+    "70ea97b5ea1a8fb0610456036462eae312ab2e4e": {
       "n": 4,
       "headline": "Erika Kirk faces online pile-on after fishing-trip photos shared after Charlie’s anniversary",
       "cat": "Charlie Kirk",
@@ -45,7 +45,7 @@
       "image_remote": null,
       "id": "70ea97b5ea1a8fb0610456036462eae312ab2e4e"
     },
-    {
+    "50f97527f3280ed0abe86c6ea53e245a3ef8ef04": {
       "n": 5,
       "headline": "Elon Musk calls Xi a “great leader” and praises Tesla’s Shanghai Gigafactory on Chinese state TV",
       "cat": "Elon Musk",
@@ -56,7 +56,7 @@
       "image_remote": "https://static.independent.co.uk/2026/07/27/21/2026-07-08T205010Z_814711673_RC2Y8LA6L3SL_RTRMADP_3_USA-SEC-MUSK.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
       "id": "50f97527f3280ed0abe86c6ea53e245a3ef8ef04"
     },
-    {
+    "81104d8861cf94c4a9d210c4e00f274552b2e569": {
       "n": 6,
       "headline": "xAI launches Grok 4.7 for coding, agents, and knowledge work — now in GitHub Copilot",
       "cat": "AI / Grok",
@@ -67,7 +67,7 @@
       "image_remote": "https://x.ai/images/news/grok-4-7-og.webp",
       "id": "81104d8861cf94c4a9d210c4e00f274552b2e569"
     },
-    {
+    "a6a1c769ad206ea8ac84b34fb98b2510edb4b290": {
       "n": 7,
       "headline": "iPhone Duo countdown: 15 features to know before October pre-orders",
       "cat": "Apple",
@@ -78,7 +78,7 @@
       "image_remote": "https://images.macrumors.com/t/vQoWWBdb9EXLwtxwl0qVyebYGfQ=/1600x/article-new/2026/09/iphone-duo-colors.jpg",
       "id": "a6a1c769ad206ea8ac84b34fb98b2510edb4b290"
     },
-    {
+    "c6c0ec5dc6b42fdc55ea9fdbeb2262dc5a8f0cd5": {
       "n": 8,
       "headline": "LEGO Ideas Downton Abbey: 4,711-piece Highclere Castle set arrives in October",
       "cat": "LEGO",
@@ -89,7 +89,7 @@
       "image_remote": "https://www.lego.com/cdn/cs/aboutus/assets/blt720aab6b14adb02d/21373_Highclere_Castle_1.jpg?width=1200",
       "id": "c6c0ec5dc6b42fdc55ea9fdbeb2262dc5a8f0cd5"
     },
-    {
+    "6d55e4dc3590aa4c7434be4ce518f41cef64a8a8": {
       "n": 9,
       "headline": "Canon EOS R8 Mark II: lightweight full-frame with stronger IBIS and film-tone looks",
       "cat": "Photography / Canon",
@@ -100,7 +100,7 @@
       "image_remote": "https://sg.canon/media/image/2026/09/14/3385d09de34346e6b370fb94b605b4be_EOS%20R8%20Mark%20II%20Inspires%20Users%20to%20See%20the%20World%20Differently.jpg",
       "id": "6d55e4dc3590aa4c7434be4ce518f41cef64a8a8"
     },
-    {
+    "e8728dafc9ef42b62fc460417f05efa0ecc0855b": {
       "n": 10,
       "headline": "Insta360 Luna Pro goes global: Leica-tuned gimbal camera with 8K and 4K vertical video",
       "cat": "Photography / Insta360",
@@ -111,7 +111,7 @@
       "image_remote": "https://petapixel.com/assets/uploads/2026/09/Luna-Pro_PIU_12.jpg",
       "id": "e8728dafc9ef42b62fc460417f05efa0ecc0855b"
     },
-    {
+    "4a7ed0ac79e76feb9de2c938c25581268305016f": {
       "n": 11,
       "headline": "Harley-Davidson and Realtree drop second limited-edition camo apparel collection",
       "cat": "Harley-Davidson",
@@ -122,7 +122,7 @@
       "image_remote": "https://mmx.prnewswire.com/media/MS1989840/Harley-Davidson-Motor-Company-and-realtree.jpg?id=OA2953000&p=facebook",
       "id": "4a7ed0ac79e76feb9de2c938c25581268305016f"
     },
-    {
+    "4e351a7cffe6a1e21731c0937be201caca32a36d": {
       "n": 12,
       "headline": "2027 Jeep Wrangler JL-2A: retro tribute to the original Willys CJ-2A",
       "cat": "Jeep",
@@ -133,7 +133,7 @@
       "image_remote": "https://hips.hearstapps.com/hmg-prod/images/ea4ce669-15fe-4b53-8a7f-46b6fc434d33.jpg?crop=1xw:0.75xh;center,top&resize=1200:*",
       "id": "4e351a7cffe6a1e21731c0937be201caca32a36d"
     },
-    {
+    "56a188d871ef3e10e53a57ddf011c72500c580b1": {
       "n": 13,
       "headline": "GM technical bulletin targets valvetrain tick: rocker arms and lash adjusters under scrutiny",
       "cat": "Auto reliability",
@@ -144,7 +144,7 @@
       "image_remote": "https://gmauthority.com/blog/wp-content/uploads/2022/05/2022-GMC-Sierra-1500-Elevation-Crew-Cab-Short-Box-Exterior-001-Quicksilver-Metallic-front-three-quarters.jpg",
       "id": "56a188d871ef3e10e53a57ddf011c72500c580b1"
     },
-    {
+    "cd48006473a9cb3147981dde2577d2e218959ab6": {
       "n": 14,
       "headline": "Five Finger Death Punch drops “Legacy” music video as physical albums hit shelves",
       "cat": "Heavy metal",
@@ -155,7 +155,7 @@
       "image_remote": "https://assets.blabbermouth.net/media/fivefingerdeathpunchjune2026_638.jpg",
       "id": "cd48006473a9cb3147981dde2577d2e218959ab6"
     },
-    {
+    "2a88c2a0701ed6aea7e0e91e8efa512eb107c72a": {
       "n": 15,
       "headline": "Jets reshuffle roster: Onyemata to IR, Reeder and others elevated after Packers loss",
       "cat": "Jets football",
@@ -166,7 +166,7 @@
       "image_remote": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/jets/kcc5cmglkzaccmvwfdve",
       "id": "2a88c2a0701ed6aea7e0e91e8efa512eb107c72a"
     },
-    {
+    "e2a63fc3fdc76961a27aa83ac6bc7410bf80a3b1": {
       "n": 16,
       "headline": "Penguins’ center depth already tested as Kindel and Lizotte deal with injuries",
       "cat": "Penguins hockey",
@@ -177,7 +177,7 @@
       "image_remote": "https://assets-varnish.triblive.com/2026/09/9967137_web1_ptr-Kindel03-102325.jpg",
       "id": "e2a63fc3fdc76961a27aa83ac6bc7410bf80a3b1"
     },
-    {
+    "e481ff19f4eb3139072ca507fcb8cc387e27bd67": {
       "n": 17,
       "headline": "Connecticut Renaissance Faire heads into Faerie Ring Revels weekend (Sept 26–27)",
       "cat": "Renaissance faires",
@@ -188,7 +188,7 @@
       "image_remote": null,
       "id": "e481ff19f4eb3139072ca507fcb8cc387e27bd67"
     },
-    {
+    "f0c3da000241fb7c903f09cc74344aa1cad96961": {
       "n": 18,
       "headline": "Adirondacks travel pitch: peak foliage paired with family adventure",
       "cat": "USA travel",
@@ -199,7 +199,7 @@
       "image_remote": null,
       "id": "f0c3da000241fb7c903f09cc74344aa1cad96961"
     },
-    {
+    "6975ad191d5193a5b736715f9800be6f38a46fd2": {
       "n": 19,
       "headline": "Westport Volunteer EMS recruiting for EMT course — life-saving skills for Fairfield County",
       "cat": "Westport CT EMS",
@@ -210,7 +210,7 @@
       "image_remote": "https://westportjournal.com/wp-content/uploads/2026/02/Image-WEVMS.png",
       "id": "6975ad191d5193a5b736715f9800be6f38a46fd2"
     },
-    {
+    "7b5dabe2899a0b12cb00d51c8ec369b244c6ae50": {
       "n": 20,
       "headline": "Karen Woodall clarifies unauthorized article and distances work from PASG framing",
       "cat": "Parental alienation",
@@ -221,5 +221,27 @@
       "image_remote": "https://karenwoodall.blog/wp-content/uploads/2026/09/screenshot-2026-09-11-at-12.36.21.png",
       "id": "7b5dabe2899a0b12cb00d51c8ec369b244c6ae50"
     }
+  },
+  "order": [
+    "4f5610ca9725eb040a390db80364b5aac0606bb9",
+    "7f626649abfd3c5493487b0cec668153d9078111",
+    "b9f9effdde32475829c0ab561f9014572c49b8d2",
+    "70ea97b5ea1a8fb0610456036462eae312ab2e4e",
+    "50f97527f3280ed0abe86c6ea53e245a3ef8ef04",
+    "81104d8861cf94c4a9d210c4e00f274552b2e569",
+    "a6a1c769ad206ea8ac84b34fb98b2510edb4b290",
+    "c6c0ec5dc6b42fdc55ea9fdbeb2262dc5a8f0cd5",
+    "6d55e4dc3590aa4c7434be4ce518f41cef64a8a8",
+    "e8728dafc9ef42b62fc460417f05efa0ecc0855b",
+    "4a7ed0ac79e76feb9de2c938c25581268305016f",
+    "4e351a7cffe6a1e21731c0937be201caca32a36d",
+    "56a188d871ef3e10e53a57ddf011c72500c580b1",
+    "cd48006473a9cb3147981dde2577d2e218959ab6",
+    "2a88c2a0701ed6aea7e0e91e8efa512eb107c72a",
+    "e2a63fc3fdc76961a27aa83ac6bc7410bf80a3b1",
+    "e481ff19f4eb3139072ca507fcb8cc387e27bd67",
+    "f0c3da000241fb7c903f09cc74344aa1cad96961",
+    "6975ad191d5193a5b736715f9800be6f38a46fd2",
+    "7b5dabe2899a0b12cb00d51c8ec369b244c6ae50"
   ]
 }
