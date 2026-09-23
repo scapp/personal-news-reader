@@ -16,6 +16,8 @@
   const feedEl = document.getElementById('feed');
   const emptyEl = document.getElementById('empty');
   const hideReadToggle = document.getElementById('hide-read');
+  const refreshBtn = document.getElementById('refresh-btn');
+  const refreshStatus = document.getElementById('refresh-status');
 
   let auth = null;
   let stories = [];
@@ -194,10 +196,22 @@
     return hex === String(auth.pinHash).toLowerCase();
   }
 
-  async function loadJson(path) {
-    const res = await fetch(path, { cache: 'no-store' });
+  async function loadJson(path, bust) {
+    const url = bust ? `${path}${path.includes('?') ? '&' : '?'}_=${Date.now()}` : path;
+    const res = await fetch(url, { cache: 'no-store' });
     if (!res.ok) throw new Error(`Failed to load ${path}: ${res.status}`);
     return res.json();
+  }
+
+  function setRefreshStatus(msg, show) {
+    if (!refreshStatus) return;
+    if (!show) {
+      refreshStatus.hidden = true;
+      refreshStatus.textContent = '';
+      return;
+    }
+    refreshStatus.hidden = false;
+    refreshStatus.textContent = msg;
   }
 
   function mergeStories(data, archive) {
@@ -245,20 +259,70 @@
     return finalOrder.map((id) => byId.get(id)).filter(Boolean);
   }
 
-  async function bootApp() {
+  let wired = false;
+  let refreshing = false;
+  let lastFetchedAt = 0;
+
+  async function loadStories(bust) {
     const [data, archive] = await Promise.all([
-      loadJson('data.json'),
-      loadJson('archive.json').catch(() => null),
+      loadJson('data.json', bust),
+      loadJson('archive.json', bust).catch(() => null),
     ]);
     updatedLabel = data.updated || (archive && archive.updated) || '';
     stories = mergeStories(data, archive);
+    lastFetchedAt = Date.now();
+    render();
+  }
+
+  async function refreshStories(reason) {
+    if (refreshing || app.hidden) return;
+    refreshing = true;
+    if (refreshBtn) refreshBtn.disabled = true;
+    setRefreshStatus(reason === 'auto' ? 'Checking for updates…' : 'Refreshing…', true);
+    try {
+      await loadStories(true);
+      const when = new Date().toLocaleTimeString('en-US', {
+        timeZone: 'America/New_York',
+        hour: 'numeric',
+        minute: '2-digit',
+      });
+      setRefreshStatus(`Updated ${when} ET`, true);
+      window.setTimeout(() => setRefreshStatus('', false), 4000);
+    } catch (err) {
+      console.error(err);
+      setRefreshStatus('Refresh failed. Try again.', true);
+    } finally {
+      refreshing = false;
+      if (refreshBtn) refreshBtn.disabled = false;
+    }
+  }
+
+  function wireUiOnce() {
+    if (wired) return;
+    wired = true;
     hideReadToggle.checked = localStorage.getItem(HIDE_READ_KEY) === '1';
     hideReadToggle.addEventListener('change', () => {
       localStorage.setItem(HIDE_READ_KEY, hideReadToggle.checked ? '1' : '0');
       render();
     });
     document.addEventListener('click', onClick);
-    render();
+    if (refreshBtn) {
+      refreshBtn.addEventListener('click', () => refreshStories('manual'));
+    }
+    // Standalone/iPad: no browser refresh chrome — reload stories when app returns.
+    document.addEventListener('visibilitychange', () => {
+      if (document.visibilityState === 'visible' && !app.hidden) {
+        if (Date.now() - lastFetchedAt > 30 * 1000) refreshStories('auto');
+      }
+    });
+    window.addEventListener('pageshow', (e) => {
+      if (e.persisted && !app.hidden) refreshStories('auto');
+    });
+  }
+
+  async function bootApp() {
+    wireUiOnce();
+    await loadStories(true);
   }
 
   form.addEventListener('submit', async (e) => {
@@ -273,6 +337,7 @@
         return;
       }
       sessionStorage.setItem(UNLOCK_KEY, '1');
+      try { localStorage.setItem(UNLOCK_KEY, '1'); } catch (_) {}
       pinInput.value = '';
       showUnlocked();
       await bootApp();
@@ -294,7 +359,10 @@
       return;
     }
 
-    if (sessionStorage.getItem(UNLOCK_KEY) === '1') {
+    const unlocked = sessionStorage.getItem(UNLOCK_KEY) === '1'
+      || (function () { try { return localStorage.getItem(UNLOCK_KEY) === '1'; } catch (_) { return false; } })();
+    if (unlocked) {
+      try { sessionStorage.setItem(UNLOCK_KEY, '1'); } catch (_) {}
       showUnlocked();
       try {
         await bootApp();

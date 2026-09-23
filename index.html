@@ -35,13 +35,17 @@
       <div class="inner">
         <div class="masthead-top">
           <p class="eyebrow">Private brief</p>
-          <label class="toggle">
-            <input type="checkbox" id="hide-read">
-            <span>Hide read</span>
-          </label>
+          <div class="masthead-actions">
+            <button type="button" id="refresh-btn" class="refresh-btn" aria-label="Refresh stories">Refresh</button>
+            <label class="toggle">
+              <input type="checkbox" id="hide-read">
+              <span>Hide read</span>
+            </label>
+          </div>
         </div>
         <h1>Personal News</h1>
         <p class="deck" id="subtitle">Loading…</p>
+        <p id="refresh-status" class="refresh-status" hidden></p>
       </div>
     </header>
 
