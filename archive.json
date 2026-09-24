@@ -1,5 +1,17 @@
 {
   "order": [
+    "3a93aea5ea8d7952ea359b7b0b33e5c8c19ce9c5",
+    "7ad361b690cbe3b1d1a690a7d17f2c61914a39b8",
+    "a63b96e89c4cb5d56a58f8fbf434e999d18345d8",
+    "23ba96dda2c9319619179bfd14fe1394cf9cf772",
+    "676817f046483a7716cace9d995af932aa453469",
+    "9acc0b6c4881ecff2983f3f3a6de88fbf990b7a2",
+    "d1b1c11835d42edc23218806a1391c9c1f98db49",
+    "5221d7b8223516dda16099ed945eca4d25e5db3d",
+    "7a2fbfdc05f854fabdd655dc24039f721e94c9df",
+    "064b64d214eb4bdf6e0922f3d5285b268d0082b2",
+    "34a82f67f6d21b76e478424229a4f9ccabf056c8",
+    "bc3e60a12d7cf2e855a97a3570bb506833a72e44",
     "80489350cde9f94ae03e3cf2d8ec46a61f1d45c3",
     "ba54a72e5915d613fac1f0dbce28b090385f96f2",
     "502efc0f5e2450cf9751e36b66bac6ff6e81383a",
@@ -1319,6 +1331,138 @@
       "id": "defc86a047b185d0704fc9d272f2229807f94ef0",
       "image_local": "images/story-109.jpg",
       "n": 11
+    },
+    "3a93aea5ea8d7952ea359b7b0b33e5c8c19ce9c5": {
+      "headline": "Trumbull Dog Day Festival Oct. 3 at Unity Park Pavilion",
+      "cat": "Local / Trumbull CT",
+      "source": "Patch Trumbull",
+      "url": "https://patch.com/connecticut/trumbull/trumbull-dog-day-festival-2026-details-announced",
+      "summary": "Trumbull Parks and Recreation will host the town’s first Dog Day Festival on Saturday, October 3, from 11 a.m. to 2 p.m. at the Unity Park Pavilion on White Plains Road. The rain-or-shine event, presented with Choice Pet and Trumbull Animal Group, features pet vendors, demos, giveaways, a dog parade, and treats. Admission and parking are free; donations benefit Trumbull Animal Group, and all dogs must stay leashed.",
+      "image_remote": "https://patch.com/img/cdn20/users/22878689/20260831/062937/styles/patch_image/public/img-3273___31182824184.jpg",
+      "image_local": "images/story-110.jpg",
+      "id": "3a93aea5ea8d7952ea359b7b0b33e5c8c19ce9c5",
+      "n": 1
+    },
+    "7ad361b690cbe3b1d1a690a7d17f2c61914a39b8": {
+      "headline": "White House reluctantly restores CNN, MS NOW, Politico after morning denials",
+      "cat": "Media / Free speech",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-media-access-white-house-ban-b3055751.html",
+      "summary": "After Judge Timothy Kelly’s overnight order reinstating White House hard passes, reporters from CNN, MS NOW, and Politico were still turned away Thursday morning—MS NOW’s Laura Barrón-López said her badge flashed red and was confiscated. Outlets told the court the administration had “already repeatedly violated” the order. Passes were reinstated around noon, just before a 12:30 p.m. deadline, as Xi Jinping’s state visit filled the day’s schedule.",
+      "image_remote": "https://static.independent.co.uk/2026/09/24/14/2026-09-24T131114Z_1595012375_RC2PPNA1C8KE_RTRMADP_3_USA-TRUMP-MEDIA.JPG?width=1200",
+      "image_local": "images/story-111.jpg",
+      "id": "7ad361b690cbe3b1d1a690a7d17f2c61914a39b8",
+      "n": 2
+    },
+    "a63b96e89c4cb5d56a58f8fbf434e999d18345d8": {
+      "headline": "Iowa judge dismisses Trump’s lawsuit against pollster Ann Selzer",
+      "cat": "Politics / MAGA",
+      "source": "NBC News / AP",
+      "url": "https://www.nbcnews.com/politics/donald-trump/iowa-judge-dismisses-trump-lawsuit-ann-selzer-des-moines-register-rcna599543",
+      "summary": "Iowa District Judge Scott Beattie dismissed President Trump’s consumer-fraud suit against pollster J. Ann Selzer and The Des Moines Register over a late-2024 Iowa poll that showed Harris ahead. Beattie held that political polling and press coverage are protected speech, warning a lawsuit like this could chill debate of public affairs. Trump’s team said it will appeal to the Iowa Supreme Court.",
+      "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260923-Des-Moines-Register-newspaper-vsb-2021-79f0cb.jpg",
+      "image_local": "images/story-112.jpg",
+      "id": "a63b96e89c4cb5d56a58f8fbf434e999d18345d8",
+      "n": 3
+    },
+    "23ba96dda2c9319619179bfd14fe1394cf9cf772": {
+      "headline": "Democrats sue to keep armed federal agents away from midterm polls",
+      "cat": "Politics / MAGA",
+      "source": "Democracy Docket",
+      "url": "https://www.democracydocket.com/news-alerts/democrats-sue-trump-admin-to-keep-armed-agents-from-polls-during-midterms/",
+      "summary": "The DSCC, DCCC, DGA, and Democratic leaders Chuck Schumer and Hakeem Jeffries sued late Wednesday to block DHS, ICE, and the FBI from stationing armed agents near polling places, drop boxes, or counting sites. They cite Voting Rights Act Section 11(b) and a federal statute barring armed federal personnel at elections, arguing even threats of agents chill naturalized and mixed-status voters. A separate NAACP-led coalition filed a related challenge days earlier.",
+      "image_remote": "https://www.democracydocket.com/wp-content/uploads/2026/09/GettyImages-2277720954-1024x683.jpg",
+      "image_local": "images/story-113.jpg",
+      "id": "23ba96dda2c9319619179bfd14fe1394cf9cf772",
+      "n": 4
+    },
+    "676817f046483a7716cace9d995af932aa453469": {
+      "headline": "Congressman: Venezuelan man shot by ICE still has bullet near spine",
+      "cat": "Immigration / Crime",
+      "source": "NBC News / AP",
+      "url": "https://www.nbcnews.com/news/us-news/congressman-says-venezuelan-man-shot-ice-taken-custody-told-needs-surg-rcna599627",
+      "summary": "Rep. Greg Casar visited Wilber Rafael Garces Perez, 28, at a South Texas ICE detention center and said a specialist told the DoorDash driver he needs surgery to remove a bullet lodged near his spine after Sunday’s Austin shooting. Garces Perez was in a wheelchair with a still-bloody back wound; DHS says he is receiving round-the-clock care and denies delaying surgery. His attorney says he was an asylum seeker with a work permit when an unmarked ICE truck sideswiped his car.",
+      "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260924-Greg-Casar-ch-1053-3c8100.jpg",
+      "image_local": "images/story-114.jpg",
+      "id": "676817f046483a7716cace9d995af932aa453469",
+      "n": 5
+    },
+    "9acc0b6c4881ecff2983f3f3a6de88fbf990b7a2": {
+      "headline": "Apple’s past month: 12 new products from Mac mini to Beats 360",
+      "cat": "Apple",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/09/24/apple-12-new-products-in-past-month/",
+      "summary": "MacRumors tallied a dozen Apple announces since late August: refreshed Mac mini and Mac Studio, a new Polishing Cloth, iPhone 18 Pro/Pro Max, foldable iPhone Duo, Watch Series 12 and Ultra 4, AirPods 5, Beats 360, a Wrist Strap accessory, and an updated Watch charging cable. The roundup is a handy checklist for anyone catching up after the September event wave—and a reminder how crowded Apple’s fall cadence has become.",
+      "image_remote": "https://images.macrumors.com/article-new/2026/01/Apple-Event-Logo.jpeg",
+      "image_local": "images/story-115.jpg",
+      "id": "9acc0b6c4881ecff2983f3f3a6de88fbf990b7a2",
+      "n": 6
+    },
+    "d1b1c11835d42edc23218806a1391c9c1f98db49": {
+      "headline": "Meta’s $1,299 VR Glasses: 100g, 5K per eye, spring 2027",
+      "cat": "Gadgets / Tech",
+      "source": "Android Authority",
+      "url": "https://www.androidauthority.com/meta-vr-glasses-launch-3714878/",
+      "summary": "Meta’s new VR Glasses ditch the Quest head-strap look for sunglass-style frames at about 100 grams—five times lighter than Quest 3—with processing, storage, and battery in a tethered puck. Micro-OLED displays deliver 5K per eye with Dolby Vision and IMAX Enhanced cinema modes, plus desk-projected keyboard/trackpad and hologram calling. Priced at $1,299, they are slated for spring 2027 as Meta’s answer to a lighter Vision Pro-class experience.",
+      "image_remote": "https://www.androidauthority.com/wp-content/uploads/2026/09/meta-vr-glasses-on-face.jpg",
+      "image_local": "images/story-116.jpg",
+      "id": "d1b1c11835d42edc23218806a1391c9c1f98db49",
+      "n": 7
+    },
+    "5221d7b8223516dda16099ed945eca4d25e5db3d": {
+      "headline": "Jets Thursday injury report: Fitzpatrick, Mauigoa, Taylor still out",
+      "cat": "Jets football",
+      "source": "New York Jets",
+      "url": "https://www.newyorkjets.com/news/jets-injury-report-week-3-vs-lions-thursday-09-24-2026",
+      "summary": "Four Jets again did not practice Thursday ahead of Sunday’s Lions game: safety Minkah Fitzpatrick (groin), linebacker Kiko Mauigoa (quad), running back Kene Nwangwu (back), and tight end Mason Taylor (thumb). Wideout Adonai Mitchell (finger) and edge Joseph Ossai (foot) were limited; David Bailey (elbow) was full. Game statuses come Friday as New York prepares for Ford Field.",
+      "image_remote": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/jets/prqyhtnhvuzz4e3jrvfw",
+      "image_local": "images/story-117.jpg",
+      "id": "5221d7b8223516dda16099ed945eca4d25e5db3d",
+      "n": 8
+    },
+    "7a2fbfdc05f854fabdd655dc24039f721e94c9df": {
+      "headline": "Tesla Semi Rollout livestream tonight 6 p.m. PDT from Sparks factory",
+      "cat": "Elon Musk / Tesla",
+      "source": "Tesla North",
+      "url": "https://teslanorth.com/2026/09/24/tesla-semi-livestream-september-24/",
+      "summary": "Tesla Semi will livestream Thursday’s invite-only Rollout from the new Sparks, Nevada, high-volume factory starting at 6 p.m. Pacific (9 p.m. Eastern). The 1.7-million-square-foot plant—sized for up to 50,000 trucks a year with on-site 4680 cells—moves from construction into a public inauguration with tours and ride-alongs. Expect production, delivery-customer, and Megacharger updates once the cameras roll.",
+      "image_remote": "https://cdn.teslanorth.com/wp-content/uploads/2026/09/tesla-semi-zet-scale-1200.jpg",
+      "image_local": "images/story-118.jpg",
+      "id": "7a2fbfdc05f854fabdd655dc24039f721e94c9df",
+      "n": 9
+    },
+    "064b64d214eb4bdf6e0922f3d5285b268d0082b2": {
+      "headline": "LEGO Icons Bookshop Book Nook (11379): 1,690 pieces, $149.99, Oct. 1",
+      "cat": "LEGO",
+      "source": "Brickset",
+      "url": "https://brickset.com/article/134482/lego-icons-11379-bookshop-book-nook-revealed!",
+      "summary": "LEGO’s Icons Bookshop: Book Nook (11379) continues the adult book-nook line with 1,690 pieces for $149.99 / £119.99, on sale October 1. The foldable two-storey bookshop display includes a spiral staircase, reading nooks, literature Easter eggs, and author and reader minifigures meant to sit between real books on a shelf. Fans praise the detail; many call the sticker-heavy unlicensed set steep at the U.S. price.",
+      "image_remote": "https://brickset.com/utils/ogimage/article/134482?83494",
+      "image_local": "images/story-119.jpg",
+      "id": "064b64d214eb4bdf6e0922f3d5285b268d0082b2",
+      "n": 10
+    },
+    "34a82f67f6d21b76e478424229a4f9ccabf056c8": {
+      "headline": "Penguins trim camp roster again; Gauthier assigned after waivers",
+      "cat": "Penguins hockey",
+      "source": "The Hockey News",
+      "url": "https://thehockeynews.com/nhl/pittsburgh-penguins/latest-news/penguins-announce-big-second-wave-of-roster-cuts",
+      "summary": "Pittsburgh’s second Thursday cut wave sent a batch of forwards and defensemen to Wilkes-Barre/Scranton and assigned goaltender Taylor Gauthier to the AHL after he cleared waivers. Melvin Fernstrom and Gabriel D’Aigle were designated injured non-roster; Phil Kemp was waived for assignment. Camp is down to 45 players ahead of more possible Friday cuts and Thursday night’s preseason game at Columbus.",
+      "image_remote": "https://deweb-519a7.b-cdn.net/post-images/e94b520a-2593-417e-8764-b721955724d5.jpeg",
+      "image_local": "images/story-120.jpg",
+      "id": "34a82f67f6d21b76e478424229a4f9ccabf056c8",
+      "n": 11
+    },
+    "bc3e60a12d7cf2e855a97a3570bb506833a72e44": {
+      "headline": "Vermont foliage heating up as cold nights push mountain color",
+      "cat": "USA travel",
+      "source": "VTDigger",
+      "url": "https://vtdigger.org/2026/09/24/cold-september-nights-have-vermonts-foliage-heating-up/",
+      "summary": "VTDigger’s weekly foliage tracker says moderate color is already strong across the Green Mountains and Northeast Kingdom, with high peaks near peak while valleys lag. Cold September nights are accelerating change; expect near-peak mountain color by next weekend if sunshine returns after Monday. A nor’easter passes south this weekend—cooler highs in the upper 50s to low 60s and light rain, heaviest in southern Vermont.",
+      "image_remote": "https://vtdigger.org/wp-content/uploads/2026/09/Foliage-09222026-feature.jpg",
+      "image_local": "images/story-121.jpg",
+      "id": "bc3e60a12d7cf2e855a97a3570bb506833a72e44",
+      "n": 12
     }
   }
 }
