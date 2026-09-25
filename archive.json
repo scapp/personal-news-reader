@@ -1,5 +1,17 @@
 {
   "order": [
+    "c0362a9cda55d1afffc28816da6998b33d4ee64d",
+    "196438fc436b324e0ce6f38678eb90fe2c9f9095",
+    "9cd1ca2d6d06e3acf6c2596fd8ca0b3ca310b4ac",
+    "cac80f23e1684569a38276327a1bfb181f98f3d8",
+    "daa31717be9eb7f68d9bd64c1b1b6d2b13d5ae50",
+    "142b7a995017abbd890afd8e7533c5848b363fd0",
+    "90d3aca5a326e3e313b9c4f1d8684883ee0c15c9",
+    "664c1645ba4360012e874015818cb84871357253",
+    "ffefa32311fe43fa6ea2951a278270565cb50c89",
+    "9dec904fa462289ea6b86e82ace07ba0c097e194",
+    "b6ad761f2fed82486fac166c0724749fa3c265df",
+    "68842afeb3bb94b6fd65133a54f7fc778fc66297",
     "a51e8bf028eb1a53147e91533c72e669aff60684",
     "52090a36294737ee23549be657afb75965f5000c",
     "3276da8004cc960f98534927782755e204dd74fc",
@@ -1775,6 +1787,138 @@
       "image_local": "images/story-146.jpg",
       "id": "c37124f3360f996307694cd2aa8846822f33e6cf",
       "n": 14
+    },
+    "c0362a9cda55d1afffc28816da6998b33d4ee64d": {
+      "headline": "Trumbull Eagles bounce back 27–14 over Crosby; Volpicelli racks up 116 yards and 2 scores",
+      "cat": "Local / Trumbull CT",
+      "source": "MaxPreps",
+      "url": "https://www.maxpreps.com/news/IErn26ott0-UuWnMGWu_8A/football-recap-cade-volpicelli-comes-up-big-in-trumbulls-win.htm",
+      "summary": "After a blowout loss to New Canaan, Trumbull beat Crosby 27–14 as Cade Volpicelli hauled in 116 receiving yards and two touchdowns, including a 75-yard score. The Eagles piled up 422 total yards to move to 1–1 and host Norwalk at 7 p.m. Friday for their home opener.",
+      "image_remote": "https://image.maxpreps.io/target/1aee8e0d-a759-4841-ae88-19ad147f0e83/thumbnails/1aee8e0d-a759-4841-ae88-19ad147f0e83_1920x1080.jpg",
+      "image_local": "images/story-147.jpg",
+      "id": "c0362a9cda55d1afffc28816da6998b33d4ee64d",
+      "n": 1
+    },
+    "196438fc436b324e0ce6f38678eb90fe2c9f9095": {
+      "headline": "Xi caps Trump state visit with National Archives tour before departing Washington",
+      "cat": "Politics / MAGA",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/xi-caps-trump-state-visit-symbolic-final-stop-before-leaving-washington",
+      "summary": "After Oval Office talks on tariffs, rare earths, fentanyl, and export controls, Trump and Xi closed the two-and-a-half-day summit with morning tea and a National Archives viewing of historic U.S.–China records. Xi also announced two pandas for Zoo Atlanta and invited 100,000 young Americans to visit China, while Hong Kong protests echoed outside the White House.",
+      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/xi-jinping-donald-trump-split.jpg",
+      "image_local": "images/story-148.jpg",
+      "id": "196438fc436b324e0ce6f38678eb90fe2c9f9095",
+      "n": 2
+    },
+    "9cd1ca2d6d06e3acf6c2596fd8ca0b3ca310b4ac": {
+      "headline": "Mike Lee presses SAVE Act after report of 30,000 noncitizens mistakenly on voter rolls",
+      "cat": "Politics / MAGA",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/mike-lee-explodes-voting-error-keeps-happening-huge-number-noncitizens-found-rolls",
+      "summary": "Sen. Mike Lee (R-Utah) blasted resistance to the SAVE America Act after a Reuters review found more than 30,000 self-declared noncitizens added to U.S. voter rolls since 2000, largely blamed on software and clerical errors. Lee argued current bans on noncitizen voting are nearly unenforceable and urged citizenship verification plus voter ID; the House-passed bill remains stalled in the Senate.",
+      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/mike-lee-angry.png",
+      "image_local": "images/story-149.jpg",
+      "id": "9cd1ca2d6d06e3acf6c2596fd8ca0b3ca310b4ac",
+      "n": 3
+    },
+    "cac80f23e1684569a38276327a1bfb181f98f3d8": {
+      "headline": "ICE Dallas arrests 121 in Lake Lewisville summer ops — including two Tren de Aragua members",
+      "cat": "Immigration",
+      "source": "ICE",
+      "url": "https://www.ice.gov/news/releases/ice-arrests-121-during-summer-enforcement-initiative-texas-lake-community-including-2",
+      "summary": "ICE Dallas said a summer enforcement initiative around Lake Lewisville netted 121 arrests, including two self-admitted Tren de Aragua members investigated for an illegal boat-livery operation. Partners helped free local officers for peak boating season while targeting assault, family violence, DWI, and child sex-offense histories among those taken into custody.",
+      "image_remote": "https://www.ice.gov/sites/default/files/2026-09/260925dallas1.jpg",
+      "image_local": "images/story-150.jpg",
+      "id": "cac80f23e1684569a38276327a1bfb181f98f3d8",
+      "n": 4
+    },
+    "daa31717be9eb7f68d9bd64c1b1b6d2b13d5ae50": {
+      "headline": "Man charged with arson after fire at Montville halfway house with 23 people inside",
+      "cat": "Crime / Public safety",
+      "source": "WFSB",
+      "url": "https://www.wfsb.com/2026/09/25/man-charged-with-arson-following-fire-halfway-house-montville/",
+      "summary": "Connecticut State Police say Juan Betancourt, 42, of New Haven, lit a fire Thursday night at Cochegan House in Montville, putting 23 people at risk before fleeing. Troopers found him on Route 32; he was charged with first-degree arson, criminal mischief, interfering, and reckless endangerment and held on $250,000 bond.",
+      "image_remote": "https://npr.brightspotcdn.com/dims4/default/0796fcf/2147483647/strip/true/crop/3000x1575+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F81%2Fc7%2F2047245045299aa19f0197bfba2c%2Fnewhartfordhouse-08-10-2021-ja-xxjpg.jpg",
+      "image_local": "images/story-151.jpg",
+      "id": "daa31717be9eb7f68d9bd64c1b1b6d2b13d5ae50",
+      "n": 5
+    },
+    "142b7a995017abbd890afd8e7533c5848b363fd0": {
+      "headline": "Stamford police: two arrested after cocaine-and-gun search warrants",
+      "cat": "Crime / Public safety",
+      "source": "Patch",
+      "url": "https://patch.com/connecticut/stamford/2-arrested-after-officers-seize-bags-drugs-loaded-gun-other-materials-stamford",
+      "summary": "After a monthlong narcotics probe, Stamford detectives executed warrants on Sept. 17 and seized powder cocaine, packaging, a scale, nearly $5,000 cash, and a loaded Smith & Wesson .32 handgun. Victor Martinez, 47, and Brenis Arias-Arias, 53, face drug and weapons charges with court dates set for Oct. 1.",
+      "image_remote": "https://patch.com/img/cdn20/users/24996209/20260924/011346/styles/patch_image/public/stamfordpolicecar2___24131147407.jpg",
+      "image_local": "images/story-152.jpg",
+      "id": "142b7a995017abbd890afd8e7533c5848b363fd0",
+      "n": 6
+    },
+    "90d3aca5a326e3e313b9c4f1d8684883ee0c15c9": {
+      "headline": "iPhone 18 Pro Max ships in four hardware versions — U.S. model keeps Qualcomm modem",
+      "cat": "Apple",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/09/25/apple-sells-four-iphone-18-pro-max-models/",
+      "summary": "MacRumors details four Pro Max SKUs: the U.S. eSIM-only A3473 with mmWave and Qualcomm’s X80 modem, a non-mmWave eSIM model for Canada/Japan, a nano-SIM Europe unit, and a China A3718. eSIM-only phones carry larger ~5,567 mAh batteries versus ~5,391 mAh trayside models — roughly an extra hour of typical use.",
+      "image_remote": "https://images.macrumors.com/t/1yDC7GRVXsadnVVjfBtnqLYGoHU=/1600x/article-new/2026/09/iPhone-18-Pro-16x9-1.jpg",
+      "image_local": "images/story-153.jpg",
+      "id": "90d3aca5a326e3e313b9c4f1d8684883ee0c15c9",
+      "n": 7
+    },
+    "664c1645ba4360012e874015818cb84871357253": {
+      "headline": "First look: HomePod mini 2 keeps the sphere, adds green and pink — drops yellow and orange",
+      "cat": "Apple",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/09/25/first-look-at-homepod-mini-2/",
+      "summary": "MacRumors published Apple’s own coded product icons for HomePod mini 2 in green, pink, blue, white, and black — dropping the original’s yellow and orange. The spherical design stays; a newer chip and Siri AI support are expected as Apple aims for a late-2026 launch after holding the refresh for personalized Siri.",
+      "image_remote": "https://images.macrumors.com/t/pEKsACxjbslaLcQBRWmXrGwX3fA=/2500x/article-new/2026/09/HomePod-minis-on-gradient-feature-1-1.jpg",
+      "image_local": "images/story-154.jpg",
+      "id": "664c1645ba4360012e874015818cb84871357253",
+      "n": 8
+    },
+    "ffefa32311fe43fa6ea2951a278270565cb50c89": {
+      "headline": "LEGO Icons Star Trek Enterprise Bridge: 1,701 pieces, eight crew, $199.99 — on sale now",
+      "cat": "LEGO",
+      "source": "LEGO",
+      "url": "https://www.lego.com/en-us/aboutus/news/2026/july/the-lego-group-unveils-second-lego-star-trek-set",
+      "summary": "LEGO’s second Star Trek set recreates the original-series U.S.S. Enterprise bridge and transporter room in 1,701 pieces — a nod to NCC-1701 — with a rocking captain’s chair, transporter dial, and turbo-lift doors. Eight Starfleet minifigures plus tribbles ship for $199.99; the set launched Sept. 1 for Star Trek’s 60th anniversary month.",
+      "image_remote": "https://www.lego.com/cdn/cs/aboutus/assets/blt2f4633d4cc6cb6b3/11385_Lifestyle_Envr_01.jpg?width=1200",
+      "image_local": "images/story-155.jpg",
+      "id": "ffefa32311fe43fa6ea2951a278270565cb50c89",
+      "n": 9
+    },
+    "9dec904fa462289ea6b86e82ace07ba0c097e194": {
+      "headline": "Jets special teams grind extras ahead of Lions — Williams catches 85 practice punts",
+      "cat": "Jets football",
+      "source": "Jets.com",
+      "url": "https://www.newyorkjets.com/news/special-teams-unit-correcting-mistakes-moving-forward-09-24-2026",
+      "summary": "After muffed punts vs. Green Bay, returner Isaiah Williams logged 85 extra practice catches while coordinator Chris Banjo stressed earning it every week against Detroit. Injuries forced Arian Smith and Marcelino McCrary-Ball to IR; Troy Reeder, Jack Heflin, and Malik McClain joined the 53 as the unit preps for Ford Field.",
+      "image_remote": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/jets/e0htyp6dpiyb6b2bt0n6",
+      "image_local": "images/story-156.jpg",
+      "id": "9dec904fa462289ea6b86e82ace07ba0c097e194",
+      "n": 10
+    },
+    "b6ad761f2fed82486fac166c0724749fa3c265df": {
+      "headline": "Penguins’ Ben Kindel downgraded to week-to-week after 4–0 preseason loss in Columbus",
+      "cat": "Penguins hockey",
+      "source": "PensBurgh",
+      "url": "https://www.pensburgh.com/news/81088/pens-points-penguins-blue-jackets-preseason-andrei-kuzmenko-ben-kindel-injury-nhl-winnipeg-jets",
+      "summary": "Pittsburgh’s B-squad fell 4–0 to Columbus in preseason game three, and forward Ben Kindel was moved from day-to-day to week-to-week with a lower-body injury. PensBurgh also notes Andrei Kuzmenko’s leave after his father’s death, Caleb Jones skating again, and 10 players assigned to Wilkes-Barre/Scranton ahead of Saturday’s finale.",
+      "image_remote": "https://platform.pensburgh.com/wp-content/uploads/sites/123/2026/09/gettyimages-2296995755.jpg?quality=90&strip=all",
+      "image_local": "images/story-157.jpg",
+      "id": "b6ad761f2fed82486fac166c0724749fa3c265df",
+      "n": 11
+    },
+    "68842afeb3bb94b6fd65133a54f7fc778fc66297": {
+      "headline": "National Public Lands Day at Minute Man: volunteer stewardship Saturday at North Bridge",
+      "cat": "USA travel",
+      "source": "Friends of Minute Man",
+      "url": "https://friendsofminuteman.org/events/",
+      "summary": "Friends of Minute Man National Park invite volunteers Saturday, Sept. 26, 9 a.m.–1 p.m. at Concord’s North Bridge for invasive-plant removal, orchard and trail care, and trash pickup under the theme “Caring for Our Shared America.” Participants get a fee-free public-lands coupon; the free event marks America 250 stewardship near the Revolutionary battlefield.",
+      "image_remote": "https://www.nps.gov/common/uploads/banner_image/ner/homepage/3392993C-C99C-CE14-82CA28454D3D0B91.jpg",
+      "image_local": "images/story-158.jpg",
+      "id": "68842afeb3bb94b6fd65133a54f7fc778fc66297",
+      "n": 12
     }
   }
 }
