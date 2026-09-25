@@ -1,5 +1,14 @@
 {
   "order": [
+    "dc7da0c7af2fba44c72b39b0bded3dab473cf85f",
+    "040bd2e25859a9fb59bd4aeb5b3d689d542e2cb6",
+    "8db00f31f3c7f1aef3f1b700542f0058738a1145",
+    "f05da23a2b305b979078e457f34131e7ab5d93ec",
+    "740778c4ad46da06bf1a8f981491a7459133736c",
+    "c704ddd791b109402bd89e27d9e28dc0d20ba57c",
+    "8e397a9565984593f1ce9c5b385163ee061f00b8",
+    "9d4c01f3f67db08525b64927c116d1701fc95e99",
+    "27480cc8479812c92a01783672e9fc2c9cba9d5f",
     "2beae46c69654a4c0170a12e908eabf473c8fb75",
     "f12c6f394c4e107a1a497d8a0264397b84583f24",
     "0d61bbda1600d46d7a66f577e7dd2f73f749bfca",
@@ -2039,6 +2048,105 @@
       "image_local": "images/story-168.jpg",
       "id": "7d20cca47be2ec064715e325ff155209e3b4351d",
       "n": 10
+    },
+    "27480cc8479812c92a01783672e9fc2c9cba9d5f": {
+      "headline": "LEGO October 2026 guide: Avengers Doomsday wave and Vader lightsaber GWP",
+      "cat": "LEGO",
+      "source": "The Brick Fan",
+      "url": "https://www.thebrickfan.com/lego-october-2026-shopping-guide/",
+      "summary": "The Brick Fan’s Friday October shopping guide highlights a busy month of Christmas prep and Avengers: Doomsday sets landing Oct. 4 — including the Quinjet, Epic Battle, and New Avengers Tower BrickHeadz/playsets. Confirmed promotion: LEGO Star Wars Darth Vader’s Lightsaber (40897) as a gift-with-purchase with the UCS Executor Super Star Destroyer from Oct. 1–10 while supplies last. A rumored PlayStation set promo is still unconfirmed.",
+      "image_remote": "https://www.thebrickfan.com/wp-content/uploads/2026/09/LEGO-Oct-2026-Releases.jpg",
+      "image_local": "images/story-177.jpg",
+      "id": "27480cc8479812c92a01783672e9fc2c9cba9d5f",
+      "n": 9
+    },
+    "9d4c01f3f67db08525b64927c116d1701fc95e99": {
+      "headline": "Archie McDonald wins inaugural FIM Harley-Davidson Bagger World Cup",
+      "cat": "Harley-Davidson",
+      "source": "Motorcycle.com",
+      "url": "https://www.motorcycle.com/bikes/news/mcdonald-takes-first-ever-fim-bagger-world-cup-crown-44671975",
+      "summary": "Joe Rascal Racing’s Archie McDonald sealed the first FIM Harley-Davidson Bagger World Cup title at the Red Bull Ring finale, finishing nine points clear after a Saturday crash took rivals Granado and Iannone out of the fight. McDonald managed Race 2 to eighth on his Road Glide and dedicated the championship to his late brother Toby. Harley racing chief Jeffrey Schuessler said the series aims to grow teams, races, and markets after a five-winner inaugural season.",
+      "image_remote": "https://cdn-fastly.motorcycle.com/media/2026/09/22/14331/social-44671975.jpg?size=1200x628",
+      "image_local": "images/story-176.jpg",
+      "id": "9d4c01f3f67db08525b64927c116d1701fc95e99",
+      "n": 8
+    },
+    "8e397a9565984593f1ce9c5b385163ee061f00b8": {
+      "headline": "watchOS 27 upgrades Modular Apple Watch face with 13 new colors",
+      "cat": "Apple",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/09/25/watchos-27-upgrades-popular-apple-watch-face-with-new-options/",
+      "summary": "9to5Mac details how watchOS 27 expands the popular Modular watch face with 13 new colors — including Olive, Burgundy, Sand, Magenta, Sage, and Mulberry — plus the newest Daily Steps, Heart Rate, and Readiness complications exclusive to Apple Watch Ultra 4 and Series 12. Modular remains a customization workhorse alongside Compact, Ultra, and Siri Modular variants, giving wearers more ways to personalize health metrics on the wrist.",
+      "image_remote": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-watch-modular-face-s10-12.jpg?quality=82&strip=all&w=1200",
+      "image_local": "images/story-175.jpg",
+      "id": "8e397a9565984593f1ce9c5b385163ee061f00b8",
+      "n": 7
+    },
+    "c704ddd791b109402bd89e27d9e28dc0d20ba57c": {
+      "headline": "Tesla ramps Optimus to hundreds a week — but robots still can’t generalize",
+      "cat": "Elon Musk / Tesla",
+      "source": "Electrek",
+      "url": "https://electrek.co/2026/09/25/tesla-optimus-production-ramp-hands-ai-generalization-problems/",
+      "summary": "Electrek reports Tesla is building several hundred Optimus humanoids a week at Fremont — roughly ten times Q2 output — on the former Model S/X line, aiming past 1,000 weekly by year-end. Most units stay inside Tesla for testing; hands remain hand-assembled with reliability issues, and sources say the AI still takes days to learn basic tasks and struggles outside trained scenarios. The piece contrasts the hardware ramp with unmet 2025 usefulness promises and a still-missing V3 demo.",
+      "image_remote": "https://electrek.co/wp-content/uploads/sites/3/2024/01/Tesla-Bot-Optimus-hero.webp?w=1200",
+      "image_local": "images/story-174.jpg",
+      "id": "c704ddd791b109402bd89e27d9e28dc0d20ba57c",
+      "n": 6
+    },
+    "740778c4ad46da06bf1a8f981491a7459133736c": {
+      "headline": "Penguins preseason finale lineup vs Sabres: Crosby, Malkin, Letang, Karlsson in",
+      "cat": "Penguins hockey",
+      "source": "NHL.com / Penguins",
+      "url": "https://www.nhl.com/penguins/news/pittsburgh-penguins-preseason-lineup-09-26-26-vs-buffalo",
+      "summary": "The Penguins posted Saturday’s preseason lineup for the 3 p.m. ET finale at Buffalo’s KeyBank Center, with Sidney Crosby, Evgeni Malkin, Kris Letang, and Erik Karlsson among those skating. Forwards also include Bryan Rust, Rickard Rakell, and several prospects; Sergei Murashov and Arturs Silovs are the listed goalies. Fans can watch on SNP+ or listen on 105.9 The X as Pittsburgh closes a four-game exhibition slate after Thursday’s 4–0 loss in Columbus.",
+      "image_remote": "https://media.d3.nhle.com/image/private/t_ratio16_9-size50/prd/qzzs2on070grtxtgxflf.jpg",
+      "image_local": "images/story-173.jpg",
+      "id": "740778c4ad46da06bf1a8f981491a7459133736c",
+      "n": 5
+    },
+    "f05da23a2b305b979078e457f34131e7ab5d93ec": {
+      "headline": "Jets: Taylor, Fitzpatrick, Mauigoa out vs Lions; Glenn calls Detroit ‘explosive’",
+      "cat": "Jets football",
+      "source": "New York Jets",
+      "url": "https://www.newyorkjets.com/news/notebook-aaron-glenn-explains-the-challenge-of-the-detroit-lions-injury-updates-mason-taylor-minkah-fitzpatrick-09-25-2026",
+      "summary": "After Friday’s practice, Jets coach Aaron Glenn said tight end Mason Taylor (thumb), safety Minkah Fitzpatrick (groin), and linebacker Kiko Mauigoa (quad) will miss Sunday’s game at Detroit; Adonai Mitchell was limited with a finger snag. Glenn, who spent four seasons as Lions defensive coordinator, called Jared Goff’s group one of the most explosive offenses his top-ranked defense will face all year, citing Jahmyr Gibbs, Jameson Williams, Amon-Ra St. Brown, and Sam LaPorta.",
+      "image_remote": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/jets/xyum3oafa6szgktnitkn",
+      "image_local": "images/story-172.jpg",
+      "id": "f05da23a2b305b979078e457f34131e7ab5d93ec",
+      "n": 4
+    },
+    "8db00f31f3c7f1aef3f1b700542f0058738a1145": {
+      "headline": "Waterbury mother found dead after 3-year-old seen wandering alone, police say",
+      "cat": "Crime / Public safety",
+      "source": "NBC Connecticut",
+      "url": "https://www.nbcconnecticut.com/news/local/waterbury-mother-found-dead-inside-home-after-toddler-seen-wandering-area-alone-police/3778672/",
+      "summary": "Waterbury police responding Friday morning to a report of a young child wandering alone on Poplar Street found a 3-year-old girl with no signs of abuse or neglect. A follow-up at a nearby home found her 34-year-old mother unresponsive and appearing dead for some time; she was pronounced dead at the scene. Investigators said they saw no obvious foul play. The case remains under investigation; tips can go to the Detective Bureau or Crime Stoppers.",
+      "image_remote": "https://media.nbcconnecticut.com/2023/05/22750914298-1080pnbcstations.jpg?quality=85&strip=all&resize=1200%2C675",
+      "image_local": "images/story-171.jpg",
+      "id": "8db00f31f3c7f1aef3f1b700542f0058738a1145",
+      "n": 3
+    },
+    "040bd2e25859a9fb59bd4aeb5b3d689d542e2cb6": {
+      "headline": "Zelensky: Trump made ‘final decision’ to license Ukraine Patriot missile production",
+      "cat": "Politics / MAGA",
+      "source": "Kyiv Post",
+      "url": "https://www.kyivpost.com/post/85400",
+      "summary": "Ukrainian President Volodymyr Zelensky said Friday that President Trump told him in New York he had made a final decision granting Ukraine licenses to produce Patriot air-defense missiles. Zelensky did not say when licenses or production would start; Trump had floated the idea at a July NATO summit then walked it back in late July over technology-transfer risks. Patriots remain among the few systems able to stop Russian ballistic missiles, and Kyiv has pressed for domestic manufacturing amid supply shortages.",
+      "image_remote": "https://static.kyivpost.com/storage/2026/09/25/b97a60b31b8357602d251009bc903d9e.jpg?w=1200&q=90&f=jpg",
+      "image_local": "images/story-170.jpg",
+      "id": "040bd2e25859a9fb59bd4aeb5b3d689d542e2cb6",
+      "n": 2
+    },
+    "dc7da0c7af2fba44c72b39b0bded3dab473cf85f": {
+      "headline": "Trumbull Library closed Saturday for nor’easter; town posts wind and flood prep",
+      "cat": "Local / Trumbull CT",
+      "source": "Town of Trumbull",
+      "url": "https://www.trumbull-ct.gov/CivicAlerts.aspx?AID=3185",
+      "summary": "Trumbull Emergency Management posted Friday that the Trumbull Library will close Saturday, Sept. 26, because of the approaching nor’easter, with a Sunday decision due Saturday evening. A wind advisory and coastal flood warning are in effect; residents are told to secure outdoor furniture, clear storm drains, charge devices, avoid flooded roads and downed wires, and run generators outdoors only. Report United Illuminating outages at 800-722-5584; restoration may take more than 24 hours as Emergency Services and Public Works stand by.",
+      "image_remote": "https://npr.brightspotcdn.com/dims4/default/8978d20/2147483647/strip/true/crop/3000x1575+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb5%2F87%2Fea1bbef547e9a049d08621f17620%2Fpower-lines.jpg",
+      "image_local": "images/story-169.jpg",
+      "id": "dc7da0c7af2fba44c72b39b0bded3dab473cf85f",
+      "n": 1
     }
   }
 }
