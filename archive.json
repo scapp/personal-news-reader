@@ -1,5 +1,19 @@
 {
   "order": [
+    "a51e8bf028eb1a53147e91533c72e669aff60684",
+    "52090a36294737ee23549be657afb75965f5000c",
+    "3276da8004cc960f98534927782755e204dd74fc",
+    "c4629a2e647dc9e04c45060f70dc62e58d0c35a3",
+    "44e23e8d40c81af223a3261e33b468fde72f6f3e",
+    "409973b619b40df116d45470592644869c9eec30",
+    "c9ba518b090ba768e2e99538f915666cfd3fc49f",
+    "a64523c228d27e9d7896b04532440b88a619927f",
+    "09880ff7909a00f3b829f4289d7f60fb15e2b766",
+    "2f9af1e54c2a776fe4eda71f9b75aca4412c54d4",
+    "44af46eb335a6ef8534647da6614063b9cd55c89",
+    "f6da7cbf8c05634fa6e0ca606beb15e6ccf7cf02",
+    "880310139bce655f2f33426072def08ebef98203",
+    "c37124f3360f996307694cd2aa8846822f33e6cf",
     "0c2ac7a5e342411678296315c4c59043b1f067cc",
     "3656f5cb40e5e227bf15d4f334e0564f073e9762",
     "45967f501e160d540dbe31e4fd1f48dd8e7ae2d6",
@@ -1607,6 +1621,160 @@
       "image_local": null,
       "image_remote": null,
       "id": "f0c3da000241fb7c903f09cc74344aa1cad96961"
+    },
+    "a51e8bf028eb1a53147e91533c72e669aff60684": {
+      "headline": "Trumbull Farm Fair Sept. 26 at Chester Hill Farm — pony rides and barn open house",
+      "cat": "Local / Trumbull CT",
+      "source": "Patch",
+      "url": "https://patch.com/connecticut/trumbull/trumbull-farm-fair-feature-pony-rides-barn-open-house",
+      "summary": "Chester Hill Farm in Trumbull will host a farm fair Saturday, Sept. 26, from 11 a.m. to 2 p.m. at 55 Old Dairy Road. The hunter/jumper facility plans pony rides, a barn open house, local vendors, and a tack tag sale on its 20-acre campus.",
+      "image_remote": "https://patch.com/img/cdn20/shutterstock/22878689/20260902/070709/styles/patch_image/public/shutterstock-1857848665___02190623601.jpg",
+      "image_local": "images/story-133.jpg",
+      "id": "a51e8bf028eb1a53147e91533c72e669aff60684",
+      "n": 1
+    },
+    "52090a36294737ee23549be657afb75965f5000c": {
+      "headline": "Marjorie Taylor Greene at TribFest: ‘MAGA is dead,’ calls movement a cult",
+      "cat": "Politics / MAGA",
+      "source": "Texas Tribune",
+      "url": "https://www.texastribune.org/2026/09/24/marjorie-taylor-greene-tribfest-2026/",
+      "summary": "Former Rep. Marjorie Taylor Greene told the Texas Tribune Festival that “MAGA is dead,” labeling the broader Trump movement a “cult” while saying she still believes in America First. She cited broken campaign promises, the Iran war, and private Republican fear of Trump’s Truth Social posts after her public break with the president.",
+      "image_remote": "https://i0.wp.com/www.texastribune.org/wp-content/uploads/2026/09/20260924-Marjorie-Taylor-Greene-EH-TTF26-14-1.jpg?quality=100&w=1200&h=630&ssl=1",
+      "image_local": "images/story-134.jpg",
+      "id": "52090a36294737ee23549be657afb75965f5000c",
+      "n": 2
+    },
+    "3276da8004cc960f98534927782755e204dd74fc": {
+      "headline": "Trump and Xi trade warm state-dinner toasts with little progress on Taiwan or AI",
+      "cat": "Politics / MAGA",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cxq63dqp93n1o",
+      "summary": "At a lavish White House state dinner, Trump and Xi Jinping traded warm toasts about harmony and responsible major-power ties, but offered little public progress on Taiwan, trade, or AI rivalry. Tech CEOs including Elon Musk, Tim Cook, and Jensen Huang joined the meal as Xi heads into a Friday Archives tour before departing.",
+      "image_remote": "https://ichef.bbci.co.uk/news/1024/branded_news/602f/live/4a515750-b8a7-11f1-a430-4d16ee157c41.jpg",
+      "image_local": "images/story-135.jpg",
+      "id": "3276da8004cc960f98534927782755e204dd74fc",
+      "n": 3
+    },
+    "c4629a2e647dc9e04c45060f70dc62e58d0c35a3": {
+      "headline": "HSI and FBI arrest Senegalese LPR accused of voting in multiple N.J. elections",
+      "cat": "Immigration",
+      "source": "DHS",
+      "url": "https://www.dhs.gov/news/2026/09/24/hsi-and-fbi-arrest-senegalese-alien-illegally-voting-past-elections-new-jersey",
+      "summary": "Homeland Security Investigations and the FBI arrested Sanata Coulibaly, a Senegalese lawful permanent resident, on charges of unlawful naturalization procurement and voting by an alien. DHS says she allegedly voted in the 2018, 2020, and 2024 New Jersey general elections and admitted voting in 2020 and 2024.",
+      "image_remote": "https://www.dhs.gov/sites/default/files/2024-02/24_0206_opa_og-image-dhs.jpg",
+      "image_local": "images/story-136.jpg",
+      "id": "c4629a2e647dc9e04c45060f70dc62e58d0c35a3",
+      "n": 4
+    },
+    "44e23e8d40c81af223a3261e33b468fde72f6f3e": {
+      "headline": "Two hurt as activists and ICE clash at Meriden courthouse",
+      "cat": "Immigration",
+      "source": "CT Mirror",
+      "url": "https://ctmirror.org/2026/09/23/ct-activists-ice-clash-meriden-courthouse/",
+      "summary": "A confrontation at Meriden’s courthouse left one activist pepper-sprayed and another taken by ambulance after being pushed during an ICE arrest. Activists argued agents violated Connecticut’s Trust Act mask and courthouse limits; Judicial Branch officials said marshals received a warrant and are reviewing video.",
+      "image_remote": "https://ctmirror.org/wp-content/uploads/2026/09/IMG_3271-scaled.jpeg",
+      "image_local": "images/story-137.jpg",
+      "id": "44e23e8d40c81af223a3261e33b468fde72f6f3e",
+      "n": 5
+    },
+    "409973b619b40df116d45470592644869c9eec30": {
+      "headline": "CT volunteer firefighter ranks shrink — state launches fire-protection audit",
+      "cat": "Crime / Public safety",
+      "source": "CT Public",
+      "url": "https://www.ctpublic.org/news/2026-09-24/over-half-of-cts-fire-departments-are-volunteer-a-shortage-is-sparking-a-fire-protection-audit",
+      "summary": "Connecticut Public reports the state has lost nearly two-thirds of its volunteer firefighters since 2017, with over 60% of departments still volunteer-run. Officials cite two-income households, leadership, and training gaps as daytime staffing frays, while a new law will require local fire-protection plans starting in July 2027.",
+      "image_remote": "https://npr.brightspotcdn.com/dims4/default/0796fcf/2147483647/strip/true/crop/3000x1575+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F81%2Fc7%2F2047245045299aa19f0197bfba2c%2Fnewhartfordhouse-08-10-2021-ja-xxjpg.jpg",
+      "image_local": "images/story-138.jpg",
+      "id": "409973b619b40df116d45470592644869c9eec30",
+      "n": 6
+    },
+    "c9ba518b090ba768e2e99538f915666cfd3fc49f": {
+      "headline": "‘MacBook Ultra’ rumored with OLED, touchscreen, Dynamic Island, thinner design",
+      "cat": "Apple",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/09/23/macbook-ultra-coming-soon-touchscreen-5-changes/",
+      "summary": "MacRumors rounds up reports that Apple’s next high-end laptop may debut as a MacBook Ultra above today’s M5 Pro/Max MacBook Pros, with OLED panels, native touch, a reinforced hinge, a thinner chassis, and an interactive Dynamic Island-style cutout. Timing is loosely pegged for late 2026 amid memory-chip constraints.",
+      "image_remote": "https://images.macrumors.com/t/qHnR_OCMn27N8NId-_x0Q08pxIU=/1644x/article-new/2026/07/macbook-ultra.jpg",
+      "image_local": "images/story-139.jpg",
+      "id": "c9ba518b090ba768e2e99538f915666cfd3fc49f",
+      "n": 7
+    },
+    "a64523c228d27e9d7896b04532440b88a619927f": {
+      "headline": "Insta360 Spatial Capture turns X5/X6 360 video into walkable 3D scenes — free Sept. 28",
+      "cat": "Photography / Insta360",
+      "source": "Joe’s Daily",
+      "url": "https://joesdaily.com/tech/insta360-spatial-capture-3d-scenes/",
+      "summary": "Insta360’s Spatial Capture update, due Sept. 28, converts up to two minutes of 360 video from the X6, X5, and X4 Air into explorable 3D Gaussian Splatting scenes in the cloud. Owners of last-gen cameras get the feature without buying new hardware; four scene generations a month are free.",
+      "image_remote": "https://joesdaily.com/wp-content/uploads/2026/09/insta360-x6-spatial-capture.webp",
+      "image_local": "images/story-140.jpg",
+      "id": "a64523c228d27e9d7896b04532440b88a619927f",
+      "n": 8
+    },
+    "09880ff7909a00f3b829f4289d7f60fb15e2b766": {
+      "headline": "Penguins prospects blanked 4–0 by Blue Jackets in preseason Game 3",
+      "cat": "Penguins hockey",
+      "source": "NHL.com / Penguins",
+      "url": "https://www.nhl.com/penguins/news/musings-cbj-4-pit-0-preseason-game-3",
+      "summary": "Pittsburgh’s mostly young lineup was shut out 4–0 in Columbus as Sergei Murashov played the full game. Coach Dan Muse praised the work ethic against a veteran Blue Jackets group and called the matchup a useful evaluation ahead of the Sept. 29 regular-season opener.",
+      "image_remote": "https://media.d3.nhle.com/image/private/t_ratio16_9-size50/prd/crnh5dau6s0zbzhtbxj6.png",
+      "image_local": "images/story-141.jpg",
+      "id": "09880ff7909a00f3b829f4289d7f60fb15e2b766",
+      "n": 9
+    },
+    "2f9af1e54c2a776fe4eda71f9b75aca4412c54d4": {
+      "headline": "Starship aces Flight 14 wet dress; Monday orbital attempt still targeted",
+      "cat": "Elon Musk / SpaceX",
+      "source": "Space.com",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-megarocket-aces-launch-rehearsal-ahead-of-1st-orbital-test-flight-video",
+      "summary": "SpaceX completed a wet dress rehearsal for Starship Flight 14, keeping a Monday Sept. 28 window that opens at 8:15 a.m. EDT. The planned first orbital attempt would send Ship around Earth six times, deploy 26 Starlink V3 satellites, and splash down off Chile.",
+      "image_remote": "https://cdn.mos.cms.futurecdn.net/sazzJmok2w5STpByz9kyWn-2560-80.jpg",
+      "image_local": "images/story-142.jpg",
+      "id": "2f9af1e54c2a776fe4eda71f9b75aca4412c54d4",
+      "n": 10
+    },
+    "44af46eb335a6ef8534647da6614063b9cd55c89": {
+      "headline": "Tesla Android app leak shows Optimus ‘Gen 3’ robot asset filenames",
+      "cat": "Elon Musk / Tesla",
+      "source": "Tesla North",
+      "url": "https://teslanorth.com/2026/09/23/optimus-gen-3-app-leak/",
+      "summary": "A teardown of Tesla’s Android app found signed assets labeled robot_*_gen3.png, confirming an internal Gen 3 Optimus label. The sealed-joint renders look more finished than prior demos; Tesla has not commented on timing as Optimus factory work at Giga Texas continues.",
+      "image_remote": "https://cdn.teslanorth.com/wp-content/uploads/2023/12/optimus-hero.jpeg",
+      "image_local": "images/story-143.jpg",
+      "id": "44af46eb335a6ef8534647da6614063b9cd55c89",
+      "n": 11
+    },
+    "f6da7cbf8c05634fa6e0ca606beb15e6ccf7cf02": {
+      "headline": "LEGO Icons SpongeBob Bikini Bottom: 1,794 pieces, $219.99, now on sale",
+      "cat": "LEGO",
+      "source": "LEGO",
+      "url": "https://www.lego.com/en-us/aboutus/news/2026/july/the-lego-group-unveils-lego-spongebob-squarepants-set",
+      "summary": "LEGO’s first adult SpongeBob set (11386) builds Bikini Bottom with SpongeBob’s pineapple, Squidward’s house, Patrick’s rock, and Jellyfish Fields across 1,794 pieces for $219.99. Minifigures plus brick-built Gary and DoodleBob ship with the set, on sale since Sept. 1 after a July unveil.",
+      "image_remote": "https://www.lego.com/cdn/cs/aboutus/assets/blt7608cc960fcc8324/11386_Lifestyle_Envr_crop.jpg?width=1200",
+      "image_local": "images/story-144.jpg",
+      "id": "f6da7cbf8c05634fa6e0ca606beb15e6ccf7cf02",
+      "n": 12
+    },
+    "880310139bce655f2f33426072def08ebef98203": {
+      "headline": "National Public Lands Day Sept. 26: Forest Service and Army Corps fee waivers — not all parks",
+      "cat": "USA travel",
+      "source": "Deep Arrival",
+      "url": "https://deeparrival.com/news/national-public-lands-day-fee-waivers-september-26-2026/",
+      "summary": "Saturday’s National Public Lands Day waives many Forest Service day-use and Army Corps recreation fees, but it is not a nationwide National Park Service free-entry day. Planners should verify the land manager, concession rules, and whether volunteer events offer a future-entry coupon.",
+      "image_remote": "https://deeparrival.com/wp-content/uploads/2026/09/da-news-359c12ce1dbb776ad2385025a83d80565bcff7453f8bda642be7a3cf4137fb32-2cf1c194390ba91b.jpg",
+      "image_local": "images/story-145.jpg",
+      "id": "880310139bce655f2f33426072def08ebef98203",
+      "n": 13
+    },
+    "c37124f3360f996307694cd2aa8846822f33e6cf": {
+      "headline": "Jets enter Lions Week 3 No. 1 in total defense; Glenn calls Ford Field ‘a place we want to win’",
+      "cat": "Jets football",
+      "source": "Detroit Lions",
+      "url": "https://www.detroitlions.com/news/week-3-opponent-what-the-jets-are-saying-glenn-goff-gibbs",
+      "summary": "Official Lions coverage of Jets Week 3 quotes Aaron Glenn on returning to Ford Field and highlights New York’s No. 1 total and rush defense after holding Titans and Packers under 200 yards. Jets players flag Jahmyr Gibbs as the top run-stopping challenge Sunday.",
+      "image_remote": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/lions/gxt8wngbsc18lza7nxg2",
+      "image_local": "images/story-146.jpg",
+      "id": "c37124f3360f996307694cd2aa8846822f33e6cf",
+      "n": 14
     }
   }
 }
