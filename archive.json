@@ -1,5 +1,15 @@
 {
   "order": [
+    "2beae46c69654a4c0170a12e908eabf473c8fb75",
+    "f12c6f394c4e107a1a497d8a0264397b84583f24",
+    "0d61bbda1600d46d7a66f577e7dd2f73f749bfca",
+    "b5b7c488e14f956e32a8d0cf234657dd962bf461",
+    "a26b1c3a13ee11f5267e34f86efe8a5125815e98",
+    "99b2e829716c0d67bfa56083d34b0ec9e96c9a28",
+    "dcf59273d0943bbc20807260d1d28e25b5badbde",
+    "cb216bd09a39b233b2091a911d07ffd4c955f7a7",
+    "0116200140a482b838321b2d15ef1190fb9e655e",
+    "7d20cca47be2ec064715e325ff155209e3b4351d",
     "c0362a9cda55d1afffc28816da6998b33d4ee64d",
     "196438fc436b324e0ce6f38678eb90fe2c9f9095",
     "9cd1ca2d6d06e3acf6c2596fd8ca0b3ca310b4ac",
@@ -1919,6 +1929,116 @@
       "image_local": "images/story-158.jpg",
       "id": "68842afeb3bb94b6fd65133a54f7fc778fc66297",
       "n": 12
+    },
+    "2beae46c69654a4c0170a12e908eabf473c8fb75": {
+      "headline": "Trumbull Arts Festival postponed to Oct. 11 after nor’easter advisory",
+      "cat": "Local / Trumbull CT",
+      "source": "Patch",
+      "url": "https://patch.com/connecticut/trumbull/trumbull-arts-festival-2026-postponed-town",
+      "summary": "Town officials said Friday the Trumbull Arts Festival, planned for Sunday on the Town Hall Green, has been rescheduled to Oct. 11 under advice from Trumbull Emergency Management. A hazardous-weather outlook for a powerful weekend nor’easter prompted the delay; the event still invites residents to support local art and live entertainment when it returns.",
+      "image_remote": "https://patch.com/img/cdn20/users/22878689/20260925/122806/styles/patch_image/public/img-3273___25120346614.jpg",
+      "image_local": "images/story-159.jpg",
+      "id": "2beae46c69654a4c0170a12e908eabf473c8fb75",
+      "n": 1
+    },
+    "f12c6f394c4e107a1a497d8a0264397b84583f24": {
+      "headline": "Supreme Court clears Trump admin to use modified SAVE voter-citizenship database",
+      "cat": "Politics / MAGA",
+      "source": "SCOTUSblog",
+      "url": "https://www.scotusblog.com/2026/09/supreme-court-clears-way-for-trump-administration-to-use-modified-voter-verification-database/",
+      "summary": "In an unsigned Friday opinion 39 days before the Nov. 3 midterms, the justices paused a D.C. district-court block on DHS’s expanded SAVE system, which taps Social Security data for state voter-citizenship checks. The majority said challengers’ privacy claims likely lack merit; Justices Jackson, Sotomayor, and Kagan dissented, warning of harms to lawful voters even as systematic purges remain barred within 90 days of an election.",
+      "image_remote": "https://cdn.sanity.io/images/pito4za5/production/b76338e9b208ddbf4220e26cc1687109dc21dad6-1024x683.jpg?rect=0,75,1024,535&w=1200&h=627&fit=crop",
+      "image_local": "images/story-160.jpg",
+      "id": "f12c6f394c4e107a1a497d8a0264397b84583f24",
+      "n": 2
+    },
+    "0d61bbda1600d46d7a66f577e7dd2f73f749bfca": {
+      "headline": "Trump books Mobile midterm rally Oct. 2 at USA Mitchell Center",
+      "cat": "Politics / MAGA",
+      "source": "FOX10 News",
+      "url": "https://www.fox10tv.com/2026/09/25/president-donald-trump-hold-midterm-campaign-rally-mobile/",
+      "summary": "President Trump will hold a Trump 47 Committee midterm rally Friday, Oct. 2, at the University of South Alabama’s Mitchell Center in Mobile. Doors open at 3:30 p.m. with the program at 6 p.m.; attendees must RSVP. The stop pairs with a Durant, Oklahoma, rally the day before as the White House returns to the trail after the Xi state visit.",
+      "image_remote": "https://gray-wala-prod.gtv-cdn.com/resizer/v2/TX3OGWEYIBC4XNEGXIWJDDTFIQ.jpg?auth=85820183be9236c539b3bd151413c2a9f3ba574dceb167640a8aa7aba8323b5d&width=1200&height=600&smart=true",
+      "image_local": "images/story-161.jpg",
+      "id": "0d61bbda1600d46d7a66f577e7dd2f73f749bfca",
+      "n": 3
+    },
+    "b5b7c488e14f956e32a8d0cf234657dd962bf461": {
+      "headline": "WSHU: Did masked ICE agents break Connecticut’s TRUST Act at Meriden courthouse?",
+      "cat": "Immigration",
+      "source": "WSHU",
+      "url": "https://www.wshu.org/connecticut-news/2026-09-25/ct-meriden-courthouse-ice-masked-agents",
+      "summary": "Connecticut’s TRUST Act bars ICE from wearing masks and from courthouse arrests without a warrant — rules activists say agents flouted Wednesday in Meriden. Gov. Ned Lamont told reporters the agents lacked a warrant; ICE said it arrested a man with a 2023 removal order after a DUI court date and accused marshals of impeding the arrest. Two activists were hurt in the clash.",
+      "image_remote": "https://npr.brightspotcdn.com/dims4/default/f458979/2147483647/strip/true/crop/5752x3020+0+817/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F02%2Fe4%2Fa4b8f0f248abb08b22d69deca35b%2Fap25160686079750.jpg",
+      "image_local": "images/story-162.jpg",
+      "id": "b5b7c488e14f956e32a8d0cf234657dd962bf461",
+      "n": 4
+    },
+    "a26b1c3a13ee11f5267e34f86efe8a5125815e98": {
+      "headline": "iPad mini 8 leak: A20 Pro chip, landscape front camera, new speakers",
+      "cat": "Apple",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/09/25/ipad-mini-8-leaked/",
+      "summary": "Apple code spotted by MacRumors shows the next iPad mini with an A20 Pro chip, a landscape FaceTime camera (the last iPad to make the switch), and a speaker cutout groove atop the glass. The icons align with Mark Gurman’s water-resistance and vibration-speaker reports; an OLED bump and late-October launch remain the working rumor.",
+      "image_remote": "https://images.macrumors.com/t/Ln-wQwMHzVOkl4xurxSh5CK0U3Y=/1920x/article-new/2026/09/iPad-mini-7-feature.jpg",
+      "image_local": "images/story-163.jpg",
+      "id": "a26b1c3a13ee11f5267e34f86efe8a5125815e98",
+      "n": 5
+    },
+    "99b2e829716c0d67bfa56083d34b0ec9e96c9a28": {
+      "headline": "Apple TV 4K (4th gen) image surfaces — A17 Pro, 8GB RAM, Wi-Fi 7 rumored",
+      "cat": "Apple",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/09/25/new-apple-tv-4k-leaked/",
+      "summary": "MacRumors found Apple’s own “Apple TV 4K (4th generation)” product image, ending a nearly four-year wait since the A15 model. Specs are still rumor-tier — A17 Pro or newer, 8GB RAM for Siri AI, N1 Wi-Fi 7/Bluetooth 6, and a revised Siri Remote — with the same black-box shell and an October announcement window in play after June’s price hike to $199/$249.",
+      "image_remote": "https://images.macrumors.com/t/WMjqSd526Ap3lIAo2sohNrw5gNo=/1920x/article-new/2026/09/Apple-TV-Sans-Remote-Feature.jpg",
+      "image_local": "images/story-164.jpg",
+      "id": "99b2e829716c0d67bfa56083d34b0ec9e96c9a28",
+      "n": 6
+    },
+    "dcf59273d0943bbc20807260d1d28e25b5badbde": {
+      "headline": "LEGO Astro Bot GWP revealed: 276 pieces, swappable eyes — tied to PlayStation set",
+      "cat": "LEGO",
+      "source": "GamesRadar",
+      "url": "https://www.gamesradar.com/toys-collectibles/lego-astro-bot-officially-revealed-and-it-looks-incredible-but-im-not-sure-its-usd150-worth-of-incredible/",
+      "summary": "LEGO’s official store page confirms the 18+ Astro Bot set: 276 pieces, about eight inches tall, with dynamic posing and swappable eyes. It’s a gift-with-purchase, not a standalone buy — likely paired with the $179.99 PlayStation set or a ~$150 cart — launching Oct. 1 for Insiders and Oct. 4 for everyone alongside the console diorama set.",
+      "image_remote": "https://cdn.mos.cms.futurecdn.net/RpnjMQPZwBQC4m7ydkScvf-1920-80.jpg",
+      "image_local": "images/story-165.jpg",
+      "id": "dcf59273d0943bbc20807260d1d28e25b5badbde",
+      "n": 7
+    },
+    "cb216bd09a39b233b2091a911d07ffd4c955f7a7": {
+      "headline": "Jets: Adonai Mitchell limited with finger snag; Shepard or Johnson likely elevated",
+      "cat": "Jets football",
+      "source": "Heavy",
+      "url": "https://heavy.com/sports/nfl/new-york-jets/adonai-mitchell-detroit-lions-concerning-update/",
+      "summary": "Ahead of Sunday at Detroit, Aaron Glenn said Adonai Mitchell will be limited again after catching a finger in a jersey Thursday — Glenn doesn’t think it’s broken but stayed coy on Week 3 availability. Mitchell has nine catches for 123 yards; Glenn also said either Tyler Johnson or Sterling Shepard will be elevated from the practice squad with Mason Taylor doubtful.",
+      "image_remote": "https://heavy.com/wp-content/uploads/2026/09/new-york-jets-v-tennessee-titans-nashville-tennessee-september-13-adonai-e1790349792921.jpg?quality=65&strip=all",
+      "image_local": "images/story-166.jpg",
+      "id": "cb216bd09a39b233b2091a911d07ffd4c955f7a7",
+      "n": 8
+    },
+    "0116200140a482b838321b2d15ef1190fb9e655e": {
+      "headline": "CT nor’easter: Wind Advisory and coastal flood warnings through Sunday",
+      "cat": "USA travel",
+      "source": "NBC Connecticut",
+      "url": "https://www.nbcconnecticut.com/weather-news/wind-advisory-coastal-flood-warning-in-effect-for-noreaster-impacts-beginning-friday/3778512/",
+      "summary": "A Wind Advisory covers all of Connecticut Friday afternoon through Sunday morning, with gusts over 50 mph possible especially along the shore. Coastal Flood Advisories and Warnings flag minor-to-moderate inundation at high tides Friday evening through Sunday morning as rain arrives late Friday and lingers into Monday — the same system that pushed Trumbull to postpone Sunday’s Arts Festival.",
+      "image_remote": "https://media.nbcconnecticut.com/2026/09/WIND-ADVISORY.jpeg?quality=85&strip=all&resize=1200%2C675",
+      "image_local": "images/story-167.jpg",
+      "id": "0116200140a482b838321b2d15ef1190fb9e655e",
+      "n": 9
+    },
+    "7d20cca47be2ec064715e325ff155209e3b4351d": {
+      "headline": "Trumbull boys soccer’s unbeaten run ends 1–0 at Ridgefield; Stamford next Saturday",
+      "cat": "Local / Trumbull CT",
+      "source": "MaxPreps",
+      "url": "https://www.maxpreps.com/news/k6TbA4xcaEagwloMjuj_HA/soccer-recap-trumbulls-undefeated-season-over-after-six-games.htm",
+      "summary": "Trumbull fell 1–0 to Ridgefield on Thursday, its first loss after opening 4–0–1 against the Tigers’ tight defense. Ridgefield improved to 4–0–1; the Eagles host conference foe Stamford at 11:15 a.m. Saturday while Ridgefield faces Ludlowe at 10 a.m.",
+      "image_remote": "https://image.maxpreps.io/target/d85ffe25-212f-4fb0-97cb-1e536f899495/thumbnails/d85ffe25-212f-4fb0-97cb-1e536f899495_1280x720.jpg?width=892&height=502&fit=cover",
+      "image_local": "images/story-168.jpg",
+      "id": "7d20cca47be2ec064715e325ff155209e3b4351d",
+      "n": 10
     }
   }
 }
