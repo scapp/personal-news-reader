@@ -1,5 +1,18 @@
 {
   "order": [
+    "1923dba4ce6a90f31323c07e5639b2b7b83ac121",
+    "29219beab3bc0dc8f05d3d747dad23158bc24dcc",
+    "ca433df6262d32fcb8405735a037c6d04e784067",
+    "bcb00c157fdb41526aeb34c273ae8edd66df994c",
+    "ffdf10d17441d0eb5b91bd9ca2c55d85e82b3295",
+    "53569e2abc188a9881f6951e9ec611e25f0a3f96",
+    "44b5e40bd26281bede663418d74fd99b07e7fcd7",
+    "ce2009a36d1dcd416da5cb0f365ef4139321959a",
+    "29bc8a66f7b15288f2245f2dc3d1b096ea6482e7",
+    "fca0887cd7c26533b1c569cd84152f85321ebe45",
+    "a07d0a2cc6016bd42cb810e61657d86d47cd7673",
+    "c8f22c668d95308f80128c09b42e6d11eb81fa56",
+    "c4d324c21ee58e7a832be411360c2a1d0faf29e7",
     "05595d1757744d62d8b5717e727367068e4149c2",
     "bebdae94eb6fb02c781345dec4cbb79b1797fce0",
     "7930b45200d1dc93efdb793a88819132774b7218",
@@ -2291,6 +2304,149 @@
       "image_local": "images/story-178.png",
       "id": "05595d1757744d62d8b5717e727367068e4149c2",
       "n": 1
+    },
+    "1923dba4ce6a90f31323c07e5639b2b7b83ac121": {
+      "headline": "CT activates Emergency Operations Center as nor’easter hits Fairfield County",
+      "cat": "Local / Trumbull CT",
+      "source": "CT News Junkie",
+      "url": "https://ctnewsjunkie.com/2026/09/25/ct-activates-emergency-operations-center-ahead-of-forecasted-noreaster/",
+      "summary": "Gov. Ned Lamont ordered Connecticut’s Emergency Operations Center into enhanced monitoring Friday night and partial activation at 7 a.m. Saturday for a weekend nor’easter bringing heavy rain, strong winds, and coastal flood warnings for Fairfield and New Haven counties — the corridor that includes Trumbull. The EOC at Hartford’s O’Neill Armory will run 24/7 with municipal and utility partners; wind advisories cover the whole state through Sunday morning. Officials warn of downed trees, outages, and never driving flooded roads; CT Alert and CTroads.org are the state’s update channels.",
+      "image_remote": "https://ctnewsjunkie.com/wp-content/uploads/2025/08/ct-armory-de-20250812-1200x900-1.jpg",
+      "image_local": "images/story-190.jpg",
+      "id": "1923dba4ce6a90f31323c07e5639b2b7b83ac121",
+      "n": 1
+    },
+    "29219beab3bc0dc8f05d3d747dad23158bc24dcc": {
+      "headline": "Trump posts ‘Trump Strait’ map as Iran says Hormuz reopen choice rests with U.S.",
+      "cat": "Politics / MAGA",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/world/iran/iran-says-choice-reopening-hormuz-rests-united-states-offer-rcna599956",
+      "summary": "Iranian Foreign Minister Abbas Araghchi said Friday a concrete seven-day plan to reopen the Strait of Hormuz — contingent on U.S. steps already sketched in the collapsed June MoU — now “rests with the United States.” A U.S. official said mediated talks are constructive but Washington is “not in a rush,” citing control of the waterway and nearly 40 million barrels of oil moved in 48 hours. Early Saturday President Trump posted a Truth Social map labeling the waterway the “Trump Strait,” after earlier UN remarks about annihilating Iran or cutting a deal after the midterms.",
+      "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260926-iran-nd-8c729f.jpg",
+      "image_local": "images/story-191.jpg",
+      "id": "29219beab3bc0dc8f05d3d747dad23158bc24dcc",
+      "n": 2
+    },
+    "ca433df6262d32fcb8405735a037c6d04e784067": {
+      "headline": "White House leaves CNN off Air Force One, slots Real America’s Voice for Knoxville trip",
+      "cat": "Media / Free speech",
+      "source": "Associated Press (via NBC Washington)",
+      "url": "https://www.nbcwashington.com/news/national-international/cnn-left-off-air-force-one-for-trump-upcoming-trip/4159634/",
+      "summary": "AP reports the White House signaled Friday night that CNN is off Air Force One for President Trump’s Saturday Knoxville college-football trip, with conservative Real America’s Voice taking the seat long reserved for a network video-pool member. The move follows Judge Timothy Kelly’s TRO restoring CNN, MS NOW, and Politico hard passes to White House grounds — an order that did not expressly cover Air Force One pool slots. Sister networks had resumed pool video Friday after refusing to shoot alone during the ban; plaintiffs’ counsel argues the ruling should cover pool access as well.",
+      "image_remote": "https://media.nbcwashington.com/2026/09/CNN-MS-NOW-And-Politico-To-Sue-Jointly-Over-White-2295935936-Getty.jpg?quality=85&strip=all&resize=1200%2C675",
+      "image_local": "images/story-192.jpg",
+      "id": "ca433df6262d32fcb8405735a037c6d04e784067",
+      "n": 3
+    },
+    "bcb00c157fdb41526aeb34c273ae8edd66df994c": {
+      "headline": "Meatpacking groups: ICE ops in Texas, Kansas, Oklahoma delay cattle and may lift beef prices",
+      "cat": "Immigration",
+      "source": "Associated Press (via The Independent)",
+      "url": "https://www.independent.co.uk/news/world/americas/markwayne-mullin-kansas-department-of-homeland-security-kan-texas-b3056725.html",
+      "summary": "AP reports Texas Cattle Feeders, Oklahoma Cattlemen’s, and Kansas Livestock associations warned Friday that heightened ICE operations prompted absences, delayed thousands of cattle shipments, and millions in lost revenue at feedlots, dairies, and transport hubs. DHS confirmed a Kansas presence but denied worksite raids; Secretary Markwayne Mullin said ICE is targeting “heinous criminals.” Some Dodge City–area plants briefly shut lines and returned cattle to yards. Sens. Marshall and Moran urged coordination with locals as beef prices already sit near records on a 75-year herd low.",
+      "image_remote": "https://static.independent.co.uk/2026/09/26/00/Meatpacking-ICE-Arrests_55916.jpg?width=1200&height=800&crop=1200:800",
+      "image_local": "images/story-193.jpg",
+      "id": "bcb00c157fdb41526aeb34c273ae8edd66df994c",
+      "n": 4
+    },
+    "ffdf10d17441d0eb5b91bd9ca2c55d85e82b3295": {
+      "headline": "UVU review: TPUSA insisted on outdoor courtyard despite security concerns before Kirk shooting",
+      "cat": "Charlie Kirk / Campus",
+      "source": "KSL",
+      "url": "https://www.ksl.com/article/51628729/independent-review-of-uvu-and-charlie-kirk-shooting-finds-ways-security-could-be-better",
+      "summary": "KSL’s read of UVU’s independent after-action review finds no bad faith by university staff but says key security decisions — including keeping Charlie Kirk’s Sept. 10, 2025 event in the outdoor Fountain Courtyard — were deferred to a Turning Point USA field representative after UVU raised concerns about attendance, protests, access, and rooftops. The report faults missing written plans, line-of-sight work, joint walkthroughs, and real-time camera monitoring; Kirk family attorney Brett Parkinson said it backs their notice of claim that UVU was understaffed and unprepared.",
+      "image_remote": "https://img.ksl.com/slc/3193/319322/31932246.jpg?filter=kslv2/responsive_story_lg",
+      "image_local": "images/story-194.jpg",
+      "id": "ffdf10d17441d0eb5b91bd9ca2c55d85e82b3295",
+      "n": 5
+    },
+    "53569e2abc188a9881f6951e9ec611e25f0a3f96": {
+      "headline": "Trump’s Knoxville Vols–Texas visit brings TSA-style Secret Service screening at Neyland",
+      "cat": "Politics / MAGA",
+      "source": "WVLT",
+      "url": "https://www.wvlt.tv/2026/09/25/trumps-visit-texas-tennessee-game-bring-tsa-style-security-screening/",
+      "summary": "University of Tennessee Police Chief Sean Patterson said fans at Saturday’s noon Tennessee–Texas game should arrive far earlier than usual: stadium perimeter opens 8 a.m., gates 9 a.m., with Secret Service TSA-style screening, no re-entry after ticket scan, and heavy campus traffic controls. Prohibited-item rules follow Secret Service game-day guidance — including a ban on Flipper Zero devices — and there is no stadium storage for confiscated gear. Vol Walk and Band March remain on the pre-game clock; Patterson’s message was patience as President Trump attends.",
+      "image_remote": "https://gray-wvlt-prod.gtv-cdn.com/resizer/v2/F7TKW3LQFREVPK5IHCDGXQ43RI.jpg?auth=d6133a59e0d3244808e0b15ee26e6f601d8dadb26fa46d568b79ac1ef709b8c1&width=1200&height=600&smart=true",
+      "image_local": "images/story-195.jpg",
+      "id": "53569e2abc188a9881f6951e9ec611e25f0a3f96",
+      "n": 6
+    },
+    "44b5e40bd26281bede663418d74fd99b07e7fcd7": {
+      "headline": "DHS: assaults on ICE officers up 1,649% since Trump immigration crackdown began",
+      "cat": "Immigration",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/exclusive-dhs-secretary-mullin-slams-sanctuary-politicians-attacks-ice-officers-skyrocket",
+      "summary": "DHS told Fox it logged 647 assaults on ICE personnel from Jan. 20, 2025, through Sept. 20, 2026 — versus 37 in a comparable early Biden window — a 1,649% jump Secretary Markwayne Mullin blames on “vicious lies” from sanctuary politicians and anti-ICE rioters. The agency cites shootings at Prairieland Detention Center, Molotovs and rocks, a Houston officer needing 13 stitches, and a Tren de Aragua suspect charged with attempted murder of an agent in Nebraska. Mullin urged Democrats to stop comparing ICE to historical terror units and start cooperating on removals.",
+      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/Attack-against-US-Immigration.png",
+      "image_local": "images/story-196.png",
+      "id": "44b5e40bd26281bede663418d74fd99b07e7fcd7",
+      "n": 7
+    },
+    "ce2009a36d1dcd416da5cb0f365ef4139321959a": {
+      "headline": "Apple’s October slate: iPhone Duo Oct. 23, rumored HomePad, Macs, and iOS 27.2",
+      "cat": "Apple",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/09/25/apple-has-big-october-coming-for-new-hardware-and-software-heres-the-lineup/",
+      "summary": "9to5Mac maps Apple’s packed October: iPhone Duo pre-orders Oct. 16 with availability Oct. 23 in more than 70 countries, plus rumored touchscreen MacBook Pro/Ultra, M6 iMac and MacBook Pro, Apple TV 4K, HomePad hub, HomePod mini 2, and OLED iPad mini. On software, Duo ships on iOS 27.1 while iOS 27.2 — already in testing with Apple TV profiles, Dual Capture FaceTime, and Siri AI language expansions — is expected the same month for the broader iPhone lineup.",
+      "image_remote": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/john-ternus-sep-2026-keynote.jpg?quality=82&strip=all&resize=1200,628",
+      "image_local": "images/story-197.jpg",
+      "id": "ce2009a36d1dcd416da5cb0f365ef4139321959a",
+      "n": 8
+    },
+    "29bc8a66f7b15288f2245f2dc3d1b096ea6482e7": {
+      "headline": "Clutch announces 14th album Wasted Lands, drops title track with Machine back producing",
+      "cat": "Heavy metal",
+      "source": "Blabbermouth",
+      "url": "https://blabbermouth.net/news/clutch-announces-fourteenth-studio-album-wasted-lands-shares-title-track",
+      "summary": "Maryland’s Clutch set Jan. 22, 2027, for Wasted Lands on Weathermaker Music and released the riff-driven title track and video — reuniting with producer Gene “Machine” Freeman for the first time since 2015’s Psychic Warfare. Written at the Doom Saloon, the 12-song set leans live-first after scrapping two studio-bound batches; Neil Fallon even keeps a rough banjo demo on “Beware The Fever.” A 16-date U.S. headline run with Slomosa and Blood Vulture starts Oct. 16 in Charlotte before an Australia Wasted Lands tour with Corrosion of Conformity in January.",
+      "image_remote": "https://assets.blabbermouth.net/media/clutchbandaug2026_638.jpg",
+      "image_local": "images/story-198.jpg",
+      "id": "29bc8a66f7b15288f2245f2dc3d1b096ea6482e7",
+      "n": 9
+    },
+    "fca0887cd7c26533b1c569cd84152f85321ebe45": {
+      "headline": "Eastern Sierra foliage: Mono County’s Sagehen, Rock Creek, Virginia Lakes near peak this weekend",
+      "cat": "USA travel",
+      "source": "California Fall Color",
+      "url": "https://californiafallcolor.com/2026/09/24/make-your-way-to-mono-county/",
+      "summary": "California Fall Color’s Sept. 24 Mono County report flags Sagehen Summit, Rock Creek’s upper canyon, Virginia Lakes, and Green Creek at 50–75% near-peak — go-now for this weekend — with Sonora and Monitor passes patchy and June Lake Loop still mostly green. Mono County Tourism says the next 3–5 weeks should keep delivering aspen color down the elevation ladder along US 395. High-elevation Eastern Sierra typically peaks around the equinox; valley floors follow into October for West Coast leaf-peeping trips.",
+      "image_remote": "https://californiafallcolor.com/wp-content/uploads/2026/09/9.22.26-Sonora-Pass-Mono-County-Tourism-3.jpg",
+      "image_local": "images/story-199.jpg",
+      "id": "fca0887cd7c26533b1c569cd84152f85321ebe45",
+      "n": 10
+    },
+    "a07d0a2cc6016bd42cb810e61657d86d47cd7673": {
+      "headline": "Jets’ Garrett Wilson eyes first game vs ex-teammate DJ Reed as Detroit visit looms",
+      "cat": "Jets football",
+      "source": "New York Jets",
+      "url": "https://www.newyorkjets.com/news/garrett-wilson-looking-foward-to-dj-reed-lions-matchup-in-week-3-09-25-2026",
+      "summary": "Ahead of Sunday’s Week 3 road game at Ford Field, Jets WR Garrett Wilson said he will face former teammate DJ Reed for the first time and planned to text him to “set the stage.” Wilson (11 catches, 136 yards, one TD through two games) called Detroit’s 31st-ranked defense still “really good at what they do” with pressures and shells, and wants the offense to make a statement after the overtime Packers loss. He and Adonai Mitchell are one of four WR tandems with 50-plus yards each in Weeks 1–2.",
+      "image_remote": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/jets/gd5ouurg3riu772iiymq",
+      "image_local": "images/story-200.jpg",
+      "id": "a07d0a2cc6016bd42cb810e61657d86d47cd7673",
+      "n": 11
+    },
+    "c8f22c668d95308f80128c09b42e6d11eb81fa56": {
+      "headline": "Penguins notebook: Lapierre centers third line; McGroarty, Broz, Pickering on chopping block",
+      "cat": "Penguins hockey",
+      "source": "Pittsburgh Hockey Now",
+      "url": "https://pittsburghhockeynow.com/pittsburgh-penguins-notebook-new-lines-special-teams-players-on-chopping-block/",
+      "summary": "With Ben Kindel and Blake Lizotte sidelined, Dan Muse’s Friday dress rehearsal put Hendrix Lapierre at third-line center between Ville Koivunen and Bryan Rust, slid Nick Robertson onto the PK, and kept Koivunen on PP2 ahead of Saturday’s preseason finale in Buffalo. Rutger McGroarty, Tristan Broz, and Owen Pickering skated in a separate group as Muse said final roster decisions are imminent; Sergei Murashov appears to have beaten Joel Blomqvist for the backup crease. Crosby–Malkin–Karlsson veterans still anchor the top units.",
+      "image_remote": "https://media.pittsburghhockeynow.com/wp-content/uploads/2026/09/25144030/IMG_2543-3-1600x900.jpg",
+      "image_local": "images/story-201.jpg",
+      "id": "c8f22c668d95308f80128c09b42e6d11eb81fa56",
+      "n": 12
+    },
+    "c4d324c21ee58e7a832be411360c2a1d0faf29e7": {
+      "headline": "SpaceX aims for Starship’s first orbit Monday — 26 Starlink V3s and a 10-hour mission",
+      "cat": "Elon Musk / SpaceX",
+      "source": "Space.com",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/will-spacexs-starship-finally-make-it-to-orbit-were-about-to-find-out",
+      "summary": "Space.com’s Saturday deep dive says SpaceX is targeting a Sept. 28 Flight 14 window opening 8:15 a.m. EDT for Starship’s first orbital attempt: Ship 41 would climb to ~170 miles, deploy 26 operational Starlink V3 satellites, complete about six orbits over roughly 10 hours, then splash down in the Pacific while Booster 21 aims for a Gulf soft splashdown. Orbit insertion fires only if deorbit redundancy checks out; NASA’s Artemis lander timeline and Starlink V3 scale-up both hinge on clearing this milestone a decade after Musk’s 2016 ITS unveil.",
+      "image_remote": "https://cdn.mos.cms.futurecdn.net/KS2ahLkqDgMEt2mmDLDt6E-1920-80.jpg",
+      "image_local": "images/story-202.jpg",
+      "id": "c4d324c21ee58e7a832be411360c2a1d0faf29e7",
+      "n": 13
     }
   }
 }
