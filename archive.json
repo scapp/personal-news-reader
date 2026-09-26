@@ -1,5 +1,18 @@
 {
   "order": [
+    "4eef5cabf2fc509efee5037e2ae60f6439abf8e5",
+    "56f5f422fcdbeeb54c8f7d48f7b949cc42315a41",
+    "b98d3bf4a26804f7a5c7274c7ccc3ce7a43bf4a4",
+    "34a4adec27192ad8b301e531a745f4e42dc0ac2a",
+    "bf868f8a79980b3d864fabb7dddc099203e4c273",
+    "4835ad572d05c726fa55ac412f16512e76e6d8a8",
+    "c2b4eb0852a7789e738787a738c7641a6ff49666",
+    "591d771fd2814a2795bb01265ce8d7a4c99378fb",
+    "c0638b62937a59c5eb8a242f6a3ea35f036f5c83",
+    "ce9df9643a60e28e462924609d6e26ffc777044b",
+    "22def7b3feda2b3ca636f94f11467336f424efda",
+    "4658b1793abd4fa3805aa4b370d5519bf51c743b",
+    "ed5d1a9fbc2ce601a3cfa4d07a0754dc1b34fa55",
     "fccb8ce0702b4dda2dee8934c63e2ad4943a9a01",
     "f042eb8620f77f019e5fbbbf6729a3b0aa7f80da",
     "3874e90796f60787dd43424273b5232873f890f9",
@@ -2615,7 +2628,150 @@
       "image_local": "images/story-203.jpg",
       "id": "fccb8ce0702b4dda2dee8934c63e2ad4943a9a01",
       "n": 1
+    },
+    "4eef5cabf2fc509efee5037e2ae60f6439abf8e5": {
+      "headline": "UI restores most Trumbull-area power as nor’easter knocks out 4,800",
+      "cat": "Local / Trumbull CT",
+      "source": "United Illuminating",
+      "url": "https://www.pubt.io/view/4BED438E3A5B9667D89B026951E31A78D1E7EDE8",
+      "summary": "United Illuminating said Saturday that about 4,800 customers across its Greater Bridgeport/New Haven territory — which includes Trumbull — lost power in the weekend nor’easter, with roughly 730 still out as of 11 a.m. as crews cleared trees and downed lines. Spokesperson Angela Baccaro urged residents to stay clear of debris that may hide dangling wires, report outages at 800-722-5584 or uinet.com, and drive slowly through work zones while UI works with towns through the storm.",
+      "image_remote": "https://gray-wfsb-prod.gtv-cdn.com/resizer/v2/5I2TRGJWZ5HWHKWFRWAJ3CUQYU.png?auth=d39d72f6c6b90a486890728da9e5177ac3aa95c54afab962b7bd78bffce22bb5&width=1200&height=600&smart=true",
+      "image_local": "images/story-217.jpg",
+      "id": "4eef5cabf2fc509efee5037e2ae60f6439abf8e5",
+      "n": 1
+    },
+    "56f5f422fcdbeeb54c8f7d48f7b949cc42315a41": {
+      "headline": "Trump rejects Iran’s Hormuz reopen offer before college football trip",
+      "cat": "Politics / MAGA",
+      "source": "Associated Press (via Fox5 Vegas)",
+      "url": "https://www.fox5vegas.com/2026/09/26/trump-rejects-irans-proposal-reopen-strait-hormuz/",
+      "summary": "President Trump told reporters Saturday outside the White House that he is rejecting Iran’s conditional offer to reopen the Strait of Hormuz and restart nuclear talks within seven days — after Tehran demanded an end to the U.S. naval blockade, oil-sanctions waivers, and a ceasefire that would include Lebanon. The AP notes Trump also posted a Truth Social map labeling the waterway “Trump Strait,” while mediators continue shuttle diplomacy and analysts warn a hard no could push oil higher into the midterms.",
+      "image_remote": "https://gray-kvvu-prod.gtv-cdn.com/resizer/v2/JO26JCQFJBAMBDMUMF2APM73OI.jpg?auth=12d1b54e91c2f26c08c44d6720408efb05db7850d11d305713728afc675614ec&width=1200&height=600&smart=true",
+      "image_local": "images/story-218.jpg",
+      "id": "56f5f422fcdbeeb54c8f7d48f7b949cc42315a41",
+      "n": 2
+    },
+    "b98d3bf4a26804f7a5c7274c7ccc3ce7a43bf4a4": {
+      "headline": "SCOTUS lets Trump SAVE voter-citizenship checks resume — midterm purge limited",
+      "cat": "Politics / MAGA",
+      "source": "Votebeat",
+      "url": "https://www.votebeat.org/national/2026/09/25/supreme-court-ruling-save-system-trump-dhs-noncitizens-2026-election/",
+      "summary": "The Supreme Court’s Friday emergency order stays a lower-court block so states can again run voter rolls through DHS’s expanded SAVE citizenship database — a win for Trump’s election-integrity push. Votebeat stresses the National Voter Registration Act’s 90-day ban on systematic mass removals still blunts November impact, though individualized checks can continue and bulk use can restart after the midterms. DHS says 25 mostly Republican states already used SAVE; liberals dissented citing Texas false positives.",
+      "image_remote": "https://www.votebeat.org/resizer/v2/4NXLULQWA5BWBMUFMIB3A4GPMA.jpg?smart=true&auth=e3191f9036b51bf1af28a4674ab0729fd13624383fc4e130553d8f42c410dbd3&width=1200&height=630",
+      "image_local": "images/story-219.jpg",
+      "id": "b98d3bf4a26804f7a5c7274c7ccc3ce7a43bf4a4",
+      "n": 3
+    },
+    "34a4adec27192ad8b301e531a745f4e42dc0ac2a": {
+      "headline": "House Democrat files 26 impeachment articles against Trump",
+      "cat": "Politics / MAGA",
+      "source": "Newsweek",
+      "url": "https://www.newsweek.com/donald-trump-hit-with-26-articles-of-impeachment-12492238",
+      "summary": "Rep. Steve Cohen (D-Tenn.) introduced 26 articles of impeachment covering Iran war powers, ICE/deportation policy, press access fights, tariffs, pardons, and alleged emoluments — nine days after the House tabled Al Green’s narrower immigration-focused push. Cohen concedes the GOP majority will not advance the package; Democratic leaders stayed largely hands-off after 18 Democrats helped shelve Green’s resolution. The White House had not commented; filing alone is not an impeachment without a House vote.",
+      "image_remote": "https://assets.newsweek.com/wp-content/uploads/2026/09/GettyImages-2296586210-e64ae8.jpg?w=1200&crop=1",
+      "image_local": "images/story-220.jpg",
+      "id": "34a4adec27192ad8b301e531a745f4e42dc0ac2a",
+      "n": 4
+    },
+    "bf868f8a79980b3d864fabb7dddc099203e4c273": {
+      "headline": "ICE deports eight Somali men from Guantanamo, including St. Paul mechanic",
+      "cat": "Immigration",
+      "source": "MPR News",
+      "url": "https://www.mprnews.org/story/2026/09/25/adam-abdullah-is-among-8-deported-to-somalia-from-guantanamo-bay",
+      "summary": "U.S. immigration authorities on Thursday flew eight Somali men held about a month at Guantanamo Bay to Mogadishu, including Adam Abdullah, a 31-year-old St. Paul auto mechanic arrested in December during Operation Metro Surge while his asylum case was pending. Abdullah described chains, a hunger strike, and solitary cold-room punishment; DHS called the group “the worst of the worst” without citing U.S. crimes. His attorney said final removal orders make the transfer legally defensible even as an ACLU suit challenges Guantanamo immigration detention.",
+      "image_remote": "https://img.apmcdn.org/462c05e819ae0a663a7f32f09b6f357dd158c63c/widescreen/59080e-20260925-a-man-in-a-photo-2-1200.jpg",
+      "image_local": "images/story-221.jpg",
+      "id": "bf868f8a79980b3d864fabb7dddc099203e4c273",
+      "n": 5
+    },
+    "4835ad572d05c726fa55ac412f16512e76e6d8a8": {
+      "headline": "Tesla’s Texas Robotaxi + Cybercab fleet tops 500 registered vehicles",
+      "cat": "Elon Musk / Tesla",
+      "source": "Tesla Oracle",
+      "url": "https://www.teslaoracle.com/2026/09/26/tesla-robotaxi-and-cybercab-fleet-in-texas-surpasses-the-500-mark-420-126/",
+      "summary": "As of Saturday, Texas AV trackers show 420 Model Y robotaxis and 126 Cybercabs registered for Tesla’s unsupervised ride-hail geofence — 546 combined, with Cybercab counts nearly tripling in days. Most of the fleet still runs Austin’s large geofence, while Cybercab sightings in Houston hint at expansion. Tesla fans noted the 420 Model Y tally echoes Musk’s infamous “funding secured” tweet; production continues at Giga Texas feeding the Lone Star rollout.",
+      "image_remote": "https://www.teslaoracle.com/wp-content/uploads/2026/09/Tesla-Robotaxi-Cybercab-Texas-Streets.jpg",
+      "image_local": "images/story-222.jpg",
+      "id": "4835ad572d05c726fa55ac412f16512e76e6d8a8",
+      "n": 6
+    },
+    "c2b4eb0852a7789e738787a738c7641a6ff49666": {
+      "headline": "Starship Flight 14 clears wet dress rehearsal ahead of Monday orbit try",
+      "cat": "Elon Musk / SpaceX",
+      "source": "We Talk Tesla",
+      "url": "https://wetalktesla.com/2026/09/25/starship-flight-14-launch-rehearsal-first-orbit/",
+      "summary": "SpaceX finished a full propellant-load launch rehearsal Thursday for Starship Flight 14 — still targeting Monday’s 75-minute window opening 7:15 a.m. CT for the vehicle’s first orbital attempt with 26 operational Starlink V3s. Ship 41 is planned for roughly six Earth revolutions and a Pacific splashdown off Chile after a ~10-hour mission; Booster 21 aims for a Gulf splashdown. The company still needs final FAA mission authorization even after stacking and the wet dress.",
+      "image_remote": "https://wetalktesla.com/wp-content/uploads/2026/07/starship-flight-13-next-attempt-nasa-final-1600x900-1-1200x630.jpg",
+      "image_local": "images/story-223.jpg",
+      "id": "c2b4eb0852a7789e738787a738c7641a6ff49666",
+      "n": 7
+    },
+    "591d771fd2814a2795bb01265ce8d7a4c99378fb": {
+      "headline": "Apple Siri AI settlement claims open: ~$25 per eligible iPhone through Dec. 21",
+      "cat": "Apple",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/09/22/apple-iphone-siri-ai-settlement-submit-claim/",
+      "summary": "Eligible U.S. buyers of iPhone 15 Pro/Pro Max and iPhone 16-family models purchased June 10, 2024–March 29, 2025 can file claims now through Dec. 21 in Apple’s $250 million settlement over delayed personalized Siri AI features. Per-device payouts start around $25 and could rise toward $95 if claim volume is low; a final approval hearing is set for Feb. 24, 2027 before payments. Apple denies wrongdoing; Siri AI shipped with iOS 27 as a beta-labeled feature after WWDC 2026.",
+      "image_remote": "https://images.macrumors.com/t/rq6uND0A8DlsVKCHk_zNpVeueFg=/2632x/article-new/2024/09/iphone-16-apple-intelligence.jpg",
+      "image_local": "images/story-224.jpg",
+      "id": "591d771fd2814a2795bb01265ce8d7a4c99378fb",
+      "n": 8
+    },
+    "c0638b62937a59c5eb8a242f6a3ea35f036f5c83": {
+      "headline": "Canada bill would ban courts from weighing parental-alienation claims",
+      "cat": "Parental alienation",
+      "source": "National Post",
+      "url": "https://nationalpost.com/news/canada/child-murders-report-says-canadas-courts-are-prioritizing-parental-contact-over-safety",
+      "summary": "A new paper linking “pro-contact culture” and parental-alienation accusations to eight child murders in Ontario and Quebec custody fights is fueling Liberal MP Lisa Hepfner’s Keeping Children Safe bill, which would bar courts from considering alienation evidence and block forced reunification therapy. Queen’s law professor Nicholas Bala warns an absolute ban would silence real alienation cases and miss child-protection failures; NAWL’s Suzanne Zaccour argues alienation claims systematically deflect from abuse. The bill cleared second reading and is before the justice committee.",
+      "image_remote": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2026/09/justice.jpg",
+      "image_local": "images/story-225.jpg",
+      "id": "c0638b62937a59c5eb8a242f6a3ea35f036f5c83",
+      "n": 9
+    },
+    "ce9df9643a60e28e462924609d6e26ffc777044b": {
+      "headline": "Jets take No. 1 defense into Ford Field for Glenn’s return vs. Lions",
+      "cat": "Jets football",
+      "source": "JetsInsider",
+      "url": "https://jetsinsider.com/game-day-hub/jets-lions-week-3-2026-preview/",
+      "summary": "Sunday’s 1 p.m. ET FOX kickoff in Detroit pits Aaron Glenn’s Jets — NFL’s No. 1 total defense at 197 yards allowed per game — against Dan Campbell’s 31-ppg Lions in Glenn’s first trip back as a head coach. Both clubs are 1–1 after OT/high-scoring Week 2 losses; Fitzpatrick, Mauigoa, and Taylor were early OUT candidates while Detroit’s secondary has allowed 310+ pass yards per game. Keys: Geno Smith finishing drives and whether New York’s aggressive front can force Detroit’s first turnover-starved defense to blink.",
+      "image_remote": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/jets/kxceomjmxlxhvw43ttzg",
+      "image_local": "images/story-226.jpg",
+      "id": "ce9df9643a60e28e462924609d6e26ffc777044b",
+      "n": 10
+    },
+    "22def7b3feda2b3ca636f94f11467336f424efda": {
+      "headline": "GWAR founding member Chuck Varga, aka Sexecutioner, dies of cancer",
+      "cat": "Heavy metal",
+      "source": "Blabbermouth",
+      "url": "https://blabbermouth.net/news/gwar-founding-member-chuck-varga-dies-after-battle-with-cancer",
+      "summary": "Chuck Varga, GWAR co-founder and the performer behind The Sexecutioner from 1985–2022, died after a cancer fight, bandmate Casey Orr (Beefcake the Mighty) announced Friday night. Orr said Varga passed peacefully with wife Bambi at his side and imagined a Valhalla welcome from late frontman Dave Brockie and guitarist Cory Smoot. GWAR had raised funds this summer for treatments and hospice; Bob Gorman credited Varga’s underground art aesthetic with helping define the Slave Pit universe across four decades of theatrical thrash.",
+      "image_remote": "https://assets.blabbermouth.net/media/chuckvargajune2026_638.jpg",
+      "image_local": "images/story-227.jpg",
+      "id": "22def7b3feda2b3ca636f94f11467336f424efda",
+      "n": 11
+    },
+    "4658b1793abd4fa3805aa4b370d5519bf51c743b": {
+      "headline": "Illinois judge acquits woman in hotel shooting as self-defense",
+      "cat": "Crime / Courts",
+      "source": "Hoodline",
+      "url": "https://hoodline.com/2026/09/south-holland-hotel-shooting-ends-in-acquittal-for-olympia-fields-woman/",
+      "summary": "Cook County Judge Tiana Blakely found Kennisha Laing not guilty of murder in the 2023 South Holland hotel shooting of 16-year-old Daysha Cazley, ruling the facts showed self-defense after Cazley and a friend allegedly planned to rob Laing and broke a window to force re-entry. Public defender Samuel Goldberg said texts and testimony made the charge unjustified; Laing spent a year jailed then two years on electronic monitoring with no violations before walking free. Illinois dwelling-defense and self-defense statutes both figured in the bench verdict.",
+      "image_remote": "https://img.hoodline.com/2026/9/south-holland-hotel-shooting-ends-in-acquittal-for-olympia-fields-woman.webp",
+      "image_local": "images/story-228.jpg",
+      "id": "4658b1793abd4fa3805aa4b370d5519bf51c743b",
+      "n": 12
+    },
+    "ed5d1a9fbc2ce601a3cfa4d07a0754dc1b34fa55": {
+      "headline": "Tesla Robotaxi app 26.8.2 adds Stop Now latch and native X Money pay",
+      "cat": "Elon Musk / Tesla",
+      "source": "TeslaNorth",
+      "url": "https://teslanorth.com/2026/09/25/tesla-robotaxi-26-8-2-decompile/",
+      "summary": "A decompile of Tesla’s Robotaxi iOS build 26.8.2 (stamped Sept. 21) surfaces a geofenced Stop Now pickup latch, cellular door-unlock backup when Bluetooth/UWB fails, cabin brightness control, referral confetti, and native X Money as a wallet payment type alongside Apple/Google Pay. Tracker Tesla App Updates posted the strings as Austin’s Cybercab fleet grows; none of it is an official Tesla changelog, and strings can ship or vanish before riders see them. Directionally, the phone app is becoming the Cybercab’s key, dashboard, and wallet.",
+      "image_remote": "https://cdn.teslanorth.com/wp-content/uploads/2026/09/robotaxi-app-ios-26-8.jpg",
+      "image_local": "images/story-229.jpg",
+      "id": "ed5d1a9fbc2ce601a3cfa4d07a0754dc1b34fa55",
+      "n": 13
     }
   },
-  "updated": "Saturday, September 26, 2026 · 11:42 AM ET"
+  "updated": "Saturday, September 26, 2026 · 4:05 PM ET"
 }
