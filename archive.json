@@ -1,5 +1,18 @@
 {
   "order": [
+    "754fbeb0722f9ea11a246414b35c72454955b8ac",
+    "f9873b241ba6d7ead865a73afb3d650cfb5f0b81",
+    "816fedda33ef5a61a8d09da0c0b2826c0ae1f52b",
+    "c315d573afc8401d654d5668bfb1a6e3624868b0",
+    "599ff358b77e7d189434dd3559db6069da6297a5",
+    "fd881a68c8c0372a45bf7d96e10f3a9d280a1d8f",
+    "bbdb3043a2661a282d648847a14df64d251548dc",
+    "a796aee0ab7b523cb944e752453e3d4164372692",
+    "39181d19250ab0762e8107918fd8a1eccaed9e96",
+    "a101255e36c36c058a93f2eff5b265fcf0489da2",
+    "6356530e2f32c86949e0fcec1b6708579d256260",
+    "a5d452c4dc7d6c48d09d797d9c66f27716ddaaac",
+    "5640bb707deec2bcd806bc1b0d8778706804df23",
     "4eef5cabf2fc509efee5037e2ae60f6439abf8e5",
     "56f5f422fcdbeeb54c8f7d48f7b949cc42315a41",
     "b98d3bf4a26804f7a5c7274c7ccc3ce7a43bf4a4",
@@ -2771,7 +2784,137 @@
       "image_local": "images/story-229.jpg",
       "id": "ed5d1a9fbc2ce601a3cfa4d07a0754dc1b34fa55",
       "n": 13
+    },
+    "754fbeb0722f9ea11a246414b35c72454955b8ac": {
+      "headline": "Eversource: 21,000 still dark as Fairfield coast floods; Westport parks shut",
+      "cat": "Local / Trumbull CT",
+      "source": "News 12 Connecticut",
+      "url": "https://connecticut.news12.com/2026/09/26/live-updates-connecticut-residents-brace-for-high-winds-heavy-rain-as-noreaster-takes-aim/3X6OJ0L1Eb9JMlS2TNOsLh",
+      "summary": "As of 4 p.m. Saturday, Eversource said it had restored power to about 43,000 Connecticut customers while roughly 21,000 remained without electricity in the weekend nor’easter. Westport kept parks, beaches, and athletic fields closed through Sunday, Bridgeport streets and the ferry terminal flooded under high tide and storm surge, and nearby Redding reported more than 400 homes dark — a corridor that includes Trumbull and other Fairfield County towns still clearing trees and wires.",
+      "image_remote": "https://images-cf.news12static.com/3kqcuzntcg31/1OkEkyDGODccI0GcBuON9I/123b76d120458c33b442376911c1c749/Screenshot_2026-09-26_093741.png",
+      "image_local": "images/story-230.png",
+      "id": "754fbeb0722f9ea11a246414b35c72454955b8ac"
+    },
+    "f9873b241ba6d7ead865a73afb3d650cfb5f0b81": {
+      "headline": "Trump uses pocket rescission to cancel $810M for migrant and DEI programs",
+      "cat": "Politics / MAGA",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/trump-revives-rare-budget-maneuver-rescind-810m-congressionally-approved-funds",
+      "summary": "The White House said Saturday it is canceling $810 million in congressionally approved spending via a pocket rescission, with about $567 million aimed at HHS grants that support refugees, asylees, and other noncitizens, plus cuts to migrant-student education, “Woke International Education,” and race-focused Justice and HUD programs. OMB Director Russ Vought argues the Impoundment Control Act allows the move near the Sept. 30 fiscal-year end; Sen. Susan Collins and the GAO call pocket rescissions unlawful.",
+      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/donald-trump-unga.jpg",
+      "image_local": "images/story-231.jpg",
+      "id": "f9873b241ba6d7ead865a73afb3d650cfb5f0b81"
+    },
+    "816fedda33ef5a61a8d09da0c0b2826c0ae1f52b": {
+      "headline": "Trump’s Air Force One flyover and Neyland visit wrap without headset blackouts",
+      "cat": "Politics / MAGA",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-tennessee-texas-game-flyover-communications-b3056940.html",
+      "summary": "President Trump landed in Knoxville at 11:28 a.m. ET Saturday, drew a low-altitude Air Force One flyover over Neyland Stadium, pumped his fist on the videoboard beside Tennessee’s senators, and left at 2:07 p.m. in the second half of Texas–Tennessee. Coaches had warned Secret Service movements can mute headset play-calling; ABC/ESPN reported both schools coordinated audio channels with the Secret Service, and the visit did not appear to cut communications on the field.",
+      "image_remote": "https://static.independent.co.uk/2026/09/26/18/2026-09-26T174054Z_181078908_RC25RNAH963F_RTRMADP_3_USA-TRUMP.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
+      "image_local": "images/story-232.jpg",
+      "id": "816fedda33ef5a61a8d09da0c0b2826c0ae1f52b"
+    },
+    "c315d573afc8401d654d5668bfb1a6e3624868b0": {
+      "headline": "ICE roundup: child predators, trafficker, and armed carjacker among arrests",
+      "cat": "Immigration",
+      "source": "Department of Homeland Security",
+      "url": "https://www.dhs.gov/news/2026/09/24/worst-worst-ice-arrests-child-predators-human-traffickers-and-armed-carjackers",
+      "summary": "DHS said ICE arrested several criminal illegal aliens in a recent sweep, including a Jamaican man convicted of aggravated sexual battery of a child under 13 in Virginia, an El Salvadoran convicted of sexual exploitation of a minor and child-pornography distribution in Boston, a Mexican national convicted of human trafficking/forced labor in Oakland, and another Mexican national convicted of armed carjacking in San Francisco. Secretary Markwayne Mullin said the agency will keep prioritizing “heinous” offenders under Trump’s enforcement mandate.",
+      "image_remote": "https://www.dhs.gov/sites/default/files/2024-02/24_0206_opa_og-image-dhs.jpg",
+      "image_local": "images/story-233.jpg",
+      "id": "c315d573afc8401d654d5668bfb1a6e3624868b0"
+    },
+    "599ff358b77e7d189434dd3559db6069da6297a5": {
+      "headline": "Cincinnati jury acquits Shake Shack shooter after fiancée admits victim had a gun",
+      "cat": "Crime / Courts",
+      "source": "FOX19",
+      "url": "https://www.fox19.com/2026/09/25/man-found-not-guilty-deadly-shake-shack-shooting-after-trial-developments/",
+      "summary": "A Hamilton County jury found Antwoine McCants not guilty of murder and felonious assault in the June 2025 Shake Shack shooting near the University of Cincinnati after the state’s key witness — the victim’s fiancée — recanted and admitted Christopher Stallworth was armed. Surveillance showed her removing a handgun from Stallworth’s pocket as he lay dying; McCants’s wife testified Stallworth threatened to kill him, and the coroner said Stallworth’s blood-alcohol level was more than twice the legal limit.",
+      "image_remote": "https://gray-wxix-prod.gtv-cdn.com/resizer/v2/EIIQ7D4F5RH67BY5OKF7H7OFSU.jpg?auth=0ad92adcd7a793fb53fcd9eadf8efb34f5551ccdd940db2a4386c5b1651c2695&width=1200&height=600&smart=true",
+      "image_local": "images/story-234.jpg",
+      "id": "599ff358b77e7d189434dd3559db6069da6297a5"
+    },
+    "fd881a68c8c0372a45bf7d96e10f3a9d280a1d8f": {
+      "headline": "Utah judge finds prima facie self-defense in funeral-lot double killing",
+      "cat": "Crime / Courts",
+      "source": "KSL",
+      "url": "https://www.ksl.com/article/51628808/man-charged-with-killing-2-in-shooting-outside-funeral-in-salt-lake-claims-he-acted-in-self-defense",
+      "summary": "A Salt Lake City judge ruled John Vea Uasike Jr. has a prima facie self-defense claim in the Jan. 7 funeral parking-lot shooting that killed two and injured six, raising prosecutors’ burden to clear-and-convincing proof that the force was not justified. His brother testified he was shot from behind before Uasike returned fire; prosecutors say other witnesses claimed Uasike drew first. Arguments continue toward a Nov. 16 ruling that could dismiss the murder counts.",
+      "image_remote": "https://img.ksl.com/slc/3139/313984/31398416.jpeg?filter=kslv2/responsive_story_lg",
+      "image_local": "images/story-235.jpg",
+      "id": "fd881a68c8c0372a45bf7d96e10f3a9d280a1d8f"
+    },
+    "bbdb3043a2661a282d648847a14df64d251548dc": {
+      "headline": "SpaceX flies classified USSF-385; trackers tie West Coast cadence to Starshield",
+      "cat": "Elon Musk / SpaceX",
+      "source": "Teslarati",
+      "url": "https://www.teslarati.com/spacex-space-force-launch-starshiled-infrastructure/",
+      "summary": "SpaceX lofted the classified USSF-385 mission from Vandenberg at 7:00 a.m. PT Saturday, and Falcon 9 booster B1100 stuck its tenth landing on Of Course I Still Love You. Independent trackers note the fourth Space Force launch from the same pad in about six weeks, with prior flights cataloging satellite counts that match Starshield buses, while SpaceX holds $1.6 billion in Vandenberg Falcon 9 task orders through 2027 — and Starship Flight 14’s first orbit try is still targeted for Monday.",
+      "image_remote": "https://www.teslarati.com/wp-content/uploads/2026/09/spacex-starship-flight-14-sunset-starbase-1000x600.jpg",
+      "image_local": "images/story-236.jpg",
+      "id": "bbdb3043a2661a282d648847a14df64d251548dc"
+    },
+    "a796aee0ab7b523cb944e752453e3d4164372692": {
+      "headline": "Tesla builds first Cybertruck with lithium refined at its Texas Gulf Coast plant",
+      "cat": "Elon Musk / Tesla",
+      "source": "WION",
+      "url": "https://www.wionews.com/technology/tesla-builds-first-cybertruck-with-its-own-refined-lithium-elon-musk-s-1-billion-texas-bet-pays-off-1790444358505",
+      "summary": "Tesla said a Cybertruck rolled off the Gigafactory Texas line Sept. 22 using 4680 cells with lithium hydroxide refined at its more-than-$1 billion Robstown, Texas, Gulf Coast refinery — the company’s first vehicle tied to its own refining step. The acid-free alkaline leach process, Tesla claims, cuts carbon about 30% and reagent costs about 60%; Cybertruck production has passed 100,000 units, though new dual-motor orders still show April 2027 delivery estimates.",
+      "image_remote": "https://www.teslarati.com/wp-content/uploads/2026/09/tesla-cybercab-cathode-1-1000x600.jpeg",
+      "image_local": "images/story-237.jpg",
+      "id": "a796aee0ab7b523cb944e752453e3d4164372692"
+    },
+    "39181d19250ab0762e8107918fd8a1eccaed9e96": {
+      "headline": "Penguins’ Bryan Rust leaves Sabres preseason early in empty-bench scare",
+      "cat": "Penguins hockey",
+      "source": "Markerzone",
+      "url": "https://www.markerzone.com/news/index.php?no=606313",
+      "summary": "Bryan Rust left Pittsburgh’s Saturday preseason game at Buffalo after roughly 20 seconds of a shift and did not return, with the Penguins confirming the empty bench spot before offering a reason. The 34-year-old posted 65 points in 72 games last season on a $5.125 million cap hit through 2027-28; Pittsburgh opens the regular season Wednesday in Philadelphia, so any multi-game absence would hit a veteran who has scored 20-plus goals in seven straight seasons.",
+      "image_remote": "https://i.marqueur.com/habsetlnh/i/photo/686011.webp",
+      "image_local": "images/story-238.webp",
+      "id": "39181d19250ab0762e8107918fd8a1eccaed9e96"
+    },
+    "a101255e36c36c058a93f2eff5b265fcf0489da2": {
+      "headline": "Aaron Glenn returns to Detroit as Jets’ No. 1 defense faces Lions’ leaky secondary",
+      "cat": "Jets football",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/nfl/news/aaron-glenn-returns-to-detroit-as-jets-visit-lions/",
+      "summary": "Aaron Glenn brings the Jets (1-1) back to Ford Field on Sunday to face Dan Campbell’s Lions (1-1), a reunion of former Detroit staffmates now on opposite sidelines. New York ranks No. 1 in yards allowed and has held its first two foes under 200 yards; Detroit ranks 31st in points, yards, and pass defense and is without several safeties, while Geno Smith has torched Detroit for about 348 yards per game in three prior visits.",
+      "image_remote": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/jets/xyum3oafa6szgktnitkn",
+      "image_local": "images/story-239.jpg",
+      "id": "a101255e36c36c058a93f2eff5b265fcf0489da2"
+    },
+    "6356530e2f32c86949e0fcec1b6708579d256260": {
+      "headline": "Stryper drops 18th album Throne of Thorns with Shadowbreaker visualizer",
+      "cat": "Heavy metal",
+      "source": "Sonic Perspectives",
+      "url": "https://www.sonicperspectives.com/news/stryper-release-new-album-throne-of-thorns-unveil-new-single-shadowbreaker/",
+      "summary": "Christian metal pioneers Stryper released their 18th studio album, Throne of Thorns, on Friday via Frontiers Music, pairing the launch with a visualizer for closer “Shadowbreaker.” Michael Sweet called the track a “full throttle banger” that shows the band’s heavier 2026 side; Oz Fox and Perry Richardson praised the record’s heart and refusal to quit after decades of classic-metal harmony guitars and anthemic choruses.",
+      "image_remote": "https://www.sonicperspectives.com/wp-content/uploads/2026/09/Stryper.png",
+      "image_local": "images/story-240.png",
+      "id": "6356530e2f32c86949e0fcec1b6708579d256260"
+    },
+    "a5d452c4dc7d6c48d09d797d9c66f27716ddaaac": {
+      "headline": "Apple Watch Ultra 4, Mac mini, and Mac Studio see first launch-week discounts",
+      "cat": "Apple",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/09/25/best-apple-deals-of-the-week-9-25-26/",
+      "summary": "MacRumors’ Friday deals roundup flagged the first cash discounts on Apple’s brand-new Mac mini and Mac Studio (up to $50 off at Amazon), plus Apple Watch Ultra 4 at $779.99 ($19 off) and AirPods Pro 3 at $199 ($50 off). Beats 360 cushion kits also dropped to $9.99 from $49.99 for a limited window, giving Ultra and Mac buyers early markdowns in the first week after launch.",
+      "image_remote": "https://images.macrumors.com/t/s-l7mxPVgrIW4A1bILoKGXOrUI8=/2500x/article-new/2025/02/Best-Apple-Deals-Feature-0007-1.jpg",
+      "image_local": "images/story-241.jpg",
+      "id": "a5d452c4dc7d6c48d09d797d9c66f27716ddaaac"
+    },
+    "5640bb707deec2bcd806bc1b0d8778706804df23": {
+      "headline": "Bullet For My Valentine announce Social Apocalypse album, first song in four years",
+      "cat": "Heavy metal",
+      "source": "Blabbermouth",
+      "url": "https://blabbermouth.net/news/bullet-for-my-valentine-announces-new-album-social-apocalypse-shares-title-track",
+      "summary": "Welsh metallers Bullet For My Valentine will release Social Apocalypse on March 19, 2027, via Spinefarm, unveiling the title track — their first new song in four years — with a Chris Wade video. Matt Tuck says the record stares down a world of conflict and rapid change; guests include Against The Current’s Chrissy Costanza and Lorna Shore’s Will Ramos, with producer Carl Bown back and a 2027 European arena tour on sale Sept. 30.",
+      "image_remote": "https://assets.blabbermouth.net/media/bulletformyvalentinesept2026_638.jpg",
+      "image_local": "images/story-242.jpg",
+      "id": "5640bb707deec2bcd806bc1b0d8778706804df23"
     }
   },
-  "updated": "Saturday, September 26, 2026 · 4:05 PM ET"
+  "updated": "Saturday, September 26, 2026 · 6:18 PM ET"
 }
