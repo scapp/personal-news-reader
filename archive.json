@@ -1,5 +1,17 @@
 {
   "order": [
+    "05595d1757744d62d8b5717e727367068e4149c2",
+    "bebdae94eb6fb02c781345dec4cbb79b1797fce0",
+    "7930b45200d1dc93efdb793a88819132774b7218",
+    "ac72f195884337d86a47e232401c875bf0fe3e37",
+    "7bc26b8c15d94df3c4d1d6f2cbb33ffe9c5496ac",
+    "1da167c72a3b5ec981924804661189e1f5a93cc2",
+    "243538775748e7d7e80bf80ebda8f213bd5eb43d",
+    "2e117dd4d6917658f242e75c44fa50dd241a877f",
+    "91b4b3cfc2ce1a101e80c91869705f540ca95116",
+    "85adc31ba3c7a40e69578047039588903cbd1f0d",
+    "d1c0d2a18ec01f7d766004320b65d4be41152649",
+    "bd9ed235ac527735cf6cb331282da851faa60a07",
     "dc7da0c7af2fba44c72b39b0bded3dab473cf85f",
     "040bd2e25859a9fb59bd4aeb5b3d689d542e2cb6",
     "8db00f31f3c7f1aef3f1b700542f0058738a1145",
@@ -2146,6 +2158,138 @@
       "image_remote": "https://npr.brightspotcdn.com/dims4/default/8978d20/2147483647/strip/true/crop/3000x1575+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb5%2F87%2Fea1bbef547e9a049d08621f17620%2Fpower-lines.jpg",
       "image_local": "images/story-169.jpg",
       "id": "dc7da0c7af2fba44c72b39b0bded3dab473cf85f",
+      "n": 1
+    },
+    "bd9ed235ac527735cf6cb331282da851faa60a07": {
+      "headline": "Adirondacks foliage outlook: near-peak this weekend in Lake Placid–Saranac corridor",
+      "cat": "USA travel",
+      "source": "Adirondack Explorer",
+      "url": "https://www.adirondackexplorer.org/environment/fall-color-outlook-what-to-expect-in-the-adirondacks/",
+      "summary": "Adirondack Explorer’s Sept. 24–25 foliage outlook cites I LOVE NY’s report that Lake Placid, Saranac Lake, and Tupper Lake should be near-peak for the Sept. 25–27 weekend, with Lake Champlain still low. AccuWeather’s Chad Merrill expects vibrant early-to-mid-October peak aided by a non-drought summer; a coastal nor’easter this weekend should spare the High Peaks the worst wind. ROOST anticipates strong leaf-peeping tourism through mid-October for drive-to East Coast travelers.",
+      "image_remote": "https://www.adirondackexplorer.org/wp-content/uploads/2020/10/IMG_6249-scaled-e1601637998814.jpg",
+      "image_local": "images/story-189.jpg",
+      "id": "bd9ed235ac527735cf6cb331282da851faa60a07",
+      "n": 12
+    },
+    "d1c0d2a18ec01f7d766004320b65d4be41152649": {
+      "headline": "Lions rule out Bartch and Harper for Sunday vs Jets; OL starters expected back",
+      "cat": "Jets football",
+      "source": "Detroit Lions",
+      "url": "https://www.detroitlions.com/news/lions-vs-jets-injury-report-sept-25-bartch-miller-harper",
+      "summary": "Detroit’s Friday injury report for Sunday’s home game against the Jets lists offensive lineman Ben Bartch (foot) and safety Thomas Harper (ankle) as Out after three straight non-participation days. Tackle Blake Miller (knee), Christian Mahogany (hip), and Tate Ratledge (elbow) returned to full participation and carry no game designation, while Alim McNeill is full after a personal absence — sharpening the Week 3 matchup picture opposite New York’s already-thin injury list.",
+      "image_remote": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/lions/l6gogeoxucvfmwhm3a8n",
+      "image_local": "images/story-188.jpg",
+      "id": "d1c0d2a18ec01f7d766004320b65d4be41152649",
+      "n": 11
+    },
+    "85adc31ba3c7a40e69578047039588903cbd1f0d": {
+      "headline": "Penguins cut camp roster: Hayes to AHL; Brazeau out with lower-body injury",
+      "cat": "Penguins hockey",
+      "source": "NHL.com / Penguins",
+      "url": "https://www.nhl.com/penguins/news/penguins-training-camp-updates-09-25-26",
+      "summary": "Ahead of Saturday’s preseason finale in Buffalo, the Penguins assigned Avery Hayes, Atley Calvert, Tanner Howe, and Mikhail Ilyin to Wilkes-Barre/Scranton, returned the Ruck twins to Medicine Hat, released Collin Delia from his PTO, and listed Oliver Okuliar as injured non-roster. Justin Brazeau missed practice while being evaluated for a lower-body injury; Blake Lizotte and Ben Kindel remain week-to-week. Coach Dan Muse ran Crosby–Malkin–Karlsson–heavy lines and special-teams looks with Tommy Novak on PP1.",
+      "image_remote": "https://media.d3.nhle.com/image/private/t_ratio16_9-size50/prd/seguo6iifmtgtpi2p6ca.jpg",
+      "image_local": "images/story-187.jpg",
+      "id": "85adc31ba3c7a40e69578047039588903cbd1f0d",
+      "n": 10
+    },
+    "91b4b3cfc2ce1a101e80c91869705f540ca95116": {
+      "headline": "Insta360, sitting on 73% of 360 cameras, eyes smart glasses and mirrorless",
+      "cat": "Photography / Insta360",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/999489/insta360-smart-glasses-mirrorless-interview",
+      "summary": "In a Verge interview tied to Insta360’s 10-millionth camera and new Times Square flagship, cofounder Max Richter says the company — with 73% worldwide 360-camera share — is experimentally building smart glasses and two mirrorless cameras aimed at creators between phones and pro bodies. Founder JK Liu previously confirmed an unconventional mirrorless form factor. The piece also covers X6 AI highlight reels, free Gaussian-splat quotas, DJI rivalry, and U.S. policy risk after Insta360 distanced its Antigravity drone brand.",
+      "image_remote": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/insta360-opening-store.jpg?quality=90&strip=all&crop=8.4%2C26.142458670923%2C85.6%2C67.211731671605&w=1200",
+      "image_local": "images/story-186.jpg",
+      "id": "91b4b3cfc2ce1a101e80c91869705f540ca95116",
+      "n": 9
+    },
+    "2e117dd4d6917658f242e75c44fa50dd241a877f": {
+      "headline": "Canon demos live volumetric MR sports viewing over NTT’s IOWN network",
+      "cat": "Photography / Canon",
+      "source": "Canon Global",
+      "url": "https://global.canon/en/news/2026/20260925.html",
+      "summary": "Canon announced a Sept. 18 demonstration that streamed a basketball game at Aichi International Arena during the 2026 Asian Games as live 3D volumetric video to about 60 participants in Tokyo using MREAL mixed-reality devices. Roughly 100 cameras fed a remote 3D-generation server at Canon’s Kawasaki office over NTT’s IOWN All-Photonics Network — billed as a world-first for recreating a competition venue as live 3D spatial data for freely chosen viewpoints. Canon says it will push practical sports-fan deployments with partners.",
+      "image_remote": "https://global.canon/en/news/img/2026/p20260925a.jpg",
+      "image_local": "images/story-185.jpg",
+      "id": "2e117dd4d6917658f242e75c44fa50dd241a877f",
+      "n": 8
+    },
+    "243538775748e7d7e80bf80ebda8f213bd5eb43d": {
+      "headline": "macOS 27 Golden Gate brings Apple Intelligence into Photos, Safari, Shortcuts, Finder",
+      "cat": "Apple",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/09/25/macos-27-adds-new-apple-intelligence-features-to-your-favorite-apps/",
+      "summary": "Apple’s public macOS 27 Golden Gate release layers Apple Intelligence across core Mac apps beyond Siri AI: Photos gains Spatial Reframing, Extend, and a stronger Clean Up; Safari can auto-group tabs, Notify Me of site changes, and build extensions from natural-language prompts; Shortcuts can be created and iterated in plain English; Finder suggests file and folder names from content. The update is available on all Apple Silicon Macs.",
+      "image_remote": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-intelligence.jpg?quality=82&strip=all&resize=1200,628",
+      "image_local": "images/story-184.jpg",
+      "id": "243538775748e7d7e80bf80ebda8f213bd5eb43d",
+      "n": 7
+    },
+    "1da167c72a3b5ec981924804661189e1f5a93cc2": {
+      "headline": "Danbury police and DEA Bridgeport arrest two after weeks-long crack and gun probe",
+      "cat": "Crime / Public safety",
+      "source": "WFSB",
+      "url": "https://www.wfsb.com/2026/09/25/two-arrested-danbury-after-weeks-long-drug-investigation/",
+      "summary": "Danbury Special Investigations detectives working with the DEA Bridgeport Field Office arrested Patricia Saunders and Ronald Reiske Jr. after a monthlong narcotics probe that ended Sept. 22. Police say Saunders allegedly sold drugs from a Danbury Housing Authority unit on Fairfield Ridge; after watching a South Street parking-lot sale, officers found crack on Reiske and recovered crack cocaine, a scale, and a firearm in a search of the apartment. Both were booked at headquarters.",
+      "image_remote": "https://gray-wfsb-prod.gtv-cdn.com/resizer/v2/DKNPN3WTGVCPLJEMUBDVMZNLDY.png?auth=a3e8b2022847fb0c67fe69a77ae885bcd4d281c29b4f3ee0dee17564dae06a29&width=1200&height=600&smart=true",
+      "image_local": "images/story-183.png",
+      "id": "1da167c72a3b5ec981924804661189e1f5a93cc2",
+      "n": 6
+    },
+    "7bc26b8c15d94df3c4d1d6f2cbb33ffe9c5496ac": {
+      "headline": "AP: CNN, MS NOW, Politico back at White House — but the media-ban fight isn’t over",
+      "cat": "Media / Free speech",
+      "source": "Associated Press (via WRAL)",
+      "url": "https://www.wral.com/news/ap/783de-a-white-house-press-ban-was-lifted-this-week-but-the-tensions-and-legal-battle-arent-over-yet/",
+      "summary": "Associated Press reports journalists from CNN, MS NOW, and Politico are back on White House grounds after Judge Timothy Kelly’s 14-day TRO restored credentials Trump revoked over unfavorable coverage. Kelly focused on Fifth Amendment due process — fair notice and a chance to respond — not yet a full First Amendment ruling; preliminary-injunction filings loom. The piece also notes the TV pool resumed Friday after sister networks refused to shoot alone while CNN was banned, and recounts Trump’s earlier fights with the pool and the AP “Gulf of America” dispute.",
+      "image_remote": "https://images.wral.com/50f2a67e-059a-5d1d-930e-35df3638bcf6?w=1200&h=630&height=630",
+      "image_local": "images/story-182.jpg",
+      "id": "7bc26b8c15d94df3c4d1d6f2cbb33ffe9c5496ac",
+      "n": 5
+    },
+    "ac72f195884337d86a47e232401c875bf0fe3e37": {
+      "headline": "ICE seeks modular detention, interview, and virtual-court units for ~50 field offices",
+      "cat": "Immigration",
+      "source": "Project Salt Box",
+      "url": "https://www.projectsaltbox.com/p/ice-seeks-modular-detention-units",
+      "summary": "ICE posted Friday market-research asking contractors to lease prefab Field Detention Units (~900 sq ft), interview rooms, and 60-sq-ft Virtual Immigration Court Units at about 50 continental U.S. field offices, citing arrests that have outpaced holding space. The draft sets no occupancy limit or max stay and omits beds; responses are due Oct. 6. File metadata reviewed by Project Salt Box lists GEO Group on the source Word document. The ask follows a June 2025 waiver extending hold-room stays to 72 hours and comes as courts move some hearings into DHS space.",
+      "image_remote": "https://substackcdn.com/image/fetch/$s_!y-Cz!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7c2cd8eb-5914-4017-8002-288055365b04_2700x1414.png",
+      "image_local": "images/story-181.png",
+      "id": "ac72f195884337d86a47e232401c875bf0fe3e37",
+      "n": 4
+    },
+    "7930b45200d1dc93efdb793a88819132774b7218": {
+      "headline": "UVU’s 158-page report details security failures before Charlie Kirk assassination",
+      "cat": "Charlie Kirk / Campus",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/us/erika-kirk-sounds-off-long-awaited-university-report-husbands-assassination",
+      "summary": "Utah Valley University released a 158-page independent after-action review of Charlie Kirk’s Sept. 10, 2025 assassination on campus, finding inconsistent policy application, insufficient outdoor-event security, and no assigned camera monitor in university police. Reviewers said no one acted in bad faith but flagged key decision points from Aug. 25–Sept. 10, including approving the courtyard without a documented security plan. Kirk family attorney Brett Parkinson said the report reaffirms UVU was understaffed and unprepared; UVU’s president pledged to act on the recommendations.",
+      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/image-1.png",
+      "image_local": "images/story-180.png",
+      "id": "7930b45200d1dc93efdb793a88819132774b7218",
+      "n": 3
+    },
+    "bebdae94eb6fb02c781345dec4cbb79b1797fce0": {
+      "headline": "Xi and Trump schedule November China meeting and December G20 follow-up",
+      "cat": "Politics / MAGA",
+      "source": "Associated Press (via WHDH)",
+      "url": "https://whdh.com/news/xi-says-hell-see-trump-again-soon-as-he-wraps-up-us-visit-with-a-look-at-the-constitution/",
+      "summary": "Associated Press reports Chinese President Xi Jinping wrapped his Washington state visit Friday by locking in two more meetings with President Trump before year-end — at APEC in Shenzhen, China, in November (with an invitation for Melania Trump) and at the G20 at Trump National Doral in Miami in December. Trump confirmed both on social media after Red Room tea and a National Archives stop. Analysts noted limited trade breakthroughs beyond a short truce extension; Trump said they discussed the Iran war and Ambassador Perdue said he again warned Xi against aiding Tehran.",
+      "image_remote": "https://whdh.com/wp-content/uploads/sites/3/2026/05/051426-trump-xi.jpg?quality=60&strip=color",
+      "image_local": "images/story-179.jpg",
+      "id": "bebdae94eb6fb02c781345dec4cbb79b1797fce0",
+      "n": 2
+    },
+    "05595d1757744d62d8b5717e727367068e4149c2": {
+      "headline": "CT DOT worker Elvin Hernandez killed on I-95 in Fairfield; driver charged with manslaughter",
+      "cat": "Local / Trumbull CT",
+      "source": "NBC Connecticut",
+      "url": "https://www.nbcconnecticut.com/news/local/longtime-ct-dot-worker-killed-while-performing-road-maintenance-on-i-95-officials/3778677/",
+      "summary": "Elvin Hernandez, 60, a CTDOT worker since 2010 based at the Stratford garage, was killed Friday morning while picking up debris on southbound I-95 near Fairfield Exit 20 — a commute corridor for Trumbull and Fairfield County. Police say Edward Myers of Derby drifted onto the shoulder and struck him; Myers allegedly appeared impaired, admitted heroin use, had cocaine on him, and was driving without a required interlock after an April DUI conviction. He is jailed on manslaughter and related charges with a Monday court date. Gov. Lamont will lower flags for funeral services; DOT trucks escorted Hernandez’s body in procession.",
+      "image_remote": "https://media.nbcconnecticut.com/2026/09/Screenshot-2026-09-25-at-3.52.22-PM.png?resize=1200%2C675&quality=85&strip=all",
+      "image_local": "images/story-178.png",
+      "id": "05595d1757744d62d8b5717e727367068e4149c2",
       "n": 1
     }
   }
