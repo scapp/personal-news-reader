@@ -1,5 +1,19 @@
 {
   "order": [
+    "fccb8ce0702b4dda2dee8934c63e2ad4943a9a01",
+    "f042eb8620f77f019e5fbbbf6729a3b0aa7f80da",
+    "3874e90796f60787dd43424273b5232873f890f9",
+    "71f7ccd850f9ed5e3c043667d1c282cb5a5c32ab",
+    "f0d17c6384e62dc0510939b1e0e2859d86827e70",
+    "6a4cb798924180051ae9af1bb92e4ead44e5f133",
+    "7844649b6c005ebaeb5395e4eae85f823a14c780",
+    "f275899957908fa5ff70af3cbb3f8daef8999834",
+    "ce204bf4b7a7527fd8a846e088d886e77ec07e80",
+    "8ade95831425fedbf51d85816d2bbf5ad19d3894",
+    "f1e0b71f94d3ce795d899d4b3239f1b0848e19d9",
+    "2a4e545291381e1ba8718fab7c7f5abf6c1afab6",
+    "6fd4175b58f1ce7fc703dd83b0599819d3bc0abb",
+    "f57e5af9970c22403705befa7d77ae0ed6e8116f",
     "1923dba4ce6a90f31323c07e5639b2b7b83ac121",
     "29219beab3bc0dc8f05d3d747dad23158bc24dcc",
     "ca433df6262d32fcb8405735a037c6d04e784067",
@@ -2447,6 +2461,161 @@
       "image_local": "images/story-202.jpg",
       "id": "c4d324c21ee58e7a832be411360c2a1d0faf29e7",
       "n": 13
+    },
+    "f57e5af9970c22403705befa7d77ae0ed6e8116f": {
+      "headline": "Turtle Beach Vulcan II XP Air keyboard: 2,000-hour battery, AirTrack gestures",
+      "cat": "Gadgets",
+      "source": "PC Central",
+      "url": "https://pccentral.net/turtle-beach-vulcan-ii-xp-air-keyboard-announced/",
+      "summary": "Turtle Beach’s Vulcan II XP Air wireless mechanical keyboard lands Oct. 25 at $199.99 with hot-swappable TITAN HS Red linear switches, an AirTrack touchless gesture sensor, and triple connectivity (2.4 GHz, Bluetooth, USB-A) across five devices. A 6,000 mAh pack claims up to 95 hours with RGB/AirTrack on — or up to 2,000 hours with both off — plus full N-key rollover and 50-million-keystroke-rated switches. A cheaper wired Vulcan II XP variant ships around the same window for players who skip wireless.",
+      "image_remote": "https://cdn.pccentral.net/social-share/2026/09/turtle-beach-vulcan-ii-xp-air-keyboard-announced-social-45700ed0.jpg",
+      "image_local": "images/story-216.jpg",
+      "id": "f57e5af9970c22403705befa7d77ae0ed6e8116f",
+      "n": 14
+    },
+    "6fd4175b58f1ce7fc703dd83b0599819d3bc0abb": {
+      "headline": "Jets at Lions: Glenn’s return, Fitzpatrick and Taylor OUT for Sunday",
+      "cat": "Jets football",
+      "source": "NBC Sports",
+      "url": "https://www.nbcsports.com/nfl/news/jets-vs-lions-prediction-odds-expert-picks-qb-matchup-injury-update-betting-trends-and-stats",
+      "summary": "Sunday’s 1 p.m. ET FOX kickoff at Ford Field brings Aaron Glenn back to Detroit against Jared Goff’s Lions, with both clubs at 1-1. New York is without safety Minkah Fitzpatrick (groin) and tight end Mason Taylor (thumb); Adonai Mitchell and Joseph Ossai are questionable. The Jets’ third-down defense (23.8% allowed) is the tactical key against a Lions offense that just hung 327 yards and four TDs on Buffalo but couldn’t get off the field. Geno Smith has been efficient (70.8%) if not explosive; Garrett Wilson remains the clear WR1.",
+      "image_remote": "https://nbcsports.brightspotcdn.com/dims4/default/e251991/2147483647/strip/true/crop/10977x6175+0+1413/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff2%2F37%2Fa3b480ff4e9a8e90b7529cde13f0%2F2026-09-25t081656z-1897845826-mt1usatoday29907370-rtrmadp-3-nfl-detroit-lions-at-buffalo-bills.jpg",
+      "image_local": "images/story-215.jpg",
+      "id": "6fd4175b58f1ce7fc703dd83b0599819d3bc0abb",
+      "n": 13
+    },
+    "2a4e545291381e1ba8718fab7c7f5abf6c1afab6": {
+      "headline": "Penguins preview: Murashov vs Silovs, Karlsson, McGroarty among big questions",
+      "cat": "Penguins hockey",
+      "source": "TribLIVE",
+      "url": "https://triblive.com/sports/tim-benz-cracking-a-6-pack-of-questions-as-the-penguins-begin-the-regular-season/",
+      "summary": "Tim Benz’s Saturday six-pack frames Pittsburgh’s 2026-27 opener around whether Sergei Murashov can seize the No. 1 crease over Arturs Silovs, whether Erik Karlsson repeats last year’s 66-point form after Parker Wotherspoon was dealt, and whether Rutger McGroarty (and Ville Koivunen’s $32M deal) can produce from middle-six roles behind Crosby/Malkin. Defense depth after Letang/Karlsson and rebounds from Chinakhov and Kindel round out the list. Benz pegs even making the playoffs as roughly a coin flip — and a first round win since 2018 as unlikely.",
+      "image_remote": "https://assets-varnish.triblive.com/2026/09/9955606_web1_ptr-PensMam08-121525.jpg",
+      "image_local": "images/story-214.jpg",
+      "id": "2a4e545291381e1ba8718fab7c7f5abf6c1afab6",
+      "n": 12
+    },
+    "f1e0b71f94d3ce795d899d4b3239f1b0848e19d9": {
+      "headline": "Fall foliage map: Rockies, Tetons, North Shore peaking this weekend",
+      "cat": "USA travel",
+      "source": "GetOutdoors",
+      "url": "https://www.getoutdoors.com/fall-foliage-map-where-color-is-peaking/",
+      "summary": "GetOutdoors’ week-of-Sept. 22 foliage board says color is peaking now in Colorado’s high aspens (Kebler, Independence, Dallas Divide), Grand Teton valley stands (Oxbow Bend, Gros Ventre), and Minnesota’s North Shore maples (Oberg, Gunflint, Hwy 61). Peaking this weekend: Adirondack High Peaks around Lake Placid/Keene and northern New England high country (upper Kanc, Vermont’s Northeast Kingdom, Maine’s Height of Land). Drought may shorten Colorado’s show; UP Michigan, North Cascades larches, and West Virginia highlands are still early-October plays.",
+      "image_remote": "https://www.getoutdoors.com/wp-content/uploads/2026/09/fall-foliage-map-peak-2026.jpg",
+      "image_local": "images/story-213.jpg",
+      "id": "f1e0b71f94d3ce795d899d4b3239f1b0848e19d9",
+      "n": 11
+    },
+    "8ade95831425fedbf51d85816d2bbf5ad19d3894": {
+      "headline": "GM PIP6131: 2026 Duramax L5P tick/grind may mean rocker oiling failure",
+      "cat": "Auto / Engine reliability",
+      "source": "SPELAB",
+      "url": "https://www.spelabautoparts.com/blogs/blog/2026-l5p-duramax-engine-noise-pip6131",
+      "summary": "GM Preliminary Information PIP6131 (NHTSA MC-11036220) flags abnormal upper-engine tick, screech, or grinding — sometimes with misfire or shake — on some 2026 Silverado/Sierra HD trucks with the 6.6L L5P Duramax. Technicians are told to check lubrication to the rocker shaft/arms; if lack of oiling is confirmed, the listed correction is engine and turbocharger replacement, not a simple rocker swap. The bulletin is PI for dealers, not a recall; HD owners are advised to document symptoms and stop hard towing until a dealer inspects under warranty.",
+      "image_remote": "https://cdn.shopify.com/s/files/1/0174/0609/9556/files/2026-l5p-duramax-engine-noise-pip6131-cover.webp",
+      "image_local": "images/story-212.jpg",
+      "id": "8ade95831425fedbf51d85816d2bbf5ad19d3894",
+      "n": 10
+    },
+    "ce204bf4b7a7527fd8a846e088d886e77ec07e80": {
+      "headline": "Canon EOS R7 Mark II pushed to Q1 2027, stacked 39MP rumor intact",
+      "cat": "Canon / Photography",
+      "source": "Daily Camera News",
+      "url": "https://www.dailycameranews.com/2026/09/canon-eos-r7-mark-ii-delayed-q1-2027-release/",
+      "summary": "Industry updates now say Canon’s next APS-C flagship — the EOS R7 Mark II — will miss 2026 entirely and target a Q1 2027 announcement ahead of Japan’s CP+ show. Rumored specs still point to a 39MP BSI stacked sensor, DIGIC X + Accelerator dual processing, ~40 fps blackout-free electronic burst, neural pre-capture, and a mixed SD + CFexpress Type B slot layout at a premium ~$2,000-plus price. Birding and sports shooters who need reach now are steered to the original R7; waiters get a fuller APS-C overhaul next year.",
+      "image_remote": "https://www.dailycameranews.com/wp-content/uploads/2026/01/canon-eos-r7-mark-ii-rumors-2026.webp",
+      "image_local": "images/story-211.webp",
+      "id": "ce204bf4b7a7527fd8a846e088d886e77ec07e80",
+      "n": 9
+    },
+    "f275899957908fa5ff70af3cbb3f8daef8999834": {
+      "headline": "Apple code confirms iPad 12: A19, 8GB RAM, C1X modem, Wi-Fi 7 N1",
+      "cat": "Apple",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/09/25/ipad-12-feature-leak/",
+      "summary": "MacRumors contributor Aaron Perris pulled iPad 12 specs from Apple’s own code: A19 chip (vs A16 on iPad 11), 8GB RAM (the Apple Intelligence floor), Apple’s C1X 5G modem, and the N1 chip for Wi-Fi 7, Bluetooth 6, and Thread. The jump enables full Apple Intelligence and Siri AI features missing from the current entry iPad. Timing still looks like spring 2027 at a likely $449 start; October’s nearer Apple slate remains the iPad mini refresh plus HomePod mini and Apple TV 4K.",
+      "image_remote": "https://images.macrumors.com/t/iSFOQjopKpxLVd11v90FFqYlVQY=/2500x/article-new/2026/07/ipad-peach.jpeg",
+      "image_local": "images/story-210.jpg",
+      "id": "f275899957908fa5ff70af3cbb3f8daef8999834",
+      "n": 8
+    },
+    "7844649b6c005ebaeb5395e4eae85f823a14c780": {
+      "headline": "LEGO unveils 40899 Astro Bot GWP alongside October PlayStation set",
+      "cat": "LEGO",
+      "source": "Brickset",
+      "url": "https://brickset.com/article/134914/lego-playstation-40899-astro-bot-revealed!",
+      "summary": "Brickset confirms LEGO’s 276-piece 40899 Astro Bot gift-with-purchase, timed with the Oct. 1 early access of 72306 PlayStation. Full spend thresholds are not yet official; current rumor points to a ~$150 purchase threshold rather than locking the bot solely to the console SKU. The build includes alternate eye tiles for expressions and is positioned as a companion to the classic grey PlayStation model — one of the stronger GWPs of the year for robot and PlayStation fans.",
+      "image_remote": "https://brickset.com/utils/ogimage/article/134914?60163",
+      "image_local": "images/story-209.jpg",
+      "id": "7844649b6c005ebaeb5395e4eae85f823a14c780",
+      "n": 7
+    },
+    "6a4cb798924180051ae9af1bb92e4ead44e5f133": {
+      "headline": "Megadeth plays Grammy Museum rooftop set after No. 1 self-titled album",
+      "cat": "Heavy metal",
+      "source": "Blabbermouth",
+      "url": "https://blabbermouth.net/news/watch-megadeth-performs-at-grammy-museums-ray-charles-rooftop-terrace-in-los-angeles",
+      "summary": "Megadeth sat with MTV alum Matt Pinfield at the Grammy Museum’s Ray Charles Rooftop Terrace Thursday, then ripped a seven-song set spanning new cuts (“Tipping Point,” “I Don’t Care,” “Let There Be Shred”) and classics (“Sweating Bullets,” “Symphony Of Destruction,” “Peace Sells,” “Holy Wars”). The appearance follows the band’s self-titled seventeenth studio album becoming its first Billboard 200 No. 1. Fan video of the LA performance is circulating; the thrash pioneers continue marking five decades since Dave Mustaine founded the band in 1983.",
+      "image_remote": "https://assets.blabbermouth.net/media/megadethgrammysept2026_638.jpg",
+      "image_local": "images/story-208.jpg",
+      "id": "6a4cb798924180051ae9af1bb92e4ead44e5f133",
+      "n": 6
+    },
+    "f0d17c6384e62dc0510939b1e0e2859d86827e70": {
+      "headline": "Starship Flight 14 targets 8:15 a.m. Monday for first orbital attempt",
+      "cat": "Elon Musk / SpaceX",
+      "source": "Space.com",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-14-1st-orbital-launch-what-time",
+      "summary": "Space.com’s Saturday mission guide sets SpaceX’s Starship Flight 14 launch window opening 8:15 a.m. EDT Monday, Sept. 28, from Starbase Pad 2 — a 75-minute window with Sept. 29–30 backups. Unlike past ~1-hour suborbital tests, the nearly 10-hour flight aims for a ~171-mile orbit, six revolutions, a Pez-style deploy of 26 Starlink V3s (~26 Tbps capacity claimed), Super Heavy splashdown in the Gulf, and Ship splashdown off Chile. SpaceX’s webcast starts about 30 minutes before liftoff; NASASpaceflight offers earlier pad cams.",
+      "image_remote": "https://cdn.mos.cms.futurecdn.net/aYc24XbhGdegfbde9nfdLF-1280-80.png",
+      "image_local": "images/story-207.png",
+      "id": "f0d17c6384e62dc0510939b1e0e2859d86827e70",
+      "n": 5
+    },
+    "71f7ccd850f9ed5e3c043667d1c282cb5a5c32ab": {
+      "headline": "CT Renaissance Faire closed as nor’easter cancels festivals statewide",
+      "cat": "Renaissance faires",
+      "source": "WFSB",
+      "url": "https://www.wfsb.com/2026/09/25/events-across-state-canceled-or-delayed-due-weekend-storm/",
+      "summary": "WFSB’s storm cancelation roundup lists the Connecticut Renaissance Faire closed for the weekend as the coastal nor’easter rolled in, scrubbing Faerie Ring Revels days on the Lebanon grounds. Also off or postponed: Bristol Mum Festival, Plainville America 250, Milford Oktoberfest’s Saturday slate, Hamden’s Brooksvale Fall Festival, and several town birthday bashes pushed to early October. Organizers cite wind, rain, and coastal flood risk; faire fans are pointed to later season weekends through late October if weather cooperates.",
+      "image_remote": "https://gray-wfsb-prod.gtv-cdn.com/resizer/v2/MI2ZGEDVXZEMPPKAKRBDJBA744.jpg?auth=16b975411485974e4bbdf3327e307d34646f62cdd6209a0edbf90e389a16965f&width=1200&height=600&smart=true",
+      "image_local": "images/story-206.jpg",
+      "id": "71f7ccd850f9ed5e3c043667d1c282cb5a5c32ab",
+      "n": 4
+    },
+    "3874e90796f60787dd43424273b5232873f890f9": {
+      "headline": "Coaches warn Trump’s Knoxville visit can cut headset comms mid-drive",
+      "cat": "Politics / MAGA",
+      "source": "Associated Press (via KSL)",
+      "url": "https://www.ksl.com/article/51628947/trump-is-attending-a-big-college-football-game-and-coaches-are-worried-about-disruptions",
+      "summary": "AP reports Texas coach Steve Sarkisian saying Secret Service protocols can kill coach-to-coach and coach-to-player headsets “anytime” President Trump enters, leaves, or moves inside Neyland Stadium — with no warning — during Saturday’s No. 1 Texas vs. No. 14 Tennessee noon kickoff. Coaches cited brief blackouts when Trump left last season’s College Football Playoff title game; the White House denies that exit caused problems. Fans were told gates open early with enhanced screening as Trump watches Arch Manning play where uncle Peyton made his name.",
+      "image_remote": "https://img.ksl.com/slc/3203/320336/32033662.jpg?filter=kslv2/responsive_story_lg",
+      "image_local": "images/story-205.jpg",
+      "id": "3874e90796f60787dd43424273b5232873f890f9",
+      "n": 3
+    },
+    "f042eb8620f77f019e5fbbbf6729a3b0aa7f80da": {
+      "headline": "China, U.S. agree $30 billion reciprocal tariff cut and AI dialogue after Xi visit",
+      "cat": "Politics / MAGA",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/26/china-us-tariff-cut-ai-dialogue.html",
+      "summary": "Beijing said Saturday that Presidents Xi and Trump locked in an eight-point consensus from this week’s Washington state visit, including a $30 billion reciprocal tariff-reduction arrangement on non-sensitive goods, a new trade council, and an extension of earlier Kuala Lumpur talks. The sides also agreed to launch a U.S.–China dialogue on AI risks and benefits — with the next round by November — plus a bilateral channel for AI-related incidents. Officials framed the package as implementation steps rather than a full trade deal; Xi has already returned to Beijing.",
+      "image_remote": "https://image.cnbcfm.com/api/v1/image/108368099-1790347548042-gettyimages-2296814522-_s013237_lnya27tp.jpeg?v=1790347728",
+      "image_local": "images/story-204.jpg",
+      "id": "f042eb8620f77f019e5fbbbf6729a3b0aa7f80da",
+      "n": 2
+    },
+    "fccb8ce0702b4dda2dee8934c63e2ad4943a9a01": {
+      "headline": "Nearly 15,000 without power as nor’easter hits Fairfield County coast",
+      "cat": "Local / Trumbull CT",
+      "source": "Patch",
+      "url": "https://patch.com/connecticut/across-ct/ct-weather-nearly-15-000-lose-power-powerful-noreaster-bears-down-state-live",
+      "summary": "Patch’s Saturday live updates put roughly 14,000 Connecticut homes and businesses offline by mid-morning as the weekend nor’easter delivered leafed-tree wind gusts and heavy rain bands. Eversource alone reported about 12,900 outages (Guilford, Ledyard, Wilton among the hardest hit) with UI adding another 1,200-plus. Coastal flood warnings remain for Fairfield and New Haven counties through Sunday evening with 2–3 feet of inundation possible on high tides — the shoreline corridor that includes Trumbull’s neighbors — and a statewide wind advisory runs into Sunday morning.",
+      "image_remote": "https://patch.com/img/cdn20/users/22729282/20260926/072558/styles/patch_image/public/lightning___26072541738.jpg",
+      "image_local": "images/story-203.jpg",
+      "id": "fccb8ce0702b4dda2dee8934c63e2ad4943a9a01",
+      "n": 1
     }
-  }
+  },
+  "updated": "Saturday, September 26, 2026 · 11:42 AM ET"
 }
