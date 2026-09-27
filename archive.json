@@ -1,5 +1,18 @@
 {
   "order": [
+    "634a357c1ea6f9e92ecd9f6d375c5e84e4e86738",
+    "2853779a9d68ef5a6a9d93ca7133d62498207023",
+    "138abd297da41a11912b00718e6ab7fbdbea935e",
+    "74be918e674e5b599c78e1df746920c65c808051",
+    "c8a57cd58cc9565ee228484f29d4d88f0e042a57",
+    "ec34cfcc6db1de32615e4aff243c015ceba89bec",
+    "b0539216881f557ba755ae9aa063d9e82ea7e1aa",
+    "972cdbd8126e91dc0909c8ac4a5b358ad0d48bc3",
+    "58b6f7051eaf3f30b52f42c779c6b2875eae0b2d",
+    "0882bcfd6d0e62fe191651d86769655e03115c44",
+    "2ef679a1ad299d1d9eda9b8cdd0c6d3b718dee8c",
+    "e44485406aa7d537701063deb63ec0fbf37d9d16",
+    "b1a755a24b6d29c4599ca6d943877d71cd1f3756",
     "bd5d10fb07ba4e95b065896ee227401a46d9f560",
     "2513ac7b8c278ad93b63a477273717039d1184af",
     "4f7de3d170d4e5da60e044636e22fed365479b7d",
@@ -3501,7 +3514,137 @@
       "image_remote": "https://images.unsplash.com/photo-1500674425229-f692875b0ab7?auto=format&fit=crop&w=1200&q=80",
       "id": "40b6f00194f6265a06b3579f2dc594aa65e69159",
       "image_local": "images/story-292.jpg"
+    },
+    "634a357c1ea6f9e92ecd9f6d375c5e84e4e86738": {
+      "headline": "UI and Eversource restore tens of thousands after nor’easter; shoreline hit hardest",
+      "cat": "Local / Trumbull CT",
+      "source": "WFSB",
+      "url": "https://www.wfsb.com/2026/09/27/restoration-underway-noreaster-knocks-out-power-tens-thousands-ct/",
+      "summary": "Tens of thousands of Connecticut customers woke up without power Sunday after the nor’easter’s wind gusts toppled trees and lines across Fairfield County and the shoreline. United Illuminating crews worked neighborhoods in Milford and elsewhere after some customers lost power more than once, while Eversource said it had restored more than 120,000 customers by mid-morning. UI officials hoped most remaining outages would be cleared Sunday night — a continuing recovery story for Trumbull and other UI towns still clearing trees and wires.",
+      "image_remote": "https://images.unsplash.com/photo-1527482797697-8795b05a13fe?auto=format&fit=crop&w=1200&q=80",
+      "id": "634a357c1ea6f9e92ecd9f6d375c5e84e4e86738",
+      "image_local": "images/story-293.jpg"
+    },
+    "2853779a9d68ef5a6a9d93ca7133d62498207023": {
+      "headline": "Westport: 262 still dark Sunday morning; parks, beaches and fields closed after nor’easter",
+      "cat": "Westport CT EMS",
+      "source": "06880",
+      "url": "https://06880danwoog.com/2026/09/27/roundup-storm-update-wall-of-fame-craftwestport/",
+      "summary": "Westport’s Sunday roundup put 262 local customers without power at 7 a.m. (about 2% of town), with Weston harder hit at 547 outages and more than 28,000 dark statewide. Parks & Recreation closed all town parks, athletic fields, beaches and racquet facilities while staff assess storm damage, urging residents to avoid downed trees, flooding and barricades. The same post notes CraftWestport returns Nov. 7–8 at Staples and lists Staples football Wall of Fame inductees — practical Fairfield County recovery and community notes for the EMS always-search lane.",
+      "image_remote": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80",
+      "id": "2853779a9d68ef5a6a9d93ca7133d62498207023",
+      "image_local": "images/story-294.jpg"
+    },
+    "138abd297da41a11912b00718e6ab7fbdbea935e": {
+      "headline": "Jets fall 31–24 in Glenn’s Detroit return after late Geno fumble ends comeback",
+      "cat": "Jets football",
+      "source": "New York Jets",
+      "url": "https://www.newyorkjets.com/news/jets-lions-game-recap-week-3-09-27-2026",
+      "summary": "Aaron Glenn’s return to Detroit ended 31–24 after the Jets clawed from a 24–10 fourth-quarter hole to tie at 24, then watched Jahmyr Gibbs take Jared Goff’s game-winning score with 2:25 left. Geno Smith threw for 321 yards and three touchdowns; Garrett Wilson (10-107-1) and rookie TE Kenyon Sadiq (7-105-1) each topped 100 receiving yards before a late sack-fumble sealed it. Breece Hall (thigh) and Dylan Parham (knee) left injured; Wilson cleared a head evaluation as New York dropped to 1–2 ahead of next week at Chicago.",
+      "image_remote": "https://images.unsplash.com/photo-1566577739112-5180d4bf9390?auto=format&fit=crop&w=1200&q=80",
+      "id": "138abd297da41a11912b00718e6ab7fbdbea935e",
+      "image_local": "images/story-295.jpg"
+    },
+    "74be918e674e5b599c78e1df746920c65c808051": {
+      "headline": "Penguins send Zonnon, Brunicke, Blomqvist to AHL with Monday roster deadline looming",
+      "cat": "Penguins hockey",
+      "source": "The Hockey News",
+      "url": "https://thehockeynews.com/nhl/pittsburgh-penguins/latest-news/penguins-make-three-more-cuts-before-monday-s-deadline",
+      "summary": "Pittsburgh assigned forward Bill Zonnon, defenseman Harrison Brunicke and goaltender Joel Blomqvist to Wilkes-Barre/Scranton on Sunday as the club closes in on its 23-man roster before Monday’s deadline. None of the moves were surprises after solid camps; Brunicke is expected to pair with Owen Pickering in the AHL while Blomqvist starts in WBS and Sergei Murashov remains the NHL backup behind Arturs Silovs. The Penguins open Wednesday at Philadelphia with more injury-driven call-ups still possible.",
+      "image_remote": "https://images.unsplash.com/photo-1515703407324-5f753afd8be8?auto=format&fit=crop&w=1200&q=80",
+      "id": "74be918e674e5b599c78e1df746920c65c808051",
+      "image_local": "images/story-296.jpg"
+    },
+    "c8a57cd58cc9565ee228484f29d4d88f0e042a57": {
+      "headline": "Starship Flight 14: first orbital try Monday with 26 Starlink V3s and Pacific splashdown",
+      "cat": "Elon Musk / SpaceX",
+      "source": "NASASpaceFlight",
+      "url": "https://www.nasaspaceflight.com/2026/09/starship-flight-14-orbit/",
+      "summary": "NASASpaceFlight’s Sunday deep dive lays out Flight 14’s first orbital plan: Booster 21 and Ship 41 lifting from Starbase at 7:15 a.m. CDT Monday in a 75-minute window, aiming for a ~275 km orbit, deployment of 26 Starlink V3 satellites, then an ~10-hour mission ending with a Chile-coast Pacific splashdown. Conservatives abort paths keep Indian Ocean and Hawaii splashdowns available if health checks fail, and the FAA’s revised Part 450 license now splits launch and reentry orders for this flight only. Booster catch is deferred; success would clear the path toward reuse and Flight 15.",
+      "image_remote": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=1200&q=80",
+      "id": "c8a57cd58cc9565ee228484f29d4d88f0e042a57",
+      "image_local": "images/story-297.jpg"
+    },
+    "ec34cfcc6db1de32615e4aff243c015ceba89bec": {
+      "headline": "Araghchi on Meet the Press: Iran ‘fully prepared’ for war resume but still open to diplomacy",
+      "cat": "Politics / MAGA",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/world/iran/iran-fully-prepared-war-resume-foreign-minister-rcna600059",
+      "summary": "Iranian Foreign Minister Abbas Araghchi told NBC’s Meet the Press that Tehran is ready to resume fighting with the United States while still pursuing diplomacy after President Trump publicly rejected a seven-day Hormuz reopen plan. He said Trump’s rejection had not yet been formally delivered through mediators and that Iran wants frozen assets and oil sales restored under terms Iran says track the collapsed June MOU. UN Ambassador Mike Waltz, also on MTP, called the offer a cynical bid for sanctions relief and said Trump will keep all options on the table.",
+      "image_remote": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
+      "id": "ec34cfcc6db1de32615e4aff243c015ceba89bec",
+      "image_local": "images/story-298.jpg"
+    },
+    "b0539216881f557ba755ae9aa063d9e82ea7e1aa": {
+      "headline": "Judge Kelly’s TRO restores CNN, MS NOW and POLITICO hard passes for 14 days",
+      "cat": "Media / Free speech",
+      "source": "Recording Law",
+      "url": "https://www.recordinglaw.com/news/cnn-ms-now-politico-hard-pass-tro/",
+      "summary": "A detailed free legal write-up of Judge Timothy Kelly’s Sept. 24 TRO in Cable News Network v. Trump explains why the White House must reinstate hard passes for CNN, MS NOW and POLITICO for 14 days — on Fifth Amendment due process, not a First Amendment merits win. The court found no notice, no hearing and only a vague “professionalism and decorum” standard, and it carved President Trump himself out of the injunction’s binding language. Preliminary-injunction briefing runs through early October as the Air Force One access fight continues in parallel.",
+      "image_remote": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+      "id": "b0539216881f557ba755ae9aa063d9e82ea7e1aa",
+      "image_local": "images/story-299.jpg"
+    },
+    "972cdbd8126e91dc0909c8ac4a5b358ad0d48bc3": {
+      "headline": "Fort Lauderdale Airbnb renter shoots teen in alleged home invasion; probed as self-defense",
+      "cat": "Crime / Courts",
+      "source": "Local 12",
+      "url": "https://local12.com/news/nation-world/airbnb-renter-shoots-18-year-old-alleged-home-invasion-investigated-self-defense-teen-teenager-fort-lauderdale-broward-county-florida-shooting-shots-fired-gun-breakin-dareon-pubien-sean-thompson-jail-attempted-murder",
+      "summary": "Fort Lauderdale police say an Airbnb renter shot 18-year-old Dareon Pubien in the chest after two armed men allegedly broke into the rental on Sept. 24. Pubien fled wounded, was found nearby in critical but stable condition, and now faces attempted murder and home-invasion charges along with 25-year-old Sean Thompson, who was held without bond. The renter has not been publicly identified while detectives investigate the shooting as self-defense and whether the break-in was random or targeted.",
+      "image_remote": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?auto=format&fit=crop&w=1200&q=80",
+      "id": "972cdbd8126e91dc0909c8ac4a5b358ad0d48bc3",
+      "image_local": "images/story-300.jpg"
+    },
+    "58b6f7051eaf3f30b52f42c779c6b2875eae0b2d": {
+      "headline": "Kane County clears Aurora officers in January knife-and-fuel fatal shooting",
+      "cat": "Crime / Courts",
+      "source": "Fox Valley Magazine",
+      "url": "https://foxvalleymagazine.com/2026/09/27/kane-county-states-attorney-clears-aurora-officers-in-fatal-shooting/",
+      "summary": "Kane County State’s Attorney Jamie Mosser ruled Sunday that two Aurora officers were justified when they fatally shot 27-year-old Temesgen Welendreyas in January after he advanced with a knife and what proved to be a diesel fuel can. Officers spent about 17 minutes trying to de-escalate, then fired four rounds when he swung the knife close enough to strike a shield on entry. Mosser found no state-law or department-policy violations after a Fox Valley Major Crimes Task Force investigation.",
+      "image_remote": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=1200&q=80",
+      "id": "58b6f7051eaf3f30b52f42c779c6b2875eae0b2d",
+      "image_local": "images/story-301.jpg"
+    },
+    "0882bcfd6d0e62fe191651d86769655e03115c44": {
+      "headline": "iPhone Duo hands-on: crease nearly gone, IP68 and Pencil — still $1,999 and heavier than Fold 8",
+      "cat": "Apple",
+      "source": "Tom's Guide",
+      "url": "https://www.tomsguide.com/phones/iphones/iphone-duo-hands-on-apple-nailed-it-and-just-put-everyone-else-on-notice",
+      "summary": "Tom’s Guide’s Mark Spoonauer says Apple’s first foldable feels polished in early hands-on use: a hard-to-feel crease on the 7.6-inch inner display, IP68 durability, grade-5 titanium, MagSafe and Apple Pencil support that Samsung’s Fold 8 lacks. Trade-offs remain — $1,999 starting price, thicker/heavier than the Galaxy Z Fold 8, dual rear cameras without a true telephoto, and two-app multitasking versus Samsung’s three. Pre-orders open Oct. 16 for an Oct. 23 launch.",
+      "image_remote": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=1200&q=80",
+      "id": "0882bcfd6d0e62fe191651d86769655e03115c44",
+      "image_local": "images/story-302.jpg"
+    },
+    "2ef679a1ad299d1d9eda9b8cdd0c6d3b718dee8c": {
+      "headline": "Tesla engineers say Grok 4.7 overnight agents are shipping FSD and Cybercab features",
+      "cat": "Elon Musk / Tesla",
+      "source": "TeslaNorth",
+      "url": "https://teslanorth.com/2026/09/22/tesla-engineers-are-using-grok-4-7-to-ship-fsd-and-cybercab-features-overnight/",
+      "summary": "Elon Musk highlighted a Tesla AI staff engineer’s note that Grok 4.7’s Build harness helped ship multiple FSD and Cybercab features overnight after weeks of harness tuning for longer-running agents and better multimodal performance. The piece frames Grok as moving from chatbot to real engineering tool inside Tesla while the same assistant expands in-car for email, calendars and work tasks. Specific features weren’t named, but the overlap between Tesla product work and xAI tooling keeps growing.",
+      "image_remote": "https://images.unsplash.com/photo-1560958089-b8a1929cea89?auto=format&fit=crop&w=1200&q=80",
+      "id": "2ef679a1ad299d1d9eda9b8cdd0c6d3b718dee8c",
+      "image_local": "images/story-303.jpg"
+    },
+    "e44485406aa7d537701063deb63ec0fbf37d9d16": {
+      "headline": "Metallica maps Sphere fringe events for Life Burns Faster Las Vegas takeover",
+      "cat": "Heavy metal",
+      "source": "Rock Sound",
+      "url": "https://rocksound.tv/news/metallica-reveal-fringe-events-for-las-vegas-sphere-takeover",
+      "summary": "Metallica’s Life Burns Faster Sphere run starts Oct. 1 with no-repeat Thursday/Saturday weekends through Halloween, and the band detailed fan extras across the Strip: a Venetian Summit pop-up, Friday Black Box memorabilia rooms, Art of Squindo Q&As, a SiriusXM takeover, Blackened cigar events and a Red Cross blood-drive merch experience. The shows lean on Sphere’s wraparound LED, immersive audio and 4D effects for a career-spanning set unlike a standard arena night. Tickets and fringe details are live ahead of the October opening.",
+      "image_remote": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?auto=format&fit=crop&w=1200&q=80",
+      "id": "e44485406aa7d537701063deb63ec0fbf37d9d16",
+      "image_local": "images/story-304.jpg"
+    },
+    "b1a755a24b6d29c4599ca6d943877d71cd1f3756": {
+      "headline": "CT Renaissance Faire guide: Lebanon weekends through Oct. 25, new jousts and Merry Macabre",
+      "cat": "Renaissance faires",
+      "source": "The CT Beacon",
+      "url": "https://thectbeacon.com/event/connecticut-renaissance-faire-2026-guide/2026-09-27/",
+      "summary": "The CT Beacon’s free 2026 guide covers the Lebanon Country Fairgrounds Faire through Oct. 25 — $18 adults, 40+ daily shows on 13 stages, new Roundtable/Equus Nobilis jousts, and the new Merry Macabre weekend Oct. 24–25. Practical notes include $10 advance premium parking (525 spots), free shuttle lots, a broad pet policy and same-day re-entry with a handstamp. Useful planning copy for remaining fall weekends after the nor’easter scrambled late-September outdoor events.",
+      "image_remote": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?auto=format&fit=crop&w=1200&q=80",
+      "id": "b1a755a24b6d29c4599ca6d943877d71cd1f3756",
+      "image_local": "images/story-305.jpg"
     }
   },
-  "updated": "Sunday, September 27, 2026 · 4:15 PM ET"
+  "updated": "Sunday, September 27, 2026 · 6:15 PM ET"
 }
