@@ -1,5 +1,18 @@
 {
   "order": [
+    "e204e6a23f48eddb9703bebf533998a2166e2d47",
+    "597705daad8df8f4f14bc8d326267263d2ad8e5e",
+    "3c709fba5b47556cdbd031180e8fb09abaedcb74",
+    "c9483f89017de15d541abb78aeb8ceb3e41a32cc",
+    "76767239400c30f3c8ca1e9514bf484400fea1cf",
+    "445485dd0933c276287b8598298293f397e3957b",
+    "2ba50401e9f3ce24ab8349ec01beea56e63aca41",
+    "a0594ad4881be361333fdcbb95fbe3d4fd0b5a84",
+    "cec56dd471a1a834b4fb93e75b93e504c64ab1ea",
+    "a7e2ce85c07312437fdfb8d901ddf86251e8fec2",
+    "c4cd0f6a2abe9c1da6e4085a01ae6bd9b9c9d379",
+    "561b53d898dde7c5f5c441daf0b38a37aefe82a0",
+    "9a3cf2451435cfe109ac56ff829eba7078a3a414",
     "6890fde52a5bcf1d550de1e9e292117812ffe7cf",
     "aa6de74f43e8c10727ad61a12fa814d5c5a0e88e",
     "2a0fe484e0db0fdf25c36ecae0ec4ef2ef0b27c7",
@@ -3058,7 +3071,137 @@
       "image_local": "images/story-254.jpg",
       "id": "33b01c93ef18fab500a95c989f6622f441246554",
       "n": 12
+    },
+    "e204e6a23f48eddb9703bebf533998a2166e2d47": {
+      "headline": "Trumbull Fall Flu Clinics open Sept. 30 with walk-ins through Nov. 9",
+      "cat": "Local / Trumbull CT",
+      "source": "Town of Trumbull",
+      "url": "https://trumbull-ct.gov/204/Public-Health-Nursing",
+      "summary": "Trumbull’s Health Department posted its 2026 Fall Flu Clinic schedule, starting with walk-in hours Wednesday, Sept. 30 from 10 a.m.–noon and 2–4 p.m., then continuing through Nov. 9 with evening sessions and an Oct. 28 Superhero Theme Clinic. Pediatric nasal and standard shots plus adult and senior doses are offered while supplies last; bring insurance cards and ID, and print the consent form ahead if you can. Patients whose plans aren’t on the accepted list pay out of pocket, and residents without coverage are still welcome.",
+      "id": "e204e6a23f48eddb9703bebf533998a2166e2d47",
+      "image_remote": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-255.jpg"
+    },
+    "597705daad8df8f4f14bc8d326267263d2ad8e5e": {
+      "headline": "Banks: Indiana ICE sweep of 426 arrests shows why Congress must lock in Trump’s crackdown",
+      "cat": "Immigration",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/massive-ice-sweep-fuels-gop-push-lock-trump-immigration-crackdown-law",
+      "summary": "Sen. Jim Banks (R-Ind.) told Fox News Digital that Operation Safe Community: Indiana’s five-day ICE push — 426 arrests tied to sex crimes, assault, domestic violence, drugs, and weapons — is exactly why voters chose mass deportation in 2024. He argues executive enforcement alone won’t survive a future Democratic administration and is pressing a seven-bill package covering birthright citizenship, H-1B, noncitizen CDLs, and TPS limits. Banks also dinged Senate Republicans for still not passing the SAVE Act’s proof-of-citizenship voting rules.",
+      "id": "597705daad8df8f4f14bc8d326267263d2ad8e5e",
+      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/02/immigrant-line-jim-banks.png",
+      "image_local": "images/story-256.png"
+    },
+    "3c709fba5b47556cdbd031180e8fb09abaedcb74": {
+      "headline": "DHS: ‘No one is off the table’ after rumor ICE paused non-criminal arrests",
+      "cat": "Immigration",
+      "source": "The Mirror US",
+      "url": "https://www.themirror.com/news/us-news/dhs-says-no-one-table-2041558",
+      "summary": "After anonymous sources told The Daily Wire that ICE was ordered to stop collateral and non-criminal arrests ahead of the midterms, DHS fired back on X Saturday night: the claim is false and “no one is off the table.” The department said agents will keep arresting anyone in the country illegally and framed a nationwide surge around sanctuary-city criminals. Conservative critics had already blasted DHS Secretary Markwayne Mullin; the quick denial aims to shut down talk of a quiet enforcement pullback.",
+      "id": "3c709fba5b47556cdbd031180e8fb09abaedcb74",
+      "image_remote": "https://www.dhs.gov/sites/default/files/2024-02/24_0206_opa_og-image-dhs.jpg",
+      "image_local": "images/story-257.jpg"
+    },
+    "c9483f89017de15d541abb78aeb8ceb3e41a32cc": {
+      "headline": "ICE lodges detainers on two men charged in New Braunfels crash that killed a father",
+      "cat": "Crime / Courts",
+      "source": "KSAT",
+      "url": "https://www.ksat.com/news/local/2026/09/27/dhs-immigration-detainer-filed-for-2-men-accused-of-causing-fatal-new-braunfels-crash/",
+      "summary": "DHS says ICE placed immigration detainers on Rafael Alejandro Arreguin-Ramirez, 25, and Alejandro Aguillen-Acosta, 23, after a Sept. 12 head-on crash on FM 725 in New Braunfels killed 27-year-old Alejandro Nunez and injured his 3-year-old daughter. Both men entered illegally from Mexico and face intoxication manslaughter, aggravated assault with a deadly weapon, and evading arrest; the passenger fled on foot before police found him in a nearby garage. ICE asked Texas partners to hold them for removal after local prosecution.",
+      "id": "c9483f89017de15d541abb78aeb8ceb3e41a32cc",
+      "image_remote": "https://bc.gmg.io/image/upload/c_thumb,q_auto,w_700,f_jpg/media/video/ksat/23010043-c95b-42c6-8efd-166797813100/image.jpg?api_key=ksat_9a37fc89631abedf",
+      "image_local": "images/story-258.jpg"
+    },
+    "76767239400c30f3c8ca1e9514bf484400fea1cf": {
+      "headline": "Trump stumps for Protect College Sports Act at Texas–Tennessee; Senate vote next week",
+      "cat": "Politics / MAGA",
+      "source": "Next News Network",
+      "url": "https://nextnewsnetwork.com/2026/09/27/trump-pushes-protect-college-sports-act-at-texas-tennessee-game-as-senate-vote-n",
+      "summary": "At Neyland Stadium on Saturday, President Trump pressed the Protect College Sports Act, claiming roughly 78 Senate votes and calling the bipartisan margin rare in recent years. He said the House still needs to act and praised Speaker Mike Johnson as “fantastic,” with a Senate vote expected Monday or Tuesday. Trump framed the bill as a fix for college athletics’ financial and competitive mess after NIL and transfer upheaval, using the Texas–Tennessee spotlight to lobby both lawmakers and fans.",
+      "id": "76767239400c30f3c8ca1e9514bf484400fea1cf",
+      "image_remote": "https://nextnewsnetwork.com/generated-images/editorial-28647-muj7aip6.jpg",
+      "image_local": "images/story-259.jpg"
+    },
+    "445485dd0933c276287b8598298293f397e3957b": {
+      "headline": "Penguins cut six more, waive Caleb Jones as Monday roster deadline looms",
+      "cat": "Penguins hockey",
+      "source": "Pittsburgh Hockey Now",
+      "url": "https://pittsburghhockeynow.com/pittsburgh-penguins-cut-6-more-waive-caleb-jones/",
+      "summary": "Pittsburgh trimmed camp again, assigning Owen Pickering, Jake Livanavage, Chase Pietila, Rafael Harvey-Pinard, and goalie Cam Johnson to Wilkes-Barre/Scranton and placing defenseman Caleb Jones on waivers for the same destination. Jones’s 2025-26 season unraveled after early top-six promise — injuries, a mid-year setback, then a PED suspension left him with just seven games. The club still has to get down to 23 by Monday’s 5 p.m. deadline after closing preseason 3–1 in Buffalo.",
+      "id": "445485dd0933c276287b8598298293f397e3957b",
+      "image_remote": "https://media.pittsburghhockeynow.com/wp-content/uploads/2026/09/26154016/NHL-Preseason-Pittsburgh-Penguins-at-Columbus-Blue-Jackets-tagreuters-com2026newsml_mt1usatoday29904475328921214-1600x900.jpg",
+      "image_local": "images/story-260.jpg"
+    },
+    "2ba50401e9f3ce24ab8349ec01beea56e63aca41": {
+      "headline": "Jets preview: Glenn returns to Detroit in “attack mode” vs. Campbell’s Lions",
+      "cat": "Jets football",
+      "source": "New York Jets",
+      "url": "https://www.newyorkjets.com/news/jets-at-lions-week-3-2026-game-preview-aaron-glenn-dan-campbell-09-20-20267",
+      "summary": "Official Jets preview frames Sunday’s Ford Field rematch as Aaron Glenn bringing the NFL’s top-ranked defense into a 60-minute brawl with Dan Campbell’s 31-point-per-game offense. Campbell called it no trap game after Buffalo’s 41–31 Thursday thrashing; Glenn said his unit is disciplined, limiting explosives, and “attacking in our way” without blitzing every snap. Geno Smith (70.8% completions) shrugged off scoreboard pressure, saying the job is to give the defense leads so it can hunt.",
+      "id": "2ba50401e9f3ce24ab8349ec01beea56e63aca41",
+      "image_remote": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/jets/kxceomjmxlxhvw43ttzg",
+      "image_local": "images/story-261.jpg"
+    },
+    "a0594ad4881be361333fdcbb95fbe3d4fd0b5a84": {
+      "headline": "Ritchie Blackmore: Deep Purple reunion felt like coming back from the dead",
+      "cat": "Guitar",
+      "source": "Guitar Player",
+      "url": "https://www.guitarplayer.com/guitarists/in-a-brand-new-interview-ritchie-blackmore-says-deep-purple-reunion-was-like-coming-back-from-war-everybody-thought-i-was-dead-and-there-i-was-i-was-alive",
+      "summary": "In a new Now Spinning interview series published Sunday, Ritchie Blackmore likened his Aug. 12 Jones Beach cameo — one song, “Smoke on the Water,” after 33 years away — to a soldier everyone thought was dead walking home. Candice Night emailed the ask; Ian Gillan welcomed him for that single track, ticket sales jumped, and front-row fans sat in bay water as the crowd erupted. Blackmore called it playing with old friends and “well worth doing,” knowing it might be the last time they share a stage.",
+      "id": "a0594ad4881be361333fdcbb95fbe3d4fd0b5a84",
+      "image_remote": "https://cdn.mos.cms.futurecdn.net/ymLRTcZT27yJFCeaJaydXS-2000-80.jpg",
+      "image_local": "images/story-262.jpg"
+    },
+    "cec56dd471a1a834b4fb93e75b93e504c64ab1ea": {
+      "headline": "Napalm Death’s Shane Embury: next album ‘probably’ not before late 2027",
+      "cat": "Heavy metal",
+      "source": "Blabbermouth",
+      "url": "https://blabbermouth.net/news/shane-embury-says-next-napalm-death-album-probably-wont-arrive-before-late-2027",
+      "summary": "Bassist Shane Embury told Pod Scum the grind pioneers are demoing album No. 17 with Russ Russell at Parlour Studios — guitars and bass tracked as “bare bones” for Danny Herrera to reshape — but touring means a late-2027 release is more likely than a summer drop. Mark “Barney” Greenway may start lyrics on the November run, and Embury joked a fan’s ask for a 12–13-minute weird track might actually happen. He’s still checking whether there’s enough blast-beat material for Herrera.",
+      "id": "cec56dd471a1a834b4fb93e75b93e504c64ab1ea",
+      "image_remote": "https://assets.blabbermouth.net/media/shaneemburysept2026_638.jpg",
+      "image_local": "images/story-263.jpg"
+    },
+    "a7e2ce85c07312437fdfb8d901ddf86251e8fec2": {
+      "headline": "Minnesota Renaissance Festival hits 55 years with Art Affair weekend through Oct. 2",
+      "cat": "Renaissance faires",
+      "source": "The Minnesota Daily",
+      "url": "https://mndaily.com/arts-entertainment/art/minnesota-renaissance-festival-celebrates-55-years-of-medieval-merriment/09/24/2026/snoadmin/",
+      "summary": "The country’s largest Ren Fest in Shakopee is celebrating 55 years and draws up to 300,000 visitors a season, with Sept. 26–27 themed as an “art affair” of Shakespeare, murals, and cosplay contests before the Oct. 2 finale. Full-contact jouster Sam Kuecker of The New Riders of the Golden Age says Minnesota’s crowd is louder than most stops on the circuit. College students can shave $7 (and get a free beer if of age) on the Friday closer with a student ID; A/B report cards unlock a free ticket any day.",
+      "id": "a7e2ce85c07312437fdfb8d901ddf86251e8fec2",
+      "image_remote": "https://mndaily.com/wp-content/uploads/2026/09/7vBM3hq5M9GtD0Kut6xeCMNwIuZZqkIEzTvmujCU-1200x837.png",
+      "image_local": "images/story-264.png"
+    },
+    "c4cd0f6a2abe9c1da6e4085a01ae6bd9b9c9d379": {
+      "headline": "Triumph stop-ride recall: TF450 rocker arms can seize — dealers replace cylinder heads",
+      "cat": "Engine reliability",
+      "source": "Wind Burned Eyes",
+      "url": "https://windburnedeyes.com/why-triumphs-tf450-recall-demands-new-cylinder-heads/",
+      "summary": "CPSC’s Sept. 10 notice covers about 1,560 U.S. and 171 Canadian 2025–26 Triumph TF450 dirt bikes (C, E, X, and RC; not the TF250) after rocker arms seize or stick, leaving exhaust valves open or broken and stalling the bike mid-ride. Triumph logged 12 reports and one crash with a broken bone; the free fix is a full cylinder-head swap, not a bolt tweak. Owners should park the bike, check the VIN on Triumph’s recall tool, and call 1-888-284-6288.",
+      "id": "c4cd0f6a2abe9c1da6e4085a01ae6bd9b9c9d379",
+      "image_remote": "https://windburnedeyes.com/wp-content/uploads/2026/09/triumph-tf450-recall-1200x675.jpg",
+      "image_local": "images/story-265.jpg"
+    },
+    "561b53d898dde7c5f5c441daf0b38a37aefe82a0": {
+      "headline": "Apple Watch Series 12 vs. Ultra 4: same health stack, $400 gap for most buyers",
+      "cat": "Apple",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/guide/apple-watch-series-12-vs-ultra-4/",
+      "summary": "MacRumors’ buyer’s guide says Series 12 and Ultra 4 share the S11 chip, 4GB RAM, and the new Health Sensing System with five-second heart-rate samples, Readiness, Recovery HRV, and hypertension alerts — so Ultra’s $799 sticker doesn’t buy better everyday health tracking than the $399 aluminum 12. Ultra wins on ~50-hour battery, satellite SOS, dual-frequency GPS, 100m dive rating, and Action button; Series 12 wins on weight, ceramic/titanium finishes, and price. Try the bulky 49mm Ultra on-wrist before paying the premium.",
+      "id": "561b53d898dde7c5f5c441daf0b38a37aefe82a0",
+      "image_remote": "https://images.macrumors.com/t/Dvslf7-2l2Fw0PrWFdvXm8Nv318=/1672x/article-new/2026/09/apple-watch-series-12-vs-apple-watch-ultra-4.jpg",
+      "image_local": "images/story-266.jpg"
+    },
+    "9a3cf2451435cfe109ac56ff829eba7078a3a414": {
+      "headline": "Trumbull adds third textile recycling bin at TEaM Transfer Station",
+      "cat": "Local / Trumbull CT",
+      "source": "Town of Trumbull",
+      "url": "https://www.trumbull-ct.gov/936/Textile-Recycling-Program",
+      "summary": "Trumbull expanded Bay State Textile drop-off with a third bin at the TEaM Transfer Station, 101 Spring Hill Road near the exit, alongside existing bins at Hillcrest and Madison middle schools. Clean, bagged clothing, shoes, accessories, and linens go for reuse or recycling; mattresses, foam, and large rugs are out. Residents who prefer pickup can still schedule free Helpsy home collection online, part of the town’s push to keep textiles — nearly 5% of U.S. landfill space — out of the trash.",
+      "id": "9a3cf2451435cfe109ac56ff829eba7078a3a414",
+      "image_remote": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-267.jpg"
     }
   },
-  "updated": "Saturday, September 26, 2026 · 10:20 PM ET"
+  "updated": "Sunday, September 27, 2026 · 7:07 AM ET"
 }
