@@ -1,5 +1,18 @@
 {
   "order": [
+    "82efe7885369b992a73c86b3f16fb95ce845c252",
+    "17c0b5e2001fffc7d51064070b7b9ee9ba3e072f",
+    "442699ae0ddbcf24c45e2e5eea3a350feb7fcd9d",
+    "86553f3fa3603a4664b248cc7d367cfdc3746073",
+    "108359de19e41ff6715d7036fe6fc793000189f1",
+    "e77ffdc51a01a8c2810f56e439f0f8754902ee82",
+    "1f932ac469c906d2e1f234d9a389ef4d03dae8d3",
+    "1dfda5935eccaedaec490a2cbf60789684fe27fa",
+    "4ac6f34306d2ef2c3f3e1be4132b67194bc9e3b9",
+    "7039bc9a3e453e8b7c84184d8b6566a374a417a9",
+    "2cfdbaaf654171a27d66394f5c32fa241e3e71a0",
+    "48da6e78a6ef0a7faba637d52477a0b778cec827",
+    "84026ab0fbfc111ca365c8b8e7cc033927cf26d7",
     "e204e6a23f48eddb9703bebf533998a2166e2d47",
     "597705daad8df8f4f14bc8d326267263d2ad8e5e",
     "3c709fba5b47556cdbd031180e8fb09abaedcb74",
@@ -3201,7 +3214,150 @@
       "id": "9a3cf2451435cfe109ac56ff829eba7078a3a414",
       "image_remote": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-267.jpg"
+    },
+    "82efe7885369b992a73c86b3f16fb95ce845c252": {
+      "n": 1,
+      "headline": "Trumbull closes Reservoir Road at White Plains for downed tree and wires; parks shut Sunday",
+      "cat": "Local / Trumbull CT",
+      "source": "Town of Trumbull",
+      "url": "https://www.trumbull-ct.gov/m/newsflash/Home/Detail/3187",
+      "summary": "Trumbull’s Emergency Management team posted a Sunday update: Reservoir Road is closed at White Plains Road after a tree came down on wires, with no ETA from UI for reopening, while White Plains itself stays open. Multiple other roads are partially blocked but none fully closed, and drivers are urged to proceed with caution. All town parks and the Rails to Trails corridor are closed for hazard clearing; crews plan to start cleanup Monday morning and reopen once hazards are gone.",
+      "image_local": "images/story-268.jpg",
+      "image_remote": "https://images.unsplash.com/photo-1500674425229-f692875b0ab7?auto=format&fit=crop&w=1200&q=80",
+      "id": "82efe7885369b992a73c86b3f16fb95ce845c252"
+    },
+    "17c0b5e2001fffc7d51064070b7b9ee9ba3e072f": {
+      "n": 2,
+      "headline": "Trump admin denies ICE was told to limit arrests to criminals; Melugin: policy unchanged",
+      "cat": "Immigration",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/trump-reaffirms-ice-arrest-policy-confusing-guidance-sparks-alarm-agents",
+      "summary": "The Trump administration on Saturday night denied reports that ICE had temporarily ordered agents to arrest only illegal immigrants with criminal records, saying a “worst first” verbal guidance was a miscommunication rather than a policy change. Fox’s Bill Melugin, citing Trump and nine ICE/DHS sources, reported new guidance went back to field offices reaffirming the crackdown. Trump told Fox that ICE can still arrest and deport anyone here illegally, including “collaterals” encountered during other operations.",
+      "image_local": "images/story-269.jpg",
+      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/ice-agents-garage.jpg",
+      "id": "17c0b5e2001fffc7d51064070b7b9ee9ba3e072f"
+    },
+    "442699ae0ddbcf24c45e2e5eea3a350feb7fcd9d": {
+      "n": 3,
+      "headline": "Lindsay Clancy back in court Tuesday for mistrial status conference and retrial fight",
+      "cat": "Crime / Courts",
+      "source": "CNN via Crossroads Today",
+      "url": "https://www.crossroadstoday.com/news/national-news/lindsay-clancy-will-appear-in-court-for-the-first-time-since-her-mistrial-here-s/article_9125cfda-fa77-5fec-a908-4a4daa20846e.html",
+      "summary": "Lindsay Clancy appears Tuesday for her first court date since the Sept. 4 mistrial in the Plymouth County triple-murder case, where one holdout juror blocked a not-guilty-by-insanity verdict after she admitted killing her three children while arguing postpartum psychosis. Defense motions seek dismissal on double-jeopardy grounds, a directed not-guilty finding, and investigation of the holdout’s phone use; prosecutors have not yet said whether they will retry. Experts and jurors publicly split on whether another trial would end differently.",
+      "image_local": "images/story-270.png",
+      "image_remote": "https://bloximages.newyork1.vip.townnews.com/crossroadstoday.com/content/tncms/custom/image/fcf40577-9420-4512-a141-c2f8f1dc2bab.png?resize=600%2C338",
+      "id": "442699ae0ddbcf24c45e2e5eea3a350feb7fcd9d"
+    },
+    "86553f3fa3603a4664b248cc7d367cfdc3746073": {
+      "n": 4,
+      "headline": "White House bars CNN from Air Force One for Trump’s Tennessee trip despite court order",
+      "cat": "Media / Free speech",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cxq633770y16o",
+      "summary": "CNN was left off the media travel roster for President Trump’s Saturday Air Force One trip to Knoxville, continuing a White House fight with outlets it calls “fake news” even after a federal judge ordered credentials restored for CNN, Politico, and MS NOW. Networks that paused White House coverage in solidarity had resumed Friday after reporters regained building access, but the administration still blocked some CNN and MS NOW reporters from a state-dinner arrival. Trump posted that “FAKE NEWS SHOULD NOT BE ALLOWED IN THE WHITE HOUSE.”",
+      "image_local": "images/story-271.jpg",
+      "image_remote": "https://ichef.bbci.co.uk/news/1024/branded_news/4476/live/87b5fae0-b962-11f1-b1d1-571ed4d7ff2c.jpg",
+      "id": "86553f3fa3603a4664b248cc7d367cfdc3746073"
+    },
+    "108359de19e41ff6715d7036fe6fc793000189f1": {
+      "n": 5,
+      "headline": "Anthrax packs the Roxy between Iron Maiden LA dates with thrash classics set",
+      "cat": "Heavy metal",
+      "source": "Blabbermouth",
+      "url": "https://blabbermouth.net/news/watch-anthrax-plays-intimate-club-show-at-west-hollywoods-roxy",
+      "summary": "Anthrax squeezed an intimate Sept. 26 club show into the Roxy in West Hollywood between Iron Maiden support dates at BMO Stadium, running a 14-song thrash set from “It’s For The Kids” and “Madhouse” through “Indians.” Fan video is circulating as the band promotes new album Cursum Perficio—their first studio record in a decade since For All Kings—and the black-and-white video for the Latin title track. The Queens Big Four veterans continue supporting Maiden in Los Angeles through Sunday.",
+      "image_local": "images/story-272.jpg",
+      "image_remote": "https://assets.blabbermouth.net/media/anthraxroxysept2026_638.jpg",
+      "id": "108359de19e41ff6715d7036fe6fc793000189f1"
+    },
+    "e77ffdc51a01a8c2810f56e439f0f8754902ee82": {
+      "n": 6,
+      "headline": "Judas Priest closes Faithkeepers tour without Ian Hill as Uriah Heep’s Rimmer fills in",
+      "cat": "Heavy metal",
+      "source": "Metal Stop",
+      "url": "https://metal-stop.com/judas-priest-close-faithkeepers-tour-without-ian-hill-video/",
+      "summary": "Judas Priest finished the 2026 Faithkeepers tour at London’s Eventim Apollo without founding bassist Ian Hill, who sat out with a badly damaged left-arm tendon in what reports call his first missed Priest show since joining in 1970. Uriah Heep’s Davey Rimmer—also of Richie Faulkner’s Elegant Weapons—covered a 17-song classics-heavy set including “Breaking The Law” and “Panic Attack.” The band’s next confirmed dates are Tons Of Rock in Oslo and Tuska in Helsinki in mid-2027.",
+      "image_local": "images/story-273.jpg",
+      "image_remote": "https://metal-stop.com/wp-content/uploads/2026/07/Judas-Priest-Warsaw-2026-1024x576.jpg",
+      "id": "e77ffdc51a01a8c2810f56e439f0f8754902ee82"
+    },
+    "1f932ac469c906d2e1f234d9a389ef4d03dae8d3": {
+      "n": 7,
+      "headline": "Tesla switches on in-car Grok Bot: Connectors for all, agent tasks behind SuperGrok Heavy",
+      "cat": "Elon Musk / Tesla",
+      "source": "TeslAnt",
+      "url": "https://teslant.com/en/news/tesla-grok-bot-connectors-launch-2026-09",
+      "summary": "Tesla launched Grok Bot and Connectors in vehicles on Sept. 22, letting the cabin assistant move from Q&A to delegated errands like inbox cleanup, calendar edits, and ordering coffee. Connectors that link Gmail and Google Calendar are available to all users; the multi-step Grok Bot agent itself requires an xAI SuperGrok Heavy subscription reported around $300 a month. European availability is still unconfirmed because an agent that signs into third-party accounts raises separate data-protection and liability questions.",
+      "image_local": "images/story-274.jpg",
+      "image_remote": "https://images.dev.teslant.com/article/1790112116960384779.jpg",
+      "id": "1f932ac469c906d2e1f234d9a389ef4d03dae8d3"
+    },
+    "1dfda5935eccaedaec490a2cbf60789684fe27fa": {
+      "n": 8,
+      "headline": "FAA issues Starship Flight 14 license; Monday 8:15 a.m. ET orbital window still a target",
+      "cat": "Elon Musk / SpaceX",
+      "source": "AI Shift News",
+      "url": "https://aishiftnews.ca/news/starship-flight-14-rehearsal-is-done-the-faa-license-and-florida-dates-are-still-open/",
+      "summary": "A Sept. 27 update confirms the FAA launch license for Starship Flight 14 was issued late Saturday, clearing the last regulatory gate after Booster 21 and Ship 41 finished wet dress rehearsal. SpaceX still targets Monday’s roughly 8:15–9:30 a.m. ET window from Starbase for the first orbital attempt with 26 Starlink V3 satellites, though weather and vehicle checks can scrub. October “no earlier than” markers for Flight 15 and a first LC-39A Florida flight remain planning-slide dates, not SpaceX announcements.",
+      "image_local": "images/story-275.png",
+      "image_remote": "https://aishiftnews.ca/images/news/starship-flight-14-rehearsal-is-done-the-faa-license-and-florida-dates-are-still-open-v2.png",
+      "id": "1dfda5935eccaedaec490a2cbf60789684fe27fa"
+    },
+    "4ac6f34306d2ef2c3f3e1be4132b67194bc9e3b9": {
+      "n": 9,
+      "headline": "King Richard’s Faire hits 45 years in Carver — weekends through Oct. 25, Gamers Guild next",
+      "cat": "Renaissance faires",
+      "source": "Boston.com",
+      "url": "https://www.boston.com/travel/new-england-travel/2026/09/11/your-guide-to-the-45th-annual-king-richards-faire-in-carver/",
+      "summary": "New England’s largest Renaissance faire is in its 45th season on 200 acres in Carver, Mass., open Saturdays and Sundays through Oct. 25 (plus Columbus Day) with jousts, 70-plus daily shows, and more than 110 artisan shops. USA Today readers ranked it among America’s top 10 Ren faires; this weekend’s Love & Companionship theme yields to Gamers Guild Oct. 3–4. Adult tickets run $40–$46 depending on date, parking is free, and organizers hope to push attendance past 110,000 toward 125,000.",
+      "image_local": "images/story-276.jpg",
+      "image_remote": "https://bdc2020.o0bc.com/wp-content/uploads/2026/09/IMG_3373-1-6aa2e30c33db3-768x432.jpg",
+      "id": "4ac6f34306d2ef2c3f3e1be4132b67194bc9e3b9"
+    },
+    "7039bc9a3e453e8b7c84184d8b6566a374a417a9": {
+      "n": 10,
+      "headline": "iPhone Duo pre-orders hit Oct. 16 at 5 a.m. PT — how to stack the odds for day-one stock",
+      "cat": "Apple",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/how-to/iphone-duo-pre-orders-how-to-prepare/",
+      "summary": "MacRumors walks through prep for Apple’s first foldable: pre-orders open Friday, Oct. 16 at 5 a.m. Pacific, with U.S. and 70-plus country availability starting Oct. 23 and more markets Oct. 30. Tips include using the Apple Store app “Get Ready” configuration, locking payment and trade-in quotes early, opening the app and store web simultaneously, avoiding last-second basket changes, and preferring in-store pickup if offered because inventory pools differ. Initial stocks are expected to be extremely tight.",
+      "image_local": "images/story-277.jpg",
+      "image_remote": "https://images.macrumors.com/t/vQoWWBdb9EXLwtxwl0qVyebYGfQ=/1600x/article-new/2026/09/iphone-duo-colors.jpg",
+      "id": "7039bc9a3e453e8b7c84184d8b6566a374a417a9"
+    },
+    "2cfdbaaf654171a27d66394f5c32fa241e3e71a0": {
+      "n": 11,
+      "headline": "Penguins at 32 with roster deadline Monday — Kindel, Lizotte IR likely as nine more must go",
+      "cat": "Penguins hockey",
+      "source": "PensBurgh",
+      "url": "https://www.pensburgh.com/general/81163/penguins-roster-status-as-opening-rosters-loom",
+      "summary": "After cutting six players Saturday, Pittsburgh still sits at 32 names with NHL opening rosters due Monday, meaning nine more must clear via cuts, waivers, or injured reserve. PensBurgh’s Sunday rundown flags Ben Kindel and Blake Lizotte as likely IR candidates, with Justin Brazeau, Bryan Rust, and Ryan Graves also banged up, while waiver-exempt options include Rutger McGroarty and Harrison Brunicke. Projected opening lines still center Crosby–Rakell and Malkin with Arturs Silovs and Sergei Murashov in net if Rust is healthy enough.",
+      "image_local": "images/story-278.jpg",
+      "image_remote": "https://platform.pensburgh.com/wp-content/uploads/sites/123/2026/09/gettyimages-2296092541.jpg?quality=90&strip=all&crop=0%2C10.73595839118%2C100%2C78.528083217641&w=1200",
+      "id": "2cfdbaaf654171a27d66394f5c32fa241e3e71a0"
+    },
+    "48da6e78a6ef0a7faba637d52477a0b778cec827": {
+      "n": 12,
+      "headline": "Jets injury report: Mitchell (finger) and Ossai questionable; Fitzpatrick, Taylor, Mauigoa out",
+      "cat": "Jets football",
+      "source": "New York Jets",
+      "url": "https://www.newyorkjets.com/news/jets-injury-report-week-3-vs-lions-friday-09-25-2026",
+      "summary": "The Jets’ final Week 3 report lists WR Adonai Mitchell (finger) and EDGE Joseph Ossai (foot) as questionable for Sunday’s 1 p.m. FOX game at Detroit, while S Minkah Fitzpatrick (groin), TE Mason Taylor (thumb), and LB Kiko Mauigoa (quad) are out and RB Kene Nwangwu is doubtful. Mitchell was limited after catching a finger on a jersey Thursday; Ossai returned to full practice Friday. Detroit rules out G Ben Bartch and S Thomas Harper, with several offensive linemen back to full participation.",
+      "image_local": "images/story-279.jpg",
+      "image_remote": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/jets/prqyhtnhvuzz4e3jrvfw",
+      "id": "48da6e78a6ef0a7faba637d52477a0b778cec827"
+    },
+    "84026ab0fbfc111ca365c8b8e7cc033927cf26d7": {
+      "n": 13,
+      "headline": "Insta360 opens Times Square flagship as worldwide camera shipments top 10 million",
+      "cat": "Photography / Insta360",
+      "source": "Photography Talk",
+      "url": "https://www.photographytalk.com/insta360-times-square-store/",
+      "summary": "Insta360’s first company-owned flagship outside Asia opened Sept. 19 at 1515 Broadway in Times Square, timed with the brand passing 10 million cameras shipped and claiming nearly 70% of global 360-camera shipments in Q1 per IDC. The demo-heavy store stocks Luna Ultra, Luna Pro, X6, GO wearables, and mics, with co-founder Max Richter cutting the ribbon alongside Casey Neistat. For U.S. creators it is a rare chance to hands-on test stitching workflows and the Luna telephoto before buying.",
+      "image_local": "images/story-280.jpg",
+      "image_remote": "https://dvv9jt2zg9j70.cloudfront.net/wp-content/uploads/2026/09/20165512/insta360-times-square-store-opening-day-1.jpg",
+      "id": "84026ab0fbfc111ca365c8b8e7cc033927cf26d7"
     }
   },
-  "updated": "Sunday, September 27, 2026 · 7:07 AM ET"
+  "updated": "Sunday, September 27, 2026 · 11:45 AM ET"
 }
