@@ -1,5 +1,17 @@
 {
   "order": [
+    "bd5d10fb07ba4e95b065896ee227401a46d9f560",
+    "2513ac7b8c278ad93b63a477273717039d1184af",
+    "4f7de3d170d4e5da60e044636e22fed365479b7d",
+    "fcb037d463f8ebbb59aaa6746701ae889a0279d5",
+    "f7656d113ba5c19592b865bb753bfa054835e49a",
+    "e5bdef0078276fa7735a5e94925e5d4376c51f22",
+    "b8fc166a2964fdb335d7ede8dc3f6fc15b576a44",
+    "746ca7701609051378f8f673a8341c0d01071d28",
+    "f17efceb0677f933071ef96052b90259da8b029e",
+    "16bb600595ad7f564936531ae850ede6efc34fd2",
+    "68e804984e6154767e3104fa4ea2cf4f35a7b673",
+    "40b6f00194f6265a06b3579f2dc594aa65e69159",
     "82efe7885369b992a73c86b3f16fb95ce845c252",
     "17c0b5e2001fffc7d51064070b7b9ee9ba3e072f",
     "442699ae0ddbcf24c45e2e5eea3a350feb7fcd9d",
@@ -3357,7 +3369,139 @@
       "image_local": "images/story-280.jpg",
       "image_remote": "https://dvv9jt2zg9j70.cloudfront.net/wp-content/uploads/2026/09/20165512/insta360-times-square-store-opening-day-1.jpg",
       "id": "84026ab0fbfc111ca365c8b8e7cc033927cf26d7"
+    },
+    "bd5d10fb07ba4e95b065896ee227401a46d9f560": {
+      "n": 1,
+      "headline": "Trumbull girls soccer blanks Stamford 1–0; boys face Simsbury in Sunday Soccer Challenge",
+      "cat": "Local / Trumbull CT",
+      "source": "FCIAC",
+      "url": "https://www.fciac.net/1215709/fciac-scoreboard-schedule-for-sept-22-27/",
+      "summary": "Trumbull’s girls soccer team beat Stamford 1–0 on Saturday in FCIAC play, a bounce-back result after midweek losses and a bright spot in a storm-shortened sports weekend. The boys, who fell 3–2 to undefeated Stamford on Friday, were scheduled for a 1:30 p.m. Sunday kickoff against Simsbury in the Connecticut High School Soccer Challenge. Several other Saturday FCIAC games were postponed by the nor’easter, so coaches and families are watching Sunday results and weather closely.",
+      "image_remote": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?auto=format&fit=crop&w=1200&q=80",
+      "id": "bd5d10fb07ba4e95b065896ee227401a46d9f560",
+      "image_local": "images/story-281.jpg"
+    },
+    "2513ac7b8c278ad93b63a477273717039d1184af": {
+      "n": 2,
+      "headline": "Lions edge Jets 31–24 as Gibbs scores three; Geno Smith throws for 321 and three TDs",
+      "cat": "Jets football",
+      "source": "New York Jets",
+      "url": "https://www.newyorkjets.com/game-day/2026/reg-week3/jets-at-lions/box-score",
+      "summary": "Aaron Glenn’s return to Detroit ended in a 31–24 Week 3 loss as Jahmyr Gibbs ran for two scores and caught another, putting the Jets at 1–2. Geno Smith was sharp (31-of-37, 321 yards, three touchdowns), finding Garrett Wilson, Kenyon Sadiq, and Jeremy Ruckert, and the Jets tied it at 24 in the fourth before Goff’s late TD pass to Gibbs. Minkah Fitzpatrick, Adonai Mitchell, and Mason Taylor were among the inactives on Glenn’s first trip back to Ford Field.",
+      "image_remote": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?auto=format&fit=crop&w=1200&q=80",
+      "id": "2513ac7b8c278ad93b63a477273717039d1184af",
+      "image_local": "images/story-282.jpg"
+    },
+    "4f7de3d170d4e5da60e044636e22fed365479b7d": {
+      "n": 3,
+      "headline": "Penguins put Kindel, Lizotte, Brazeau, Graves on IR ahead of Monday roster deadline",
+      "cat": "Penguins hockey",
+      "source": "The Hockey News",
+      "url": "https://thehockeynews.com/nhl/pittsburgh-penguins/latest-news/penguins-add-several-players-to-injured-reserve-update-status-on-two-others",
+      "summary": "Pittsburgh cleared four roster spots Sunday by placing Blake Lizotte, Justin Brazeau, Ben Kindel, and Ryan Graves on injured reserve before Monday’s 5 p.m. NHL deadline. Bryan Rust and Tristan Broz skipped practice and are being evaluated after Saturday’s preseason finale; if both land on IR the Pens would sit at the 23-man maximum. Earlier Sunday the club also sent Bill Zonnon, Harrison Brunicke, and Joel Blomqvist to Wilkes-Barre/Scranton, with opening night set for Wednesday vs. Philadelphia.",
+      "image_remote": "https://images.unsplash.com/photo-1515703407324-5f753afd8be8?auto=format&fit=crop&w=1200&q=80",
+      "id": "4f7de3d170d4e5da60e044636e22fed365479b7d",
+      "image_local": "images/story-283.jpg"
+    },
+    "fcb037d463f8ebbb59aaa6746701ae889a0279d5": {
+      "n": 4,
+      "headline": "Watch live: Starship Flight 14 targets Monday 8:15 a.m. ET first orbital try",
+      "cat": "Elon Musk / SpaceX",
+      "source": "Space.com",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-megarocket-launching-to-orbit-for-1st-time-ever-on-sept-28-watch-it-live",
+      "summary": "SpaceX aims to send Starship to Earth orbit for the first time Monday in a 75-minute window opening at 8:15 a.m. ET from Starbase, with webcast coverage starting about 30 minutes before liftoff. Flight 14 would deploy 26 operational Starlink V3 satellites, circle Earth six times, then splash down in the Pacific nearly 10 hours after launch—a sharp break from prior suborbital Indian Ocean missions. Super Heavy is still planned for a Gulf of Mexico splashdown about seven minutes after liftoff while return-to-pad catch attempts wait for a later flight.",
+      "image_remote": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=1200&q=80",
+      "id": "fcb037d463f8ebbb59aaa6746701ae889a0279d5",
+      "image_local": "images/story-284.jpg"
+    },
+    "f7656d113ba5c19592b865bb753bfa054835e49a": {
+      "n": 5,
+      "headline": "Waltz: Iran asked for sanctions relief ‘up front’; Trump still expects talks this week",
+      "cat": "Politics / MAGA",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/sep/27/trump-un-ambassador-iran-war",
+      "summary": "UN ambassador Mike Waltz told CNN’s State of the Union that Trump rejected Tehran’s Hormuz reopen plan because negotiators wanted ‘billions and billions’ of sanctions relief first and ‘were not coming in good faith’ on the nuclear file. Trump separately told Axios he still expects indirect talks this week but said Iran ‘overplayed their hand.’ Waltz also said Trump pressed Xi on alleged Chinese help to Iran’s shipping attacks and rejected Wall Street Journal reports that U.S. bombing would automatically resume after the midterms.",
+      "image_remote": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
+      "id": "f7656d113ba5c19592b865bb753bfa054835e49a",
+      "image_local": "images/story-285.jpg"
+    },
+    "e5bdef0078276fa7735a5e94925e5d4376c51f22": {
+      "n": 6,
+      "headline": "AG Blanche: White House access is a ‘privilege … not a right’ amid CNN ban fight",
+      "cat": "Media / Free speech",
+      "source": "ABC News",
+      "url": "https://abcnews.com/Politics/ag-blanche-addresses-white-house-news-outlet-ban/story?id=136794733",
+      "summary": "Attorney General Todd Blanche told ABC’s This Week that Trump has not ‘denied access’ so much as grown ‘sick and tired’ of outlets he says refuse to report accurately, calling White House presence a privilege rather than a right. A judge’s TRO restored CNN, MS NOW, and Politico credentials Thursday, but CNN said it was still blocked from Air Force One for Saturday’s Tennessee trip. Blanche framed inaccurate coverage as a ‘national security problem,’ while Judge Timothy Kelly’s ruling noted the record emphasized alleged negativity, not security, when the ban was announced.",
+      "image_remote": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+      "id": "e5bdef0078276fa7735a5e94925e5d4376c51f22",
+      "image_local": "images/story-286.jpg"
+    },
+    "b8fc166a2964fdb335d7ede8dc3f6fc15b576a44": {
+      "n": 7,
+      "headline": "ICE spotted at Gurnee Mills after Waukegan, Woodstock, Vernon Hills arrest reports",
+      "cat": "Immigration",
+      "source": "Lake & McHenry County Scanner",
+      "url": "https://www.lakemchenryscanner.com/2026/09/25/ice-reportedly-spotted-at-gurnee-mills-mall-as-agents-make-arrests-in-lake-and-mchenry-counties-in-recent-days/",
+      "summary": "Community rapid-response teams reported ICE activity across Lake and McHenry counties, including a Friday arrest in Waukegan and agents later seen near Kohl’s at Gurnee Mills. Earlier in the week, witnesses described detentions in Vernon Hills and Woodstock; ICE confirmed it had arrested six illegal aliens in Woodstock on Sept. 11, including one man with a 2024 weapons conviction. ICE did not immediately comment on the newer mall and street reports as suburban Chicago enforcement remains in the spotlight.",
+      "image_remote": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?auto=format&fit=crop&w=1200&q=80",
+      "id": "b8fc166a2964fdb335d7ede8dc3f6fc15b576a44",
+      "image_local": "images/story-287.jpg"
+    },
+    "746ca7701609051378f8f673a8341c0d01071d28": {
+      "n": 8,
+      "headline": "Tesla quietly enables in-car Grok across Israel, UAE and more with update 2026.32.7",
+      "cat": "Elon Musk / Tesla",
+      "source": "Not a Tesla App",
+      "url": "https://www.notateslaapp.com/news/4743/tesla-launches-grok-in-new-countries-with-update-2026327",
+      "summary": "Software update 2026.32.7 is unlocking Tesla’s cabin Grok assistant in several Middle East markets, with owners in Israel and the UAE already confirming the icon in the App Launcher. Regional support pages list Israel, UAE, Saudi Arabia, Qatar, and Jordan for the rollout; cars need AMD Ryzen infotainment plus Premium Connectivity or Wi-Fi, and no separate Grok subscription is required. Drivers can navigate, manage climate and media, pull owner’s-manual answers, and—where enabled—reach newer Grok Bot agent features hands-free.",
+      "image_remote": "https://images.unsplash.com/photo-1560958089-b8a1929cea89?auto=format&fit=crop&w=1200&q=80",
+      "id": "746ca7701609051378f8f673a8341c0d01071d28",
+      "image_local": "images/story-288.jpg"
+    },
+    "f17efceb0677f933071ef96052b90259da8b029e": {
+      "n": 9,
+      "headline": "Tesla stages Cybercabs in Houston as NHTSA demands sworn answers by Sept. 30",
+      "cat": "Elon Musk / Tesla",
+      "source": "Startup Fortune",
+      "url": "https://startupfortune.com/tesla-sends-cybercabs-to-houston-as-nhtsa-presses-for-sworn-answers/",
+      "summary": "Video and local reporting put roughly 45 Cybercabs plus Model Y Robotaxis at a new Houston hub while Tesla still runs paid robotaxi service in Austin. NHTSA’s Cybercab audit (AQ26002) and a Special Order require sworn answers by September 30 on how a vehicle without a steering wheel, pedals, or mirrors meets federal standards—penalties cited up to about $139 million. The piece frames Houston staging as confidence colliding with a self-certification fight Waymo has largely avoided by building on conventional vehicle architecture.",
+      "image_remote": "https://images.unsplash.com/photo-1617788138017-80ad40651399?auto=format&fit=crop&w=1200&q=80",
+      "id": "f17efceb0677f933071ef96052b90259da8b029e",
+      "image_local": "images/story-289.jpg"
+    },
+    "16bb600595ad7f564936531ae850ede6efc34fd2": {
+      "n": 10,
+      "headline": "Karen Woodall: Diana–Spencer ‘whose side’ fight shows public-scale parental alienation",
+      "cat": "Parental alienation",
+      "source": "Karen Woodall",
+      "url": "https://karenwoodall.blog/2026/09/21/famous-last-words/",
+      "summary": "In a Sept. 21 essay tied to her forthcoming book The Journey of the Alienated Child, therapist Karen Woodall uses Earl Spencer’s disputed memoir claim that Charles said Diana would be ‘forgotten’ as a case study in psychological splitting. She argues media and audiences are recruited into hero/villain alignments that mirror divorce dynamics—where loving one figure seems to require rejecting another. Woodall’s closer asks whether remembering Diana (or any contested parent) can hold complexity without forcing the public, or a child, to pick a side.",
+      "image_remote": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?auto=format&fit=crop&w=1200&q=80",
+      "id": "16bb600595ad7f564936531ae850ede6efc34fd2",
+      "image_local": "images/story-290.jpg"
+    },
+    "68e804984e6154767e3104fa4ea2cf4f35a7b673": {
+      "n": 11,
+      "headline": "Five Finger Death Punch packs Long Beach for 20th-anniversary tour; Fieldy joins onstage",
+      "cat": "Heavy metal",
+      "source": "Metal Addicts",
+      "url": "https://metaladdicts.com/five-finger-death-punch-celebrate-20-years-of-heavy-hitting-anthems-in-long-beach-ca/",
+      "summary": "FFDP’s 20th Anniversary World Tour hit Long Beach’s F&M Bank Amphitheater with Eva Under Fire and Cody Jinks opening, then a set spanning Welcome to the Circus through Lift Me Up, Jekyll and Hyde, Wash It All Away, and Bad Company. Ivan Moody brought Korn co-founder Fieldy onstage for a public thank-you that drew a huge crowd reaction amid the usual mosh-ready peaks like Burn MF. The band continues through Texas and Midwest amphitheater dates into early October.",
+      "image_remote": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?auto=format&fit=crop&w=1200&q=80",
+      "id": "68e804984e6154767e3104fa4ea2cf4f35a7b673",
+      "image_local": "images/story-291.jpg"
+    },
+    "40b6f00194f6265a06b3579f2dc594aa65e69159": {
+      "n": 12,
+      "headline": "Trumbull: call UI and police non-emergency to report downed trees, wires, outages",
+      "cat": "Local / Trumbull CT",
+      "source": "Town of Trumbull",
+      "url": "https://www.trumbull-ct.gov/m/newsflash/Home/Detail/3186",
+      "summary": "With the nor’easter still dropping limbs onto lines, Trumbull Emergency Management reminded residents to report power outages and downed wires to United Illuminating at 800-722-5584 and to call Trumbull Police non-emergency at 203-261-3665 when trees or lines block roads. The town stressed staying away from downed wires. The guidance pairs with Sunday’s separate alert closing Reservoir Road at White Plains and shutting parks until Monday hazard clearing.",
+      "image_remote": "https://images.unsplash.com/photo-1500674425229-f692875b0ab7?auto=format&fit=crop&w=1200&q=80",
+      "id": "40b6f00194f6265a06b3579f2dc594aa65e69159",
+      "image_local": "images/story-292.jpg"
     }
   },
-  "updated": "Sunday, September 27, 2026 · 11:45 AM ET"
+  "updated": "Sunday, September 27, 2026 · 4:15 PM ET"
 }
