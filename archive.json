@@ -1,5 +1,15 @@
 {
   "order": [
+    "9033f5be22021ece4f87bd9159b0045eb3c654c2",
+    "55fa76362a0546ce0cdbd190237bd2095ddf3485",
+    "e4f7a67d7162406ecbee99bdf2023afdb332d0c9",
+    "90701ee424b0d6d28c0fc6242886185f1df43982",
+    "1cfc3a82f8d443bfe037f0f97788c82edfbb3ace",
+    "8cc60ecdf903ad52c6ef5f3d13693933d7fe54b1",
+    "d6e8ba900ffe42073aab2dab76b0b29f5cb820ec",
+    "1d9ea7488cb0e9c7bb1075ae22692e178d78c35b",
+    "eb7faf9721538085f950e49f10d2dfdfba0b7406",
+    "738165abeda05d00242ca9436a385b2bbee04801",
     "fa54d592a0e35bdc008d0a3c4d9cbaf1cc05bb9c",
     "477a4e2e40ebff3d5b592ad7226bfc8d2bfc8680",
     "92dad350e4ef1afb7fb6864a1bc2e258fbf22d18",
@@ -3994,7 +4004,107 @@
       "image_local": "images/story-335.jpg",
       "id": "4ff9a8913a042153b53a9d83d6e1b2f18a412a18",
       "n": 10
+    },
+    "9033f5be22021ece4f87bd9159b0045eb3c654c2": {
+      "headline": "Trumbull Halloween Costume Swap: donation drop-off ends today; free swaps Oct. 8 and 10",
+      "cat": "Local / Trumbull CT",
+      "source": "Town of Trumbull",
+      "url": "https://www.trumbull-ct.gov/m/calendar/event/detail/15633",
+      "summary": "Sustainable Trumbull’s Halloween Costume Swap wraps its library lobby donation window Monday, September 28, after accepting clean, complete costumes for all ages since Sept. 12. Free first-come shopping is set for Thursday, Oct. 8 (5–7:30 p.m.) in the Trumbull Library Community Room and Saturday, Oct. 10 (9 a.m.–noon) at Trumbull High School on Strobel Road. The town frames the reuse drive as a way to cut textile waste from costumes that rarely get worn a second year.",
+      "image_remote": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1200&q=80",
+      "id": "9033f5be22021ece4f87bd9159b0045eb3c654c2",
+      "image_local": "images/story-336.jpg"
+    },
+    "55fa76362a0546ce0cdbd190237bd2095ddf3485": {
+      "headline": "Apple ships iOS 27.0.1 — Face ID restart bug on iPhone 18 Pro gets the promised fix",
+      "cat": "Apple gear",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/09/28/apple-releases-ios-27-0-1/",
+      "summary": "Apple released iOS 27.0.1 on Monday, two weeks after iOS 27 launched, with the Face ID software fix it previewed last week for iPhone 18 Pro and Pro Max. Release notes also call out a 2x photo color-artifact bug on a small number of those phones and a touchscreen freeze when Notification Center and Control Center open together. Matching 27.0.1 builds landed for iPadOS and visionOS, plus 26.7.1 patches for devices still on the prior generation.",
+      "image_remote": "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?auto=format&fit=crop&w=1200&q=80",
+      "id": "55fa76362a0546ce0cdbd190237bd2095ddf3485",
+      "image_local": "images/story-337.jpg"
+    },
+    "e4f7a67d7162406ecbee99bdf2023afdb332d0c9": {
+      "headline": "LaCivita: Trump will hit the campaign trail for 30 days to turn out midterm voters",
+      "cat": "Politics / MAGA",
+      "source": "Breitbart",
+      "url": "https://www.breitbart.com/politics/2026/09/27/exclusive-chris-lacivita-trump-to-hit-campaign-trail-for-30-days-ahead-of-midterms/",
+      "summary": "In a Breitbart exclusive, Trump 2024 co-campaign manager Chris LaCivita said the president plans roughly 30 days of trail stops plus telephone rallies to mobilize casual 2024 voters as Republicans defend Congress. He dismissed midterm doomcasting as “bedwetting,” argued Democrats in Congress poll worse than Republicans, and warned GOP candidates not to distance themselves from Trump. LaCivita also stressed favorable/unfavorable ratings over ballot tests and said shifting turnout a few points in each district is the House path.",
+      "image_remote": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
+      "id": "e4f7a67d7162406ecbee99bdf2023afdb332d0c9",
+      "image_local": "images/story-338.jpg"
+    },
+    "90701ee424b0d6d28c0fc6242886185f1df43982": {
+      "headline": "Starship Flight 14 splashes down near Hawaii after first orbit and Starlink V3 deploy",
+      "cat": "Elon Musk / SpaceX",
+      "source": "Aerospace America",
+      "url": "https://aerospaceamerica.aiaa.org/spacex-shortens-starships-first-orbital-flight-but-achieves-other-objectives/",
+      "summary": "Aerospace America’s Monday debrief puts Starship’s Pacific splashdown near Hawaii at 10:58 a.m. Central — about three hours after the 7:48 a.m. Starbase liftoff — after controllers cut a planned ~10-hour mission short when a Raptor Vacuum shut down early. Ship still reached ~275 km, deployed all 26 Starlink V3 satellites (three carrying heatshield-scan cameras), and completed a single-Raptor deorbit burn; Super Heavy splashed in the Gulf about seven minutes after launch. SpaceX called the orbital milestone the start of rapid-reuse development, with $2.9 billion in NASA lunar-lander contracts still on the books.",
+      "image_remote": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=1200&q=80",
+      "id": "90701ee424b0d6d28c0fc6242886185f1df43982",
+      "image_local": "images/story-339.jpg"
+    },
+    "1cfc3a82f8d443bfe037f0f97788c82edfbb3ace": {
+      "headline": "Jeep recalls 328,381 Grand Cherokees after rear coil springs can detach — letters ~Sept. 29",
+      "cat": "Jeep",
+      "source": "MoparInsiders",
+      "url": "https://moparinsiders.com/jeep-recalls-328381-grand-cherokees-over-rear-springs/",
+      "summary": "FCA US recall 89D / NHTSA 26V-562 covers about 328,381 2021–2023 Grand Cherokee L, 2022–2023 Grand Cherokee, and 2022–2023 4xe models whose rear coil springs may sit out of position and detach after earlier recall repairs. Dealers will replace both rear lower spring isolators on every affected VIN; air-suspension trucks are excluded, and FCA estimates only ~0.1% may have the defect with no accidents reported. Interim owner letters are slated roughly Sept. 29 through Oct. 7 — check NHTSA or Mopar VIN tools if you drive a coil-spring WL.",
+      "image_remote": "https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?auto=format&fit=crop&w=1200&q=80",
+      "id": "1cfc3a82f8d443bfe037f0f97788c82edfbb3ace",
+      "image_local": "images/story-340.jpg"
+    },
+    "8cc60ecdf903ad52c6ef5f3d13693933d7fe54b1": {
+      "headline": "Metallica and adidas drop Sphere ‘Life Burns Faster’ merch capsule ahead of Oct. 1 residency",
+      "cat": "Heavy metal",
+      "source": "Consequence",
+      "url": "https://consequence.net/2026/09/metallica-adidas-merch-capsule-sphere-residency/",
+      "summary": "Metallica and adidas announced a Trefoil-meets-band-graphic capsule for the Las Vegas Sphere “Life Burns Faster” residency, on sale Wednesday, Sept. 30 at the venue, a Vegas pop-up, metallica.com, and adidas.com. The 24-date Sphere run opens Thursday, Oct. 1 and stretches into March 2027, with adiCLUB/CONFIRMED giveaways for signed merch and select tickets. Fringe extras include a Black Box memorabilia experience, SiriusXM ‘Tallica Talk, a Drew Estate cigar collab, and — closer to home — two special Mohegan Sun Arena dates in Uncasville, Connecticut for the venue’s 25th anniversary.",
+      "image_remote": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?auto=format&fit=crop&w=1200&q=80",
+      "id": "8cc60ecdf903ad52c6ef5f3d13693933d7fe54b1",
+      "image_local": "images/story-341.jpg"
+    },
+    "d6e8ba900ffe42073aab2dab76b0b29f5cb820ec": {
+      "headline": "Insta360’s $298M memory-chip bill in six months now rivals GoPro’s entire cash sale price",
+      "cat": "Canon / Insta360",
+      "source": "The Next Web",
+      "url": "https://thenextweb.com/news/insta360-times-square-memory-bill-gopro-price",
+      "summary": "The Next Web’s Times Square opening debrief puts Insta360’s first-half “strategic” memory buy at nearly 2 billion yuan (~$298M) — roughly the same cash GoPro shareholders are taking in the Starman Optical deal — while half-year profit fell 94% even as revenue rose 50%. AI data-center demand is starving consumer DRAM; Insta360 stayed barely profitable and opened 1515 Broadway after shipping 10 million cameras, while DJI’s new U.S. product pipeline stays frozen on the FCC covered list. Europe (Munich or Amsterdam) is next on the store map if the memory crunch doesn’t swamp the growth.",
+      "image_remote": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=1200&q=80",
+      "id": "d6e8ba900ffe42073aab2dab76b0b29f5cb820ec",
+      "image_local": "images/story-342.jpg"
+    },
+    "1d9ea7488cb0e9c7bb1075ae22692e178d78c35b": {
+      "headline": "Westport: free flood cleanup and mold help for Sept. 13 storm homeowners",
+      "cat": "Westport CT EMS",
+      "source": "Westport Patch",
+      "url": "https://patch.com/connecticut/westport/free-flood-cleanup-assistance-available-westport-homeowners-affected-sept-13",
+      "summary": "Westport is pointing Sept. 13 flood victims to free Southern Baptist Disaster Relief help arranged through state emergency management and Connecticut VOAD — damage assessments, debris removal, cleanup, and mold mitigation. Homeowners should call 203-628-6978, leave name, phone, address, and a short needs note; the town also posted the resource on its storm-recovery page. The offer sits alongside ongoing Jesup Road bridge and EMS routing questions after the flash flood that drove roughly 130 emergency calls and multiple water rescues.",
+      "image_remote": "https://images.unsplash.com/photo-1547683905-f686c993aae5?auto=format&fit=crop&w=1200&q=80",
+      "id": "1d9ea7488cb0e9c7bb1075ae22692e178d78c35b",
+      "image_local": "images/story-343.jpg"
+    },
+    "eb7faf9721538085f950e49f10d2dfdfba0b7406": {
+      "headline": "Penguins open Wednesday at Flyers on NHL on TNT — Gretzky studio from Philadelphia",
+      "cat": "Penguins hockey",
+      "source": "TNT Sports",
+      "url": "https://press.wbd.com/us/media-release/nhl-tnt-drops-puck-2026-27-season-opening-week-doubleheader-wednesday-sept-30",
+      "summary": "TNT Sports’ Opening Week slate puts Sidney Crosby’s Penguins at Philadelphia on Wednesday, Sept. 30 at 7:30 p.m. ET — the Battle of Pennsylvania lead-in to a Kings–Avalanche nightcap — across TNT, truTV, and HBO Max. A 90-minute NHL on TNT Face Off from Stateside Live! beside the arena starts at 6 p.m. with Wayne Gretzky, Henrik Lundqvist, Paul Bissonnette, Anson Carter, and Liam McHugh. Kenny Albert, Eddie Olczyk, and Brian Boucher have the Penguins–Flyers call as Pittsburgh finishes Monday roster trimming ahead of the opener.",
+      "image_remote": "https://images.unsplash.com/photo-1515703407324-5f753afd8be8?auto=format&fit=crop&w=1200&q=80",
+      "id": "eb7faf9721538085f950e49f10d2dfdfba0b7406",
+      "image_local": "images/story-344.jpg"
+    },
+    "738165abeda05d00242ca9436a385b2bbee04801": {
+      "headline": "LEGO’s October wave lands Thursday: UCS Executor, Downton Abbey, PlayStation and GWPs",
+      "cat": "LEGO",
+      "source": "Stonewars",
+      "url": "https://stonewars.com/news/lego-new-releases-october-2026/",
+      "summary": "Stonewars’ Monday October roundup lists 24 sets, nine of them 18+, with most hitting LEGO.com on Oct. 1 — headlined by the 6,130-piece UCS Executor Super Star Destroyer ($799.99) and its Darth Vader lightsaber GWP, plus Ideas Downton Abbey, the buildable PlayStation with Astro Bot GWP, Bookshop Book Nook, and Wallace & Gromit. Marvel Avengers Doomsday sets wait until Oct. 4. Adult-fan density is the story of the wave: big display pieces first, seasonal Winter Village and Pokémon Trainer Moments filling out the rest of the cart.",
+      "image_remote": "https://images.unsplash.com/photo-1587654780291-39c9404d746b?auto=format&fit=crop&w=1200&q=80",
+      "id": "738165abeda05d00242ca9436a385b2bbee04801",
+      "image_local": "images/story-345.jpg"
     }
   },
-  "updated": "Monday, September 28, 2026 · 11:55 AM ET"
+  "updated": "Monday, September 28, 2026 · 4:20 PM ET"
 }
