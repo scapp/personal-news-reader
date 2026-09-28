@@ -1,5 +1,15 @@
 {
   "order": [
+    "cebd7ceb0135c2baaa8e7044951a4f55f163446e",
+    "3dd84662ab3a5c7abf4320e36aa1ccc79afd8f41",
+    "6c81986ff2a1e8f25255660f340df9f211b4e7f7",
+    "7d198fafd980017ac25e5632cc90f44d6a7b3f76",
+    "1488eba3684a098c619352905e337a92a2e9fce0",
+    "c5d40ff43ddd5aeb9d83b1404a6f580df41bbf20",
+    "221208453f8b41ca3a07c66ce4a2d705b99d3e76",
+    "de7583d0d2e5b85cb8decb94ca1f346efcea7bf2",
+    "fecdde6f95086f9883d58b5a07a70cc047e2f97a",
+    "995b3d07b8d05d82e68fdfaeabf628dce3cf5d81",
     "634a357c1ea6f9e92ecd9f6d375c5e84e4e86738",
     "2853779a9d68ef5a6a9d93ca7133d62498207023",
     "138abd297da41a11912b00718e6ab7fbdbea935e",
@@ -3644,7 +3654,107 @@
       "image_remote": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?auto=format&fit=crop&w=1200&q=80",
       "id": "b1a755a24b6d29c4599ca6d943877d71cd1f3756",
       "image_local": "images/story-305.jpg"
+    },
+    "cebd7ceb0135c2baaa8e7044951a4f55f163446e": {
+      "headline": "CT Patch: ~22,000 still dark Sunday afternoon — Fairfield County towns and UI pockets listed",
+      "cat": "Local / Trumbull CT",
+      "source": "CT Patch",
+      "url": "https://patch.com/connecticut/across-ct/30-000-ct-residents-without-power-due-powerful-noreaster-storm-town-town",
+      "summary": "Patch’s Sunday town-by-town outage tracker put more than 20,000 Connecticut customers still dark by mid-afternoon as the slow-moving nor’easter kept dropping trees on lines. Eversource listed heavy hits in New Canaan, Weston, Westport, Wilton, Stamford and Ridgefield; United Illuminating still showed outages in Milford, Orange, Shelton, Fairfield and Bridgeport — UI territory that includes Trumbull. Crews said they had restored more than 71,000 since the storm began while coastal flood warnings and leaf-heavy winds kept fresh damage coming.",
+      "image_remote": "https://images.unsplash.com/photo-1527482797697-8795b05a13fe?auto=format&fit=crop&w=1200&q=80",
+      "id": "cebd7ceb0135c2baaa8e7044951a4f55f163446e",
+      "image_local": "images/story-306.jpg"
+    },
+    "3dd84662ab3a5c7abf4320e36aa1ccc79afd8f41": {
+      "headline": "Westport: burning wires shut Easton Road as nor’easter closes roads from Wilton to Putnam",
+      "cat": "Westport CT EMS",
+      "source": "Hoodline",
+      "url": "https://hoodline.com/2026/09/coastal-storm-snaps-trees-across-connecticut-shutting-down-dozens-of-roads/",
+      "summary": "A coastal-storm roundup details how Westport fire officials closed Easton Road between the Berkeley Road entrances after downed wires ignited, urging drivers to stay clear while crews worked the hazard. Wilton reported four roads fully closed and eight partially blocked; Groton, Montville, Old Saybrook, Killingworth and Putnam logged tree-and-wire closures as PowerOutage.us briefly showed ~31,000 Connecticut customers dark. Officials repeated the same EMS-adjacent safety line: treat every downed line as live and never drive around barricades.",
+      "image_remote": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80",
+      "id": "3dd84662ab3a5c7abf4320e36aa1ccc79afd8f41",
+      "image_local": "images/story-307.jpg"
+    },
+    "6c81986ff2a1e8f25255660f340df9f211b4e7f7": {
+      "headline": "Bridgeport: masked pair tries Butler Avenue home invasion, then fires at people outside",
+      "cat": "Crime / Courts",
+      "source": "News 12",
+      "url": "https://newyork.news12.com/police-investigate-targeted-attempted-home-invasion-and-shooting-in-bridgeport",
+      "summary": "Bridgeport police say two masked men jumped a fence and tried to force a side window on Butler Avenue around 10:30 p.m. Friday before being scared off. As they fled to a car, the pair fired at people outside; no one was hit, but bullets struck a targeted resident’s vehicle and officers recovered shell casings. Detectives call the home a targeted attempt, have made no arrests, and ask tipsters to contact Det. Francis Santoro — a Fairfield County public-safety story next door to Trumbull.",
+      "image_remote": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?auto=format&fit=crop&w=1200&q=80",
+      "id": "6c81986ff2a1e8f25255660f340df9f211b4e7f7",
+      "image_local": "images/story-308.jpg"
+    },
+    "7d198fafd980017ac25e5632cc90f44d6a7b3f76": {
+      "headline": "Trump: five men arrested near RAF Fairford were looking to do ‘big damage’",
+      "cat": "Politics / MAGA",
+      "source": "ThePrint (Reuters)",
+      "url": "https://theprint.in/world/trump-says-men-arrested-at-us-air-base-in-uk-were-looking-to-do-big-damage/3055088/",
+      "summary": "British counter-terror police arrested five men near RAF Fairford on Sunday after a tip about three vans heading toward the U.S.-used air base that has staged strikes on Iran. President Trump told reporters the suspects had been under long-term U.K.–U.S. watch and were “looking to do big damage,” praising the joint takedown. About 85 homes were evacuated under a 400-metre cordon while bomb disposal examined the vans; Iranian-linked, Russian sabotage and Islamist motives are all being examined, Reuters reported.",
+      "image_remote": "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=1200&q=80",
+      "id": "7d198fafd980017ac25e5632cc90f44d6a7b3f76",
+      "image_local": "images/story-309.jpg"
+    },
+    "1488eba3684a098c619352905e337a92a2e9fce0": {
+      "headline": "Lee’s SAVE Act unanimous-consent push blocked again by Padilla as midterms loom",
+      "cat": "Politics / MAGA",
+      "source": "Deseret News",
+      "url": "https://www.deseret.com/politics/2026/09/23/lee-pushes-save-act-padilla-blocks/",
+      "summary": "Sen. Mike Lee took the Safeguard American Voter Eligibility Act back to the Senate floor, arguing citizenship proof at registration and photo ID at the polls match how Americans already live — and that an “honor system” must not govern elections. Sen. Alex Padilla blocked the unanimous-consent request, calling a mid-election rules change chaotic and pivoting to tariffs and Iran costs. Lee said Democrats once claimed the bill was racist and now simply “secured the delay,” with the chamber still short of 60 votes.",
+      "image_remote": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
+      "id": "1488eba3684a098c619352905e337a92a2e9fce0",
+      "image_local": "images/story-310.jpg"
+    },
+    "c5d40ff43ddd5aeb9d83b1404a6f580df41bbf20": {
+      "headline": "Glenn after Lions loss: Jets are ‘right there’ — Davis says no moral victories",
+      "cat": "Jets football",
+      "source": "New York Jets",
+      "url": "https://www.newyorkjets.com/news/aaron-glenn-says-jets-right-there-after-loss-at-lions-09-27-2026",
+      "summary": "After New York’s 31–24 defeat in Detroit, Aaron Glenn held up a thumb-and-index gap and told reporters the Jets must close that coaching-and-player margin. Geno Smith (31-of-37, 321 yards, 3 TDs) and Garrett Wilson fueled a fourth-quarter rally that tied the game before Jahmyr Gibbs’ late score; Demario Davis said he believes Glenn’s blueprint and rejects moral victories. The club heads to Chicago at 1–2 after in-game injuries to Breece Hall and Dylan Parham.",
+      "image_remote": "https://images.unsplash.com/photo-1566577739112-5180d4bf9390?auto=format&fit=crop&w=1200&q=80",
+      "id": "c5d40ff43ddd5aeb9d83b1404a6f580df41bbf20",
+      "image_local": "images/story-311.jpg"
+    },
+    "221208453f8b41ca3a07c66ce4a2d705b99d3e76": {
+      "headline": "Penguins: three to AHL, four on IR — still short of Monday’s 23-man limit",
+      "cat": "Penguins hockey",
+      "source": "Yahoo Sports",
+      "url": "https://sports.yahoo.com/articles/pens-send-three-ahl-four-174119618.html",
+      "summary": "Pittsburgh assigned Bill Zonnon, Harrison Brunicke and Joel Blomqvist to Wilkes-Barre/Scranton and listed Blake Lizotte, Justin Brazeau, Ben Kindel and Ryan Graves on IR as the Monday roster deadline arrives. Bryan Rust and Tristan Broz were being evaluated after missing practice; Andrei Kuzmenko remains on personal leave. Yahoo’s Sunday count still sat above 23, with Hallander–Lapierre–Koivunen the emerging “opportunity” third line before Wednesday’s opener in Philadelphia.",
+      "image_remote": "https://images.unsplash.com/photo-1515703407324-5f753afd8be8?auto=format&fit=crop&w=1200&q=80",
+      "id": "221208453f8b41ca3a07c66ce4a2d705b99d3e76",
+      "image_local": "images/story-312.jpg"
+    },
+    "de7583d0d2e5b85cb8decb94ca1f346efcea7bf2": {
+      "headline": "Ars: Tesla workers balk at training Optimus robots meant to replace them",
+      "cat": "Elon Musk / Tesla",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/",
+      "summary": "Ars Technica’s read of The Information’s Optimus reporting says Fremont is building hundreds of V3 humanoids a week after killing Model S/X production — yet hands still need 100+ manual fasteners, sensors fail, and AI can’t generalize. Factory workers who wore motion-capture suits complained they were training their replacements, so Tesla shifted capture to dedicated hubs. The company still aims for 1,000+ robots a week by year-end while leasing early units only into factories that look like its own.",
+      "image_remote": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80",
+      "id": "de7583d0d2e5b85cb8decb94ca1f346efcea7bf2",
+      "image_local": "images/story-313.jpg"
+    },
+    "fecdde6f95086f9883d58b5a07a70cc047e2f97a": {
+      "headline": "Apple 3D-prints iPhone Duo’s recycled titanium hinge cover — 100+ parts inside",
+      "cat": "Apple",
+      "source": "3Dnatives",
+      "url": "https://www.3dnatives.com/en/iphone-duo-apple-15092026/",
+      "summary": "Additive-manufacturing outlet 3Dnatives highlights the engineering story behind Apple’s first foldable: a 3D-printed Grade 5 recycled-titanium hinge cover and a 100-plus-component hinge scanned by confocal laser, then leveled with up to 25 AI-matched photopolymer micro-layers. Johny Srouji framed the process as a decade of waiting until print quality hit Apple’s scale bar, following LPBF titanium Watch cases and the iPhone Air USB-C port. Honor and OPPO shipped printed hinges earlier; Samsung’s Fold 8 still has not.",
+      "image_remote": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=1200&q=80",
+      "id": "fecdde6f95086f9883d58b5a07a70cc047e2f97a",
+      "image_local": "images/story-314.jpg"
+    },
+    "995b3d07b8d05d82e68fdfaeabf628dce3cf5d81": {
+      "headline": "Unitree Dex5-S five-finger robot hand: 22 DOF, ~620g, from $6,500",
+      "cat": "Gadgets / Tech",
+      "source": "Robot24",
+      "url": "https://robot24.com/unitree-adds-usd6-500-dex5-s-to-dexterous-hand-lineup",
+      "summary": "Hangzhou’s Unitree added the Dex5-S dexterous hand — roughly human-hand sized, 22 degrees of freedom (up from 20 on the Dex5-1), about 620 grams, with external back-drivability and impact protection on every joint. Dollar list starts near $6,500 after tax and shipping; Chinese coverage cited ~39,900 yuan domestically. The hand is not yet in Unitree’s global store with country shipping dates, and the company published no independent durability or task-success benchmarks.",
+      "image_remote": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+      "id": "995b3d07b8d05d82e68fdfaeabf628dce3cf5d81",
+      "image_local": "images/story-315.jpg"
     }
   },
-  "updated": "Sunday, September 27, 2026 · 6:15 PM ET"
+  "updated": "Sunday, September 27, 2026 · 10:05 PM ET"
 }
