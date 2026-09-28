@@ -1,5 +1,15 @@
 {
   "order": [
+    "fa54d592a0e35bdc008d0a3c4d9cbaf1cc05bb9c",
+    "477a4e2e40ebff3d5b592ad7226bfc8d2bfc8680",
+    "92dad350e4ef1afb7fb6864a1bc2e258fbf22d18",
+    "e1cf4bc7d3323b75808a0fba4a9ca7ba68b21c68",
+    "3ee492e04c929d2c110458fe83b387f734533f7d",
+    "9f5dade0406c6c2d8a3182ec448054d6e89ec906",
+    "88bc7a4fef69bca813f6ba1fb59d78ac9d137270",
+    "2a3a1cdf851ed49ca4b627512aab8f1f353c390c",
+    "600e268fad3e0b613c07244c6db393bfeb7cf63d",
+    "4ff9a8913a042153b53a9d83d6e1b2f18a412a18",
     "278b308554c61eedec5467ef81331f6f37eb55fb",
     "06796e0f666c8ede01f231c5a36b9ad1583b3dc2",
     "15e0979f7ff5cf2314c17b48902a8b432e53bfc7",
@@ -3874,7 +3884,117 @@
       "image_remote": "https://images.unsplash.com/photo-1555617981-dac3880eac6e?auto=format&fit=crop&w=1200&q=80",
       "id": "e887929a76d8ecf7a94199c39c3ce597453ee12b",
       "image_local": "images/story-325.jpg"
+    },
+    "fa54d592a0e35bdc008d0a3c4d9cbaf1cc05bb9c": {
+      "headline": "Long Hill Fire contains lithium-ion battery blaze in Trumbull bedroom",
+      "cat": "Local / Trumbull CT",
+      "source": "News 12 Connecticut",
+      "url": "https://connecticut.news12.com/2026/09/28/lithium-ion-battery-fire-contained-to-bedroom-in-trumbull-home/1hevhrO1nGG7BAb1UQbEmP",
+      "summary": "Long Hill Fire and mutual-aid crews snuffed a lithium-ion battery pack that was actively burning inside a Trumbull bedroom Monday morning, then checked the room so residual battery hazards were clear. The fire stayed limited to the pack and the bedroom where it started, the department said. Earlier the same storm cycle, Long Hill also covered an Easton house fire on mutual aid and logged 18 total calls for service.",
+      "image_remote": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-326.jpg",
+      "id": "fa54d592a0e35bdc008d0a3c4d9cbaf1cc05bb9c",
+      "n": 1
+    },
+    "477a4e2e40ebff3d5b592ad7226bfc8d2bfc8680": {
+      "headline": "Starship Flight 14 reaches orbit for the first time — then comes home early",
+      "cat": "Elon Musk / SpaceX",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/28/spacexs-starship-rocket-reaches-orbit-for-the-first-time/",
+      "summary": "SpaceX’s Starship hit Earth orbit Monday for the first time after controllers briefly called off the insertion burn when Ship 41 lost one Raptor, then pressed ahead and confirmed “Starship is orbital.” Ship deployed all 26 Starlink V3 satellites and linked to each of them, while Super Heavy completed its cleanest V3 splashdown simulation in the Gulf. About 1.5 hours in, SpaceX cut the planned ~nine-hour, six-orbit flight short and said it would deorbit Ship safely into a cleared Pacific zone after roughly three hours.",
+      "image_remote": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-327.jpg",
+      "id": "477a4e2e40ebff3d5b592ad7226bfc8d2bfc8680",
+      "n": 2
+    },
+    "92dad350e4ef1afb7fb6864a1bc2e258fbf22d18": {
+      "headline": "Trump to MAGA: ‘Pretend I am on the ballot’ for the midterms",
+      "cat": "Politics / MAGA",
+      "source": "Hannity",
+      "url": "https://hannity.com/media-room/keep-america-great-trump-all-in-on-midterms-makes-direct-appeal-to-maga-watch/",
+      "summary": "On Truth Social Monday, President Trump praised Heritage Foundation President Kevin Roberts’ Fox hit on midterm polling, vowed to spend and campaign for Republican candidates, and told supporters: “MAGA, pretend I am on the ballot.” He argued he carried many of the contested states and districts “often by a landslide,” tied turnout to keeping borders closed and crime down, and closed with “KEEP AMERICA GREAT!!!” The pitch lands as Republicans defend narrow majorities in a classic midterm headwind.",
+      "image_remote": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-328.jpg",
+      "id": "92dad350e4ef1afb7fb6864a1bc2e258fbf22d18",
+      "n": 3
+    },
+    "e1cf4bc7d3323b75808a0fba4a9ca7ba68b21c68": {
+      "headline": "White House press ban lifted after TRO — legal fight with CNN, MS NOW, Politico rolls on",
+      "cat": "Media / Politics",
+      "source": "The Gazette (AP)",
+      "url": "https://gazette.com/2026/09/27/white-house-press-ban-lifted-tensions-legal-battle-arent-over-yet/",
+      "summary": "Journalists from CNN, MS NOW and Politico are back on White House grounds after Judge Timothy Kelly’s temporary restraining order restored credentials Trump revoked over “fake news” coverage. Kelly focused on Fifth Amendment due process — fair notice and a chance to respond — more than a broad First Amendment right to the complex, and the 14-day TRO tees up a preliminary-injunction fight. The AP roundup notes the video pool had refused to shoot while CNN was barred, then resumed once the ban was lifted.",
+      "image_remote": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-329.jpg",
+      "id": "e1cf4bc7d3323b75808a0fba4a9ca7ba68b21c68",
+      "n": 4
+    },
+    "3ee492e04c929d2c110458fe83b387f734533f7d": {
+      "headline": "Bose’s first wired earbuds in 11 years add active noise canceling for $99",
+      "cat": "Gadgets / Tech",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1001326/bose-wired-earbuds-noise-canceling-headphones-preorder",
+      "summary": "Bose is back with wired earbuds for the first time since 2015: Noise Cancelling Wired Earbuds at $99 with USB-C, lossless-capable audio, IPX4 sweat resistance, and QuietControl ANC modes (Quiet, Aware, or off) on an inline remote. Preorders opened Monday in black, white smoke, and limited dewdrop mint, with shipping expected around Oct. 13–15. The pitch is simple — no battery anxiety — while still borrowing a decade of earbud mic and ANC progress for calls and commute use.",
+      "image_remote": "https://images.unsplash.com/photo-1484704849700-f032a568e944?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-330.jpg",
+      "id": "3ee492e04c929d2c110458fe83b387f734533f7d",
+      "n": 5
+    },
+    "9f5dade0406c6c2d8a3182ec448054d6e89ec906": {
+      "headline": "Jeep/Ram 3.6L rocker-arm warranty settlement: CT owners face Oct. 12 claim deadline",
+      "cat": "Jeep",
+      "source": "OpenClassActions",
+      "url": "https://openclassactions.com/settlements/automotive/fca-3-6l-valve-train-warranty-class-action-settlement.php",
+      "summary": "FCA’s proposed Regueiro settlement automatically extends coverage on valve rocker arms, stem oil seals, and tappets to seven years or 70,000 miles for 2015–2020 3.6L Ram, Jeep, Dodge and Chrysler models bought or leased in California plus ten Section 177 states — including Connecticut. Separate uncapped reimbursement for out-of-pocket repairs needs a claim by Oct. 12, 2026 (same day as opt-out/objection), with a final approval hearing set for Oct. 28. Many high-mileage trucks are already past the extension window, so the reimbursement half is the live money for most owners.",
+      "image_remote": "https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-331.jpg",
+      "id": "9f5dade0406c6c2d8a3182ec448054d6e89ec906",
+      "n": 6
+    },
+    "88bc7a4fef69bca813f6ba1fb59d78ac9d137270": {
+      "headline": "Harley-Davidson teases Road King ST return for 2027 — plus non-CVO Glide STs",
+      "cat": "Harley-Davidson",
+      "source": "Motorcycle.com",
+      "url": "https://www.motorcycle.com/bikes/new-model-preview/harley-davidson-is-bringing-back-the-road-king-as-the-road-king-st-44671972",
+      "summary": "Harley’s parts site has spun up 2027 accessory landing pages for a Road King ST — the clearest signal yet that the Road King nameplate is coming back after the Special exited in 2025 and the base King left in 2022. Motorcycle.com also flags non-CVO Street Glide ST and Road Glide ST pages, implying performance-leaning tourers below the carbon-heavy CVO trims, likely on the Milwaukee-Eight 117 platform. Formal styling and pricing still await the first 2027 color/model dump.",
+      "image_remote": "https://images.unsplash.com/photo-1558981806-ec527fa84c39?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-332.jpg",
+      "id": "88bc7a4fef69bca813f6ba1fb59d78ac9d137270",
+      "n": 7
+    },
+    "2a3a1cdf851ed49ca4b627512aab8f1f353c390c": {
+      "headline": "Insta360 X5 firmware adds AI Director that edits 360 highlights while it charges",
+      "cat": "Canon / Insta360",
+      "source": "Camera Decision",
+      "url": "https://cameradecision.com/blog/Insta360-X5-Firmware-11321-Adds-AI-Director-and-It-Edits-Your-Clips-While-the-Camera-Charges",
+      "summary": "Insta360’s X5 firmware 1.13.21 (noted Sept. 16, covered mid-month) turns charging time into an on-camera edit pass: AI Director scans your 360 footage, picks highlights, and leaves a finished clip ready when you reopen the app — no cloud fee. It also unlocks the Foldable Selfie Stick Remote Kit’s joystick for gimbal-like flat video out of camera. Catch: no I-Log support, keep the card footage until you review the cut, and you need app 2.33.6+ (Android 2.34.0 lists the feature).",
+      "image_remote": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-333.jpg",
+      "id": "2a3a1cdf851ed49ca4b627512aab8f1f353c390c",
+      "n": 8
+    },
+    "600e268fad3e0b613c07244c6db393bfeb7cf63d": {
+      "headline": "Fall colors in U.S. parks are getting harder to time as climate swings widen",
+      "cat": "USA travel",
+      "source": "Outside Online",
+      "url": "https://www.outsideonline.com/adventure-travel/national-parks/fall-colors-climate-change/",
+      "summary": "Outside’s late-September briefing walks through 2026 phenology research showing warmer eastern summers can push color later while western drought can brown aspens early — so historical “peak week” calendars are less reliable. Park-by-park notes cover Rocky Mountain, Yellowstone/Teton, Cuyahoga, the Smokies, Shenandoah, and Acadia (where one study puts peak almost two weeks later than 1950). Practical takeaway for leaf-peepers: treat old averages as a starting point, watch drought/foliage reports, and use elevation bands instead of one locked weekend.",
+      "image_remote": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-334.jpg",
+      "id": "600e268fad3e0b613c07244c6db393bfeb7cf63d",
+      "n": 9
+    },
+    "4ff9a8913a042153b53a9d83d6e1b2f18a412a18": {
+      "headline": "Penguins: AHL cuts and four on IR leave Monday roster crunch before Flyers opener",
+      "cat": "Penguins hockey",
+      "source": "PensBurgh",
+      "url": "https://www.pensburgh.com/general/81174/pens-send-three-to-ahl-four-to-ir-as-roster-comes-into-focus",
+      "summary": "Beyond Sunday’s IR paperwork, PensBurgh’s Monday-facing roster board shows Zonnon, Brunicke and Blomqvist already in Wilkes-Barre while Brazeau, Graves, Kindel and Lizotte sit on IR — and Pittsburgh still needs at least two more moves by the NHL’s Monday afternoon opening-roster deadline. Rust and Broz are being evaluated after the Sabres preseason finale; Kuzmenko remains a non-roster candidate on personal leave. That shuffle opens a real look for a Hallander–Lapierre–Koivunen “opportunity line” heading into Wednesday’s opener in Philadelphia.",
+      "image_remote": "https://images.unsplash.com/photo-1515703407324-5f753afd8be8?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-335.jpg",
+      "id": "4ff9a8913a042153b53a9d83d6e1b2f18a412a18",
+      "n": 10
     }
   },
-  "updated": "Monday, September 28, 2026 · 7:10 AM ET"
+  "updated": "Monday, September 28, 2026 · 11:55 AM ET"
 }
