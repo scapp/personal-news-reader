@@ -1,5 +1,15 @@
 {
   "order": [
+    "c77c77052f1a20fd8b986e5bedadfca7a27408c1",
+    "c0a1b465934a2be9174ddf54e5c149051622db99",
+    "6c680f1b99d32c9a54c154a4ba0f577326bdff73",
+    "078b34392fad60f26f12dd5a6ffb600d99826b82",
+    "1045bfde4478f71e0e4290a8393d8ea22cf18046",
+    "a2f161f271b0de17fb61cf94cfb42dd513be659c",
+    "34d1cf399da52dfc941a21f109cd08a7687dfe44",
+    "c59b4c957d8335c910b3c326765c298d51df912f",
+    "af2072d7de8468dc61a2e1c8de4dd7cccbc6ae62",
+    "8467bcb8daa7923e2b79a8422bae19750c832e9c",
     "5b1c6d048c7b8049c50ad12b9d858caba4b84b6b",
     "7990e184ba1e716bb908e0cd961128f87e05d578",
     "b40950e4b0561d082dec0e82babdc236e4d3f854",
@@ -4714,7 +4724,127 @@
       "image_local": "images/story-365.jpg",
       "id": "64d05223dda34afe510ac1ac693aac2f7e7ddbe0",
       "order": 9
+    },
+    "c77c77052f1a20fd8b986e5bedadfca7a27408c1": {
+      "n": 1,
+      "headline": "Trumbull hazmat scare: 1940s fridge leaks sulfur dioxide during home removal",
+      "cat": "Local / Trumbull CT",
+      "source": "CT Post",
+      "url": "https://www.ctpost.com/news/article/trumbull-1940s-refrigerator-hazmat-sulfur-dioxide-22453690.php",
+      "summary": "Long Hill Volunteer Fire Company was called about 11:30 a.m. Monday for an unknown leak; crews found a homeowner had cut the refrigerant line while dismantling a 1940s-era refrigerator, releasing sulfur dioxide. Initial entry teams backed out after elevated meter readings, then worked with CT DEEP and the Fairfield County Hazardous Incident Response Team to mitigate the leak and ventilate the home. Crews operated about three hours; no injuries were reported.",
+      "image_remote": "https://images.unsplash.com/photo-1571175443880-49e1d25b2bc5?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-366.jpg",
+      "id": "c77c77052f1a20fd8b986e5bedadfca7a27408c1",
+      "order": 390
+    },
+    "c0a1b465934a2be9174ddf54e5c149051622db99": {
+      "n": 2,
+      "headline": "Hands-on: LEGO PlayStation (72306) is a 1:1, 1,911-piece PS1 with Gran Turismo dioramas",
+      "cat": "LEGO",
+      "source": "GameRant",
+      "url": "https://gamerant.com/lego-playstation-set-review/",
+      "summary": "GameRant’s early build of LEGO set 72306 PlayStation calls it one of the brand’s strongest video-game sets: a roughly 1:1 scale PS1 with an attachable controller, working power and disc-tray buttons, and about 1,911 pieces for $179.99 on Oct. 1. Hidden slide-in dioramas nod to Gran Turismo and Ape Escape, and a classic PlayStation logo sits under the covers. Reviewer notes miss functional D-pad buttons on the mini controller but still ranks it high for display and play value.",
+      "image_remote": "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-367.jpg",
+      "id": "c0a1b465934a2be9174ddf54e5c149051622db99",
+      "order": 389
+    },
+    "6c680f1b99d32c9a54c154a4ba0f577326bdff73": {
+      "n": 3,
+      "headline": "Iran’s Araghchi meets Qatari mediators as U.S. ties any deal to nuclear steps",
+      "cat": "Politics / MAGA",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/29/irans-araghchi-meets-qatari-mediators-as-us-insists-on-nuclear-talks",
+      "summary": "Iranian Foreign Minister Abbas Araghchi met Qatari mediators in New York Monday on a Hormuz reopen plan and said he hoped for Washington’s reply by Tuesday, after President Trump rejected Tehran’s earlier seven-day proposal as “unacceptable.” A U.S. official told Al Jazeera talks were “positive and constructive” but that there will be no end-of-war deal unless Iran’s nuclear program is addressed, with sanctions relief and frozen funds tied to nuclear timing. Trump told reporters the U.S. will “win” and that gas prices will fall once the war ends.",
+      "image_remote": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-368.jpg",
+      "id": "6c680f1b99d32c9a54c154a4ba0f577326bdff73",
+      "order": 388
+    },
+    "078b34392fad60f26f12dd5a6ffb600d99826b82": {
+      "n": 4,
+      "headline": "Crosby and Penguins: no pressure to ink extension before Flyers opener",
+      "cat": "Penguins hockey",
+      "source": "NHL.com",
+      "url": "https://www.nhl.com/news/sidney-crosby-penguins-no-pressure-for-new-contract",
+      "summary": "GM Kyle Dubas said Monday the Penguins are comfortable opening the season without a new deal for Sidney Crosby, who enters the final year of a two-year, $17.4 million contract. Crosby (39) said he wants to focus on playing while agent Pat Brisson and the club keep talking; Dubas framed late-career extensions as season-long comfort checks, not hard deadlines. Evgeni Malkin (one-year deal) and Erik Karlsson (final year of his Sharks-era contract) are in similar open-ended situations as Pittsburgh opens Wednesday at the Flyers.",
+      "image_remote": "https://images.unsplash.com/photo-1515703407324-5f753afd8be8?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-369.jpg",
+      "id": "078b34392fad60f26f12dd5a6ffb600d99826b82",
+      "order": 387
+    },
+    "1045bfde4478f71e0e4290a8393d8ea22cf18046": {
+      "n": 5,
+      "headline": "Jets must fix the run without Hall — Allen and Davis up vs. Bears",
+      "cat": "Jets football",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/09/29/sports/jets-running-game-will-likely-have-to-get-fixed-without-breece-hall-versus-bears/",
+      "summary": "With Breece Hall week-to-week after a quad injury and left guard Dylan Parham also banged up, Aaron Glenn said Monday the Jets will lean on Braelon Allen and Isaiah Davis in Chicago while refusing to blame injuries for a sputtering ground game. New York ranks 26th in rush yards and 30th in yards per carry after just 58 yards against Detroit; Glenn called the run “one area we have to fix.” Geno Smith is tied for third in sacks allowed (nine), and new DE Joseph Ossai saw a quiet debut after missing most of camp.",
+      "image_remote": "https://images.unsplash.com/photo-1566577739112-5180d4bf9390?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-370.jpg",
+      "id": "1045bfde4478f71e0e4290a8393d8ea22cf18046",
+      "order": 386
+    },
+    "a2f161f271b0de17fb61cf94cfb42dd513be659c": {
+      "n": 6,
+      "headline": "iPhone Duo StandBy leak: five unannounced faces including Snoopy and Home Camera",
+      "cat": "Apple gear",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/09/28/iphone-duo-standby-leak/",
+      "summary": "Leaker pdfu dug into iOS 27.1 simulator strings for the iPhone Duo’s always-on StandBy mode and surfaced five faces Apple hasn’t shown: Home Camera (up to nine feeds), Home Modular, Flow, Fade, and a Snoopy-themed face. A face editor and five widget layouts (StandBy, Stacked, Top, Middle, Bottom) also appear tied to an internal “Rushmore” app. Duo pre-orders still start Oct. 16 ahead of the Oct. 23 launch.",
+      "image_remote": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-371.jpg",
+      "id": "a2f161f271b0de17fb61cf94cfb42dd513be659c",
+      "order": 385
+    },
+    "34d1cf399da52dfc941a21f109cd08a7687dfe44": {
+      "n": 7,
+      "headline": "Apple patches Meta-reported CoreGraphics zero-day used in ‘extremely sophisticated’ attacks",
+      "cat": "Gadgets / Tech",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/apple-patches-meta-reported-zero-day-linked-to-extremely-sophisticated-attack/",
+      "summary": "Apple on Monday shipped fixes for CVE-2026-86950, an out-of-bounds write in CoreGraphics that can run code via a crafted file and may have been exploited in highly targeted attacks on iOS before iOS 27. Meta’s product security team reported the bug; patches land in iOS/iPadOS 26.7.1 and macOS Tahoe 26.7.1 / Sequoia 15.8.1, while current iOS 27 / macOS 27 lines appear unaffected. Delivery path is unclear — web, email, or messaging previews are all possible for a graphics/PDF parser flaw.",
+      "image_remote": "https://images.unsplash.com/photo-1563986768609-322da13575f3?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-372.jpg",
+      "id": "34d1cf399da52dfc941a21f109cd08a7687dfe44",
+      "order": 384
+    },
+    "c59b4c957d8335c910b3c326765c298d51df912f": {
+      "n": 8,
+      "headline": "Massachusetts DCR relaunches 2026 interactive fall foliage map for state parks",
+      "cat": "USA travel",
+      "source": "NewsLink Live",
+      "url": "https://newslinklive.com/2026/09/28/dcr-unveils-2026-interactive-fall-foliage-map-to-track-peak-colors-across-massachusetts/",
+      "summary": "Massachusetts DCR on Monday brought back its interactive fall foliage map so travelers can track color change at state properties by geography, date, or park, with staff photos of current conditions. Governor Healey and Lt. Gov. Driscoll pitched it as a planning tool from the Berkshires to the North Shore; DCR says mid-October is the statewide peak window, with Western Massachusetts coloring first. The map blends forestry history with current weather and will be updated on social channels through the season.",
+      "image_remote": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-373.jpg",
+      "id": "c59b4c957d8335c910b3c326765c298d51df912f",
+      "order": 383
+    },
+    "af2072d7de8468dc61a2e1c8de4dd7cccbc6ae62": {
+      "n": 9,
+      "headline": "Slipknot books 2027 (sic)est Stadium Tour — Wembley to Citi Field; artist presale today",
+      "cat": "Heavy metal",
+      "source": "Premier Guitar",
+      "url": "https://www.premierguitar.com/news/slipknot-announce-worldwide-sic-est-stadium-tour",
+      "summary": "Slipknot unveiled a Live Nation stadium run for summer 2027, opening July 3 at London’s Wembley then hitting Nationals Park, Citi Field, Soldier Field, Fenway, SoFi, Golden Gate Park, and a South America leg. Bring Me The Horizon supports all North American dates with rotating guests (Lamb of God, Lorna Shore, Polyphia, and others); Marilyn Manson and Hatebreed join select international shows. Artist presale starts Tuesday Sept. 29 at 10 a.m. local, Knotfest at noon, public on-sale Oct. 2 — plus Monday launch pop-ups at Wembley and SoFi.",
+      "image_remote": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-374.jpg",
+      "id": "af2072d7de8468dc61a2e1c8de4dd7cccbc6ae62",
+      "order": 382
+    },
+    "8467bcb8daa7923e2b79a8422bae19750c832e9c": {
+      "n": 10,
+      "headline": "Canon ships EOS R1 and R5 Mark II firmware 1.3.2 — Dual Pixel RAW restart fix",
+      "cat": "Canon / Insta360",
+      "source": "Digital Camera World",
+      "url": "https://www.digitalcameraworld.com/tech/firmware/canons-sports-camera-king-and-its-most-important-and-most-powerful-camera-just-got-a-little-bit-better",
+      "summary": "Canon posted firmware 1.3.2 for the EOS R1 and EOS R5 Mark II with shared fixes for Multi Remote live-view delay and linked-shooting failures when the sender is on FTP, plus general stability work. The R5 Mark II build also stops unwanted restarts when Dual Pixel RAW is enabled — a pain point for high-res stills shooters. Downloads are live for macOS and Windows on Canon’s support sites.",
+      "image_remote": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-375.jpg",
+      "id": "8467bcb8daa7923e2b79a8422bae19750c832e9c",
+      "order": 381
     }
   },
-  "updated": "Monday, September 28, 2026 · 10:15 PM ET"
+  "updated": "Tuesday, September 29, 2026 · 7:20 AM ET"
 }
