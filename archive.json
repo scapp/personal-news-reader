@@ -1,5 +1,18 @@
 {
   "order": [
+    "529e27a0e2b216c18873f0831eb41b91d440dd63",
+    "d1f5e994eebe3d275b16c7310446bd7604bd85f9",
+    "60c0d0080f736db6ec2269d894b9d721bea9ef85",
+    "98fd308a3a5160654222d799c9d3a62e2c058d7b",
+    "01f67d43f534c818755714d20fdb343558e46b98",
+    "d04accb88b5451be79e133656265198c7543dcc5",
+    "4d310a5fd27f4eed382a6a21ed1971c80b6792ec",
+    "491ac536b8728b2c0d5471d0e85b99d74b8a3669",
+    "e2713ff61dd45712069b9920dff88fea867c6eb8",
+    "4ee9f296534caae9371b7bc9cc9a13b1c5791981",
+    "2755e72e4e39234584cc30e6372432c13f897bf0",
+    "fe7209124007f3db3337c1e515c119cc0da026b8",
+    "b463b09d6639327ba9a9d44824d295fa18ece141",
     "a0ba7e76c5c0410c9dba8d81ec77a300ab41bb73",
     "143111e456f458da7913f737771dc4c77e8d37ad",
     "18013a78f0349a8bca6fe4c97c37a8e3c93f7a51",
@@ -416,7 +429,7 @@
       "image_local": "images/story-122.jpg",
       "id": "0c2ac7a5e342411678296315c4c59043b1f067cc",
       "n": 1,
-      "order": 267
+      "order": 280
     },
     "3656f5cb40e5e227bf15d4f334e0564f073e9762": {
       "headline": "Reuters: states wrongly added 30,000+ self-declared noncitizens to voter rolls",
@@ -428,7 +441,7 @@
       "image_local": "images/story-123.jpg",
       "id": "3656f5cb40e5e227bf15d4f334e0564f073e9762",
       "n": 2,
-      "order": 268
+      "order": 281
     },
     "45967f501e160d540dbe31e4fd1f48dd8e7ae2d6": {
       "headline": "Trump admin races to Supreme Court after third-country deportation flight canceled",
@@ -440,7 +453,7 @@
       "image_local": "images/story-124.jpg",
       "id": "45967f501e160d540dbe31e4fd1f48dd8e7ae2d6",
       "n": 3,
-      "order": 269
+      "order": 282
     },
     "6295235ddcdd298ed15330343e0747af80266986": {
       "headline": "Mother of ICE-shot Austin delivery driver describes video call after the shooting",
@@ -452,7 +465,7 @@
       "image_local": "",
       "id": "6295235ddcdd298ed15330343e0747af80266986",
       "n": 4,
-      "order": 270
+      "order": 283
     },
     "8941f199f659180f73d55e624923f86bea6c7454": {
       "headline": "CT police standards council urges tighter rules on Flock license-plate cameras",
@@ -464,7 +477,7 @@
       "image_local": "images/story-125.jpg",
       "id": "8941f199f659180f73d55e624923f86bea6c7454",
       "n": 5,
-      "order": 271
+      "order": 284
     },
     "cf06a86bde75080a2be0b396aff49e884b2fde18": {
       "headline": "Tesla opens Nevada Semi factory aiming for 50,000 trucks a year",
@@ -476,7 +489,7 @@
       "image_local": "images/story-126.jpg",
       "id": "cf06a86bde75080a2be0b396aff49e884b2fde18",
       "n": 6,
-      "order": 272
+      "order": 285
     },
     "a2726a78e3390b6e546bfa4eedbc63e150931582": {
       "headline": "Musk: SpaceX can take AI ‘pole position’ in about six months if growth holds",
@@ -488,7 +501,7 @@
       "image_local": "images/story-127.jpg",
       "id": "a2726a78e3390b6e546bfa4eedbc63e150931582",
       "n": 7,
-      "order": 273
+      "order": 286
     },
     "5f203558536dba35596bfb25c22c7073fcdd4c48": {
       "headline": "watchOS 27.2 code hints at iPhone-style screenshot preview, share, delete",
@@ -500,7 +513,7 @@
       "image_local": "images/story-128.jpg",
       "id": "5f203558536dba35596bfb25c22c7073fcdd4c48",
       "n": 8,
-      "order": 274
+      "order": 287
     },
     "68fddc49305271cdb5eabda9d5244e580241c982": {
       "headline": "Insta360 Luna Ultra hits 22.5× zoom via free firmware and $49.99 telephoto clip-on",
@@ -512,7 +525,7 @@
       "image_local": "images/story-129.jpg",
       "id": "68fddc49305271cdb5eabda9d5244e580241c982",
       "n": 9,
-      "order": 275
+      "order": 288
     },
     "13567e0f6e13f46f4a5918cea3df57ae0704a4fa": {
       "headline": "Canon Dual Pixel 3D Converter: free Windows app builds 3D models from one photo",
@@ -524,7 +537,7 @@
       "image_local": "images/story-130.jpg",
       "id": "13567e0f6e13f46f4a5918cea3df57ae0704a4fa",
       "n": 10,
-      "order": 276
+      "order": 289
     },
     "1c976480ba682c95a5ac7bd5df3a17d02c2228e6": {
       "headline": "LEGO’s 2026 Halloween wave: Mayor Manor, La Catrina, and a $100 haunted-tree gift",
@@ -536,7 +549,7 @@
       "image_local": "images/story-131.jpg",
       "id": "1c976480ba682c95a5ac7bd5df3a17d02c2228e6",
       "n": 11,
-      "order": 277
+      "order": 290
     },
     "58bc6071ec562c48b7b41e25d616ef8575c7be96": {
       "headline": "Metallica extends M72 into spring 2027 stadiums with Limp Bizkit and Avatar",
@@ -548,7 +561,7 @@
       "image_local": "images/story-132.jpg",
       "id": "58bc6071ec562c48b7b41e25d616ef8575c7be96",
       "n": 12,
-      "order": 278
+      "order": 291
     },
     "3a93aea5ea8d7952ea359b7b0b33e5c8c19ce9c5": {
       "headline": "Trumbull Dog Day Festival Oct. 3 at Unity Park Pavilion",
@@ -560,7 +573,7 @@
       "image_local": "images/story-110.jpg",
       "id": "3a93aea5ea8d7952ea359b7b0b33e5c8c19ce9c5",
       "n": 1,
-      "order": 279
+      "order": 292
     },
     "7ad361b690cbe3b1d1a690a7d17f2c61914a39b8": {
       "headline": "White House reluctantly restores CNN, MS NOW, Politico after morning denials",
@@ -572,7 +585,7 @@
       "image_local": "images/story-111.jpg",
       "id": "7ad361b690cbe3b1d1a690a7d17f2c61914a39b8",
       "n": 2,
-      "order": 280
+      "order": 293
     },
     "a63b96e89c4cb5d56a58f8fbf434e999d18345d8": {
       "headline": "Iowa judge dismisses Trump’s lawsuit against pollster Ann Selzer",
@@ -584,7 +597,7 @@
       "image_local": "images/story-112.jpg",
       "id": "a63b96e89c4cb5d56a58f8fbf434e999d18345d8",
       "n": 3,
-      "order": 281
+      "order": 294
     },
     "23ba96dda2c9319619179bfd14fe1394cf9cf772": {
       "headline": "Democrats sue to keep armed federal agents away from midterm polls",
@@ -596,7 +609,7 @@
       "image_local": "images/story-113.jpg",
       "id": "23ba96dda2c9319619179bfd14fe1394cf9cf772",
       "n": 4,
-      "order": 282
+      "order": 295
     },
     "676817f046483a7716cace9d995af932aa453469": {
       "headline": "Congressman: Venezuelan man shot by ICE still has bullet near spine",
@@ -608,7 +621,7 @@
       "image_local": "images/story-114.jpg",
       "id": "676817f046483a7716cace9d995af932aa453469",
       "n": 5,
-      "order": 283
+      "order": 296
     },
     "9acc0b6c4881ecff2983f3f3a6de88fbf990b7a2": {
       "headline": "Apple’s past month: 12 new products from Mac mini to Beats 360",
@@ -620,7 +633,7 @@
       "image_local": "images/story-115.jpg",
       "id": "9acc0b6c4881ecff2983f3f3a6de88fbf990b7a2",
       "n": 6,
-      "order": 284
+      "order": 297
     },
     "d1b1c11835d42edc23218806a1391c9c1f98db49": {
       "headline": "Meta’s $1,299 VR Glasses: 100g, 5K per eye, spring 2027",
@@ -632,7 +645,7 @@
       "image_local": "images/story-116.jpg",
       "id": "d1b1c11835d42edc23218806a1391c9c1f98db49",
       "n": 7,
-      "order": 285
+      "order": 298
     },
     "5221d7b8223516dda16099ed945eca4d25e5db3d": {
       "headline": "Jets Thursday injury report: Fitzpatrick, Mauigoa, Taylor still out",
@@ -644,7 +657,7 @@
       "image_local": "images/story-117.jpg",
       "id": "5221d7b8223516dda16099ed945eca4d25e5db3d",
       "n": 8,
-      "order": 286
+      "order": 299
     },
     "7a2fbfdc05f854fabdd655dc24039f721e94c9df": {
       "headline": "Tesla Semi Rollout livestream tonight 6 p.m. PDT from Sparks factory",
@@ -656,7 +669,7 @@
       "image_local": "images/story-118.jpg",
       "id": "7a2fbfdc05f854fabdd655dc24039f721e94c9df",
       "n": 9,
-      "order": 287
+      "order": 300
     },
     "064b64d214eb4bdf6e0922f3d5285b268d0082b2": {
       "headline": "LEGO Icons Bookshop Book Nook (11379): 1,690 pieces, $149.99, Oct. 1",
@@ -668,7 +681,7 @@
       "image_local": "images/story-119.jpg",
       "id": "064b64d214eb4bdf6e0922f3d5285b268d0082b2",
       "n": 10,
-      "order": 288
+      "order": 301
     },
     "34a82f67f6d21b76e478424229a4f9ccabf056c8": {
       "headline": "Penguins trim camp roster again; Gauthier assigned after waivers",
@@ -680,7 +693,7 @@
       "image_local": "images/story-120.jpg",
       "id": "34a82f67f6d21b76e478424229a4f9ccabf056c8",
       "n": 11,
-      "order": 289
+      "order": 302
     },
     "bc3e60a12d7cf2e855a97a3570bb506833a72e44": {
       "headline": "Vermont foliage heating up as cold nights push mountain color",
@@ -692,7 +705,7 @@
       "image_local": "images/story-121.jpg",
       "id": "bc3e60a12d7cf2e855a97a3570bb506833a72e44",
       "n": 12,
-      "order": 290
+      "order": 303
     },
     "80489350cde9f94ae03e3cf2d8ec46a61f1d45c3": {
       "headline": "Trumbull police car-seat check Saturday at Nichols Firehouse",
@@ -704,7 +717,7 @@
       "id": "80489350cde9f94ae03e3cf2d8ec46a61f1d45c3",
       "image_local": "images/story-99.jpg",
       "n": 1,
-      "order": 291
+      "order": 304
     },
     "ba54a72e5915d613fac1f0dbce28b090385f96f2": {
       "headline": "6th Circuit greenlights Ohio proof-of-citizenship law for midterms",
@@ -716,7 +729,7 @@
       "id": "ba54a72e5915d613fac1f0dbce28b090385f96f2",
       "image_local": "images/story-100.jpg",
       "n": 2,
-      "order": 292
+      "order": 305
     },
     "502efc0f5e2450cf9751e36b66bac6ff6e81383a": {
       "headline": "Trump admin will ask Supreme Court to revive third-country deportations",
@@ -728,7 +741,7 @@
       "id": "502efc0f5e2450cf9751e36b66bac6ff6e81383a",
       "image_local": "images/story-101.jpg",
       "n": 3,
-      "order": 293
+      "order": 306
     },
     "8f42f33606c769b9c1b7bfe53087e4b793367b06": {
       "headline": "Apple shares new video promoting iOS 27 parental controls",
@@ -740,7 +753,7 @@
       "id": "8f42f33606c769b9c1b7bfe53087e4b793367b06",
       "image_local": "images/story-102.jpg",
       "n": 4,
-      "order": 294
+      "order": 307
     },
     "70f760790b668b66496d4d02e70e3ae991aa6434": {
       "headline": "Beats 360 headphones hit Apple Stores, Best Buy, and Target shelves",
@@ -752,7 +765,7 @@
       "id": "70f760790b668b66496d4d02e70e3ae991aa6434",
       "image_local": "images/story-103.jpg",
       "n": 5,
-      "order": 295
+      "order": 308
     },
     "5ab91aafcecda8a7b79f1134d7a7807e62a4005d": {
       "headline": "Penguins’ Andrei Kuzmenko takes leave after father dies in Siberia bear attack",
@@ -764,7 +777,7 @@
       "id": "5ab91aafcecda8a7b79f1134d7a7807e62a4005d",
       "image_local": "images/story-104.jpg",
       "n": 6,
-      "order": 296
+      "order": 309
     },
     "d3627ffaa2e3eedc3e4c5700f8b3812dfa04ee66": {
       "headline": "Geno Smith: Jets still turnover-free entering Lions Week 3",
@@ -776,7 +789,7 @@
       "id": "d3627ffaa2e3eedc3e4c5700f8b3812dfa04ee66",
       "image_local": "images/story-105.jpg",
       "n": 7,
-      "order": 297
+      "order": 310
     },
     "f8177557e8dabc5cdc5e3b498ebfeadd76cd3979": {
       "headline": "Starship Flight 14 wet dress under way; orbital window opens Monday",
@@ -788,7 +801,7 @@
       "id": "f8177557e8dabc5cdc5e3b498ebfeadd76cd3979",
       "image_local": "images/story-106.jpg",
       "n": 8,
-      "order": 298
+      "order": 311
     },
     "6aea1d57a7417d43a1f49da484cafff6688050a6": {
       "headline": "LEGO Ideas Wallace & Gromit (21371): 1,038 pieces, $99.99, Oct. 1",
@@ -800,7 +813,7 @@
       "id": "6aea1d57a7417d43a1f49da484cafff6688050a6",
       "image_local": "images/story-107.jpg",
       "n": 9,
-      "order": 299
+      "order": 312
     },
     "720931b1bbf5fb30a1c02e54c2d3db95ab7e2a0d": {
       "headline": "CT peak foliage forecast later — and more vibrant — this fall",
@@ -812,7 +825,7 @@
       "id": "720931b1bbf5fb30a1c02e54c2d3db95ab7e2a0d",
       "image_local": "images/story-108.jpg",
       "n": 10,
-      "order": 300
+      "order": 313
     },
     "defc86a047b185d0704fc9d272f2229807f94ef0": {
       "headline": "GAO: ICE wasted tens of millions on rushed detention expansion plans",
@@ -824,7 +837,7 @@
       "id": "defc86a047b185d0704fc9d272f2229807f94ef0",
       "image_local": "images/story-109.jpg",
       "n": 11,
-      "order": 301
+      "order": 314
     },
     "4a611b3dc409220367939deceb936c36d1a00b4d": {
       "headline": "Trumbull Restaurant Week returns Oct. 2–9 with 20 local eateries",
@@ -835,7 +848,7 @@
       "image_local": "images/story-87.jpg",
       "image_remote": "https://patch.com/img/cdn20/users/22878689/20260921/020726/styles/patch_image/public/img-3273___21140705481.jpg",
       "id": "4a611b3dc409220367939deceb936c36d1a00b4d",
-      "order": 302
+      "order": 315
     },
     "1fdd6bf5619daee1291fd6aef483ddbd79f84b0d": {
       "headline": "White House pushes faster DHS review of 47 state voter rolls for noncitizens",
@@ -846,7 +859,7 @@
       "image_local": "images/story-88.jpg",
       "image_remote": "https://media.assettype.com/bdnews24-english/2026-09-24/i50iv69b/white-house-01-23092026.jpg?w=1200",
       "id": "1fdd6bf5619daee1291fd6aef483ddbd79f84b0d",
-      "order": 303
+      "order": 316
     },
     "2a1285423ea9c694fe9ee61f885b448a0eb30b3c": {
       "headline": "Trump admin releases CISA blueprint to harden 2026 election infrastructure",
@@ -857,7 +870,7 @@
       "image_local": "images/story-89.jpg",
       "image_remote": "https://thefederalist.com/wp-content/uploads/2026/09/Voting.jpg",
       "id": "2a1285423ea9c694fe9ee61f885b448a0eb30b3c",
-      "order": 304
+      "order": 317
     },
     "db3da7db604398dee1e4ef7e7e605f7bddf7d534": {
       "headline": "Apple confirms iPhone 18 Pro Face ID fix update coming early next week",
@@ -868,7 +881,7 @@
       "image_local": "images/story-90.jpg",
       "image_remote": "https://images.macrumors.com/t/h-vQRWJRmHdVgT3Q0tlvoKf2IKQ=/1672x/article-new/2026/09/Face-ID-iPhone-18-Pro.jpg",
       "id": "db3da7db604398dee1e4ef7e7e605f7bddf7d534",
-      "order": 305
+      "order": 318
     },
     "6ba1b826c21b6d4a952633be0715a3755412bc6a": {
       "headline": "Qualcomm renews global patent licensing deal with Apple from April 2027",
@@ -879,7 +892,7 @@
       "image_local": "images/story-91.jpg",
       "image_remote": "https://images.macrumors.com/t/RReC41bi40qSHIZuJ0sGlkLVjns=/1600x/article-new/2026/09/Qualcomm-Apple-Logos.jpg",
       "id": "6ba1b826c21b6d4a952633be0715a3755412bc6a",
-      "order": 306
+      "order": 319
     },
     "29f7996dbea58880293d8af6d0c6b224d5966535": {
       "headline": "Tesla Semi factory sneak peek: PepsiCo, DHL, US Foods trucks staged for tonight",
@@ -890,7 +903,7 @@
       "image_local": "images/story-92.jpg",
       "image_remote": "https://electrek.co/wp-content/uploads/sites/3/2026/09/tesla-semi-customer-logos-nevada-factory.jpg?quality=82&strip=all&resize=1200,628",
       "id": "29f7996dbea58880293d8af6d0c6b224d5966535",
-      "order": 307
+      "order": 320
     },
     "9e8fc7c2368b7b4b1f135101e81c7f93a756bb06": {
       "headline": "Starship Flight 14 stacked at Starbase for first orbital attempt as early as Sep 28",
@@ -901,7 +914,7 @@
       "image_local": "images/story-93.jpg",
       "image_remote": "https://r2.keeptrack.space/article-images/spacex-brief/20.jpg",
       "id": "9e8fc7c2368b7b4b1f135101e81c7f93a756bb06",
-      "order": 308
+      "order": 321
     },
     "6aa6784d0af699f83877316fd0cbd04f21dec31a": {
       "headline": "Penguins 2026-27 preview: Crosby-era core still the foundation as youth push",
@@ -912,7 +925,7 @@
       "image_local": "images/story-94.jpg",
       "image_remote": "https://media.d3.nhle.com/image/private/t_ratio16_9-size50/v1789849401/prd/vcuqqv4shhjvlujjnmwv.jpg",
       "id": "6aa6784d0af699f83877316fd0cbd04f21dec31a",
-      "order": 309
+      "order": 322
     },
     "5dbd96610f50dfd5bdbb3ca9dfb353b0f54cf516": {
       "headline": "Jets defense ranks No. 1 overall as Bailey and Thomas fuel Lions-week prep",
@@ -923,7 +936,7 @@
       "image_local": "images/story-95.jpg",
       "image_remote": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/jets/yrflfoobs1yqcww7ymoi",
       "id": "5dbd96610f50dfd5bdbb3ca9dfb353b0f54cf516",
-      "order": 310
+      "order": 323
     },
     "ff5aa58ac261ea34085178deeeea916ef05dd6d1": {
       "headline": "LEGO UCS Executor Super Star Destroyer: 6,130 pieces, $799.99, on sale Oct. 1",
@@ -934,7 +947,7 @@
       "image_local": "images/story-96.jpg",
       "image_remote": "https://www.lego.com/cdn/cs/aboutus/assets/blt3e6b54f327f76c2b/75457_Lifestyle_Envr_05.jpg?width=1200",
       "id": "ff5aa58ac261ea34085178deeeea916ef05dd6d1",
-      "order": 311
+      "order": 324
     },
     "d10c02bded52579037a3d8899d82c05bc96c6a26": {
       "headline": "Andrew Wilson drops Erika Kirk texts and video — Candace Owens still unconvinced",
@@ -945,7 +958,7 @@
       "image_local": "images/story-97.jpg",
       "image_remote": "https://d.ibtimes.co.uk/en/full/1818025/erika-kirk.png",
       "id": "d10c02bded52579037a3d8899d82c05bc96c6a26",
-      "order": 312
+      "order": 325
     },
     "f76d129e90529fd69abc457a87862bb64316fed9": {
       "headline": "Maine foliage report: northern color change high as nor’easter threatens weekend",
@@ -956,7 +969,7 @@
       "image_local": "images/story-98.jpg",
       "image_remote": "https://www.pressherald.com/wp-content/uploads/sites/4/2026/09/43786137_202600914_foliageDD_1.jpg?w=1200",
       "id": "f76d129e90529fd69abc457a87862bb64316fed9",
-      "order": 313
+      "order": 326
     },
     "19de4b11657268b38c748e2b3fc6a501dc3b06d1": {
       "headline": "Judge orders White House to restore CNN, MS NOW, and Politico access",
@@ -967,7 +980,7 @@
       "image_local": "images/story-75.jpg",
       "image_remote": "https://images.wral.com/56cdce99-922a-4c0c-84cf-6c379c4c53bb?w=1200&#x26;h=630&#x26;height=630",
       "id": "19de4b11657268b38c748e2b3fc6a501dc3b06d1",
-      "order": 314
+      "order": 327
     },
     "982c7d2d3ce87e328faa4e18ed61dc0807ed4df5": {
       "headline": "Trumbull cemetery lands on new CT Haunted History Trail map",
@@ -978,7 +991,7 @@
       "image_local": "images/story-76.jpg",
       "image_remote": "https://patch.com/img/cdn20/shutterstock/22878689/20260921/060750/styles/patch_image/public/shutterstock-1118705255___21180538145.jpg",
       "id": "982c7d2d3ce87e328faa4e18ed61dc0807ed4df5",
-      "order": 315
+      "order": 328
     },
     "229335280dd8a390db022de0290030a623c60528": {
       "headline": "Trump and Xi sit down in Washington with trade truce extended, hard issues open",
@@ -989,7 +1002,7 @@
       "image_local": "images/story-77.jpg",
       "image_remote": "https://wtop.com/wp-content/uploads/2026/09/US_China_Trump_52943-scaled.jpg",
       "id": "229335280dd8a390db022de0290030a623c60528",
-      "order": 316
+      "order": 329
     },
     "b96cbedf46fb37eabaecd9477f78749c855fb71a": {
       "headline": "ICE-shot Austin delivery driver needs spine surgery; agent reportedly had no body cam",
@@ -1000,7 +1013,7 @@
       "image_local": "images/story-78.jpg",
       "image_remote": "https://i0.wp.com/www.texastribune.org/wp-content/uploads/2026/09/20260920-Austin-ICE-Shooting-JL-14.jpg?quality=100&w=1200&h=630&ssl=1",
       "id": "b96cbedf46fb37eabaecd9477f78749c855fb71a",
-      "order": 317
+      "order": 330
     },
     "8d24359304ffec19656317e4e5d592ae8e8c3b53": {
       "headline": "Apple testing iOS 27.0.1 after iPhone 18 Pro Face ID complaints",
@@ -1011,7 +1024,7 @@
       "image_local": "images/story-79.jpg",
       "image_remote": "https://images.macrumors.com/t/wR5D0PMoVjhPVzOvq7K0_Z4ChwI=/1672x/article-new/2026/09/iOS-27-0-1.jpeg",
       "id": "8d24359304ffec19656317e4e5d592ae8e8c3b53",
-      "order": 318
+      "order": 331
     },
     "a285b270ec9078850e82a7a9961dd8c685a68e2b": {
       "headline": "Meta’s Connect ‘one more thing’: Muse Charm AI Tamagotchi puck",
@@ -1022,7 +1035,7 @@
       "image_local": "images/story-80.jpg",
       "image_remote": "https://images.macrumors.com/t/14wGEZUuYIteDE8k96rWVH2s_lU=/1600x/article-new/2026/09/meta-muse-charm.jpg",
       "id": "a285b270ec9078850e82a7a9961dd8c685a68e2b",
-      "order": 319
+      "order": 332
     },
     "43e166b616c9031c55b45afa674d7ede8e593b06": {
       "headline": "Penguins preseason lineup vs Columbus features both Ruck twins",
@@ -1033,7 +1046,7 @@
       "image_local": "images/story-81.jpg",
       "image_remote": "https://media.d3.nhle.com/image/private/t_ratio16_9-size50/prd/m7pgwlls5qezsmdy3f4z.png",
       "id": "43e166b616c9031c55b45afa674d7ede8e593b06",
-      "order": 320
+      "order": 333
     },
     "aa855974a9288fb9116233b02cac59e486aa1660": {
       "headline": "Jets Week 3 injury report: Fitzpatrick, Mauigoa, Taylor miss Wednesday practice",
@@ -1044,7 +1057,7 @@
       "image_local": "images/story-82.jpg",
       "image_remote": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/jets/prqyhtnhvuzz4e3jrvfw",
       "id": "aa855974a9288fb9116233b02cac59e486aa1660",
-      "order": 321
+      "order": 334
     },
     "cfb5b0b4e9e0b46e55d4173ec264ebd5e82a5d25": {
       "headline": "Candace Owens challenges Erika Kirk footage metadata — demands on-record answer",
@@ -1055,7 +1068,7 @@
       "image_local": "images/story-83.jpg",
       "image_remote": "https://static.toiimg.com/thumb/msid-134448460,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "id": "cfb5b0b4e9e0b46e55d4173ec264ebd5e82a5d25",
-      "order": 322
+      "order": 335
     },
     "849486a057c27e44190fb64f126eb18a6d36e6a6": {
       "headline": "Fall color map: early yellows in northern New England and Great Lakes",
@@ -1066,7 +1079,7 @@
       "image_local": "images/story-84.jpg",
       "image_remote": "https://cms-assets-con.cdn.weatherbug.net/assets/contentitems/68/68a1a305-db41-434a-b683-623d683609d5/52e0ce98-d40a-4283-82d1-d0fe816ebf4b/4425fc55-4f2a-4bad-afc4-07d287345c64.png",
       "id": "849486a057c27e44190fb64f126eb18a6d36e6a6",
-      "order": 323
+      "order": 336
     },
     "1451be691a641b0e6b042ce73b6f61a58eccc68b": {
       "headline": "Tesla Semi factory ‘Rollout’ lands today in Sparks — ceremonial opening after April production",
@@ -1077,7 +1090,7 @@
       "image_local": "images/story-85.jpg",
       "image_remote": "https://electrek.co/wp-content/uploads/sites/3/2026/05/tesla-semi-long-range-vs-standard-range.gif?resize=1200,628",
       "id": "1451be691a641b0e6b042ce73b6f61a58eccc68b",
-      "order": 324
+      "order": 337
     },
     "2c4868ccde41b38620f9ab9125ae2119638be621": {
       "headline": "LEGO Harry Potter Ministry of Magic Collectors’ Edition: 3,491 pieces, $449.99",
@@ -1088,7 +1101,7 @@
       "image_local": "images/story-86.jpg",
       "image_remote": "https://www.lego.com/cdn/cs/aboutus/assets/blt5b625e2d547bb1ff/76476_Lifestyle_Cons_02.jpg?width=1200",
       "id": "2c4868ccde41b38620f9ab9125ae2119638be621",
-      "order": 325
+      "order": 338
     },
     "379a9286bea9ad88f0531340fc4f332fd27a82a4": {
       "headline": "Trumbull Veterans and First Responders Center enters final construction phase",
@@ -1100,7 +1113,7 @@
       "image_remote": "https://npr.brightspotcdn.com/dims4/default/008ba0b/2147483647/strip/true/crop/768x403+0+90/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Faa%2F5d%2F7b8264c14943927f5d27d905b975%2Fvfw-center-1200x800-web.jpg",
       "n": 1,
       "id": "379a9286bea9ad88f0531340fc4f332fd27a82a4",
-      "order": 326
+      "order": 339
     },
     "9dc3d1663db28a5c243bb1e3380c8c072faccc4e": {
       "headline": "DOJ ramps up noncitizen voting prosecutions ahead of November midterms",
@@ -1112,7 +1125,7 @@
       "image_remote": "https://storage.googleapis.com/media.mwcradio.com/mimesis/2026-09/23/2026-09-23T194756Z_1_LYNXMPEM8M1SJ_RTROPTP_3_USA-ELECTION-NORTH-CAROLINA.JPG",
       "n": 2,
       "id": "9dc3d1663db28a5c243bb1e3380c8c072faccc4e",
-      "order": 327
+      "order": 340
     },
     "c466c16f29c3a919f02f0c9223e6d51d6c0f348f": {
       "headline": "AP: U.S. citizen left bloodied after ICE agents mistook him for a fugitive",
@@ -1124,7 +1137,7 @@
       "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260922-evanston-ice-mn-1150-4b7928.jpg",
       "n": 3,
       "id": "c466c16f29c3a919f02f0c9223e6d51d6c0f348f",
-      "order": 328
+      "order": 341
     },
     "3bec9c020298fe82552e4ec34e2e357f3d3fbb4f": {
       "headline": "Kirk family notice of claim hinges on UVU chief’s ‘I got you covered’ text",
@@ -1136,7 +1149,7 @@
       "image_remote": "https://dxltb3n5j8l6j.cloudfront.net/817975/uploads/475558b0-b723-11f1-ba3b-05f54fce9422_1200_630.jpeg",
       "n": 4,
       "id": "3bec9c020298fe82552e4ec34e2e357f3d3fbb4f",
-      "order": 329
+      "order": 342
     },
     "9eb554b36623a1a814337be4088ebf6ffa6ae18b": {
       "headline": "ICE shooting lawyer deletes post joking about Charlie Kirk’s neck wound",
@@ -1148,7 +1161,7 @@
       "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/austin-lawyer-charlie-kirk.jpg",
       "n": 5,
       "id": "9eb554b36623a1a814337be4088ebf6ffa6ae18b",
-      "order": 330
+      "order": 343
     },
     "d30496183f3a8f159f464466c027a3567451121b": {
       "headline": "Bessent: U.S. and China extend Busan trade truce through January 10",
@@ -1160,7 +1173,7 @@
       "image_remote": "https://storage.googleapis.com/media.mwcradio.com/mimesis/2026-09/23/2026-09-23T222259Z_2_LYNXMPEM8M20A_RTROPTP_3_USA-CHINA.JPG",
       "n": 6,
       "id": "d30496183f3a8f159f464466c027a3567451121b",
-      "order": 331
+      "order": 344
     },
     "fe766dbe2b28e2f92d5dcecf25f3aac124b7fc0e": {
       "headline": "Apple exploring screenless fitness band as Watch lineup rethink",
@@ -1172,7 +1185,7 @@
       "image_remote": "https://images.macrumors.com/t/xOdZCyc_QY8-fEZkBiEBzHNSFCg=/1600x/article-new/2026/08/whoop.jpg",
       "n": 7,
       "id": "fe766dbe2b28e2f92d5dcecf25f3aac124b7fc0e",
-      "order": 332
+      "order": 345
     },
     "06aea1799bd09ec83b900fa73bfe9734fc346c4b": {
       "headline": "OpenAI: ChatGPT-in-Siri deal ‘persistently underperforming’ vs xAI suit",
@@ -1184,7 +1197,7 @@
       "image_remote": "https://images.macrumors.com/t/_DO3VmlEIeePypjZ61U9_WgQ3-8=/2000x/article-new/2025/04/chatgpt-logo.jpg",
       "n": 8,
       "id": "06aea1799bd09ec83b900fa73bfe9734fc346c4b",
-      "order": 333
+      "order": 346
     },
     "be481ca7e5b3ae7c9affb42c8692807fa7e7ae87": {
       "headline": "Jets: Aaron Glenn’s Motor City reunion vs Dan Campbell and No. 1 defense",
@@ -1196,7 +1209,7 @@
       "image_remote": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/jets/gzp5git8siclmmn5yrxv",
       "n": 9,
       "id": "be481ca7e5b3ae7c9affb42c8692807fa7e7ae87",
-      "order": 334
+      "order": 347
     },
     "a99ca1d3674cc222e0d6f0f919a7930047303b0c": {
       "headline": "Penguins cut nine, loan Galvas to Czechia, waive Gauthier for AHL",
@@ -1208,7 +1221,7 @@
       "image_remote": "https://platform.pensburgh.com/wp-content/uploads/sites/123/2026/09/gettyimages-2296092358.jpg?quality=90&strip=all&crop=0%2C10.736148181334%2C100%2C78.527703637332&w=1200",
       "n": 10,
       "id": "a99ca1d3674cc222e0d6f0f919a7930047303b0c",
-      "order": 335
+      "order": 348
     },
     "f273c07206fff1b205b2e6cf2c9b97214ac831b8": {
       "headline": "Trumbull Arts Festival lineup set for Sunday on Town Hall Green",
@@ -1220,7 +1233,7 @@
       "image_remote": "https://patch.com/img/cdn20/shutterstock/22878689/20260827/123908/styles/patch_image/public/shutterstock-751279570___27123701825.jpg",
       "id": "f273c07206fff1b205b2e6cf2c9b97214ac831b8",
       "added": "Wednesday, September 23, 2026 · 6:17 PM ET",
-      "order": 336
+      "order": 349
     },
     "390c9843e5435cae6b06038defb29d47aad062fd": {
       "headline": "Judge: White House skipped due process before CNN / Politico media ban",
@@ -1232,7 +1245,7 @@
       "image_remote": "https://static.independent.co.uk/2026/09/23/20/2026-09-23T100028Z_1123825779_RC2PONAHOS66_RTRMADP_3_USA-TRUMP-MEDIA.JPG?trim=80,0,80,0&width=1200&height=800&crop=1200:800",
       "id": "390c9843e5435cae6b06038defb29d47aad062fd",
       "added": "Wednesday, September 23, 2026 · 6:17 PM ET",
-      "order": 337
+      "order": 350
     },
     "d6e1cd042a246039934568288149358db15ec3b6": {
       "headline": "AP-KFF poll: rural voters still lean Trump, but pocketbook pain is rising",
@@ -1244,7 +1257,7 @@
       "image_remote": "https://www.pressherald.com/wp-content/uploads/sites/4/2026/09/rv.jpg?w=780",
       "id": "d6e1cd042a246039934568288149358db15ec3b6",
       "added": "Wednesday, September 23, 2026 · 6:17 PM ET",
-      "order": 338
+      "order": 351
     },
     "02a8f8cdf348f1a51be2afcbebd32d6e81d10105": {
       "headline": "AP Exclusive: ICE hides locator data for thousands with final removal orders",
@@ -1256,7 +1269,7 @@
       "image_remote": "https://wtop.com/wp-content/uploads/2026/09/Immigration_ICE_Finding_Detainees_74722-scaled.jpg",
       "id": "02a8f8cdf348f1a51be2afcbebd32d6e81d10105",
       "added": "Wednesday, September 23, 2026 · 6:17 PM ET",
-      "order": 339
+      "order": 352
     },
     "0fdc5a07c7d7caa9006f9a26a7b96eeee94d4d24": {
       "headline": "Jets: Arian Smith out for season after ACL surgery; Onyemata sidelined weeks",
@@ -1268,7 +1281,7 @@
       "image_remote": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/jets/e19p1mrqplyl5oecvyxx",
       "id": "0fdc5a07c7d7caa9006f9a26a7b96eeee94d4d24",
       "added": "Wednesday, September 23, 2026 · 6:17 PM ET",
-      "order": 340
+      "order": 353
     },
     "6dbf84c8f2d022cf79c91fa098965442da1202ac": {
       "headline": "LEGO holiday wave: Icons Holiday House and Buddy the Elf lead Oct. 1 drop",
@@ -1280,7 +1293,7 @@
       "image_remote": "https://www.lego.com/cdn/cs/aboutus/assets/blt5d85abdc45dd4c69/11387_Lifestyle_Build_04.jpg?width=1200",
       "id": "6dbf84c8f2d022cf79c91fa098965442da1202ac",
       "added": "Wednesday, September 23, 2026 · 6:17 PM ET",
-      "order": 341
+      "order": 354
     },
     "ac1399ec9f45a6efff33b7d39d77c87dda7fc5fd": {
       "headline": "LEGO confirms first Dragon Ball set is imminent — Adults Welcome teaser",
@@ -1292,7 +1305,7 @@
       "image_remote": "https://brickset.com/utils/ogimage/article/134860?83767",
       "id": "ac1399ec9f45a6efff33b7d39d77c87dda7fc5fd",
       "added": "Wednesday, September 23, 2026 · 6:17 PM ET",
-      "order": 342
+      "order": 355
     },
     "9b78cef408b4341af99ae160fdf2a22b11a0f361": {
       "headline": "Apple Watch Series 12: Health Sensing System, readiness score, Audio Intelligence",
@@ -1304,7 +1317,7 @@
       "image_remote": "https://www.apple.com/newsroom/images/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/tile/Apple-Watch-Series-12-2up-260909-lp.jpg.og.jpg?202609221",
       "id": "9b78cef408b4341af99ae160fdf2a22b11a0f361",
       "added": "Wednesday, September 23, 2026 · 6:17 PM ET",
-      "order": 343
+      "order": 356
     },
     "c06b3f1b4a2b0d852ca9beff076751096a222016": {
       "headline": "Kaeden Korczak: Pens trade opened space to ‘reach more of my full potential’",
@@ -1316,7 +1329,7 @@
       "image_remote": "https://media.d3.nhle.com/image/private/t_ratio16_9-size50/prd/vy27sbyegodzet1wfbvi.png",
       "id": "c06b3f1b4a2b0d852ca9beff076751096a222016",
       "added": "Wednesday, September 23, 2026 · 6:17 PM ET",
-      "order": 344
+      "order": 357
     },
     "0ac2edd8d3c34bcd66a22e79e47d924ec597074a": {
       "headline": "Matt Walsh calls Netflix ‘neck injury’ anniversary post ‘despicable’",
@@ -1328,7 +1341,7 @@
       "image_remote": "https://thatparkplace.com/wp-content/uploads/2026/09/Charlie-Kirk-Netflix.png",
       "id": "0ac2edd8d3c34bcd66a22e79e47d924ec597074a",
       "added": "Wednesday, September 23, 2026 · 6:17 PM ET",
-      "order": 345
+      "order": 358
     },
     "56e725efee6becc27ff263f0cfe6192c12d30d9a": {
       "headline": "Karen Woodall: Lighthouse Keeping maps repair after coerced child rejection",
@@ -1340,7 +1353,7 @@
       "image_remote": "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=1200&q=80",
       "id": "56e725efee6becc27ff263f0cfe6192c12d30d9a",
       "added": "Wednesday, September 23, 2026 · 6:17 PM ET",
-      "order": 346
+      "order": 359
     },
     "05d485dccdbda949902d53c290089d7ac1c66744": {
       "headline": "Post–Labor Day USA parks window: Yosemite, Glacier, Arches drop timed entry",
@@ -1352,7 +1365,7 @@
       "image_remote": "https://fooddrinklife.com/wp-content/uploads/2026/07/Hiking-to-Windows-Arch-in-Arches-National-Park.jpg",
       "id": "05d485dccdbda949902d53c290089d7ac1c66744",
       "added": "Wednesday, September 23, 2026 · 6:17 PM ET",
-      "order": 347
+      "order": 360
     },
     "dc8f627b430e910546ba12060657383753ece85d": {
       "headline": "Trumbull leaf pickup starts Nov. 4 — track progress on the town map",
@@ -1363,7 +1376,7 @@
       "image_local": "images/story-39.jpg",
       "image_remote": "https://patch.com/img/cdn20/users/22878689/20260923/034735/styles/patch_image/public/img-3273___23154720739.jpg",
       "id": "dc8f627b430e910546ba12060657383753ece85d",
-      "order": 348
+      "order": 361
     },
     "fcdfda04f1592b98032f8044709c2b7246c7dcd7": {
       "headline": "MAGA-aligned PACs dump $163M into ads — much of it defending deep-red districts",
@@ -1374,7 +1387,7 @@
       "image_local": "images/story-40.jpg",
       "image_remote": "https://www.therepublic.com/wp-content/uploads/2026/09/preview-5344.jpg",
       "id": "fcdfda04f1592b98032f8044709c2b7246c7dcd7",
-      "order": 349
+      "order": 362
     },
     "51cda294b463eff8d8269fdf527b77f02a084509": {
       "headline": "CNN, Politico, MS NOW face Trump admin in court over White House media ban",
@@ -1385,7 +1398,7 @@
       "image_local": "images/story-41.jpg",
       "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260907-president-trump-vsb-1231-f0ce1f.jpg",
       "id": "51cda294b463eff8d8269fdf527b77f02a084509",
-      "order": 350
+      "order": 363
     },
     "7827fc352ba7a4c396c943c4c6a9b1d73e8cb28a": {
       "headline": "Judge orders ICE-shot Venezuelan delivery driver to appear Sept. 30 as video emerges",
@@ -1396,7 +1409,7 @@
       "image_local": "images/story-42.jpg",
       "image_remote": "https://images.wral.com/92ced8e1-cd63-5c08-924f-bd7c343f4448?w=1200&h=630&height=630",
       "id": "7827fc352ba7a4c396c943c4c6a9b1d73e8cb28a",
-      "order": 351
+      "order": 364
     },
     "515739e994e5f01b44722dd26595518862496691": {
       "headline": "Tesla rolls out in-car Grok Connectors for email, calendar, and files",
@@ -1407,7 +1420,7 @@
       "image_local": "images/story-43.jpg",
       "image_remote": "https://cdn.teslanorth.com/wp-content/uploads/2026/02/grok-fsd.jpeg",
       "id": "515739e994e5f01b44722dd26595518862496691",
-      "order": 352
+      "order": 365
     },
     "8479535e9fb64911fdc81b643e2312f89c557989": {
       "headline": "Apple ships iOS 27 with Siri AI, stronger Screen Time, and Liquid Glass tweaks",
@@ -1418,7 +1431,7 @@
       "image_local": "images/story-44.jpg",
       "image_remote": "https://www.apple.com/newsroom/images/2026/09/major-updates-for-apples-software-platforms-are-now-available/tile/Apple-OS-availability-hero-lp.jpg.og.jpg?202609221259",
       "id": "8479535e9fb64911fdc81b643e2312f89c557989",
-      "order": 353
+      "order": 366
     },
     "021af25b7bd2b964189c1d223b95196f2640a389": {
       "headline": "LEGO Batman Returns Batmobile: 2,269 pieces with button-reveal Batmissile",
@@ -1429,7 +1442,7 @@
       "image_local": "images/story-45.jpg",
       "image_remote": "https://www.lego.com/cdn/cs/aboutus/assets/blt2f9db15c137fd4fd/76355_Lifestyle_Envr_02.jpg?width=1200",
       "id": "021af25b7bd2b964189c1d223b95196f2640a389",
-      "order": 354
+      "order": 367
     },
     "e758b9582aa3a787e96049b40a1ca846eb43e5f8": {
       "headline": "Jets Stock Report: No. 1 defense and Bailey’s pressures head into Lions week",
@@ -1440,7 +1453,7 @@
       "image_local": "images/story-46.jpg",
       "image_remote": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/jets/dfo72g8xr6pzl6wf9udr",
       "id": "e758b9582aa3a787e96049b40a1ca846eb43e5f8",
-      "order": 355
+      "order": 368
     },
     "fc740c4bbdd83760e8375ac44f37af2fec63b9b6": {
       "headline": "Ruck twins share ‘pretty special’ Penguins preseason debut on the same line",
@@ -1451,7 +1464,7 @@
       "image_local": "images/story-47.jpg",
       "image_remote": "https://media.d3.nhle.com/image/private/t_ratio16_9-size50/prd/i64xehjkozlfs79agolu.jpg",
       "id": "fc740c4bbdd83760e8375ac44f37af2fec63b9b6",
-      "order": 356
+      "order": 369
     },
     "93d2cfda769a6db33e05a7354b35dc54e6c7e816": {
       "headline": "Bullet For My Valentine: Dimebag’s Vulgar Display tone is the ‘most iconic’ ever",
@@ -1462,7 +1475,7 @@
       "image_local": "images/story-48.jpg",
       "image_remote": "https://cdn.mos.cms.futurecdn.net/64kS3JxaJPedoyRaQRN5zR-1920-80.png",
       "id": "93d2cfda769a6db33e05a7354b35dc54e6c7e816",
-      "order": 357
+      "order": 370
     },
     "345837f5e8fbdb7f558e56beacf873f47e1c4152": {
       "headline": "Jeep and Harley-Davidson reunite communities at European Bike Week 2026",
@@ -1473,7 +1486,7 @@
       "image_local": "images/story-49.jpg",
       "image_remote": "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?auto=format&fit=crop&w=1200&q=80",
       "id": "345837f5e8fbdb7f558e56beacf873f47e1c4152",
-      "order": 358
+      "order": 371
     },
     "bf72a94a65e91411032be3e9f96c23b5173420d0": {
       "headline": "Erika Kirk marks Charlie’s death anniversary: ‘Until heaven’",
@@ -1484,7 +1497,7 @@
       "image_local": "images/story-50.jpg",
       "image_remote": "https://www.usmagazine.com/wp-content/uploads/2026/09/Erika-Kirk-Pays-Tribute-to-Late-Husband-Charlie-Kirk-on-1st-Anniversary-of-His-Death--e1789015916237.jpg?crop=0px%2C430px%2C2000px%2C1050px&#038;resize=1200%2C630&#038;quality=86&#038;strip=all",
       "id": "bf72a94a65e91411032be3e9f96c23b5173420d0",
-      "order": 359
+      "order": 372
     },
     "28e45000f97fdfcb4893e576a994293f04bb94d0": {
       "headline": "Dr. Amy J.L. Baker: parental alienation is unjustified rejection — not estrangement",
@@ -1495,7 +1508,7 @@
       "image_local": "images/story-51.jpg",
       "image_remote": "https://bestinterest.app/media/2025/01/parental-alienation-dr-amy-jl-baker.webp",
       "id": "28e45000f97fdfcb4893e576a994293f04bb94d0",
-      "order": 360
+      "order": 373
     },
     "d5d748d9ff93a79a68549319944929312943372f": {
       "headline": "Free USA foliage map ranks peak color for every county, park, and forest",
@@ -1506,7 +1519,7 @@
       "image_local": "images/story-52.jpg",
       "image_remote": "https://substackcdn.com/image/fetch/$s_!Kdl4!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe5404ab0-90d1-4056-b0bd-d19d3395f057_1800x1200.jpeg",
       "id": "d5d748d9ff93a79a68549319944929312943372f",
-      "order": 361
+      "order": 374
     },
     "58fd728570f4c873fbcc169ee010eaf2346e4639": {
       "n": 1,
@@ -1518,7 +1531,7 @@
       "image_local": "images/story-24.jpg",
       "image_remote": "https://patch.com/img/cdn20/shutterstock/22878689/20260922/110557/styles/patch_image/public/shutterstock-696138958___22110359132.jpg",
       "id": "58fd728570f4c873fbcc169ee010eaf2346e4639",
-      "order": 362
+      "order": 375
     },
     "7e7081d66586a1a623d3420d87345be1858b50cb": {
       "n": 2,
@@ -1530,7 +1543,7 @@
       "image_local": "images/story-25.jpg",
       "image_remote": "https://images.wral.com/80fa51c6-ac29-5f73-9602-a53181bc93aa?w=1200&h=630&height=630",
       "id": "7e7081d66586a1a623d3420d87345be1858b50cb",
-      "order": 363
+      "order": 376
     },
     "d89cd11d8c185de88ce6855ec398923724a168c8": {
       "n": 3,
@@ -1542,7 +1555,7 @@
       "image_local": "images/story-26.jpg",
       "image_remote": "https://www.lego.com/cdn/cs/aboutus/assets/blt970de05701d160f3/72306_Lifestyle_Cons_02.jpg?width=1200",
       "id": "d89cd11d8c185de88ce6855ec398923724a168c8",
-      "order": 364
+      "order": 377
     },
     "0e4c54e6ac75c61e5c2e32a0a2274fb3e71d8004": {
       "n": 4,
@@ -1554,7 +1567,7 @@
       "image_local": "images/story-27.jpg",
       "image_remote": "https://www.apple.com/newsroom/images/2026/09/apple-unveils-apple-watch-ultra-4/tile/Apple-Watch-Ultra-4-hero-260909-lp.jpg.og.jpg?202609221300",
       "id": "0e4c54e6ac75c61e5c2e32a0a2274fb3e71d8004",
-      "order": 365
+      "order": 378
     },
     "a29f414630343e9942ebf6cbe4be58a93e8e27e6": {
       "n": 5,
@@ -1566,7 +1579,7 @@
       "image_local": "images/story-28.jpg",
       "image_remote": "https://cdn3.hitc.com/uploads/1/2026/09/GettyImages-2290450813-scaled.jpg",
       "id": "a29f414630343e9942ebf6cbe4be58a93e8e27e6",
-      "order": 366
+      "order": 379
     },
     "34c7d607714adc32f9857c1aa20ddcd7a09bb8e8": {
       "n": 6,
@@ -1578,7 +1591,7 @@
       "image_local": "images/story-29.jpg",
       "image_remote": "https://d.ibtimes.co.uk/en/full/1832854/elon-musk-2025-cpa-convention.jpg",
       "id": "34c7d607714adc32f9857c1aa20ddcd7a09bb8e8",
-      "order": 367
+      "order": 380
     },
     "5fd7bf8c0e7dc4a5393c8a1f1680dc269db40f34": {
       "n": 7,
@@ -1590,7 +1603,7 @@
       "image_local": "images/story-30.jpg",
       "image_remote": "https://gazette.com/wp-content/uploads/2026/03/2025-10-14T204934Z_1_LYNXNPEL9D14X_RTROPTP_4_USA-TRUMP-KIRK-1-scaled.jpg",
       "id": "5fd7bf8c0e7dc4a5393c8a1f1680dc269db40f34",
-      "order": 368
+      "order": 381
     },
     "23ac2db08bf114a6a165a4dd3d6ec38149071dd5": {
       "n": 8,
@@ -1602,7 +1615,7 @@
       "image_local": "images/story-31.jpg",
       "image_remote": "https://media.d3.nhle.com/image/private/t_ratio16_9-size50/prd/mxtzfluoui89tfd4sjnv.png",
       "id": "23ac2db08bf114a6a165a4dd3d6ec38149071dd5",
-      "order": 369
+      "order": 382
     },
     "bc3d9351aa76f74a1f8692431cfd0d1d5ea2e801": {
       "n": 9,
@@ -1614,7 +1627,7 @@
       "image_local": "images/story-32.jpg",
       "image_remote": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/jets/i3cbnkzt8gw3bimyhrik",
       "id": "bc3d9351aa76f74a1f8692431cfd0d1d5ea2e801",
-      "order": 370
+      "order": 383
     },
     "449ec180a236f9cb0065b75ef397c3952bce306d": {
       "n": 10,
@@ -1626,7 +1639,7 @@
       "image_local": "images/story-33.jpg",
       "image_remote": "https://mmx.prnewswire.com/media/MS1992341/20260921003603EDT_image_1.jpg?id=OA2959617&p=twitter",
       "id": "449ec180a236f9cb0065b75ef397c3952bce306d",
-      "order": 371
+      "order": 384
     },
     "6d3b367cd1f44fcebbee2427d4df04a7e02e9ca1": {
       "n": 11,
@@ -1638,7 +1651,7 @@
       "image_local": "images/story-34.jpg",
       "image_remote": "https://karenwoodall.blog/wp-content/uploads/2023/03/screenshot-2023-03-16-at-16.12.58.png",
       "id": "6d3b367cd1f44fcebbee2427d4df04a7e02e9ca1",
-      "order": 372
+      "order": 385
     },
     "58f3c6c3fb115ac7bed820ade4ce42b4260092b9": {
       "n": 12,
@@ -1650,7 +1663,7 @@
       "image_local": "images/story-35.jpg",
       "image_remote": "https://i.abcnewsfe.com/a/1541a835-5cd3-4a3b-9e79-a353db5d957c/fall-foliage-gty-jef-260922_1790086229376_hpMain_16x9.jpg?w=992",
       "id": "58f3c6c3fb115ac7bed820ade4ce42b4260092b9",
-      "order": 373
+      "order": 386
     },
     "3b2635eb928589e1bc00e42670ed0e6f72b156c7": {
       "n": 13,
@@ -1662,7 +1675,7 @@
       "image_local": "images/story-36.jpg",
       "image_remote": "https://s3-eu-west-2.amazonaws.com/h-dmedia-2020-p2-gukhnguzhnation.epa.epresspacks.com/epa/c5855549a48ab68b/images/preview/2026_AFT_R16_Springfield_Mile_II_SuperTwins.jpg",
       "id": "3b2635eb928589e1bc00e42670ed0e6f72b156c7",
-      "order": 374
+      "order": 387
     },
     "7a9b4ae50e109b0a70af0872eaa2acdba66d2a69": {
       "n": 14,
@@ -1674,7 +1687,7 @@
       "image_local": "images/story-37.jpg",
       "image_remote": "https://i.ytimg.com/vi/yUIEUFYgjNA/maxresdefault.jpg",
       "id": "7a9b4ae50e109b0a70af0872eaa2acdba66d2a69",
-      "order": 375
+      "order": 388
     },
     "f6f151053fbb1957876b126f191668d071124f26": {
       "n": 15,
@@ -1686,7 +1699,7 @@
       "image_local": "images/story-38.jpg",
       "image_remote": "https://distortedsoundmag.com/wp-content/uploads/2026/09/The-Great-Nola-Trendkill-2026-Full-Lineup.jpg",
       "id": "f6f151053fbb1957876b126f191668d071124f26",
-      "order": 376
+      "order": 389
     },
     "2106dcafb616e01d604092e5325f7d244b0b8e48": {
       "n": 1,
@@ -1698,7 +1711,7 @@
       "image_local": "images/story-01.jpg",
       "image_remote": "https://gray-wfsb-prod.gtv-cdn.com/resizer/v2/QQCSV63UK5DGTBVNYENZTRW6JM.jpg?auth=dd6e270fbe43f1a45fff0a838442e595c1b6c4991f9653fb6605b89bf5616852&width=1200&height=600&smart=false&focal=227%2C363",
       "id": "2106dcafb616e01d604092e5325f7d244b0b8e48",
-      "order": 377
+      "order": 390
     },
     "062d8c3b39d8b676809d3fdc8f74d3c0e4a5a2a2": {
       "n": 2,
@@ -1710,7 +1723,7 @@
       "image_local": "images/story-02.jpg",
       "image_remote": "https://ctmirror.org/wp-content/uploads/2026/09/CTPublic-Trumbull-data-center-1.webp",
       "id": "062d8c3b39d8b676809d3fdc8f74d3c0e4a5a2a2",
-      "order": 378
+      "order": 391
     },
     "67b0ab80760fc42a155057fd1b58f2b24d91aeeb": {
       "n": 3,
@@ -1722,7 +1735,7 @@
       "image_local": "images/story-03.jpg",
       "image_remote": "https://patch.com/img/cdn20/shutterstock/22878689/20260909/014346/styles/patch_image/public/shutterstock-637859629___09133954028.jpg",
       "id": "67b0ab80760fc42a155057fd1b58f2b24d91aeeb",
-      "order": 379
+      "order": 392
     },
     "4f5610ca9725eb040a390db80364b5aac0606bb9": {
       "n": 4,
@@ -1734,7 +1747,7 @@
       "image_local": "images/story-04.jpg",
       "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260922-trump-media-mb-0727-0f3a85.jpg",
       "id": "4f5610ca9725eb040a390db80364b5aac0606bb9",
-      "order": 380
+      "order": 393
     },
     "7f626649abfd3c5493487b0cec668153d9078111": {
       "n": 5,
@@ -1746,7 +1759,7 @@
       "image_local": "images/story-05.jpg",
       "image_remote": "https://nypost.com/wp-content/uploads/sites/2/2026/09/rotten-apple.jpg?quality=75&strip=all&w=1200",
       "id": "7f626649abfd3c5493487b0cec668153d9078111",
-      "order": 381
+      "order": 394
     },
     "b9f9effdde32475829c0ab561f9014572c49b8d2": {
       "n": 6,
@@ -1758,7 +1771,7 @@
       "image_local": "images/story-06.jpg",
       "image_remote": "https://dw-wp-production.imgix.net/2026/09/Zelensky.jpeg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800",
       "id": "b9f9effdde32475829c0ab561f9014572c49b8d2",
-      "order": 382
+      "order": 395
     },
     "70ea97b5ea1a8fb0610456036462eae312ab2e4e": {
       "n": 7,
@@ -1770,7 +1783,7 @@
       "image_local": "images/story-07.jpg",
       "image_remote": "https://d.ibtimes.co.uk/en/full/1825790/erika-kirk.png",
       "id": "70ea97b5ea1a8fb0610456036462eae312ab2e4e",
-      "order": 383
+      "order": 396
     },
     "50f97527f3280ed0abe86c6ea53e245a3ef8ef04": {
       "n": 8,
@@ -1782,7 +1795,7 @@
       "image_local": "images/story-08.jpg",
       "image_remote": "https://static.independent.co.uk/2026/07/27/21/2026-07-08T205010Z_814711673_RC2Y8LA6L3SL_RTRMADP_3_USA-SEC-MUSK.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
       "id": "50f97527f3280ed0abe86c6ea53e245a3ef8ef04",
-      "order": 384
+      "order": 397
     },
     "81104d8861cf94c4a9d210c4e00f274552b2e569": {
       "n": 9,
@@ -1794,7 +1807,7 @@
       "image_local": "images/story-09.jpg",
       "image_remote": "https://x.ai/images/news/grok-4-7-og.webp",
       "id": "81104d8861cf94c4a9d210c4e00f274552b2e569",
-      "order": 385
+      "order": 398
     },
     "728bbee10ddb2013aad68c31d3bb61cf41abe8d1": {
       "n": 10,
@@ -1806,7 +1819,7 @@
       "image_local": "images/story-10.jpg",
       "image_remote": "https://www.apple.com/newsroom/images/2026/09/apple-unveils-iphone-duo/tile/Apple-iPhone-Duo-opening-iPhone-Duo-260909-lp.jpg.og.jpg",
       "id": "728bbee10ddb2013aad68c31d3bb61cf41abe8d1",
-      "order": 386
+      "order": 399
     },
     "c6c0ec5dc6b42fdc55ea9fdbeb2262dc5a8f0cd5": {
       "n": 11,
@@ -1818,7 +1831,7 @@
       "image_local": "images/story-11.jpg",
       "image_remote": "https://www.lego.com/cdn/cs/aboutus/assets/blt720aab6b14adb02d/21373_Highclere_Castle_1.jpg?width=1200",
       "id": "c6c0ec5dc6b42fdc55ea9fdbeb2262dc5a8f0cd5",
-      "order": 387
+      "order": 400
     },
     "6d55e4dc3590aa4c7434be4ce518f41cef64a8a8": {
       "n": 12,
@@ -1830,7 +1843,7 @@
       "image_local": "images/story-12.jpg",
       "image_remote": "https://sg.canon/media/image/2026/09/14/3385d09de34346e6b370fb94b605b4be_EOS%20R8%20Mark%20II%20Inspires%20Users%20to%20See%20the%20World%20Differently.jpg",
       "id": "6d55e4dc3590aa4c7434be4ce518f41cef64a8a8",
-      "order": 388
+      "order": 401
     },
     "e8728dafc9ef42b62fc460417f05efa0ecc0855b": {
       "n": 13,
@@ -1842,7 +1855,7 @@
       "image_local": "images/story-13.jpg",
       "image_remote": "https://petapixel.com/assets/uploads/2026/09/Luna-Pro_PIU_12.jpg",
       "id": "e8728dafc9ef42b62fc460417f05efa0ecc0855b",
-      "order": 389
+      "order": 402
     },
     "4a7ed0ac79e76feb9de2c938c25581268305016f": {
       "n": 14,
@@ -1854,7 +1867,7 @@
       "image_local": "images/story-14.jpg",
       "image_remote": "https://mmx.prnewswire.com/media/MS1989840/Harley-Davidson-Motor-Company-and-realtree.jpg?id=OA2953000&p=facebook",
       "id": "4a7ed0ac79e76feb9de2c938c25581268305016f",
-      "order": 390
+      "order": 403
     },
     "d8deec9fd39b9823708283a533d6190e4f8c7dd2": {
       "n": 15,
@@ -1866,7 +1879,7 @@
       "image_local": "images/story-15.jpg",
       "image_remote": "https://mmx.prnewswire.com/media/MS1986924/JP027_WR037.jpg?id=OA2944549&p=facebook",
       "id": "d8deec9fd39b9823708283a533d6190e4f8c7dd2",
-      "order": 391
+      "order": 404
     },
     "56a188d871ef3e10e53a57ddf011c72500c580b1": {
       "n": 16,
@@ -1878,7 +1891,7 @@
       "image_local": "images/story-16.jpg",
       "image_remote": "https://gmauthority.com/blog/wp-content/uploads/2022/05/2022-GMC-Sierra-1500-Elevation-Crew-Cab-Short-Box-Exterior-001-Quicksilver-Metallic-front-three-quarters.jpg",
       "id": "56a188d871ef3e10e53a57ddf011c72500c580b1",
-      "order": 392
+      "order": 405
     },
     "cd48006473a9cb3147981dde2577d2e218959ab6": {
       "n": 17,
@@ -1890,7 +1903,7 @@
       "image_local": "images/story-17.jpg",
       "image_remote": "https://assets.blabbermouth.net/media/fivefingerdeathpunchjune2026_638.jpg",
       "id": "cd48006473a9cb3147981dde2577d2e218959ab6",
-      "order": 393
+      "order": 406
     },
     "2a88c2a0701ed6aea7e0e91e8efa512eb107c72a": {
       "n": 18,
@@ -1902,7 +1915,7 @@
       "image_local": "images/story-18.jpg",
       "image_remote": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/jets/kcc5cmglkzaccmvwfdve",
       "id": "2a88c2a0701ed6aea7e0e91e8efa512eb107c72a",
-      "order": 394
+      "order": 407
     },
     "10c631125e29b635579fb12a76ab1bcf80c2743c": {
       "n": 19,
@@ -1914,7 +1927,7 @@
       "image_local": "images/story-19.jpg",
       "image_remote": "https://library.sportingnews.com/styles/crop_style_16_9_1280_webp/s3/2026-09/2026-04-17T212524Z_1511440774_MT1USATODAY28751772_RTRMADP_3_NHL-PITTSBURGH-PENGUINS-AT-NEW-JERSEY-DEVILS.JPG.webp?itok=tLqV6hlV",
       "id": "10c631125e29b635579fb12a76ab1bcf80c2743c",
-      "order": 395
+      "order": 408
     },
     "e481ff19f4eb3139072ca507fcb8cc387e27bd67": {
       "n": 20,
@@ -1926,7 +1939,7 @@
       "image_local": null,
       "image_remote": null,
       "id": "e481ff19f4eb3139072ca507fcb8cc387e27bd67",
-      "order": 396
+      "order": 409
     },
     "51bc4570441adae9e66db69d433188ca58f18ce9": {
       "n": 21,
@@ -1938,7 +1951,7 @@
       "image_local": "images/story-21.jpg",
       "image_remote": "https://media.wbur.org/wp/2026/09/1024_franklinpark-6-2048x1152.jpg",
       "id": "51bc4570441adae9e66db69d433188ca58f18ce9",
-      "order": 397
+      "order": 410
     },
     "6975ad191d5193a5b736715f9800be6f38a46fd2": {
       "n": 22,
@@ -1950,7 +1963,7 @@
       "image_local": "images/story-22.jpg",
       "image_remote": "https://westportjournal.com/wp-content/uploads/2026/02/Image-WEVMS.png",
       "id": "6975ad191d5193a5b736715f9800be6f38a46fd2",
-      "order": 398
+      "order": 411
     },
     "7b5dabe2899a0b12cb00d51c8ec369b244c6ae50": {
       "n": 23,
@@ -1962,7 +1975,7 @@
       "image_local": "images/story-23.jpg",
       "image_remote": "https://karenwoodall.blog/wp-content/uploads/2026/09/screenshot-2026-09-11-at-12.36.21.png",
       "id": "7b5dabe2899a0b12cb00d51c8ec369b244c6ae50",
-      "order": 399
+      "order": 412
     },
     "a6a1c769ad206ea8ac84b34fb98b2510edb4b290": {
       "n": 7,
@@ -1974,7 +1987,7 @@
       "image_local": "images/story-07.jpg",
       "image_remote": "https://images.macrumors.com/t/vQoWWBdb9EXLwtxwl0qVyebYGfQ=/1600x/article-new/2026/09/iphone-duo-colors.jpg",
       "id": "a6a1c769ad206ea8ac84b34fb98b2510edb4b290",
-      "order": 400
+      "order": 413
     },
     "4e351a7cffe6a1e21731c0937be201caca32a36d": {
       "n": 12,
@@ -1986,7 +1999,7 @@
       "image_local": "images/story-12.jpg",
       "image_remote": "https://hips.hearstapps.com/hmg-prod/images/ea4ce669-15fe-4b53-8a7f-46b6fc434d33.jpg?crop=1xw:0.75xh;center,top&resize=1200:*",
       "id": "4e351a7cffe6a1e21731c0937be201caca32a36d",
-      "order": 401
+      "order": 414
     },
     "e2a63fc3fdc76961a27aa83ac6bc7410bf80a3b1": {
       "n": 16,
@@ -1998,7 +2011,7 @@
       "image_local": "images/story-16.jpg",
       "image_remote": "https://assets-varnish.triblive.com/2026/09/9967137_web1_ptr-Kindel03-102325.jpg",
       "id": "e2a63fc3fdc76961a27aa83ac6bc7410bf80a3b1",
-      "order": 402
+      "order": 415
     },
     "f0c3da000241fb7c903f09cc74344aa1cad96961": {
       "n": 18,
@@ -2010,7 +2023,7 @@
       "image_local": null,
       "image_remote": null,
       "id": "f0c3da000241fb7c903f09cc74344aa1cad96961",
-      "order": 403
+      "order": 416
     },
     "a51e8bf028eb1a53147e91533c72e669aff60684": {
       "headline": "Trumbull Farm Fair Sept. 26 at Chester Hill Farm — pony rides and barn open house",
@@ -2022,7 +2035,7 @@
       "image_local": "images/story-133.jpg",
       "id": "a51e8bf028eb1a53147e91533c72e669aff60684",
       "n": 1,
-      "order": 253
+      "order": 266
     },
     "52090a36294737ee23549be657afb75965f5000c": {
       "headline": "Marjorie Taylor Greene at TribFest: ‘MAGA is dead,’ calls movement a cult",
@@ -2034,7 +2047,7 @@
       "image_local": "images/story-134.jpg",
       "id": "52090a36294737ee23549be657afb75965f5000c",
       "n": 2,
-      "order": 254
+      "order": 267
     },
     "3276da8004cc960f98534927782755e204dd74fc": {
       "headline": "Trump and Xi trade warm state-dinner toasts with little progress on Taiwan or AI",
@@ -2046,7 +2059,7 @@
       "image_local": "images/story-135.jpg",
       "id": "3276da8004cc960f98534927782755e204dd74fc",
       "n": 3,
-      "order": 255
+      "order": 268
     },
     "c4629a2e647dc9e04c45060f70dc62e58d0c35a3": {
       "headline": "HSI and FBI arrest Senegalese LPR accused of voting in multiple N.J. elections",
@@ -2058,7 +2071,7 @@
       "image_local": "images/story-136.jpg",
       "id": "c4629a2e647dc9e04c45060f70dc62e58d0c35a3",
       "n": 4,
-      "order": 256
+      "order": 269
     },
     "44e23e8d40c81af223a3261e33b468fde72f6f3e": {
       "headline": "Two hurt as activists and ICE clash at Meriden courthouse",
@@ -2070,7 +2083,7 @@
       "image_local": "images/story-137.jpg",
       "id": "44e23e8d40c81af223a3261e33b468fde72f6f3e",
       "n": 5,
-      "order": 257
+      "order": 270
     },
     "409973b619b40df116d45470592644869c9eec30": {
       "headline": "CT volunteer firefighter ranks shrink — state launches fire-protection audit",
@@ -2082,7 +2095,7 @@
       "image_local": "images/story-138.jpg",
       "id": "409973b619b40df116d45470592644869c9eec30",
       "n": 6,
-      "order": 258
+      "order": 271
     },
     "c9ba518b090ba768e2e99538f915666cfd3fc49f": {
       "headline": "‘MacBook Ultra’ rumored with OLED, touchscreen, Dynamic Island, thinner design",
@@ -2094,7 +2107,7 @@
       "image_local": "images/story-139.jpg",
       "id": "c9ba518b090ba768e2e99538f915666cfd3fc49f",
       "n": 7,
-      "order": 259
+      "order": 272
     },
     "a64523c228d27e9d7896b04532440b88a619927f": {
       "headline": "Insta360 Spatial Capture turns X5/X6 360 video into walkable 3D scenes — free Sept. 28",
@@ -2106,7 +2119,7 @@
       "image_local": "images/story-140.jpg",
       "id": "a64523c228d27e9d7896b04532440b88a619927f",
       "n": 8,
-      "order": 260
+      "order": 273
     },
     "09880ff7909a00f3b829f4289d7f60fb15e2b766": {
       "headline": "Penguins prospects blanked 4–0 by Blue Jackets in preseason Game 3",
@@ -2118,7 +2131,7 @@
       "image_local": "images/story-141.jpg",
       "id": "09880ff7909a00f3b829f4289d7f60fb15e2b766",
       "n": 9,
-      "order": 261
+      "order": 274
     },
     "2f9af1e54c2a776fe4eda71f9b75aca4412c54d4": {
       "headline": "Starship aces Flight 14 wet dress; Monday orbital attempt still targeted",
@@ -2130,7 +2143,7 @@
       "image_local": "images/story-142.jpg",
       "id": "2f9af1e54c2a776fe4eda71f9b75aca4412c54d4",
       "n": 10,
-      "order": 262
+      "order": 275
     },
     "44af46eb335a6ef8534647da6614063b9cd55c89": {
       "headline": "Tesla Android app leak shows Optimus ‘Gen 3’ robot asset filenames",
@@ -2142,7 +2155,7 @@
       "image_local": "images/story-143.jpg",
       "id": "44af46eb335a6ef8534647da6614063b9cd55c89",
       "n": 11,
-      "order": 263
+      "order": 276
     },
     "f6da7cbf8c05634fa6e0ca606beb15e6ccf7cf02": {
       "headline": "LEGO Icons SpongeBob Bikini Bottom: 1,794 pieces, $219.99, now on sale",
@@ -2154,7 +2167,7 @@
       "image_local": "images/story-144.jpg",
       "id": "f6da7cbf8c05634fa6e0ca606beb15e6ccf7cf02",
       "n": 12,
-      "order": 264
+      "order": 277
     },
     "880310139bce655f2f33426072def08ebef98203": {
       "headline": "National Public Lands Day Sept. 26: Forest Service and Army Corps fee waivers — not all parks",
@@ -2166,7 +2179,7 @@
       "image_local": "images/story-145.jpg",
       "id": "880310139bce655f2f33426072def08ebef98203",
       "n": 13,
-      "order": 265
+      "order": 278
     },
     "c37124f3360f996307694cd2aa8846822f33e6cf": {
       "headline": "Jets enter Lions Week 3 No. 1 in total defense; Glenn calls Ford Field ‘a place we want to win’",
@@ -2178,7 +2191,7 @@
       "image_local": "images/story-146.jpg",
       "id": "c37124f3360f996307694cd2aa8846822f33e6cf",
       "n": 14,
-      "order": 266
+      "order": 279
     },
     "c0362a9cda55d1afffc28816da6998b33d4ee64d": {
       "headline": "Trumbull Eagles bounce back 27–14 over Crosby; Volpicelli racks up 116 yards and 2 scores",
@@ -2190,7 +2203,7 @@
       "image_local": "images/story-147.jpg",
       "id": "c0362a9cda55d1afffc28816da6998b33d4ee64d",
       "n": 1,
-      "order": 241
+      "order": 254
     },
     "196438fc436b324e0ce6f38678eb90fe2c9f9095": {
       "headline": "Xi caps Trump state visit with National Archives tour before departing Washington",
@@ -2202,7 +2215,7 @@
       "image_local": "images/story-148.jpg",
       "id": "196438fc436b324e0ce6f38678eb90fe2c9f9095",
       "n": 2,
-      "order": 242
+      "order": 255
     },
     "9cd1ca2d6d06e3acf6c2596fd8ca0b3ca310b4ac": {
       "headline": "Mike Lee presses SAVE Act after report of 30,000 noncitizens mistakenly on voter rolls",
@@ -2214,7 +2227,7 @@
       "image_local": "images/story-149.jpg",
       "id": "9cd1ca2d6d06e3acf6c2596fd8ca0b3ca310b4ac",
       "n": 3,
-      "order": 243
+      "order": 256
     },
     "cac80f23e1684569a38276327a1bfb181f98f3d8": {
       "headline": "ICE Dallas arrests 121 in Lake Lewisville summer ops — including two Tren de Aragua members",
@@ -2226,7 +2239,7 @@
       "image_local": "images/story-150.jpg",
       "id": "cac80f23e1684569a38276327a1bfb181f98f3d8",
       "n": 4,
-      "order": 244
+      "order": 257
     },
     "daa31717be9eb7f68d9bd64c1b1b6d2b13d5ae50": {
       "headline": "Man charged with arson after fire at Montville halfway house with 23 people inside",
@@ -2238,7 +2251,7 @@
       "image_local": "images/story-151.jpg",
       "id": "daa31717be9eb7f68d9bd64c1b1b6d2b13d5ae50",
       "n": 5,
-      "order": 245
+      "order": 258
     },
     "142b7a995017abbd890afd8e7533c5848b363fd0": {
       "headline": "Stamford police: two arrested after cocaine-and-gun search warrants",
@@ -2250,7 +2263,7 @@
       "image_local": "images/story-152.jpg",
       "id": "142b7a995017abbd890afd8e7533c5848b363fd0",
       "n": 6,
-      "order": 246
+      "order": 259
     },
     "90d3aca5a326e3e313b9c4f1d8684883ee0c15c9": {
       "headline": "iPhone 18 Pro Max ships in four hardware versions — U.S. model keeps Qualcomm modem",
@@ -2262,7 +2275,7 @@
       "image_local": "images/story-153.jpg",
       "id": "90d3aca5a326e3e313b9c4f1d8684883ee0c15c9",
       "n": 7,
-      "order": 247
+      "order": 260
     },
     "664c1645ba4360012e874015818cb84871357253": {
       "headline": "First look: HomePod mini 2 keeps the sphere, adds green and pink — drops yellow and orange",
@@ -2274,7 +2287,7 @@
       "image_local": "images/story-154.jpg",
       "id": "664c1645ba4360012e874015818cb84871357253",
       "n": 8,
-      "order": 248
+      "order": 261
     },
     "ffefa32311fe43fa6ea2951a278270565cb50c89": {
       "headline": "LEGO Icons Star Trek Enterprise Bridge: 1,701 pieces, eight crew, $199.99 — on sale now",
@@ -2286,7 +2299,7 @@
       "image_local": "images/story-155.jpg",
       "id": "ffefa32311fe43fa6ea2951a278270565cb50c89",
       "n": 9,
-      "order": 249
+      "order": 262
     },
     "9dec904fa462289ea6b86e82ace07ba0c097e194": {
       "headline": "Jets special teams grind extras ahead of Lions — Williams catches 85 practice punts",
@@ -2298,7 +2311,7 @@
       "image_local": "images/story-156.jpg",
       "id": "9dec904fa462289ea6b86e82ace07ba0c097e194",
       "n": 10,
-      "order": 250
+      "order": 263
     },
     "b6ad761f2fed82486fac166c0724749fa3c265df": {
       "headline": "Penguins’ Ben Kindel downgraded to week-to-week after 4–0 preseason loss in Columbus",
@@ -2310,7 +2323,7 @@
       "image_local": "images/story-157.jpg",
       "id": "b6ad761f2fed82486fac166c0724749fa3c265df",
       "n": 11,
-      "order": 251
+      "order": 264
     },
     "68842afeb3bb94b6fd65133a54f7fc778fc66297": {
       "headline": "National Public Lands Day at Minute Man: volunteer stewardship Saturday at North Bridge",
@@ -2322,7 +2335,7 @@
       "image_local": "images/story-158.jpg",
       "id": "68842afeb3bb94b6fd65133a54f7fc778fc66297",
       "n": 12,
-      "order": 252
+      "order": 265
     },
     "2beae46c69654a4c0170a12e908eabf473c8fb75": {
       "headline": "Trumbull Arts Festival postponed to Oct. 11 after nor’easter advisory",
@@ -2334,7 +2347,7 @@
       "image_local": "images/story-159.jpg",
       "id": "2beae46c69654a4c0170a12e908eabf473c8fb75",
       "n": 1,
-      "order": 231
+      "order": 244
     },
     "f12c6f394c4e107a1a497d8a0264397b84583f24": {
       "headline": "Supreme Court clears Trump admin to use modified SAVE voter-citizenship database",
@@ -2346,7 +2359,7 @@
       "image_local": "images/story-160.jpg",
       "id": "f12c6f394c4e107a1a497d8a0264397b84583f24",
       "n": 2,
-      "order": 232
+      "order": 245
     },
     "0d61bbda1600d46d7a66f577e7dd2f73f749bfca": {
       "headline": "Trump books Mobile midterm rally Oct. 2 at USA Mitchell Center",
@@ -2358,7 +2371,7 @@
       "image_local": "images/story-161.jpg",
       "id": "0d61bbda1600d46d7a66f577e7dd2f73f749bfca",
       "n": 3,
-      "order": 233
+      "order": 246
     },
     "b5b7c488e14f956e32a8d0cf234657dd962bf461": {
       "headline": "WSHU: Did masked ICE agents break Connecticut’s TRUST Act at Meriden courthouse?",
@@ -2370,7 +2383,7 @@
       "image_local": "images/story-162.jpg",
       "id": "b5b7c488e14f956e32a8d0cf234657dd962bf461",
       "n": 4,
-      "order": 234
+      "order": 247
     },
     "a26b1c3a13ee11f5267e34f86efe8a5125815e98": {
       "headline": "iPad mini 8 leak: A20 Pro chip, landscape front camera, new speakers",
@@ -2382,7 +2395,7 @@
       "image_local": "images/story-163.jpg",
       "id": "a26b1c3a13ee11f5267e34f86efe8a5125815e98",
       "n": 5,
-      "order": 235
+      "order": 248
     },
     "99b2e829716c0d67bfa56083d34b0ec9e96c9a28": {
       "headline": "Apple TV 4K (4th gen) image surfaces — A17 Pro, 8GB RAM, Wi-Fi 7 rumored",
@@ -2394,7 +2407,7 @@
       "image_local": "images/story-164.jpg",
       "id": "99b2e829716c0d67bfa56083d34b0ec9e96c9a28",
       "n": 6,
-      "order": 236
+      "order": 249
     },
     "dcf59273d0943bbc20807260d1d28e25b5badbde": {
       "headline": "LEGO Astro Bot GWP revealed: 276 pieces, swappable eyes — tied to PlayStation set",
@@ -2406,7 +2419,7 @@
       "image_local": "images/story-165.jpg",
       "id": "dcf59273d0943bbc20807260d1d28e25b5badbde",
       "n": 7,
-      "order": 237
+      "order": 250
     },
     "cb216bd09a39b233b2091a911d07ffd4c955f7a7": {
       "headline": "Jets: Adonai Mitchell limited with finger snag; Shepard or Johnson likely elevated",
@@ -2418,7 +2431,7 @@
       "image_local": "images/story-166.jpg",
       "id": "cb216bd09a39b233b2091a911d07ffd4c955f7a7",
       "n": 8,
-      "order": 238
+      "order": 251
     },
     "0116200140a482b838321b2d15ef1190fb9e655e": {
       "headline": "CT nor’easter: Wind Advisory and coastal flood warnings through Sunday",
@@ -2430,7 +2443,7 @@
       "image_local": "images/story-167.jpg",
       "id": "0116200140a482b838321b2d15ef1190fb9e655e",
       "n": 9,
-      "order": 239
+      "order": 252
     },
     "7d20cca47be2ec064715e325ff155209e3b4351d": {
       "headline": "Trumbull boys soccer’s unbeaten run ends 1–0 at Ridgefield; Stamford next Saturday",
@@ -2442,7 +2455,7 @@
       "image_local": "images/story-168.jpg",
       "id": "7d20cca47be2ec064715e325ff155209e3b4351d",
       "n": 10,
-      "order": 240
+      "order": 253
     },
     "27480cc8479812c92a01783672e9fc2c9cba9d5f": {
       "headline": "LEGO October 2026 guide: Avengers Doomsday wave and Vader lightsaber GWP",
@@ -2454,7 +2467,7 @@
       "image_local": "images/story-177.jpg",
       "id": "27480cc8479812c92a01783672e9fc2c9cba9d5f",
       "n": 9,
-      "order": 230
+      "order": 243
     },
     "9d4c01f3f67db08525b64927c116d1701fc95e99": {
       "headline": "Archie McDonald wins inaugural FIM Harley-Davidson Bagger World Cup",
@@ -2466,7 +2479,7 @@
       "image_local": "images/story-176.jpg",
       "id": "9d4c01f3f67db08525b64927c116d1701fc95e99",
       "n": 8,
-      "order": 229
+      "order": 242
     },
     "8e397a9565984593f1ce9c5b385163ee061f00b8": {
       "headline": "watchOS 27 upgrades Modular Apple Watch face with 13 new colors",
@@ -2478,7 +2491,7 @@
       "image_local": "images/story-175.jpg",
       "id": "8e397a9565984593f1ce9c5b385163ee061f00b8",
       "n": 7,
-      "order": 228
+      "order": 241
     },
     "c704ddd791b109402bd89e27d9e28dc0d20ba57c": {
       "headline": "Tesla ramps Optimus to hundreds a week — but robots still can’t generalize",
@@ -2490,7 +2503,7 @@
       "image_local": "images/story-174.jpg",
       "id": "c704ddd791b109402bd89e27d9e28dc0d20ba57c",
       "n": 6,
-      "order": 227
+      "order": 240
     },
     "740778c4ad46da06bf1a8f981491a7459133736c": {
       "headline": "Penguins preseason finale lineup vs Sabres: Crosby, Malkin, Letang, Karlsson in",
@@ -2502,7 +2515,7 @@
       "image_local": "images/story-173.jpg",
       "id": "740778c4ad46da06bf1a8f981491a7459133736c",
       "n": 5,
-      "order": 226
+      "order": 239
     },
     "f05da23a2b305b979078e457f34131e7ab5d93ec": {
       "headline": "Jets: Taylor, Fitzpatrick, Mauigoa out vs Lions; Glenn calls Detroit ‘explosive’",
@@ -2514,7 +2527,7 @@
       "image_local": "images/story-172.jpg",
       "id": "f05da23a2b305b979078e457f34131e7ab5d93ec",
       "n": 4,
-      "order": 225
+      "order": 238
     },
     "8db00f31f3c7f1aef3f1b700542f0058738a1145": {
       "headline": "Waterbury mother found dead after 3-year-old seen wandering alone, police say",
@@ -2526,7 +2539,7 @@
       "image_local": "images/story-171.jpg",
       "id": "8db00f31f3c7f1aef3f1b700542f0058738a1145",
       "n": 3,
-      "order": 224
+      "order": 237
     },
     "040bd2e25859a9fb59bd4aeb5b3d689d542e2cb6": {
       "headline": "Zelensky: Trump made ‘final decision’ to license Ukraine Patriot missile production",
@@ -2538,7 +2551,7 @@
       "image_local": "images/story-170.jpg",
       "id": "040bd2e25859a9fb59bd4aeb5b3d689d542e2cb6",
       "n": 2,
-      "order": 223
+      "order": 236
     },
     "dc7da0c7af2fba44c72b39b0bded3dab473cf85f": {
       "headline": "Trumbull Library closed Saturday for nor’easter; town posts wind and flood prep",
@@ -2550,7 +2563,7 @@
       "image_local": "images/story-169.jpg",
       "id": "dc7da0c7af2fba44c72b39b0bded3dab473cf85f",
       "n": 1,
-      "order": 222
+      "order": 235
     },
     "bd9ed235ac527735cf6cb331282da851faa60a07": {
       "headline": "Adirondacks foliage outlook: near-peak this weekend in Lake Placid–Saranac corridor",
@@ -2562,7 +2575,7 @@
       "image_local": "images/story-189.jpg",
       "id": "bd9ed235ac527735cf6cb331282da851faa60a07",
       "n": 12,
-      "order": 221
+      "order": 234
     },
     "d1c0d2a18ec01f7d766004320b65d4be41152649": {
       "headline": "Lions rule out Bartch and Harper for Sunday vs Jets; OL starters expected back",
@@ -2574,7 +2587,7 @@
       "image_local": "images/story-188.jpg",
       "id": "d1c0d2a18ec01f7d766004320b65d4be41152649",
       "n": 11,
-      "order": 220
+      "order": 233
     },
     "85adc31ba3c7a40e69578047039588903cbd1f0d": {
       "headline": "Penguins cut camp roster: Hayes to AHL; Brazeau out with lower-body injury",
@@ -2586,7 +2599,7 @@
       "image_local": "images/story-187.jpg",
       "id": "85adc31ba3c7a40e69578047039588903cbd1f0d",
       "n": 10,
-      "order": 219
+      "order": 232
     },
     "91b4b3cfc2ce1a101e80c91869705f540ca95116": {
       "headline": "Insta360, sitting on 73% of 360 cameras, eyes smart glasses and mirrorless",
@@ -2598,7 +2611,7 @@
       "image_local": "images/story-186.jpg",
       "id": "91b4b3cfc2ce1a101e80c91869705f540ca95116",
       "n": 9,
-      "order": 218
+      "order": 231
     },
     "2e117dd4d6917658f242e75c44fa50dd241a877f": {
       "headline": "Canon demos live volumetric MR sports viewing over NTT’s IOWN network",
@@ -2610,7 +2623,7 @@
       "image_local": "images/story-185.jpg",
       "id": "2e117dd4d6917658f242e75c44fa50dd241a877f",
       "n": 8,
-      "order": 217
+      "order": 230
     },
     "243538775748e7d7e80bf80ebda8f213bd5eb43d": {
       "headline": "macOS 27 Golden Gate brings Apple Intelligence into Photos, Safari, Shortcuts, Finder",
@@ -2622,7 +2635,7 @@
       "image_local": "images/story-184.jpg",
       "id": "243538775748e7d7e80bf80ebda8f213bd5eb43d",
       "n": 7,
-      "order": 216
+      "order": 229
     },
     "1da167c72a3b5ec981924804661189e1f5a93cc2": {
       "headline": "Danbury police and DEA Bridgeport arrest two after weeks-long crack and gun probe",
@@ -2634,7 +2647,7 @@
       "image_local": "images/story-183.png",
       "id": "1da167c72a3b5ec981924804661189e1f5a93cc2",
       "n": 6,
-      "order": 215
+      "order": 228
     },
     "7bc26b8c15d94df3c4d1d6f2cbb33ffe9c5496ac": {
       "headline": "AP: CNN, MS NOW, Politico back at White House — but the media-ban fight isn’t over",
@@ -2646,7 +2659,7 @@
       "image_local": "images/story-182.jpg",
       "id": "7bc26b8c15d94df3c4d1d6f2cbb33ffe9c5496ac",
       "n": 5,
-      "order": 214
+      "order": 227
     },
     "ac72f195884337d86a47e232401c875bf0fe3e37": {
       "headline": "ICE seeks modular detention, interview, and virtual-court units for ~50 field offices",
@@ -2658,7 +2671,7 @@
       "image_local": "images/story-181.png",
       "id": "ac72f195884337d86a47e232401c875bf0fe3e37",
       "n": 4,
-      "order": 213
+      "order": 226
     },
     "7930b45200d1dc93efdb793a88819132774b7218": {
       "headline": "UVU’s 158-page report details security failures before Charlie Kirk assassination",
@@ -2670,7 +2683,7 @@
       "image_local": "images/story-180.png",
       "id": "7930b45200d1dc93efdb793a88819132774b7218",
       "n": 3,
-      "order": 212
+      "order": 225
     },
     "bebdae94eb6fb02c781345dec4cbb79b1797fce0": {
       "headline": "Xi and Trump schedule November China meeting and December G20 follow-up",
@@ -2682,7 +2695,7 @@
       "image_local": "images/story-179.jpg",
       "id": "bebdae94eb6fb02c781345dec4cbb79b1797fce0",
       "n": 2,
-      "order": 211
+      "order": 224
     },
     "05595d1757744d62d8b5717e727367068e4149c2": {
       "headline": "CT DOT worker Elvin Hernandez killed on I-95 in Fairfield; driver charged with manslaughter",
@@ -2694,7 +2707,7 @@
       "image_local": "images/story-178.png",
       "id": "05595d1757744d62d8b5717e727367068e4149c2",
       "n": 1,
-      "order": 210
+      "order": 223
     },
     "1923dba4ce6a90f31323c07e5639b2b7b83ac121": {
       "headline": "CT activates Emergency Operations Center as nor’easter hits Fairfield County",
@@ -2706,7 +2719,7 @@
       "image_local": "images/story-190.jpg",
       "id": "1923dba4ce6a90f31323c07e5639b2b7b83ac121",
       "n": 1,
-      "order": 197
+      "order": 210
     },
     "29219beab3bc0dc8f05d3d747dad23158bc24dcc": {
       "headline": "Trump posts ‘Trump Strait’ map as Iran says Hormuz reopen choice rests with U.S.",
@@ -2718,7 +2731,7 @@
       "image_local": "images/story-191.jpg",
       "id": "29219beab3bc0dc8f05d3d747dad23158bc24dcc",
       "n": 2,
-      "order": 198
+      "order": 211
     },
     "ca433df6262d32fcb8405735a037c6d04e784067": {
       "headline": "White House leaves CNN off Air Force One, slots Real America’s Voice for Knoxville trip",
@@ -2730,7 +2743,7 @@
       "image_local": "images/story-192.jpg",
       "id": "ca433df6262d32fcb8405735a037c6d04e784067",
       "n": 3,
-      "order": 199
+      "order": 212
     },
     "bcb00c157fdb41526aeb34c273ae8edd66df994c": {
       "headline": "Meatpacking groups: ICE ops in Texas, Kansas, Oklahoma delay cattle and may lift beef prices",
@@ -2742,7 +2755,7 @@
       "image_local": "images/story-193.jpg",
       "id": "bcb00c157fdb41526aeb34c273ae8edd66df994c",
       "n": 4,
-      "order": 200
+      "order": 213
     },
     "ffdf10d17441d0eb5b91bd9ca2c55d85e82b3295": {
       "headline": "UVU review: TPUSA insisted on outdoor courtyard despite security concerns before Kirk shooting",
@@ -2754,7 +2767,7 @@
       "image_local": "images/story-194.jpg",
       "id": "ffdf10d17441d0eb5b91bd9ca2c55d85e82b3295",
       "n": 5,
-      "order": 201
+      "order": 214
     },
     "53569e2abc188a9881f6951e9ec611e25f0a3f96": {
       "headline": "Trump’s Knoxville Vols–Texas visit brings TSA-style Secret Service screening at Neyland",
@@ -2766,7 +2779,7 @@
       "image_local": "images/story-195.jpg",
       "id": "53569e2abc188a9881f6951e9ec611e25f0a3f96",
       "n": 6,
-      "order": 202
+      "order": 215
     },
     "44b5e40bd26281bede663418d74fd99b07e7fcd7": {
       "headline": "DHS: assaults on ICE officers up 1,649% since Trump immigration crackdown began",
@@ -2778,7 +2791,7 @@
       "image_local": "images/story-196.png",
       "id": "44b5e40bd26281bede663418d74fd99b07e7fcd7",
       "n": 7,
-      "order": 203
+      "order": 216
     },
     "ce2009a36d1dcd416da5cb0f365ef4139321959a": {
       "headline": "Apple’s October slate: iPhone Duo Oct. 23, rumored HomePad, Macs, and iOS 27.2",
@@ -2790,7 +2803,7 @@
       "image_local": "images/story-197.jpg",
       "id": "ce2009a36d1dcd416da5cb0f365ef4139321959a",
       "n": 8,
-      "order": 204
+      "order": 217
     },
     "29bc8a66f7b15288f2245f2dc3d1b096ea6482e7": {
       "headline": "Clutch announces 14th album Wasted Lands, drops title track with Machine back producing",
@@ -2802,7 +2815,7 @@
       "image_local": "images/story-198.jpg",
       "id": "29bc8a66f7b15288f2245f2dc3d1b096ea6482e7",
       "n": 9,
-      "order": 205
+      "order": 218
     },
     "fca0887cd7c26533b1c569cd84152f85321ebe45": {
       "headline": "Eastern Sierra foliage: Mono County’s Sagehen, Rock Creek, Virginia Lakes near peak this weekend",
@@ -2814,7 +2827,7 @@
       "image_local": "images/story-199.jpg",
       "id": "fca0887cd7c26533b1c569cd84152f85321ebe45",
       "n": 10,
-      "order": 206
+      "order": 219
     },
     "a07d0a2cc6016bd42cb810e61657d86d47cd7673": {
       "headline": "Jets’ Garrett Wilson eyes first game vs ex-teammate DJ Reed as Detroit visit looms",
@@ -2826,7 +2839,7 @@
       "image_local": "images/story-200.jpg",
       "id": "a07d0a2cc6016bd42cb810e61657d86d47cd7673",
       "n": 11,
-      "order": 207
+      "order": 220
     },
     "c8f22c668d95308f80128c09b42e6d11eb81fa56": {
       "headline": "Penguins notebook: Lapierre centers third line; McGroarty, Broz, Pickering on chopping block",
@@ -2838,7 +2851,7 @@
       "image_local": "images/story-201.jpg",
       "id": "c8f22c668d95308f80128c09b42e6d11eb81fa56",
       "n": 12,
-      "order": 208
+      "order": 221
     },
     "c4d324c21ee58e7a832be411360c2a1d0faf29e7": {
       "headline": "SpaceX aims for Starship’s first orbit Monday — 26 Starlink V3s and a 10-hour mission",
@@ -2850,7 +2863,7 @@
       "image_local": "images/story-202.jpg",
       "id": "c4d324c21ee58e7a832be411360c2a1d0faf29e7",
       "n": 13,
-      "order": 209
+      "order": 222
     },
     "f57e5af9970c22403705befa7d77ae0ed6e8116f": {
       "headline": "Turtle Beach Vulcan II XP Air keyboard: 2,000-hour battery, AirTrack gestures",
@@ -2862,7 +2875,7 @@
       "image_local": "images/story-216.jpg",
       "id": "f57e5af9970c22403705befa7d77ae0ed6e8116f",
       "n": 14,
-      "order": 196
+      "order": 209
     },
     "6fd4175b58f1ce7fc703dd83b0599819d3bc0abb": {
       "headline": "Jets at Lions: Glenn’s return, Fitzpatrick and Taylor OUT for Sunday",
@@ -2874,7 +2887,7 @@
       "image_local": "images/story-215.jpg",
       "id": "6fd4175b58f1ce7fc703dd83b0599819d3bc0abb",
       "n": 13,
-      "order": 195
+      "order": 208
     },
     "2a4e545291381e1ba8718fab7c7f5abf6c1afab6": {
       "headline": "Penguins preview: Murashov vs Silovs, Karlsson, McGroarty among big questions",
@@ -2886,7 +2899,7 @@
       "image_local": "images/story-214.jpg",
       "id": "2a4e545291381e1ba8718fab7c7f5abf6c1afab6",
       "n": 12,
-      "order": 194
+      "order": 207
     },
     "f1e0b71f94d3ce795d899d4b3239f1b0848e19d9": {
       "headline": "Fall foliage map: Rockies, Tetons, North Shore peaking this weekend",
@@ -2898,7 +2911,7 @@
       "image_local": "images/story-213.jpg",
       "id": "f1e0b71f94d3ce795d899d4b3239f1b0848e19d9",
       "n": 11,
-      "order": 193
+      "order": 206
     },
     "8ade95831425fedbf51d85816d2bbf5ad19d3894": {
       "headline": "GM PIP6131: 2026 Duramax L5P tick/grind may mean rocker oiling failure",
@@ -2910,7 +2923,7 @@
       "image_local": "images/story-212.jpg",
       "id": "8ade95831425fedbf51d85816d2bbf5ad19d3894",
       "n": 10,
-      "order": 192
+      "order": 205
     },
     "ce204bf4b7a7527fd8a846e088d886e77ec07e80": {
       "headline": "Canon EOS R7 Mark II pushed to Q1 2027, stacked 39MP rumor intact",
@@ -2922,7 +2935,7 @@
       "image_local": "images/story-211.webp",
       "id": "ce204bf4b7a7527fd8a846e088d886e77ec07e80",
       "n": 9,
-      "order": 191
+      "order": 204
     },
     "f275899957908fa5ff70af3cbb3f8daef8999834": {
       "headline": "Apple code confirms iPad 12: A19, 8GB RAM, C1X modem, Wi-Fi 7 N1",
@@ -2934,7 +2947,7 @@
       "image_local": "images/story-210.jpg",
       "id": "f275899957908fa5ff70af3cbb3f8daef8999834",
       "n": 8,
-      "order": 190
+      "order": 203
     },
     "7844649b6c005ebaeb5395e4eae85f823a14c780": {
       "headline": "LEGO unveils 40899 Astro Bot GWP alongside October PlayStation set",
@@ -2946,7 +2959,7 @@
       "image_local": "images/story-209.jpg",
       "id": "7844649b6c005ebaeb5395e4eae85f823a14c780",
       "n": 7,
-      "order": 189
+      "order": 202
     },
     "6a4cb798924180051ae9af1bb92e4ead44e5f133": {
       "headline": "Megadeth plays Grammy Museum rooftop set after No. 1 self-titled album",
@@ -2958,7 +2971,7 @@
       "image_local": "images/story-208.jpg",
       "id": "6a4cb798924180051ae9af1bb92e4ead44e5f133",
       "n": 6,
-      "order": 188
+      "order": 201
     },
     "f0d17c6384e62dc0510939b1e0e2859d86827e70": {
       "headline": "Starship Flight 14 targets 8:15 a.m. Monday for first orbital attempt",
@@ -2970,7 +2983,7 @@
       "image_local": "images/story-207.png",
       "id": "f0d17c6384e62dc0510939b1e0e2859d86827e70",
       "n": 5,
-      "order": 187
+      "order": 200
     },
     "71f7ccd850f9ed5e3c043667d1c282cb5a5c32ab": {
       "headline": "CT Renaissance Faire closed as nor’easter cancels festivals statewide",
@@ -2982,7 +2995,7 @@
       "image_local": "images/story-206.jpg",
       "id": "71f7ccd850f9ed5e3c043667d1c282cb5a5c32ab",
       "n": 4,
-      "order": 186
+      "order": 199
     },
     "3874e90796f60787dd43424273b5232873f890f9": {
       "headline": "Coaches warn Trump’s Knoxville visit can cut headset comms mid-drive",
@@ -2994,7 +3007,7 @@
       "image_local": "images/story-205.jpg",
       "id": "3874e90796f60787dd43424273b5232873f890f9",
       "n": 3,
-      "order": 185
+      "order": 198
     },
     "f042eb8620f77f019e5fbbbf6729a3b0aa7f80da": {
       "headline": "China, U.S. agree $30 billion reciprocal tariff cut and AI dialogue after Xi visit",
@@ -3006,7 +3019,7 @@
       "image_local": "images/story-204.jpg",
       "id": "f042eb8620f77f019e5fbbbf6729a3b0aa7f80da",
       "n": 2,
-      "order": 184
+      "order": 197
     },
     "fccb8ce0702b4dda2dee8934c63e2ad4943a9a01": {
       "headline": "Nearly 15,000 without power as nor’easter hits Fairfield County coast",
@@ -3018,7 +3031,7 @@
       "image_local": "images/story-203.jpg",
       "id": "fccb8ce0702b4dda2dee8934c63e2ad4943a9a01",
       "n": 1,
-      "order": 183
+      "order": 196
     },
     "4eef5cabf2fc509efee5037e2ae60f6439abf8e5": {
       "headline": "UI restores most Trumbull-area power as nor’easter knocks out 4,800",
@@ -3030,7 +3043,7 @@
       "image_local": "images/story-217.jpg",
       "id": "4eef5cabf2fc509efee5037e2ae60f6439abf8e5",
       "n": 1,
-      "order": 170
+      "order": 183
     },
     "56f5f422fcdbeeb54c8f7d48f7b949cc42315a41": {
       "headline": "Trump rejects Iran’s Hormuz reopen offer before college football trip",
@@ -3042,7 +3055,7 @@
       "image_local": "images/story-218.jpg",
       "id": "56f5f422fcdbeeb54c8f7d48f7b949cc42315a41",
       "n": 2,
-      "order": 171
+      "order": 184
     },
     "b98d3bf4a26804f7a5c7274c7ccc3ce7a43bf4a4": {
       "headline": "SCOTUS lets Trump SAVE voter-citizenship checks resume — midterm purge limited",
@@ -3054,7 +3067,7 @@
       "image_local": "images/story-219.jpg",
       "id": "b98d3bf4a26804f7a5c7274c7ccc3ce7a43bf4a4",
       "n": 3,
-      "order": 172
+      "order": 185
     },
     "34a4adec27192ad8b301e531a745f4e42dc0ac2a": {
       "headline": "House Democrat files 26 impeachment articles against Trump",
@@ -3066,7 +3079,7 @@
       "image_local": "images/story-220.jpg",
       "id": "34a4adec27192ad8b301e531a745f4e42dc0ac2a",
       "n": 4,
-      "order": 173
+      "order": 186
     },
     "bf868f8a79980b3d864fabb7dddc099203e4c273": {
       "headline": "ICE deports eight Somali men from Guantanamo, including St. Paul mechanic",
@@ -3078,7 +3091,7 @@
       "image_local": "images/story-221.jpg",
       "id": "bf868f8a79980b3d864fabb7dddc099203e4c273",
       "n": 5,
-      "order": 174
+      "order": 187
     },
     "4835ad572d05c726fa55ac412f16512e76e6d8a8": {
       "headline": "Tesla’s Texas Robotaxi + Cybercab fleet tops 500 registered vehicles",
@@ -3090,7 +3103,7 @@
       "image_local": "images/story-222.jpg",
       "id": "4835ad572d05c726fa55ac412f16512e76e6d8a8",
       "n": 6,
-      "order": 175
+      "order": 188
     },
     "c2b4eb0852a7789e738787a738c7641a6ff49666": {
       "headline": "Starship Flight 14 clears wet dress rehearsal ahead of Monday orbit try",
@@ -3102,7 +3115,7 @@
       "image_local": "images/story-223.jpg",
       "id": "c2b4eb0852a7789e738787a738c7641a6ff49666",
       "n": 7,
-      "order": 176
+      "order": 189
     },
     "591d771fd2814a2795bb01265ce8d7a4c99378fb": {
       "headline": "Apple Siri AI settlement claims open: ~$25 per eligible iPhone through Dec. 21",
@@ -3114,7 +3127,7 @@
       "image_local": "images/story-224.jpg",
       "id": "591d771fd2814a2795bb01265ce8d7a4c99378fb",
       "n": 8,
-      "order": 177
+      "order": 190
     },
     "c0638b62937a59c5eb8a242f6a3ea35f036f5c83": {
       "headline": "Canada bill would ban courts from weighing parental-alienation claims",
@@ -3126,7 +3139,7 @@
       "image_local": "images/story-225.jpg",
       "id": "c0638b62937a59c5eb8a242f6a3ea35f036f5c83",
       "n": 9,
-      "order": 178
+      "order": 191
     },
     "ce9df9643a60e28e462924609d6e26ffc777044b": {
       "headline": "Jets take No. 1 defense into Ford Field for Glenn’s return vs. Lions",
@@ -3138,7 +3151,7 @@
       "image_local": "images/story-226.jpg",
       "id": "ce9df9643a60e28e462924609d6e26ffc777044b",
       "n": 10,
-      "order": 179
+      "order": 192
     },
     "22def7b3feda2b3ca636f94f11467336f424efda": {
       "headline": "GWAR founding member Chuck Varga, aka Sexecutioner, dies of cancer",
@@ -3150,7 +3163,7 @@
       "image_local": "images/story-227.jpg",
       "id": "22def7b3feda2b3ca636f94f11467336f424efda",
       "n": 11,
-      "order": 180
+      "order": 193
     },
     "4658b1793abd4fa3805aa4b370d5519bf51c743b": {
       "headline": "Illinois judge acquits woman in hotel shooting as self-defense",
@@ -3162,7 +3175,7 @@
       "image_local": "images/story-228.jpg",
       "id": "4658b1793abd4fa3805aa4b370d5519bf51c743b",
       "n": 12,
-      "order": 181
+      "order": 194
     },
     "ed5d1a9fbc2ce601a3cfa4d07a0754dc1b34fa55": {
       "headline": "Tesla Robotaxi app 26.8.2 adds Stop Now latch and native X Money pay",
@@ -3174,7 +3187,7 @@
       "image_local": "images/story-229.jpg",
       "id": "ed5d1a9fbc2ce601a3cfa4d07a0754dc1b34fa55",
       "n": 13,
-      "order": 182
+      "order": 195
     },
     "754fbeb0722f9ea11a246414b35c72454955b8ac": {
       "headline": "Eversource: 21,000 still dark as Fairfield coast floods; Westport parks shut",
@@ -3185,7 +3198,7 @@
       "image_remote": "https://images-cf.news12static.com/3kqcuzntcg31/1OkEkyDGODccI0GcBuON9I/123b76d120458c33b442376911c1c749/Screenshot_2026-09-26_093741.png",
       "image_local": "images/story-230.png",
       "id": "754fbeb0722f9ea11a246414b35c72454955b8ac",
-      "order": 157
+      "order": 170
     },
     "f9873b241ba6d7ead865a73afb3d650cfb5f0b81": {
       "headline": "Trump uses pocket rescission to cancel $810M for migrant and DEI programs",
@@ -3196,7 +3209,7 @@
       "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/donald-trump-unga.jpg",
       "image_local": "images/story-231.jpg",
       "id": "f9873b241ba6d7ead865a73afb3d650cfb5f0b81",
-      "order": 158
+      "order": 171
     },
     "816fedda33ef5a61a8d09da0c0b2826c0ae1f52b": {
       "headline": "Trump’s Air Force One flyover and Neyland visit wrap without headset blackouts",
@@ -3207,7 +3220,7 @@
       "image_remote": "https://static.independent.co.uk/2026/09/26/18/2026-09-26T174054Z_181078908_RC25RNAH963F_RTRMADP_3_USA-TRUMP.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
       "image_local": "images/story-232.jpg",
       "id": "816fedda33ef5a61a8d09da0c0b2826c0ae1f52b",
-      "order": 159
+      "order": 172
     },
     "c315d573afc8401d654d5668bfb1a6e3624868b0": {
       "headline": "ICE roundup: child predators, trafficker, and armed carjacker among arrests",
@@ -3218,7 +3231,7 @@
       "image_remote": "https://www.dhs.gov/sites/default/files/2024-02/24_0206_opa_og-image-dhs.jpg",
       "image_local": "images/story-233.jpg",
       "id": "c315d573afc8401d654d5668bfb1a6e3624868b0",
-      "order": 160
+      "order": 173
     },
     "599ff358b77e7d189434dd3559db6069da6297a5": {
       "headline": "Cincinnati jury acquits Shake Shack shooter after fiancée admits victim had a gun",
@@ -3229,7 +3242,7 @@
       "image_remote": "https://gray-wxix-prod.gtv-cdn.com/resizer/v2/EIIQ7D4F5RH67BY5OKF7H7OFSU.jpg?auth=0ad92adcd7a793fb53fcd9eadf8efb34f5551ccdd940db2a4386c5b1651c2695&width=1200&height=600&smart=true",
       "image_local": "images/story-234.jpg",
       "id": "599ff358b77e7d189434dd3559db6069da6297a5",
-      "order": 161
+      "order": 174
     },
     "fd881a68c8c0372a45bf7d96e10f3a9d280a1d8f": {
       "headline": "Utah judge finds prima facie self-defense in funeral-lot double killing",
@@ -3240,7 +3253,7 @@
       "image_remote": "https://img.ksl.com/slc/3139/313984/31398416.jpeg?filter=kslv2/responsive_story_lg",
       "image_local": "images/story-235.jpg",
       "id": "fd881a68c8c0372a45bf7d96e10f3a9d280a1d8f",
-      "order": 162
+      "order": 175
     },
     "bbdb3043a2661a282d648847a14df64d251548dc": {
       "headline": "SpaceX flies classified USSF-385; trackers tie West Coast cadence to Starshield",
@@ -3251,7 +3264,7 @@
       "image_remote": "https://www.teslarati.com/wp-content/uploads/2026/09/spacex-starship-flight-14-sunset-starbase-1000x600.jpg",
       "image_local": "images/story-236.jpg",
       "id": "bbdb3043a2661a282d648847a14df64d251548dc",
-      "order": 163
+      "order": 176
     },
     "a796aee0ab7b523cb944e752453e3d4164372692": {
       "headline": "Tesla builds first Cybertruck with lithium refined at its Texas Gulf Coast plant",
@@ -3262,7 +3275,7 @@
       "image_remote": "https://www.teslarati.com/wp-content/uploads/2026/09/tesla-cybercab-cathode-1-1000x600.jpeg",
       "image_local": "images/story-237.jpg",
       "id": "a796aee0ab7b523cb944e752453e3d4164372692",
-      "order": 164
+      "order": 177
     },
     "39181d19250ab0762e8107918fd8a1eccaed9e96": {
       "headline": "Penguins’ Bryan Rust leaves Sabres preseason early in empty-bench scare",
@@ -3273,7 +3286,7 @@
       "image_remote": "https://i.marqueur.com/habsetlnh/i/photo/686011.webp",
       "image_local": "images/story-238.webp",
       "id": "39181d19250ab0762e8107918fd8a1eccaed9e96",
-      "order": 165
+      "order": 178
     },
     "a101255e36c36c058a93f2eff5b265fcf0489da2": {
       "headline": "Aaron Glenn returns to Detroit as Jets’ No. 1 defense faces Lions’ leaky secondary",
@@ -3284,7 +3297,7 @@
       "image_remote": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/jets/xyum3oafa6szgktnitkn",
       "image_local": "images/story-239.jpg",
       "id": "a101255e36c36c058a93f2eff5b265fcf0489da2",
-      "order": 166
+      "order": 179
     },
     "6356530e2f32c86949e0fcec1b6708579d256260": {
       "headline": "Stryper drops 18th album Throne of Thorns with Shadowbreaker visualizer",
@@ -3295,7 +3308,7 @@
       "image_remote": "https://www.sonicperspectives.com/wp-content/uploads/2026/09/Stryper.png",
       "image_local": "images/story-240.png",
       "id": "6356530e2f32c86949e0fcec1b6708579d256260",
-      "order": 167
+      "order": 180
     },
     "a5d452c4dc7d6c48d09d797d9c66f27716ddaaac": {
       "headline": "Apple Watch Ultra 4, Mac mini, and Mac Studio see first launch-week discounts",
@@ -3306,7 +3319,7 @@
       "image_remote": "https://images.macrumors.com/t/s-l7mxPVgrIW4A1bILoKGXOrUI8=/2500x/article-new/2025/02/Best-Apple-Deals-Feature-0007-1.jpg",
       "image_local": "images/story-241.jpg",
       "id": "a5d452c4dc7d6c48d09d797d9c66f27716ddaaac",
-      "order": 168
+      "order": 181
     },
     "5640bb707deec2bcd806bc1b0d8778706804df23": {
       "headline": "Bullet For My Valentine announce Social Apocalypse album, first song in four years",
@@ -3317,7 +3330,7 @@
       "image_remote": "https://assets.blabbermouth.net/media/bulletformyvalentinesept2026_638.jpg",
       "image_local": "images/story-242.jpg",
       "id": "5640bb707deec2bcd806bc1b0d8778706804df23",
-      "order": 169
+      "order": 182
     },
     "6890fde52a5bcf1d550de1e9e292117812ffe7cf": {
       "headline": "Trumbull soccer falls 3–2 to undefeated Stamford; Simsbury next Sunday",
@@ -3329,7 +3342,7 @@
       "image_local": "images/story-243.jpg",
       "id": "6890fde52a5bcf1d550de1e9e292117812ffe7cf",
       "n": 1,
-      "order": 145
+      "order": 158
     },
     "aa6de74f43e8c10727ad61a12fa814d5c5a0e88e": {
       "headline": "Trump says he approved new fuel economy rules to end Biden EV pressure",
@@ -3341,7 +3354,7 @@
       "image_local": "images/story-244.jpg",
       "id": "aa6de74f43e8c10727ad61a12fa814d5c5a0e88e",
       "n": 2,
-      "order": 146
+      "order": 159
     },
     "2a0fe484e0db0fdf25c36ecae0ec4ef2ef0b27c7": {
       "headline": "Homan: ICE can break Obama’s 409,000 deportation record next year",
@@ -3353,7 +3366,7 @@
       "image_local": "images/story-245.jpg",
       "id": "2a0fe484e0db0fdf25c36ecae0ec4ef2ef0b27c7",
       "n": 3,
-      "order": 147
+      "order": 160
     },
     "a3874e3128a64ea3b1ea3d2ad85873d307830197": {
       "headline": "DHS: ICE has deported more than 2,000 known or suspected terrorists",
@@ -3365,7 +3378,7 @@
       "image_local": "images/story-246.jpg",
       "id": "a3874e3128a64ea3b1ea3d2ad85873d307830197",
       "n": 4,
-      "order": 148
+      "order": 161
     },
     "da21c456c886affba8173fe4af20123bb7de6ad3": {
       "headline": "Musk: Grok trails Anthropic for now; Grok Bot growing ~100% a month",
@@ -3377,7 +3390,7 @@
       "image_local": "images/story-247.jpg",
       "id": "da21c456c886affba8173fe4af20123bb7de6ad3",
       "n": 5,
-      "order": 149
+      "order": 162
     },
     "35c3771d8e2dc84a47ec4f715afe533802f00374": {
       "headline": "Penguins close preseason 3–1 in Buffalo; Rust exits, Silovs rebounds",
@@ -3389,7 +3402,7 @@
       "image_local": "images/story-248.png",
       "id": "35c3771d8e2dc84a47ec4f715afe533802f00374",
       "n": 6,
-      "order": 150
+      "order": 163
     },
     "ac9baf4d82c9551e1efc4d5d69b4f7da7623f97a": {
       "headline": "Jets–Lions Sunday: Glenn’s return, No. 1 defense vs. 31st, 1 p.m. FOX",
@@ -3401,7 +3414,7 @@
       "image_local": "images/story-249.jpg",
       "id": "ac9baf4d82c9551e1efc4d5d69b4f7da7623f97a",
       "n": 7,
-      "order": 151
+      "order": 164
     },
     "5fbe3c7d57e48ddb8d745377c5a4dc3582e75124": {
       "headline": "watchOS 27.0.1 patches unexpected restarts on Series 12 and Ultra 4",
@@ -3413,7 +3426,7 @@
       "image_local": "images/story-250.jpg",
       "id": "5fbe3c7d57e48ddb8d745377c5a4dc3582e75124",
       "n": 8,
-      "order": 152
+      "order": 165
     },
     "138add2e6c9ed2e9f905f30a31412d597819b372": {
       "headline": "Amon Amarth’s The Allfather Awakens lands Oct. 2 with new Golden Hall stage",
@@ -3425,7 +3438,7 @@
       "image_local": "images/story-251.jpg",
       "id": "138add2e6c9ed2e9f905f30a31412d597819b372",
       "n": 9,
-      "order": 153
+      "order": 166
     },
     "d13f10f510faafdf17c76f1e7456ddc4b9b6b30e": {
       "headline": "Jeep recalls ~202,000 SUVs after TPMS software goes silent on low tires",
@@ -3437,7 +3450,7 @@
       "image_local": "images/story-252.jpg",
       "id": "d13f10f510faafdf17c76f1e7456ddc4b9b6b30e",
       "n": 10,
-      "order": 154
+      "order": 167
     },
     "c75375ce07ea8135627e6c61ad2aa97a2d7dbffc": {
       "headline": "LEGO Jurassic Park Jeep Wrangler 77984: 1,924-piece 1:10 display icon",
@@ -3449,7 +3462,7 @@
       "image_local": "images/story-253.webp",
       "id": "c75375ce07ea8135627e6c61ad2aa97a2d7dbffc",
       "n": 11,
-      "order": 155
+      "order": 168
     },
     "33b01c93ef18fab500a95c989f6622f441246554": {
       "headline": "Musk: Cybercab expanding beyond Texas; Optimus could hit a billion robots",
@@ -3461,7 +3474,7 @@
       "image_local": "images/story-254.jpg",
       "id": "33b01c93ef18fab500a95c989f6622f441246554",
       "n": 12,
-      "order": 156
+      "order": 169
     },
     "e204e6a23f48eddb9703bebf533998a2166e2d47": {
       "headline": "Trumbull Fall Flu Clinics open Sept. 30 with walk-ins through Nov. 9",
@@ -3472,7 +3485,7 @@
       "id": "e204e6a23f48eddb9703bebf533998a2166e2d47",
       "image_remote": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-255.jpg",
-      "order": 132
+      "order": 145
     },
     "597705daad8df8f4f14bc8d326267263d2ad8e5e": {
       "headline": "Banks: Indiana ICE sweep of 426 arrests shows why Congress must lock in Trump’s crackdown",
@@ -3483,7 +3496,7 @@
       "id": "597705daad8df8f4f14bc8d326267263d2ad8e5e",
       "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/02/immigrant-line-jim-banks.png",
       "image_local": "images/story-256.png",
-      "order": 133
+      "order": 146
     },
     "3c709fba5b47556cdbd031180e8fb09abaedcb74": {
       "headline": "DHS: ‘No one is off the table’ after rumor ICE paused non-criminal arrests",
@@ -3494,7 +3507,7 @@
       "id": "3c709fba5b47556cdbd031180e8fb09abaedcb74",
       "image_remote": "https://www.dhs.gov/sites/default/files/2024-02/24_0206_opa_og-image-dhs.jpg",
       "image_local": "images/story-257.jpg",
-      "order": 134
+      "order": 147
     },
     "c9483f89017de15d541abb78aeb8ceb3e41a32cc": {
       "headline": "ICE lodges detainers on two men charged in New Braunfels crash that killed a father",
@@ -3505,7 +3518,7 @@
       "id": "c9483f89017de15d541abb78aeb8ceb3e41a32cc",
       "image_remote": "https://bc.gmg.io/image/upload/c_thumb,q_auto,w_700,f_jpg/media/video/ksat/23010043-c95b-42c6-8efd-166797813100/image.jpg?api_key=ksat_9a37fc89631abedf",
       "image_local": "images/story-258.jpg",
-      "order": 135
+      "order": 148
     },
     "76767239400c30f3c8ca1e9514bf484400fea1cf": {
       "headline": "Trump stumps for Protect College Sports Act at Texas–Tennessee; Senate vote next week",
@@ -3516,7 +3529,7 @@
       "id": "76767239400c30f3c8ca1e9514bf484400fea1cf",
       "image_remote": "https://nextnewsnetwork.com/generated-images/editorial-28647-muj7aip6.jpg",
       "image_local": "images/story-259.jpg",
-      "order": 136
+      "order": 149
     },
     "445485dd0933c276287b8598298293f397e3957b": {
       "headline": "Penguins cut six more, waive Caleb Jones as Monday roster deadline looms",
@@ -3527,7 +3540,7 @@
       "id": "445485dd0933c276287b8598298293f397e3957b",
       "image_remote": "https://media.pittsburghhockeynow.com/wp-content/uploads/2026/09/26154016/NHL-Preseason-Pittsburgh-Penguins-at-Columbus-Blue-Jackets-tagreuters-com2026newsml_mt1usatoday29904475328921214-1600x900.jpg",
       "image_local": "images/story-260.jpg",
-      "order": 137
+      "order": 150
     },
     "2ba50401e9f3ce24ab8349ec01beea56e63aca41": {
       "headline": "Jets preview: Glenn returns to Detroit in “attack mode” vs. Campbell’s Lions",
@@ -3538,7 +3551,7 @@
       "id": "2ba50401e9f3ce24ab8349ec01beea56e63aca41",
       "image_remote": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/jets/kxceomjmxlxhvw43ttzg",
       "image_local": "images/story-261.jpg",
-      "order": 138
+      "order": 151
     },
     "a0594ad4881be361333fdcbb95fbe3d4fd0b5a84": {
       "headline": "Ritchie Blackmore: Deep Purple reunion felt like coming back from the dead",
@@ -3549,7 +3562,7 @@
       "id": "a0594ad4881be361333fdcbb95fbe3d4fd0b5a84",
       "image_remote": "https://cdn.mos.cms.futurecdn.net/ymLRTcZT27yJFCeaJaydXS-2000-80.jpg",
       "image_local": "images/story-262.jpg",
-      "order": 139
+      "order": 152
     },
     "cec56dd471a1a834b4fb93e75b93e504c64ab1ea": {
       "headline": "Napalm Death’s Shane Embury: next album ‘probably’ not before late 2027",
@@ -3560,7 +3573,7 @@
       "id": "cec56dd471a1a834b4fb93e75b93e504c64ab1ea",
       "image_remote": "https://assets.blabbermouth.net/media/shaneemburysept2026_638.jpg",
       "image_local": "images/story-263.jpg",
-      "order": 140
+      "order": 153
     },
     "a7e2ce85c07312437fdfb8d901ddf86251e8fec2": {
       "headline": "Minnesota Renaissance Festival hits 55 years with Art Affair weekend through Oct. 2",
@@ -3571,7 +3584,7 @@
       "id": "a7e2ce85c07312437fdfb8d901ddf86251e8fec2",
       "image_remote": "https://mndaily.com/wp-content/uploads/2026/09/7vBM3hq5M9GtD0Kut6xeCMNwIuZZqkIEzTvmujCU-1200x837.png",
       "image_local": "images/story-264.png",
-      "order": 141
+      "order": 154
     },
     "c4cd0f6a2abe9c1da6e4085a01ae6bd9b9c9d379": {
       "headline": "Triumph stop-ride recall: TF450 rocker arms can seize — dealers replace cylinder heads",
@@ -3582,7 +3595,7 @@
       "id": "c4cd0f6a2abe9c1da6e4085a01ae6bd9b9c9d379",
       "image_remote": "https://windburnedeyes.com/wp-content/uploads/2026/09/triumph-tf450-recall-1200x675.jpg",
       "image_local": "images/story-265.jpg",
-      "order": 142
+      "order": 155
     },
     "561b53d898dde7c5f5c441daf0b38a37aefe82a0": {
       "headline": "Apple Watch Series 12 vs. Ultra 4: same health stack, $400 gap for most buyers",
@@ -3593,7 +3606,7 @@
       "id": "561b53d898dde7c5f5c441daf0b38a37aefe82a0",
       "image_remote": "https://images.macrumors.com/t/Dvslf7-2l2Fw0PrWFdvXm8Nv318=/1672x/article-new/2026/09/apple-watch-series-12-vs-apple-watch-ultra-4.jpg",
       "image_local": "images/story-266.jpg",
-      "order": 143
+      "order": 156
     },
     "9a3cf2451435cfe109ac56ff829eba7078a3a414": {
       "headline": "Trumbull adds third textile recycling bin at TEaM Transfer Station",
@@ -3604,7 +3617,7 @@
       "id": "9a3cf2451435cfe109ac56ff829eba7078a3a414",
       "image_remote": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-267.jpg",
-      "order": 144
+      "order": 157
     },
     "82efe7885369b992a73c86b3f16fb95ce845c252": {
       "n": 1,
@@ -3616,7 +3629,7 @@
       "image_local": "images/story-268.jpg",
       "image_remote": "https://images.unsplash.com/photo-1500674425229-f692875b0ab7?auto=format&fit=crop&w=1200&q=80",
       "id": "82efe7885369b992a73c86b3f16fb95ce845c252",
-      "order": 119
+      "order": 132
     },
     "17c0b5e2001fffc7d51064070b7b9ee9ba3e072f": {
       "n": 2,
@@ -3628,7 +3641,7 @@
       "image_local": "images/story-269.jpg",
       "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/ice-agents-garage.jpg",
       "id": "17c0b5e2001fffc7d51064070b7b9ee9ba3e072f",
-      "order": 120
+      "order": 133
     },
     "442699ae0ddbcf24c45e2e5eea3a350feb7fcd9d": {
       "n": 3,
@@ -3640,7 +3653,7 @@
       "image_local": "images/story-270.png",
       "image_remote": "https://bloximages.newyork1.vip.townnews.com/crossroadstoday.com/content/tncms/custom/image/fcf40577-9420-4512-a141-c2f8f1dc2bab.png?resize=600%2C338",
       "id": "442699ae0ddbcf24c45e2e5eea3a350feb7fcd9d",
-      "order": 121
+      "order": 134
     },
     "86553f3fa3603a4664b248cc7d367cfdc3746073": {
       "n": 4,
@@ -3652,7 +3665,7 @@
       "image_local": "images/story-271.jpg",
       "image_remote": "https://ichef.bbci.co.uk/news/1024/branded_news/4476/live/87b5fae0-b962-11f1-b1d1-571ed4d7ff2c.jpg",
       "id": "86553f3fa3603a4664b248cc7d367cfdc3746073",
-      "order": 122
+      "order": 135
     },
     "108359de19e41ff6715d7036fe6fc793000189f1": {
       "n": 5,
@@ -3664,7 +3677,7 @@
       "image_local": "images/story-272.jpg",
       "image_remote": "https://assets.blabbermouth.net/media/anthraxroxysept2026_638.jpg",
       "id": "108359de19e41ff6715d7036fe6fc793000189f1",
-      "order": 123
+      "order": 136
     },
     "e77ffdc51a01a8c2810f56e439f0f8754902ee82": {
       "n": 6,
@@ -3676,7 +3689,7 @@
       "image_local": "images/story-273.jpg",
       "image_remote": "https://metal-stop.com/wp-content/uploads/2026/07/Judas-Priest-Warsaw-2026-1024x576.jpg",
       "id": "e77ffdc51a01a8c2810f56e439f0f8754902ee82",
-      "order": 124
+      "order": 137
     },
     "1f932ac469c906d2e1f234d9a389ef4d03dae8d3": {
       "n": 7,
@@ -3688,7 +3701,7 @@
       "image_local": "images/story-274.jpg",
       "image_remote": "https://images.dev.teslant.com/article/1790112116960384779.jpg",
       "id": "1f932ac469c906d2e1f234d9a389ef4d03dae8d3",
-      "order": 125
+      "order": 138
     },
     "1dfda5935eccaedaec490a2cbf60789684fe27fa": {
       "n": 8,
@@ -3700,7 +3713,7 @@
       "image_local": "images/story-275.png",
       "image_remote": "https://aishiftnews.ca/images/news/starship-flight-14-rehearsal-is-done-the-faa-license-and-florida-dates-are-still-open-v2.png",
       "id": "1dfda5935eccaedaec490a2cbf60789684fe27fa",
-      "order": 126
+      "order": 139
     },
     "4ac6f34306d2ef2c3f3e1be4132b67194bc9e3b9": {
       "n": 9,
@@ -3712,7 +3725,7 @@
       "image_local": "images/story-276.jpg",
       "image_remote": "https://bdc2020.o0bc.com/wp-content/uploads/2026/09/IMG_3373-1-6aa2e30c33db3-768x432.jpg",
       "id": "4ac6f34306d2ef2c3f3e1be4132b67194bc9e3b9",
-      "order": 127
+      "order": 140
     },
     "7039bc9a3e453e8b7c84184d8b6566a374a417a9": {
       "n": 10,
@@ -3724,7 +3737,7 @@
       "image_local": "images/story-277.jpg",
       "image_remote": "https://images.macrumors.com/t/vQoWWBdb9EXLwtxwl0qVyebYGfQ=/1600x/article-new/2026/09/iphone-duo-colors.jpg",
       "id": "7039bc9a3e453e8b7c84184d8b6566a374a417a9",
-      "order": 128
+      "order": 141
     },
     "2cfdbaaf654171a27d66394f5c32fa241e3e71a0": {
       "n": 11,
@@ -3736,7 +3749,7 @@
       "image_local": "images/story-278.jpg",
       "image_remote": "https://platform.pensburgh.com/wp-content/uploads/sites/123/2026/09/gettyimages-2296092541.jpg?quality=90&strip=all&crop=0%2C10.73595839118%2C100%2C78.528083217641&w=1200",
       "id": "2cfdbaaf654171a27d66394f5c32fa241e3e71a0",
-      "order": 129
+      "order": 142
     },
     "48da6e78a6ef0a7faba637d52477a0b778cec827": {
       "n": 12,
@@ -3748,7 +3761,7 @@
       "image_local": "images/story-279.jpg",
       "image_remote": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/jets/prqyhtnhvuzz4e3jrvfw",
       "id": "48da6e78a6ef0a7faba637d52477a0b778cec827",
-      "order": 130
+      "order": 143
     },
     "84026ab0fbfc111ca365c8b8e7cc033927cf26d7": {
       "n": 13,
@@ -3760,7 +3773,7 @@
       "image_local": "images/story-280.jpg",
       "image_remote": "https://dvv9jt2zg9j70.cloudfront.net/wp-content/uploads/2026/09/20165512/insta360-times-square-store-opening-day-1.jpg",
       "id": "84026ab0fbfc111ca365c8b8e7cc033927cf26d7",
-      "order": 131
+      "order": 144
     },
     "bd5d10fb07ba4e95b065896ee227401a46d9f560": {
       "n": 1,
@@ -3772,7 +3785,7 @@
       "image_remote": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?auto=format&fit=crop&w=1200&q=80",
       "id": "bd5d10fb07ba4e95b065896ee227401a46d9f560",
       "image_local": "images/story-281.jpg",
-      "order": 107
+      "order": 120
     },
     "2513ac7b8c278ad93b63a477273717039d1184af": {
       "n": 2,
@@ -3784,7 +3797,7 @@
       "image_remote": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?auto=format&fit=crop&w=1200&q=80",
       "id": "2513ac7b8c278ad93b63a477273717039d1184af",
       "image_local": "images/story-282.jpg",
-      "order": 108
+      "order": 121
     },
     "4f7de3d170d4e5da60e044636e22fed365479b7d": {
       "n": 3,
@@ -3796,7 +3809,7 @@
       "image_remote": "https://images.unsplash.com/photo-1515703407324-5f753afd8be8?auto=format&fit=crop&w=1200&q=80",
       "id": "4f7de3d170d4e5da60e044636e22fed365479b7d",
       "image_local": "images/story-283.jpg",
-      "order": 109
+      "order": 122
     },
     "fcb037d463f8ebbb59aaa6746701ae889a0279d5": {
       "n": 4,
@@ -3808,7 +3821,7 @@
       "image_remote": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=1200&q=80",
       "id": "fcb037d463f8ebbb59aaa6746701ae889a0279d5",
       "image_local": "images/story-284.jpg",
-      "order": 110
+      "order": 123
     },
     "f7656d113ba5c19592b865bb753bfa054835e49a": {
       "n": 5,
@@ -3820,7 +3833,7 @@
       "image_remote": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
       "id": "f7656d113ba5c19592b865bb753bfa054835e49a",
       "image_local": "images/story-285.jpg",
-      "order": 111
+      "order": 124
     },
     "e5bdef0078276fa7735a5e94925e5d4376c51f22": {
       "n": 6,
@@ -3832,7 +3845,7 @@
       "image_remote": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
       "id": "e5bdef0078276fa7735a5e94925e5d4376c51f22",
       "image_local": "images/story-286.jpg",
-      "order": 112
+      "order": 125
     },
     "b8fc166a2964fdb335d7ede8dc3f6fc15b576a44": {
       "n": 7,
@@ -3844,7 +3857,7 @@
       "image_remote": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?auto=format&fit=crop&w=1200&q=80",
       "id": "b8fc166a2964fdb335d7ede8dc3f6fc15b576a44",
       "image_local": "images/story-287.jpg",
-      "order": 113
+      "order": 126
     },
     "746ca7701609051378f8f673a8341c0d01071d28": {
       "n": 8,
@@ -3856,7 +3869,7 @@
       "image_remote": "https://images.unsplash.com/photo-1560958089-b8a1929cea89?auto=format&fit=crop&w=1200&q=80",
       "id": "746ca7701609051378f8f673a8341c0d01071d28",
       "image_local": "images/story-288.jpg",
-      "order": 114
+      "order": 127
     },
     "f17efceb0677f933071ef96052b90259da8b029e": {
       "n": 9,
@@ -3868,7 +3881,7 @@
       "image_remote": "https://images.unsplash.com/photo-1617788138017-80ad40651399?auto=format&fit=crop&w=1200&q=80",
       "id": "f17efceb0677f933071ef96052b90259da8b029e",
       "image_local": "images/story-289.jpg",
-      "order": 115
+      "order": 128
     },
     "16bb600595ad7f564936531ae850ede6efc34fd2": {
       "n": 10,
@@ -3880,7 +3893,7 @@
       "image_remote": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?auto=format&fit=crop&w=1200&q=80",
       "id": "16bb600595ad7f564936531ae850ede6efc34fd2",
       "image_local": "images/story-290.jpg",
-      "order": 116
+      "order": 129
     },
     "68e804984e6154767e3104fa4ea2cf4f35a7b673": {
       "n": 11,
@@ -3892,7 +3905,7 @@
       "image_remote": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?auto=format&fit=crop&w=1200&q=80",
       "id": "68e804984e6154767e3104fa4ea2cf4f35a7b673",
       "image_local": "images/story-291.jpg",
-      "order": 117
+      "order": 130
     },
     "40b6f00194f6265a06b3579f2dc594aa65e69159": {
       "n": 12,
@@ -3904,7 +3917,7 @@
       "image_remote": "https://images.unsplash.com/photo-1500674425229-f692875b0ab7?auto=format&fit=crop&w=1200&q=80",
       "id": "40b6f00194f6265a06b3579f2dc594aa65e69159",
       "image_local": "images/story-292.jpg",
-      "order": 118
+      "order": 131
     },
     "634a357c1ea6f9e92ecd9f6d375c5e84e4e86738": {
       "headline": "UI and Eversource restore tens of thousands after nor’easter; shoreline hit hardest",
@@ -3915,7 +3928,7 @@
       "image_remote": "https://images.unsplash.com/photo-1527482797697-8795b05a13fe?auto=format&fit=crop&w=1200&q=80",
       "id": "634a357c1ea6f9e92ecd9f6d375c5e84e4e86738",
       "image_local": "images/story-293.jpg",
-      "order": 94
+      "order": 107
     },
     "2853779a9d68ef5a6a9d93ca7133d62498207023": {
       "headline": "Westport: 262 still dark Sunday morning; parks, beaches and fields closed after nor’easter",
@@ -3926,7 +3939,7 @@
       "image_remote": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80",
       "id": "2853779a9d68ef5a6a9d93ca7133d62498207023",
       "image_local": "images/story-294.jpg",
-      "order": 95
+      "order": 108
     },
     "138abd297da41a11912b00718e6ab7fbdbea935e": {
       "headline": "Jets fall 31–24 in Glenn’s Detroit return after late Geno fumble ends comeback",
@@ -3937,7 +3950,7 @@
       "image_remote": "https://images.unsplash.com/photo-1566577739112-5180d4bf9390?auto=format&fit=crop&w=1200&q=80",
       "id": "138abd297da41a11912b00718e6ab7fbdbea935e",
       "image_local": "images/story-295.jpg",
-      "order": 96
+      "order": 109
     },
     "74be918e674e5b599c78e1df746920c65c808051": {
       "headline": "Penguins send Zonnon, Brunicke, Blomqvist to AHL with Monday roster deadline looming",
@@ -3948,7 +3961,7 @@
       "image_remote": "https://images.unsplash.com/photo-1515703407324-5f753afd8be8?auto=format&fit=crop&w=1200&q=80",
       "id": "74be918e674e5b599c78e1df746920c65c808051",
       "image_local": "images/story-296.jpg",
-      "order": 97
+      "order": 110
     },
     "c8a57cd58cc9565ee228484f29d4d88f0e042a57": {
       "headline": "Starship Flight 14: first orbital try Monday with 26 Starlink V3s and Pacific splashdown",
@@ -3959,7 +3972,7 @@
       "image_remote": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=1200&q=80",
       "id": "c8a57cd58cc9565ee228484f29d4d88f0e042a57",
       "image_local": "images/story-297.jpg",
-      "order": 98
+      "order": 111
     },
     "ec34cfcc6db1de32615e4aff243c015ceba89bec": {
       "headline": "Araghchi on Meet the Press: Iran ‘fully prepared’ for war resume but still open to diplomacy",
@@ -3970,7 +3983,7 @@
       "image_remote": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
       "id": "ec34cfcc6db1de32615e4aff243c015ceba89bec",
       "image_local": "images/story-298.jpg",
-      "order": 99
+      "order": 112
     },
     "b0539216881f557ba755ae9aa063d9e82ea7e1aa": {
       "headline": "Judge Kelly’s TRO restores CNN, MS NOW and POLITICO hard passes for 14 days",
@@ -3981,7 +3994,7 @@
       "image_remote": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
       "id": "b0539216881f557ba755ae9aa063d9e82ea7e1aa",
       "image_local": "images/story-299.jpg",
-      "order": 100
+      "order": 113
     },
     "972cdbd8126e91dc0909c8ac4a5b358ad0d48bc3": {
       "headline": "Fort Lauderdale Airbnb renter shoots teen in alleged home invasion; probed as self-defense",
@@ -3992,7 +4005,7 @@
       "image_remote": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?auto=format&fit=crop&w=1200&q=80",
       "id": "972cdbd8126e91dc0909c8ac4a5b358ad0d48bc3",
       "image_local": "images/story-300.jpg",
-      "order": 101
+      "order": 114
     },
     "58b6f7051eaf3f30b52f42c779c6b2875eae0b2d": {
       "headline": "Kane County clears Aurora officers in January knife-and-fuel fatal shooting",
@@ -4003,7 +4016,7 @@
       "image_remote": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=1200&q=80",
       "id": "58b6f7051eaf3f30b52f42c779c6b2875eae0b2d",
       "image_local": "images/story-301.jpg",
-      "order": 102
+      "order": 115
     },
     "0882bcfd6d0e62fe191651d86769655e03115c44": {
       "headline": "iPhone Duo hands-on: crease nearly gone, IP68 and Pencil — still $1,999 and heavier than Fold 8",
@@ -4014,7 +4027,7 @@
       "image_remote": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=1200&q=80",
       "id": "0882bcfd6d0e62fe191651d86769655e03115c44",
       "image_local": "images/story-302.jpg",
-      "order": 103
+      "order": 116
     },
     "2ef679a1ad299d1d9eda9b8cdd0c6d3b718dee8c": {
       "headline": "Tesla engineers say Grok 4.7 overnight agents are shipping FSD and Cybercab features",
@@ -4025,7 +4038,7 @@
       "image_remote": "https://images.unsplash.com/photo-1560958089-b8a1929cea89?auto=format&fit=crop&w=1200&q=80",
       "id": "2ef679a1ad299d1d9eda9b8cdd0c6d3b718dee8c",
       "image_local": "images/story-303.jpg",
-      "order": 104
+      "order": 117
     },
     "e44485406aa7d537701063deb63ec0fbf37d9d16": {
       "headline": "Metallica maps Sphere fringe events for Life Burns Faster Las Vegas takeover",
@@ -4036,7 +4049,7 @@
       "image_remote": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?auto=format&fit=crop&w=1200&q=80",
       "id": "e44485406aa7d537701063deb63ec0fbf37d9d16",
       "image_local": "images/story-304.jpg",
-      "order": 105
+      "order": 118
     },
     "b1a755a24b6d29c4599ca6d943877d71cd1f3756": {
       "headline": "CT Renaissance Faire guide: Lebanon weekends through Oct. 25, new jousts and Merry Macabre",
@@ -4047,7 +4060,7 @@
       "image_remote": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?auto=format&fit=crop&w=1200&q=80",
       "id": "b1a755a24b6d29c4599ca6d943877d71cd1f3756",
       "image_local": "images/story-305.jpg",
-      "order": 106
+      "order": 119
     },
     "cebd7ceb0135c2baaa8e7044951a4f55f163446e": {
       "headline": "CT Patch: ~22,000 still dark Sunday afternoon — Fairfield County towns and UI pockets listed",
@@ -4058,7 +4071,7 @@
       "image_remote": "https://images.unsplash.com/photo-1527482797697-8795b05a13fe?auto=format&fit=crop&w=1200&q=80",
       "id": "cebd7ceb0135c2baaa8e7044951a4f55f163446e",
       "image_local": "images/story-306.jpg",
-      "order": 84
+      "order": 97
     },
     "3dd84662ab3a5c7abf4320e36aa1ccc79afd8f41": {
       "headline": "Westport: burning wires shut Easton Road as nor’easter closes roads from Wilton to Putnam",
@@ -4069,7 +4082,7 @@
       "image_remote": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80",
       "id": "3dd84662ab3a5c7abf4320e36aa1ccc79afd8f41",
       "image_local": "images/story-307.jpg",
-      "order": 85
+      "order": 98
     },
     "6c81986ff2a1e8f25255660f340df9f211b4e7f7": {
       "headline": "Bridgeport: masked pair tries Butler Avenue home invasion, then fires at people outside",
@@ -4080,7 +4093,7 @@
       "image_remote": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?auto=format&fit=crop&w=1200&q=80",
       "id": "6c81986ff2a1e8f25255660f340df9f211b4e7f7",
       "image_local": "images/story-308.jpg",
-      "order": 86
+      "order": 99
     },
     "7d198fafd980017ac25e5632cc90f44d6a7b3f76": {
       "headline": "Trump: five men arrested near RAF Fairford were looking to do ‘big damage’",
@@ -4091,7 +4104,7 @@
       "image_remote": "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=1200&q=80",
       "id": "7d198fafd980017ac25e5632cc90f44d6a7b3f76",
       "image_local": "images/story-309.jpg",
-      "order": 87
+      "order": 100
     },
     "1488eba3684a098c619352905e337a92a2e9fce0": {
       "headline": "Lee’s SAVE Act unanimous-consent push blocked again by Padilla as midterms loom",
@@ -4102,7 +4115,7 @@
       "image_remote": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
       "id": "1488eba3684a098c619352905e337a92a2e9fce0",
       "image_local": "images/story-310.jpg",
-      "order": 88
+      "order": 101
     },
     "c5d40ff43ddd5aeb9d83b1404a6f580df41bbf20": {
       "headline": "Glenn after Lions loss: Jets are ‘right there’ — Davis says no moral victories",
@@ -4113,7 +4126,7 @@
       "image_remote": "https://images.unsplash.com/photo-1566577739112-5180d4bf9390?auto=format&fit=crop&w=1200&q=80",
       "id": "c5d40ff43ddd5aeb9d83b1404a6f580df41bbf20",
       "image_local": "images/story-311.jpg",
-      "order": 89
+      "order": 102
     },
     "221208453f8b41ca3a07c66ce4a2d705b99d3e76": {
       "headline": "Penguins: three to AHL, four on IR — still short of Monday’s 23-man limit",
@@ -4124,7 +4137,7 @@
       "image_remote": "https://images.unsplash.com/photo-1515703407324-5f753afd8be8?auto=format&fit=crop&w=1200&q=80",
       "id": "221208453f8b41ca3a07c66ce4a2d705b99d3e76",
       "image_local": "images/story-312.jpg",
-      "order": 90
+      "order": 103
     },
     "de7583d0d2e5b85cb8decb94ca1f346efcea7bf2": {
       "headline": "Ars: Tesla workers balk at training Optimus robots meant to replace them",
@@ -4135,7 +4148,7 @@
       "image_remote": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80",
       "id": "de7583d0d2e5b85cb8decb94ca1f346efcea7bf2",
       "image_local": "images/story-313.jpg",
-      "order": 91
+      "order": 104
     },
     "fecdde6f95086f9883d58b5a07a70cc047e2f97a": {
       "headline": "Apple 3D-prints iPhone Duo’s recycled titanium hinge cover — 100+ parts inside",
@@ -4146,7 +4159,7 @@
       "image_remote": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=1200&q=80",
       "id": "fecdde6f95086f9883d58b5a07a70cc047e2f97a",
       "image_local": "images/story-314.jpg",
-      "order": 92
+      "order": 105
     },
     "995b3d07b8d05d82e68fdfaeabf628dce3cf5d81": {
       "headline": "Unitree Dex5-S five-finger robot hand: 22 DOF, ~620g, from $6,500",
@@ -4157,7 +4170,7 @@
       "image_remote": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
       "id": "995b3d07b8d05d82e68fdfaeabf628dce3cf5d81",
       "image_local": "images/story-315.jpg",
-      "order": 93
+      "order": 106
     },
     "278b308554c61eedec5467ef81331f6f37eb55fb": {
       "n": 1,
@@ -4169,7 +4182,7 @@
       "image_remote": "https://images.unsplash.com/photo-1551958219-acbc608c6377?auto=format&fit=crop&w=1200&q=80",
       "id": "278b308554c61eedec5467ef81331f6f37eb55fb",
       "image_local": "images/story-316.jpg",
-      "order": 74
+      "order": 87
     },
     "06796e0f666c8ede01f231c5a36b9ad1583b3dc2": {
       "n": 2,
@@ -4181,7 +4194,7 @@
       "image_remote": "https://images.unsplash.com/photo-1541888946425-d81bb19240f5?auto=format&fit=crop&w=1200&q=80",
       "id": "06796e0f666c8ede01f231c5a36b9ad1583b3dc2",
       "image_local": "images/story-317.jpg",
-      "order": 75
+      "order": 88
     },
     "15e0979f7ff5cf2314c17b48902a8b432e53bfc7": {
       "n": 3,
@@ -4193,7 +4206,7 @@
       "image_remote": "https://images.unsplash.com/photo-1566577739112-5180d4bf9390?auto=format&fit=crop&w=1200&q=80",
       "id": "15e0979f7ff5cf2314c17b48902a8b432e53bfc7",
       "image_local": "images/story-318.jpg",
-      "order": 76
+      "order": 89
     },
     "993ef8ed9e75ff1875117eb45b156ae9abc2cbd6": {
       "n": 4,
@@ -4205,7 +4218,7 @@
       "image_remote": "https://images.unsplash.com/photo-1515703407324-5f753afd8be8?auto=format&fit=crop&w=1200&q=80",
       "id": "993ef8ed9e75ff1875117eb45b156ae9abc2cbd6",
       "image_local": "images/story-319.jpg",
-      "order": 77
+      "order": 90
     },
     "c2a00db581e1f5ebb35e6beecba0701fe87299d5": {
       "n": 5,
@@ -4217,7 +4230,7 @@
       "image_remote": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
       "id": "c2a00db581e1f5ebb35e6beecba0701fe87299d5",
       "image_local": "images/story-320.jpg",
-      "order": 78
+      "order": 91
     },
     "d7dd56c5c0f698126039f4fe28b944dd526f53fd": {
       "n": 6,
@@ -4229,7 +4242,7 @@
       "image_remote": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?auto=format&fit=crop&w=1200&q=80",
       "id": "d7dd56c5c0f698126039f4fe28b944dd526f53fd",
       "image_local": "images/story-321.jpg",
-      "order": 79
+      "order": 92
     },
     "d447011211d3274019ce3ba84b1b77678a561882": {
       "n": 7,
@@ -4241,7 +4254,7 @@
       "image_remote": "https://images.unsplash.com/photo-1485846234645-a62644f84728?auto=format&fit=crop&w=1200&q=80",
       "id": "d447011211d3274019ce3ba84b1b77678a561882",
       "image_local": "images/story-322.jpg",
-      "order": 80
+      "order": 93
     },
     "bc442f6bd460680d115d11ef4de71a5cf1a40172": {
       "n": 8,
@@ -4253,7 +4266,7 @@
       "image_remote": "https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?auto=format&fit=crop&w=1200&q=80",
       "id": "bc442f6bd460680d115d11ef4de71a5cf1a40172",
       "image_local": "images/story-323.jpg",
-      "order": 81
+      "order": 94
     },
     "d6a18f44485cab3aeea3bda2d18e5b1cc9d9f2c2": {
       "n": 9,
@@ -4265,7 +4278,7 @@
       "image_remote": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=1200&q=80",
       "id": "d6a18f44485cab3aeea3bda2d18e5b1cc9d9f2c2",
       "image_local": "images/story-324.jpg",
-      "order": 82
+      "order": 95
     },
     "e887929a76d8ecf7a94199c39c3ce597453ee12b": {
       "n": 10,
@@ -4277,7 +4290,7 @@
       "image_remote": "https://images.unsplash.com/photo-1555617981-dac3880eac6e?auto=format&fit=crop&w=1200&q=80",
       "id": "e887929a76d8ecf7a94199c39c3ce597453ee12b",
       "image_local": "images/story-325.jpg",
-      "order": 83
+      "order": 96
     },
     "fa54d592a0e35bdc008d0a3c4d9cbaf1cc05bb9c": {
       "headline": "Long Hill Fire contains lithium-ion battery blaze in Trumbull bedroom",
@@ -4289,7 +4302,7 @@
       "image_local": "images/story-326.jpg",
       "id": "fa54d592a0e35bdc008d0a3c4d9cbaf1cc05bb9c",
       "n": 1,
-      "order": 64
+      "order": 77
     },
     "477a4e2e40ebff3d5b592ad7226bfc8d2bfc8680": {
       "headline": "Starship Flight 14 reaches orbit for the first time — then comes home early",
@@ -4301,7 +4314,7 @@
       "image_local": "images/story-327.jpg",
       "id": "477a4e2e40ebff3d5b592ad7226bfc8d2bfc8680",
       "n": 2,
-      "order": 65
+      "order": 78
     },
     "92dad350e4ef1afb7fb6864a1bc2e258fbf22d18": {
       "headline": "Trump to MAGA: ‘Pretend I am on the ballot’ for the midterms",
@@ -4313,7 +4326,7 @@
       "image_local": "images/story-328.jpg",
       "id": "92dad350e4ef1afb7fb6864a1bc2e258fbf22d18",
       "n": 3,
-      "order": 66
+      "order": 79
     },
     "e1cf4bc7d3323b75808a0fba4a9ca7ba68b21c68": {
       "headline": "White House press ban lifted after TRO — legal fight with CNN, MS NOW, Politico rolls on",
@@ -4325,7 +4338,7 @@
       "image_local": "images/story-329.jpg",
       "id": "e1cf4bc7d3323b75808a0fba4a9ca7ba68b21c68",
       "n": 4,
-      "order": 67
+      "order": 80
     },
     "3ee492e04c929d2c110458fe83b387f734533f7d": {
       "headline": "Bose’s first wired earbuds in 11 years add active noise canceling for $99",
@@ -4337,7 +4350,7 @@
       "image_local": "images/story-330.jpg",
       "id": "3ee492e04c929d2c110458fe83b387f734533f7d",
       "n": 5,
-      "order": 68
+      "order": 81
     },
     "9f5dade0406c6c2d8a3182ec448054d6e89ec906": {
       "headline": "Jeep/Ram 3.6L rocker-arm warranty settlement: CT owners face Oct. 12 claim deadline",
@@ -4349,7 +4362,7 @@
       "image_local": "images/story-331.jpg",
       "id": "9f5dade0406c6c2d8a3182ec448054d6e89ec906",
       "n": 6,
-      "order": 69
+      "order": 82
     },
     "88bc7a4fef69bca813f6ba1fb59d78ac9d137270": {
       "headline": "Harley-Davidson teases Road King ST return for 2027 — plus non-CVO Glide STs",
@@ -4361,7 +4374,7 @@
       "image_local": "images/story-332.jpg",
       "id": "88bc7a4fef69bca813f6ba1fb59d78ac9d137270",
       "n": 7,
-      "order": 70
+      "order": 83
     },
     "2a3a1cdf851ed49ca4b627512aab8f1f353c390c": {
       "headline": "Insta360 X5 firmware adds AI Director that edits 360 highlights while it charges",
@@ -4373,7 +4386,7 @@
       "image_local": "images/story-333.jpg",
       "id": "2a3a1cdf851ed49ca4b627512aab8f1f353c390c",
       "n": 8,
-      "order": 71
+      "order": 84
     },
     "600e268fad3e0b613c07244c6db393bfeb7cf63d": {
       "headline": "Fall colors in U.S. parks are getting harder to time as climate swings widen",
@@ -4385,7 +4398,7 @@
       "image_local": "images/story-334.jpg",
       "id": "600e268fad3e0b613c07244c6db393bfeb7cf63d",
       "n": 9,
-      "order": 72
+      "order": 85
     },
     "4ff9a8913a042153b53a9d83d6e1b2f18a412a18": {
       "headline": "Penguins: AHL cuts and four on IR leave Monday roster crunch before Flyers opener",
@@ -4397,7 +4410,7 @@
       "image_local": "images/story-335.jpg",
       "id": "4ff9a8913a042153b53a9d83d6e1b2f18a412a18",
       "n": 10,
-      "order": 73
+      "order": 86
     },
     "9033f5be22021ece4f87bd9159b0045eb3c654c2": {
       "headline": "Trumbull Halloween Costume Swap: donation drop-off ends today; free swaps Oct. 8 and 10",
@@ -4408,7 +4421,7 @@
       "image_remote": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1200&q=80",
       "id": "9033f5be22021ece4f87bd9159b0045eb3c654c2",
       "image_local": "images/story-336.jpg",
-      "order": 54
+      "order": 67
     },
     "55fa76362a0546ce0cdbd190237bd2095ddf3485": {
       "headline": "Apple ships iOS 27.0.1 — Face ID restart bug on iPhone 18 Pro gets the promised fix",
@@ -4419,7 +4432,7 @@
       "image_remote": "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?auto=format&fit=crop&w=1200&q=80",
       "id": "55fa76362a0546ce0cdbd190237bd2095ddf3485",
       "image_local": "images/story-337.jpg",
-      "order": 55
+      "order": 68
     },
     "e4f7a67d7162406ecbee99bdf2023afdb332d0c9": {
       "headline": "LaCivita: Trump will hit the campaign trail for 30 days to turn out midterm voters",
@@ -4430,7 +4443,7 @@
       "image_remote": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
       "id": "e4f7a67d7162406ecbee99bdf2023afdb332d0c9",
       "image_local": "images/story-338.jpg",
-      "order": 56
+      "order": 69
     },
     "90701ee424b0d6d28c0fc6242886185f1df43982": {
       "headline": "Starship Flight 14 splashes down near Hawaii after first orbit and Starlink V3 deploy",
@@ -4441,7 +4454,7 @@
       "image_remote": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=1200&q=80",
       "id": "90701ee424b0d6d28c0fc6242886185f1df43982",
       "image_local": "images/story-339.jpg",
-      "order": 57
+      "order": 70
     },
     "1cfc3a82f8d443bfe037f0f97788c82edfbb3ace": {
       "headline": "Jeep recalls 328,381 Grand Cherokees after rear coil springs can detach — letters ~Sept. 29",
@@ -4452,7 +4465,7 @@
       "image_remote": "https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?auto=format&fit=crop&w=1200&q=80",
       "id": "1cfc3a82f8d443bfe037f0f97788c82edfbb3ace",
       "image_local": "images/story-340.jpg",
-      "order": 58
+      "order": 71
     },
     "8cc60ecdf903ad52c6ef5f3d13693933d7fe54b1": {
       "headline": "Metallica and adidas drop Sphere ‘Life Burns Faster’ merch capsule ahead of Oct. 1 residency",
@@ -4463,7 +4476,7 @@
       "image_remote": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?auto=format&fit=crop&w=1200&q=80",
       "id": "8cc60ecdf903ad52c6ef5f3d13693933d7fe54b1",
       "image_local": "images/story-341.jpg",
-      "order": 59
+      "order": 72
     },
     "d6e8ba900ffe42073aab2dab76b0b29f5cb820ec": {
       "headline": "Insta360’s $298M memory-chip bill in six months now rivals GoPro’s entire cash sale price",
@@ -4474,7 +4487,7 @@
       "image_remote": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=1200&q=80",
       "id": "d6e8ba900ffe42073aab2dab76b0b29f5cb820ec",
       "image_local": "images/story-342.jpg",
-      "order": 60
+      "order": 73
     },
     "1d9ea7488cb0e9c7bb1075ae22692e178d78c35b": {
       "headline": "Westport: free flood cleanup and mold help for Sept. 13 storm homeowners",
@@ -4485,7 +4498,7 @@
       "image_remote": "https://images.unsplash.com/photo-1547683905-f686c993aae5?auto=format&fit=crop&w=1200&q=80",
       "id": "1d9ea7488cb0e9c7bb1075ae22692e178d78c35b",
       "image_local": "images/story-343.jpg",
-      "order": 61
+      "order": 74
     },
     "eb7faf9721538085f950e49f10d2dfdfba0b7406": {
       "headline": "Penguins open Wednesday at Flyers on NHL on TNT — Gretzky studio from Philadelphia",
@@ -4496,7 +4509,7 @@
       "image_remote": "https://images.unsplash.com/photo-1515703407324-5f753afd8be8?auto=format&fit=crop&w=1200&q=80",
       "id": "eb7faf9721538085f950e49f10d2dfdfba0b7406",
       "image_local": "images/story-344.jpg",
-      "order": 62
+      "order": 75
     },
     "738165abeda05d00242ca9436a385b2bbee04801": {
       "headline": "LEGO’s October wave lands Thursday: UCS Executor, Downton Abbey, PlayStation and GWPs",
@@ -4507,7 +4520,7 @@
       "image_remote": "https://images.unsplash.com/photo-1587654780291-39c9404d746b?auto=format&fit=crop&w=1200&q=80",
       "id": "738165abeda05d00242ca9436a385b2bbee04801",
       "image_local": "images/story-345.jpg",
-      "order": 63
+      "order": 76
     },
     "f775f479609c7152732d72916d0f2934b7d6427a": {
       "headline": "Trumbull Household Hazardous Waste Collection returns Saturday, Oct. 3 at Indian Ledge",
@@ -4519,7 +4532,7 @@
       "image_local": "images/story-346.jpg",
       "id": "f775f479609c7152732d72916d0f2934b7d6427a",
       "n": 1,
-      "order": 44
+      "order": 57
     },
     "99c06c6ac398930d3d6b9a6bf94c2109ce484b5c": {
       "headline": "Apple’s October slate: iPhone Duo, iOS 27.1/27.2, 512GB Mac Studio — and rumored iPad mini 8",
@@ -4531,7 +4544,7 @@
       "image_local": "images/story-347.jpg",
       "id": "99c06c6ac398930d3d6b9a6bf94c2109ce484b5c",
       "n": 2,
-      "order": 45
+      "order": 58
     },
     "10d87d018ef8cbcd3578946c541552e10301ea55": {
       "headline": "Trump airs taxpayer-funded ‘final battle’ TV ad ahead of Nov. 3 midterms",
@@ -4543,7 +4556,7 @@
       "image_local": "images/story-348.jpg",
       "id": "10d87d018ef8cbcd3578946c541552e10301ea55",
       "n": 3,
-      "order": 46
+      "order": 59
     },
     "c31f2c50456cc41466148f4ecf555cf91c99fa68": {
       "headline": "Penguins lock 22-man opening roster — five on IR ahead of Wednesday at Flyers",
@@ -4555,7 +4568,7 @@
       "image_local": "images/story-349.jpg",
       "id": "c31f2c50456cc41466148f4ecf555cf91c99fa68",
       "n": 4,
-      "order": 47
+      "order": 60
     },
     "8e7433f60dd821c4a7155fdb2e79936b908a3502": {
       "headline": "Jets’ Breece Hall week-to-week after MRI brings better-than-feared quad news",
@@ -4567,7 +4580,7 @@
       "image_local": "images/story-350.jpg",
       "id": "8e7433f60dd821c4a7155fdb2e79936b908a3502",
       "n": 5,
-      "order": 48
+      "order": 61
     },
     "56d325eb4fa6c1919139b2ce57eda39669d718df": {
       "headline": "Bose QuietComfort Ultra Headphones Gen 2 get Auracast and LE Audio in beta firmware",
@@ -4579,7 +4592,7 @@
       "image_local": "images/story-351.jpg",
       "id": "56d325eb4fa6c1919139b2ce57eda39669d718df",
       "n": 6,
-      "order": 49
+      "order": 62
     },
     "58dc2e36c15fdd4ca1657e04ba3de9a91211d266": {
       "headline": "Lenovo’s 15-inch Googlebook opens preorders at $1,149.99 — $150 under earlier hints",
@@ -4591,7 +4604,7 @@
       "image_local": "images/story-352.jpg",
       "id": "58dc2e36c15fdd4ca1657e04ba3de9a91211d266",
       "n": 7,
-      "order": 50
+      "order": 63
     },
     "9ee492ff4dbcb01f92a9ca62c40c76fe8f0c80aa": {
       "headline": "Every 2026 Harley Softail now ships with cornering ABS and a Milwaukee-Eight 117",
@@ -4603,7 +4616,7 @@
       "image_local": "images/story-353.jpg",
       "id": "9ee492ff4dbcb01f92a9ca62c40c76fe8f0c80aa",
       "n": 8,
-      "order": 51
+      "order": 64
     },
     "2589ec316965c66c2f3132216ba56da7be7cc18f": {
       "headline": "Great Smoky Mountains unseats Acadia as America’s top-ranked fall national park",
@@ -4615,7 +4628,7 @@
       "image_local": "images/story-354.jpg",
       "id": "2589ec316965c66c2f3132216ba56da7be7cc18f",
       "n": 9,
-      "order": 52
+      "order": 65
     },
     "bc5f81cf6744a8e7c62db06bace407f119e9dfc9": {
       "headline": "Anthrax drops Cursum Perficio — first full album in a decade — amid Maiden tour",
@@ -4627,7 +4640,7 @@
       "image_local": "images/story-355.jpg",
       "id": "bc5f81cf6744a8e7c62db06bace407f119e9dfc9",
       "n": 10,
-      "order": 53
+      "order": 66
     },
     "5b1c6d048c7b8049c50ad12b9d858caba4b84b6b": {
       "n": 1,
@@ -4639,7 +4652,7 @@
       "image_remote": "https://images.unsplash.com/photo-1580582932707-520aed937b7b?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-356.jpg",
       "id": "5b1c6d048c7b8049c50ad12b9d858caba4b84b6b",
-      "order": 34
+      "order": 47
     },
     "7990e184ba1e716bb908e0cd961128f87e05d578": {
       "n": 2,
@@ -4651,7 +4664,7 @@
       "image_remote": "https://images.unsplash.com/photo-1587654780291-39c9404d746b?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-357.jpg",
       "id": "7990e184ba1e716bb908e0cd961128f87e05d578",
-      "order": 35
+      "order": 48
     },
     "b40950e4b0561d082dec0e82babdc236e4d3f854": {
       "n": 3,
@@ -4663,7 +4676,7 @@
       "image_remote": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-358.jpg",
       "id": "b40950e4b0561d082dec0e82babdc236e4d3f854",
-      "order": 36
+      "order": 49
     },
     "e921116189fc41eab2aa130ae638f9db57f3d0c1": {
       "n": 4,
@@ -4675,7 +4688,7 @@
       "image_remote": "https://images.unsplash.com/photo-1515703407324-5f753afd8be8?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-359.jpg",
       "id": "e921116189fc41eab2aa130ae638f9db57f3d0c1",
-      "order": 37
+      "order": 50
     },
     "2cc2e8fb9d75cabd9a406733ad053824c0dff29f": {
       "n": 5,
@@ -4687,7 +4700,7 @@
       "image_remote": "https://images.unsplash.com/photo-1566577739112-5180d4bf9390?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-360.jpg",
       "id": "2cc2e8fb9d75cabd9a406733ad053824c0dff29f",
-      "order": 38
+      "order": 51
     },
     "d064bb0e7bc4cc8cd7b7f9332e054a8d66840439": {
       "n": 6,
@@ -4699,7 +4712,7 @@
       "image_remote": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-361.jpg",
       "id": "d064bb0e7bc4cc8cd7b7f9332e054a8d66840439",
-      "order": 39
+      "order": 52
     },
     "71fb752cf44efc38ca387ab7aecd8621015573a4": {
       "n": 7,
@@ -4711,7 +4724,7 @@
       "image_remote": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-362.jpg",
       "id": "71fb752cf44efc38ca387ab7aecd8621015573a4",
-      "order": 40
+      "order": 53
     },
     "6efa9ff647e8a9a5907f4e4625da964f20834f2d": {
       "n": 8,
@@ -4723,7 +4736,7 @@
       "image_remote": "https://images.unsplash.com/photo-1434493789847-2f02dc6ca35d?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-363.jpg",
       "id": "6efa9ff647e8a9a5907f4e4625da964f20834f2d",
-      "order": 41
+      "order": 54
     },
     "c477a10ff9a869fcf115c19540a555fb535c4023": {
       "n": 9,
@@ -4735,7 +4748,7 @@
       "image_remote": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-364.jpg",
       "id": "c477a10ff9a869fcf115c19540a555fb535c4023",
-      "order": 42
+      "order": 55
     },
     "64d05223dda34afe510ac1ac693aac2f7e7ddbe0": {
       "n": 10,
@@ -4747,7 +4760,7 @@
       "image_remote": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-365.jpg",
       "id": "64d05223dda34afe510ac1ac693aac2f7e7ddbe0",
-      "order": 43
+      "order": 56
     },
     "c77c77052f1a20fd8b986e5bedadfca7a27408c1": {
       "n": 1,
@@ -4759,7 +4772,7 @@
       "image_remote": "https://images.unsplash.com/photo-1571175443880-49e1d25b2bc5?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-366.jpg",
       "id": "c77c77052f1a20fd8b986e5bedadfca7a27408c1",
-      "order": 24
+      "order": 37
     },
     "c0a1b465934a2be9174ddf54e5c149051622db99": {
       "n": 2,
@@ -4771,7 +4784,7 @@
       "image_remote": "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-367.jpg",
       "id": "c0a1b465934a2be9174ddf54e5c149051622db99",
-      "order": 25
+      "order": 38
     },
     "6c680f1b99d32c9a54c154a4ba0f577326bdff73": {
       "n": 3,
@@ -4783,7 +4796,7 @@
       "image_remote": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-368.jpg",
       "id": "6c680f1b99d32c9a54c154a4ba0f577326bdff73",
-      "order": 26
+      "order": 39
     },
     "078b34392fad60f26f12dd5a6ffb600d99826b82": {
       "n": 4,
@@ -4795,7 +4808,7 @@
       "image_remote": "https://images.unsplash.com/photo-1515703407324-5f753afd8be8?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-369.jpg",
       "id": "078b34392fad60f26f12dd5a6ffb600d99826b82",
-      "order": 27
+      "order": 40
     },
     "1045bfde4478f71e0e4290a8393d8ea22cf18046": {
       "n": 5,
@@ -4807,7 +4820,7 @@
       "image_remote": "https://images.unsplash.com/photo-1566577739112-5180d4bf9390?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-370.jpg",
       "id": "1045bfde4478f71e0e4290a8393d8ea22cf18046",
-      "order": 28
+      "order": 41
     },
     "a2f161f271b0de17fb61cf94cfb42dd513be659c": {
       "n": 6,
@@ -4819,7 +4832,7 @@
       "image_remote": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-371.jpg",
       "id": "a2f161f271b0de17fb61cf94cfb42dd513be659c",
-      "order": 29
+      "order": 42
     },
     "34d1cf399da52dfc941a21f109cd08a7687dfe44": {
       "n": 7,
@@ -4831,7 +4844,7 @@
       "image_remote": "https://images.unsplash.com/photo-1563986768609-322da13575f3?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-372.jpg",
       "id": "34d1cf399da52dfc941a21f109cd08a7687dfe44",
-      "order": 30
+      "order": 43
     },
     "c59b4c957d8335c910b3c326765c298d51df912f": {
       "n": 8,
@@ -4843,7 +4856,7 @@
       "image_remote": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-373.jpg",
       "id": "c59b4c957d8335c910b3c326765c298d51df912f",
-      "order": 31
+      "order": 44
     },
     "af2072d7de8468dc61a2e1c8de4dd7cccbc6ae62": {
       "n": 9,
@@ -4855,7 +4868,7 @@
       "image_remote": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-374.jpg",
       "id": "af2072d7de8468dc61a2e1c8de4dd7cccbc6ae62",
-      "order": 32
+      "order": 45
     },
     "8467bcb8daa7923e2b79a8422bae19750c832e9c": {
       "n": 10,
@@ -4867,7 +4880,7 @@
       "image_remote": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-375.jpg",
       "id": "8467bcb8daa7923e2b79a8422bae19750c832e9c",
-      "order": 33
+      "order": 46
     },
     "df61c91e7ff84cbc3235500381cf2e052be161bf": {
       "n": 1,
@@ -4879,7 +4892,7 @@
       "image_remote": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-376.jpg",
       "id": "df61c91e7ff84cbc3235500381cf2e052be161bf",
-      "order": 14
+      "order": 27
     },
     "07d7ab6ee56916384287d096cece20e35dbfe507": {
       "n": 2,
@@ -4891,7 +4904,7 @@
       "image_remote": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-377.jpg",
       "id": "07d7ab6ee56916384287d096cece20e35dbfe507",
-      "order": 15
+      "order": 28
     },
     "860811d981c98d8b650b5404fbde4981e9f78a47": {
       "n": 3,
@@ -4903,7 +4916,7 @@
       "image_remote": "https://images.unsplash.com/photo-1558060370-d644479cb6f7?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-378.jpg",
       "id": "860811d981c98d8b650b5404fbde4981e9f78a47",
-      "order": 16
+      "order": 29
     },
     "c672495346719d9abaf140b694720cfa4d5424e1": {
       "n": 4,
@@ -4915,7 +4928,7 @@
       "image_remote": "https://images.unsplash.com/photo-1515703407324-5f753afd8be8?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-379.jpg",
       "id": "c672495346719d9abaf140b694720cfa4d5424e1",
-      "order": 17
+      "order": 30
     },
     "ee90a2c4a1ecdc4a12c1e10a9cb3fea18b36cb99": {
       "n": 5,
@@ -4927,7 +4940,7 @@
       "image_remote": "https://images.unsplash.com/photo-1566577739112-5180d4bf9390?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-380.jpg",
       "id": "ee90a2c4a1ecdc4a12c1e10a9cb3fea18b36cb99",
-      "order": 18
+      "order": 31
     },
     "f6c8d3df2976f63d055c035bd6be55300008a2c5": {
       "n": 6,
@@ -4939,7 +4952,7 @@
       "image_remote": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-381.jpg",
       "id": "f6c8d3df2976f63d055c035bd6be55300008a2c5",
-      "order": 19
+      "order": 32
     },
     "98d61246b39e599c884e088f19a4248a277fac27": {
       "n": 7,
@@ -4951,7 +4964,7 @@
       "image_remote": "https://images.unsplash.com/photo-1572635196237-14b3f281503f?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-382.jpg",
       "id": "98d61246b39e599c884e088f19a4248a277fac27",
-      "order": 20
+      "order": 33
     },
     "6ce797f897224a175a7af27c7ca7b9c97ad72f76": {
       "n": 8,
@@ -4963,7 +4976,7 @@
       "image_remote": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-383.jpg",
       "id": "6ce797f897224a175a7af27c7ca7b9c97ad72f76",
-      "order": 21
+      "order": 34
     },
     "be247d648e8cdad865ecddcaa46e2df3a275dfe2": {
       "n": 9,
@@ -4975,7 +4988,7 @@
       "image_remote": "https://images.unsplash.com/photo-1507371341162-763b5e419408?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-384.jpg",
       "id": "be247d648e8cdad865ecddcaa46e2df3a275dfe2",
-      "order": 22
+      "order": 35
     },
     "47d2592bba01ae3e51de6c5bf073312563dbd54a": {
       "n": 10,
@@ -4987,7 +5000,7 @@
       "image_remote": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-385.jpg",
       "id": "47d2592bba01ae3e51de6c5bf073312563dbd54a",
-      "order": 23
+      "order": 36
     },
     "a0ba7e76c5c0410c9dba8d81ec77a300ab41bb73": {
       "n": 1,
@@ -4999,7 +5012,7 @@
       "image_remote": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-386.jpg",
       "id": "a0ba7e76c5c0410c9dba8d81ec77a300ab41bb73",
-      "order": 0
+      "order": 13
     },
     "143111e456f458da7913f737771dc4c77e8d37ad": {
       "n": 2,
@@ -5011,7 +5024,7 @@
       "image_remote": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-387.jpg",
       "id": "143111e456f458da7913f737771dc4c77e8d37ad",
-      "order": 1
+      "order": 14
     },
     "18013a78f0349a8bca6fe4c97c37a8e3c93f7a51": {
       "n": 3,
@@ -5023,7 +5036,7 @@
       "image_remote": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-388.jpg",
       "id": "18013a78f0349a8bca6fe4c97c37a8e3c93f7a51",
-      "order": 2
+      "order": 15
     },
     "86c01aa548e7fbc5f635c80d56b33552eee8bdee": {
       "n": 4,
@@ -5035,7 +5048,7 @@
       "image_remote": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-389.jpg",
       "id": "86c01aa548e7fbc5f635c80d56b33552eee8bdee",
-      "order": 3
+      "order": 16
     },
     "c7f2d519fcce606a50ae460bc8687674688a4c97": {
       "n": 5,
@@ -5047,7 +5060,7 @@
       "image_remote": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-390.jpg",
       "id": "c7f2d519fcce606a50ae460bc8687674688a4c97",
-      "order": 4
+      "order": 17
     },
     "beb77845d468dcdaad2eba5bdefb968001de5423": {
       "n": 6,
@@ -5059,7 +5072,7 @@
       "image_remote": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-391.jpg",
       "id": "beb77845d468dcdaad2eba5bdefb968001de5423",
-      "order": 5
+      "order": 18
     },
     "e9803735de39311e8fcac3286c992e71cecb89a2": {
       "n": 7,
@@ -5071,7 +5084,7 @@
       "image_remote": "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-392.jpg",
       "id": "e9803735de39311e8fcac3286c992e71cecb89a2",
-      "order": 6
+      "order": 19
     },
     "5fe164408a45ce98cf79ab4562d9d147345abe61": {
       "n": 8,
@@ -5083,7 +5096,7 @@
       "image_remote": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-393.jpg",
       "id": "5fe164408a45ce98cf79ab4562d9d147345abe61",
-      "order": 7
+      "order": 20
     },
     "ddb40ae36228060948fe0ed0cc8c511f7cc8ba84": {
       "n": 9,
@@ -5095,7 +5108,7 @@
       "image_remote": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-394.jpg",
       "id": "ddb40ae36228060948fe0ed0cc8c511f7cc8ba84",
-      "order": 8
+      "order": 21
     },
     "7c8e6db16e09e14f861d50e96a7e65830e0feeef": {
       "n": 10,
@@ -5107,7 +5120,7 @@
       "image_remote": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-395.jpg",
       "id": "7c8e6db16e09e14f861d50e96a7e65830e0feeef",
-      "order": 9
+      "order": 22
     },
     "8736b3b24007f0ea613b1cb4f75e468ad8671fe3": {
       "n": 11,
@@ -5119,7 +5132,7 @@
       "image_remote": "https://images.unsplash.com/photo-1566577739112-5180d4bf9390?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-396.jpg",
       "id": "8736b3b24007f0ea613b1cb4f75e468ad8671fe3",
-      "order": 10
+      "order": 23
     },
     "2481e817d67b9f77522ae265dd02984ea790d39e": {
       "n": 12,
@@ -5131,7 +5144,7 @@
       "image_remote": "https://images.unsplash.com/photo-1515703407324-5f753afd8be8?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-397.jpg",
       "id": "2481e817d67b9f77522ae265dd02984ea790d39e",
-      "order": 11
+      "order": 24
     },
     "b0e5903b833df15493639ebd21cc08abc96fd8e5": {
       "n": 13,
@@ -5143,7 +5156,7 @@
       "image_remote": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-398.jpg",
       "id": "b0e5903b833df15493639ebd21cc08abc96fd8e5",
-      "order": 12
+      "order": 25
     },
     "972b1aa07db270951c6cab89e6994e8f8beec22c": {
       "n": 14,
@@ -5155,8 +5168,164 @@
       "image_remote": "https://images.unsplash.com/photo-1558060370-d644479cb6f7?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-399.jpg",
       "id": "972b1aa07db270951c6cab89e6994e8f8beec22c",
-      "order": 13
+      "order": 26
+    },
+    "529e27a0e2b216c18873f0831eb41b91d440dd63": {
+      "n": 1,
+      "headline": "Trump and AI chiefs sign ‘morally binding’ super-intelligence safety accord",
+      "cat": "Politics / MAGA",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/trump-ai-constitution-tech-execs-openai-anthropic-voluntary-controls/",
+      "summary": "After a White House lunch with Elon Musk, Mark Zuckerberg, Dario Amodei, Jensen Huang, Greg Brockman, Sundar Pichai and others, President Trump said the group signed a voluntary “super intelligence” accord he called “almost like a constitution” and “morally binding.” Speaker Mike Johnson cast it as a joint commitment to robust internal controls; the one-page text Trump posted commits firms to four layers of audits plus regular safety talks, and Trump said he will name an AI czar within days. Critics such as Sen. Mark Warner still want Congress to mandate testing rather than industry self-policing.",
+      "image_remote": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-400.jpg",
+      "id": "529e27a0e2b216c18873f0831eb41b91d440dd63",
+      "order": 0
+    },
+    "d1f5e994eebe3d275b16c7310446bd7604bd85f9": {
+      "n": 2,
+      "headline": "Trump to tout manufacturing boom at surprise Peterbilt stop in Denton, Texas",
+      "cat": "Politics / MAGA",
+      "source": "Fox Business",
+      "url": "https://www.foxbusiness.com/politics/trump-make-surprise-stop-texas-truck-factory-tout-manufacturing",
+      "summary": "FOX Business reports President Trump will make a surprise Thursday stop at Peterbilt’s Denton, Texas factory to sell tariffs, deregulation, and an America First manufacturing pitch ahead of the midterms. The White House credits heavy-truck tariffs with Paccar adding more than 1,000 Denton jobs and 2,000 U.S. jobs; UAW’s Shawn Fain congratulated Trump for delivering for heavy-truck workers. Trump argues pledged investment will reverse manufacturing losses even as BLS still shows a net manufacturing job decline since January 2025.",
+      "image_remote": "https://images.unsplash.com/photo-1581092918056-0c4c3acd3789?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-401.jpg",
+      "id": "d1f5e994eebe3d275b16c7310446bd7604bd85f9",
+      "order": 1
+    },
+    "60c0d0080f736db6ec2269d894b9d721bea9ef85": {
+      "n": 3,
+      "headline": "Supreme Court lets Trump keep third-country deportations running for now",
+      "cat": "Immigration",
+      "source": "PBS News / AP",
+      "url": "https://www.pbs.org/newshour/politics/supreme-court-lets-trump-continue-deporting-people-to-3rd-countries-while-justices-consider-policy",
+      "summary": "The Supreme Court on Tuesday allowed the Trump administration to keep deporting people to countries other than their own while it weighs whether migrants must get a meaningful chance to object first. The order pauses an appeals-court block that federal lawyers said had already forced cancellation of a flight carrying about 70 people; justices previously let such flights continue last year. Under often-secret deals, the administration says it has sent some 25,000 people to more than two dozen countries — most to Mexico — when home countries will not take them back.",
+      "image_remote": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-402.jpg",
+      "id": "60c0d0080f736db6ec2269d894b9d721bea9ef85",
+      "order": 2
+    },
+    "98fd308a3a5160654222d799c9d3a62e2c058d7b": {
+      "n": 4,
+      "headline": "DOJ charges Venezuelan illegal alien shot by ICE after Austin chase",
+      "cat": "Immigration",
+      "source": "U.S. Department of Justice",
+      "url": "https://www.justice.gov/opa/pr/illegal-alien-venezuela-charged-assaulting-and-resisting-federal-officer-austin",
+      "summary": "U.S. Attorney Justin Simmons announced that Wilber Rafael Garces-Perez, 28, a Venezuelan illegal alien under a final removal order, made his initial federal appearance Tuesday on one count of assaulting and resisting a federal officer — facing up to 20 years if convicted. The complaint says he ignored park-and-exit orders during a Sept. 20 ICE traffic stop, struck an officer with his side-view mirror while fleeing, led a high-speed chase, then allegedly tried to hit an officer again, prompting the shooting. A detention hearing is set for Oct. 2 under Operation Take Back America.",
+      "image_remote": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-403.jpg",
+      "id": "98fd308a3a5160654222d799c9d3a62e2c058d7b",
+      "order": 3
+    },
+    "01f67d43f534c818755714d20fdb343558e46b98": {
+      "n": 5,
+      "headline": "Jewish groups say Mamdani’s antisemitism plan ducks anti-Israel rhetoric",
+      "cat": "Culture / NYC",
+      "source": "Jewish Telegraphic Agency",
+      "url": "https://www.jta.org/2026/09/29/ny/mamdanis-office-unveils-plan-to-combat-antisemitism",
+      "summary": "Mayor Zohran Mamdani’s long-awaited antisemitism strategy pledges $1M for synagogue security and $6.4M for Partners Against the Hate grants, plus Holocaust education and Jewish culture spending — but major Jewish groups including UJA-Federation, AJC NY, and the NY Board of Rabbis say it fails to confront anti-Israel rhetoric they argue fuels attacks. The plan refuses a single antisemitism definition after Mamdani revoked Adams’ IHRA order; ADL and Rabbi Rick Jacobs called that omission serious while Bend the Arc and Brad Lander praised the funding track.",
+      "image_remote": "https://images.unsplash.com/photo-1496442226666-8d4d0e62e6e9?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-404.jpg",
+      "id": "01f67d43f534c818755714d20fdb343558e46b98",
+      "order": 4
+    },
+    "d04accb88b5451be79e133656265198c7543dcc5": {
+      "n": 6,
+      "headline": "Trumbull volleyball stays perfect 4–0 with 3–0 sweep of Ridgefield",
+      "cat": "Local / Trumbull CT",
+      "source": "MaxPreps",
+      "url": "https://www.maxpreps.com/news/o0F5pSxqIESRyg6lxbFIlw/volleyball-recap-trumbulls-dominance-over-ridgefield-continues--how-to-watch.htm",
+      "summary": "Trumbull’s volleyball Eagles kept an undefeated season alive Monday with a decisive 3–0 win at Ridgefield (25-12, 25-19, 25-7), extending their streak over the Tigers to six straight and lifting Trumbull to 4–0. Ridgefield fell to 2–5 and has now lost seven straight at home dating to last season. Trumbull hits the road again Wednesday at Stamford at 4 p.m.; the full match is available on the NFHS Network.",
+      "image_remote": "https://images.unsplash.com/photo-1612872087720-bb876e2e67d1?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-405.jpg",
+      "id": "d04accb88b5451be79e133656265198c7543dcc5",
+      "order": 5
+    },
+    "4d310a5fd27f4eed382a6a21ed1971c80b6792ec": {
+      "n": 7,
+      "headline": "Falcon Rep brings Mamet’s A Life in the Theatre to Trumbull Library Oct. 15–17",
+      "cat": "Local / Trumbull CT",
+      "source": "BroadwayWorld",
+      "url": "https://www.broadwayworld.com/connecticut/article/Previews-A-LIFE-IN-THE-THEATRE-at-Trumbull-Library-Community-Room-20260927",
+      "summary": "Trumbull-founded Falcon Repertory Company will stage a free concert reading of David Mamet’s A Life in the Theatre at the Trumbull Library Community Room on Thursday, Oct. 15 at 6 p.m. and Saturday, Oct. 17 at 2 p.m. Frank S. Petrilli directs Equity actors Raymond Gerard Michaud and Jeffrey F. Wright in the bittersweet two-hander about a veteran and a rookie backstage — a show the trio has already done in New Canaan and at Trumbull’s Pinebrook Theater. Admission is free; suggested for adults at 33 Quality Street.",
+      "image_remote": "https://images.unsplash.com/photo-1503095396549-807759245b35?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-406.jpg",
+      "id": "4d310a5fd27f4eed382a6a21ed1971c80b6792ec",
+      "order": 6
+    },
+    "491ac536b8728b2c0d5471d0e85b99d74b8a3669": {
+      "n": 8,
+      "headline": "iPhone Duo ‘Get Ready’ opens Oct. 12 ahead of scarce Oct. 16 pre-orders",
+      "cat": "Apple gear",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/09/29/iphone-duo-get-ready-oct-12/",
+      "summary": "Apple’s iPhone Duo product page now shows a Get Ready window starting Monday, Oct. 12 — letting buyers lock color, capacity, carrier, AppleCare+, trade-in, payment, and shipping so pre-orders can fire with one tap when they open Friday, Oct. 16 at 8 a.m. ET. With yields stuck near 60% and early stock expected to be tight, MacRumors notes Get Ready could matter more than usual before the $1,999 foldable launches Oct. 23.",
+      "image_remote": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-407.jpg",
+      "id": "491ac536b8728b2c0d5471d0e85b99d74b8a3669",
+      "order": 7
+    },
+    "e2713ff61dd45712069b9920dff88fea867c6eb8": {
+      "n": 9,
+      "headline": "Amazon expands first Ultra 4 cash discounts — select models at $779.99",
+      "cat": "Apple gear",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/09/29/amazon-779-99-apple-watch-ultra-4/",
+      "summary": "Amazon widened its first cash discounts on brand-new Apple Watch Ultra 4 to three configs at $779.99 — $19 off the $799 list — including Natural Sand Trail Loop (M/L), Black Ocean Band, and Black Burgundy Trail Loop (M/L). Series 12 GPS also sees light $9 markdowns (42mm $389.99 / 46mm $439.99). Useful for readers who want new-gen Ultra toughness without waiting for deeper clearance.",
+      "image_remote": "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-408.jpg",
+      "id": "e2713ff61dd45712069b9920dff88fea867c6eb8",
+      "order": 8
+    },
+    "4ee9f296534caae9371b7bc9cc9a13b1c5791981": {
+      "n": 10,
+      "headline": "Tesla doubles Austin Cybercab Robotaxi fleet to about 125 units",
+      "cat": "Elon Musk / Tesla",
+      "source": "Teslarati",
+      "url": "https://www.teslarati.com/tesla-cybercab-fleet-doubles-well-over-100-units/",
+      "summary": "Tesla’s Robotaxi app notified Austin riders that the Cybercab fleet has doubled, with Teslarati tracking availability from about 58 units early last week to roughly 125 by Friday — expanding the steering-wheel-less, pedal-less two-seater inside the year-old Robotaxi service. Cybercab rides began in early September in Austin only, with wait times previously high; the jump is a confidence signal on FSD handling unsupervised rides even as NHTSA still presses for sworn Cybercab certification answers.",
+      "image_remote": "https://images.unsplash.com/photo-1560958089-b8a1929cea89?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-409.jpg",
+      "id": "4ee9f296534caae9371b7bc9cc9a13b1c5791981",
+      "order": 9
+    },
+    "2755e72e4e39234584cc30e6372432c13f897bf0": {
+      "n": 11,
+      "headline": "Jets open as 3-point underdogs at Bears after back-to-back heartbreakers",
+      "cat": "Jets football",
+      "source": "Gang Green Nation",
+      "url": "https://www.ganggreennation.com/new-york-jets-odds/96987/jets-vs-bears-odds-week-4-opening-lines-point-spread-total",
+      "summary": "After a second straight devastating loss — Geno Smith strip-sacked by ex-Jet Chuck Clark inside the Lions’ 30 with the game tied late — the 1–2 Jets open as 3-point road underdogs at Chicago (+138 ML, 43.5 O/U on FanDuel). Chicago is also 1–2 and may still be without Caleb Williams after Tyson Bagent managed just three points vs. Minnesota; if Williams sits, Gang Green Nation argues the Jets’ path back to .500 gets clearer.",
+      "image_remote": "https://images.unsplash.com/photo-1566577739112-5180d4bf9390?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-410.jpg",
+      "id": "2755e72e4e39234584cc30e6372432c13f897bf0",
+      "order": 10
+    },
+    "fe7209124007f3db3337c1e515c119cc0da026b8": {
+      "n": 12,
+      "headline": "LEGO officially reveals first Dragon Ball set: Shenron & Kid Goku for $180",
+      "cat": "LEGO",
+      "source": "Polygon",
+      "url": "https://www.polygon.com/lego-dragon-ball-shenron-set-release-date-price-first-photos/",
+      "summary": "LEGO and Toei Animation officially unveiled Icons set 11390 Dragon Ball: Shenron & Goku — 1,764 pieces, Kid Goku minifigure, Dragon Balls diorama, standing over 12 inches — with Insiders early access Nov. 1 and general release Nov. 4 at $179.99. LEGO’s Federico Begher called it the start of a multi-year Dragon Ball partnership with more sets due in 2027, moving the earlier leak into confirmed shelf reality for adult builders.",
+      "image_remote": "https://images.unsplash.com/photo-1558060370-d644479cb6f7?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-411.jpg",
+      "id": "fe7209124007f3db3337c1e515c119cc0da026b8",
+      "order": 11
+    },
+    "b463b09d6639327ba9a9d44824d295fa18ece141": {
+      "n": 13,
+      "headline": "Ohio Supreme Court: no plain error skipping transferred self-defense instruction",
+      "cat": "Crime / courts",
+      "source": "Court News Ohio",
+      "url": "https://www.courtnewsohio.gov/cases/2026/SCO/0929/241715.asp",
+      "summary": "In a 6–1 ruling, the Supreme Court of Ohio upheld Timothy Bradley’s convictions for shooting into neighboring homes even though a jury acquitted him of felonious assault on a self-defense claim after he fired at contractor Zachary Burch. Justice Deters wrote that Bradley never requested a transferred-self-defense instruction, Ohio has never adopted that doctrine, and counsel already told jurors self-defense applied to all counts — so omitting a sua sponte transfer charge was not plain error. Justice Brunner dissented, saying the habitation statute’s “without privilege” element needed an explicit self-defense privilege explanation.",
+      "image_remote": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-412.jpg",
+      "id": "b463b09d6639327ba9a9d44824d295fa18ece141",
+      "order": 12
     }
   },
-  "updated": "Tuesday, September 29, 2026 · 4:15 PM ET"
+  "updated": "Tuesday, September 29, 2026 · 6:15 PM ET"
 }
