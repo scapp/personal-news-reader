@@ -429,7 +429,19 @@
     "a6a1c769ad206ea8ac84b34fb98b2510edb4b290",
     "4e351a7cffe6a1e21731c0937be201caca32a36d",
     "e2a63fc3fdc76961a27aa83ac6bc7410bf80a3b1",
-    "f0c3da000241fb7c903f09cc74344aa1cad96961"
+    "f0c3da000241fb7c903f09cc74344aa1cad96961",
+    "fc3ac5840696aa7b38832c2b2460e39570cc2ac8",
+    "c7565b9e9a7d5bc66e6713e3e43c48ecd9521b75",
+    "e6ba8b39368c1b59def4f7819ac4b47033e35c8c",
+    "48307a7e978bed570446099ae83ea4767ce32291",
+    "a84f917611ed97cf72154a1de4628315203ff0fe",
+    "4e4e540bcc7b698dbf96e8470f27f7d906934f46",
+    "25b30e990deb7ac3181895d9b72de7fbfbaf32f0",
+    "7b48ff7e0aa276980efc856a99a269f81851d233",
+    "dba6bf61e95280a6d1b23e1661aa3fd3ac5b0f6c",
+    "3384a8a683d703cbf4f4187413c9f1bd8b156dc9",
+    "67e3646a2da4ac8d1c3746f45b3f2ae61a4781df",
+    "4f64eec9faf5238d33bd42347868caaf84201807"
   ],
   "stories": {
     "0c2ac7a5e342411678296315c4c59043b1f067cc": {
@@ -5494,7 +5506,151 @@
       "image_local": "images/story-425.jpg",
       "id": "8209a93d68b5d97b242f2d7c4660400dfe6ba51d",
       "order": 9
+    },
+    "fc3ac5840696aa7b38832c2b2460e39570cc2ac8": {
+      "n": 1,
+      "headline": "Trumbull First Selectman Tesoro to address business community Oct. 1 at Tashua Knolls",
+      "cat": "Local / Trumbull CT",
+      "source": "Patch Trumbull",
+      "url": "https://patch.com/connecticut/trumbull/trumbull-first-selectman-deliver-address-business-community-week",
+      "summary": "First Selectman Vicki Tesoro is scheduled to deliver her annual Address to the Business Community on Thursday morning, Oct. 1, at Tashua Knolls Golf Club. The Trumbull Chamber of Commerce hosts the gathering with the Bridgeport Regional Business Council, offering a chance to hear town priorities and network with local and regional business leaders. Patch reported the details Tuesday evening from the town calendar.",
+      "image_remote": "https://images.unsplash.com/photo-1511578314322-379afb476865?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-426.jpg",
+      "id": "fc3ac5840696aa7b38832c2b2460e39570cc2ac8",
+      "order": 430
+    },
+    "c7565b9e9a7d5bc66e6713e3e43c48ecd9521b75": {
+      "n": 2,
+      "headline": "Trump calls Kim Jong Un a ‘friend’ and plays down North Korea’s nuclear arsenal",
+      "cat": "Politics / MAGA",
+      "source": "Al Jazeera / Reuters",
+      "url": "https://www.aljazeera.com/news/2026/9/30/trump-calls-kim-jong-un-a-friend-and-plays-down-n-koreas-nuclear-arsenal",
+      "summary": "Asked why North Korea can keep nuclear weapons while Iran cannot, Trump said Kim Jong Un “happens to be a friend of mine” and that “as long as I’m around, he’s going to be fine.” He described Pyongyang’s arsenal as “pretty large” but “not like us,” contrasting it with his hard line on Iran. South Korea’s defense minister recently estimated 80–120 North Korean warheads; Trump has floated year-end talks though Pyongyang has not committed.",
+      "image_remote": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-427.jpg",
+      "id": "c7565b9e9a7d5bc66e6713e3e43c48ecd9521b75",
+      "order": 431
+    },
+    "e6ba8b39368c1b59def4f7819ac4b47033e35c8c": {
+      "n": 3,
+      "headline": "ICE’s Operation Safe Community nets 104 arrests in southwest Kansas; U.S. attorney cites criminal aliens",
+      "cat": "Immigration",
+      "source": "KCTV5 / KWCH",
+      "url": "https://www.kctv5.com/2026/09/29/feds-104-arrested-during-ice-enforcement-push-southwest-kansas/",
+      "summary": "The U.S. Attorney’s Office for Kansas said Tuesday that a three-day “Operation Safe Community” arrested 104 people in southwest and central Kansas, focusing on noncitizens with prior convictions including homicide, rape, and aggravated assault. U.S. Attorney Ryan Kriegshauser rejected claims of indiscriminate racial sweeps and named several high-priority targets. Sens. Moran and Marshall said they had pressed the White House over local agencies not being notified beforehand.",
+      "image_remote": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-428.jpg",
+      "id": "e6ba8b39368c1b59def4f7819ac4b47033e35c8c",
+      "order": 432
+    },
+    "48307a7e978bed570446099ae83ea4767ce32291": {
+      "n": 4,
+      "headline": "Charlie Kirk’s mother: family is ‘100% behind’ Erika amid online conspiracy pile-on",
+      "cat": "Charlie Kirk",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/us/charlie-kirks-mother-has-emotional-response-erika-kirk-speculation-rare-interview",
+      "summary": "In a rare Vanity Fair interview excerpted by Fox, Kathryn Kirk rejected claims of a family rift with widow Erika Kirk, saying trauma has brought them closer and that Charlie would be upset by online attacks on his wife. She said the parents are “100% behind her” as Turning Point USA CEO and pushed back on will and succession conspiracies. TPUSA praised Kathryn’s defense and said Erika saw the profile as a chance to tell her own story.",
+      "image_remote": "https://images.unsplash.com/photo-1494178270175-e96de2971df9?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-429.jpg",
+      "id": "48307a7e978bed570446099ae83ea4767ce32291",
+      "order": 433
+    },
+    "a84f917611ed97cf72154a1de4628315203ff0fe": {
+      "n": 5,
+      "headline": "Crosby, Malkin, and Letang open a record 21st season together vs. Flyers",
+      "cat": "Penguins hockey",
+      "source": "NHL.com",
+      "url": "https://www.nhl.com/news/sidney-crosby-evgeni-malkin-kris-letang-begin-21st-season-together-with-pittsburgh-penguins",
+      "summary": "Sidney Crosby, Evgeni Malkin, and Kris Letang tip off their unprecedented 21st season as teammates Wednesday night in Philadelphia, extending the longest-tenured trio in major North American pro sports. Crosby enters the final year of his deal; Letang is signed through 2027-28; Malkin, on a one-year pact, says he will only continue if he can still help win. GM Kyle Dubas called the three-Cup core “something that shouldn’t be taken for granted.”",
+      "image_remote": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-430.jpg",
+      "id": "a84f917611ed97cf72154a1de4628315203ff0fe",
+      "order": 434
+    },
+    "4e4e540bcc7b698dbf96e8470f27f7d906934f46": {
+      "n": 6,
+      "headline": "Jets sign kicker Jason Sanders to active roster; waive Blake Grupe and Jordan Clark",
+      "cat": "Jets football",
+      "source": "New York Jets",
+      "url": "https://www.newyorkjets.com/news/jets-sign-kicker-jason-sanders-to-active-roster-09-29-2026",
+      "summary": "The Jets elevated practice-squad kicker Jason Sanders to the active roster Tuesday and waived Blake Grupe and cornerback Jordan Clark, also adding offensive linemen Nick Dawkins and Jimmy Morrissey to the practice squad. Sanders leads the team with 20 points and is 5-of-6 on field goals through three games, including makes from 52 and 51 yards. The former Dolphin ranks third in Miami franchise scoring history.",
+      "image_remote": "https://images.unsplash.com/photo-1566577739112-5180d4bf9390?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-431.jpg",
+      "id": "4e4e540bcc7b698dbf96e8470f27f7d906934f46",
+      "order": 435
+    },
+    "25b30e990deb7ac3181895d9b72de7fbfbaf32f0": {
+      "n": 7,
+      "headline": "Tesla wins SEC nod for retail auto-vote program that follows the board — ahead of any SpaceX deal vote",
+      "cat": "Elon Musk / Tesla",
+      "source": "Electrek",
+      "url": "https://electrek.co/2026/09/29/tesla-sec-retail-auto-vote-board-spacex-merger/",
+      "summary": "The SEC granted Tesla no-action relief for an “Issuer Voluntary Retail Voting Program” that lets retail holders opt into standing instructions that cast their votes with the board’s recommendations. Electrek notes the timing: Tesla still has not scheduled its 2026 annual meeting while Musk keeps floating a SpaceX combination that could accelerate pay-package vesting on market-cap alone. Participants can override or opt out, but the default path is board-aligned.",
+      "image_remote": "https://images.unsplash.com/photo-1560958089-b8a1929cea89?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-432.jpg",
+      "id": "25b30e990deb7ac3181895d9b72de7fbfbaf32f0",
+      "order": 436
+    },
+    "7b48ff7e0aa276980efc856a99a269f81851d233": {
+      "n": 8,
+      "headline": "Fifth Circuit strikes federal ban on direct interstate handgun purchases as unconstitutional",
+      "cat": "Crime / Courts",
+      "source": "Firearms News",
+      "url": "https://www.firearmsnews.com/editorial/interstate-handgun-sale-restrictions-unconstitutional/560434",
+      "summary": "In Elite Precision Customs v. ATF, a Fifth Circuit panel held that federal statutes forcing out-of-state handgun buyers to ship guns to a home-state dealer lack a Founding-era historical tradition under Bruen and therefore violate the Second Amendment. Background checks remain; the ruling covers Texas, Louisiana, and Mississippi for now. The court stressed that the right to keep arms logically includes the right to purchase them without an extra transfer fee tax on the right.",
+      "image_remote": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-433.jpg",
+      "id": "7b48ff7e0aa276980efc856a99a269f81851d233",
+      "order": 437
+    },
+    "dba6bf61e95280a6d1b23e1661aa3fd3ac5b0f6c": {
+      "n": 9,
+      "headline": "Jeep Recon Moab arrives: 670-hp electric trail rig with removable doors, 222-mile range",
+      "cat": "Jeep",
+      "source": "Off-Road.com",
+      "url": "https://www.off-road.com/blog/jeep-recon-moab-670-hp-electric-trail-rig-arrives/",
+      "summary": "Jeep’s Recon Moab electric off-roader is headed to dealers from $65,000 before destination, pairing twin motors (670 hp / 620 lb-ft) with five trail modes and no low-range transfer case. Specs include 9.1 inches of ground clearance, 33-inch tires, 24-inch water fording, and removable doors with optional folding fabric roof. The tradeoff is a 100.5-kWh pack rated about 222 miles — shorter than Rivian or Tesla rivals but built around trail hardware.",
+      "image_remote": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-434.jpg",
+      "id": "dba6bf61e95280a6d1b23e1661aa3fd3ac5b0f6c",
+      "order": 438
+    },
+    "3384a8a683d703cbf4f4187413c9f1bd8b156dc9": {
+      "n": 10,
+      "headline": "Apple’s next MacBook Pro rumored with OLED, touchscreen, and hole-punch camera",
+      "cat": "Apple",
+      "source": "The 1 News / dpa",
+      "url": "https://www.the1news.com/article/apples-redesigned-macbook-pro-may-bring-oled-and-touchscreen",
+      "summary": "A dpa roundup of 9to5Mac reporting says Apple is preparing a major MacBook Pro redesign that could land in October — possibly under a rumored MacBook Ultra name — with an OLED panel, touchscreen support, and a hole-punch camera cutout that would retire the notch. macOS would stay keyboard-and-trackpad first even if touch arrives. The redesign is framed as part of Apple’s broader autumn hardware and software cycle.",
+      "image_remote": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-435.jpg",
+      "id": "3384a8a683d703cbf4f4187413c9f1bd8b156dc9",
+      "order": 439
+    },
+    "67e3646a2da4ac8d1c3746f45b3f2ae61a4781df": {
+      "n": 11,
+      "headline": "Apple Watch Ultra 4 review: better health sensing and up to 50 hours of battery, same $799 price",
+      "cat": "Apple gear",
+      "source": "Gizmodo",
+      "url": "https://gizmodo.com/apple-watch-ultra-4-review-2000818473",
+      "summary": "Gizmodo’s hands-on calls the Ultra 4 Apple’s best smartwatch yet for iPhone users who want the big rugged case — continuous heart-rate via a new Health Sensing System, a clearer Readiness Score, and advertised battery up to 50 hours (84 in low power) with no price hike from $799. Reviewer Raymond Wong says Ultra 3 owners needn’t rush, but older Ultras and non-Ultras gain the most; Audio Intelligence features still ship later.",
+      "image_remote": "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-436.jpg",
+      "id": "67e3646a2da4ac8d1c3746f45b3f2ae61a4781df",
+      "order": 440
+    },
+    "4f64eec9faf5238d33bd42347868caaf84201807": {
+      "n": 12,
+      "headline": "Lindsay Clancy’s lawyer now questions whether prosecutors proved she killed her children",
+      "cat": "Crime / Courts",
+      "source": "CBC News",
+      "url": "https://www.cbc.ca/news/world/lindsay-clancy-trial-9.7362194",
+      "summary": "After a mistrial, defense attorney Kevin Reddington argued there is no evidence Lindsay Clancy admitted killing her three children and questioned whether prosecutors can prove she did it, seeking to avert a retrial. Prosecutors called the evidence “voluminous.” A Massachusetts judge set a November 2 hearing on motions and possible retrial timing — a new defense posture that will matter to readers following the postpartum-psychosis case.",
+      "image_remote": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-437.jpg",
+      "id": "4f64eec9faf5238d33bd42347868caaf84201807",
+      "order": 441
     }
   },
-  "updated": "Tuesday, September 29, 2026 · 10:15 PM ET"
+  "updated": "Wednesday, September 30, 2026 · 7:00 AM ET"
 }
