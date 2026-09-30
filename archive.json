@@ -441,7 +441,17 @@
     "dba6bf61e95280a6d1b23e1661aa3fd3ac5b0f6c",
     "3384a8a683d703cbf4f4187413c9f1bd8b156dc9",
     "67e3646a2da4ac8d1c3746f45b3f2ae61a4781df",
-    "4f64eec9faf5238d33bd42347868caaf84201807"
+    "4f64eec9faf5238d33bd42347868caaf84201807",
+    "2ce5f42e2fec8880376719401588ad904592dd29",
+    "62bb123f787eb27779059321eb8a456fbd6f63b0",
+    "1087eb0c3db0f9b61dfcd1fe7ca93c929b0fa486",
+    "654abc7e23e7f8ad7c773c3632a8cad5de1206f7",
+    "dfbc5b0c61e340b209afbcd1c19a01f14c8752e9",
+    "215b33268c4064b8454734d23a1769fd275cfc4c",
+    "be5e176bdadbc76aa2ec9cf5a1e3d50869ccdf17",
+    "3aadb4e3c395798121b02dcb828cb2edd6f7c23b",
+    "56451168c3fb090434e65b0bfc34e78c6bf53a60",
+    "7fd55519807dce1a05953c8d99d7ba6bc198e63b"
   ],
   "stories": {
     "0c2ac7a5e342411678296315c4c59043b1f067cc": {
@@ -5650,7 +5660,127 @@
       "image_local": "images/story-437.jpg",
       "id": "4f64eec9faf5238d33bd42347868caaf84201807",
       "order": 441
+    },
+    "2ce5f42e2fec8880376719401588ad904592dd29": {
+      "n": 1,
+      "headline": "Trumbull man accused of taking $42,000 for Fairfield home work that never started",
+      "cat": "Local / Trumbull CT",
+      "source": "Patch Trumbull",
+      "url": "https://patch.com/connecticut/trumbull/trumbull-man-accused-taking-42-000-payments-work-never-done-fairfield-police",
+      "summary": "Fairfield police arrested Trumbull resident Arthur Arekhau, 44, owner of American House LLC, on Sept. 15 on first-degree larceny and a home-improvement-contract violation after a homeowner paid three deposits totaling $42,333 for siding and window work that never began. Sgt. Jenna Wellington said no materials or refunds were delivered and the town Building Department had no permits on file. Arekhau told Patch he is selling his house to repay the client; his next court date is Oct. 30 in Bridgeport Superior Court.",
+      "image_remote": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-438.jpg",
+      "id": "2ce5f42e2fec8880376719401588ad904592dd29",
+      "order": 442
+    },
+    "62bb123f787eb27779059321eb8a456fbd6f63b0": {
+      "n": 2,
+      "headline": "Trump plans a 32-day midterm campaign tour for GOP candidates in Texas, Ohio, and beyond",
+      "cat": "Politics / MAGA",
+      "source": "Al Jazeera / Reuters",
+      "url": "https://www.aljazeera.com/news/2026/9/29/trump-says-he-plans-to-campaign-for-32-days-before-midterm-elections",
+      "summary": "Speaking at the White House Tuesday, President Trump said he will run “literally a 32-day tour” for Republican midterm candidates ahead of the Nov. 3 elections, naming Texas and Ohio among early stops and brushing aside talk that nominees want distance. He argued “they all want me to go campaign” while critics point to slipping approval and cost-of-living anger tied partly to the Iran war. Allies pledged he will “campaign like it’s 2024 again” as House and Senate control hangs in the balance.",
+      "image_remote": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-439.jpg",
+      "id": "62bb123f787eb27779059321eb8a456fbd6f63b0",
+      "order": 443
+    },
+    "1087eb0c3db0f9b61dfcd1fe7ca93c929b0fa486": {
+      "n": 3,
+      "headline": "Newsom signs California ban on electric shock gloves for local, state, and federal officers — including ICE",
+      "cat": "Immigration",
+      "source": "PBS News / AP",
+      "url": "https://www.pbs.org/newshour/nation/newsom-signs-california-law-banning-officers-from-using-gloves-that-deliver-electric-shocks",
+      "summary": "Gov. Gavin Newsom signed a law Tuesday barring wearable electric-shock gloves for California local, state, and federal officers, effective 2027 through 2030 while the state DOJ studies their safety. The ban follows ICE’s nearly $17 million contract for 6,000 pairs and sits alongside dozens of other California immigrant-rights bills this year. Legal scholars warn courts may strike the federal application under the Supremacy Clause, echoing the earlier fight over face-covering bans for federal agents.",
+      "image_remote": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-440.jpg",
+      "id": "1087eb0c3db0f9b61dfcd1fe7ca93c929b0fa486",
+      "order": 444
+    },
+    "654abc7e23e7f8ad7c773c3632a8cad5de1206f7": {
+      "n": 4,
+      "headline": "Utah man sues Candace Owens, saying Kirk-assassination theories falsely implicated him",
+      "cat": "Charlie Kirk",
+      "source": "ABC4 Utah",
+      "url": "https://www.abc4.com/news/politics/lawsuit-candace-owens-charlie-kirk-theories/",
+      "summary": "Robert L. Hild Jr., a Utah private citizen who was in the UVU crowd when Charlie Kirk was killed, filed a defamation suit alleging Candace Owens repeatedly cast him as tied to foreign actors and a “gothic communist underground.” The complaint says Owens used a friend’s posted photos of Hild near the suspect’s path, refused a retraction, and that followers doxxed him, vandalized property, and forced him into hiding. ABC4 noted Owens had not responded by publish time; Tyler Robinson remains the charged shooter.",
+      "image_remote": "https://images.unsplash.com/photo-1494178270175-e96de2971df9?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-441.jpg",
+      "id": "654abc7e23e7f8ad7c773c3632a8cad5de1206f7",
+      "order": 445
+    },
+    "dfbc5b0c61e340b209afbcd1c19a01f14c8752e9": {
+      "n": 5,
+      "headline": "NYC Council subpoenas Elon Musk and SpaceXAI for Oct. 5 AI-safety hearing",
+      "cat": "Elon Musk",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/28/elon-musk-spacexai-subpoenaed-by-nyc-in-ai-safety-investigation.html",
+      "summary": "New York City Council Speaker Julie Menin issued a subpoena requiring Musk or another SpaceXAI representative to testify Oct. 5 before a rare Committee of the Whole on whether AI risks warrant city legislation. The probe cites public-safety, cybersecurity, and consumer harms after lawsuits over Grok deepfake pornography and teen image abuse. Anthropic, OpenAI, Google, and Meta have already agreed to send witnesses; SpaceXAI—the SpaceX/xAI combine that owns X and Grok—is valued near $2 trillion after its June IPO.",
+      "image_remote": "https://images.unsplash.com/photo-1560958089-b8a1929cea89?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-442.jpg",
+      "id": "dfbc5b0c61e340b209afbcd1c19a01f14c8752e9",
+      "order": 446
+    },
+    "215b33268c4064b8454734d23a1769fd275cfc4c": {
+      "n": 6,
+      "headline": "Geno Smith’s historic Jets start: first QB with 700+ yards, 4 TDs, 0 INTs, 70% in opening three",
+      "cat": "Jets football",
+      "source": "Heavy",
+      "url": "https://heavy.com/sports/nfl/new-york-jets/geno-smith-historic-start-2026/",
+      "summary": "Despite a 1-2 record, Geno Smith is off to a franchise-unique start: the first Jets quarterback to open a season’s first three games with 700-plus passing yards, four touchdowns, zero interceptions, and a 70% completion rate. PFF has him leading the NFL at 75.5% completions, and his EPA-per-dropback ranks as the best Jets three-game open since Chad Pennington in 2007. Offensive yards and points are mid-pack but a sharp climb from 2025’s bottom-tier attack as Gang Green prepares for Week 4 at Chicago.",
+      "image_remote": "https://images.unsplash.com/photo-1566577739112-5180d4bf9390?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-443.jpg",
+      "id": "215b33268c4064b8454734d23a1769fd275cfc4c",
+      "order": 447
+    },
+    "be5e176bdadbc76aa2ec9cf5a1e3d50869ccdf17": {
+      "n": 7,
+      "headline": "Harley factory riders sound farewell notes after King of the Baggers finale — 2027 unclear",
+      "cat": "Harley-Davidson",
+      "source": "Motorcycle.com",
+      "url": "https://www.motorcycle.com/bikes/news/is-harley-davidson-done-with-king-of-the-baggers-44672179",
+      "summary": "After Kyle Wyman won Sunday’s rain-soaked New Jersey finale, his “one more win” remarks and teammate Bradley Smith’s hint of an “unfortunate situation” fueled speculation Harley-Davidson may exit MotoAmerica King of the Baggers for 2027. Harley has not confirmed a withdrawal; observers note the company already runs a sole-brand MotoGP Bagger World Cup that could absorb factory focus. Indian’s Vance & Hines squad took the 2026 title and has already re-signed Hayden Gillim and Troy Herfoss.",
+      "image_remote": "https://images.unsplash.com/photo-1558981403-c5f9899a28bc?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-444.jpg",
+      "id": "be5e176bdadbc76aa2ec9cf5a1e3d50869ccdf17",
+      "order": 448
+    },
+    "3aadb4e3c395798121b02dcb828cb2edd6f7c23b": {
+      "n": 8,
+      "headline": "2027 Jeep Grand Wagoneer Build & Price goes live with new Overland trim from $81,000",
+      "cat": "Jeep",
+      "source": "MoparInsiders",
+      "url": "https://moparinsiders.com/2027-jeep-grand-wagoneer-build-price-is-now-live/",
+      "summary": "Jeep opened the 2027 Grand Wagoneer configurator, revealing a cleaned-up trim ladder that drops the 85th Anniversary and Limited Reserve while adding Overland 4x4 from $81,000 ($84,000 for the L). Base MSRP rises to $65,000 before the $2,795 destination charge; Summit Reserve still tops six figures. Power stays the twin-turbo 3.0-liter Hurricane I6 (420 hp / 468 lb-ft, up to 10,000-lb towing), with the lineup now Grand Wagoneer, Limited, Upland, Overland, Summit, and Summit Reserve.",
+      "image_remote": "https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-445.jpg",
+      "id": "3aadb4e3c395798121b02dcb828cb2edd6f7c23b",
+      "order": 449
+    },
+    "56451168c3fb090434e65b0bfc34e78c6bf53a60": {
+      "n": 9,
+      "headline": "Nothing Headphone (1) Pro lands at $399 with glass cups, triple drivers, and 46 dB ANC",
+      "cat": "Gadgets",
+      "source": "MacDailyNews",
+      "url": "https://macdailynews.com/2026/09/29/nothing-takes-on-apple-airpods-max-with-399-pro-glass-and-metal-headphones/",
+      "summary": "Nothing launched the Headphone (1) Pro on Sept. 29 at $399 in black or white—aluminum, titanium, and 9H Panda glass cups aimed at AirPods Max and Sony WH-1000XM6 buyers. Each ear uses three drivers (40 mm bass, mids, and an xMEMS tweeter) tuned with Metropolis Studios, plus up to 46 dB ANC from a 10-mic array and rated battery of 30 hours with ANC (68 without on AAC). USB-C lossless to 24-bit/192 kHz, LDAC, Bluetooth 6.1, and a Flat EQ switch round out the $100 step-up from last year’s model.",
+      "image_remote": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-446.jpg",
+      "id": "56451168c3fb090434e65b0bfc34e78c6bf53a60",
+      "order": 450
+    },
+    "7fd55519807dce1a05953c8d99d7ba6bc198e63b": {
+      "n": 10,
+      "headline": "SteelSeries Rival Pro and Sensei Pro mice: 53 g, ultra-wideband, swappable batteries at $179",
+      "cat": "Gadgets",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/games/1000245/steelseries-rival-sensei-pro-uwb-swappable-batteries-specs-price",
+      "summary": "SteelSeries’ Rival Pro (ergo) and Sensei Pro (ambi) wireless mice hit preorder for $179.99, shipping Oct. 13 with mini variants at the same price. Each black shell weighs about 53 grams and uses ultra-wideband (6.4–9 GHz) to a base station instead of crowded 2.4 GHz, targeting cleaner 8,000 Hz polling. Swappable puck batteries last ~16 hours at 8K or ~60 hours at 1K, and the GG app adds SuperSync click/sensor decoupling plus a browser-based settings tool.",
+      "image_remote": "https://images.unsplash.com/photo-1527814050087-3793815479db?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-447.jpg",
+      "id": "7fd55519807dce1a05953c8d99d7ba6bc198e63b",
+      "order": 451
     }
   },
-  "updated": "Wednesday, September 30, 2026 · 7:00 AM ET"
+  "updated": "Wednesday, September 30, 2026 · 11:45 AM ET"
 }
