@@ -451,7 +451,19 @@
     "be5e176bdadbc76aa2ec9cf5a1e3d50869ccdf17",
     "3aadb4e3c395798121b02dcb828cb2edd6f7c23b",
     "56451168c3fb090434e65b0bfc34e78c6bf53a60",
-    "7fd55519807dce1a05953c8d99d7ba6bc198e63b"
+    "7fd55519807dce1a05953c8d99d7ba6bc198e63b",
+    "7718280a54eab6b823482a5d6557c1b48f8800a4",
+    "0b047964a928654f361de5acea70a501dd6d1c9b",
+    "f1e2bb2b7aabea35ead8c9f9045264b404f4f8d2",
+    "a83b4ebaad4e4b056163b3b2847532653f064699",
+    "b7df85b3195337fe9305a48902305f7947d96a5a",
+    "70e6fbadf32827e28504dd53abd9b963d87bf75e",
+    "ff5ea267e692ef6c49db0eac586f1e843cba228d",
+    "6af6782bba8df2571de9b0a6e949c6662402eb14",
+    "dc84de9e8f87d9c45462146738920d1fc8c8c6b9",
+    "0b302ca50e8bf587bb723df12272deaa079827a0",
+    "ad8128cb70cab27a23ef80dc8186e2a885365fe0",
+    "41de799ba236050c00fe81b4f6326e740235aa99"
   ],
   "stories": {
     "0c2ac7a5e342411678296315c4c59043b1f067cc": {
@@ -5780,7 +5792,127 @@
       "image_local": "images/story-447.jpg",
       "id": "7fd55519807dce1a05953c8d99d7ba6bc198e63b",
       "order": 451
+    },
+    "7718280a54eab6b823482a5d6557c1b48f8800a4": {
+      "headline": "Trumbull third-grader Gabriella Gomez wins Rep. Himes’ America 250 essay contest",
+      "cat": "Local / Trumbull CT",
+      "source": "Patch Trumbull",
+      "url": "https://patch.com/connecticut/trumbull/trumbull-student-wins-congressional-essay-contest-town",
+      "summary": "Town officials congratulated Frenchtown Elementary third-grader Gabriella Gomez after she won the elementary division of U.S. Rep. Jim Himes’ America 250 essay contest, the town announced Sept. 29. Students in Connecticut’s 4th District answered what they value about American democracy and how they will participate in its future. Gomez will receive a congressional certificate, be recognized at a Thursday ceremony in Norwalk, and have her essay displayed in Himes’ office and shared on his social channels.",
+      "image_remote": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-448.jpg",
+      "id": "7718280a54eab6b823482a5d6557c1b48f8800a4"
+    },
+    "0b047964a928654f361de5acea70a501dd6d1c9b": {
+      "headline": "Trump targets Fox News: ‘MAGA and REAL Patriots will never like Fox’",
+      "cat": "Media / Free speech",
+      "source": "Washington Examiner",
+      "url": "https://www.washingtonexaminer.com/news/white-house/4748674/trump-target-fox-news-critic-too-many-democrats/",
+      "summary": "President Trump blasted Fox News on Truth Social Wednesday for giving Chuck Schumer, Hakeem Jeffries, Jessica Tarlov, and other Democrats what he called excessive airtime to attack Republicans and him. “This is why MAGA, and REAL Patriots, will never like Fox,” he wrote, claiming the network repeats a “completely negative narrative.” The jab lands even as Fox remains the top news source for many Republicans and after Fox joined other outlets opposing White House media-access restrictions in court.",
+      "image_remote": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-449.jpg",
+      "id": "0b047964a928654f361de5acea70a501dd6d1c9b"
+    },
+    "f1e2bb2b7aabea35ead8c9f9045264b404f4f8d2": {
+      "headline": "Senate Democrats block GOP package tying stock-trading ban to nationwide voter ID",
+      "cat": "Politics / MAGA",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/schumer-tanks-popular-insider-trading-ban-dem-effort-derail-gops-voter-id-push",
+      "summary": "Senate Democrats on Wednesday blocked a Republican bill pairing a ban on lawmakers’ stock trading with nationwide voter-ID rules tied to the SAVE America Act, falling short of the 60-vote threshold. Sen. Chuck Schumer called the voter-ID piece a “poison pill,” while House Administration Chair Bryan Steil said 53 senators backed the ethics reform before Democrats filibustered. Polls cited by Fox show overwhelming public support for both a trading ban and photo ID at the ballot box ahead of the Nov. 3 midterms.",
+      "image_remote": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-450.jpg",
+      "id": "f1e2bb2b7aabea35ead8c9f9045264b404f4f8d2"
+    },
+    "a83b4ebaad4e4b056163b3b2847532653f064699": {
+      "headline": "DHS: ICE nets more ‘worst of the worst’ — child predators, sex offenders, violent felons",
+      "cat": "Immigration",
+      "source": "DHS",
+      "url": "https://www.dhs.gov/news/2026/09/30/worst-worst-ice-arrests-child-pedophiles-sexual-predators-and-violent-assailants",
+      "summary": "Homeland Security on Sept. 30 highlighted fresh ICE arrests of criminal illegal aliens convicted of sex crimes against minors, exploitation-material trafficking, assault, and burglary. Named cases include a Laotian national with five counts of sexual intercourse with a minor under 16 in California, Mexican nationals convicted of home-invasion sex offenses and child-exploitation transport, an Algerian with NYC assault and burglary convictions, and an Ohio felonious-assault case. Secretary Markwayne Mullin said ICE will keep hunting down and removing criminal illegal aliens under President Trump.",
+      "image_remote": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-451.jpg",
+      "id": "a83b4ebaad4e4b056163b3b2847532653f064699"
+    },
+    "b7df85b3195337fe9305a48902305f7947d96a5a": {
+      "headline": "Philadelphia woman fatally shoots masked man breaking into her Crescentville apartment",
+      "cat": "Crime / Courts",
+      "source": "The Philadelphia Inquirer",
+      "url": "https://www.inquirer.com/news/philadelphia/woman-shooting-kills-man-breaking-apartment-crescentville-philadelphia-20260930.html",
+      "summary": "A woman in her 20s fatally shot a masked 29-year-old man who broke into her second-floor Crescentville apartment on Castor Avenue around 5 a.m. Wednesday, Philadelphia police said. Chief Inspector Scott Small said she heard windows breaking, found the masked intruder inside, and fired one or two shots striking him in the head; he was pronounced dead at the scene. After responders removed the mask, she said she recognized him. Police believe the shooting followed a break-in; the woman is cooperating and neither person has been publicly identified.",
+      "image_remote": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-452.jpg",
+      "id": "b7df85b3195337fe9305a48902305f7947d96a5a"
+    },
+    "70e6fbadf32827e28504dd53abd9b963d87bf75e": {
+      "headline": "Michigan teen who stopped mall gunman gets probation — for carrying the pistol that saved lives",
+      "cat": "Crime / Courts",
+      "source": "AmmoLand",
+      "url": "https://www.ammoland.com/2026/09/michigan-19-year-old-stops-mall-gunman-probation/",
+      "summary": "Martinez Long, 19, received two years’ probation for carrying a concealed pistol without a license after he fatally shot Cameron Watkins during the July 3 Fairlane Town Center attack in Dearborn. Prosecutors accepted that Long’s shooting was lawful self-defense after Watkins killed one person and kept firing in the mall, yet charged Long because Michigan bars concealed-pistol licenses under age 21. The judge asked why Long brought a gun into the mall; conditions bar him from possessing firearms during probation despite a clean prior record.",
+      "image_remote": "https://images.unsplash.com/photo-1595590424283-b8f17842773f?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-453.jpg",
+      "id": "70e6fbadf32827e28504dd53abd9b963d87bf75e"
+    },
+    "ff5ea267e692ef6c49db0eac586f1e843cba228d": {
+      "headline": "Penguins open 2026-27 tonight at Flyers; Silovs starts, Malkin one point from 100 vs. Philly",
+      "cat": "Penguins hockey",
+      "source": "NHL.com / Penguins",
+      "url": "https://www.nhl.com/penguins/news/game-preview-09-30-26-at-philadelphia-flyers",
+      "summary": "Pittsburgh opens the season Wednesday at 7:30 p.m. ET against cross-state rival Philadelphia on TNT, with Arturs Silovs expected to start in goal. Evgeni Malkin sits one point shy of becoming the sixth NHL player with 100-plus points against the Flyers, joining Crosby, Lemieux, Jagr, Trottier, and Gretzky. Several newcomers — including Nick Robertson, Hendrix Lapierre, Declan Carlile, and Trevor van Riemsdyk — are in line for debuts as the Pens chase points they’ve earned in 13 of their last 15 meetings with Philly.",
+      "image_remote": "https://images.unsplash.com/photo-1515703407324-5f753afd8be8?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-454.jpg",
+      "id": "ff5ea267e692ef6c49db0eac586f1e843cba228d"
+    },
+    "6af6782bba8df2571de9b0a6e949c6662402eb14": {
+      "headline": "Jets’ Minkah Fitzpatrick has ‘really good chance’ to return Sunday at Chicago",
+      "cat": "Jets football",
+      "source": "NBC Sports",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/minkah-fitzpatrick-has-really-good-chance-of-returning-to-jets-lineup-this-week",
+      "summary": "Coach Aaron Glenn said Wednesday that safety Minkah Fitzpatrick, sidelined since a Week 1 groin injury, has “a really good chance” of playing Sunday at the Bears and will be limited in practice. Glenn confirmed running back Breece Hall remains week-to-week with a quad injury and will not practice Wednesday, alongside Adonai Mitchell (finger), Dylan Parham (knee), Mason Taylor (thumb), and Kiko Mauigoa (quad). Tight ends Kenyon Sadiq and Jeremy Ruckert figure as limited participants on the first injury report of the week.",
+      "image_remote": "https://images.unsplash.com/photo-1566577739112-5180d4bf9390?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-455.jpg",
+      "id": "6af6782bba8df2571de9b0a6e949c6662402eb14"
+    },
+    "dc84de9e8f87d9c45462146738920d1fc8c8c6b9": {
+      "headline": "Technics EAH-A1000 flagship headphones: magnetic-fluid drivers, USB lossless, $449",
+      "cat": "Gadgets",
+      "source": "Technics",
+      "url": "https://us.technics.com/blogs/news/technics-introduces-eah-a1000-flagship-wireless-headphones-a-new-standard-in-premium-listening",
+      "summary": "Technics unveiled the EAH-A1000 flagship wireless headphones built around a new 40 mm Magnetic Fluid Driver with SST Edge and a pure carbon-fiber diaphragm aimed at lower distortion and a wider soundstage. The $449 pair adds adaptive ANC, LDAC, lossless USB-C audio, three-device multipoint, Dolby Atmos head tracking, AI beamforming calls, and rated battery life up to 45 hours with ANC (90 without). Black and Platinum Greige finishes ship with a folding design and dedicated case.",
+      "image_remote": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-456.jpg",
+      "id": "dc84de9e8f87d9c45462146738920d1fc8c8c6b9"
+    },
+    "0b302ca50e8bf587bb723df12272deaa079827a0": {
+      "headline": "LEGO rolls out five Dodge and Jeep builds — Fast & Furious Charger to Jurassic Park Wrangler",
+      "cat": "LEGO",
+      "source": "ClubAlfa",
+      "url": "https://www.clubalfa.it/en/dodge-and-jeep-fans-get-five-new-lego-sets-to-build-45298",
+      "summary": "LEGO’s new American-muscle slate spans five sets from $26.99 to $199.99. Headline builds are the 1,516-piece Technic Dodge Charger R/T ($159.99) with a chain-driven V8 and working steering, and the 1,924-piece Jurassic Park Jeep Wrangler ($199.99) at 1:10 with a functional winch. Also arriving: Technic Wrangler Rubicon (723 pcs), Viper GTS-R (805 pcs) with a Forza Horizon 6 unlock, and a Speed Champions Challenger SRT Hellcat (390 pcs) for younger builders.",
+      "image_remote": "https://images.unsplash.com/photo-1558060370-d644479cb6f7?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-457.jpg",
+      "id": "0b302ca50e8bf587bb723df12272deaa079827a0"
+    },
+    "ad8128cb70cab27a23ef80dc8186e2a885365fe0": {
+      "headline": "Maine foliage report: peak color hits northern and western mountains this weekend",
+      "cat": "USA travel",
+      "source": "WABI",
+      "url": "https://www.wabi.tv/2026/09/30/fourth-foliage-report-brings-peak-colors-northern-western-maine/",
+      "summary": "Maine’s fourth foliage report Wednesday put northern counties and most western mountain regions at or near peak color, with leaf drop still under 30% for most areas. WABI called this the weekend to chase color up north and west under a favorable forecast — only a slight late-Sunday shower chance. Color remains moderate south of Bangor and along the coast, with near-peak expected next week as warm days and cool nights continue and last weekend’s rain eases drought stress.",
+      "image_remote": "https://images.unsplash.com/photo-1508193638397-1c4234db14d8?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-458.jpg",
+      "id": "ad8128cb70cab27a23ef80dc8186e2a885365fe0"
+    },
+    "41de799ba236050c00fe81b4f6326e740235aa99": {
+      "headline": "Apple’s redesigned Vision Pro project reportedly on ‘life support’ as glasses take priority",
+      "cat": "Apple",
+      "source": "The Apple Post",
+      "url": "https://www.theapplepost.com/2026/09/30/72759/apples-revamped-vision-pro-project-reportedly-on-life-support/",
+      "summary": "Bloomberg’s Mark Gurman says Apple’s next-generation Vision Pro overhaul (internal N224) is on “life support” as engineers shift toward smart glasses with broader mainstream appeal. Apple is still exploring lighter designs — including offloading components to an external pack — but a cheaper “Vision Air” (N100) was already shelved, and even a surviving N224 would not ship before late 2028 or early 2029. First display-free smart glasses are eyed for late 2027 while spatial-computing tech could migrate into smaller wearables.",
+      "image_remote": "https://images.unsplash.com/photo-1622979135225-d2ba269cf1ac?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-459.jpg",
+      "id": "41de799ba236050c00fe81b4f6326e740235aa99"
     }
   },
-  "updated": "Wednesday, September 30, 2026 · 11:45 AM ET"
+  "updated": "Wednesday, September 30, 2026 · 4:00 PM ET"
 }
