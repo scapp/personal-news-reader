@@ -475,7 +475,19 @@
     "7ead935c29be0b511b3797a1d4fb2c627efd3050",
     "c4c55f80710e0936c0610dd67aa82c7171c8579a",
     "f602fe60c461704d501946793770108b72725c98",
-    "e990f37cadc511fce6a4405a57dcd57df973da8b"
+    "e990f37cadc511fce6a4405a57dcd57df973da8b",
+    "8866250ad84cb492e2ac5fdc2b42cca8a650f5df",
+    "8958f65a83596b5feb552664558705c60f7dfe03",
+    "fdd76469ac201f82fa64e487a88f056b89abf603",
+    "ece0ed6c6e41436a492b14ca2d6a8b2efbba4763",
+    "5261a2a76f82372f480d574cce16ad05a9a96dfc",
+    "c8d7404092a583a94e55914437159e8b067214e5",
+    "ad56b104f0a8e6590e92afa2b6534a34b5975c80",
+    "7330a7b74ccf250b7822c108c39c852390f69549",
+    "4bc1d5ea86bf9f3485e62418f250827fb935e012",
+    "62e508b1c0ed6d70c933479f6a66a2c009f0acec",
+    "4a5a0ef62eb4eaf0828327759e50d47d62111221",
+    "2ea37ae47899cb9dcbb2ced093a6a8cd51f69bb8"
   ],
   "stories": {
     "0c2ac7a5e342411678296315c4c59043b1f067cc": {
@@ -6044,7 +6056,127 @@
       "image_remote": "https://images.unsplash.com/photo-1558981852-426c6c22a060?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-471.jpg",
       "id": "e990f37cadc511fce6a4405a57dcd57df973da8b"
+    },
+    "8866250ad84cb492e2ac5fdc2b42cca8a650f5df": {
+      "headline": "Westport police charge Brooklyn man in $89,000 bank-fraud wire case",
+      "cat": "Local / Fairfield CT",
+      "source": "Patch Westport",
+      "url": "https://patch.com/connecticut/westport/suspect-accused-89-000-bank-fraud-westport-police",
+      "summary": "Westport police charged 38-year-old Brooklyn resident John Hammonds with first-degree larceny and third-degree identity theft after an alleged $89,000 unauthorized in-person wire transfer from a victim’s M&T Bank account in January 2025, Patch reported Sept. 30. Investigators said Hammonds posed as the victim at a New York branch; he was extradited from New Jersey after an Aug. 20 custody notice and is held on $70,000 bail, with a Stamford Superior Court date set for Nov. 9.",
+      "image_remote": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-472.jpg",
+      "id": "8866250ad84cb492e2ac5fdc2b42cca8a650f5df"
+    },
+    "8958f65a83596b5feb552664558705c60f7dfe03": {
+      "headline": "Tim Scott: MAGA Inc. cash means ‘money will not be our problem’ for Senate GOP",
+      "cat": "Politics / MAGA",
+      "source": "Associated Press",
+      "url": "https://abcnews.com/US/wireStory/senate-gop-campaign-chief-cash-king-trump-team-136902689",
+      "summary": "Senate Republican campaign chairman Tim Scott told reporters Wednesday that White House chief of staff Susie Wiles assured GOP senators “money will not be our problem” as MAGA Inc. and allied groups pledge millions more for battleground races ahead of the midterms, the Associated Press reported. Scott said “cash is king” and that “President Trump and his agenda are on the ballot,” while acknowledging closer-than-expected fights in Kansas and more work needed to flip Georgia’s Jon Ossoff seat.",
+      "image_remote": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-473.jpg",
+      "id": "8958f65a83596b5feb552664558705c60f7dfe03"
+    },
+    "fdd76469ac201f82fa64e487a88f056b89abf603": {
+      "headline": "Trump warns midterm loss means ‘open borders,’ urges Michigan voters to reject El-Sayed",
+      "cat": "Politics / MAGA",
+      "source": "Just the News",
+      "url": "https://justthenews.com/politics-policy/trump-warns-voters-open-borders-if-dems-win-midterms",
+      "summary": "President Trump on Wednesday urged voters to turn out for Republican candidates even if they are not their favorites, warning that a Democratic midterm win would reopen the border and undo his administration’s immigration gains, Just the News reported. Pointing to Michigan’s open Senate race, he asked whether voters would back “a guy who’s a communist,” an apparent swipe at Democrat Abdul El-Sayed, who is locked in a close contest with former Rep. Mike Rogers for the seat Sen. Gary Peters is leaving.",
+      "image_remote": "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-474.jpg",
+      "id": "fdd76469ac201f82fa64e487a88f056b89abf603"
+    },
+    "ece0ed6c6e41436a492b14ca2d6a8b2efbba4763": {
+      "headline": "Trump clashes with DHS’s Mullin after leaked ICE call sparks ‘softening’ scare",
+      "cat": "Immigration",
+      "source": "KVIA / CNN",
+      "url": "https://kvia.com/politics/cnn-us-politics/2026/09/30/debate-over-immigrant-arrests-exposes-tension-between-white-house-and-dhs/",
+      "summary": "A leaked weekend ICE leadership call that some officials read as limiting arrests to criminals set off President Trump, who told Fox News ICE would still arrest anyone in the country illegally and privately vented at DHS Secretary Markwayne Mullin, CNN reported via KVIA on Sept. 30. DHS denied any soft directive and said “no one is off the table,” while sources said Mullin privately favors dialing back “collateral arrests.” The episode lands weeks before midterms as ICE posted a record ~51,000 August arrests.",
+      "image_remote": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-475.jpg",
+      "id": "ece0ed6c6e41436a492b14ca2d6a8b2efbba4763"
+    },
+    "5261a2a76f82372f480d574cce16ad05a9a96dfc": {
+      "headline": "October 1 immigration reset: Visa Bulletin moves, Medicaid narrows, social-media screening expands",
+      "cat": "Immigration",
+      "source": "Newsweek",
+      "url": "https://www.newsweek.com/immigration-changes-october-12506286",
+      "summary": "Fiscal year 2027 opens Oct. 1 with a mixed State Department Visa Bulletin—India EB-2 and unreserved EB-5 final-action dates reopen while some EB-2/EB-3 dates for the rest of the world retrogress—plus tighter federally funded Medicaid/CHIP rules and expanded online-presence checks for I, TN, and TD visa applicants, Newsweek reported Sept. 30. Applicants in those visa classes are told to set social profiles public; former USCIS officials flagged the bulletin’s late release and a missing Diversity Visa section as unsettling for DV lottery filers.",
+      "image_remote": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-476.jpg",
+      "id": "5261a2a76f82372f480d574cce16ad05a9a96dfc"
+    },
+    "c8d7404092a583a94e55914437159e8b067214e5": {
+      "headline": "Oakland County declines all charges against CPL holder in Great Lakes Crossing mall shooting",
+      "cat": "Crime / Courts",
+      "source": "New Media Detroit",
+      "url": "https://newmediadetroit.com/great-lakes-crossing-mall-shooting-oakland-county-prosecutor-declines-all-charges-against-detroit-man/",
+      "summary": "Oakland County prosecutors declined homicide and all other charges against Detroit CPL holder Amuri Chambers-Shannon in the July 11 fatal food-court shooting at Great Lakes Crossing Outlets that killed 20-year-old KeShawn Emery and wounded a 19-year-old woman, defense attorney Nicholas Somberg announced, New Media Detroit reported Sept. 30. Somberg said video showed his client attacked, knocked down, and assaulted by multiple people before firing; Chambers-Shannon stayed on scene, and Michigan’s no-duty-to-retreat rules framed the self-defense review that closed after more than two months.",
+      "image_remote": "https://images.unsplash.com/photo-1589578527966-fdac0f44566c?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-477.jpg",
+      "id": "c8d7404092a583a94e55914437159e8b067214e5"
+    },
+    "ad56b104f0a8e6590e92afa2b6534a34b5975c80": {
+      "headline": "SpaceXAI ships Grokipedia v0.3 with refreshed design; site claims 6M+ AI articles",
+      "cat": "Elon Musk / AI",
+      "source": "Tesla North",
+      "url": "https://teslanorth.com/2026/09/30/spacexai-grokipedia-v03-launch/",
+      "summary": "SpaceXAI launched Grokipedia v0.3 on Wednesday with a refreshed visual design and new features for its AI-generated encyclopedia alternative to Wikipedia, Tesla North reported. The site says it now hosts more than six million articles; readers suggest corrections that Grok reviews rather than editing pages directly, and Elon Musk has said the project may eventually take the Encyclopedia Galactica name once quality is high enough. The drop continues a rapid cadence after v0.1 and v0.2 in late 2025 and follows Grok 4.7’s recent launch.",
+      "image_remote": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-478.jpg",
+      "id": "ad56b104f0a8e6590e92afa2b6534a34b5975c80"
+    },
+    "7330a7b74ccf250b7822c108c39c852390f69549": {
+      "headline": "Tesla’s Cybercab faces NHTSA Special Order deadline: 21 answers or risk huge fines",
+      "cat": "Elon Musk / Tesla",
+      "source": "The Auto Wire",
+      "url": "https://theautowire.com/2026/09/30/tesla-cybercab-nhtsa-special-order-september-30-zoox-exemption/",
+      "summary": "Tesla had until Sept. 30 to answer a 21-point NHTSA Special Order explaining how the steering-wheel-free, pedal-free Cybercab meets driver-era FMVSS rules—or face civil penalties up to about $27,874 per day, The Auto Wire reported. The audit opened the day Austin commercial service began; Zoox’s similar self-certification path ended in a Part 555 exemption capped at 2,500 vehicles a year, a ceiling that would clash with Tesla’s plan for Cybercab to become its highest-volume robotaxi. As of Wednesday afternoon neither Tesla nor NHTSA had confirmed a filing.",
+      "image_remote": "https://images.unsplash.com/photo-1617788138017-80ad40651399?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-479.jpg",
+      "id": "7330a7b74ccf250b7822c108c39c852390f69549"
+    },
+    "4bc1d5ea86bf9f3485e62418f250827fb935e012": {
+      "headline": "Jets Week 4 injury report: Hall, Mitchell, Parham, Taylor DNPs; Fitzpatrick limited",
+      "cat": "Jets football",
+      "source": "New York Jets",
+      "url": "https://www.newyorkjets.com/news/jets-injury-report-week-4-vs-bears-wednesday-09-30-2026",
+      "summary": "The Jets’ Wednesday injury report ahead of Sunday’s Week 4 trip to Chicago listed Breece Hall (quad), Adonai Mitchell (finger), Dylan Parham (knee), Mason Taylor (thumb), and Kiko Mauigoa (quad) as did-not-participate, while safety Minkah Fitzpatrick (groin) was limited after Aaron Glenn said he has a “really good chance” to play, Jets.com posted Sept. 30. Chicago listed QB Caleb Williams (hamstring) among its DNPs, underscoring an uncertain Bears quarterback picture opposite New York’s battered skill-position group.",
+      "image_remote": "https://images.unsplash.com/photo-1566577739112-5180d4bf9390?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-480.jpg",
+      "id": "4bc1d5ea86bf9f3485e62418f250827fb935e012"
+    },
+    "62e508b1c0ed6d70c933479f6a66a2c009f0acec": {
+      "headline": "LEGO October wave hits shelves: UCS Executor, PlayStation, Downton, Pokémon and more",
+      "cat": "LEGO",
+      "source": "Brick Fanatics",
+      "url": "https://www.brickfanatics.com/lego-october-2026-sets-out-now-starwars-ideas-more",
+      "summary": "Seventeen new LEGO sets went on sale Oct. 1 (with reporting dated Sept. 30) including the 6,130-piece UCS Executor Super Star Destroyer ($799.99) with a Darth Vader lightsaber GWP, the first LEGO PlayStation set plus Astro Bot GWP, Ideas Downton Abbey and Wallace & Gromit, Pokémon Poké Ball and Up-Scaled Red, Icons Book Nook and Holiday House, plus seasonal Christmas builds, Brick Fanatics reported. Four Avengers: Doomsday sets follow on Oct. 4; Spain gets a region-exclusive FIFA World Cup trophy Champions Edition.",
+      "image_remote": "https://images.unsplash.com/photo-1587654780291-39c9404d746b?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-481.jpg",
+      "id": "62e508b1c0ed6d70c933479f6a66a2c009f0acec"
+    },
+    "4a5a0ef62eb4eaf0828327759e50d47d62111221": {
+      "headline": "Maryland Renaissance Festival’s 50th season runs weekends through Oct. 25 in Crownsville",
+      "cat": "Renaissance faires",
+      "source": "Eye On Annapolis",
+      "url": "https://www.eyeonannapolis.net/2026/09/maryland-renaissance-festival-continues-through-october-3/",
+      "summary": "The Maryland Renaissance Festival continues its 50th season in Crownsville’s Revel Grove every weekend through Oct. 25, open 10 a.m. to 7 p.m. with more than 200 performers, three daily combat jousts, 140-plus merchants, and a 1540 storyline starring Henry VIII and Anne of Cleves as the village’s royal charter hangs in the balance, Eye On Annapolis reported Sept. 30. Tickets are online-only and can sell out; cash is required for beverages and games.",
+      "image_remote": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-482.jpg",
+      "id": "4a5a0ef62eb4eaf0828327759e50d47d62111221"
+    },
+    "2ea37ae47899cb9dcbb2ced093a6a8cd51f69bb8": {
+      "headline": "Fairfield starts $8.2M Rooster River flood basins at Fairchild Wheeler and Tunxis Hill",
+      "cat": "Local / Fairfield CT",
+      "source": "Patch Fairfield",
+      "url": "https://patch.com/connecticut/fairfield/fairfield-begins-rooster-river-flood-mitigation-projects",
+      "summary": "Fairfield began the first phases of an $8.2 million Rooster River flood-mitigation effort this week, with Grasso Construction starting a detention basin at Fairchild Wheeler Golf Course in coordination with Bridgeport and survey staking under way for a second basin at Tunxis Hill Park, Patch reported Sept. 30. Funding mixes Urban Act and Clean Water grants with town bonding; substantial flood benefit is targeted by year-end and final completion in spring 2027, while Selectpersons meet Oct. 1 on re-awarding Tunxis Hill after Grasso sought to withdraw its bid.",
+      "image_remote": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-483.jpg",
+      "id": "2ea37ae47899cb9dcbb2ced093a6a8cd51f69bb8"
     }
   },
-  "updated": "Wednesday, September 30, 2026 · 6:00 PM ET"
+  "updated": "Wednesday, September 30, 2026 · 10:00 PM ET"
 }
