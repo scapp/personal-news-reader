@@ -530,7 +530,20 @@
     "09ce1a312c9a08231d47f455a5453b81a3f30e0e",
     "7da6284439349de9b1fe7912ee453c85c3d0c919",
     "f0c35a71151f41e6a14d3ae15eb6ae0928c5bcd5",
-    "48a6016a1a6b82c86ff0b71a339f2d644887f033"
+    "48a6016a1a6b82c86ff0b71a339f2d644887f033",
+    "e7886abd75f35fbf8c52e0c27eabe07e15c14a7d",
+    "033fef6b738845771cd0557e2156041f91c4624d",
+    "37b4f662f3d276fcc8e76eb7ed85094029d867b0",
+    "b6ee76552627fb093f69c166aa98572a0aafa7cc",
+    "6eb600f7483dbf59729a2979240d56a0bf5cd255",
+    "3c4dfe7f8e975523c0756859b514a1808af71bdd",
+    "15647ac2b8468be5b3869015064908c9e7059a15",
+    "8fc7cf601c667694e0201df1562274546034a460",
+    "bbc2a5656bea5a656d0c092c35167a07b2e8ce6f",
+    "c5b28cefbb7d7d1db0f803d5c1737236f84ed31c",
+    "f7b3ffb7113555636990719784b0144e82dee53c",
+    "3104b82827366168710399c5ac21634ffd5bc993",
+    "edb18772528a1684ec6ee6fc6d4387e2975f6172"
   ],
   "stories": {
     "0c2ac7a5e342411678296315c4c59043b1f067cc": {
@@ -6719,7 +6732,163 @@
       "image_local": "images/story-526.jpg",
       "id": "48a6016a1a6b82c86ff0b71a339f2d644887f033",
       "order": 530
+    },
+    "e7886abd75f35fbf8c52e0c27eabe07e15c14a7d": {
+      "n": 1,
+      "headline": "Westport issues RFP to replace flood-damaged Jesup Road Bridge",
+      "cat": "Local / Fairfield CT",
+      "source": "Patch Westport",
+      "url": "https://patch.com/connecticut/westport/westport-moves-ahead-jesup-road-bridge-replacement-after-flood-damage",
+      "summary": "Westport’s Public Works Department opened an expedited request for proposals for engineering and design to replace the Jesup Road Bridge at Imperial Avenue after Sept. 13 flooding left the span closed to cars and pedestrians. Proposals are due Oct. 28; the Board of Finance is set to consider a $172,500 design-and-permitting appropriation on Oct. 7 after RTM committees recommended the spend. First Selectman Kevin Christie said the town is advancing engineering, permitting, and funding in parallel, while officials also weigh whether a temporary bridge would be prudent. EMS test routes found the closure does not significantly slow ambulance response, Patch reported Thursday afternoon.",
+      "image_remote": "https://images.unsplash.com/photo-1545558014-8692077e9b5c?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-527.jpg",
+      "id": "e7886abd75f35fbf8c52e0c27eabe07e15c14a7d",
+      "order": 531
+    },
+    "033fef6b738845771cd0557e2156041f91c4624d": {
+      "n": 2,
+      "headline": "Westport RTM committees back $185K Plan of Conservation and Development",
+      "cat": "Local / Fairfield CT",
+      "source": "Westport Journal",
+      "url": "https://westportjournal.com/community/rtm-committees-approve-185k-for-conservation-development-plan/",
+      "summary": "Westport’s RTM Finance and Environment committees voted 10–0 Tuesday to advance $185,000 so Planning and Zoning can hire BFJ Planning for a new ten-year Plan of Conservation and Development due by October 2027. Director Michelle Perillie said the rewrite will tackle affordable and senior housing, sea-level rise, flood resilience after the Sept. 13 storm that wrecked Jesup Road Bridge, infrastructure impacts, and the town’s net-zero-by-2050 goal. Unlike the 2017 plan, consultants plan farmer’s-market and neighborhood outreach instead of library-only forums. The full 36-member RTM still must approve the appropriation.",
+      "image_remote": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-528.jpg",
+      "id": "033fef6b738845771cd0557e2156041f91c4624d",
+      "order": 532
+    },
+    "37b4f662f3d276fcc8e76eb7ed85094029d867b0": {
+      "n": 3,
+      "headline": "Trump dismisses midterm polls as ‘fake numbers,’ won’t rule out emergency powers",
+      "cat": "Politics / MAGA",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/oct/01/trump-iran-war-poll-ratings-time-interview",
+      "summary": "In a Time magazine interview published Thursday, President Trump brushed off low approval ratings as “fake numbers,” claimed he would beat anyone running today by 20 points, and refused to rule out declaring a state of emergency before the midterms—“I don’t rule anything out or in.” He also said he “could use” the Insurrection Act and voiced regret over appointing Justices Gorsuch, Kavanaugh, and Barrett for voting against him “too often.” On the Iran war, Trump blamed the press for how his earlier “weeks” timelines were heard and said he could have ended the conflict sooner but wanted to “go further.” The free Guardian write-up pairs the quotes with AP/NORC polling showing weak job and economy approval.",
+      "image_remote": "https://images.unsplash.com/photo-1569288063643-5d29ad64df09?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-529.jpg",
+      "id": "37b4f662f3d276fcc8e76eb7ed85094029d867b0",
+      "order": 533
+    },
+    "b6ee76552627fb093f69c166aa98572a0aafa7cc": {
+      "n": 4,
+      "headline": "Rain-soaked crowds line up in Durant for Trump’s first Oklahoma rally in six years",
+      "cat": "Politics / MAGA",
+      "source": "KHBS / 4029 News",
+      "url": "https://www.4029tv.com/article/trump-rally-first-oklahoma-visit-six-years/73985064",
+      "summary": "Supporters began lining up outside Durant’s Choctaw Event Center around noon Thursday and waited in heavy rain for President Trump’s first Oklahoma campaign stop since 2020. Doors opened mid-afternoon with remarks set for 6 p.m. ET as Trump traveled from Denton, Texas, on the opening leg of a red-state midterm blitz. Local attendee Bonnie Couch told KHBS the president “stands up for those who stay silent.” The free Fort Smith–area newscast covers logistics, weather, and GOP candidates scheduled to speak alongside Trump.",
+      "image_remote": "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-530.jpg",
+      "id": "b6ee76552627fb093f69c166aa98572a0aafa7cc",
+      "order": 534
+    },
+    "6eb600f7483dbf59729a2979240d56a0bf5cd255": {
+      "n": 5,
+      "headline": "Trump defends taxpayer-funded TV ads as ‘for the country,’ not campaigns",
+      "cat": "Media / Free speech",
+      "source": "ABC News",
+      "url": "https://abcnews.com/Politics/trump-defends-spending-millions-taxpayer-funded-promotional-ads/story?id=136922737",
+      "summary": "Facing ethics pushback, President Trump told Oval Office reporters Wednesday the White House’s taxpayer-funded TV spots promote “the spirit of our country,” not candidates—“I’m not promoting myself because I’m not running for office.” AdImpact pegs at least $2.5 million already aired, with $20 million allocated from DHS; a fourth ad mixes Iran-war military footage with Trump and Defense Secretary Pete Hegseth audio. Senate Majority Leader John Thune said he likes the message but not the taxpayer tab, while FCC Chair Brendan Carr dismissed calls for review as ordinary PSAs. Democrats Murray, Murphy, Raskin, and Whitesides are pressing watchdogs over alleged propaganda rules.",
+      "image_remote": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-531.jpg",
+      "id": "6eb600f7483dbf59729a2979240d56a0bf5cd255",
+      "order": 535
+    },
+    "3c4dfe7f8e975523c0756859b514a1808af71bdd": {
+      "n": 6,
+      "headline": "DeKalb neighbor shoots machete-wielding man who kicked apartment doors",
+      "cat": "Crime / self-defense",
+      "source": "WSB-TV Atlanta",
+      "url": "https://www.wsbtv.com/news/local/dekalb-county/neighbor-shoots-machete-wielding-intruder-after-apartment-break-in-attempt-witness-says/L36ZOZWJWJBATBYYA3NC7PH2SE/",
+      "summary": "DeKalb County residents say a man with a machete went door-to-door late Wednesday kicking apartments and yelling threats; 74-year-old Ms. Brown said she braced her door with a sofa after repeated blows and believed he was enraged by a cross she displayed outside. Another tenant shot the intruder after he allegedly forced entry; investigators said the suspect’s wounds were non-life-threatening and no other injuries were reported. Brown told WSB she was “terrified beyond words” and glad someone stopped him. The free Channel 2 report says the case remains under investigation and authorities have not named the suspect.",
+      "image_remote": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-532.jpg",
+      "id": "3c4dfe7f8e975523c0756859b514a1808af71bdd",
+      "order": 536
+    },
+    "15647ac2b8468be5b3869015064908c9e7059a15": {
+      "n": 7,
+      "headline": "Portage homeowner’s murder charge denied pending probe after driveway stabbing",
+      "cat": "Crime / courts",
+      "source": "MLive",
+      "url": "https://www.mlive.com/news/kalamazoo/2026/10/charges-temporarily-denied-after-portage-homeowner-kills-alleged-burglar-in-his-driveway.html",
+      "summary": "Kalamazoo County prosecutors on Thursday temporarily denied charges against a 54-year-old Portage homeowner initially arrested for open murder after a fatal early-morning struggle in his driveway. Police say Roy Harris James Jr., 51, was fatally stabbed about 3:10 a.m. Wednesday after the homeowner confronted someone breaking into a vehicle; the homeowner told officers James pulled a knife and he gained control of it during the fight. Public Safety Director Matt Wolfe asked the community to wait for facts before drawing conclusions. MLive’s free report notes the denial is for additional investigation, not a final clearance.",
+      "image_remote": "https://images.unsplash.com/photo-1589578527966-fdac0f44566c?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-533.jpg",
+      "id": "15647ac2b8468be5b3869015064908c9e7059a15",
+      "order": 537
+    },
+    "8fc7cf601c667694e0201df1562274546034a460": {
+      "n": 8,
+      "headline": "Jets: Fitzpatrick returns to full practice; Hall still out ahead of Bears",
+      "cat": "Jets football",
+      "source": "NBC Sports",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/minkah-fitzpatrick-up-to-full-participation-at-jets-practice",
+      "summary": "Minkah Fitzpatrick practiced fully Thursday for the first time since his Week 1 groin injury, reinforcing Aaron Glenn’s earlier signal that the safety has a strong chance to play Sunday at Chicago. Breece Hall (quad), Adonai Mitchell, Dylan Parham, Mason Taylor, and Kiko Mauigoa remained out, while Kingsley Enagbare (knee) missed after being limited Wednesday. Jeremy Ruckert and Kenyon Sadiq were limited again. Official designations come Friday; Josh Alper’s free PFT note is a clearer upgrade than Wednesday’s “expected” chatter used in the 4 p.m. batch.",
+      "image_remote": "https://images.unsplash.com/photo-1566577739112-5180d4bf9390?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-534.jpg",
+      "id": "8fc7cf601c667694e0201df1562274546034a460",
+      "order": 538
+    },
+    "bbc2a5656bea5a656d0c092c35167a07b2e8ce6f": {
+      "n": 9,
+      "headline": "Penguins take Muse and Karlsson to U.S. Steel plant for helmet-partner tour",
+      "cat": "Penguins hockey",
+      "source": "NHL.com / Penguins",
+      "url": "https://www.nhl.com/penguins/news/ice-meets-fire",
+      "summary": "After announcing U.S. Steel as the club’s official helmet partner for 2026-27, Penguins coach Dan Muse and defenseman Erik Karlsson toured the Edgar Thomson Plant in Braddock—an “Ice Meets Fire” feature posted Oct. 1. Muse traced family roots to U.S. Steel’s Fairfield, Alabama, works; Karlsson likened ladle pours to Super Mario and said the visit captures why Pittsburgh exists. The free team site piece is a culture/partnership angle distinct from Wednesday’s 7–0 Flyers recap and youth-depth blueprint already archived today.",
+      "image_remote": "https://images.unsplash.com/photo-1515703407324-5f753afd8be8?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-535.jpg",
+      "id": "bbc2a5656bea5a656d0c092c35167a07b2e8ce6f",
+      "order": 539
+    },
+    "c5b28cefbb7d7d1db0f803d5c1737236f84ed31c": {
+      "n": 10,
+      "headline": "Apple eyed to unveil Home hub, new HomePod mini, and Apple TV 4K on Oct. 13",
+      "cat": "Apple",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/01/apple-launch-new-smart-home-devices-this-month/",
+      "summary": "MacRumors aggregates Bloomberg reporting that Apple will refresh its smart-home lineup Tuesday, Oct. 13, with an updated HomePod mini (new chip, better sound, N1/Wi-Fi 7, second-gen UWB, Siri AI, new colors including pink and green), a new Apple TV 4K (likely A19-class chip, 12GB RAM, N1), and the long-awaited ~6-inch square home hub for FaceTime, photos, recipes, and HomeKit control in tabletop or wall mounts. The free Oct. 1 piece frames the three-product drop rather than the four-color Home Hub rumor alone that ran in the 4 p.m. batch.",
+      "image_remote": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-536.jpg",
+      "id": "c5b28cefbb7d7d1db0f803d5c1737236f84ed31c",
+      "order": 540
+    },
+    "f7b3ffb7113555636990719784b0144e82dee53c": {
+      "n": 11,
+      "headline": "Insta360 X6 underwater review: 8K360 holds up in murky Lundy seal water",
+      "cat": "Gadgets / Insta360",
+      "source": "DeeperBlue",
+      "url": "https://www.deeperblue.com/review-insta360-x6/",
+      "summary": "DeeperBlue’s India Bradshaw stress-tested the Insta360 X6 snorkelling with seals off Lundy Island in green, low-light UK water and called low-light 8K50 360 the standout upgrade over prior models. Dual 1/1.1-inch sensors, FlowState, and the Invisible Dive Case Pro (60 m) impressed, though dedicated underwater lenses complicate same-day surface shooting and occasional stitch lines remain. Battery life stayed above 50% after ~2.5 hours of 8K360. Standard bundle pricing starts around $670; the Dive Case Pro is about $180. Free full review dated Sept. 24—not previously archived.",
+      "image_remote": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-537.jpg",
+      "id": "f7b3ffb7113555636990719784b0144e82dee53c",
+      "order": 541
+    },
+    "3104b82827366168710399c5ac21634ffd5bc993": {
+      "n": 12,
+      "headline": "LEGO’s October wave: 20 sets from UCS Executor to PlayStation and Downton",
+      "cat": "LEGO",
+      "source": "ComicBook.com",
+      "url": "https://comicbook.com/gear/product-news/lego-sets-october-2026-complete-price-release-list/",
+      "summary": "ComicBook’s Oct. 1 roundup lists all 20 October LEGO launches with prices—from the 6,130-piece UCS Executor Super Star Destroyer ($799.99, with Darth Vader lightsaber GWP) to Downton Abbey ($349.99), PlayStation ($179.99), Bookstore Book Nook, Wallace & Gromit, Pokémon Trainer Moments Poké Ball, Wednesday sets, and four Avengers: Doomsday kits landing Oct. 4. Insider early access and retirement watch-list tips (Optimus Prime, Falcon, Starry Night) round out the free shopping guide—distinct from this morning’s “wave live” and midday Executor hands-on review angles.",
+      "image_remote": "https://images.unsplash.com/photo-1587654780291-39c9404d746b?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-538.jpg",
+      "id": "3104b82827366168710399c5ac21634ffd5bc993",
+      "order": 542
+    },
+    "edb18772528a1684ec6ee6fc6d4387e2975f6172": {
+      "n": 13,
+      "headline": "Pennsylvania foliage approaching peak: statewide window centered on Oct. 11",
+      "cat": "USA travel",
+      "source": "Fall Photo Guide",
+      "url": "https://fallphotoguide.com/foliage/pennsylvania/",
+      "summary": "Fall Photo Guide’s Oct. 1 model puts Pennsylvania at “approaching peak,” with a typical statewide peak window of Oct. 7–15 centered on Oct. 11—northern high ground first, southeast valleys later. County and elevation tables flag McKean and Potter near peak timing while Philadelphia lags into mid-to-late October. Photographer-oriented tips cover Leonard Harrison and Colton Point at Pine Creek Gorge, Mount Davis, Ricketts Glen’s Ganoga Falls, and Hawk Mountain light times. Free full guide complements today’s archived New York Adirondacks report without repeating that URL.",
+      "image_remote": "https://images.unsplash.com/photo-1508193638397-1c4234db14d8?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-539.jpg",
+      "id": "edb18772528a1684ec6ee6fc6d4387e2975f6172",
+      "order": 543
     }
   },
-  "updated": "Thursday, October 1, 2026 · 4:00 PM ET"
+  "updated": "Thursday, October 1, 2026 · 6:00 PM ET"
 }
