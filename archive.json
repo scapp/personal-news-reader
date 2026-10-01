@@ -517,7 +517,20 @@
     "f6735beb599837b51c4992f9d45cbb1982f4c2bd",
     "f9b8875d7c03e92bd799876371c86aa9b6cf2fef",
     "2897113dc86bf4bbe502b6bfbae54f4735e8765e",
-    "204e3c910b79776d11132ad9b855d962a8bbe368"
+    "204e3c910b79776d11132ad9b855d962a8bbe368",
+    "78965deb21b662f84599c371524e5d8cb275acaf",
+    "260aaf71744e2bd306883d34e804f64156eb2304",
+    "8b20b63f68cfbd0efa371ac57a725c6db81a89a6",
+    "cfc655d6caf86e4d2e3853620459a0ec738a803a",
+    "e442f02e702c86b8f4ce346734cb3c00fb2a71ba",
+    "be6d9ae881a852317eb2f6b2b207419f02d7b19a",
+    "1034879a261028a525f4ce9da42a4d0a23d1626f",
+    "7a940037fcba71c5a7500e37de6577e057f7e4d3",
+    "eda71251fa96a40f77a677414521b196028d00fe",
+    "09ce1a312c9a08231d47f455a5453b81a3f30e0e",
+    "7da6284439349de9b1fe7912ee453c85c3d0c919",
+    "f0c35a71151f41e6a14d3ae15eb6ae0928c5bcd5",
+    "48a6016a1a6b82c86ff0b71a339f2d644887f033"
   ],
   "stories": {
     "0c2ac7a5e342411678296315c4c59043b1f067cc": {
@@ -6550,7 +6563,163 @@
       "image_local": "images/story-513.jpg",
       "id": "204e3c910b79776d11132ad9b855d962a8bbe368",
       "order": 517
+    },
+    "78965deb21b662f84599c371524e5d8cb275acaf": {
+      "n": 1,
+      "headline": "Trumbull man charged in Shelton armed robbery with facsimile firearm",
+      "cat": "Local / Trumbull CT",
+      "source": "Patch Trumbull",
+      "url": "https://patch.com/connecticut/trumbull/trumbull-man-charged-connection-armed-robbery-shelton-police",
+      "summary": "Shelton police say Paulo Dias, 54, of Trumbull, entered a Howe Avenue business Wednesday carrying what appeared to be a black firearm, pointed it at a cashier’s head, and fled with cash after the clerk complied. Detectives arrested him about seven hours later and recovered clothing believed worn in the robbery, gloves, stolen money, and a facsimile firearm. Dias faces first-degree robbery, fourth-degree larceny, possession of a controlled substance, illegal use of a facsimile firearm, criminal possession of a firearm, and first-degree threatening. He is held on $750,000 bond pending a court appearance. Patch posted the free write-up Thursday afternoon.",
+      "image_remote": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-514.jpg",
+      "id": "78965deb21b662f84599c371524e5d8cb275acaf",
+      "order": 518
+    },
+    "260aaf71744e2bd306883d34e804f64156eb2304": {
+      "n": 2,
+      "headline": "Westport’s Slice of Saugatuck festival returns Saturday with traffic advisory",
+      "cat": "Local / Fairfield CT",
+      "source": "Patch Westport",
+      "url": "https://patch.com/connecticut/westport/annual-slice-saugatuck-festival-weekend-westport",
+      "summary": "The Westport-Weston Chamber of Commerce’s 14th annual Slice of Saugatuck Festival runs Saturday, Oct. 3, from 2 to 5 p.m., with restaurants, shops, and galleries opening for community sampling. Railroad Place closes noon–6 p.m. from Riverside to Franklin; the east side of Riverside from Charles to Bridge is a temporary no-parking zone. Organizers promise seven bands, dance demos, kids’ activities including bounce houses and the Fire Department antique engine, plus beer/wine gardens and s’mores. Saugatuck Station lots (except Lot 2) are open for parking; police will assist with heavy pedestrian traffic near the station.",
+      "image_remote": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-515.jpg",
+      "id": "260aaf71744e2bd306883d34e804f64156eb2304",
+      "order": 519
+    },
+    "8b20b63f68cfbd0efa371ac57a725c6db81a89a6": {
+      "n": 3,
+      "headline": "ICE memo bans vehicle pursuits, mandates body cams and stop training",
+      "cat": "Immigration",
+      "source": "The Independent (AP)",
+      "url": "https://www.independent.co.uk/news/donald-trump-texas-department-of-homeland-security-maine-white-house-b3060037.html",
+      "summary": "An internal ICE Enforcement and Removal Operations memo obtained by the Associated Press orders officers not to chase vehicles that fail to pull over “under any circumstances,” instead logging plates for later investigation. Only officers who finished one of five agency training courses may run traditional or high-risk vehicle stops; untrained officers may ride only in support. Field directors must equip stop cars with lights and sirens, and every officer on scene must activate a body-worn camera. Pinning and spike strips remain allowed for specially trained agents. The guidance follows fatal ICE vehicle-stop shootings in Texas and Maine and Austin courtroom testimony that officers in a recent pursuit lacked active cameras.",
+      "image_remote": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-516.jpg",
+      "id": "8b20b63f68cfbd0efa371ac57a725c6db81a89a6",
+      "order": 520
+    },
+    "cfc655d6caf86e4d2e3853620459a0ec738a803a": {
+      "n": 4,
+      "headline": "Doocy asks Trump why he’s still stumping for Paxton after convention gripe",
+      "cat": "Politics / MAGA",
+      "source": "Mediaite",
+      "url": "https://www.mediaite.com/media/news/foxs-peter-doocy-confronts-trump-on-why-hes-campaigning-for-paxton-after-ag-complained-about-convention/",
+      "summary": "Before Trump’s Texas–Oklahoma midterm swing, Fox’s Peter Doocy asked why the president would campaign for Texas AG Ken Paxton after audio obtained by the New York Times caught Paxton saying the GOP midterm convention “dropped our numbers.” Trump called the Dallas convention a “tremendous success,” citing 107 million views versus about 24 million for the NFL that night, and said Texas has “been great to me.” He framed the Durant, Oklahoma stop as thanking a state where he won all 77 counties three times and boosting the governor’s race, while still backing Paxton: “We have to win this election.”",
+      "image_remote": "https://images.unsplash.com/photo-1569288063643-5d29ad64df09?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-517.jpg",
+      "id": "cfc655d6caf86e4d2e3853620459a0ec738a803a",
+      "order": 521
+    },
+    "e442f02e702c86b8f4ce346734cb3c00fb2a71ba": {
+      "n": 5,
+      "headline": "White House runs taxpayer-funded Trump ads on CNN and MS NOW anyway",
+      "cat": "Media / Free speech",
+      "source": "Variety",
+      "url": "https://variety.com/2026/tv/news/trump-taxpayer-funded-ads-air-on-cnn-ms-now-1236894714/",
+      "summary": "Even as the White House fights CNN and MS NOW over press access—including dropping CNN from Thursday’s Texas–Oklahoma pool—AdImpact data show the administration has aired at least 10 Trump ads on CNN and 38 on MS NOW, part of roughly $2.87 million in taxpayer-funded TV spots. The “Paid for by the U.S. Government” spots attack “communism, socialism and Marxism,” “fake news,” “globalists,” and the “deep state.” The White House calls them patriotic PSAs; Rep. Jamie Raskin alleges Hatch Act and possible conversion issues ahead of the Nov. 3 midterms. MS NOW said the spots ran in select local markets and that accepting ads is not an endorsement.",
+      "image_remote": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-518.jpg",
+      "id": "e442f02e702c86b8f4ce346734cb3c00fb2a71ba",
+      "order": 522
+    },
+    "be6d9ae881a852317eb2f6b2b207419f02d7b19a": {
+      "n": 6,
+      "headline": "Penguins’ young depth powers 7–0 opener blueprint, NHL.com argues",
+      "cat": "Penguins hockey",
+      "source": "NHL.com",
+      "url": "https://www.nhl.com/news/youth-powers-pittsburgh-penguins-in-season-opening-win",
+      "summary": "Beyond the box score, Dan Rosen’s NHL.com feature frames Pittsburgh’s 7–0 Flyers rout as the depth blueprint GM Kyle Dubas demanded: mid-20s forwards and defensemen must carry load alongside Crosby, Malkin, Letang, and Karlsson. Debutants Nicholas Robertson (two goals), Hendrix Lapierre (goal, assist), and Kaedan Korczak (two assists) combined for six points; Filip Hallander returned from a blood-clot layoff with a goal and two assists; Ville Koivunen scored on a breakaway; Arturs Silovs blanked Philly for a second straight opener shutout. Coach Dan Muse and Crosby praised the newcomers’ comfort. Next: home opener vs. Montreal Saturday.",
+      "image_remote": "https://images.unsplash.com/photo-1515703407324-5f753afd8be8?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-519.jpg",
+      "id": "be6d9ae881a852317eb2f6b2b207419f02d7b19a",
+      "order": 523
+    },
+    "1034879a261028a525f4ce9da42a4d0a23d1626f": {
+      "n": 7,
+      "headline": "Jets–Bears Week 4: Hall expected out; Fitzpatrick expected; Williams won’t play",
+      "cat": "Jets football",
+      "source": "Jets Wire",
+      "url": "https://jetswire.usatoday.com/story/sports/nfl/jets/2026/10/01/new-york-jets-bears-injury-report-for-both-teams-week-4-nfl/92033001007/",
+      "summary": "Wednesday’s dual injury reports clarify Sunday’s outlook in Chicago. New York listed Breece Hall, AD Mitchell, Mason Taylor, Dylan Parham, and Kiko Mauigoa as DNPs, with Hall expected to miss Week 4; Minkah Fitzpatrick was limited and is expected to play. Chicago kept QB Caleb Williams (hamstring) and OT Braxton Jones out of practice, with Williams ruled out, while CB Kyler Gordon returned as a full participant. That points Braelon Allen and Isaiah Davis toward larger Jets run-game roles against a Bears defense without its starter behind center.",
+      "image_remote": "https://images.unsplash.com/photo-1566577739112-5180d4bf9390?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-520.jpg",
+      "id": "1034879a261028a525f4ce9da42a4d0a23d1626f",
+      "order": 524
+    },
+    "7a940037fcba71c5a7500e37de6577e057f7e4d3": {
+      "n": 8,
+      "headline": "Apple’s rumored Home Hub may ship in four colors, including Rose Pink",
+      "cat": "Apple",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/01/apple-home-hub-four-colors-rumored/",
+      "summary": "Leaker “pdfu” says Apple’s long-rumored smart home hub—expected for an Oct. 13 unveil—may offer Silver, Space Gray, Starlight, and Rose Pink. MacRumors’ Aaron Perris previously found the same four finishes in macOS 26.7 RC code; Photo Face setup previews reportedly switch art by reported hardware color. Mark Gurman had described only a standard gray aluminum finish for the ~6-inch square tabletop/wall hub with iMac G4-style arm and speaker base, so the extra colors remain unconfirmed. The piece is distinct from Thursday’s “Do Not Open” retail-box and OLED MacBook timing reports.",
+      "image_remote": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-521.jpg",
+      "id": "7a940037fcba71c5a7500e37de6577e057f7e4d3",
+      "order": 525
+    },
+    "eda71251fa96a40f77a677414521b196028d00fe": {
+      "n": 9,
+      "headline": "SpaceXAI ships Grok for Intune—enterprise iOS app with MDM controls",
+      "cat": "AI / Grok",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/10/01/spacexai-releases-a-separate-grok-ios-app-for-enterprise-users/",
+      "summary": "Following OpenAI’s enterprise mobile split, SpaceXAI launched Grok for Intune on the App Store—the Microsoft Intune edition of Grok built for organizations that manage apps and data with Intune. It supports Mobile Application Management, honors save/share/data-transfer policies, and signs in with work email with no in-app purchases. Features mirror consumer Grok: deep research, document/photo analysis, Grok Imagine image and short-video generation, Voice Mode with Live Camera, and real-time web/X context. IT teams deploy and configure it through Intune for managed devices.",
+      "image_remote": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-522.jpg",
+      "id": "eda71251fa96a40f77a677414521b196028d00fe",
+      "order": 526
+    },
+    "09ce1a312c9a08231d47f455a5453b81a3f30e0e": {
+      "n": 10,
+      "headline": "Musk’s Colossus cluster races past a gigawatt toward 1.2 million Nvidia chips",
+      "cat": "Elon Musk / xAI",
+      "source": "WebProNews",
+      "url": "https://www.webpronews.com/musks-colossus-races-past-a-gigawatt-as-xai-pours-billions-into-memphis-ai-compute/",
+      "summary": "Drawing on Musk’s late-September X post and Epoch AI modeling, WebProNews details Colossus 2 near Memphis already running hundreds of thousands of Nvidia GB200/GB300 accelerators, with tranches aiming past 1.2 million processors by year-end if networking and power cooperate. The campus draws roughly a gigawatt of IT load, bridged by temporary turbines and a huge Tesla Megapack battery farm while a permanent Southaven gas plant finishes. Google, Anthropic, and another unnamed customer have multi-billion-dollar hosting deals; Epoch pegs capital sunk near $36B. Regulators want temporary turbines gone by mid-2027 amid noise and emissions complaints.",
+      "image_remote": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-523.jpg",
+      "id": "09ce1a312c9a08231d47f455a5453b81a3f30e0e",
+      "order": 527
+    },
+    "7da6284439349de9b1fe7912ee453c85c3d0c919": {
+      "n": 11,
+      "headline": "Giga Texas Optimus factory steel frame nearly complete in Oct. 1 drone footage",
+      "cat": "Elon Musk / Tesla",
+      "source": "Basenor",
+      "url": "https://www.basenor.com/blogs/news/giga-texas-optimus-factory-steel-frame-nearly-done-by-october",
+      "summary": "Drone footage from aerial documentarian Joe Tegtmeyer on Oct. 1 shows Tesla’s dedicated Optimus factory steel skeleton at Giga Texas’s North Campus nearly closing its final column grids, with upper-floor concrete pours underway. Ground broke March 23; first steel rose May 27—an aggressive ~18-week structural push aimed at shell closeout before year-end and high-volume production targeted for summer 2027. Basenor notes Fremont already runs early Gen 3 Optimus learning units while Texas is sized for multi-million-unit ambition inside a multi-billion-dollar North Campus expansion that also includes chip and AI compute halls.",
+      "image_remote": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-524.jpg",
+      "id": "7da6284439349de9b1fe7912ee453c85c3d0c919",
+      "order": 528
+    },
+    "f0c35a71151f41e6a14d3ae15eb6ae0928c5bcd5": {
+      "n": 12,
+      "headline": "Rita Haney: five unseen Dimebag guitar body designs may finally surface",
+      "cat": "Guitar / Dimebag",
+      "source": "Guitar World",
+      "url": "https://www.guitarworld.com/gear/electric-guitars/dimebag-darrell-confidential-guitar-designs-could-become-a-reality",
+      "summary": "In a new Guitar World interview published Oct. 1, Dimebag Darrell’s longtime partner and estate trustee Rita Haney says the late Pantera guitarist left five body-shape designs “that no one has seen,” which she is about to share with original Dean collaborator Dean Zelinsky for her Dime Guitarz venture. After a court left Stealth and Razorback with Dean Guitars—now on appeal—Haney is mining Dimebag’s notes; Dime Guitarz already launched the Culprit based on a late-’90s Washburn concept. She wants the brand known for pointy guitars across genres and is also working with tech Grady Champion on Warhead Amps.",
+      "image_remote": "https://images.unsplash.com/photo-1516924962500-2b4b3b99ea02?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-525.jpg",
+      "id": "f0c35a71151f41e6a14d3ae15eb6ae0928c5bcd5",
+      "order": 529
+    },
+    "48a6016a1a6b82c86ff0b71a339f2d644887f033": {
+      "n": 13,
+      "headline": "New York foliage report: Adirondacks near peak this weekend; Catskills mid-change",
+      "cat": "USA travel",
+      "source": "Time Telegram",
+      "url": "https://www.timestelegram.com/story/news/2026/10/01/new-york-fall-foliage-report-october-2026/92034647007/",
+      "summary": "New York’s third weekly state foliage report, summarized Oct. 1, puts the Adirondacks at or near peak for the weekend—Old Forge ~80%, Lake Placid/Whiteface/Newcomb ~75%, Tupper Lake ~85%—with vivid reds, golds, and oranges. Catskills and Capital Region spots range from mid-change (Belleayre ~65%, Windham upper elevations up to 80%) to earlier yellows farther south. Hudson Valley and Long Island remain mostly early (often under 20–40%), so leaf-peepers chasing peak color should aim north this weekend while southern tiers still green up.",
+      "image_remote": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-526.jpg",
+      "id": "48a6016a1a6b82c86ff0b71a339f2d644887f033",
+      "order": 530
     }
   },
-  "updated": "Thursday, October 1, 2026 · 11:30 AM ET"
+  "updated": "Thursday, October 1, 2026 · 4:00 PM ET"
 }
