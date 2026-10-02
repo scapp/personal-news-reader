@@ -598,7 +598,20 @@
     "fdddb8b7b208b956cd000d28afe20f11195d5ea8",
     "75242e8557f28bd106d059d24b5b608af4a0528d",
     "d577013b3a893aa17ef77b3b1b00ee35e19f1e14",
-    "c2c11fabfc16c1b2fa684dbf0d15a6437efc74d0"
+    "c2c11fabfc16c1b2fa684dbf0d15a6437efc74d0",
+    "4341e0d8af491bbb7bfd73d1ea77598186d015c6",
+    "780995d94ad16629e18ef01fb302467e310c063b",
+    "1746482e6ad62a5f227e4ca2cf9d3591101b6170",
+    "3ec3a196499bbf919544865958854ecff7a86786",
+    "ec342dbb96704c8d7384335c37156595852d9ddb",
+    "949c934b7e5a52309fa80e7f07a19c498e8813b8",
+    "cff281025781d26df0f00303d15b810a17d00629",
+    "81524b21de5f18251dcd306fee16d17df1897ab4",
+    "931a8bf8196543a9c7e6f8796a4bfd95c9496a30",
+    "0fc36b652fa755b158421bee5a54949259ec50bf",
+    "46f88890178bd6df771d4db7afe70b001861c9d0",
+    "050d6f7cdb083c9e6f86584fd7994a1eec9ee8e3",
+    "a50565c97f95b10603b8b135fe68cb33e0f0d224"
   ],
   "stories": {
     "0c2ac7a5e342411678296315c4c59043b1f067cc": {
@@ -7655,7 +7668,163 @@
       "image_local": "images/story-594.jpg",
       "id": "c2c11fabfc16c1b2fa684dbf0d15a6437efc74d0",
       "order": 598
+    },
+    "4341e0d8af491bbb7bfd73d1ea77598186d015c6": {
+      "n": 1,
+      "headline": "House GOP’s 4-week midterm memo hammers border, economy, and public safety",
+      "cat": "Politics / MAGA",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/inside-house-gops-4-week-battle-plan-save-its-majority",
+      "summary": "Fox News Digital obtained a House Republican Conference memo mapping the final four weeks before the Nov. 3 midterms around four themes: the border, fraudulent use of taxpayer dollars, the economy, and public safety. Conference Chair Lisa McClain said those are “the points that the voters actually care most about,” contrasting GOP enforcement and lower-tax messaging with Democrats’ sanctuary and higher-tax record. A recent Fox poll still shows Democrats with a wider House path, so the memo is framed as a base-turnout and persuasion play in the toss-ups.",
+      "image_remote": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-595.jpg",
+      "id": "4341e0d8af491bbb7bfd73d1ea77598186d015c6",
+      "order": 599
+    },
+    "780995d94ad16629e18ef01fb302467e310c063b": {
+      "n": 2,
+      "headline": "Homan tells GOP candidates distancing from ICE to sit down with the agency first",
+      "cat": "Immigration",
+      "source": "Washington Examiner",
+      "url": "https://www.washingtonexaminer.com/policy/immigration/4751909/tom-homan-gop-distance-trump-immigration-policies/",
+      "summary": "Border czar Tom Homan pushed back Wednesday on vulnerable Republicans who are advertising distance from ICE deportations ahead of the midterms, calling Rep. Maria Elvira Salazar’s claim that Hispanics feel “betrayed” a “pretty bold statement.” He challenged critics to cite where enforcement “went too far” and urged them to meet ICE and learn how operations actually work. The Examiner notes Trump still backed Salazar’s reelection bid even as Homan defended the deportation campaign.",
+      "image_remote": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-596.jpg",
+      "id": "780995d94ad16629e18ef01fb302467e310c063b",
+      "order": 600
+    },
+    "1746482e6ad62a5f227e4ca2cf9d3591101b6170": {
+      "n": 3,
+      "headline": "House GOP report: Illinois and Chicago released 500+ illegal immigrants despite ICE detainers",
+      "cat": "Immigration",
+      "source": "Washington Examiner",
+      "url": "https://www.washingtonexaminer.com/policy/immigration/4750583/illinois-officials-released-more-than-500-criminal-immigrants-despite-ice-detainers-house-gop-report-finds/",
+      "summary": "A House Judiciary Committee interim report obtained by the Washington Examiner says Cook County released 408 illegal immigrants in 2025 despite active ICE detainers and transferred zero people to ICE that year, while Illinois corrections released nearly 100 more in 2024–25. Cases cited include people later accused of murder, domestic violence, and robbery after local release. Chicago police received more than 1,100 ICE requests over two years and transferred no one, with sanctuary statutes cited as the barrier.",
+      "image_remote": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-597.jpg",
+      "id": "1746482e6ad62a5f227e4ca2cf9d3591101b6170",
+      "order": 601
+    },
+    "3ec3a196499bbf919544865958854ecff7a86786": {
+      "n": 4,
+      "headline": "DOJ sues University of Delaware for giving illegal aliens in-state tuition denied to out-of-state Americans",
+      "cat": "Immigration",
+      "source": "U.S. Department of Justice",
+      "url": "https://www.justice.gov/opa/pr/department-justice-files-complaint-against-university-delaware-challenging-policies-provide",
+      "summary": "The Justice Department filed suit against the University of Delaware for granting in-state tuition to illegal aliens while charging U.S. citizens from other states the much higher out-of-state rate. Associate Attorney General Stanley Woodward said DOJ will keep challenging every policy that puts illegal aliens ahead of American citizens, and the complaint seeks an injunction against the current policy and any new preferential tuition rules. It is the department’s 26th such lawsuit; six prior cases already produced permanent injunctions.",
+      "image_remote": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-598.jpg",
+      "id": "3ec3a196499bbf919544865958854ecff7a86786",
+      "order": 602
+    },
+    "ec342dbb96704c8d7384335c37156595852d9ddb": {
+      "n": 5,
+      "headline": "DHS: ICE deports more ‘worst of the worst’ — murderers, traffickers, pedophiles, rapists",
+      "cat": "Immigration",
+      "source": "Department of Homeland Security",
+      "url": "https://www.dhs.gov/news/2026/10/02/deported-ice-removes-worst-worst-illegal-alien-murderers-human-traffickers",
+      "summary": "DHS said ICE last week removed additional criminal illegal aliens convicted of first-degree murder, involuntary manslaughter, sexual assault of a minor, rape, forced-labor trafficking, and arson, among other crimes. Secretary Markwayne Mullin framed the removals as daily enforcement that delivers on President Trump’s mandate to make America safe again. Named cases spanned Mexico, Guatemala, Ecuador, the Dominican Republic, Vietnam, Cameroon, Honduras, and Colombia.",
+      "image_remote": "https://images.unsplash.com/photo-1453873531674-2151bcd01707?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-599.jpg",
+      "id": "ec342dbb96704c8d7384335c37156595852d9ddb",
+      "order": 603
+    },
+    "949c934b7e5a52309fa80e7f07a19c498e8813b8": {
+      "n": 6,
+      "headline": "Trump strategist: red-state midterm rallies are a turnout play, not a panic tour",
+      "cat": "Politics / MAGA",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/trump-campaign-insider-reveals-strategy-midterm-blitz-white-house-hopes-pays-off-big",
+      "summary": "A 2024 Trump campaign strategist told Fox News Digital that stops in Texas, Oklahoma, and Alabama are being misread as desperation. Luke Ball argued the Denton–Oklahoma–Mobile swing is meant to juice Republican turnout in adjacent media markets (including Pensacola/Florida) and national coverage, using RNC and MAGA Inc. data on who will turn out for Trump. He compared plant tours and industry stops to Susie Wiles’s old rule of pairing every rally with an off-script local event.",
+      "image_remote": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-600.jpg",
+      "id": "949c934b7e5a52309fa80e7f07a19c498e8813b8",
+      "order": 604
+    },
+    "cff281025781d26df0f00303d15b810a17d00629": {
+      "n": 7,
+      "headline": "Steve Hilton hammers Xavier Becerra on missing migrant children in California gov debate",
+      "cat": "Immigration",
+      "source": "Western Journal",
+      "url": "https://www.westernjournal.com/republican-steve-hilton-corners-biden-hhs-head-becerra-missing-migrant-children-california-gubernatorial-debate/",
+      "summary": "In their only scheduled CNN debate, Republican Steve Hilton pressed Democrat Xavier Becerra over unaccompanied migrant children who passed through HHS while Becerra was secretary, citing hundreds of thousands in ORR custody and New York Times reporting on lost contact with tens of thousands. When Becerra dismissed the charge as a Trump talking point, Hilton answered that the Times won a Pulitzer for the investigation. Hilton also attacked COVID-era toddler masking and vaccine guidance as groupthink over science.",
+      "image_remote": "https://images.unsplash.com/photo-1523995462485-3d171b5c8fa9?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-601.jpg",
+      "id": "cff281025781d26df0f00303d15b810a17d00629",
+      "order": 605
+    },
+    "81524b21de5f18251dcd306fee16d17df1897ab4": {
+      "n": 8,
+      "headline": "Apple: some iPhone 18 Pro Max units on AT&T that lost service need hardware replacement",
+      "cat": "Apple",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/10/02/apple-confirms-iphone-18-pro-max-att-cellular-issues-affected-devices-require-hardware-replacement/",
+      "summary": "Apple confirmed a “small number” of iPhone 18 Pro Max phones on AT&T can lose cellular service and drop into SOS mode. iOS 27.0.1 plus a new carrier-settings update are meant to prevent more devices from failing, but phones that already lost service will need a hardware replacement via Apple or AT&T. 9to5Mac notes the U.S. Pro Max uses a Qualcomm modem while the C2-modem iPhone 18 Pro is unaffected.",
+      "image_remote": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-602.jpg",
+      "id": "81524b21de5f18251dcd306fee16d17df1897ab4",
+      "order": 606
+    },
+    "931a8bf8196543a9c7e6f8796a4bfd95c9496a30": {
+      "n": 9,
+      "headline": "Apple tightens macOS Full Disk Access as AI agents raise privacy risk",
+      "cat": "Apple",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/02/apple-announces-macos-full-disk-access-changes/",
+      "summary": "Apple told developers it will add stronger Full Disk Access controls on macOS because some apps—and increasingly autonomous AI agents—can expose files, mail, messages, and browsing history without users fully understanding the grant. Going forward, users who truly want that extraordinary access will need “very explicit user action,” Apple said. No rollout date was announced; the notice follows privacy alarms around always-on agent apps.",
+      "image_remote": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-603.jpg",
+      "id": "931a8bf8196543a9c7e6f8796a4bfd95c9496a30",
+      "order": 607
+    },
+    "0fc36b652fa755b158421bee5a54949259ec50bf": {
+      "n": 10,
+      "headline": "Tesla Q3 deliveries slip 2% to 486,532 but beat Wall Street by ~25,000",
+      "cat": "Elon Musk / Tesla",
+      "source": "Electrek",
+      "url": "https://electrek.co/2026/10/02/tesla-q3-2026-deliveries-486532/",
+      "summary": "Tesla delivered 486,532 vehicles in Q3 2026, down 2.1% from last year’s tax-credit rush record but about 25,000 above consensus. Model 3/Y still dominated; “Other Models” (Cybertruck/Semi/S/X leftovers) fell sharply, and Tesla again delivered more than it built as it worked down inventory. Year-to-date deliveries are still up nearly 9%, while energy storage at 13.7 GWh missed analyst hopes.",
+      "image_remote": "https://images.unsplash.com/photo-1560958089-b8a1929cea89?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-604.jpg",
+      "id": "0fc36b652fa755b158421bee5a54949259ec50bf",
+      "order": 608
+    },
+    "46f88890178bd6df771d4db7afe70b001861c9d0": {
+      "n": 11,
+      "headline": "SpaceX flies three Falcons, four landings, and a Dragon docking in under 13 hours",
+      "cat": "Elon Musk / SpaceX",
+      "source": "TeslaNorth",
+      "url": "https://teslanorth.com/2026/10/02/spacex-three-falcon-launches-13-hours/",
+      "summary": "SpaceX said Friday it completed three Falcon launches, four first-stage landings at separate Florida and California zones, and a Dragon docking to the International Space Station in under 13 hours—its 21st human spaceflight. The sprint included a Falcon Heavy NROL-97 flight and underscored how routine multi-pad, rapid-reuse days have become after Starship Flight 14’s recent Starlink V3 deploy.",
+      "image_remote": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-605.jpg",
+      "id": "46f88890178bd6df771d4db7afe70b001861c9d0",
+      "order": 609
+    },
+    "050d6f7cdb083c9e6f86584fd7994a1eec9ee8e3": {
+      "n": 12,
+      "headline": "Penguins’ Andrei Kuzmenko returns to practice, switches to No. 62 to honor parents",
+      "cat": "Penguins hockey",
+      "source": "Pittsburgh Penguins",
+      "url": "https://www.nhl.com/penguins/news/andrei-kuzmenko-rejoins-penguins",
+      "summary": "Andrei Kuzmenko rejoined Penguins practice Friday after leave following his father’s death on a fishing trip in Russia, and is expected to debut Saturday against Montreal. He took No. 62 to honor his mother’s 1962 birth year and his father’s age at death, thanked supporters, and said he is ready to help after missing the 7–0 opener. Coach Dan Muse said the team is glad to have him back around teammates.",
+      "image_remote": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-606.jpg",
+      "id": "050d6f7cdb083c9e6f86584fd7994a1eec9ee8e3",
+      "order": 610
+    },
+    "a50565c97f95b10603b8b135fe68cb33e0f0d224": {
+      "n": 13,
+      "headline": "Kancamagus Highway named No. 1 U.S. fall foliage drive as White Mountains peak",
+      "cat": "USA travel",
+      "source": "CBS Boston",
+      "url": "https://www.cbsnews.com/boston/news/kancamagus-highway-new-hampshire-fall-foliage/",
+      "summary": "Travel + Leisure ranked New Hampshire’s 34.5-mile Kancamagus Highway the country’s top fall foliage drive, citing immersion in White Mountain National Forest color between Lincoln and Conway. Peak weekends are the first two of October; the road has no gas or businesses but heavy scenic pull-offs and trails. CBS Boston notes New Hampshire draws nearly 4 million fall tourists and that this year’s maples look especially vibrant.",
+      "image_remote": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-607.jpg",
+      "id": "a50565c97f95b10603b8b135fe68cb33e0f0d224",
+      "order": 611
     }
   },
-  "updated": "Friday, October 2, 2026 · 4:00 PM ET"
+  "updated": "Friday, October 2, 2026 · 6:00 PM ET"
 }
