@@ -557,7 +557,21 @@
     "88881549630cafc9b40b9a73cf18661bbcf53575",
     "ada7c7c69ec16696a98688d3285b843c8c492d86",
     "54c8f42d82705e3de3d5e7eab53841ea38f5c691",
-    "45783d36ee3512808b57ee14d07eceec5491921e"
+    "45783d36ee3512808b57ee14d07eceec5491921e",
+    "2df1b564ae08344cd6740cafb61ec85e6cfc8a5c",
+    "c93fce20db14b555a14bc5488e89c76669d9f82c",
+    "5307c37f12251407a81c786ca3fc6feb18e4b9d3",
+    "cc4287db616c47f9bdb775c9b121891054095dd3",
+    "4145c0b6e901ca1f0463a58f2e981d50a4bf957e",
+    "49a05bbd2fbb0d58efb6356ce9bd11e3b89aed2f",
+    "ff6b4de69c22bcbfad9fc2ff17d2b342060ff010",
+    "ce7f7fee2a7cd94857820a1ca641b96e885141a3",
+    "c25c9e8a985714d8e5b40ebbfe0a07023f834029",
+    "0dad5a17304a65788aaec7be2019a36ac74dd9ed",
+    "2564d9823d7e0e2d4515fa9514d326b8b2503320",
+    "5db7b6af460a3d842f4d1b9406524fa8b911ce5b",
+    "32343a8cd37a623f27ea57e0060cd2b8812f302a",
+    "e2d6fb2be26d40b0643c14678c6dc0891d3401fd"
   ],
   "stories": {
     "0c2ac7a5e342411678296315c4c59043b1f067cc": {
@@ -7070,7 +7084,161 @@
       "image_local": "images/story-553.jpg",
       "id": "45783d36ee3512808b57ee14d07eceec5491921e",
       "order": 557
+    },
+    "2df1b564ae08344cd6740cafb61ec85e6cfc8a5c": {
+      "n": 1,
+      "headline": "Westport beach fix could run $14M to $54M as sand must be trucked in",
+      "cat": "Local / Fairfield CT",
+      "source": "Westport Journal",
+      "url": "https://westportjournal.com/community/parks-forum-on-14-to-54-million-beach-restoration/",
+      "summary": "In a Thursday-night Zoom forum covered Friday by Westport Journal, Parks and Rec Director Erik Barbieri warned Compo, Old Mill, Burying Hill and Canal beaches are “wasting away.” RACE Coastal Engineering laid out nourishment options restoring 2014 profiles, 1949 Army Corps conditions, or something in between—projecting $14.1 million on the cheap end to $54.5 million for the fullest rebuild. State and federal rules block dredging Long Island Sound solely for beach sand, so trucked-in material is the path; dunes and low-tide reclaim were dismissed. Officials aim for construction in late 2027 after Board of Finance and land-use reviews—fresh cost and regulatory detail beyond Thursday’s 06880 Zoom-shift note.",
+      "image_remote": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-554.jpg",
+      "id": "2df1b564ae08344cd6740cafb61ec85e6cfc8a5c"
+    },
+    "c93fce20db14b555a14bc5488e89c76669d9f82c": {
+      "n": 2,
+      "headline": "Westport raises Pink Aid flag to open Breast Cancer Awareness Month",
+      "cat": "Local / Fairfield CT",
+      "source": "News 12 Connecticut",
+      "url": "https://connecticut.news12.com/westport-raises-pink-aid-flag-to-mark-breast-cancer-awareness-month",
+      "summary": "Westport marked October 1 by raising the Pink Aid flag at Jessup Green, with First Selectman Kevin Christie reading a proclamation. Co-founder Amy Katz, a two-time breast cancer survivor, said the 2011 Westport-born nonprofit now works nationally and has distributed more than $16 million so patients are not forced to choose between treatment and groceries. Local businesses are donating a share of October proceeds. Free News 12 write-up is a fresh Fairfield County community URL not previously archived.",
+      "image_remote": "https://images.unsplash.com/photo-1516924962500-2b4b3b99ea02?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-555.jpg",
+      "id": "c93fce20db14b555a14bc5488e89c76669d9f82c"
+    },
+    "5307c37f12251407a81c786ca3fc6feb18e4b9d3": {
+      "n": 3,
+      "headline": "Trump’s Mobile stop today aims to boost Tuberville and Florida’s Donalds",
+      "cat": "Politics / MAGA",
+      "source": "Alabama Public Radio",
+      "url": "https://www.apr.org/news/2026-10-01/president-trump-heads-to-mobile-to-try-to-shore-up-the-gop-before-the-mid-terms",
+      "summary": "Alabama Public Radio’s AP package frames Friday’s Mitchell Center rally in Mobile as a two-fer: Sen. Tommy Tuberville’s gubernatorial bid against Doug Jones, plus adjacent Florida panhandle messaging for Rep. Byron Donalds’s governor race. Trump and Vance are concentrating on deep-red turf to juice base turnout amid an AP-NORC poll showing only 17% approve of Trump’s handling of living costs and 26% of the economy. The president’s 32-day midterm blitz continues Saturday in Vandalia, Ohio, and Monday in Grand Island, Nebraska—new Alabama-angle coverage distinct from Thursday’s Denton/Durant stops already on the site.",
+      "image_remote": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-556.jpg",
+      "id": "5307c37f12251407a81c786ca3fc6feb18e4b9d3"
+    },
+    "cc4287db616c47f9bdb775c9b121891054095dd3": {
+      "n": 4,
+      "headline": "Trump says Iran war ends ‘right after the election’ as 9,000 more troops head east",
+      "cat": "Politics / MAGA",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/live-updates/trump-iran-war-us-midterm-elections-troops-deployment/",
+      "summary": "CBS’s Friday live updates say the USS Theodore Roosevelt Carrier Strike Group and USS Makin Island Amphibious Group are steaming toward the Middle East—about 7,000 sailors and 2,000 Marines that could push U.S. forces in theater near 20,000 with three carrier groups. In Denton Thursday, Trump claimed Iran’s theocracy is “ready to fold up” and that the seven-month war will end “right after the election,” maybe before, with energy prices “rapidly” falling. He also told reporters Iran may be linked to the FlyDubai co-pilot stabbing attempt and vowed Tehran would be “hit very hard” if confirmed. Free full-text morning briefing, not previously archived.",
+      "image_remote": "https://images.unsplash.com/photo-1519003722824-194d4455a60c?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-557.jpg",
+      "id": "cc4287db616c47f9bdb775c9b121891054095dd3"
+    },
+    "4145c0b6e901ca1f0463a58f2e981d50a4bf957e": {
+      "n": 5,
+      "headline": "Trump: Iran will be ‘hit very hard’ if tied to FlyDubai cockpit stabbing",
+      "cat": "Immigration / security",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/10/02/trump-vows-to-hit-iran-very-hard-if-linked-to-flydubai-pilot-stabbing-attack",
+      "summary": "Euronews details Thursday’s White House exchange in which Trump said, based on what he is hearing, Iran was involved in the FlyDubai Dubai-to-Tel Aviv incident and that Tehran would be hit “very hard” if responsibility is proven. Netanyahu said the Omani co-pilot underwent “Islamist radical indoctrination,” passengers helped stop a plunge of roughly 17,000 feet, and the UAE is probing terrorist intent while FlyDubai suspends Israel flights. The piece also notes Patriot batteries in Saudi Arabia and Qatar plus the Theodore Roosevelt strike group’s move east—security framing distinct from the CBS troops-and-midterms live blog.",
+      "image_remote": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-558.jpg",
+      "id": "4145c0b6e901ca1f0463a58f2e981d50a4bf957e"
+    },
+    "49a05bbd2fbb0d58efb6356ce9bd11e3b89aed2f": {
+      "n": 6,
+      "headline": "San Francisco Vietnam vet shoots burglar in the buttocks after door drill break-in",
+      "cat": "Crime / self-defense",
+      "source": "Western Journal",
+      "url": "https://www.westernjournal.com/san-francisco-burglar-picks-wrong-house-takes-bullet-backside-vietnam-vet/",
+      "summary": "A 73-year-old Army Vietnam veteran in San Francisco’s Sunset District told CBS he awoke around 5 a.m. Sunday after a burglar drilled through a first-floor wooden door, then confronted a masked man in black—and a large dog—on the second floor. After being grabbed and going to his hands and knees, the homeowner fired one round that struck the intruder in the buttocks; the suspect fled, leaving a blood trail and the husky for Animal Control. Police later detained an injured man matching the description about three miles away with non-life-threatening wounds. Free Western Journal write-up of CBS-sourced facts; no shooter charged in the reporting.",
+      "image_remote": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-559.jpg",
+      "id": "49a05bbd2fbb0d58efb6356ce9bd11e3b89aed2f"
+    },
+    "ff6b4de69c22bcbfad9fc2ff17d2b342060ff010": {
+      "n": 7,
+      "headline": "Indiana homeowner shoots man trying to enter Laurel home; pair knew each other",
+      "cat": "Crime / courts",
+      "source": "FOX19",
+      "url": "https://www.fox19.com/2026/09/30/man-shot-during-tri-state-residential-break-in/",
+      "summary": "Indiana State Police say a Franklin County homeowner near Laurel opened fire around 5 a.m. Tuesday when an adult male tried to enter a Chapel Road residence, striking him at least once. The wounded man was taken to University of Cincinnati Medical Center with non-life-threatening injuries. Investigators say the two men knew each other and do not believe the shooting was random; no arrests had been announced and names were withheld pending the probe. Free FOX19 local report fills a fresh courts/self-defense URL after yesterday’s Tampa, Pampa, and Scottsdale arcs.",
+      "image_remote": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-560.jpg",
+      "id": "ff6b4de69c22bcbfad9fc2ff17d2b342060ff010"
+    },
+    "ce7f7fee2a7cd94857820a1ca641b96e885141a3": {
+      "n": 8,
+      "headline": "Apple Home Hub will ID users with AI facial recognition—not Face ID",
+      "cat": "Apple",
+      "source": "AppleInsider",
+      "url": "https://appleinsider.com/articles/26/10/01/home-hub-will-rely-on-ai-to-identify-which-users-content-to-display",
+      "summary": "AppleInsider relays Bloomberg’s Power On claim that the rumored Home Hub launching around Oct. 13 will switch household photos, music, and calendars using AI facial recognition rather than Face ID. The system may continuously watch the room and identify whoever interacts with the roughly six-inch display, possibly sharing tech with future Home cameras. The same podcast still points to a Dynamic Island MacBook Pro later this fall and says manufacturing has been ready while Apple waited on improved Siri AI—new identification-angle coverage beyond color and Oct. 13 slate stories already archived.",
+      "image_remote": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-561.jpg",
+      "id": "ce7f7fee2a7cd94857820a1ca641b96e885141a3"
+    },
+    "c25c9e8a985714d8e5b40ebbfe0a07023f834029": {
+      "n": 9,
+      "headline": "Leaked HomePad setup shows Photo Face clock-and-slideshow powered by iCloud",
+      "cat": "Apple",
+      "source": "The Apple Post",
+      "url": "https://www.theapplepost.com/2026/10/02/72890/leaked-homepad-setup-screens-reveal-new-photo-face-powered-by-icloud-photos/",
+      "summary": "Code researcher pdfu’s assets, reported Friday by The Apple Post, show HomePad setup offering a Photo Face that blends a large clock with Photos, Memories, or Shared Albums—requiring iCloud Photos and priming the device with full-res shots from a nearby iPhone. Users can shuffle people, pets, places, Featured Photos, or hand-picked images; the same face is tied to iPhone Duo StandBy. Preview art is grouped for Silver, Space Gray, Starlight, and Rose Pink finishes. Fresh Oct. 2 software-leak angle distinct from MacRumors color and AppleInsider AI-ID pieces.",
+      "image_remote": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-562.jpg",
+      "id": "c25c9e8a985714d8e5b40ebbfe0a07023f834029"
+    },
+    "0dad5a17304a65788aaec7be2019a36ac74dd9ed": {
+      "n": 10,
+      "headline": "Grok Build’s Agent Dashboard runs parallel coding agents from one screen",
+      "cat": "AI / Grok",
+      "source": "TeslaNorth",
+      "url": "https://teslanorth.com/2026/10/01/grok-agent-dashboard/",
+      "summary": "Grok announced Thursday a new Agent Dashboard inside Grok Build: type “grok dashboard” or “/dashboard” to see all agents on one screen, dispatch tasks in parallel, and spin agents into their own Git worktrees with Ctrl+W. A short demo shows the terminal command opening the top-down view. TeslaNorth frames it as the latest SpaceXAI coding-workflow upgrade alongside Cursor integration, voice calls, and 1Password support—genuine tooling news, not income-funnel spam, and a URL not yet in the archive.",
+      "image_remote": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-563.jpg",
+      "id": "0dad5a17304a65788aaec7be2019a36ac74dd9ed"
+    },
+    "2564d9823d7e0e2d4515fa9514d326b8b2503320": {
+      "n": 11,
+      "headline": "Pens: Lizotte out with lower-body issue a day after return; Kindel skates full",
+      "cat": "Penguins hockey",
+      "source": "PensBurgh",
+      "url": "https://www.pensburgh.com/news/81374/pens-points-lizotte-suffers-injury-as-kindel-nears-return",
+      "summary": "Friday’s PensBurgh notes say Blake Lizotte missed Thursday practice while being evaluated for a lower-body injury one day after coming off IR in Pittsburgh’s 7–0 opener. Ben Kindel skated in a full-contact jersey and joined line rushes, the clearest sign yet he is nearing a return. The club also reassigned Rutger McGroarty to Wilkes-Barre/Scranton. Fresh injury/practice update that moves past Wednesday’s 7–0 and Thursday’s U.S. Steel tour pieces already published.",
+      "image_remote": "https://images.unsplash.com/photo-1515703407324-5f753afd8be8?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-564.jpg",
+      "id": "2564d9823d7e0e2d4515fa9514d326b8b2503320"
+    },
+    "5db7b6af460a3d842f4d1b9406524fa8b911ce5b": {
+      "n": 12,
+      "headline": "Jets Thursday report: Fitzpatrick full; Hall, Mitchell, Taylor still out of practice",
+      "cat": "Jets football",
+      "source": "New York Jets",
+      "url": "https://www.newyorkjets.com/news/jets-injury-report-week-4-vs-bears-thursday-10-01-2026",
+      "summary": "The Jets’ official Thursday Week 4 injury report upgrades safety Minkah Fitzpatrick (groin) to full participation ahead of Sunday’s trip to Chicago, while Breece Hall (quad), Adonai Mitchell (finger), Mason Taylor (thumb), Dylan Parham (knee), Kiko Mauigoa (quad), and Kingsley Enagbare (knee) were all DNP. Chicago again listed Caleb Williams (hamstring) and D’Andre Swift (knee) as DNP. Official club sheet is a cleaner Friday-morning reference than Wednesday’s Jets Wire notes and Thursday’s ESPN Fitzpatrick-ready feature already archived.",
+      "image_remote": "https://images.unsplash.com/photo-1566577739112-5180d4bf9390?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-565.jpg",
+      "id": "5db7b6af460a3d842f4d1b9406524fa8b911ce5b"
+    },
+    "32343a8cd37a623f27ea57e0060cd2b8812f302a": {
+      "n": 13,
+      "headline": "Connecticut Renaissance Faire opens Pirates & Vikings weekend in Lebanon",
+      "cat": "Renaissance faires",
+      "source": "CTvisit",
+      "url": "https://ctvisit.com/events/pirates-vikings-connecticut-renaissance-faire",
+      "summary": "CTvisit lists the Connecticut Renaissance Faire’s Pirates & Vikings themed weekend for Saturday–Sunday, Oct. 3–4 at Lebanon Country Fairgrounds (122 Mack Road), 10:30 a.m. to 6 p.m. The weekend includes a pirate-and-viking costume contest Saturday and a Siren Song contest Sunday as the faire’s 2026 season runs through late October. Fresh local Always-search faire item distinct from yesterday’s Hanford Renaissance of Kings coverage and earlier Faerie Ring Revels archive entry.",
+      "image_remote": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-566.jpg",
+      "id": "32343a8cd37a623f27ea57e0060cd2b8812f302a"
+    },
+    "e2d6fb2be26d40b0643c14678c6dc0891d3401fd": {
+      "n": 14,
+      "headline": "Glacier’s Going-to-the-Sun alpine road typically closes Oct. 19—weather permitting",
+      "cat": "USA travel",
+      "source": "Deep Arrival",
+      "url": "https://deeparrival.com/news/glacier-going-to-the-sun-road-close-october-19-2026/",
+      "summary": "Deep Arrival’s free guide says the National Park Service rule of thumb puts Glacier’s alpine Going-to-the-Sun Road fully open until the third Monday of October—Oct. 19, 2026—unless snow gates Logan Pass earlier, as it already did Sept. 14. Lower West Entrance pavement to Lake McDonald stays open year-round; Highway 2 is the south-side backup when the pass closes. No vehicle reservations in 2026, but length/width limits still apply. Fresh alpine-close planning item distinct from Northeast Kingdom, Smokies, and Pennsylvania foliage stories from yesterday.",
+      "image_remote": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-567.jpg",
+      "id": "e2d6fb2be26d40b0643c14678c6dc0891d3401fd"
     }
   },
-  "updated": "Thursday, October 1, 2026 · 10:00 PM ET"
+  "updated": "Friday, October 2, 2026 · 7:00 AM ET"
 }
