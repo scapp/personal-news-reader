@@ -586,7 +586,19 @@
     "5f630cc899bd3626c6ca6b64e0e4eafef3da748b",
     "a37e5b80c8baf8bad93b6437f8079e4f0e85670a",
     "45d7f9b80a13a20fd35904895c330a4be30862e2",
-    "885b82b5ee3c1e2a008c51b11d918ec7cff85cab"
+    "885b82b5ee3c1e2a008c51b11d918ec7cff85cab",
+    "72bb1e56854fd7b6ca204883a4ba4ee5c01da603",
+    "d7c4a80a50f224561feaeb6a160d35a7dfcd388f",
+    "20f09a5d4fad1ad9259858af32a5591a5a480945",
+    "eca463fa7ff459059a6a1e0a9c71df9f395c31c5",
+    "572ed00aedba5ce9942dac4fdd0415038fd11a99",
+    "d7f106e5257a52f6c635d3728bf6704e80e0af7a",
+    "a37eee3078df0f532538c9b22509c4af5e40a6b4",
+    "5a2b80f9e4532ea41795838f3c75e519a46b6a8a",
+    "fdddb8b7b208b956cd000d28afe20f11195d5ea8",
+    "75242e8557f28bd106d059d24b5b608af4a0528d",
+    "d577013b3a893aa17ef77b3b1b00ee35e19f1e14",
+    "c2c11fabfc16c1b2fa684dbf0d15a6437efc74d0"
   ],
   "stories": {
     "0c2ac7a5e342411678296315c4c59043b1f067cc": {
@@ -7499,7 +7511,151 @@
       "image_local": "images/story-582.jpg",
       "id": "885b82b5ee3c1e2a008c51b11d918ec7cff85cab",
       "order": 586
+    },
+    "72bb1e56854fd7b6ca204883a4ba4ee5c01da603": {
+      "n": 1,
+      "headline": "Trumbull police recover two stolen cars; three arrested in overnight busts",
+      "cat": "Local / Trumbull CT",
+      "source": "Trumbull Patch",
+      "url": "https://patch.com/connecticut/trumbull/2-stolen-vehicles-found-trumbull-police",
+      "summary": "Trumbull police said three people were arrested this week after two stolen cars turned up in town. On Thursday morning officers found two 19-year-olds asleep in a Bridgeport-stolen car on Whitney Avenue and charged them with motor-vehicle larceny and conspiracy; after midnight Friday they recovered a Stratford-stolen car near Sterling and Walker roads and charged a 16-year-old Trumbull juvenile with larceny. Lt. Brian Falkenstein also noted 18 car-break complaints and eight stolen vehicles in September, many tied to unlocked cars or keys left inside.",
+      "image_remote": "https://images.unsplash.com/photo-1453873531674-2151bcd01707?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-583.jpg",
+      "id": "72bb1e56854fd7b6ca204883a4ba4ee5c01da603",
+      "order": 587
+    },
+    "d7c4a80a50f224561feaeb6a160d35a7dfcd388f": {
+      "n": 2,
+      "headline": "Trump warns Republicans he’s worried about Texas and Michigan midterms",
+      "cat": "Politics / MAGA",
+      "source": "ABC News",
+      "url": "https://abcnews.com/Politics/trump-warns-republicans-texas-michigan-ahead-midterms/story?id=136946201",
+      "summary": "Speaking in Oklahoma on Thursday after a Denton, Texas stop, President Trump told supporters he is not worried about Oklahoma turnout but that Republicans are “worried about Michigan” and “worried about Texas,” citing roughly 35 to 40 races that matter most. He again urged voters to pretend he is on the ballot for a midterm win “too big to rig,” attacked Democrats on inflation and immigration, and said the administration’s problem is poor public relations rather than results.",
+      "image_remote": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-584.jpg",
+      "id": "d7c4a80a50f224561feaeb6a160d35a7dfcd388f",
+      "order": 588
+    },
+    "20f09a5d4fad1ad9259858af32a5591a5a480945": {
+      "n": 3,
+      "headline": "Third U.S. carrier and ~10,000 more troops head near Iran before midterms",
+      "cat": "Politics / MAGA",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/2/new-aircraft-carrier-10000-us-troops-is-the-iran-war-about-to-escalate",
+      "summary": "A U.S. official told Al Jazeera the USS Theodore Roosevelt carrier strike group left San Diego bound for the Middle East, followed by the Makin Island Marine Expeditionary Unit with more than 2,000 Marines—part of a reported 9,000–10,000 additional sailors and Marines. By end of November, three carriers and two amphibious groups are expected near Iran, adding to roughly 50,000 U.S. personnel already in the region. Trump told Time it is “possible” he could ramp up bombing after the Nov. 3 midterms while rejecting Iran’s latest Hormuz ceasefire terms.",
+      "image_remote": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-585.jpg",
+      "id": "20f09a5d4fad1ad9259858af32a5591a5a480945",
+      "order": 589
+    },
+    "eca463fa7ff459059a6a1e0a9c71df9f395c31c5": {
+      "n": 4,
+      "headline": "ICE lodges detainers for 4 illegal immigrants arrested in Indiana sex sting",
+      "cat": "Immigration",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/us/four-11-suspected-sex-offenders-arrested-indiana-sting-illegal-immigrants-dhs",
+      "summary": "DHS said four of 11 men arrested in an Indiana undercover sex sting—suspects from Senegal, Nigeria, Mexico, and El Salvador—are illegal immigrants, and ICE has lodged detainers. Authorities say the men thought they were arranging sex with minors online before meeting detectives. A DHS spokesperson called on Indiana to honor the detainers and said the suspects will get immigration-court due process; charges include child solicitation and related sex offenses.",
+      "image_remote": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-586.jpg",
+      "id": "eca463fa7ff459059a6a1e0a9c71df9f395c31c5",
+      "order": 590
+    },
+    "572ed00aedba5ce9942dac4fdd0415038fd11a99": {
+      "n": 5,
+      "headline": "New Orleans homeowner who shot alleged Harrison Avenue intruder won’t face charges",
+      "cat": "Crime / self-defense",
+      "source": "FOX 8 WVUE",
+      "url": "https://www.fox8live.com/2026/10/02/man-shoots-kills-attempted-home-intruder-harrison-avenue-nopd-says/",
+      "summary": "NOPD said a man shot and killed an attempted home intruder in the 1400 block of Harrison Avenue Friday morning. Officers found the wounded man shortly before 7 a.m.; EMS later pronounced him dead. Afternoon, police confirmed the shooter fired because someone was trying to break into his house, said they believe he was defending himself and others, and said he will not face charges while cooperating with the investigation.",
+      "image_remote": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-587.jpg",
+      "id": "572ed00aedba5ce9942dac4fdd0415038fd11a99",
+      "order": 591
+    },
+    "d7f106e5257a52f6c635d3728bf6704e80e0af7a": {
+      "n": 6,
+      "headline": "Tesla nudges AI5 chip memory back up to 96GB after Thursday’s 72GB cut",
+      "cat": "Elon Musk / Tesla",
+      "source": "TeslaNorth",
+      "url": "https://teslanorth.com/2026/10/02/tesla-ai5-96gb-ram/",
+      "summary": "Elon Musk said Friday Tesla will ship its next-generation AI5 inference chip with 96GB of LPDDR5, reversing a Thursday plan that had halved memory to 72GB to secure volume and cut Optimus costs. Musk wrote Tesla “nudged AI5 up a little to 96GB” so it would not be the only company using the minimum-density LP5 part. The tweak aims to keep supply-chain and cost benefits while aligning with a more standard memory configuration as Optimus production ramps.",
+      "image_remote": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-588.jpg",
+      "id": "d7f106e5257a52f6c635d3728bf6704e80e0af7a",
+      "order": 592
+    },
+    "a37eee3078df0f532538c9b22509c4af5e40a6b4": {
+      "n": 7,
+      "headline": "Grok’s Primary Bot now suggests work unprompted as Grok 4.7 becomes the app base model",
+      "cat": "AI / Grok",
+      "source": "Progressive Robot",
+      "url": "https://www.progressiverobot.com/2026/10/02/primary-bot-grok-4-7-base-model-proactive-grok-bot/",
+      "summary": "SpaceXAI rolled out Primary Bot in Grok Bot—an assistant that spots work it can take off your plate, offers to handle it, and routes tasks to other Bots—while also making Grok 4.7 the base model across Fast, Expert, Build, and Heavy in the Grok apps. Official posts say suggestions do not count against weekly Grok Bot usage; accepted tasks still appear to draw on that allowance. Documentation has not yet caught up on controls, model selection inside Grok Bot, or how often Primary Bot will interrupt.",
+      "image_remote": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-589.jpg",
+      "id": "a37eee3078df0f532538c9b22509c4af5e40a6b4",
+      "order": 593
+    },
+    "5a2b80f9e4532ea41795838f3c75e519a46b6a8a": {
+      "n": 8,
+      "headline": "Jets’ Demario Davis scouts Bears’ Swift–Monangai run game as QB picture stays cloudy",
+      "cat": "Jets football",
+      "source": "New York Jets",
+      "url": "https://www.newyorkjets.com/news/jets-notebook-demario-davis-breaks-down-bears-rushing-game-dandre-swift-kyle-monangai-10-02-2026",
+      "summary": "Linebacker Demario Davis said Chicago’s rushing tandem—D’Andre Swift and Kyle Monangai—forces the defense to prepare for both open-field and downhill styles, with the Bears leading the NFL at 184.3 rush yards per game. HC Aaron Glenn said the Jets are preparing for all three Chicago QB options after Caleb Williams was ruled out Friday; Bagent and Keenum remain in the mix. Glenn also confirmed Hall, Mitchell, Taylor, Parham, and Mauigoa will miss Sunday’s game at Soldier Field.",
+      "image_remote": "https://images.unsplash.com/photo-1566577739112-5180d4bf9390?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-590.jpg",
+      "id": "5a2b80f9e4532ea41795838f3c75e519a46b6a8a",
+      "order": 594
+    },
+    "fdddb8b7b208b956cd000d28afe20f11195d5ea8": {
+      "n": 9,
+      "headline": "Apple: iPhone Duo’s foldable cover layer is replaceable to fight crease wear",
+      "cat": "Apple",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/10/01/apple-says-iphone-duo-has-replaceable-folding-display-layer-to-minimize-crease/",
+      "summary": "Apple VP of Hardware Engineering Kate Bergeron said iPhone Duo’s matte coating helps minimize the fold crease and that a top cover layer is engineered for long wear and can be peeled off and replaced to restore a day-one look. AppleCare service pricing lists a cover-layer replacement at $19 with coverage; cost without AppleCare is not yet public. The feature is meant to address crease aging that has plagued other foldables as Duo pre-orders approach mid-October.",
+      "image_remote": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-591.jpg",
+      "id": "fdddb8b7b208b956cd000d28afe20f11195d5ea8",
+      "order": 595
+    },
+    "75242e8557f28bd106d059d24b5b608af4a0528d": {
+      "n": 10,
+      "headline": "Insta360 adds free Spatial Capture 3D scans—four Gaussian splat renders a month",
+      "cat": "Gadgets / Insta360",
+      "source": "TechRadar",
+      "url": "https://www.techradar.com/cameras/360-cameras/insta360-cameras-get-free-3d-scanner-upgrade-and-the-gaussian-splatting-tool-gives-you-4-free-renders-a-month",
+      "summary": "Insta360 launched Spatial Capture, a beta feature that turns short 360 videos into navigable 3D Gaussian-splat scenes via the Insta360 app, with four free cloud renders per month. It works on X6 (and other models that shoot 5.7K/30fps or higher, including X4 Air and X5), prefers well-lit indoor spaces under about 100 square meters, and processes roughly a two-minute clip in one to two hours. TechRadar notes it is more casual than paid Splatica exports but is a meaningful free upgrade for X-series owners.",
+      "image_remote": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-592.jpg",
+      "id": "75242e8557f28bd106d059d24b5b608af4a0528d",
+      "order": 596
+    },
+    "d577013b3a893aa17ef77b3b1b00ee35e19f1e14": {
+      "n": 11,
+      "headline": "Vermont peak foliage this weekend; early-week cold could bring first flakes",
+      "cat": "USA travel",
+      "source": "VTDigger",
+      "url": "https://vtdigger.org/2026/10/01/peak-foliage-arrives-in-vermont-and-next-week-could-bring-years-first-flakes/",
+      "summary": "VTDigger’s foliage partnership with Henry’s Weather Channel says peak color has hit Vermont’s mountains and Northeast Kingdom, with Stratton–Mount Snow and the Kingdom strong this weekend and statewide peak expanding next week—likely the last full peak weekend in the mountains before leaves drop. The weekend looks sunny and crisp in the low 60s; a strong cold front Monday–Tuesday could drop temps into the upper 20s–30s and may even sprinkle snowflakes across northern Vermont Tuesday morning.",
+      "image_remote": "https://images.unsplash.com/photo-1477414348463-c0eb7f1359b6?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-593.jpg",
+      "id": "d577013b3a893aa17ef77b3b1b00ee35e19f1e14",
+      "order": 597
+    },
+    "c2c11fabfc16c1b2fa684dbf0d15a6437efc74d0": {
+      "n": 12,
+      "headline": "LEGO pausing North America Pick a Brick Standard orders Nov. 2 for warehouse upgrade",
+      "cat": "LEGO",
+      "source": "Jay’s Brick Blog",
+      "url": "https://jaysbrickblog.com/news/north-america-pick-a-brick-standard-orders-to-be-temporarily-paused-soon/",
+      "summary": "LEGO told North American customers that Pick a Brick Standard parts not yet migrated to local ‘Bestseller’ stock will become unavailable starting Monday, Nov. 2, 2026, with a final order day of Sunday, Nov. 1. The pause supports holiday operations and a warehouse expansion already offering 10,000+ Bestseller parts; remaining Standard elements are expected back as Bestsellers in Q1 2027. Duplo parts will take longer to return, so builders needing them are urged to order before the cutoff.",
+      "image_remote": "https://images.unsplash.com/photo-1587654780291-39c9404d746b?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-594.jpg",
+      "id": "c2c11fabfc16c1b2fa684dbf0d15a6437efc74d0",
+      "order": 598
     }
   },
-  "updated": "Friday, October 2, 2026 · 11:30 AM ET"
+  "updated": "Friday, October 2, 2026 · 4:00 PM ET"
 }
