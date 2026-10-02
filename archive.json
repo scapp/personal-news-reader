@@ -571,7 +571,22 @@
     "2564d9823d7e0e2d4515fa9514d326b8b2503320",
     "5db7b6af460a3d842f4d1b9406524fa8b911ce5b",
     "32343a8cd37a623f27ea57e0060cd2b8812f302a",
-    "e2d6fb2be26d40b0643c14678c6dc0891d3401fd"
+    "e2d6fb2be26d40b0643c14678c6dc0891d3401fd",
+    "b8ae38b89dcd8f1443e02d3a1be95258eecbafc4",
+    "c79c3d4dde4183da631218b3416796bf630c721c",
+    "f72ce88e0de556024c9d9ea2aa1a370a6d2b351f",
+    "570a55f84ecd994da8219b2d429f3ae8987eebbd",
+    "60e0bfe2e932cc26b46f8b77b24b81692fda75bb",
+    "166fbe9abe89a7c504b13351d59a497f667aefba",
+    "0e6607d6eef10b74965d2f86dad3e3fda7417206",
+    "f2822e1f0eb24d86d2796fa61a89d86856a29ebf",
+    "b8a1487d40adc50cf061e76c50f32e80aed20562",
+    "4d09edb6845a4ab79f7f3c709f38a499ca77077c",
+    "8cb0a314ca93b742f983a801a47b45783587149d",
+    "5f630cc899bd3626c6ca6b64e0e4eafef3da748b",
+    "a37e5b80c8baf8bad93b6437f8079e4f0e85670a",
+    "45d7f9b80a13a20fd35904895c330a4be30862e2",
+    "885b82b5ee3c1e2a008c51b11d918ec7cff85cab"
   ],
   "stories": {
     "0c2ac7a5e342411678296315c4c59043b1f067cc": {
@@ -5909,7 +5924,8 @@
       "summary": "Town officials congratulated Frenchtown Elementary third-grader Gabriella Gomez after she won the elementary division of U.S. Rep. Jim Himes’ America 250 essay contest, the town announced Sept. 29. Students in Connecticut’s 4th District answered what they value about American democracy and how they will participate in its future. Gomez will receive a congressional certificate, be recognized at a Thursday ceremony in Norwalk, and have her essay displayed in Himes’ office and shared on his social channels.",
       "image_remote": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-448.jpg",
-      "id": "7718280a54eab6b823482a5d6557c1b48f8800a4"
+      "id": "7718280a54eab6b823482a5d6557c1b48f8800a4",
+      "order": 452
     },
     "0b047964a928654f361de5acea70a501dd6d1c9b": {
       "headline": "Trump targets Fox News: ‘MAGA and REAL Patriots will never like Fox’",
@@ -5919,7 +5935,8 @@
       "summary": "President Trump blasted Fox News on Truth Social Wednesday for giving Chuck Schumer, Hakeem Jeffries, Jessica Tarlov, and other Democrats what he called excessive airtime to attack Republicans and him. “This is why MAGA, and REAL Patriots, will never like Fox,” he wrote, claiming the network repeats a “completely negative narrative.” The jab lands even as Fox remains the top news source for many Republicans and after Fox joined other outlets opposing White House media-access restrictions in court.",
       "image_remote": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-449.jpg",
-      "id": "0b047964a928654f361de5acea70a501dd6d1c9b"
+      "id": "0b047964a928654f361de5acea70a501dd6d1c9b",
+      "order": 453
     },
     "f1e2bb2b7aabea35ead8c9f9045264b404f4f8d2": {
       "headline": "Senate Democrats block GOP package tying stock-trading ban to nationwide voter ID",
@@ -5929,7 +5946,8 @@
       "summary": "Senate Democrats on Wednesday blocked a Republican bill pairing a ban on lawmakers’ stock trading with nationwide voter-ID rules tied to the SAVE America Act, falling short of the 60-vote threshold. Sen. Chuck Schumer called the voter-ID piece a “poison pill,” while House Administration Chair Bryan Steil said 53 senators backed the ethics reform before Democrats filibustered. Polls cited by Fox show overwhelming public support for both a trading ban and photo ID at the ballot box ahead of the Nov. 3 midterms.",
       "image_remote": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-450.jpg",
-      "id": "f1e2bb2b7aabea35ead8c9f9045264b404f4f8d2"
+      "id": "f1e2bb2b7aabea35ead8c9f9045264b404f4f8d2",
+      "order": 454
     },
     "a83b4ebaad4e4b056163b3b2847532653f064699": {
       "headline": "DHS: ICE nets more ‘worst of the worst’ — child predators, sex offenders, violent felons",
@@ -5939,7 +5957,8 @@
       "summary": "Homeland Security on Sept. 30 highlighted fresh ICE arrests of criminal illegal aliens convicted of sex crimes against minors, exploitation-material trafficking, assault, and burglary. Named cases include a Laotian national with five counts of sexual intercourse with a minor under 16 in California, Mexican nationals convicted of home-invasion sex offenses and child-exploitation transport, an Algerian with NYC assault and burglary convictions, and an Ohio felonious-assault case. Secretary Markwayne Mullin said ICE will keep hunting down and removing criminal illegal aliens under President Trump.",
       "image_remote": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-451.jpg",
-      "id": "a83b4ebaad4e4b056163b3b2847532653f064699"
+      "id": "a83b4ebaad4e4b056163b3b2847532653f064699",
+      "order": 455
     },
     "b7df85b3195337fe9305a48902305f7947d96a5a": {
       "headline": "Philadelphia woman fatally shoots masked man breaking into her Crescentville apartment",
@@ -5949,7 +5968,8 @@
       "summary": "A woman in her 20s fatally shot a masked 29-year-old man who broke into her second-floor Crescentville apartment on Castor Avenue around 5 a.m. Wednesday, Philadelphia police said. Chief Inspector Scott Small said she heard windows breaking, found the masked intruder inside, and fired one or two shots striking him in the head; he was pronounced dead at the scene. After responders removed the mask, she said she recognized him. Police believe the shooting followed a break-in; the woman is cooperating and neither person has been publicly identified.",
       "image_remote": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-452.jpg",
-      "id": "b7df85b3195337fe9305a48902305f7947d96a5a"
+      "id": "b7df85b3195337fe9305a48902305f7947d96a5a",
+      "order": 456
     },
     "70e6fbadf32827e28504dd53abd9b963d87bf75e": {
       "headline": "Michigan teen who stopped mall gunman gets probation — for carrying the pistol that saved lives",
@@ -5959,7 +5979,8 @@
       "summary": "Martinez Long, 19, received two years’ probation for carrying a concealed pistol without a license after he fatally shot Cameron Watkins during the July 3 Fairlane Town Center attack in Dearborn. Prosecutors accepted that Long’s shooting was lawful self-defense after Watkins killed one person and kept firing in the mall, yet charged Long because Michigan bars concealed-pistol licenses under age 21. The judge asked why Long brought a gun into the mall; conditions bar him from possessing firearms during probation despite a clean prior record.",
       "image_remote": "https://images.unsplash.com/photo-1595590424283-b8f17842773f?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-453.jpg",
-      "id": "70e6fbadf32827e28504dd53abd9b963d87bf75e"
+      "id": "70e6fbadf32827e28504dd53abd9b963d87bf75e",
+      "order": 457
     },
     "ff5ea267e692ef6c49db0eac586f1e843cba228d": {
       "headline": "Penguins open 2026-27 tonight at Flyers; Silovs starts, Malkin one point from 100 vs. Philly",
@@ -5969,7 +5990,8 @@
       "summary": "Pittsburgh opens the season Wednesday at 7:30 p.m. ET against cross-state rival Philadelphia on TNT, with Arturs Silovs expected to start in goal. Evgeni Malkin sits one point shy of becoming the sixth NHL player with 100-plus points against the Flyers, joining Crosby, Lemieux, Jagr, Trottier, and Gretzky. Several newcomers — including Nick Robertson, Hendrix Lapierre, Declan Carlile, and Trevor van Riemsdyk — are in line for debuts as the Pens chase points they’ve earned in 13 of their last 15 meetings with Philly.",
       "image_remote": "https://images.unsplash.com/photo-1515703407324-5f753afd8be8?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-454.jpg",
-      "id": "ff5ea267e692ef6c49db0eac586f1e843cba228d"
+      "id": "ff5ea267e692ef6c49db0eac586f1e843cba228d",
+      "order": 458
     },
     "6af6782bba8df2571de9b0a6e949c6662402eb14": {
       "headline": "Jets’ Minkah Fitzpatrick has ‘really good chance’ to return Sunday at Chicago",
@@ -5979,7 +6001,8 @@
       "summary": "Coach Aaron Glenn said Wednesday that safety Minkah Fitzpatrick, sidelined since a Week 1 groin injury, has “a really good chance” of playing Sunday at the Bears and will be limited in practice. Glenn confirmed running back Breece Hall remains week-to-week with a quad injury and will not practice Wednesday, alongside Adonai Mitchell (finger), Dylan Parham (knee), Mason Taylor (thumb), and Kiko Mauigoa (quad). Tight ends Kenyon Sadiq and Jeremy Ruckert figure as limited participants on the first injury report of the week.",
       "image_remote": "https://images.unsplash.com/photo-1566577739112-5180d4bf9390?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-455.jpg",
-      "id": "6af6782bba8df2571de9b0a6e949c6662402eb14"
+      "id": "6af6782bba8df2571de9b0a6e949c6662402eb14",
+      "order": 459
     },
     "dc84de9e8f87d9c45462146738920d1fc8c8c6b9": {
       "headline": "Technics EAH-A1000 flagship headphones: magnetic-fluid drivers, USB lossless, $449",
@@ -5989,7 +6012,8 @@
       "summary": "Technics unveiled the EAH-A1000 flagship wireless headphones built around a new 40 mm Magnetic Fluid Driver with SST Edge and a pure carbon-fiber diaphragm aimed at lower distortion and a wider soundstage. The $449 pair adds adaptive ANC, LDAC, lossless USB-C audio, three-device multipoint, Dolby Atmos head tracking, AI beamforming calls, and rated battery life up to 45 hours with ANC (90 without). Black and Platinum Greige finishes ship with a folding design and dedicated case.",
       "image_remote": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-456.jpg",
-      "id": "dc84de9e8f87d9c45462146738920d1fc8c8c6b9"
+      "id": "dc84de9e8f87d9c45462146738920d1fc8c8c6b9",
+      "order": 460
     },
     "0b302ca50e8bf587bb723df12272deaa079827a0": {
       "headline": "LEGO rolls out five Dodge and Jeep builds — Fast & Furious Charger to Jurassic Park Wrangler",
@@ -5999,7 +6023,8 @@
       "summary": "LEGO’s new American-muscle slate spans five sets from $26.99 to $199.99. Headline builds are the 1,516-piece Technic Dodge Charger R/T ($159.99) with a chain-driven V8 and working steering, and the 1,924-piece Jurassic Park Jeep Wrangler ($199.99) at 1:10 with a functional winch. Also arriving: Technic Wrangler Rubicon (723 pcs), Viper GTS-R (805 pcs) with a Forza Horizon 6 unlock, and a Speed Champions Challenger SRT Hellcat (390 pcs) for younger builders.",
       "image_remote": "https://images.unsplash.com/photo-1558060370-d644479cb6f7?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-457.jpg",
-      "id": "0b302ca50e8bf587bb723df12272deaa079827a0"
+      "id": "0b302ca50e8bf587bb723df12272deaa079827a0",
+      "order": 461
     },
     "ad8128cb70cab27a23ef80dc8186e2a885365fe0": {
       "headline": "Maine foliage report: peak color hits northern and western mountains this weekend",
@@ -6009,7 +6034,8 @@
       "summary": "Maine’s fourth foliage report Wednesday put northern counties and most western mountain regions at or near peak color, with leaf drop still under 30% for most areas. WABI called this the weekend to chase color up north and west under a favorable forecast — only a slight late-Sunday shower chance. Color remains moderate south of Bangor and along the coast, with near-peak expected next week as warm days and cool nights continue and last weekend’s rain eases drought stress.",
       "image_remote": "https://images.unsplash.com/photo-1508193638397-1c4234db14d8?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-458.jpg",
-      "id": "ad8128cb70cab27a23ef80dc8186e2a885365fe0"
+      "id": "ad8128cb70cab27a23ef80dc8186e2a885365fe0",
+      "order": 462
     },
     "41de799ba236050c00fe81b4f6326e740235aa99": {
       "headline": "Apple’s redesigned Vision Pro project reportedly on ‘life support’ as glasses take priority",
@@ -6019,7 +6045,8 @@
       "summary": "Bloomberg’s Mark Gurman says Apple’s next-generation Vision Pro overhaul (internal N224) is on “life support” as engineers shift toward smart glasses with broader mainstream appeal. Apple is still exploring lighter designs — including offloading components to an external pack — but a cheaper “Vision Air” (N100) was already shelved, and even a surviving N224 would not ship before late 2028 or early 2029. First display-free smart glasses are eyed for late 2027 while spatial-computing tech could migrate into smaller wearables.",
       "image_remote": "https://images.unsplash.com/photo-1622979135225-d2ba269cf1ac?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-459.jpg",
-      "id": "41de799ba236050c00fe81b4f6326e740235aa99"
+      "id": "41de799ba236050c00fe81b4f6326e740235aa99",
+      "order": 463
     },
     "68c7ac8604f0a2f22505a00367550054c692585e": {
       "headline": "Old Mill Grocery & Deli closes in Westport as Ricci brothers prep Darien restaurant",
@@ -6029,7 +6056,8 @@
       "summary": "Graziano and Maurizio Ricci closed Old Mill Grocery & Deli on Hillspoint Road near Compo Beach this week after three years, Patch reported Sept. 30, as the brothers prepare a new Italian restaurant at Heights Crossing in Darien this fall. Their Railroad Place restaurant in Westport remains open. The Soundview Empowerment Alliance, which owns the 107-year-old property, said it is in talks with prospective operators to keep a grocery at the site.",
       "image_remote": "https://images.unsplash.com/photo-1604719312566-8912e9227c6a?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-460.jpg",
-      "id": "68c7ac8604f0a2f22505a00367550054c692585e"
+      "id": "68c7ac8604f0a2f22505a00367550054c692585e",
+      "order": 464
     },
     "9986abf6c7db8536ad4afad518f36aa75db2df3d": {
       "headline": "White House touts 96% drop in legal immigration from Muslim-majority nations",
@@ -6039,7 +6067,8 @@
       "summary": "A White House X post highlighting Cato Institute data showing roughly a 96% cut in legal immigration from Muslim-majority countries since 2024 drew cheers from Republicans on Sept. 30. The chart shows monthly admissions that once topped 22,000 falling toward near zero after Trump took office in January 2025. GOP lawmakers and Turning Point figures framed the drop as a midterm-worthy win, while Cato’s David Bier said the policy harms Americans — though courts have not ruled the reduction illegal.",
       "image_remote": "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-461.jpg",
-      "id": "9986abf6c7db8536ad4afad518f36aa75db2df3d"
+      "id": "9986abf6c7db8536ad4afad518f36aa75db2df3d",
+      "order": 465
     },
     "371f943978d237207a2c91c79d4c06d125278020": {
       "headline": "State Department says it has revoked more than 250,000 visas under Trump",
@@ -6049,7 +6078,8 @@
       "summary": "The State Department told Fox News Digital it has revoked more than 250,000 visas since Trump returned to office, citing crimes, fraud, birth tourism, terrorism support, and national-security threats. Spokesperson Tommy Pigott called the milestone historic continuous vetting; about 2,300 revocations tied to birth tourism. The agency also yanked visas for 27 Latin American officials over corruption allegations this week, and officials have floated broader B1/B2 cuts for asylum claimants.",
       "image_remote": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-462.jpg",
-      "id": "371f943978d237207a2c91c79d4c06d125278020"
+      "id": "371f943978d237207a2c91c79d4c06d125278020",
+      "order": 466
     },
     "8d122f0bf8c0a377b73da058892025ea3cae91f1": {
       "headline": "Trump announces $54 billion South Korean investment in Alaska natural-gas pipeline",
@@ -6059,7 +6089,8 @@
       "summary": "President Trump said Wednesday South Korea will invest about $54 billion to export Alaska natural gas via an 807-mile North Slope-to-LNG pipeline long pushed by Sen. Dan Sullivan, who faces a tough reelection fight. The pledge ties to a 2025 trade deal that swapped lower auto tariffs for hundreds of billions in U.S. investment. Officials said pipeline construction could take three years with exports two years later if financing lands — part of a midterm push showcasing foreign-investment wins in contested red states.",
       "image_remote": "https://images.unsplash.com/photo-1513828583688-c52646db42da?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-463.jpg",
-      "id": "8d122f0bf8c0a377b73da058892025ea3cae91f1"
+      "id": "8d122f0bf8c0a377b73da058892025ea3cae91f1",
+      "order": 467
     },
     "4e19beba352019a9dd96187594f127f4434aa754": {
       "headline": "Navarro warns Canada will ‘pay even more dearly’ if it ‘interferes’ in U.S. midterms",
@@ -6069,7 +6100,8 @@
       "summary": "Trump trade adviser Peter Navarro told a Washington economic conference Tuesday that Canadian lobbyists should “get the hell out” of the U.S. and that Ottawa would “pay even more dearly” if it interfered in races in Maine or Michigan. He did not detail what interference would look like as new U.S. bans on some Canadian alcohol, dairy byproducts, motorcycles, and molasses took effect. Trump said he expects Canada to return to talks within weeks seeking tariff relief.",
       "image_remote": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-464.jpg",
-      "id": "4e19beba352019a9dd96187594f127f4434aa754"
+      "id": "4e19beba352019a9dd96187594f127f4434aa754",
+      "order": 468
     },
     "892009d0ec38c83bc991e5a96e80090dfdbe4500": {
       "headline": "GW student groups slam Turning Point ‘Infidels’ screening as Islamophobic",
@@ -6079,7 +6111,8 @@
       "summary": "At least 11 George Washington University student organizations, including SJP, MSA, and the SGA, condemned TPUSA’s Monday campus screening of Daily Wire’s “Run Hide Fight: Infidels,” calling the film Islamophobic. Chapter president Ryan Van Slingerland said the backlash proves First Amendment culture has atrophied. The film follows students fighting a radical Islamist takeover of a campus distracted by a pro-Palestinian encampment; SGA passed a nonbinding resolution opposing future funding for similar events.",
       "image_remote": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-465.jpg",
-      "id": "892009d0ec38c83bc991e5a96e80090dfdbe4500"
+      "id": "892009d0ec38c83bc991e5a96e80090dfdbe4500",
+      "order": 469
     },
     "65773386da549901a2990bb1641377258dd8b6ff": {
       "headline": "Apple’s smart home hub rumored with iMac G4-style design for Oct. 13 unveil",
@@ -6089,7 +6122,8 @@
       "summary": "Bloomberg’s Mark Gurman says Apple’s long-rumored smart home hub will use a square 6-inch display on a rounded metal base recalling the 2002 iMac G4, plus a wall-mount J491 variant, MacRumors reported Sept. 30. The always-plugged USB-C device will handle HomeKit, FaceTime, intercom, recipes, and face/voice personalization with visitor privacy mode. Interface mixes Watch, TV, and iPad cues with StandBy-style clocks; introduction is expected Oct. 13 beside new HomePod mini and Apple TV models.",
       "image_remote": "https://images.unsplash.com/photo-1558002038-1055907df827?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-466.jpg",
-      "id": "65773386da549901a2990bb1641377258dd8b6ff"
+      "id": "65773386da549901a2990bb1641377258dd8b6ff",
+      "order": 470
     },
     "1dcc5b7ce252338256eef6555292b57cca52e06b": {
       "headline": "SpaceXAI weighs four-tier Grok and X pricing from free to $100 Ultra",
@@ -6099,7 +6133,8 @@
       "summary": "Elon Musk’s SpaceXAI is evaluating a unified four-tier subscription for Grok and X, Bloomberg reported via an internal document summarized Sept. 30. Plans reportedly stretch from a capped free tier to a $100 monthly Ultra package that includes Grok Bot agent access, plus an $8 Lite bundle pairing Grok with an X verified badge and lighter ads. The move aims to broaden adoption and monetize heavy compute as SpaceXAI competes with OpenAI and Anthropic.",
       "image_remote": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-467.jpg",
-      "id": "1dcc5b7ce252338256eef6555292b57cca52e06b"
+      "id": "1dcc5b7ce252338256eef6555292b57cca52e06b",
+      "order": 471
     },
     "7ead935c29be0b511b3797a1d4fb2c627efd3050": {
       "headline": "Jets’ Aaron Glenn preps for Bears’ Ben Johnson — familiar foes from Lions days",
@@ -6109,7 +6144,8 @@
       "summary": "Jets coach Aaron Glenn said Wednesday his club is ready for Sunday’s Week 4 rematch with Chicago and former Lions colleague Ben Johnson, who coordinated Detroit’s offense while Glenn ran the defense. The Bears (2-1) crushed Philadelphia 27–7 on MNF behind Case Keenum with Caleb Williams still nursing a hamstring; the Jets (1–2) just lost to Detroit 31–24. Both teams rank among the NFL’s top clock-control offenses, setting up a Soldier Field battle of sustained drives.",
       "image_remote": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-468.jpg",
-      "id": "7ead935c29be0b511b3797a1d4fb2c627efd3050"
+      "id": "7ead935c29be0b511b3797a1d4fb2c627efd3050",
+      "order": 472
     },
     "c4c55f80710e0936c0610dd67aa82c7171c8579a": {
       "headline": "Oakbrook Center mall shooting leaves man dead, woman wounded; three in custody",
@@ -6119,7 +6155,8 @@
       "summary": "Oak Brook police say a man was killed and a woman wounded shortly after noon Wednesday in the Oakbrook Center parking lot outside L.L.Bean after an altercation between two vehicles carrying five people turned into an exchange of gunfire. One vehicle fled and was found in Oakbrook Terrace; three occupants were taken into custody. Police have not named the victim, disclosed a motive, or announced charges; an update is expected Thursday. The mall stayed open amid a heavy police presence.",
       "image_remote": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-469.jpg",
-      "id": "c4c55f80710e0936c0610dd67aa82c7171c8579a"
+      "id": "c4c55f80710e0936c0610dd67aa82c7171c8579a",
+      "order": 473
     },
     "f602fe60c461704d501946793770108b72725c98": {
       "headline": "LEGO Pick a Brick Q4 preview: dragon knights, seal, and Classic Space astronaut",
@@ -6129,7 +6166,8 @@
       "summary": "Stonewars previewed upcoming LEGO Pick a Brick parts shown at Skærbæk, with Q4 2026 drops spanning animals, minifigs, and prints. Highlights include a Medium Brown seal in October, Sea Serpent GWP dragon-knight torso and shield in November, a light-blue Classic Space astronaut completion pack, and Creator pirate figs available as soon as Oct. 1. Printed Hubble tiles, Architecture windows, and new plant colors round out the appetizer ahead of monthly PaB lists.",
       "image_remote": "https://images.unsplash.com/photo-1558060370-d644479cb6f7?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-470.jpg",
-      "id": "f602fe60c461704d501946793770108b72725c98"
+      "id": "f602fe60c461704d501946793770108b72725c98",
+      "order": 474
     },
     "e990f37cadc511fce6a4405a57dcd57df973da8b": {
       "headline": "Harley-Davidson revives Super Glide for 2026: Softail, 117 Classic, 2,500 units",
@@ -6139,7 +6177,8 @@
       "summary": "Harley revived the Super Glide name for 2026 on a modern Softail chassis with the Milwaukee-Eight 117 Classic (98 hp, 120 lb-ft), mini-apes, mid controls, a five-gallon tank, White Onyx Pearl paint, and chrome laced wheels, TopSpeed reported Sept. 30. Production is capped at 2,500 serialized bikes worldwide at a $15,999 U.S. MSRP — about $1,000 over the related Street Bob — packing Road/Sport/Rain modes, cornering ABS, traction control, and TPMS under throwback FX-inspired styling.",
       "image_remote": "https://images.unsplash.com/photo-1558981852-426c6c22a060?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-471.jpg",
-      "id": "e990f37cadc511fce6a4405a57dcd57df973da8b"
+      "id": "e990f37cadc511fce6a4405a57dcd57df973da8b",
+      "order": 475
     },
     "8866250ad84cb492e2ac5fdc2b42cca8a650f5df": {
       "headline": "Westport police charge Brooklyn man in $89,000 bank-fraud wire case",
@@ -6149,7 +6188,8 @@
       "summary": "Westport police charged 38-year-old Brooklyn resident John Hammonds with first-degree larceny and third-degree identity theft after an alleged $89,000 unauthorized in-person wire transfer from a victim’s M&T Bank account in January 2025, Patch reported Sept. 30. Investigators said Hammonds posed as the victim at a New York branch; he was extradited from New Jersey after an Aug. 20 custody notice and is held on $70,000 bail, with a Stamford Superior Court date set for Nov. 9.",
       "image_remote": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-472.jpg",
-      "id": "8866250ad84cb492e2ac5fdc2b42cca8a650f5df"
+      "id": "8866250ad84cb492e2ac5fdc2b42cca8a650f5df",
+      "order": 476
     },
     "8958f65a83596b5feb552664558705c60f7dfe03": {
       "headline": "Tim Scott: MAGA Inc. cash means ‘money will not be our problem’ for Senate GOP",
@@ -6159,7 +6199,8 @@
       "summary": "Senate Republican campaign chairman Tim Scott told reporters Wednesday that White House chief of staff Susie Wiles assured GOP senators “money will not be our problem” as MAGA Inc. and allied groups pledge millions more for battleground races ahead of the midterms, the Associated Press reported. Scott said “cash is king” and that “President Trump and his agenda are on the ballot,” while acknowledging closer-than-expected fights in Kansas and more work needed to flip Georgia’s Jon Ossoff seat.",
       "image_remote": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-473.jpg",
-      "id": "8958f65a83596b5feb552664558705c60f7dfe03"
+      "id": "8958f65a83596b5feb552664558705c60f7dfe03",
+      "order": 477
     },
     "fdd76469ac201f82fa64e487a88f056b89abf603": {
       "headline": "Trump warns midterm loss means ‘open borders,’ urges Michigan voters to reject El-Sayed",
@@ -6169,7 +6210,8 @@
       "summary": "President Trump on Wednesday urged voters to turn out for Republican candidates even if they are not their favorites, warning that a Democratic midterm win would reopen the border and undo his administration’s immigration gains, Just the News reported. Pointing to Michigan’s open Senate race, he asked whether voters would back “a guy who’s a communist,” an apparent swipe at Democrat Abdul El-Sayed, who is locked in a close contest with former Rep. Mike Rogers for the seat Sen. Gary Peters is leaving.",
       "image_remote": "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-474.jpg",
-      "id": "fdd76469ac201f82fa64e487a88f056b89abf603"
+      "id": "fdd76469ac201f82fa64e487a88f056b89abf603",
+      "order": 478
     },
     "ece0ed6c6e41436a492b14ca2d6a8b2efbba4763": {
       "headline": "Trump clashes with DHS’s Mullin after leaked ICE call sparks ‘softening’ scare",
@@ -6179,7 +6221,8 @@
       "summary": "A leaked weekend ICE leadership call that some officials read as limiting arrests to criminals set off President Trump, who told Fox News ICE would still arrest anyone in the country illegally and privately vented at DHS Secretary Markwayne Mullin, CNN reported via KVIA on Sept. 30. DHS denied any soft directive and said “no one is off the table,” while sources said Mullin privately favors dialing back “collateral arrests.” The episode lands weeks before midterms as ICE posted a record ~51,000 August arrests.",
       "image_remote": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-475.jpg",
-      "id": "ece0ed6c6e41436a492b14ca2d6a8b2efbba4763"
+      "id": "ece0ed6c6e41436a492b14ca2d6a8b2efbba4763",
+      "order": 479
     },
     "5261a2a76f82372f480d574cce16ad05a9a96dfc": {
       "headline": "October 1 immigration reset: Visa Bulletin moves, Medicaid narrows, social-media screening expands",
@@ -6189,7 +6232,8 @@
       "summary": "Fiscal year 2027 opens Oct. 1 with a mixed State Department Visa Bulletin—India EB-2 and unreserved EB-5 final-action dates reopen while some EB-2/EB-3 dates for the rest of the world retrogress—plus tighter federally funded Medicaid/CHIP rules and expanded online-presence checks for I, TN, and TD visa applicants, Newsweek reported Sept. 30. Applicants in those visa classes are told to set social profiles public; former USCIS officials flagged the bulletin’s late release and a missing Diversity Visa section as unsettling for DV lottery filers.",
       "image_remote": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-476.jpg",
-      "id": "5261a2a76f82372f480d574cce16ad05a9a96dfc"
+      "id": "5261a2a76f82372f480d574cce16ad05a9a96dfc",
+      "order": 480
     },
     "c8d7404092a583a94e55914437159e8b067214e5": {
       "headline": "Oakland County declines all charges against CPL holder in Great Lakes Crossing mall shooting",
@@ -6199,7 +6243,8 @@
       "summary": "Oakland County prosecutors declined homicide and all other charges against Detroit CPL holder Amuri Chambers-Shannon in the July 11 fatal food-court shooting at Great Lakes Crossing Outlets that killed 20-year-old KeShawn Emery and wounded a 19-year-old woman, defense attorney Nicholas Somberg announced, New Media Detroit reported Sept. 30. Somberg said video showed his client attacked, knocked down, and assaulted by multiple people before firing; Chambers-Shannon stayed on scene, and Michigan’s no-duty-to-retreat rules framed the self-defense review that closed after more than two months.",
       "image_remote": "https://images.unsplash.com/photo-1589578527966-fdac0f44566c?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-477.jpg",
-      "id": "c8d7404092a583a94e55914437159e8b067214e5"
+      "id": "c8d7404092a583a94e55914437159e8b067214e5",
+      "order": 481
     },
     "ad56b104f0a8e6590e92afa2b6534a34b5975c80": {
       "headline": "SpaceXAI ships Grokipedia v0.3 with refreshed design; site claims 6M+ AI articles",
@@ -6209,7 +6254,8 @@
       "summary": "SpaceXAI launched Grokipedia v0.3 on Wednesday with a refreshed visual design and new features for its AI-generated encyclopedia alternative to Wikipedia, Tesla North reported. The site says it now hosts more than six million articles; readers suggest corrections that Grok reviews rather than editing pages directly, and Elon Musk has said the project may eventually take the Encyclopedia Galactica name once quality is high enough. The drop continues a rapid cadence after v0.1 and v0.2 in late 2025 and follows Grok 4.7’s recent launch.",
       "image_remote": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-478.jpg",
-      "id": "ad56b104f0a8e6590e92afa2b6534a34b5975c80"
+      "id": "ad56b104f0a8e6590e92afa2b6534a34b5975c80",
+      "order": 482
     },
     "7330a7b74ccf250b7822c108c39c852390f69549": {
       "headline": "Tesla’s Cybercab faces NHTSA Special Order deadline: 21 answers or risk huge fines",
@@ -6219,7 +6265,8 @@
       "summary": "Tesla had until Sept. 30 to answer a 21-point NHTSA Special Order explaining how the steering-wheel-free, pedal-free Cybercab meets driver-era FMVSS rules—or face civil penalties up to about $27,874 per day, The Auto Wire reported. The audit opened the day Austin commercial service began; Zoox’s similar self-certification path ended in a Part 555 exemption capped at 2,500 vehicles a year, a ceiling that would clash with Tesla’s plan for Cybercab to become its highest-volume robotaxi. As of Wednesday afternoon neither Tesla nor NHTSA had confirmed a filing.",
       "image_remote": "https://images.unsplash.com/photo-1617788138017-80ad40651399?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-479.jpg",
-      "id": "7330a7b74ccf250b7822c108c39c852390f69549"
+      "id": "7330a7b74ccf250b7822c108c39c852390f69549",
+      "order": 483
     },
     "4bc1d5ea86bf9f3485e62418f250827fb935e012": {
       "headline": "Jets Week 4 injury report: Hall, Mitchell, Parham, Taylor DNPs; Fitzpatrick limited",
@@ -6229,7 +6276,8 @@
       "summary": "The Jets’ Wednesday injury report ahead of Sunday’s Week 4 trip to Chicago listed Breece Hall (quad), Adonai Mitchell (finger), Dylan Parham (knee), Mason Taylor (thumb), and Kiko Mauigoa (quad) as did-not-participate, while safety Minkah Fitzpatrick (groin) was limited after Aaron Glenn said he has a “really good chance” to play, Jets.com posted Sept. 30. Chicago listed QB Caleb Williams (hamstring) among its DNPs, underscoring an uncertain Bears quarterback picture opposite New York’s battered skill-position group.",
       "image_remote": "https://images.unsplash.com/photo-1566577739112-5180d4bf9390?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-480.jpg",
-      "id": "4bc1d5ea86bf9f3485e62418f250827fb935e012"
+      "id": "4bc1d5ea86bf9f3485e62418f250827fb935e012",
+      "order": 484
     },
     "62e508b1c0ed6d70c933479f6a66a2c009f0acec": {
       "headline": "LEGO October wave hits shelves: UCS Executor, PlayStation, Downton, Pokémon and more",
@@ -6239,7 +6287,8 @@
       "summary": "Seventeen new LEGO sets went on sale Oct. 1 (with reporting dated Sept. 30) including the 6,130-piece UCS Executor Super Star Destroyer ($799.99) with a Darth Vader lightsaber GWP, the first LEGO PlayStation set plus Astro Bot GWP, Ideas Downton Abbey and Wallace & Gromit, Pokémon Poké Ball and Up-Scaled Red, Icons Book Nook and Holiday House, plus seasonal Christmas builds, Brick Fanatics reported. Four Avengers: Doomsday sets follow on Oct. 4; Spain gets a region-exclusive FIFA World Cup trophy Champions Edition.",
       "image_remote": "https://images.unsplash.com/photo-1587654780291-39c9404d746b?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-481.jpg",
-      "id": "62e508b1c0ed6d70c933479f6a66a2c009f0acec"
+      "id": "62e508b1c0ed6d70c933479f6a66a2c009f0acec",
+      "order": 485
     },
     "4a5a0ef62eb4eaf0828327759e50d47d62111221": {
       "headline": "Maryland Renaissance Festival’s 50th season runs weekends through Oct. 25 in Crownsville",
@@ -6249,7 +6298,8 @@
       "summary": "The Maryland Renaissance Festival continues its 50th season in Crownsville’s Revel Grove every weekend through Oct. 25, open 10 a.m. to 7 p.m. with more than 200 performers, three daily combat jousts, 140-plus merchants, and a 1540 storyline starring Henry VIII and Anne of Cleves as the village’s royal charter hangs in the balance, Eye On Annapolis reported Sept. 30. Tickets are online-only and can sell out; cash is required for beverages and games.",
       "image_remote": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-482.jpg",
-      "id": "4a5a0ef62eb4eaf0828327759e50d47d62111221"
+      "id": "4a5a0ef62eb4eaf0828327759e50d47d62111221",
+      "order": 486
     },
     "2ea37ae47899cb9dcbb2ced093a6a8cd51f69bb8": {
       "headline": "Fairfield starts $8.2M Rooster River flood basins at Fairchild Wheeler and Tunxis Hill",
@@ -6259,7 +6309,8 @@
       "summary": "Fairfield began the first phases of an $8.2 million Rooster River flood-mitigation effort this week, with Grasso Construction starting a detention basin at Fairchild Wheeler Golf Course in coordination with Bridgeport and survey staking under way for a second basin at Tunxis Hill Park, Patch reported Sept. 30. Funding mixes Urban Act and Clean Water grants with town bonding; substantial flood benefit is targeted by year-end and final completion in spring 2027, while Selectpersons meet Oct. 1 on re-awarding Tunxis Hill after Grasso sought to withdraw its bid.",
       "image_remote": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-483.jpg",
-      "id": "2ea37ae47899cb9dcbb2ced093a6a8cd51f69bb8"
+      "id": "2ea37ae47899cb9dcbb2ced093a6a8cd51f69bb8",
+      "order": 487
     },
     "678f75103138eb8ac2a05cf286742894311aed7d": {
       "n": 1,
@@ -6270,7 +6321,8 @@
       "summary": "Seasonal dog rules at Westport’s Compo Beach take effect Thursday, Oct. 1, and run through March 31, 2027, Patch reported. Dogs are barred from the pavilion, playground, and walkways; they must be leashed everywhere except the posted off-leash beach south of the pavilion, including South Beach. Owners must pick up waste, violations carry a $77 fine, and animals remain banned from Westport athletic fields and playgrounds year-round, including all of Luciano Park.",
       "image_remote": "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-484.jpg",
-      "id": "678f75103138eb8ac2a05cf286742894311aed7d"
+      "id": "678f75103138eb8ac2a05cf286742894311aed7d",
+      "order": 488
     },
     "110b3e21ab508b36e62ff2b4c583697fdea7fb67": {
       "n": 2,
@@ -6281,7 +6333,8 @@
       "summary": "Stamford’s automated speed cameras will become operational in October at 14 locations across seven school zones, Mayor Caroline Simmons announced, Patch reported Sept. 30. An exact start date is still pending. Tickets apply when drivers exceed the posted limit by 11 mph or more; a 45-day warning period comes first, then $50 for a first offense and $75 for later ones, with no license points or insurance hits. Camera streets cover Cloonan, Dolan, Springdale, Toquam, Stamford High, Julia A. Stark, K.T. Murphy, and Strawberry Hill school areas.",
       "image_remote": "https://images.unsplash.com/photo-1449965408869-eaa3f722e40d?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-485.jpg",
-      "id": "110b3e21ab508b36e62ff2b4c583697fdea7fb67"
+      "id": "110b3e21ab508b36e62ff2b4c583697fdea7fb67",
+      "order": 489
     },
     "991e8baa7aad945be2256a183409c09ce9144c35": {
       "n": 3,
@@ -6292,7 +6345,8 @@
       "summary": "President Trump’s Thursday Texas and Oklahoma stops kick off a self-described 32-day midterm blitz through Nov. 3, while Vice President JD Vance stumps in Florida, the Associated Press reported via WTOP. Trump tours a Denton truck plant tied to Sen. hopeful Ken Paxton’s race, then rallies in Durant for Oklahoma gubernatorial nominee Mike Mazzei; aides say red-state stops also hit Dallas–Fort Worth and Florida panhandle media markets. Trump blamed messaging—“We’re not getting the word out”—as Republicans worry about costs, gas prices, and the Iran war.",
       "image_remote": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-486.jpg",
-      "id": "991e8baa7aad945be2256a183409c09ce9144c35"
+      "id": "991e8baa7aad945be2256a183409c09ce9144c35",
+      "order": 490
     },
     "0ac887039f1b623c1d09385db38b913bd29012b9": {
       "n": 4,
@@ -6303,7 +6357,8 @@
       "summary": "ICE rearrested Honduran national Oscar Evaristo Nunez on Sept. 15 after Fairfax County, Virginia, released him despite an ICE detainer, DHS said, Fox News reported Sept. 30. Nunez had been arrested Aug. 27, 2025, on aggravated sexual battery involving children and nonconsensual filming of a minor; DHS said he illegally entered near Arizona around 2003 and remains in ICE custody. Secretary Markwayne Mullin blasted “sanctuary politicians,” while Fairfax did not immediately comment and Gov. Abigail Spanberger has rolled back some state ICE 287(g) cooperation since January.",
       "image_remote": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-487.jpg",
-      "id": "0ac887039f1b623c1d09385db38b913bd29012b9"
+      "id": "0ac887039f1b623c1d09385db38b913bd29012b9",
+      "order": 491
     },
     "13fbb635ac0840390c85b6288a077d5f694ff3a5": {
       "n": 5,
@@ -6314,7 +6369,8 @@
       "summary": "The White House removed CNN from Thursday’s television press-pool duty for President Trump’s Denton, Texas, and Durant, Oklahoma, trip even though Sunday’s rotation had listed the network, Mediaite reported Oct. 1. The switch comes days after a federal judge temporarily restored White House-grounds access for CNN, MS NOW, and Politico, without expressly covering Air Force One or travel-pool slots. CNN was similarly blocked from a Tennessee AF1 pool last weekend; counsel Theodore Boutrous again called the broader ban a First Amendment and due-process violation.",
       "image_remote": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-488.jpg",
-      "id": "13fbb635ac0840390c85b6288a077d5f694ff3a5"
+      "id": "13fbb635ac0840390c85b6288a077d5f694ff3a5",
+      "order": 492
     },
     "95e9ecc430bb4c6ca6fec9ef51fca63a91222f73": {
       "n": 6,
@@ -6325,7 +6381,8 @@
       "summary": "Nicholas Robertson scored twice in his Penguins debut and Arturs Silovs stopped 19 shots as Pittsburgh blanked Philadelphia 7–0 in both clubs’ opener Wednesday at Xfinity Mobile Arena, NHL.com reported Oct. 1. Filip Hallander had a goal and two assists; Hendrix Lapierre, Ville Koivunen, Evgeni Malkin, and Egor Chinakhov also scored, with Malkin reaching 100 career points against the Flyers. Sidney Crosby called it the “right mentality” on the road; the win tied Pittsburgh’s biggest shutout of Philadelphia and lifted Crosby–Malkin–Letang to a record 494 regular-season wins together.",
       "image_remote": "https://images.unsplash.com/photo-1515703407324-5f753afd8be8?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-489.jpg",
-      "id": "95e9ecc430bb4c6ca6fec9ef51fca63a91222f73"
+      "id": "95e9ecc430bb4c6ca6fec9ef51fca63a91222f73",
+      "order": 493
     },
     "5c2c396b53aa9e6f7df80efd00622a5b0d39f643": {
       "n": 7,
@@ -6336,7 +6393,8 @@
       "summary": "Ahead of Sunday’s 1 p.m. ET FOX game at Soldier Field, NBC Sports lists Jets RB Breece Hall (thigh), WR Adonai Mitchell (finger), TE Mason Taylor (thumb), and LG Dylan Parham as doubtful, with S Minkah Fitzpatrick (groin) and LB Kiko Mauigoa (quad) questionable. Chicago’s Caleb Williams (hamstring) is also doubtful, pushing Tyson Bagent into the likely start after Case Keenum’s win over Philadelphia. Geno Smith has opened 783 yards, 4 TDs, and 0 INTs; markets have the Bears around −3.5 / −175 with a total near 42.5.",
       "image_remote": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-490.jpg",
-      "id": "5c2c396b53aa9e6f7df80efd00622a5b0d39f643"
+      "id": "5c2c396b53aa9e6f7df80efd00622a5b0d39f643",
+      "order": 494
     },
     "25e1211b9ef0fb820a456593901ce913373b74b7": {
       "n": 8,
@@ -6347,7 +6405,8 @@
       "summary": "Microsoft began disabling Exchange Web Services by default in Exchange Online on Oct. 1, cutting the protocol Apple Mail and Calendar on Mac still use for many Microsoft 365 work accounts, MacRumors reported. Organizations that keep EWS enabled are unaffected for now; Microsoft plans a permanent EWS shutdown April 1, 2027. Apple says it is working with Microsoft on Graph API support in a future macOS 27 update that has not shipped yet. iPhone and iPad keep working via Exchange ActiveSync; IT can re-enable EWS or move Mac users to Outlook.",
       "image_remote": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-491.jpg",
-      "id": "25e1211b9ef0fb820a456593901ce913373b74b7"
+      "id": "25e1211b9ef0fb820a456593901ce913373b74b7",
+      "order": 495
     },
     "e76ac9385030a8ab336b908d7d2b1c98bd0497a8": {
       "n": 9,
@@ -6358,7 +6417,8 @@
       "summary": "NASA’s SpaceX Crew-13—astronauts Jessica Watkins and Luke Delaney, CSA’s Joshua Kutryk, and Roscosmos cosmonaut Sergey Teteryatnikov—is targeting an 11:10 a.m. ET Falcon 9 / Dragon launch from Cape Canaveral SLC-40 on Oct. 1, NASA’s commercial crew blog said. Weather was only about 40% favorable at the pad (cumulus, thick layers, precipitation). The crew will join Expedition 75 for roughly six months of research spanning stem-cell tissues, crop production, and medical diagnostics as Commercial Crew keeps private U.S. rides to the ISS running.",
       "image_remote": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-492.jpg",
-      "id": "e76ac9385030a8ab336b908d7d2b1c98bd0497a8"
+      "id": "e76ac9385030a8ab336b908d7d2b1c98bd0497a8",
+      "order": 496
     },
     "8ed56fdf024534fe437d206f4cf3b38abcc43cbf": {
       "n": 10,
@@ -6369,7 +6429,8 @@
       "summary": "SpaceX’s Transporter-18 rideshare is scheduled for Oct. 1 from Vandenberg during a window opening at 2:18 p.m. ET, carrying 130 payloads including Google’s Project Suncatcher pathfinder to test TPUs in orbit for radiation and thermal performance, Space.com reported. Cowboy Space’s Reason-1 power-beaming demo and Starfish Space’s first Otter servicing satellite also fly. The Falcon 9 booster targets a Vandenberg landing on its 25th flight; SpaceX also planned Crew-13 and an NROL-97 Falcon Heavy the same day.",
       "image_remote": "https://images.unsplash.com/photo-1446776877081-d282a0f896e2?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-493.jpg",
-      "id": "8ed56fdf024534fe437d206f4cf3b38abcc43cbf"
+      "id": "8ed56fdf024534fe437d206f4cf3b38abcc43cbf",
+      "order": 497
     },
     "d170dbaec0b1c8974c161c1ec853f1112710f123": {
       "n": 11,
@@ -6380,7 +6441,8 @@
       "summary": "Insta360 cofounder Max Richter told The Verge the company is experimentally building smart glasses aimed at convenient high-quality capture rather than an on-face AI assistant, Photography Talk summarized Sept. 30. Founder JK Liu previously confirmed two mirrorless cameras in development—one with an unusual shape—and floated a possible CP+ 2027 prototype. Insta360 holds about 73% of worldwide 360-camera shipments and has opened a Times Square flagship, while stressing it is distancing from drone brand Antigravity amid U.S. ban risk; no glasses or mirrorless names, prices, or ship dates are announced.",
       "image_remote": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-494.jpg",
-      "id": "d170dbaec0b1c8974c161c1ec853f1112710f123"
+      "id": "d170dbaec0b1c8974c161c1ec853f1112710f123",
+      "order": 498
     },
     "89b6cc0b21cc2e6962188ad7ebc083b8e7dea880": {
       "n": 12,
@@ -6391,7 +6453,8 @@
       "summary": "Canon Rumors points to an upcoming RF 90mm f/2.8 IS STM Macro as a non-L, mid-tier 1:1 option versus the ~$1,300 RF 100mm f/2.8L Macro, The Phoblographer reported Sept. 25. Patent-linked designs suggest a compact ~100 mm length with moving middle groups for life-size magnification, aimed at hobbyists and APS-C shooters (~144 mm equivalent). No price or date is official; some fans still want a longer RF 180mm macro instead of another mid-tele STM.",
       "image_remote": "https://images.unsplash.com/photo-1606983340126-99ab4feaa64a?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-495.jpg",
-      "id": "89b6cc0b21cc2e6962188ad7ebc083b8e7dea880"
+      "id": "89b6cc0b21cc2e6962188ad7ebc083b8e7dea880",
+      "order": 499
     },
     "62f54922bf652e9fbdafaa53af2d98a52a8258ed": {
       "n": 13,
@@ -6402,7 +6465,8 @@
       "summary": "The nonprofit Idaho Renaissance Faire returns to 6054 W. Cherry Lane in Meridian Oct. 10–11 from 10 a.m. to 6 p.m. with an Italian Renaissance “Festival of Fools” theme, Idaho News 6 reported Sept. 25. Organizers promise live performers, vendors, characters, and the expected turkey legs while raising money for local arts and theater programs. Costumes are welcome but not required; tickets and details are on the faire’s website.",
       "image_remote": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-496.jpg",
-      "id": "62f54922bf652e9fbdafaa53af2d98a52a8258ed"
+      "id": "62f54922bf652e9fbdafaa53af2d98a52a8258ed",
+      "order": 500
     },
     "c073d6807dd1497e66e083093818f8074f0423f8": {
       "n": 14,
@@ -6413,7 +6477,8 @@
       "summary": "Five Finger Death Punch’s 20th-anniversary stop at Germania Insurance Amphitheater in Austin on Monday mixed new Legacy material with catalog staples, Maxazine’s live review said Sept. 30. Eva Under Fire opened and Cody Jinks mid-billed before FFDP opened with “Welcome to the Circus,” stacked “Eye of the Storm” and “Legacy,” and closed with “The Bleeding.” Moody quipped they’d tour with anyone “who isn’t going to have Beyoncé on their next record” as the North American leg continues into late October.",
       "image_remote": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-497.jpg",
-      "id": "c073d6807dd1497e66e083093818f8074f0423f8"
+      "id": "c073d6807dd1497e66e083093818f8074f0423f8",
+      "order": 501
     },
     "d35e93e89a392a4ab1125c78589b6b0d63645e0d": {
       "n": 15,
@@ -6424,7 +6489,8 @@
       "summary": "TourMe’s 2026 Blue Ridge Parkway guide notes the free 469-mile ridge road from Shenandoah to the Smokies sees two to three million October drivers, with color peaking first above 5,000 feet in late September and mid-elevations around Oct. 8–15. Practical tips cover 45 mph pacing, sunrise fog at Craggy Gardens and Waterrock Knob, Mabry Mill’s living-history millpond photos (peak ~Oct. 15–22), and the Linn Cove Viaduct’s top-down engineering story. Detours to Floyd, Blowing Rock, and Asheville round out a leaf-peeping plan beyond overlook selfies.",
       "image_remote": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-498.jpg",
-      "id": "d35e93e89a392a4ab1125c78589b6b0d63645e0d"
+      "id": "d35e93e89a392a4ab1125c78589b6b0d63645e0d",
+      "order": 502
     },
     "19e79e9f8507b42794a506c1a4aa44e811a3fd97": {
       "n": 16,
@@ -6435,7 +6501,8 @@
       "summary": "Jay’s Brick Blog confirmed Oct. 1 that LEGO’s October wave is live worldwide, including Holiday House, Bookshop: Book Nook, Wallace & Gromit, Downton Abbey, PlayStation, UCS Executor, Pokémon Poké Ball, Wednesday, and Avengers: Doomsday sets. Shoppers spending over $150 through Oct. 7 can claim the Astro Bot gift-with-purchase while stocks last; Executor buyers get Darth Vader’s Lightsaber GWP through Oct. 10, and selected Star Wars sets (not Executor) earn 2× Insiders points. Popular early picks flagged include Wallace & Gromit, PlayStation, Holiday House, and Doomsday Epic Battle.",
       "image_remote": "https://images.unsplash.com/photo-1587654780291-39c9404d746b?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-499.jpg",
-      "id": "19e79e9f8507b42794a506c1a4aa44e811a3fd97"
+      "id": "19e79e9f8507b42794a506c1a4aa44e811a3fd97",
+      "order": 503
     },
     "0b870a171aac63689d60faa1e53a96ca54bedd95": {
       "n": 1,
@@ -7094,7 +7161,8 @@
       "summary": "In a Thursday-night Zoom forum covered Friday by Westport Journal, Parks and Rec Director Erik Barbieri warned Compo, Old Mill, Burying Hill and Canal beaches are “wasting away.” RACE Coastal Engineering laid out nourishment options restoring 2014 profiles, 1949 Army Corps conditions, or something in between—projecting $14.1 million on the cheap end to $54.5 million for the fullest rebuild. State and federal rules block dredging Long Island Sound solely for beach sand, so trucked-in material is the path; dunes and low-tide reclaim were dismissed. Officials aim for construction in late 2027 after Board of Finance and land-use reviews—fresh cost and regulatory detail beyond Thursday’s 06880 Zoom-shift note.",
       "image_remote": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-554.jpg",
-      "id": "2df1b564ae08344cd6740cafb61ec85e6cfc8a5c"
+      "id": "2df1b564ae08344cd6740cafb61ec85e6cfc8a5c",
+      "order": 558
     },
     "c93fce20db14b555a14bc5488e89c76669d9f82c": {
       "n": 2,
@@ -7105,7 +7173,8 @@
       "summary": "Westport marked October 1 by raising the Pink Aid flag at Jessup Green, with First Selectman Kevin Christie reading a proclamation. Co-founder Amy Katz, a two-time breast cancer survivor, said the 2011 Westport-born nonprofit now works nationally and has distributed more than $16 million so patients are not forced to choose between treatment and groceries. Local businesses are donating a share of October proceeds. Free News 12 write-up is a fresh Fairfield County community URL not previously archived.",
       "image_remote": "https://images.unsplash.com/photo-1516924962500-2b4b3b99ea02?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-555.jpg",
-      "id": "c93fce20db14b555a14bc5488e89c76669d9f82c"
+      "id": "c93fce20db14b555a14bc5488e89c76669d9f82c",
+      "order": 559
     },
     "5307c37f12251407a81c786ca3fc6feb18e4b9d3": {
       "n": 3,
@@ -7116,7 +7185,8 @@
       "summary": "Alabama Public Radio’s AP package frames Friday’s Mitchell Center rally in Mobile as a two-fer: Sen. Tommy Tuberville’s gubernatorial bid against Doug Jones, plus adjacent Florida panhandle messaging for Rep. Byron Donalds’s governor race. Trump and Vance are concentrating on deep-red turf to juice base turnout amid an AP-NORC poll showing only 17% approve of Trump’s handling of living costs and 26% of the economy. The president’s 32-day midterm blitz continues Saturday in Vandalia, Ohio, and Monday in Grand Island, Nebraska—new Alabama-angle coverage distinct from Thursday’s Denton/Durant stops already on the site.",
       "image_remote": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-556.jpg",
-      "id": "5307c37f12251407a81c786ca3fc6feb18e4b9d3"
+      "id": "5307c37f12251407a81c786ca3fc6feb18e4b9d3",
+      "order": 560
     },
     "cc4287db616c47f9bdb775c9b121891054095dd3": {
       "n": 4,
@@ -7127,7 +7197,8 @@
       "summary": "CBS’s Friday live updates say the USS Theodore Roosevelt Carrier Strike Group and USS Makin Island Amphibious Group are steaming toward the Middle East—about 7,000 sailors and 2,000 Marines that could push U.S. forces in theater near 20,000 with three carrier groups. In Denton Thursday, Trump claimed Iran’s theocracy is “ready to fold up” and that the seven-month war will end “right after the election,” maybe before, with energy prices “rapidly” falling. He also told reporters Iran may be linked to the FlyDubai co-pilot stabbing attempt and vowed Tehran would be “hit very hard” if confirmed. Free full-text morning briefing, not previously archived.",
       "image_remote": "https://images.unsplash.com/photo-1519003722824-194d4455a60c?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-557.jpg",
-      "id": "cc4287db616c47f9bdb775c9b121891054095dd3"
+      "id": "cc4287db616c47f9bdb775c9b121891054095dd3",
+      "order": 561
     },
     "4145c0b6e901ca1f0463a58f2e981d50a4bf957e": {
       "n": 5,
@@ -7138,7 +7209,8 @@
       "summary": "Euronews details Thursday’s White House exchange in which Trump said, based on what he is hearing, Iran was involved in the FlyDubai Dubai-to-Tel Aviv incident and that Tehran would be hit “very hard” if responsibility is proven. Netanyahu said the Omani co-pilot underwent “Islamist radical indoctrination,” passengers helped stop a plunge of roughly 17,000 feet, and the UAE is probing terrorist intent while FlyDubai suspends Israel flights. The piece also notes Patriot batteries in Saudi Arabia and Qatar plus the Theodore Roosevelt strike group’s move east—security framing distinct from the CBS troops-and-midterms live blog.",
       "image_remote": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-558.jpg",
-      "id": "4145c0b6e901ca1f0463a58f2e981d50a4bf957e"
+      "id": "4145c0b6e901ca1f0463a58f2e981d50a4bf957e",
+      "order": 562
     },
     "49a05bbd2fbb0d58efb6356ce9bd11e3b89aed2f": {
       "n": 6,
@@ -7149,7 +7221,8 @@
       "summary": "A 73-year-old Army Vietnam veteran in San Francisco’s Sunset District told CBS he awoke around 5 a.m. Sunday after a burglar drilled through a first-floor wooden door, then confronted a masked man in black—and a large dog—on the second floor. After being grabbed and going to his hands and knees, the homeowner fired one round that struck the intruder in the buttocks; the suspect fled, leaving a blood trail and the husky for Animal Control. Police later detained an injured man matching the description about three miles away with non-life-threatening wounds. Free Western Journal write-up of CBS-sourced facts; no shooter charged in the reporting.",
       "image_remote": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-559.jpg",
-      "id": "49a05bbd2fbb0d58efb6356ce9bd11e3b89aed2f"
+      "id": "49a05bbd2fbb0d58efb6356ce9bd11e3b89aed2f",
+      "order": 563
     },
     "ff6b4de69c22bcbfad9fc2ff17d2b342060ff010": {
       "n": 7,
@@ -7160,7 +7233,8 @@
       "summary": "Indiana State Police say a Franklin County homeowner near Laurel opened fire around 5 a.m. Tuesday when an adult male tried to enter a Chapel Road residence, striking him at least once. The wounded man was taken to University of Cincinnati Medical Center with non-life-threatening injuries. Investigators say the two men knew each other and do not believe the shooting was random; no arrests had been announced and names were withheld pending the probe. Free FOX19 local report fills a fresh courts/self-defense URL after yesterday’s Tampa, Pampa, and Scottsdale arcs.",
       "image_remote": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-560.jpg",
-      "id": "ff6b4de69c22bcbfad9fc2ff17d2b342060ff010"
+      "id": "ff6b4de69c22bcbfad9fc2ff17d2b342060ff010",
+      "order": 564
     },
     "ce7f7fee2a7cd94857820a1ca641b96e885141a3": {
       "n": 8,
@@ -7171,7 +7245,8 @@
       "summary": "AppleInsider relays Bloomberg’s Power On claim that the rumored Home Hub launching around Oct. 13 will switch household photos, music, and calendars using AI facial recognition rather than Face ID. The system may continuously watch the room and identify whoever interacts with the roughly six-inch display, possibly sharing tech with future Home cameras. The same podcast still points to a Dynamic Island MacBook Pro later this fall and says manufacturing has been ready while Apple waited on improved Siri AI—new identification-angle coverage beyond color and Oct. 13 slate stories already archived.",
       "image_remote": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-561.jpg",
-      "id": "ce7f7fee2a7cd94857820a1ca641b96e885141a3"
+      "id": "ce7f7fee2a7cd94857820a1ca641b96e885141a3",
+      "order": 565
     },
     "c25c9e8a985714d8e5b40ebbfe0a07023f834029": {
       "n": 9,
@@ -7182,7 +7257,8 @@
       "summary": "Code researcher pdfu’s assets, reported Friday by The Apple Post, show HomePad setup offering a Photo Face that blends a large clock with Photos, Memories, or Shared Albums—requiring iCloud Photos and priming the device with full-res shots from a nearby iPhone. Users can shuffle people, pets, places, Featured Photos, or hand-picked images; the same face is tied to iPhone Duo StandBy. Preview art is grouped for Silver, Space Gray, Starlight, and Rose Pink finishes. Fresh Oct. 2 software-leak angle distinct from MacRumors color and AppleInsider AI-ID pieces.",
       "image_remote": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-562.jpg",
-      "id": "c25c9e8a985714d8e5b40ebbfe0a07023f834029"
+      "id": "c25c9e8a985714d8e5b40ebbfe0a07023f834029",
+      "order": 566
     },
     "0dad5a17304a65788aaec7be2019a36ac74dd9ed": {
       "n": 10,
@@ -7193,7 +7269,8 @@
       "summary": "Grok announced Thursday a new Agent Dashboard inside Grok Build: type “grok dashboard” or “/dashboard” to see all agents on one screen, dispatch tasks in parallel, and spin agents into their own Git worktrees with Ctrl+W. A short demo shows the terminal command opening the top-down view. TeslaNorth frames it as the latest SpaceXAI coding-workflow upgrade alongside Cursor integration, voice calls, and 1Password support—genuine tooling news, not income-funnel spam, and a URL not yet in the archive.",
       "image_remote": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-563.jpg",
-      "id": "0dad5a17304a65788aaec7be2019a36ac74dd9ed"
+      "id": "0dad5a17304a65788aaec7be2019a36ac74dd9ed",
+      "order": 567
     },
     "2564d9823d7e0e2d4515fa9514d326b8b2503320": {
       "n": 11,
@@ -7204,7 +7281,8 @@
       "summary": "Friday’s PensBurgh notes say Blake Lizotte missed Thursday practice while being evaluated for a lower-body injury one day after coming off IR in Pittsburgh’s 7–0 opener. Ben Kindel skated in a full-contact jersey and joined line rushes, the clearest sign yet he is nearing a return. The club also reassigned Rutger McGroarty to Wilkes-Barre/Scranton. Fresh injury/practice update that moves past Wednesday’s 7–0 and Thursday’s U.S. Steel tour pieces already published.",
       "image_remote": "https://images.unsplash.com/photo-1515703407324-5f753afd8be8?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-564.jpg",
-      "id": "2564d9823d7e0e2d4515fa9514d326b8b2503320"
+      "id": "2564d9823d7e0e2d4515fa9514d326b8b2503320",
+      "order": 568
     },
     "5db7b6af460a3d842f4d1b9406524fa8b911ce5b": {
       "n": 12,
@@ -7215,7 +7293,8 @@
       "summary": "The Jets’ official Thursday Week 4 injury report upgrades safety Minkah Fitzpatrick (groin) to full participation ahead of Sunday’s trip to Chicago, while Breece Hall (quad), Adonai Mitchell (finger), Mason Taylor (thumb), Dylan Parham (knee), Kiko Mauigoa (quad), and Kingsley Enagbare (knee) were all DNP. Chicago again listed Caleb Williams (hamstring) and D’Andre Swift (knee) as DNP. Official club sheet is a cleaner Friday-morning reference than Wednesday’s Jets Wire notes and Thursday’s ESPN Fitzpatrick-ready feature already archived.",
       "image_remote": "https://images.unsplash.com/photo-1566577739112-5180d4bf9390?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-565.jpg",
-      "id": "5db7b6af460a3d842f4d1b9406524fa8b911ce5b"
+      "id": "5db7b6af460a3d842f4d1b9406524fa8b911ce5b",
+      "order": 569
     },
     "32343a8cd37a623f27ea57e0060cd2b8812f302a": {
       "n": 13,
@@ -7226,7 +7305,8 @@
       "summary": "CTvisit lists the Connecticut Renaissance Faire’s Pirates & Vikings themed weekend for Saturday–Sunday, Oct. 3–4 at Lebanon Country Fairgrounds (122 Mack Road), 10:30 a.m. to 6 p.m. The weekend includes a pirate-and-viking costume contest Saturday and a Siren Song contest Sunday as the faire’s 2026 season runs through late October. Fresh local Always-search faire item distinct from yesterday’s Hanford Renaissance of Kings coverage and earlier Faerie Ring Revels archive entry.",
       "image_remote": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-566.jpg",
-      "id": "32343a8cd37a623f27ea57e0060cd2b8812f302a"
+      "id": "32343a8cd37a623f27ea57e0060cd2b8812f302a",
+      "order": 570
     },
     "e2d6fb2be26d40b0643c14678c6dc0891d3401fd": {
       "n": 14,
@@ -7237,8 +7317,189 @@
       "summary": "Deep Arrival’s free guide says the National Park Service rule of thumb puts Glacier’s alpine Going-to-the-Sun Road fully open until the third Monday of October—Oct. 19, 2026—unless snow gates Logan Pass earlier, as it already did Sept. 14. Lower West Entrance pavement to Lake McDonald stays open year-round; Highway 2 is the south-side backup when the pass closes. No vehicle reservations in 2026, but length/width limits still apply. Fresh alpine-close planning item distinct from Northeast Kingdom, Smokies, and Pennsylvania foliage stories from yesterday.",
       "image_remote": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=1200&q=80",
       "image_local": "images/story-567.jpg",
-      "id": "e2d6fb2be26d40b0643c14678c6dc0891d3401fd"
+      "id": "e2d6fb2be26d40b0643c14678c6dc0891d3401fd",
+      "order": 571
+    },
+    "b8ae38b89dcd8f1443e02d3a1be95258eecbafc4": {
+      "n": 1,
+      "headline": "Westoberfest returns Saturday to downtown Westport with craft beer and family art",
+      "cat": "Local / Fairfield CT",
+      "source": "Westport Journal",
+      "url": "https://westportjournal.com/community/westoberfest-returns-to-downtown-on-oct-3/",
+      "summary": "Westport Journal’s free preview of the ninth annual Westoberfest says Saturday’s Craft Beer & Family Fall Festival runs 1–5 p.m. at Sigrid Schultz Plaza and along Elm Street with free admission. Twenty-plus breweries pour for 21+ tasting-pass holders, One Bad Oyster plays, and a first-time MoCA CT–One River–Whimsy Works art collaboration anchors the family area alongside carnival games and pumpkin decorating. Lonnie Quinn again hosts the stein-holding contest; the Westport Downtown Association produces the rain-or-shine event. Fresh Fairfield County weekend item distinct from this morning’s beach-restoration and Pink Aid pieces.",
+      "image_remote": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-568.jpg",
+      "id": "b8ae38b89dcd8f1443e02d3a1be95258eecbafc4",
+      "order": 572
+    },
+    "c79c3d4dde4183da631218b3416796bf630c721c": {
+      "n": 2,
+      "headline": "Trump expected to name DNI Jay Clayton as White House AI czar",
+      "cat": "Politics / MAGA",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/politics/trump-administration/trump-ai-czar-jay-clayton-white-house-rcna601140",
+      "summary": "NBC reports Friday that President Trump is expected to name Director of National Intelligence Jay Clayton as White House artificial-intelligence czar while Clayton keeps his spy-agency post, with a social-media announcement possible as early as today. Clayton attended Tuesday’s White House AI CEO session and told CNBC the administration wants a “whole-of-government” approach to “superintelligence” as a national-security issue. The White House called pre-announcement personnel reporting “baseless speculation.” Free midday personnel story distinct from this morning’s Mobile/Tuberville midterm-stop package.",
+      "image_remote": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-569.jpg",
+      "id": "c79c3d4dde4183da631218b3416796bf630c721c",
+      "order": 573
+    },
+    "f72ce88e0de556024c9d9ea2aa1a370a6d2b351f": {
+      "n": 3,
+      "headline": "Trump opens 32-day midterm blitz as AP-NORC poll sinks economy and Iran war ratings",
+      "cat": "Politics / MAGA",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/2/trump-launches-midterms-campaign-blitz-amidst-record-low-approval-ratings",
+      "summary": "Al Jazeera’s Friday package frames Trump’s Denton–Durant kickoff of a 32-day midterm tour against AP-NORC numbers: 71% disapprove of the Iran war, only 26% approve of his handling of the economy, and fuel costs remain elevated. At Peterbilt he graded himself “A+,” blamed poor “promotion,” touted tariffs and data-center growth, and again asked voters to “pretend I’m on the ballot,” citing impeachment fears if Republicans lose. The piece also notes Paxton’s Texas Senate struggle and Abbott/Paxton pushback on AI data-center water use—broader poll-and-stakes framing than this morning’s Alabama Mobile stop note.",
+      "image_remote": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-570.jpg",
+      "id": "f72ce88e0de556024c9d9ea2aa1a370a6d2b351f",
+      "order": 574
+    },
+    "570a55f84ecd994da8219b2d429f3ae8987eebbd": {
+      "n": 4,
+      "headline": "Draft 1040 would make filers check U.S. citizenship or work-authorization status",
+      "cat": "Immigration",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/trump-admin-wants-require-tax-filers-disclose-citizenship-status-irs",
+      "summary": "Fox News details the Trump Treasury draft 2026 Form 1040 and Schedule 3-A that ask every filer—and spouse on a joint return—whether they are a U.S. citizen, national, or alien lawfully authorized to work, under penalty of law. Officials say the checkbox aims to block ineligible refundable credits and could save up to $2 billion; researchers estimate hundreds of thousands of filers, including many U.S.-citizen children in mixed-status homes, could lose EITC or ACTC. Critics from Cato and the Center for Taxpayer Rights warn it could drag the IRS into immigration enforcement after a prior IRS–ICE data-sharing pact was blocked in court. Free Oct. 2 policy write-up.",
+      "image_remote": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-571.jpg",
+      "id": "570a55f84ecd994da8219b2d429f3ae8987eebbd",
+      "order": 575
+    },
+    "60e0bfe2e932cc26b46f8b77b24b81692fda75bb": {
+      "n": 5,
+      "headline": "Judge makes final: ICE courthouse arrests in Manhattan were arbitrary and capricious",
+      "cat": "Immigration / courts",
+      "source": "Courthouse News",
+      "url": "https://www.courthousenews.com/judge-issues-final-ruling-against-ice-immigration-court-arrest-policy-in-manhattan/",
+      "summary": "U.S. District Judge P. Kevin Castel granted summary judgment Thursday to migrant-rights groups, finding ICE’s arrests at Manhattan immigration courthouses arbitrary and capricious under the APA after the government admitted a May 2025 memo never justified the practice. Castel wrote ICE now appears to have “no policy whatsoever” beyond “unfettered discretion,” and the NYCLU called the order an “enormous win” for people attending routine hearings. DHS did not immediately comment. Free Courthouse News final-judgment angle distinct from archived ICE pursuit-memo coverage.",
+      "image_remote": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-572.jpg",
+      "id": "60e0bfe2e932cc26b46f8b77b24b81692fda75bb",
+      "order": 576
+    },
+    "166fbe9abe89a7c504b13351d59a497f667aefba": {
+      "n": 6,
+      "headline": "ICE quietly hides final-order detainees from its public locator—and from lawyers",
+      "cat": "Immigration",
+      "source": "Documented",
+      "url": "https://documentedny.com/2026/10/02/ice-detainee-locator-policy-throughline/",
+      "summary": "Documented’s Oct. 2 Throughline explains ICE’s Sept. 15 policy that drops people with final removal orders from the online detainee locator and bars facility staff from confirming their location to lawyers or families—leaving no proactive way to know if someone is still held or already deported. The agency cites a “historic number of injunctions”; the effect is to frustrate habeas filings that must be brought where the person is held. Dozens of members of Congress protested this week. Free full-text analysis of a deliberate opacity shift, not a rewrite of earlier chase-memo stories.",
+      "image_remote": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-573.jpg",
+      "id": "166fbe9abe89a7c504b13351d59a497f667aefba",
+      "order": 577
+    },
+    "0e6607d6eef10b74965d2f86dad3e3fda7417206": {
+      "n": 7,
+      "headline": "Report: Trump asked Grok how Venezuelans would react before Maduro capture",
+      "cat": "AI / Grok",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-musk-grok-venezuela-maduro-b3060366.html",
+      "summary": "The Independent relays a TIME-sourced account that Trump spent hours with Elon Musk’s Grok chatbot the month before the January “Absolute Resolve” operation that extracted Nicolás Maduro, including a question about how Venezuelans would react if Maduro were deposed—Grok reportedly predicted celebrations. Officials say Trump was later impressed when diaspora celebrations matched the answer; America.gov still partly runs on Grok alongside Gemini. Free Friday AI-politics piece distinct from this morning’s Grok Build Agent Dashboard tooling note—and not an income-funnel story.",
+      "image_remote": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-574.jpg",
+      "id": "0e6607d6eef10b74965d2f86dad3e3fda7417206",
+      "order": 578
+    },
+    "f2822e1f0eb24d86d2796fa61a89d86856a29ebf": {
+      "n": 8,
+      "headline": "Jets rule out Hall, Mitchell, Taylor, Parham, and Mauigoa for Sunday at Bears",
+      "cat": "Jets football",
+      "source": "NBC Sports",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/breece-hall-adonai-mitchell-among-jets-ruled-out-for-week-4-vs-bears",
+      "summary": "Aaron Glenn’s Friday presser, reported by NBC Sports at 11:09 a.m. ET, formally rules out Breece Hall (quad), Adonai Mitchell (finger), Mason Taylor (thumb), Dylan Parham (knee), and Kiko Mauigoa (quad) for Week 4 at Chicago. Kingsley Enagbare (knee) was expected limited Friday after a Thursday DNP and could land questionable; Minkah Fitzpatrick remains on track after Thursday’s full practice. Official game-status step beyond this morning’s Thursday injury-report table.",
+      "image_remote": "https://images.unsplash.com/photo-1566577739112-5180d4bf9390?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-575.jpg",
+      "id": "f2822e1f0eb24d86d2796fa61a89d86856a29ebf",
+      "order": 579
+    },
+    "b8a1487d40adc50cf061e76c50f32e80aed20562": {
+      "n": 9,
+      "headline": "Penguins’ remade defense faces first real test Saturday vs. Canadiens’ offense",
+      "cat": "Penguins hockey",
+      "source": "Yahoo Sports",
+      "url": "https://sports.yahoo.com/articles/penguins-look-defense-first-big-143400967.html",
+      "summary": "Adam Gretz’s Friday Yahoo column argues Pittsburgh’s opening-night shutdown of Philadelphia—Silovs facing only 19 mostly low-danger shots, every pairing over 80% expected-goals share—came against a limited Flyers attack. Saturday’s Canadiens bring Suzuki, Caufield, Slafkovský, Demidov, Hutson, and Kreider as the new-look blue line (Karlsson–Carlile, Korczak–Girard, Letang–van Riemsdyk) gets its first measuring-stick game. Fresh weekend preview distinct from this morning’s Lizotte/Kindel practice notes.",
+      "image_remote": "https://images.unsplash.com/photo-1515703407324-5f753afd8be8?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-576.jpg",
+      "id": "b8a1487d40adc50cf061e76c50f32e80aed20562",
+      "order": 580
+    },
+    "4d09edb6845a4ab79f7f3c709f38a499ca77077c": {
+      "n": 10,
+      "headline": "Harley-Davidson ends MotoAmerica factory bagger team after 2026 to grow World Cup",
+      "cat": "Harley-Davidson",
+      "source": "Harley-Davidson",
+      "url": "https://h-dmediakit.com/eu/news-articles/harley-davidson-evolves-racing-strategy.html",
+      "summary": "Harley’s Oct. 1 media release says Factory Racing and official King of the Baggers support end after the 2026 MotoAmerica season, with investment shifting to expand the FIM Harley-Davidson Bagger World Cup in 2027 plus new grassroots racing. CEO Artie Starrs framed a two-track strategy—premier World Cup stages and accessible local competition—while Jason Kehl thanked MotoAmerica and rival Indian. Kyle Wyman’s 27 wins and three of six national titles close the factory chapter. Official free release; fresher strategic pivot than archived Softail/product pieces.",
+      "image_remote": "https://images.unsplash.com/photo-1558981806-ec527fa84c39?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-577.jpg",
+      "id": "4d09edb6845a4ab79f7f3c709f38a499ca77077c",
+      "order": 581
+    },
+    "8cb0a314ca93b742f983a801a47b45783587149d": {
+      "n": 11,
+      "headline": "Jeep/Ram Pentastar tick settlement: CT owners have until Oct. 12 to claim repairs",
+      "cat": "Jeep / rocker-arm",
+      "source": "Motoring Chronicle",
+      "url": "https://motoringchronicle.com/jeep-ram-and-dodge-owners-have-until-oct-12-to-claim-this-engine-warranty-payout/",
+      "summary": "Motoring Chronicle’s Oct. 2 explainer walks the Stellantis 3.6L Pentastar class settlement covering valve rocker arms, stem oil seals, and tappets on many 2015–2020 Jeep, Ram, Dodge, and Chrysler models registered in eleven California-emissions states—including Connecticut. Owners who already paid can seek 100% reimbursement at FCAWarrantySettlement.com by Oct. 12; others get an automatic 7-year/70,000-mile extended warranty at dealers. Deadline-and-CT-eligibility angle distinct from the earlier OpenClassActions settlement summary already archived.",
+      "image_remote": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-578.jpg",
+      "id": "8cb0a314ca93b742f983a801a47b45783587149d",
+      "order": 582
+    },
+    "5f630cc899bd3626c6ca6b64e0e4eafef3da748b": {
+      "n": 12,
+      "headline": "Canon launches AI “Connected Value Platform” to clean up web pages before you print",
+      "cat": "Canon",
+      "source": "Canon Global",
+      "url": "https://global.canon/en/news/2026/20261001.html",
+      "summary": "Canon’s Oct. 1 Tokyo release introduces Connected Value Platform, a cloud feature layer using generative AI plus Canon imaging tech for PIXUS/PIXMA and office MFPs. First tool Web Print Optimizer strips ads and whitespace from recipes and articles before print; Content-Based Naming for scans is due late November. Access runs through Canon Print Assistant 2.0 / Canon PRINT 4.0 with genuine-ink requirements in the launch markets. Free manufacturer note fills the Canon always-search lane without repeating EOS R8 Mark II camera coverage.",
+      "image_remote": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-579.jpg",
+      "id": "5f630cc899bd3626c6ca6b64e0e4eafef3da748b",
+      "order": 583
+    },
+    "a37e5b80c8baf8bad93b6437f8079e4f0e85670a": {
+      "n": 13,
+      "headline": "New England foliage this weekend: White Mountains “glowing”; more peak weekends ahead",
+      "cat": "USA travel",
+      "source": "Boston.com",
+      "url": "https://www.boston.com/culture/new-england-travel/2026/10/01/2026-fall-foliage-map-forecast-boston-new-england/",
+      "summary": "Boston.com’s Oct. 1 guide, citing Jim Salge and WBZ’s Eric Fisher, says northern New England maples are putting on their best show in several years—peak or near-peak along the Kancamagus, Crawford Notch, Bretton Woods, and related White Mountain corridors this Oct. 2–4 weekend—while much forest remains green, so later October weekends should stay strong. Massachusetts peaks later (western hills mid-month; Boston area toward Halloween). Fresh weekend-planning travel item distinct from Glacier alpine-close, Smokies elevation, and PA statewide pieces already on the site.",
+      "image_remote": "https://images.unsplash.com/photo-1477414348463-c0eb7f1359b6?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-580.jpg",
+      "id": "a37e5b80c8baf8bad93b6437f8079e4f0e85670a",
+      "order": 584
+    },
+    "45d7f9b80a13a20fd35904895c330a4be30862e2": {
+      "n": 14,
+      "headline": "Tesla ships “Emergency Drive Away” so Supercharging cars can flee plugged-in danger",
+      "cat": "Elon Musk / Tesla",
+      "source": "Business Insider",
+      "url": "https://www.businessinsider.com/tesla-emergency-drive-away-update-charging-supercharger-2026-10",
+      "summary": "Business Insider reports Tesla’s Thursday OTA “Emergency Drive Away” lets a vehicle shift into Drive while still connected to a Supercharger after an on-screen Activate confirm—breaking the cable and damaging hardware by design. Charging chief Max de Zegher called it a feature “we hope you never need,” citing years of debate and the August Twin Falls, Idaho, shooting near a charger; Tesla warns deliberate misuse brings “additional penalties.” Free full-text safety-feature story, not Colossus/Optimus/Agent Dashboard rewrites.",
+      "image_remote": "https://images.unsplash.com/photo-1560958089-b8a1929cea89?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-581.jpg",
+      "id": "45d7f9b80a13a20fd35904895c330a4be30862e2",
+      "order": 585
+    },
+    "885b82b5ee3c1e2a008c51b11d918ec7cff85cab": {
+      "n": 15,
+      "headline": "Austin police: homeowner who shot South Austin burglar faces no charges so far",
+      "cat": "Crime / self-defense",
+      "source": "Austin American-Statesman",
+      "url": "https://www.statesman.com/news/crime/article/south-austin-burglary-homeowner-shooting-update-22455804.php",
+      "summary": "A Sept. 30 Statesman update on the Virtus Bend burglary says Dmario Antonie Jones, 24, was fatally shot after entering a South Austin bedroom around 3:51 a.m. Sept. 23; detectives now say he did not know or specifically target the homeowners and may be linked to other area thefts that night. The homeowner was questioned and released; no charges had been filed. Free local self-defense URL distinct from this morning’s San Francisco and Indiana arcs.",
+      "image_remote": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=1200&q=80",
+      "image_local": "images/story-582.jpg",
+      "id": "885b82b5ee3c1e2a008c51b11d918ec7cff85cab",
+      "order": 586
     }
   },
-  "updated": "Friday, October 2, 2026 · 7:00 AM ET"
+  "updated": "Friday, October 2, 2026 · 11:30 AM ET"
 }
