@@ -663,7 +663,20 @@
     "40c8dec3ba3be8c437b01db63ad34dd9bca665ea",
     "43954c91eae223741440500c4709577cfc50444f",
     "65badfb593e27d1cdc72e4bbf5d4fded6ccc3a7e",
-    "a9c2a7dd4c8cc352dff02693e1ad92a2f7dd65c1"
+    "a9c2a7dd4c8cc352dff02693e1ad92a2f7dd65c1",
+    "6164f04ae0097f8a75e836458a448976b12d98c5",
+    "d64833863bdfe632b26ecb6fe4fd5f6a74241326",
+    "6c7bfaf76d8a77e2ffa477026fe8e95c0f08fa6d",
+    "a14033c96aff1df12ab44fcdbf53e3a15136f67b",
+    "3713d62498736f3073ae9de99746bbbf92edf153",
+    "7dc1ab4e64d40c372138f9bfd156ab62ba24a909",
+    "d8645a3b60691d3b8ba50a616de7daa98007dde1",
+    "1582d118746dcdadf844788cd6007769ddca6e63",
+    "f3a3e8c8cdaed724b15972266bbb13b734d385b4",
+    "cdecee39460d0f71b47caf9591ac52e17a5ec4ef",
+    "4153f13a3f9f86485723bf3fcb33584dd37d8508",
+    "c6453e7c9ea1cb6e367924710a7017e522f21525",
+    "b1a612edb916711ef97d366b8fd446acfb5bf16d"
   ],
   "stories": {
     "0c2ac7a5e342411678296315c4c59043b1f067cc": {
@@ -8500,7 +8513,150 @@
       "image_local": "images/story-652.jpg",
       "id": "a9c2a7dd4c8cc352dff02693e1ad92a2f7dd65c1",
       "order": 663
+    },
+    "6164f04ae0097f8a75e836458a448976b12d98c5": {
+      "headline": "Trump urges Republicans to vote by mail after months of calling it a scam",
+      "cat": "Politics / MAGA",
+      "source": "Mediaite",
+      "url": "https://www.mediaite.com/media/news/trump-encourages-maga-to-vote-by-mail-after-months-of-warning-against-mail-in-ballot-fraud/",
+      "image_remote": "https://www.mediaite.com/wp-content/uploads/2026/10/trump-3.jpg",
+      "image_local": "images/story-653.jpg",
+      "id": "6164f04ae0097f8a75e836458a448976b12d98c5",
+      "summary": "In a Saturday Truth Social video for the midterms, President Trump told supporters to vote early, by mail, or in person on Nov. 3 and pointed them to swampthevoteusa.com, saying the election must be “too big to rig.” The pitch reverses months of attacks on mail ballots, including an executive order to restrict them and a post calling mail voting a “Nation Destroying SCAM,” even as he continues to vote by mail in Florida.",
+      "n": 1
+    },
+    "d64833863bdfe632b26ecb6fe4fd5f6a74241326": {
+      "headline": "State Department says two Iranian UN diplomats were kicked out after ignoring leave order",
+      "cat": "Immigration",
+      "source": "Just the News",
+      "url": "https://justthenews.com/government/federal-agencies/report-two-members-iran-un-delegation-were-removed-us",
+      "image_remote": "https://justthenews.com/sites/default/files/styles/social_media_share/public/2026-04/GettyImages-2271515991.jpg?h=199d8c1f&itok=VPGvE3E5",
+      "image_local": "images/story-654.jpg",
+      "id": "d64833863bdfe632b26ecb6fe4fd5f6a74241326",
+      "summary": "A U.S. official told Axios that two members of Iran’s UN General Assembly delegation were found still in New York long after the assembly ended and have now been removed from the country. Secretary of State Marco Rubio had ordered the full delegation to leave immediately on Monday; one diplomat left Friday night and the other Saturday morning after a renewed Friday instruction, the report said.",
+      "n": 2
+    },
+    "6c7bfaf76d8a77e2ffa477026fe8e95c0f08fa6d": {
+      "headline": "Hegseth: Trump is ‘hell-bent’ that Iran will never get a nuclear weapon",
+      "cat": "Politics / MAGA",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-910482",
+      "image_remote": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/740306",
+      "image_local": "images/story-655.jpg",
+      "id": "6c7bfaf76d8a77e2ffa477026fe8e95c0f08fa6d",
+      "summary": "Speaking to reporters Saturday, Defense Secretary Pete Hegseth said Iran “will never, ever, ever have a nuclear weapon” and that President Trump is “hell-bent” on making sure of it, warning Tehran it can give up the program or face action “the hard way.” He declined to confirm a third carrier deployment, said the U.S. controls the Strait of Hormuz under an “ironclad” blockade, and argued Epic Fury damage is slowing Iran’s efforts to rebuild missiles and industry.",
+      "n": 3
+    },
+    "a14033c96aff1df12ab44fcdbf53e3a15136f67b": {
+      "headline": "Federal noncitizen voting cases pile up as Democrats call the crime extremely rare",
+      "cat": "Politics / MAGA",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/election-crime-arrests-keep-piling-up-dems-insist-just-doesnt-happen",
+      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/03/save-act-supporters-holding-signs.jpg",
+      "image_local": "images/story-656.jpg",
+      "id": "a14033c96aff1df12ab44fcdbf53e3a15136f67b",
+      "summary": "Fox News tallies a fresh wave of federal election cases against noncitizens, including Attorney General Todd Blanche’s announcement of 10 foreign nationals indicted in Minnesota and separate Philadelphia and New Jersey arrests. Democrats such as Sen. Alex Padilla and Rep. Mary Gay Scanlon still describe noncitizen voting as extremely rare while opposing the SAVE Act; the White House and DHS say the cases show only citizens should choose America’s leaders.",
+      "n": 4
+    },
+    "3713d62498736f3073ae9de99746bbbf92edf153": {
+      "headline": "DOJ and French partners dismantle a Hamas fundraising network that raised over $1.7 million",
+      "cat": "Crime / courts",
+      "source": "U.S. Department of Justice",
+      "url": "https://www.justice.gov/opa/pr/coordinated-arrests-and-charges-dismantle-hamas-terror-finance-network-raising-funds-united",
+      "image_remote": "",
+      "image_local": "",
+      "id": "3713d62498736f3073ae9de99746bbbf92edf153",
+      "summary": "The Justice Department unsealed charges against Gaza-based Saleem Alzaq, alleged to be a Qassam Brigades media deputy who raised more than $1.7 million since 2020 through social-media “charity” appeals that prosecutors say funded Hamas. U.S. arrests include Omar and Abdel Adhami of Louisiana and Raed Yousef of Florida, with three associates arrested in France; Attorney General Todd Blanche and FBI Director Kash Patel framed the case as cutting off terror finance ahead of the Oct. 7 anniversary window.",
+      "n": 5
+    },
+    "7dc1ab4e64d40c372138f9bfd156ab62ba24a909": {
+      "headline": "Oklahoma Guard specialist deployed in D.C. is charged with carrying a pistol without a license",
+      "cat": "Crime / courts",
+      "source": "Associated Press / FOX 5 DC",
+      "url": "https://www.fox5dc.com/news/national-guard-member-deployed-dc-arrested-firearms-charge",
+      "image_remote": "https://images.foxtv.com/static.fox5dc.com/www.fox5dc.com/content/uploads/2026/10/1200/630/ap26251746567280-scaled.jpg?ve=1&tl=1",
+      "image_local": "images/story-657.jpg",
+      "id": "7dc1ab4e64d40c372138f9bfd156ab62ba24a909",
+      "summary": "Spec. Jakob Noonan, 22, of the Oklahoma National Guard was arrested after a U.S. Park Police stop for an expired tag turned up an unauthorized firearm in his personal vehicle while he was off duty and out of uniform. Court papers say he told officers Oklahoma is an open-carry state and that the pistol was registered there, but he lacked a D.C. concealed-carry permit; it is the second arrest of a Guard task-force member in two months.",
+      "n": 6
+    },
+    "d8645a3b60691d3b8ba50a616de7daa98007dde1": {
+      "headline": "Two men evade Border Patrol after a seven-hour Oswego rooftop standoff draws a crowd",
+      "cat": "Immigration",
+      "source": "yourNEWS",
+      "url": "https://yournews.com/2026/10/03/7214804/two-evade-border-patrol-after-seven-hour-rooftop-standoff-draws-large/",
+      "image_remote": "https://assets.yournews.com/2026/10/Screenshot-2026-10-03-at-4.17.09-AM.png",
+      "image_local": "images/story-658.jpg",
+      "id": "d8645a3b60691d3b8ba50a616de7daa98007dde1",
+      "summary": "In Oswego, New York, two men climbed onto a private roof during a Border Patrol warrant operation and refused to come down for about seven hours while a crowd of more than 50 people gathered, trespassed on yards, and confronted agents. CBP said four others with final removal orders were arrested; agents withdrew for public-safety reasons, the pair later left after federal officers pulled back, and the agency said it still intends to seek them.",
+      "n": 7
+    },
+    "1582d118746dcdadf844788cd6007769ddca6e63": {
+      "headline": "SBI agent shot in the leg while hunting a Reidsville gunman; suspect arrested",
+      "cat": "Crime / courts",
+      "source": "WITN",
+      "url": "https://www.witn.com/2026/10/03/sbi-man-arrested-after-shooting-sbi-agent-rockingham-county-assistance/",
+      "image_remote": "",
+      "image_local": "",
+      "id": "1582d118746dcdadf844788cd6007769ddca6e63",
+      "summary": "North Carolina SBI says Marvin White, 38, opened fire on Rockingham County deputies responding to shots fired on Walker Street in Reidsville on Saturday, then later shot an SBI special agent in the leg when ordered to drop his weapon. The agent returned fire, White was arrested at the scene, and the wounded agent was listed in stable condition at Moses Cone Hospital in Greensboro.",
+      "n": 8
+    },
+    "f3a3e8c8cdaed724b15972266bbb13b734d385b4": {
+      "headline": "Jets elevate Sterling Shepard and Jaden Keller for Sunday’s game at Chicago",
+      "cat": "Jets football",
+      "source": "New York Jets",
+      "url": "https://www.newyorkjets.com/news/jets-elevate-sterling-shepard-jaden-keller-to-active-roster-bears-game-10-03-2026",
+      "image_remote": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/jets/hsrdh0ygffts1lhiqknm",
+      "image_local": "images/story-659.jpg",
+      "id": "f3a3e8c8cdaed724b15972266bbb13b734d385b4",
+      "summary": "The Jets elevated wide receiver Sterling Shepard and linebacker Jaden Keller from the practice squad ahead of Week 4 at the Bears. Shepard, a former Giant who scored the two-point conversion in last week’s comeback against Detroit, is in his 11th NFL season; Keller, a Virginia Tech product signed after a rookie minicamp invite, had 10 preseason tackles.",
+      "n": 9
+    },
+    "cdecee39460d0f71b47caf9591ac52e17a5ec4ef": {
+      "headline": "Starlink Communities lets hosts sell hour-to-month internet passes from one dish",
+      "cat": "Elon Musk",
+      "source": "Teslarati",
+      "url": "https://www.teslarati.com/starlink-launches-communities-program-passive-income-through-internet-sharing/",
+      "image_remote": "https://www.teslarati.com/wp-content/uploads/2024/05/starlink-satellite-new-3-1000x600.jpeg",
+      "image_local": "images/story-660.jpg",
+      "id": "cdecee39460d0f71b47caf9591ac52e17a5ec4ef",
+      "summary": "SpaceX opened a Starlink for Communities beta in which a host installs one kit and neighbors buy hour, day, week, or month passes — month covers up to four devices — while Starlink handles accounts, payments, and the satellite link. The company is taking host applications in multiple countries; Teslarati frames it as turning underused hardware into shared local access, distinct from Tesla’s still-aspirational owner Robotaxi pitch.",
+      "n": 10
+    },
+    "4153f13a3f9f86485723bf3fcb33584dd37d8508": {
+      "headline": "Tesla’s Austin Cybercab fleet hits 169 authorized vehicles after a rocky first month",
+      "cat": "Elon Musk / Tesla",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/03/tesla-cybercab-pressure-to-expand-after-rocky-first-month-in-austin.html",
+      "image_remote": "https://image.cnbcfm.com/api/v1/image/108358937-1788526931980-gettyimages-2292811784-AFP_C7B323M.jpeg?v=1788526959&w=1920&h=1080",
+      "image_local": "images/story-661.jpg",
+      "id": "4153f13a3f9f86485723bf3fcb33584dd37d8508",
+      "summary": "A month after Cybercab’s Austin launch, Texas records show 169 driverless two-seaters authorized for commercial use, up from 45, plus hundreds of Robotaxi Model Ys — still far behind Waymo’s Texas fleet. Riders have complained about long waits and bad drop-offs, NHTSA’s safety audit query remains open after a response extension, and Musk’s push to expand across Texas, Nevada, and Florida faces first-responder and public comfort hurdles.",
+      "n": 11
+    },
+    "c6453e7c9ea1cb6e367924710a7017e522f21525": {
+      "headline": "Armored Saint and Metal Church book a second Metal Saint Tour for spring 2027",
+      "cat": "Heavy metal",
+      "source": "MyGlobalMind",
+      "url": "https://myglobalmind.com/2026/10/03/armored-saint-metal-church-metal-saint-tour/",
+      "image_remote": "https://myglobalmind.com/wp-content/uploads/2026/10/armored-saint-metal-church-site-900x560-1-900x467.jpg",
+      "image_local": "images/story-662.jpg",
+      "id": "c6453e7c9ea1cb6e367924710a7017e522f21525",
+      "summary": "Armored Saint and Metal Church will run the Metal Saint Tour twice: 16 North American dates this November from San Juan Capistrano to Agoura Hills with LiveKill, then an 18-date March–April 2027 eastern leg with One Machine. John Bush said three weeks in the fall was not enough; the band also dropped a Costin Chioreanu visualizer for “Not On Your Life” from this year’s Emotion Factory Reset album on Metal Blade.",
+      "n": 12
+    },
+    "b1a612edb916711ef97d366b8fd446acfb5bf16d": {
+      "headline": "Twisted Sister with Sebastian Bach plays The Big E after Dee Snider’s health exit",
+      "cat": "Heavy metal",
+      "source": "Blabbermouth",
+      "url": "https://blabbermouth.net/news/watch-twisted-sister-featuring-sebastian-bach-performs-in-west-springfield-massachusetts",
+      "image_remote": "https://assets.blabbermouth.net/media/twistedsisterbachspringoct2026_638.jpg",
+      "image_local": "images/story-663.jpg",
+      "id": "b1a612edb916711ef97d366b8fd446acfb5bf16d",
+      "summary": "Fan video from Twisted Sister’s Oct. 2 show at The Big E in West Springfield captures the fall lineup with Sebastian Bach on vocals after Dee Snider stepped away citing degenerative arthritis and heart strain. Guitarist Jay Jay French called Bach “the most fun guy” and rejected irreplaceable-singer absolutism; six more dates remain, including Oct. 8 in Niagara Falls, with Russell Pzütto on bass and Joey Cassata on drums.",
+      "n": 13
     }
   },
-  "updated": "Saturday, October 3, 2026 · 4:00 PM ET"
+  "updated": "Saturday, October 3, 2026 · 6:00 PM ET"
 }
