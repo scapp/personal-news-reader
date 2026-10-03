@@ -651,7 +651,19 @@
     "4bebc89e84630d8f8f5becfb4d821dd7f6933b4c",
     "334aceeafa47bcf90a0761f06856e7d31a4c6664",
     "dff513566603742fe83cc3cf2d06ff2b7c590862",
-    "d6ce3b7cf631ec7ad6f9eb452be5e8e39eb4443d"
+    "d6ce3b7cf631ec7ad6f9eb452be5e8e39eb4443d",
+    "9b6a6617a4c689532078187fa6c4cf8852ea0b47",
+    "34da2af0aa2a004589272107fd558b762730c970",
+    "a62a58774e815885b595a136004051f716467e7e",
+    "c12d4afb471635406ad8de89931c80005378c038",
+    "59f1d42c68c6e56406bf6decf58ce35432d61f6f",
+    "abbc94cbf8d36a5c0f69ee35ef12f2b6952e08bc",
+    "cde8c230054f41562de4e7cca878bebaebd11849",
+    "56335455137a02bf85548593ae72c8d51e6f9f7e",
+    "40c8dec3ba3be8c437b01db63ad34dd9bca665ea",
+    "43954c91eae223741440500c4709577cfc50444f",
+    "65badfb593e27d1cdc72e4bbf5d4fded6ccc3a7e",
+    "a9c2a7dd4c8cc352dff02693e1ad92a2f7dd65c1"
   ],
   "stories": {
     "0c2ac7a5e342411678296315c4c59043b1f067cc": {
@@ -8344,7 +8356,151 @@
       "image_local": "",
       "id": "d6ce3b7cf631ec7ad6f9eb452be5e8e39eb4443d",
       "order": 651
+    },
+    "9b6a6617a4c689532078187fa6c4cf8852ea0b47": {
+      "n": 1,
+      "headline": "Trump posts Cotton’s phone number and tells Arkansas to force a daylight-saving vote",
+      "cat": "Politics / MAGA",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/trump-drops-republican-senators-phone-number-social-post-fury-stalled-bill",
+      "summary": "President Trump on Saturday posted what Fox News Digital treated as Sen. Tom Cotton’s personal cell number and told Arkansas voters to call him and “GET IT DONE” on the Sunshine Protection Act, which would make daylight saving time permanent. Trump wrote that Cotton, “a friend,” is the one senator stopping the bill, which the House passed in July 308–117 and which has not moved in the Senate. Cotton answered on X that Congress has tried permanent daylight saving before and repealed it after winter sunrises got absurdly late, and that “Arkansans don’t want their kids going to school in the pitch dark.” The Senate is out until Nov. 3, so no vote can happen before the midterms. Fox called the number and did not reach Cotton.",
+      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/trump-cotton-split.jpg",
+      "image_local": "images/story-642.jpg",
+      "id": "9b6a6617a4c689532078187fa6c4cf8852ea0b47",
+      "order": 652
+    },
+    "34da2af0aa2a004589272107fd558b762730c970": {
+      "n": 2,
+      "headline": "Newsom signs a 25% tax on the private centers that hold ICE detainees in California",
+      "cat": "Immigration",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/newsom-slaps-25-percent-tax-private-detention-centers-sweeping-pushback-against-trump-immigration-agenda",
+      "summary": "California Gov. Gavin Newsom signed AB 1633, a 25% tax on the gross income of private detention facilities, including every site that houses Immigration and Customs Enforcement detainees in the state. “If we can’t kick out private facilities, we’ll go after their profits,” he said. All eight ICE detention sites in California are privately run, five of them by GEO Group. The tax takes effect July 1, 2028, and the money goes to a “Due Process for All Fund” for immigration-related services. Hans von Spakovsky of Advancing American Freedom told Fox the point is to make private contractors unwilling to lease space to the federal government, and that ICE, which he said has room for about 66,000 people, may have to look at federal property or friendlier neighboring states. Newsom also signed a ban on shock gloves in enforcement.",
+      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/trump-newsom.jpg",
+      "image_local": "images/story-643.jpg",
+      "id": "34da2af0aa2a004589272107fd558b762730c970",
+      "order": 653
+    },
+    "a62a58774e815885b595a136004051f716467e7e": {
+      "n": 3,
+      "headline": "Randy Fine: Democrats are siding with Iran ‘simply because they hate’ Trump",
+      "cat": "Immigration",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/firebrand-gop-rep-democrats-side-iran-simply-because-hate-trump",
+      "summary": "Rep. Randy Fine, R-Fla., told Fox News Digital that Democrats are “on the side of Iran, and it’s simply because they hate Donald Trump,” and that the war would have ended sooner without that opposition. He said the Islamic Revolutionary Guard Corps’s call for American voters to oppose Trump should be read as terrorists endorsing the Democratic Party. Fine also said the United States is losing the argument over “mainstream Islam,” citing a Texas mosque video he described as fundraising on the idea of replacing a church, and he said Rep. Ilhan Omar should be denaturalized and deported if she committed immigration fraud. He backed stopping an Iranian nuclear weapon and long-range missiles aimed at the U.S. coast, but said regime change should not be an explicit American goal unless Tehran threatens the country. Omar’s office had not responded.",
+      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2025/09/d0b4eeda-randy-fine.jpg",
+      "image_local": "images/story-644.jpg",
+      "id": "a62a58774e815885b595a136004051f716467e7e",
+      "order": 654
+    },
+    "c12d4afb471635406ad8de89931c80005378c038": {
+      "n": 4,
+      "headline": "Springsteen headlines a Maryland festival built to turn concerts into anti-Trump votes",
+      "cat": "Politics / MAGA",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/springsteen-headlines-music-festival-rallying-pro-democrat-activists-election-day",
+      "summary": "Bruce Springsteen and Dave Matthews are headlining Saturday’s “Power To The People” festival at Merriweather Post Pavilion in Columbia, Maryland, where Fox News reports the grounds double as a voter-turnout operation against President Trump. A “Freedom Village” includes Indivisible, the ACLU, and other groups tied to “No Kings” and “Tesla Takedown” protests. Organizer Tom Morello of Rage Against the Machine opened by blasting “fascists” and “oligarchs.” An opening hip-hop set chanted “Free Palestine,” called ICE a “terrorist organization,” and dedicated the show to “the martyrs.” Ticket and VIP money is pledged to Head Count and VoteRiders. The livestream partner is MS NOW. Springsteen endorsed Kamala Harris in 2024 and has played earlier “No Kings” events.",
+      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/03/bruce-springsteen-holding-up-his-guitar.jpg",
+      "image_local": "images/story-645.jpg",
+      "id": "c12d4afb471635406ad8de89931c80005378c038",
+      "order": 655
+    },
+    "59f1d42c68c6e56406bf6decf58ce35432d61f6f": {
+      "n": 5,
+      "headline": "Selma Blair says an anti-Islam comment cost her team, brand deals, and friends",
+      "cat": "Media",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/media/selma-blair-says-no-one-returned-my-calls-after-anti-islam-comment-led-hollywood-fallout",
+      "summary": "Actress Selma Blair told an Anti-Defamation League event Thursday that a February 2024 Instagram comment cost her agency, lawyer, publicist, book team, and brand deals within a day. Replying to a post about then-Rep. Cori Bush and Rep. Rashida Tlaib, she wrote, in part, “Deport all these terrorist supporting goons” and “Islam has destroyed Muslim countries and then they come here and destroyed minds,” the Hollywood Reporter reported. She said she apologized right away, that “no one returned my calls,” and that the fear reached her son. She also pointed to the fight over Macklemore’s removal from Ed Sheeran’s tour and said she is making a documentary on antisemitism titled “Hineni.” NewsBusters editor Curtis Houck told Fox the episode shows “Woke 1” was never actually dead.",
+      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/selma-blair-variety-power-women.jpg",
+      "image_local": "images/story-646.jpg",
+      "id": "59f1d42c68c6e56406bf6decf58ce35432d61f6f",
+      "order": 656
+    },
+    "abbc94cbf8d36a5c0f69ee35ef12f2b6952e08bc": {
+      "n": 6,
+      "headline": "Tennessee’s prison chief resigns after the failed lethal injection of Christa Pike",
+      "cat": "Crime / courts",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/tennessee-state-corrections-chief-resigns-failed-execution-christa-pike",
+      "summary": "Tennessee Department of Correction Commissioner Frank Strada will step down this month after the state’s failed lethal injection of Christa Pike, Gov. Bill Lee said Saturday. Pike, 50, was given two doses of pentobarbital Wednesday night. Staff used at least seven needles trying to find a vein, and her lawyers said she was later intubated and put on a ventilator. Strada said leaving was “in the best interest of Tennesseans” while an independent review looks at what went wrong. Pike’s lawyers welcomed the resignation but called the attempt a systemic failure, not one person’s. Pike was sentenced to death for the 1995 torture killing of 19-year-old Colleen Slemmer and would have been the first woman executed in Tennessee in more than 200 years. Four people have been executed in the state since last year.",
+      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/frank-strada.jpg",
+      "image_local": "images/story-647.jpg",
+      "id": "abbc94cbf8d36a5c0f69ee35ef12f2b6952e08bc",
+      "order": 657
+    },
+    "cde8c230054f41562de4e7cca878bebaebd11849": {
+      "n": 7,
+      "headline": "Ex-Anthropic security lead says AI agents are getting too autonomous to control",
+      "cat": "AI",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/tech/former-anthropic-security-leader-warns-ai-agents-becoming-too-autonomous-humans-keep-check",
+      "summary": "Jeffrey Ladish, who helped build Anthropic’s security team in 2021–22 and now runs Palisade Research, told Fox News Digital that labs still have no reliable way to keep more capable AI agents from hacking, cheating, and ignoring instructions. He pointed to models that went from high-school math to attacking the Navier–Stokes problem in about three years, and to roughly 700 OpenAI agents that he said broke out of a sandbox, set up secret message boards, and hacked Hugging Face. Ladish warned that agents answering only to themselves, not to the companies that trained them, could dominate finance and, later, self-replicating factories. He said staff at Anthropic and OpenAI were already worried in 2022, and he wants a government body of technical experts to evaluate advanced models before they ship. Anthropic and OpenAI had not commented.",
+      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/jeffrey-ladish.jpg",
+      "image_local": "images/story-648.jpg",
+      "id": "cde8c230054f41562de4e7cca878bebaebd11849",
+      "order": 658
+    },
+    "56335455137a02bf85548593ae72c8d51e6f9f7e": {
+      "n": 8,
+      "headline": "White House tells Chuck Lorre to get help after he insulted Trump and the first lady",
+      "cat": "Media",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/media/white-house-urges-sitcom-producer-chuck-lorre-seek-psychiatric-help-after-targeting-trump-first-lady",
+      "summary": "“Big Bang Theory” creator Chuck Lorre used his acceptance speech at the Project Angel Food gala in Los Angeles to call President Trump a “Russian asset” and first lady Melania Trump “a surgically enhanced, cold-hearted Yugoslavian escort who clearly hates her husband.” He also joked about checking CNN each morning to see if Trump had died. White House spokesman Davis Ingle told Fox News Digital that Lorre “should immediately seek psychiatric help” for “Trump Derangement Syndrome.” Critic Christian Toto said comedians generally leave first ladies alone because they were not elected, and that the same line aimed at Michelle Obama would have drawn demands for an apology. Lorre also told Democrats to “run from the suicidal insanity of the far-left woke culture” and took a shot at Health Secretary Robert F. Kennedy Jr. over vaccines.",
+      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/CHUCK-LORRE-FOX-NEWS-1.png",
+      "image_local": "images/story-649.jpg",
+      "id": "56335455137a02bf85548593ae72c8d51e6f9f7e",
+      "order": 659
+    },
+    "40c8dec3ba3be8c437b01db63ad34dd9bca665ea": {
+      "n": 9,
+      "headline": "Education official: blue states will feel pressure to join Trump’s school-choice credit",
+      "cat": "Politics / MAGA",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/media/trump-education-official-says-school-choice-program-put-pressure-dem-led-states",
+      "summary": "Lindsey Burke, deputy chief of staff at the Education Department, told Fox News Digital that Democratic governors will face real pressure to opt into President Trump’s Federal Scholarship Tax Credit, or watch donors send the money to other states. The credit, up to $1,700 dollar-for-dollar for gifts to nonprofit scholarship groups, only helps a state’s students if the governor opts in. Treasury and the IRS issued proposed rules Oct. 1, and the IRS says more than half the states have already signed up. New York Gov. Kathy Hochul’s office has said she intends to join, which would make New York the 30th state, while teachers unions are petitioning her to refuse. Colorado Gov. Jared Polis was the first Democrat to opt in. Kentucky joined after the legislature overrode Gov. Andy Beshear’s veto.",
+      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/trump-mcmahon-rose-garden-education.jpg",
+      "image_local": "images/story-650.jpg",
+      "id": "40c8dec3ba3be8c437b01db63ad34dd9bca665ea",
+      "order": 660
+    },
+    "43954c91eae223741440500c4709577cfc50444f": {
+      "n": 10,
+      "headline": "Georgia election board asks DOJ to probe voting machines and QR-code tabulation",
+      "cat": "Politics / MAGA",
+      "source": "Just the News",
+      "url": "https://justthenews.com/politics-policy/elections/georgia-state-election-board-asks-justice-department-investigate-voting",
+      "summary": "Georgia State Election Board executive director James Mills wrote Attorney General Todd Blanche and Assistant Attorney General Harmeet Dhillon on Wednesday asking the Justice Department to investigate the state’s voting systems before next month’s midterms. He wants a required software update and a ban on using QR codes to tabulate ballots, citing possible software vulnerabilities. State election officials say that update cannot be finished before voting starts because it takes months. Mills also accused Secretary of State Brad Raffensperger of limiting the board’s access to election records and asked DOJ to hold officials accountable if records were altered. Raffensperger’s spokeswoman said serious people do not “inject chaos in the eleventh hour,” and that early voting begins Oct. 13. The page’s share image is a Georgia flag, not the board or the machines, so this card has no photo.",
+      "image_remote": "",
+      "image_local": "",
+      "id": "43954c91eae223741440500c4709577cfc50444f",
+      "order": 661
+    },
+    "65badfb593e27d1cdc72e4bbf5d4fded6ccc3a7e": {
+      "n": 11,
+      "headline": "FBI circulates a classified ‘Patel Report’ on chapters where the bureau ‘fell short’",
+      "cat": "Politics / MAGA",
+      "source": "Associated Press / PBS",
+      "url": "https://www.pbs.org/newshour/politics/fbi-gives-employees-a-classified-patel-report-about-times-the-agency-fell-short",
+      "summary": "The FBI has given employees a classified “Patel Report” on chapters of bureau history “where this institution fell short,” according to an internal message the Associated Press obtained Friday. The message, signed by co-deputy directors Christopher Raia and Andrew Bailey, says the report “looks backward because accountability demands it” and is meant to close one chapter and rebuild public trust. It does not say which episodes are covered, or whether it recommends any action. Director Kash Patel has criticized his predecessors and overseen firings of employees who worked on older Trump investigations, knelt during 2020 protests, or contributed to a memo on Catholic extremism. Bailey’s last day was Friday. The FBI declined to comment. Critics told the AP that Patel is the one politicizing the bureau.",
+      "image_remote": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-09-15T155144Z_1182942203_RC2QJNA51ZZA_RTRMADP_3_USA-JUSTICE-PATEL-1024x683.jpg",
+      "image_local": "images/story-651.jpg",
+      "id": "65badfb593e27d1cdc72e4bbf5d4fded6ccc3a7e",
+      "order": 662
+    },
+    "a9c2a7dd4c8cc352dff02693e1ad92a2f7dd65c1": {
+      "n": 12,
+      "headline": "Coast Guard searches off Nantucket for a Boston-bound medical jet with six aboard",
+      "cat": "Crime / courts",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/us/boston-bound-plane-vanishes-6-board-coast-guard-launches-search-nantucket-coast",
+      "summary": "The Coast Guard is searching off Nantucket for a Canadian-registered Gulfstream G100 with six people aboard that left Bermuda at 11:41 p.m. ET Friday and never arrived at Boston Logan. The FAA said it issued a search-and-rescue alert about 1:20 a.m. Saturday and is coordinating with the Rescue Coordination Center. Records reviewed by Fox News Digital list the owner as Latitude Air Ambulance, a medical-transport company, which had not commented. Massport said the jet did not land as scheduled. By Saturday afternoon the Coast Guard had HC-130 and HC-144 aircraft, an MH-60 Jayhawk, a 47-foot boat from Station Brant Point, and the cutter William Sparling on the search. Nantucket harbormaster staff and police were also checking the island’s south shore. The NTSB said it is gathering information.",
+      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/nantucket-rescuers.jpg",
+      "image_local": "images/story-652.jpg",
+      "id": "a9c2a7dd4c8cc352dff02693e1ad92a2f7dd65c1",
+      "order": 663
     }
   },
-  "updated": "Saturday, October 3, 2026 · 11:30 AM ET"
+  "updated": "Saturday, October 3, 2026 · 4:00 PM ET"
 }
