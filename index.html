@@ -7,6 +7,14 @@
 <meta name="description" content="Steve’s personal news brief — refreshed at 7am, 11am, and 5pm ET.">
 <meta name="robots" content="noindex,nofollow">
 <meta name="theme-color" content="#1e3a8a">
+<script>
+(function () {
+  try {
+    var t = localStorage.getItem('pnr_theme');
+    if (t === 'dark' || t === 'light') document.documentElement.setAttribute('data-theme', t);
+  } catch (e) {}
+})();
+</script>
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 <meta name="apple-mobile-web-app-title" content="Personal News">
@@ -14,7 +22,7 @@
 <link rel="icon" type="image/png" sizes="32x32" href="icons/favicon-32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="icons/favicon-16.png">
 <link rel="manifest" href="site.webmanifest">
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="styles.css?v=20261003">
 </head>
 <body>
   <div id="gate" class="gate" hidden>
@@ -36,6 +44,8 @@
         <div class="masthead-top">
           <p class="eyebrow">Private brief</p>
           <div class="masthead-actions">
+            <button type="button" id="theme-toggle" class="refresh-btn" aria-pressed="false">Dark mode</button>
+            <button type="button" id="saved-toggle" class="refresh-btn" aria-pressed="false">Saved</button>
             <button type="button" id="refresh-btn" class="refresh-btn" aria-label="Refresh stories">Refresh</button>
             <label class="toggle">
               <input type="checkbox" id="hide-read">
@@ -57,12 +67,18 @@
 
     <footer class="site-footer">
       <div class="inner">
-        <p>Read and remove state stays in this browser only (localStorage). Not synced across devices.</p>
+        <p>Read, remove, and save stay on this device and sync across devices after you unlock with your PIN.</p>
         <p>Refreshed 7am · 11am · 5pm ET · <a href="https://scapp.github.io/personal-news-reader/">scapp.github.io/personal-news-reader</a></p>
       </div>
     </footer>
   </div>
 
-  <script src="app.js" defer></script>
+  <div id="undo-bar" class="undo-bar" hidden>
+    <p id="undo-text">Story removed.</p>
+    <button type="button" id="undo-remove">Undo remove</button>
+    <button type="button" id="undo-dismiss" aria-label="Dismiss undo">Dismiss</button>
+  </div>
+
+  <script src="app.js?v=20261003" defer></script>
 </body>
 </html>

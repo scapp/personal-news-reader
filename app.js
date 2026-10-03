@@ -4,9 +4,12 @@
   const UNLOCK_KEY = 'pnr_unlocked';
   const READ_KEY = 'pnr_read';
   const REMOVED_KEY = 'pnr_removed';
+  const SAVED_KEY = 'pnr_saved';
   const HIDE_READ_KEY = 'pnr_hide_read';
+  const THEME_KEY = 'pnr_theme';
   const SYNC_TOKEN_KEY = 'pnr_sync_token';
   const SYNC_META_KEY = 'pnr_sync_meta';
+  const UNREAD_CAP = 20;
 
   const gate = document.getElementById('gate');
   const app = document.getElementById('app');
@@ -20,6 +23,12 @@
   const hideReadToggle = document.getElementById('hide-read');
   const refreshBtn = document.getElementById('refresh-btn');
   const refreshStatus = document.getElementById('refresh-status');
+  const themeToggle = document.getElementById('theme-toggle');
+  const savedToggle = document.getElementById('saved-toggle');
+  const undoBar = document.getElementById('undo-bar');
+  const undoText = document.getElementById('undo-text');
+  const undoBtn = document.getElementById('undo-remove');
+  const undoDismiss = document.getElementById('undo-dismiss');
 
   let auth = null;
   let stories = [];
@@ -28,6 +37,8 @@
   let gistFileSha = null;
   let pushTimer = null;
   let syncing = false;
+  let viewMode = 'feed';
+  let undoRemoveId = null;
 
   function loadList(key) {
     try {
@@ -45,6 +56,7 @@
 
   function readIds() { return new Set(loadList(READ_KEY)); }
   function removedIds() { return new Set(loadList(REMOVED_KEY)); }
+  function savedIds() { return new Set(loadList(SAVED_KEY)); }
 
   function unionLists(a, b) {
     return [...new Set([...(a || []), ...(b || [])].map(String))];
@@ -54,6 +66,7 @@
     return {
       read: loadList(READ_KEY),
       removed: loadList(REMOVED_KEY),
+      saved: loadList(SAVED_KEY),
       updated: new Date().toISOString(),
     };
   }
@@ -62,11 +75,14 @@
     if (!state || typeof state !== 'object') return;
     const read = unionLists(loadList(READ_KEY), state.read || []);
     const removed = unionLists(loadList(REMOVED_KEY), state.removed || []);
+    const hasSaved = Array.isArray(state.saved);
+    const saved = hasSaved ? unionLists(loadList(SAVED_KEY), state.saved) : loadList(SAVED_KEY);
     if (saveLocal) {
       saveList(READ_KEY, read);
       saveList(REMOVED_KEY, removed);
+      if (hasSaved) saveList(SAVED_KEY, saved);
     }
-    return { read, removed };
+    return { read, removed, saved };
   }
 
   async function sha256Hex(text) {
@@ -199,7 +215,6 @@
   async function pushRemoteState() {
     if (!syncConfigured() || !syncToken) return false;
     const body = currentState();
-    // Also mirror into local site cache shape
     const content = JSON.stringify(body, null, 2);
     const res = await fetch(gistApiUrl(), {
       method: 'PATCH',
@@ -267,12 +282,47 @@
     schedulePush();
   }
 
+  function toggleSaved(id) {
+    const list = loadList(SAVED_KEY);
+    if (list.includes(id)) saveList(SAVED_KEY, list.filter((x) => x !== id));
+    else {
+      list.push(id);
+      saveList(SAVED_KEY, list);
+    }
+    render();
+    schedulePush();
+  }
+
+  function showUndo(id) {
+    undoRemoveId = id;
+    const story = stories.find((s) => s && s.id === id);
+    const title = story && story.headline ? String(story.headline) : 'Story';
+    const short = title.length > 90 ? title.slice(0, 87) + '…' : title;
+    if (undoText) undoText.textContent = 'Removed: ' + short;
+    if (undoBar) undoBar.hidden = false;
+  }
+
+  function hideUndo() {
+    undoRemoveId = null;
+    if (undoBar) undoBar.hidden = true;
+  }
+
+  function undoRemove() {
+    if (!undoRemoveId) return;
+    const id = undoRemoveId;
+    saveList(REMOVED_KEY, loadList(REMOVED_KEY).filter((x) => x !== id));
+    hideUndo();
+    render();
+    schedulePush();
+  }
+
   function removeStory(id) {
     const list = loadList(REMOVED_KEY);
     list.push(id);
     saveList(REMOVED_KEY, list);
     render();
     schedulePush();
+    showUndo(id);
   }
 
   function showUnlocked() {
@@ -301,41 +351,40 @@
     return '';
   }
 
-  function storyActions(id, isRead) {
+  function storyActions(id, isRead, isSaved) {
     return `
       <div class="actions">
+        <button type="button" data-action="save" data-id="${escapeHtml(id)}" aria-pressed="${isSaved ? 'true' : 'false'}">${isSaved ? 'Saved' : 'Save'}</button>
         <button type="button" data-action="read" data-id="${escapeHtml(id)}">${isRead ? 'Mark unread' : 'Mark read'}</button>
         <button type="button" class="danger" data-action="remove" data-id="${escapeHtml(id)}">Remove</button>
       </div>`;
   }
 
   function mediaBlock(story, kind) {
+    const img = imageSrc(story);
+    if (!img) return '';
     const cls = kind === 'lead' ? 'lead-media' : 'thumb';
     const loading = kind === 'lead' ? 'eager' : 'lazy';
-    const img = imageSrc(story);
-    const cat = escapeHtml(story.cat || 'News');
     const url = escapeHtml(story.url || '#');
-    if (img) {
-      return `<a class="${cls}" href="${url}" target="_blank" rel="noopener noreferrer"><img src="${escapeHtml(img)}" alt="" loading="${loading}" onerror="this.parentElement.classList.add('placeholder'); this.outerHTML='<span class=\'ph-label\'>${cat}</span>';"></a>`;
-    }
-    return `<a class="${cls} placeholder" href="${url}" target="_blank" rel="noopener noreferrer" aria-label="${cat}"><span class="ph-label">${cat}</span></a>`;
+    return `<a class="${cls}" href="${url}" target="_blank" rel="noopener noreferrer"><img src="${escapeHtml(img)}" alt="" loading="${loading}"></a>`;
   }
 
-  function leadHtml(story, isRead) {
+  function leadHtml(story, isRead, isSaved) {
+    const photo = imageSrc(story) ? '' : ' no-photo';
     return `
-      <article class="lead-card${isRead ? ' read' : ''}" data-id="${escapeHtml(story.id)}">
+      <article class="lead-card${isRead ? ' read' : ''}${photo}" data-id="${escapeHtml(story.id)}">
         ${mediaBlock(story, 'lead')}
         <div class="lead-copy">
           <div class="cat">${escapeHtml(story.cat || 'News')}</div>
           <h2><a href="${escapeHtml(story.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(story.headline)}</a></h2>
           <p class="summary">${escapeHtml(story.summary || '')}</p>
           <div class="meta-row"><span class="source">${escapeHtml(story.source || '')}</span></div>
-          ${storyActions(story.id, isRead)}
+          ${storyActions(story.id, isRead, isSaved)}
         </div>
       </article>`;
   }
 
-  function cardHtml(story, isRead) {
+  function cardHtml(story, isRead, isSaved) {
     return `
       <article class="story${isRead ? ' read' : ''}" data-id="${escapeHtml(story.id)}">
         ${mediaBlock(story, 'card')}
@@ -344,18 +393,48 @@
           <h2><a href="${escapeHtml(story.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(story.headline)}</a></h2>
           <p class="summary">${escapeHtml(story.summary || '')}</p>
           <div class="meta-row"><span class="source">${escapeHtml(story.source || '')}</span></div>
-          ${storyActions(story.id, isRead)}
+          ${storyActions(story.id, isRead, isSaved)}
         </div>
       </article>`;
   }
 
-  function visibleStories() {
+  function bindImageErrors(root) {
+    if (!root) return;
+    root.querySelectorAll('img').forEach((img) => {
+      img.addEventListener('error', () => {
+        const frame = img.closest('a');
+        if (frame) frame.remove();
+        const card = img.closest('article');
+        if (card) card.classList.add('no-photo');
+      });
+    });
+  }
+
+  function notRemoved() {
     const removed = removedIds();
+    return stories.filter((s) => s && s.id && !removed.has(s.id));
+  }
+
+  function visibleStories() {
     const reads = readIds();
-    const hideRead = hideReadToggle.checked;
-    return stories.filter((s) => {
-      if (!s || !s.id) return false;
-      if (removed.has(s.id)) return false;
+    const saved = savedIds();
+    const hideRead = !!(hideReadToggle && hideReadToggle.checked);
+    const pool = notRemoved();
+
+    if (viewMode === 'saved') {
+      return pool.filter((s) => saved.has(s.id));
+    }
+
+    const unread = pool.filter((s) => !reads.has(s.id));
+    const drop = new Set();
+    if (unread.length > UNREAD_CAP) {
+      const excess = unread.length - UNREAD_CAP;
+      const oldestUnsaved = unread.slice().reverse().filter((s) => !saved.has(s.id));
+      oldestUnsaved.slice(0, excess).forEach((s) => drop.add(s.id));
+    }
+
+    return pool.filter((s) => {
+      if (drop.has(s.id)) return false;
       if (hideRead && reads.has(s.id)) return false;
       return true;
     });
@@ -363,23 +442,33 @@
 
   function render() {
     const visible = visibleStories();
-    const totalKnown = stories.filter((s) => s && s.id && !removedIds().has(s.id)).length;
     const reads = readIds();
+    const saved = savedIds();
+    const totalKnown = notRemoved().length;
 
-    subtitle.textContent = `${updatedLabel || 'Updated recently'} · ${totalKnown} stor${totalKnown === 1 ? 'y' : 'ies'}`;
+    if (viewMode === 'saved') {
+      subtitle.textContent = `${updatedLabel || 'Updated recently'} · ${visible.length} saved`;
+    } else {
+      subtitle.textContent = `${updatedLabel || 'Updated recently'} · ${totalKnown} stor${totalKnown === 1 ? 'y' : 'ies'}`;
+    }
 
     leadEl.innerHTML = '';
     feedEl.innerHTML = '';
 
     if (!visible.length) {
       emptyEl.hidden = false;
+      emptyEl.textContent = viewMode === 'saved'
+        ? 'No saved stories yet. Use Save on a card to keep it here.'
+        : 'No stories to show. Toggle “Hide read” or open Saved.';
       return;
     }
     emptyEl.hidden = true;
 
     const [featured, ...rest] = visible;
-    leadEl.innerHTML = leadHtml(featured, reads.has(featured.id));
-    feedEl.innerHTML = rest.map((s) => cardHtml(s, reads.has(s.id))).join('');
+    leadEl.innerHTML = leadHtml(featured, reads.has(featured.id), saved.has(featured.id));
+    feedEl.innerHTML = rest.map((s) => cardHtml(s, reads.has(s.id), saved.has(s.id))).join('');
+    bindImageErrors(leadEl);
+    bindImageErrors(feedEl);
   }
 
   function onClick(e) {
@@ -392,6 +481,10 @@
       removeStory(id);
       return;
     }
+    if (action === 'save') {
+      toggleSaved(id);
+      return;
+    }
     if (action === 'read') {
       const reads = loadList(READ_KEY);
       if (reads.includes(id)) {
@@ -402,6 +495,43 @@
         markRead(id);
       }
     }
+  }
+
+  function explicitTheme() {
+    try {
+      const t = localStorage.getItem(THEME_KEY);
+      return t === 'dark' || t === 'light' ? t : null;
+    } catch (_) {
+      return null;
+    }
+  }
+
+  function systemDark() {
+    return window.matchMedia('(prefers-color-scheme: dark)').matches;
+  }
+
+  function effectiveTheme() {
+    return explicitTheme() || (systemDark() ? 'dark' : 'light');
+  }
+
+  function applyTheme() {
+    const chosen = explicitTheme();
+    if (chosen) document.documentElement.setAttribute('data-theme', chosen);
+    else document.documentElement.removeAttribute('data-theme');
+    const dark = effectiveTheme() === 'dark';
+    if (themeToggle) {
+      themeToggle.textContent = dark ? 'Light mode' : 'Dark mode';
+      themeToggle.setAttribute('aria-pressed', dark ? 'true' : 'false');
+    }
+    const meta = document.querySelector('meta[name="theme-color"]');
+    if (meta) meta.setAttribute('content', dark ? '#0b1220' : '#1e3a8a');
+  }
+
+  function toggleTheme() {
+    const next = effectiveTheme() === 'dark' ? 'light' : 'dark';
+    try { localStorage.setItem(THEME_KEY, next); } catch (_) {}
+    document.documentElement.setAttribute('data-theme', next);
+    applyTheme();
   }
 
   async function tryUnlock(pin) {
@@ -466,8 +596,9 @@
     ingest(data.stories || []);
 
     const latestIds = (data.stories || []).map((s) => s && s.id).filter(Boolean);
-    const rest = order.filter((id) => !latestIds.includes(id));
-    const finalOrder = [...latestIds, ...rest];
+    // archive.order is oldest-first. Feed is newest-first so the unread cap drops the oldest.
+    const restOldestFirst = order.filter((id) => !latestIds.includes(id));
+    const finalOrder = [...latestIds, ...restOldestFirst.slice().reverse()];
     return finalOrder.map((id) => byId.get(id)).filter(Boolean);
   }
 
@@ -524,6 +655,24 @@
     if (refreshBtn) {
       refreshBtn.addEventListener('click', () => refreshStories('manual'));
     }
+    if (themeToggle) themeToggle.addEventListener('click', toggleTheme);
+    applyTheme();
+    const themeMq = window.matchMedia('(prefers-color-scheme: dark)');
+    const onThemeMq = () => {
+      if (!explicitTheme()) applyTheme();
+    };
+    if (themeMq.addEventListener) themeMq.addEventListener('change', onThemeMq);
+    else if (themeMq.addListener) themeMq.addListener(onThemeMq);
+    if (savedToggle) {
+      savedToggle.addEventListener('click', () => {
+        viewMode = viewMode === 'saved' ? 'feed' : 'saved';
+        savedToggle.setAttribute('aria-pressed', viewMode === 'saved' ? 'true' : 'false');
+        savedToggle.textContent = viewMode === 'saved' ? 'Back to feed' : 'Saved';
+        render();
+      });
+    }
+    if (undoBtn) undoBtn.addEventListener('click', undoRemove);
+    if (undoDismiss) undoDismiss.addEventListener('click', hideUndo);
     document.addEventListener('visibilitychange', () => {
       if (document.visibilityState === 'visible' && !app.hidden) {
         if (Date.now() - lastFetchedAt > 30 * 1000) refreshStories('auto');
@@ -578,6 +727,7 @@
   });
 
   async function init() {
+    applyTheme();
     try {
       auth = await loadJson('auth.json');
     } catch (err) {
@@ -592,7 +742,6 @@
     const unlocked = sessionStorage.getItem(UNLOCK_KEY) === '1'
       || (function () { try { return localStorage.getItem(UNLOCK_KEY) === '1'; } catch (_) { return false; } })();
 
-    // If sync is on but this device has no sync token yet, ask for PIN again once.
     if (unlocked && syncConfigured() && !syncToken) {
       showGate();
       gateError.textContent = 'Enter your PIN once to turn on sync across devices.';
