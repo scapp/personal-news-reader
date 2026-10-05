@@ -765,7 +765,20 @@
     "1e63226378f24b1c77dd8972f977cfbb19561204",
     "4d15bdc30736f570f4c9f05780b5c1f196cd7967",
     "3f8c3d9822ea0da2f01b94c6af00b7e79227353f",
-    "6de7cc5e9d480896a784007a07f202e9f7a97782"
+    "6de7cc5e9d480896a784007a07f202e9f7a97782",
+    "ed0164bf98e746ab836ba14ac3d4243401555990",
+    "a7673533269ce2567db5038773bc0d5843fdf516",
+    "0c40a02e2439f58081acd1130dfb46849f90ab8b",
+    "e3b0acd0c8c6ef0115b746fcaccaba7fd6e1ed93",
+    "36041bdbd811223cb8b4a024c677778bc5824eca",
+    "b5701c4945c85645e036abcf94514998ef5fb5c2",
+    "92458a4177b8ea50ccf6d001f4852f58ee90fa88",
+    "a50898b03ca5679ad52e702092c3b9f9d3696b0f",
+    "48439aa1dc66346f230a41abc092834020c7db78",
+    "f177c47a30b12ef920f3f8c333bd7738b2001fb2",
+    "181e759766927379e55b5a0fd1f5ef6db1dafe34",
+    "d7293890d008da9c61638282fd25850c19531248",
+    "4b9ce9bd4f0c5bdf53af53927c9d963e8a7a392c"
   ],
   "stories": {
     "0c2ac7a5e342411678296315c4c59043b1f067cc": {
@@ -9783,7 +9796,137 @@
       "n": 15,
       "id": "6de7cc5e9d480896a784007a07f202e9f7a97782",
       "added": "2026-10-04T22:00:00-04:00"
+    },
+    "ed0164bf98e746ab836ba14ac3d4243401555990": {
+      "headline": "Coast Guard returns fire after shooters open up from Mexico’s side of the Rio Grande",
+      "cat": "Immigration",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/world/coast-guard-personnel-exchange-gunfire-shooters-us-mexico-border",
+      "summary": "Coast Guard personnel exchanged gunfire with people on the Mexican side of the border Sept. 26 near Garceno, Texas, while intercepting migrants on the Rio Grande during a joint federal operation, officials said. No Coast Guard or partner injuries were reported, and the service said it is investigating with federal partners; U.S. Ambassador to Mexico Ronald Johnson said the embassy is coordinating with Mexican forces deploying to the area. The U.S. military cited the encounter as an example of rising illegal activity as hundreds of U.S. troops moved into the Rio Grande Valley and about 500 Mexican Army and National Guard personnel deployed on their side.",
+      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/coast-guard-mexico-shooting.png",
+      "image_local": "images/story-736.png",
+      "id": "ed0164bf98e746ab836ba14ac3d4243401555990"
+    },
+    "a7673533269ce2567db5038773bc0d5843fdf516": {
+      "headline": "Texas Stock Exchange pushes ‘Y’all Street’ as a listing rival to NYSE and Nasdaq",
+      "cat": "Politics / MAGA",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/wall-street-new-rival-deep-heart-southern-state",
+      "summary": "The Dallas-based Texas Stock Exchange is pitching itself as another place for companies to list and raise capital, part of a broader push to make Texas a financial hub supporters call “Y’all Street.” Former Rep. Jeb Hensarling, a strategic adviser to the exchange, told Fox News Digital that “Texas is really becoming the economic center of gravity in America” as New York “shoves capital out.” Primary listings already announced include Energy Transfer, Dillard’s, Sunoco and Texas Capital Bank, while Goldman Sachs, JPMorgan, Schwab and Bank of America expand in Texas; critics note New York still dwarfs any rival.",
+      "image_remote": "",
+      "image_local": "",
+      "id": "a7673533269ce2567db5038773bc0d5843fdf516"
+    },
+    "0c40a02e2439f58081acd1130dfb46849f90ab8b": {
+      "headline": "Supreme Court opens its term with guns, Catholic schools, climate suits and voter ID",
+      "cat": "Crime / courts",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/catholic-schools-banned-rifles-climate-lawfare-blockbuster-fights-await-supreme-court",
+      "summary": "The Supreme Court opens Monday on a docket that includes Illinois and Connecticut bans on popular semiautomatic rifles, an Arizona proof-of-citizenship voter registration law, Colorado’s exclusion of Catholic preschools from a universal pre-K program, and Boulder’s climate “lawfare” suit against oil majors. Carrie Severino of JCN said the climate case looks like an attempt to “weaponize one jurisdiction’s law” beyond state borders, and that Bruen will finally test whether AR-15-style rifles are in common use. The justices will also weigh the Trump administration’s authority to deport illegal immigrants to third countries not named in their removal orders.",
+      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/Supreme-Court-Photo-1.jpg",
+      "image_local": "images/story-737.jpg",
+      "id": "0c40a02e2439f58081acd1130dfb46849f90ab8b"
+    },
+    "e3b0acd0c8c6ef0115b746fcaccaba7fd6e1ed93": {
+      "headline": "Cornyn calls Bill Gates’ ‘billion deaths’ AI warning fearmongering and regulatory capture",
+      "cat": "Politics / MAGA",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/gop-senators-skeptical-bill-gates-fearmongering-ai-warning-democrats-sound-alarm",
+      "summary": "Sen. John Cornyn, R-Texas, told Fox News Digital that Bill Gates’ Meet the Press claim AI could cause “a billion” deaths is “incredibly irresponsible” and “fearmongering” aimed at regulatory capture that would lock in the biggest AI firms. Sen. John Hoeven, R-N.D., said the U.S. must stay ahead of China while developing AI safely, and Cornyn argued Trump is “generally on the right track” avoiding a heavy hand. Democrats and Independents pushed the opposite: Sen. Angus King said industry self-regulation fails under cutthroat competition, and Sen. Elizabeth Warren blamed Republicans for sending Congress home instead of writing AI safeguards.",
+      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/cornyn-bill-gates-split.jpg",
+      "image_local": "images/story-738.jpg",
+      "id": "e3b0acd0c8c6ef0115b746fcaccaba7fd6e1ed93"
+    },
+    "36041bdbd811223cb8b4a024c677778bc5824eca": {
+      "headline": "AI is flooding midterm ads, but viral deepfakes still aren’t winning elections",
+      "cat": "Media",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/ai-supercharging-political-ad-wars-viral-doesnt-mean-victorious",
+      "summary": "Campaigns are using generative AI to churn out attack ads and memes in hours instead of days, with AdImpact counting 29 disclosed AI ads and Wesleyan spotting at least 164 AI-influenced spots this cycle. Republican ad maker Will Ritter said most of his firm’s ads now have an AI component, but warned “cool” tech doesn’t equal persuasion — pointing to Spencer Pratt’s viral AI mayoral videos that still left him third in Los Angeles. Brian Shortsleeve’s AI deepfake of Gov. Maura Healey drew attention then lost the Massachusetts GOP primary in a landslide, and strategists say authenticity still beats the cheapest viral stunt.",
+      "image_remote": "",
+      "image_local": "",
+      "id": "36041bdbd811223cb8b4a024c677778bc5824eca"
+    },
+    "b5701c4945c85645e036abcf94514998ef5fb5c2": {
+      "headline": "Coast Guard suspends the Nantucket medical-jet search; all six aboard presumed dead",
+      "cat": "Crime / courts",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/5/us-coastguard-suspends-search-for-six-on-board-crashed-medical-jet",
+      "summary": "The U.S. Coast Guard has suspended its search for six people on the Latitude Air Ambulance Gulfstream G100 that vanished on a Bermuda-to-Boston flight after about 66 hours and 4,445 miles of searching confirmed debris off Nantucket. Rear Adm. Matthew Lake called the decision hard and offered condolences; Latitude said it must face the reality that its four Canadian crew, the Bermudian patient and a family escort on Heartbeat 104 are presumed dead. Attention has turned to a steep descent and lost contact in the final minutes; water around the debris field is about 80–90 feet deep.",
+      "image_remote": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-04T062436Z_1533483136_RC24WNAD0WTO_RTRMADP_3_USA-PLANE-MISSING-1791166765.jpg?resize=1445%2C1080&quality=80",
+      "image_local": "images/story-739.jpg",
+      "id": "b5701c4945c85645e036abcf94514998ef5fb5c2"
+    },
+    "92458a4177b8ea50ccf6d001f4852f58ee90fa88": {
+      "headline": "Trump admin monitors reports of a fatal Russian plague lab accident in Siberia",
+      "cat": "World",
+      "source": "Just the News",
+      "url": "https://justthenews.com/politics-policy/health/trump-administration-closely-monitoring-reports-plague-death-lab-accident",
+      "summary": "The Trump administration is closely watching reports of a suspected fatal plague infection in Russia’s Irkutsk region and urging Moscow to be transparent, officials said Sunday night. The Moscow Times reported that nearly 200 people were placed under observation after a laboratory worker died, and Buryatia’s Alexei Tsydenov confirmed a worker who broke a test tube of live bacteria died of an unspecified form of plague. A State Department official told NewsNation the U.S. is monitoring a suspected pneumonic plague case with the CDC and other partners while details remain vague.",
+      "image_remote": "",
+      "image_local": "",
+      "id": "92458a4177b8ea50ccf6d001f4852f58ee90fa88"
+    },
+    "a50898b03ca5679ad52e702092c3b9f9d3696b0f": {
+      "headline": "SpaceX aborts the Space Force data-sat launch seconds before liftoff; retry Tuesday",
+      "cat": "Elon Musk / SpaceX",
+      "source": "KSBY",
+      "url": "https://www.ksby.com/news/launch-tracker/spacex-to-launch-sdas-fourth-tranche-1-data-transport-mission-early-monday-morning",
+      "summary": "SpaceX scrubbed Monday’s Falcon 9 launch of 21 Space Development Agency Tranche 1 data-transport satellites from Vandenberg after an auto abort just prior to T-0. “Vehicle and payload are in good health, and teams are resetting for a launch attempt no earlier than tomorrow, October 6,” SpaceX said on X. The mission was aimed at 1:17 a.m. PT with a landing planned at Landing Zone 4; the satellites are part of the Pentagon’s proliferated LEO mesh for military communications and missile warning.",
+      "image_remote": "https://ewscripps.brightspotcdn.com/dims4/default/603ef41/2147483647/strip/true/crop/1000x525+0+19/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F52%2F38%2Ffa2f681148d984feb95b5bb6bd28%2Fap21020485241656.jpg",
+      "image_local": "images/story-740.jpg",
+      "id": "a50898b03ca5679ad52e702092c3b9f9d3696b0f"
+    },
+    "48439aa1dc66346f230a41abc092834020c7db78": {
+      "headline": "Penguins host Winnipeg at 7:30 after a 13-goal, 2–0 start and Malkin’s historic streak",
+      "cat": "Penguins hockey",
+      "source": "NHL.com",
+      "url": "https://www.nhl.com/penguins/news/game-preview-10-05-26-vs-winnipeg-jets",
+      "summary": "The Penguins host the Winnipeg Jets at PPG Paints Arena at 7:30 p.m. ET Monday after opening 2–0 with 13 goals, including Saturday’s 6–5 overtime win over Montreal. Evgeni Malkin is just the second 40-year-old in NHL history to score in each of his team’s first two games, joining Gordie Howe in 1968-69; Pittsburgh is 21–3–0 in its last 24 home games against Winnipeg. It’s Polish Heritage Night and a Dollar Dog Game, with team calendars for fans, before a stretch of five of the next six on the road.",
+      "image_remote": "https://media.d3.nhle.com/image/private/t_ratio16_9-size50/prd/jxsgrmrzgxxpgcs8soea.png",
+      "image_local": "images/story-741.png",
+      "id": "48439aa1dc66346f230a41abc092834020c7db78"
+    },
+    "f177c47a30b12ef920f3f8c333bd7738b2001fb2": {
+      "headline": "Westport couples now wait 48 hours for a Connecticut marriage license",
+      "cat": "Local / Fairfield CT",
+      "source": "Westport Journal",
+      "url": "https://westportjournal.com/community/48-hour-waiting-period-for-marriage-licenses-kicks-in/",
+      "summary": "Couples applying for a marriage license in Westport — or anywhere in Connecticut — now must wait 48 hours before the town clerk can issue it under a state law that took effect Thursday to curb fraudulent marriages and trafficking. Westport issues about 175 licenses a year, Town Clerk Jeffrey Dunkerton said; licenses also expire after 65 days, and applicants must visit Town Hall twice because the $50 license is applied for and picked up in person. Rep. Eleni Kavros DeGraw said busloads of sham marriages made the change an easy bipartisan vote; New York’s wait is 24 hours and Massachusetts’s is three days.",
+      "image_remote": "",
+      "image_local": "",
+      "id": "f177c47a30b12ef920f3f8c333bd7738b2001fb2"
+    },
+    "181e759766927379e55b5a0fd1f5ef6db1dafe34": {
+      "headline": "Gurman: Apple is planning an Oct. 13 event for the Home hub and more",
+      "cat": "Apple",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/04/apple-event-reportedly-planned-for-october-13/",
+      "summary": "Mark Gurman’s Power On newsletter now says Apple is planning to “hold an event” on Tuesday, Oct. 13, firming up last week’s report that Cupertino will unveil an all-new smart home hub, a new HomePod mini, and a new Apple TV 4K that day. The hub is expected in an iMac G4-style design with a roughly 6-inch display for countertop or wall use. The confirmation comes after Apple’s September iPhone Duo and related launches, with more hardware still expected later this year.",
+      "image_remote": "",
+      "image_local": "",
+      "id": "181e759766927379e55b5a0fd1f5ef6db1dafe34"
+    },
+    "d7293890d008da9c61638282fd25850c19531248": {
+      "headline": "FBI Director Kash Patel and country singer Alexis Wilkins announce their engagement",
+      "cat": "Politics / MAGA",
+      "source": "Just the News",
+      "url": "https://justthenews.com/government/federal-agencies/fbi-director-kash-patel-and-country-singer-alexis-wilkins-are-engaged",
+      "summary": "FBI Director Kash Patel, 46, and country singer Alexis Wilkins, 27, announced their engagement Sunday. Wilkins shared a photo of the couple showing her new diamond ring and captioned it, “Went and got the law involved.” The couple have been together since 2023.",
+      "image_remote": "",
+      "image_local": "",
+      "id": "d7293890d008da9c61638282fd25850c19531248"
+    },
+    "4b9ce9bd4f0c5bdf53af53927c9d963e8a7a392c": {
+      "headline": "Kid Rock drops a Christian album, ‘Halfway To Jesus,’ with an Eminem feature",
+      "cat": "Heavy metal",
+      "source": "Blabbermouth",
+      "url": "https://blabbermouth.net/news/kid-rock-announces-christian-music-album-halfway-to-jesus-shares-first-single-james-117-jesus-is-king",
+      "summary": "Kid Rock will release the 17-track Christian album “Halfway To Jesus” on Oct. 17, led by the single “James 1:17 (Jesus Is King),” with a video filmed at his Nashville Honky Tonk and dedicated to keyboardist Jimmie Bones (ALS) and a Make-A-Wish fan. “7 Sins” features Eminem, and “Halfway 2 Jesus” features Gary LeVox and Jimmie Allen; Rock said he wanted rock, country and hip-hop celebrating faith instead of “boring” church music. The Trump-supporting artist’s first album since 2022’s “Bad Reputation” also nods to keeping friends across political divides.",
+      "image_remote": "https://assets.blabbermouth.net/media/kidrockjesusvidoct2026_638.jpg",
+      "image_local": "images/story-742.jpg",
+      "id": "4b9ce9bd4f0c5bdf53af53927c9d963e8a7a392c"
     }
   },
-  "updated": "Sunday, October 4, 2026 · 10:00 PM ET"
+  "updated": "Monday, October 5, 2026 · 7:00 AM ET"
 }
