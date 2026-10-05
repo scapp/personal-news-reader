@@ -778,7 +778,24 @@
     "f177c47a30b12ef920f3f8c333bd7738b2001fb2",
     "181e759766927379e55b5a0fd1f5ef6db1dafe34",
     "d7293890d008da9c61638282fd25850c19531248",
-    "4b9ce9bd4f0c5bdf53af53927c9d963e8a7a392c"
+    "4b9ce9bd4f0c5bdf53af53927c9d963e8a7a392c",
+    "346add02b75de96693b6ffc6aa87310e8e49a77d",
+    "ca6f2e6e6ff273fa489c1e8b5352ce81e23155b7",
+    "1e0de7ff85b77a3dd88e086e5faf4573bc108b19",
+    "b8d0903f203c33c34475f085e5cc6e3be860be5f",
+    "df2f2d5a0c1fedb9fc404c41a50418b4045af36d",
+    "818da4d3af5851e70959f65f8290ffa6e4858fe7",
+    "09682d3b973090ba57b108ed0c0fcd9bf0225fef",
+    "92e7ef776ff6c34e837e0057de9cfa59584c57f4",
+    "2600b8ac98b61b42503124e3efbc882222550c1a",
+    "6a8fe5c9f47c2fa4ffde818abd2dd1ec8e47e46d",
+    "d141c4dd6b0187b150998c15f77fa251976ff242",
+    "01874aecf96b39bd7b1f1f4c2047fc3347f4c985",
+    "a978c3371407cef018e21c52d9c4514dded97bf8",
+    "ef3ffc721e2ea3a8dd5b1c6baf116cf037780265",
+    "0954cfa128132d8f7f089536afb64bb83e62da69",
+    "8647bca4b7c3a35cebd070ebc272b3f4ce58480e",
+    "c86b6ee6ca73fddb952f85db5f2aaaf2068fbbf7"
   ],
   "stories": {
     "0c2ac7a5e342411678296315c4c59043b1f067cc": {
@@ -9926,7 +9943,177 @@
       "image_remote": "https://assets.blabbermouth.net/media/kidrockjesusvidoct2026_638.jpg",
       "image_local": "images/story-742.jpg",
       "id": "4b9ce9bd4f0c5bdf53af53927c9d963e8a7a392c"
+    },
+    "346add02b75de96693b6ffc6aa87310e8e49a77d": {
+      "headline": "Dennis Hastert, the longest-serving Republican House speaker who later went to prison, dies at 84",
+      "cat": "Politics / MAGA",
+      "source": "PBS News (AP)",
+      "url": "https://www.pbs.org/newshour/politics/dennis-hastert-longtime-republican-house-speaker-who-went-to-prison-dies-at-age-84",
+      "summary": "Former House Speaker Dennis Hastert died Saturday of natural causes at his Illinois home while in hospice care, the Kendall County coroner said Monday. Hastert led the House from 1999 to 2007, presiding during the Clinton impeachment trial and helping pass George W. Bush’s agenda, but his legacy collapsed in 2015 when he was charged with structuring bank withdrawals to pay hush money; prosecutors later said he had sexually abused at least four teenage wrestlers he coached in Yorkville. He paid more than $1.7 million of a promised $3.5 million to one victim, pleaded guilty to the banking charge, and was sentenced in 2016 to 15 months by a judge who called him a “serial child molester.”",
+      "image_remote": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/1999-03-26T000000Z_1610580925_RP1DRIKXCVAE_RTRMADP_3_YUGOSLAVIA-HASTERT-1-1024x688.jpg",
+      "image_local": "images/story-743.jpg",
+      "id": "346add02b75de96693b6ffc6aa87310e8e49a77d"
+    },
+    "ca6f2e6e6ff273fa489c1e8b5352ce81e23155b7": {
+      "headline": "Karoline Leavitt joins Fox News as a contributor two months after leaving the White House podium",
+      "cat": "Media",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/media/karoline-leavitt-joins-fox-news-contributor-leaving-white-house-press-secretary-role",
+      "summary": "Former White House press secretary Karoline Leavitt, 29, will join Fox News Channel as an on-air contributor starting Nov. 1, Fox News Media CEO Suzanne Scott announced Monday, citing her “firsthand experience in the White House and on the presidential campaign trail.” Leavitt served as the 36th press secretary from January 2025 until August 2026, when she said she could not balance the job with raising her two young children. Before becoming the youngest press secretary in history she was a MAGA Inc. spokesperson, worked on Trump’s 2024 campaign, and ran as the Republican nominee for New Hampshire’s 1st Congressional District.",
+      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/white-house-press-briefing-karoline-leavitt-01262026.jpg",
+      "image_local": "images/story-744.jpg",
+      "id": "ca6f2e6e6ff273fa489c1e8b5352ce81e23155b7"
+    },
+    "1e0de7ff85b77a3dd88e086e5faf4573bc108b19": {
+      "headline": "DOJ charges 16 green-card holders with illegally voting in four states ahead of the midterms",
+      "cat": "Immigration",
+      "source": "Just the News",
+      "url": "https://justthenews.com/politics-policy/elections/doj-charges-16-aliens-alleged-election-crimes",
+      "summary": "The Justice Department on Monday announced charges against 16 foreign nationals, all lawful permanent residents rather than citizens, accused of illegally voting. Ten were charged in Minnesota, three in Louisiana, two in Florida and one in Wisconsin, and together they came from 14 countries including Mexico, Cuba, Canada, Germany, Brazil, Ghana and South Africa. The cases land weeks before the November midterms as the Trump administration presses its election-integrity push, and noncitizen voting remains a central Republican criticism of Democratic immigration policy.",
+      "image_remote": "",
+      "image_local": "",
+      "id": "1e0de7ff85b77a3dd88e086e5faf4573bc108b19"
+    },
+    "b8d0903f203c33c34475f085e5cc6e3be860be5f": {
+      "headline": "Watchdog: 52 IRS employees improperly peeked at the tax records of 30 public figures",
+      "cat": "Politics / MAGA",
+      "source": "Just the News",
+      "url": "https://justthenews.com/government/diplomacy/irs-employees-improperly-accessed-filings-celebrities-other-high-profile",
+      "summary": "A Treasury Inspector General for Tax Administration report released Sept. 29 found 86 “suspicious accesses” by 52 IRS employees from 2022 into 2025 involving the tax records of 30 government officials, business leaders and entertainers. The watchdog said the agency’s unauthorized-access program “is not adequately addressing the risk,” and 22 of the employees were fired while others resigned or retired before discipline. The IRS agreed or partly agreed with seven recommendations but rejected one on victim-notification timelines; the report follows Trump’s spring decision to drop his $10 billion lawsuit over the leak of his own returns.",
+      "image_remote": "",
+      "image_local": "",
+      "id": "b8d0903f203c33c34475f085e5cc6e3be860be5f"
+    },
+    "df2f2d5a0c1fedb9fc404c41a50418b4045af36d": {
+      "headline": "Alito says he has a suspect in mind for the Dobbs leak but the evidence isn’t strong enough to name anyone",
+      "cat": "Crime / courts",
+      "source": "Just the News",
+      "url": "https://justthenews.com/government/courts-law/justice-alito-thinks-he-knows-who-leaked-dobbs-decision",
+      "summary": "Justice Samuel Alito told Fox News he has an opinion about who leaked his 2022 draft opinion in Dobbs v. Jackson, which overturned Roe v. Wade, but “the evidence available at this time is not strong enough for the court or for me to say this is the person who was responsible.” Alito called the leak “totally unprecedented” and “a grave breach of the trust” inside the building. The draft’s publication set off protests at conservative justices’ homes and preceded the assassination attempt on Justice Brett Kavanaugh; the court’s own investigation never publicly identified the leaker.",
+      "image_remote": "https://justthenews.com/sites/default/files/styles/social_media_share/public/2026-08/GettyImages-2278340792.jpg?h=502e75fa&itok=pAPhsK-W",
+      "image_local": "images/story-745.jpg",
+      "id": "df2f2d5a0c1fedb9fc404c41a50418b4045af36d"
+    },
+    "818da4d3af5851e70959f65f8290ffa6e4858fe7": {
+      "headline": "Supreme Court turns away Roy Moore’s bid to restore his $8.2 million defamation verdict",
+      "cat": "Crime / courts",
+      "source": "PBS News (AP)",
+      "url": "https://www.pbs.org/newshour/politics/supreme-court-rejects-roy-moores-push-to-restore-8-2-million-defamation-verdict-awarded-to-him",
+      "summary": "On the first day of its new term, the Supreme Court declined to hear former Alabama Chief Justice Roy Moore’s appeal, leaving in place an 11th Circuit ruling that wiped out a jury’s $8.2 million verdict over a 2017 Senate race ad. The ad was funded by the Democratic-aligned Senate Majority PAC through a group called Highway 31, which argued it was truthful. The justices had already refused in June to put the appeals ruling on hold. Moore lost the 2017 race to Doug Jones after women accused him of misconduct when they were teenagers, allegations he has always denied.",
+      "image_remote": "https://d3i6fh83elv35t.cloudfront.net/static/2017/12/RTX3LWEV1-1024x683.jpg",
+      "image_local": "images/story-746.jpg",
+      "id": "818da4d3af5851e70959f65f8290ffa6e4858fe7"
+    },
+    "09682d3b973090ba57b108ed0c0fcd9bf0225fef": {
+      "headline": "Appeals court lets Trump remove the court-appointed Seattle U.S. attorney while the fight goes on",
+      "cat": "Crime / courts",
+      "source": "Just the News",
+      "url": "https://justthenews.com/government/courts-law/court-allows-doj-remove-court-appointed-us-attorney-rogoff-case-goes-through",
+      "summary": "The Ninth Circuit on Sunday granted the Justice Department an emergency stay that lets President Trump remove Roger Rogoff, the U.S. attorney for the Western District of Washington whom federal judges appointed in July and who was fired minutes later. The order pauses a district court ruling that had blocked the firing and restored Rogoff to the job. The panel stressed the stay only preserves the status quo while the appeal is heard and says nothing about the merits of a case that tests how far a president’s removal power reaches over court-appointed prosecutors.",
+      "image_remote": "",
+      "image_local": "",
+      "id": "09682d3b973090ba57b108ed0c0fcd9bf0225fef"
+    },
+    "92e7ef776ff6c34e837e0057de9cfa59584c57f4": {
+      "headline": "Israel was ready to shoot down the hijacked FlyDubai jet with 150 Israelis aboard, sources tell CBS",
+      "cat": "World",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/israel-flydubai-plane-shoot-down-threat/",
+      "summary": "Two Israeli sources told CBS News that Israel activated its long-practiced 9/11-style protocol after FlyDubai Flight 1073 plunged 14,000 feet and stopped answering calls: fighter jets were scrambled, airspace was closed and a pre-set committee convened, with only the prime minister able to order a shootdown. Jets were recalled once the plane turned toward Saudi Arabia about 400 miles out, where the captain fought off the co-pilot, passengers subdued him and two off-duty pilots landed in Tabuk. The sources said shooting down a rogue jet would be judged better than letting it hit the Azrieli towers or the airport; an early Israeli probe points to a lone-wolf attacker now being questioned in the UAE.",
+      "image_remote": "",
+      "image_local": "",
+      "id": "92e7ef776ff6c34e837e0057de9cfa59584c57f4"
+    },
+    "2600b8ac98b61b42503124e3efbc882222550c1a": {
+      "headline": "Russia hammers Kyiv during German Chancellor Merz’s visit, breaking with past pauses for VIPs",
+      "cat": "World",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/world/ukraine/russia-pounds-kyiv-german-chancellors-visit-new-escalation-rcna601562",
+      "summary": "Air-raid sirens and strikes rang out repeatedly as German Chancellor Friedrich Merz toured Kyiv on Sunday, a break from the Kremlin’s past habit of easing attacks during top-level visits, and Volodymyr Zelenskyy had to rush him away from the drone-damaged National Academy of Sciences. Russia has hit several Kyiv bridges over four days, some in daylight traffic, and said the “massive strikes” answer Ukraine’s campaign against its oil refineries, which Kyiv says has knocked out more than half of Russia’s refining capacity. Merz pledged another $1.1 billion in military aid, and Germany’s foreign-intelligence chief warned Monday his country risks being drawn into a “violent conflict with Russia.”",
+      "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261005merz-zelenskyy-rs-87d942.jpg",
+      "image_local": "images/story-747.jpg",
+      "id": "2600b8ac98b61b42503124e3efbc882222550c1a"
+    },
+    "6a8fe5c9f47c2fa4ffde818abd2dd1ec8e47e46d": {
+      "headline": "Spain’s Sánchez calls a snap Nov. 29 election after losing a housing vote; right eyes migration",
+      "cat": "World",
+      "source": "Just the News",
+      "url": "https://justthenews.com/world/spain-prime-minister-sanchez-calls-early-snap-election-amid-housing-migration-crisis",
+      "summary": "Spanish Prime Minister Pedro Sánchez on Monday called an early general election for Nov. 29 after his left-wing minority coalition lost a parliamentary vote on emergency housing measures. His Socialists are expected to run on soaring rents and home prices, which have driven thousands into the streets in recent days. The conservative Popular Party and the populist-right Vox are expected to center the campaign on the migration crisis and on Sánchez himself, who is deeply unpopular with right-leaning voters.",
+      "image_remote": "https://justthenews.com/sites/default/files/styles/social_media_share/public/2023-05/GettyImages-1230342993.jpg?h=4dfd8722&itok=GtvTjQh6",
+      "image_local": "images/story-748.jpg",
+      "id": "6a8fe5c9f47c2fa4ffde818abd2dd1ec8e47e46d"
+    },
+    "d141c4dd6b0187b150998c15f77fa251976ff242": {
+      "headline": "Tesla lands a 50-truck Semi order from IMC Logistics, a 2,700-truck drayage fleet",
+      "cat": "Elon Musk / Tesla",
+      "source": "Teslarati",
+      "url": "https://www.teslarati.com/tesla-snags-semi-supply-deal-major-logistics-firm/",
+      "summary": "IMC Logistics, a drayage and landside logistics company with more than 2,700 trucks and over 50 U.S. locations, said it will add 50 Tesla Semis to its fleet. IMC’s Jim Gillis said the electric trucks will help the company move toward “zero-emission service for long-haul lanes.” Teslarati notes that more large logistics operators have been shifting to electric powertrains in recent years, and the order adds IMC to a Semi customer list that already includes PepsiCo, DHL and US Foods.",
+      "image_remote": "https://www.teslarati.com/wp-content/uploads/2026/05/tesla-semi-1000x600.jpeg",
+      "image_local": "images/story-749.jpg",
+      "id": "d141c4dd6b0187b150998c15f77fa251976ff242"
+    },
+    "01874aecf96b39bd7b1f1f4c2047fc3347f4c985": {
+      "headline": "Ternus and Cook mark 15 years since Steve Jobs’ death: ‘Steve changed the world’",
+      "cat": "Apple",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/10/05/john-ternus-writes-post-celebrating-steve-jobs-on-anniversary-of-passing/",
+      "summary": "Monday is the 15th anniversary of Steve Jobs’ death from pancreatic cancer, and Apple’s current and former CEOs both posted tributes on X. New CEO John Ternus wrote that “the way Steve taught us to care about every detail, every experience, every person, still guides our work today. Forever grateful.” Executive Chairman Tim Cook said some people leave a mark on the world while others change it entirely: “Steve changed the world and so many lives in the process… His spirit lives on in everything he created and everyone he inspired.”",
+      "image_remote": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/john-ternus-apple-park-2026.jpg?quality=82&strip=all&resize=1200,628",
+      "image_local": "images/story-750.jpg",
+      "id": "01874aecf96b39bd7b1f1f4c2047fc3347f4c985"
+    },
+    "a978c3371407cef018e21c52d9c4514dded97bf8": {
+      "headline": "Leaker says the iPad is getting significantly thinner bezels",
+      "cat": "Apple",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/05/ipad-to-get-thinner-bezels/",
+      "summary": "The Weibo leaker known as Instant Digital says the iPad will get significantly narrower borders around its display, though the post named no model or timeline, so it may refer to the entry-level iPad or the lineup as a whole. Refreshes of the base iPad, iPad mini, iPad Air and iPad Pro are all in the pipeline, MacRumors notes; the next iPad mini is already rumored to gain an OLED screen and slimmer bezels, and the iPad Air is expected to move to OLED in 2027.",
+      "image_remote": "https://images.macrumors.com/t/JzA_V6lKHd411fZhXVRhPiCLeXM=/2500x/article-new/2024/08/ipad-10th-gen-blue.jpg",
+      "image_local": "images/story-751.jpg",
+      "id": "a978c3371407cef018e21c52d9c4514dded97bf8"
+    },
+    "ef3ffc721e2ea3a8dd5b1c6baf116cf037780265": {
+      "headline": "LEGO reveals January 2027 Batman sets: a Batmobile & Penguin Duck, an Arkham Batmobile and Joker wall art",
+      "cat": "LEGO",
+      "source": "The Brick Fan",
+      "url": "https://www.thebrickfan.com/lego-dc-batman-2027-sets-officially-announced/",
+      "summary": "LEGO officially revealed three DC Batman sets due in January 2027. The 672-piece Batman Returns Batmobile & Duck (67008) pairs the film’s Batmobile with the Penguin’s duck vehicle, with Batman and Penguin minifigures and a Build Together mode in the LEGO Builder app. An Arkham Trilogy Batmobile adds functional suspension, and an 18+ Joker wall art set of 1,849 pieces recreates the Detective Comics #880 cover with a 3D effect. The sets also unlock gold items in the LEGO Batman: Legacy of the Dark Knight video game.",
+      "image_remote": "https://www.thebrickfan.com/wp-content/uploads/2026/10/LEGO-DC-Batman-Returns-Batmobile-Duck-67008.jpg",
+      "image_local": "images/story-752.jpg",
+      "id": "ef3ffc721e2ea3a8dd5b1c6baf116cf037780265"
+    },
+    "0954cfa128132d8f7f089536afb64bb83e62da69": {
+      "headline": "Scorpions biopic ‘Wind Of Change’ gets a trailer and a Jan. 28, 2027 German release",
+      "cat": "Heavy metal",
+      "source": "Blabbermouth",
+      "url": "https://blabbermouth.net/news/scorpions-biopic-wind-of-change-to-open-in-german-theaters-in-january-2027",
+      "summary": "“Wind Of Change,” the feature film on the Scorpions’ classic lineup, opens in German theaters Jan. 28, 2027, with no release dates yet for other countries, and an official trailer is out. Alexander Dreymon plays Rudolf Schenker, Ludwig Trepte is Klaus Meine, Ed Speleers is Matthias Jabs and Luke Brandon Field is Herman Rarebell, with Dominic West as manager Doc McGhee and David Kross as a friend imprisoned behind the Berlin Wall. Directed by Alex Ranarivelo and shot at Warner Bros. Studios Leavesden, the film builds to the title anthem that became a soundtrack to the end of the Cold War.",
+      "image_remote": "https://assets.blabbermouth.net/media/scorpionswindofchangetrailoct2026_638.jpg",
+      "image_local": "images/story-753.jpg",
+      "id": "0954cfa128132d8f7f089536afb64bb83e62da69"
+    },
+    "8647bca4b7c3a35cebd070ebc272b3f4ce58480e": {
+      "headline": "Ex-AC/DC drummer Phil Rudd fined after his Ferrari went airborne over a New Zealand roundabout",
+      "cat": "Heavy metal",
+      "source": "Blabbermouth",
+      "url": "https://blabbermouth.net/news/former-ac-dc-drummer-phil-rudd-fined-for-careless-driving-in-new-zealand",
+      "summary": "Phil Rudd, 72, was fined $500 plus $100 in court costs for careless driving after his 2009 Ferrari 599 crossed a planted roundabout, appeared to go airborne and hit a tree last July near Tauranga, New Zealand, where he has lived since 1983, according to the New Zealand Herald. The case follows Rudd’s 2015 home-detention sentence for threatening to kill a former employee and drug possession. Rudd played on AC/DC’s 2020 album “Power Up” but not the tour, and has said he would return only “for the fans. And for Bon.”",
+      "image_remote": "https://assets.blabbermouth.net/media/philruddoct2026_638.jpg",
+      "image_local": "images/story-754.jpg",
+      "id": "8647bca4b7c3a35cebd070ebc272b3f4ce58480e"
+    },
+    "c86b6ee6ca73fddb952f85db5f2aaaf2068fbbf7": {
+      "headline": "Westport school board backs classroom AI with Gemini Notebook, but members keep pressing questions",
+      "cat": "Local / Fairfield CT",
+      "source": "Westport Journal",
+      "url": "https://westportjournal.com/education/use-of-a-i-in-schools-thoughtful/",
+      "summary": "Westport Board of Education members said they support the district’s plan to use artificial intelligence “intentionally and ethically” but will keep questioning it, after staff demonstrated Gemini Notebook for students and a lesson-planning tool called Gem for teachers. Staples students have had two lessons on Gemini Notebook, which the district says Google cannot access and which works only from up to 50 sources a student uploads; student representatives said teachers are “taking it slow.” Vice Chair Dorie Hordon asked whether some students would be better off just reading books, and Chair Lee Goldstein pushed the board to say plainly whether it wants teachers to keep going.",
+      "image_remote": "https://westportjournal.com/wp-content/uploads/2026/10/Teachers-at-Thursdays-Board-of-Ed-meeting-on-A.I.-Photo-Linda-Lambeck.png",
+      "image_local": "images/story-755.png",
+      "id": "c86b6ee6ca73fddb952f85db5f2aaaf2068fbbf7"
     }
   },
-  "updated": "Monday, October 5, 2026 · 7:00 AM ET"
+  "updated": "Monday, October 5, 2026 · 11:30 AM ET"
 }
