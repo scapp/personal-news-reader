@@ -815,7 +815,27 @@
     "0add39bb4f3466c251b37d8660ebac8b073ef3a5",
     "e88a7fe9a9a6e0f68a9ecde732654ffebc86fcfa",
     "442c5d60e0dec0a0548063cfbb56dc343a75a0a3",
-    "9fc4e94e953e7b2d791b57bce4875ff3330d3fb7"
+    "9fc4e94e953e7b2d791b57bce4875ff3330d3fb7",
+    "4ce8a8f73111e03f462af92bda23d5ecd7438926",
+    "f4d6e076161c1f3ad3bdd94c737b21d1f599c673",
+    "ad6cdc8b13c30ae040024fad459f394a449b541d",
+    "ed454815d1055d2070989a7bc2d831582c9c5bc8",
+    "df574221be83c15ac18e912e57c916c543fded7a",
+    "4fdd03d05a40e5e994e980548479f43bb8a252cc",
+    "3c2a96b50549e27d1048827bf951db373fae76d3",
+    "3d2335261f398bcc3aa1044b3ece24ead3cf1a51",
+    "758f716bb863dadd9e74e35e7b6683d61c126f4f",
+    "c9eac27a62484e0d843f8148ab056aaa1478284c",
+    "0373a098d1823a00fe66e6a942874fe85c3fb0f4",
+    "36cd04323a1c617dda1c7e21423bbd90077c7ff3",
+    "b0356099e9134344a17d675b2b35dbea7f3154f9",
+    "07f6b0f43578bad59a12cc744ac7901788c04728",
+    "815220909842f05bb44e74c4056a578d45312633",
+    "2031c4c00aa389ebcab5cfc8640c0c40a856959b",
+    "0019ac3deca4f17af9aa6744ec446ffdf49e8358",
+    "158fe560d7fafcf4735ac9d5c6bee568bca15462",
+    "dca2d03299f06231ebb537e683b835931c7d0033",
+    "db3a497b95d3b6ccb05f6f01305648b62cc522ce"
   ],
   "stories": {
     "0c2ac7a5e342411678296315c4c59043b1f067cc": {
@@ -10333,7 +10353,207 @@
       "image_remote": "https://westportjournal.com/wp-content/uploads/2026/10/Benjamin-Wesley-Jim-Himes-and-Michael-Goldstein-will-debate-at-the-Westport-Library-Oct.-19.png",
       "image_local": "images/story-772.png",
       "id": "9fc4e94e953e7b2d791b57bce4875ff3330d3fb7"
+    },
+    "4ce8a8f73111e03f462af92bda23d5ecd7438926": {
+      "headline": "Supreme Court splits over Boulder’s climate suit against Exxon and Suncor, with Alito out and a 4–4 tie possible",
+      "cat": "Crime / courts",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/supreme-court-climate-change-energy-companies-boulder-colorado-arguments/",
+      "summary": "Eight justices heard nearly two hours of argument Monday in Suncor Energy v. Boulder County, where the Colorado city and county are suing Exxon Mobil and Suncor under state law for climate-change damages. Justice Samuel Alito recused himself, so a 4–4 deadlock would leave the Colorado Supreme Court’s ruling in place and let the suit go forward. The Trump administration sided with the oil companies, with the principal deputy solicitor general calling the case an egregious overreach of state power, and Justice Kavanaugh repeatedly said interstate pollution has been treated as a federal matter since 1972. Chief Justice Roberts warned that a Boulder win would invite similar suits in every state but also questioned what makes this different from other state-court mass torts, while Justice Kagan compared it to the tobacco and opioid cases. A decision is expected by summer 2027.",
+      "image_remote": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/05/867e8a64-9959-4c9a-8835-444b65c3b3fe/thumbnail/1200x630g2/94c2f9d12761f1d8add52a067f813bf9/gettyimages-2298696774.jpg",
+      "image_local": "images/story-773.jpg",
+      "id": "4ce8a8f73111e03f462af92bda23d5ecd7438926"
+    },
+    "f4d6e076161c1f3ad3bdd94c737b21d1f599c673": {
+      "headline": "Trump says The New York Times and other outlets ‘should be arrested’ over their coverage of his Ohio rally crowd",
+      "cat": "Media",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/administration/6130397-trump-media-arrests-ohio-rally/",
+      "summary": "President Trump wrote on Truth Social on Monday that reporters from The New York Times and other “Artificial Media Outlets” should be “arrested for their dishonesty and disservice to our Country” over how they covered Saturday’s rally for Sen. Jon Husted at Butler High School’s arena in Vandalia, Ohio. He shared video of people still lining up outside, insisted the arena was “totally MAXED OUT, including all upper sections,” and said upper-deck fans “migrate” to the floor at his sold-out events. He accused the press of inflating crowds for Sen. Bernie Sanders while downplaying his own. At the rally, Trump stumped for Husted in his tight race against former Sen. Sherrod Brown, and former NFL coach Jon Gruden also spoke.",
+      "image_remote": "",
+      "image_local": "",
+      "id": "f4d6e076161c1f3ad3bdd94c737b21d1f599c673"
+    },
+    "ad6cdc8b13c30ae040024fad459f394a449b541d": {
+      "headline": "House GOP bill would protect Medicaid whistleblowers after Minnesota fraud reporters say they were watched and fired",
+      "cat": "Politics / MAGA",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/house-gop-bill-moves-close-whistleblower-gaps-exposed-minnesota-medicaid-fraud-scandal",
+      "summary": "Rep. Mariannette Miller-Meeks (R-Iowa) unveiled the Medicaid Whistleblower Protection Act on Monday, which would give state and local Medicaid workers federal protection from being fired, demoted, harassed or threatened for reporting fraud, contracting irregularities or unusual payments. Workers who face retaliation could win reinstatement, double back pay with interest, attorneys’ fees and punitive damages. The bill follows a January letter from more than 30 current and former Minnesota Department of Human Services employees who described a “pattern of retaliation,” including surveillance and firings, for flagging fraud as early as 2019. It is one of 14 measures in House Energy and Commerce Republicans’ anti-fraud package; another Miller-Meeks bill, the WALZ Act, would trigger inspector-general investigations into any program whose payments jump 10% or more in six months. The whistleblower bill would take effect Jan. 1, 2028.",
+      "image_remote": "",
+      "image_local": "",
+      "id": "ad6cdc8b13c30ae040024fad459f394a449b541d"
+    },
+    "ed454815d1055d2070989a7bc2d831582c9c5bc8": {
+      "headline": "Federal judge halts border-wall construction in Big Bend National Park, the first time the wall has been stopped",
+      "cat": "Immigration",
+      "source": "KRWG Public Media",
+      "url": "https://www.krwg.org/krwg-news/2026-10-05/federal-judge-blocks-big-bend-border-wall-construction",
+      "summary": "U.S. District Judge Kathleen Cardone in El Paso granted a preliminary injunction stopping the Department of Homeland Security from continuing wall construction in Big Bend National Park and the surrounding area, finding the plaintiffs are likely to win on at least one claim and would suffer irreparable harm. The suit, brought by Friends of the Ruidoso Church, the Center for Biological Diversity and a local landowner, argues DHS improperly waived environmental laws to speed construction; plaintiffs called eight witnesses and the government called none. A former park superintendent cited Border Patrol data showing 133 apprehensions inside the park, about 0.03% of the Southwest border total. CBP Commissioner Rodney Scott said the agency remains confident in its legal authority and committed to securing “the ENTIRE border,” and the case could go to the Supreme Court on appeal.",
+      "image_remote": "https://npr.brightspotcdn.com/dims4/default/b86b39f/2147483647/strip/true/crop/710x373+0+32/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9a%2Fbe%2F7ba1932149e7aced52e5adf50ff2%2Fscreenshot-2026-10-05-092544.png",
+      "image_local": "images/story-774.jpg",
+      "id": "ed454815d1055d2070989a7bc2d831582c9c5bc8"
+    },
+    "df574221be83c15ac18e912e57c916c543fded7a": {
+      "headline": "Matt Walsh: newly released texts from the Cornell 7 accuser show she called it consensual before claiming assault",
+      "cat": "Matt Walsh",
+      "source": "The Daily Wire",
+      "url": "https://www.dailywire.com/news/new-evidence-in-the-cornell-7-case-completely-blows-the-accusers-story",
+      "summary": "In a new Daily Wire column, Matt Walsh walks through text messages and investigation records in the Cornell Chi Phi case, in which a former student has sued seven fraternity members over an October 2024 party. He points to her text two days later saying “none of the sexual stuff was illegal,” her roommate’s account that she first described the night as “this crazy thing that she had done,” and a timeline in which she concluded she had been assaulted only after being disinvited from the fraternity’s Halloween party. Walsh also criticizes Gov. Kathy Hochul for naming Attorney General Letitia James special prosecutor after James publicly called the accuser a survivor, attacks Hochul’s push to close a “voluntary intoxication loophole,” and questions a Cornell survey claiming 35% of undergraduate women were assaulted, noting its 15% response rate. He argues the case shows the failure of a consent-only sexual morality.",
+      "image_remote": "",
+      "image_local": "",
+      "id": "df574221be83c15ac18e912e57c916c543fded7a"
+    },
+    "4fdd03d05a40e5e994e980548479f43bb8a252cc": {
+      "headline": "Filmmaker says Charlie Kirk told him in one of his last interviews that prophecy is real but no excuse for apathy",
+      "cat": "Charlie Kirk",
+      "source": "Faithwire",
+      "url": "https://www.faithwire.com/2026/10/05/filmmaker-reveals-what-charlie-kirk-said-about-biblical-prophecy-before-his-death/",
+      "summary": "Matthew Thayer, director of the new film “Can You Hear Me Now?” about whether God still speaks through prophets, says he recorded one of the final interviews with Charlie Kirk before his assassination. Thayer said Kirk told him he believed prophecy is a real gift that can be abused but that he had seen it transform lives, and that a prophetic word is never an excuse for inaction. Kirk worried that some believers did not work as hard as they could have in the 2020 election because they assumed a prophesied win would simply happen. Thayer said the wave of people who turned to the Bible and church after Kirk’s death convinced him God is still speaking, and he hopes the film reaches those new believers.",
+      "image_remote": "https://www.faithwire.com/wp-content/uploads/2025/11/AP25253691178788-1024x683.jpg",
+      "image_local": "images/story-775.jpg",
+      "id": "4fdd03d05a40e5e994e980548479f43bb8a252cc"
+    },
+    "3c2a96b50549e27d1048827bf951db373fae76d3": {
+      "headline": "Zelenskyy blames Russian drones after a Turkish-owned grain ship sinks off Romania, killing the captain and another crew member",
+      "cat": "World",
+      "source": "Politico",
+      "url": "https://www.politico.com/news/2026/10/05/grain-ship-sinks-in-black-sea-after-suspected-drone-strike-killing-2",
+      "summary": "A Turkish-owned grain ship sank Monday in the Black Sea near Romania’s Pescăruș energy platform after what Ukrainian President Volodymyr Zelenskyy said were strikes by “two Russian drones.” Romania’s interior ministry said two people were killed and 11 crew members were brought to safety; Zelenskyy said the ship’s captain was among the dead and that Azerbaijani and Indian citizens were aboard. He accused Moscow of choosing “terror and sinking civilian vessels” over normal maritime trade.",
+      "image_remote": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F8c%2F028f639a78495d%2Fb6bbd069840ac169-5371x3577.jpg",
+      "image_local": "images/story-776.jpg",
+      "id": "3c2a96b50549e27d1048827bf951db373fae76d3"
+    },
+    "3d2335261f398bcc3aa1044b3ece24ead3cf1a51": {
+      "headline": "Saudi-backed forces retake towns around the Bab el-Mandeb Strait from the Houthis as ‘Yemen Dawn’ pushes toward Sanaa",
+      "cat": "World",
+      "source": "PBS News (AP)",
+      "url": "https://www.pbs.org/newshour/world/saudi-backed-coalition-forces-houthis-from-several-areas-around-key-strait-yemeni-officials-say",
+      "summary": "Forces loyal to Yemen’s internationally recognized government recaptured the town of Dhubab just north of the Bab el-Mandeb Strait, along with the towns of Bab and Hadeid, from Iran-backed Houthi rebels on Monday, Yemeni officials told the Associated Press; witnesses saw government tanks rolling in. A Saudi coalition spokesman said 100 fighter jets were backing the offensive, that the coalition had secured “air protection” of the strait, and that hundreds of Houthi targets had been destroyed. Presidential Council head Rashad al-Alimi said the operation, dubbed “Yemen Dawn,” aims to liberate the rebel-held capital Sanaa, and the Houthis reported multiple coalition airstrikes on their territory, including Sanaa. The strait is one of the world’s key shipping chokepoints.",
+      "image_remote": "",
+      "image_local": "",
+      "id": "3d2335261f398bcc3aa1044b3ece24ead3cf1a51"
+    },
+    "758f716bb863dadd9e74e35e7b6683d61c126f4f": {
+      "headline": "International Criminal Court unseals arrest warrants for Taliban leader Akhundzada and three others over persecution of women",
+      "cat": "World",
+      "source": "UN News",
+      "url": "https://news.un.org/en/story/2026/10/1168521",
+      "summary": "ICC judges on Monday made public four arrest warrants accusing senior Taliban figures of persecution on gender grounds, a crime against humanity: Supreme Leader Haibatullah Akhundzada, Chief Justice Abdul Hakim Haqqani, Habibullah Agha and Neda Mohammad Nadim. The warrants were issued between July and September 2025 and initially kept sealed to protect victims and witnesses. The court said there are reasonable grounds to believe the four ordered or induced persecution of women and girls, and of people seen as their allies, from the Taliban takeover on Aug. 15, 2021, through at least Jan. 20, 2025, through decrees that stripped them of education, movement and expression. The prosecutor has said more applications against other Taliban leaders will follow.",
+      "image_remote": "",
+      "image_local": "",
+      "id": "758f716bb863dadd9e74e35e7b6683d61c126f4f"
+    },
+    "c9eac27a62484e0d843f8148ab056aaa1478284c": {
+      "headline": "SpaceX stock jumps almost 8% to its highest since June, making Musk a trillionaire again",
+      "cat": "Elon Musk / SpaceX",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/05/spacex-stock-climbs-highest-since-june-returning-musk-to-trillionaire.html",
+      "summary": "SpaceX shares closed at $171.09 on Monday, up almost 8% and at their highest since mid-June, pushing Elon Musk’s net worth to about $1.03 trillion on Forbes’ real-time list. The rally followed a weekend Morgan Stanley note calling the stock “cheap,” with a buy rating and $300 target, and saying a Starship upper-stage catch on the next test flight could be the biggest catalyst since the June 12 IPO. Last week SpaceX flew a crewed NASA mission to the space station and launched Google AI chips into orbit on the same day, and the company earns hefty revenue renting AI computing capacity to Google and Anthropic. The stock has climbed about 58% since bottoming in early August; third-quarter earnings are expected in late October.",
+      "image_remote": "https://image.cnbcfm.com/api/v1/image/108368089-1790695523016-108368089-1790346944343-gettyimages-2296349180-TRUMP_XI.jpg?v=1790695530&w=1920&h=1080",
+      "image_local": "images/story-777.jpg",
+      "id": "c9eac27a62484e0d843f8148ab056aaa1478284c"
+    },
+    "0373a098d1823a00fe66e6a942874fe85c3fb0f4": {
+      "headline": "macOS 27.2 beta adds touch gestures to Safari, Photos, and Notes, a possible sign the touchscreen MacBook Ultra is close",
+      "cat": "Apple",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/05/macos-27-2-touch-gestures/",
+      "summary": "Code in the latest macOS Golden Gate 27.2 beta adds new touch-specific gesture recognizers to several Apple apps: a touch recognizer in Safari, a touch-dwell gesture in Photos, a touch-press gesture in Notes, and drag-touch support in Quick Look. MacRumors says that could be groundwork for the rumored OLED touchscreen MacBook, possibly called “MacBook Ultra,” which is expected to be thinner and lighter, with a Dynamic Island and M5 Pro and M5 Max chips, as soon as late 2026. The code could also simply extend Sidecar, which gained full touch input when an iPad is used as a Mac display. The launch version of macOS Golden Gate already added pull-to-refresh in Safari, Mail and Calendar.",
+      "image_remote": "https://images.macrumors.com/t/KU8mtnpuZLz7y7jeR2PsMQ80Vvg=/2500x/article-new/2025/11/m5-macbook-pro-cyber.jpg",
+      "image_local": "images/story-778.jpg",
+      "id": "0373a098d1823a00fe66e6a942874fe85c3fb0f4"
+    },
+    "36cd04323a1c617dda1c7e21423bbd90077c7ff3": {
+      "headline": "TCL’s P80 Ultra is the first Nxtpaper phone with a matte OLED screen, a preview of the iPhone Duo’s anti-glare display",
+      "cat": "Gadgets / Tech",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1004079/tcl-p80-ultra-nxtpaper-matte-display-iphone-duo",
+      "summary": "The Verge’s Dominic Preston spent two weeks with TCL’s P80 Ultra, the first phone to pair TCL’s paperlike Nxtpaper matte finish with an OLED panel, which brings deeper blacks, richer color and, finally, an always-on display. A side key switches to Paper Mode, which washes out color except in chosen apps, or Max Ink Mode, a minimal monochrome mode somewhere between an e-reader and a dumb phone. The screen is excellent in bright light and from extreme angles, but performance is sluggish and the cameras are average, so he can’t fully recommend the phone. He says it made him more excited for the iPhone Duo, whose inner OLED uses Apple’s nano-texture matte coating to hide the fold crease, though the outer screen is not matte.",
+      "image_remote": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/tcl-p80-ultra-review-09.jpg",
+      "image_local": "images/story-779.jpg",
+      "id": "36cd04323a1c617dda1c7e21423bbd90077c7ff3"
+    },
+    "b0356099e9134344a17d675b2b35dbea7f3154f9": {
+      "headline": "The Dead Daisies name ex-Foreigner singer Kelly Hansen as frontman, reuniting him with Doug Aldrich for a 2027 album and tour",
+      "cat": "Heavy metal",
+      "source": "Blabbermouth",
+      "url": "https://blabbermouth.net/news/the-dead-daisies-recruit-former-foreigner-singer-kelly-hansen",
+      "summary": "Kelly Hansen, Foreigner’s lead singer for 20 years until he left after the band’s 2025 touring, is the new voice of hard-rock supergroup The Dead Daisies, three months after John Corabi’s exit. The lineup is Hansen, Doug Aldrich (Whitesnake, Dio) on lead guitar, founder David Lowy on rhythm guitar, Tommy Clufetos (Black Sabbath, Ozzy) on drums, and bassist Jimi Crutchley (The Quireboys); Hansen and Aldrich were bandmates in Hurricane around 1990. The band released the single “Lift Me Up” from an album due in 2027. A March 2027 UK and European run is planned, then a U.S. tour from April 30 in Lititz, Pennsylvania, to May 15 in Los Angeles, with BulletBoys and The Fell (featuring Billy Sheehan) in support. “I wasn’t ‘retiring,’ just moving on to other things,” Hansen said.",
+      "image_remote": "https://assets.blabbermouth.net/media/deaddaisiesoct2026_638.jpg",
+      "image_local": "images/story-780.jpg",
+      "id": "b0356099e9134344a17d675b2b35dbea7f3154f9"
+    },
+    "07f6b0f43578bad59a12cc744ac7901788c04728": {
+      "headline": "Candlemass brings in Chilean singer Felipe Plaza Kutzbach for its Australian tour while Johan Längqvist recovers",
+      "cat": "Heavy metal",
+      "source": "Blabbermouth",
+      "url": "https://blabbermouth.net/news/watch-candlemass-recruits-guest-singer-felipe-plaza-kutzbach-for-australian-tour",
+      "summary": "Swedish doom-metal pioneers Candlemass used Chilean vocalist Felipe Plaza Kutzbach (Procession, Deströyer 666) on lead vocals for their four-date Australian tour, which ran from Sept. 29 in Melbourne to Oct. 3 in Perth, and fan-filmed video of the shows is now circulating. He filled in for longtime singer Johan Längqvist, who was hospitalized in Stockholm last month after a medical emergency; Kutzbach also covered for him at London Metalfest on Sept. 12. Längqvist sang on the band’s 1986 landmark “Epicus Doomicus Metallicus” and rejoined in 2018. The band’s latest release is the 2025 EP “Black Star.”",
+      "image_remote": "https://assets.blabbermouth.net/media/candlemassperthoct2026_638.jpg",
+      "image_local": "images/story-781.jpg",
+      "id": "07f6b0f43578bad59a12cc744ac7901788c04728"
+    },
+    "815220909842f05bb44e74c4056a578d45312633": {
+      "headline": "Harley-Davidson is pulling its smallest bikes, the X 350 and X 500, from Japan as motorcycle sales slide",
+      "cat": "Harley-Davidson",
+      "source": "RideApart",
+      "url": "https://www.rideapart.com/news/810659/harley-davidson-discontinues-x350-x500-japan-motorcycle-sales-down/",
+      "summary": "Harley-Davidson Japan told fans that the X 350 and X 500, the approachable middleweights built through a partnership with China’s QJ Motors, are being discontinued there, with dealers selling down remaining stock. The X 350 was the only Harley sold in Japan that riders could legally ride without a large-motorcycle license, which made it the brand’s easiest entry point in that market; neither model is sold in the U.S., though the X 350 RA is used in Harley’s Riding Academy. Harley gave no reason, but Japanese industry data show registrations of bikes over 250cc fell nearly 25% from July 2023 to July 2026 and overall motorcycle sales fell nearly 30%. Lower-priced models carry slimmer margins, making them likely first cuts.",
+      "image_remote": "",
+      "image_local": "",
+      "id": "815220909842f05bb44e74c4056a578d45312633"
+    },
+    "2031c4c00aa389ebcab5cfc8640c0c40a856959b": {
+      "headline": "LEGO’s Christmas 2026 Build a Minifigure lineup is fully revealed: a Golden Mrs Claus, a gold owl, and reindeer and tree suits",
+      "cat": "LEGO",
+      "source": "Brick Fanatics",
+      "url": "https://www.brickfanatics.com/better-look-lego-build-a-minifigure-christmas-2026",
+      "summary": "The full set of LEGO’s Christmas 2026 Build a Minifigure parts has now been shown in high-quality images: a Reindeer Suit Guy in a pink costume, a Xmas Tree Suit Girl similar to the tree costume from last year’s City advent calendar, a Golden Mrs Claus, and a gold owl accessory. The golden Mrs Claus pairs with last year’s golden Santa from the holiday parts selection. The pieces are expected at Build a Minifigure towers in LEGO Stores worldwide from the start of November, likely Nov. 1, alongside other new tower additions.",
+      "image_remote": "https://www.brickfanatics.com/storage/uploads/7ecf2bac-707a-4915-a0f5-e320a2ea28aa.png",
+      "image_local": "images/story-782.jpg",
+      "id": "2031c4c00aa389ebcab5cfc8640c0c40a856959b"
+    },
+    "0019ac3deca4f17af9aa6744ec446ffdf49e8358": {
+      "headline": "Sioux City’s Renaissance Harvest Festival draws a record 8,000-plus in its 23rd year",
+      "cat": "Renaissance faires",
+      "source": "KTIV",
+      "url": "https://www.ktiv.com/2026/10/04/renaissance-harvest-festival-draws-record-crowd-riverside-park/",
+      "summary": "Rivercade’s Renaissance Harvest Festival at Riverside Park in Sioux City, Iowa, had its biggest turnout ever this weekend, with more than 8,000 visitors entering the “Kingdom of Riverssance.” The program included birds of prey, a horseback skills test, full-armor jousting, the Scallywag Comedy Show, and a pumpkin carving on a gourd that weighed more than 400 pounds, plus 90 vendors, a dozen food vendors and hundreds of costumed characters. Organizer Phyl Claeys said the event he expected to last five years is now finishing its 23rd and grows every year. Magician Bob Schmill, who performs as Merlyn’s Magic, has worked all but two of Rivercade’s Renaissance events.",
+      "image_remote": "https://gray-ktiv-prod.gtv-cdn.com/resizer/v2/WRNHCQF3GRD75C2XEB2LOS2QYA.png?auth=3b17d84a6e9dd08a4f02a0b8746307b111c59383d335a47045fe469aeeb60279&width=1200&height=600&smart=true",
+      "image_local": "images/story-783.jpg",
+      "id": "0019ac3deca4f17af9aa6744ec446ffdf49e8358"
+    },
+    "158fe560d7fafcf4735ac9d5c6bee568bca15462": {
+      "headline": "Blue Ridge Parkway reopens more Helene-damaged stretches, so drivers can now go 280 miles uninterrupted for leaf season",
+      "cat": "USA travel",
+      "source": "WataugaOnline (National Park Service)",
+      "url": "https://wataugaonline.com/multiple-projects-completed-on-blue-ridge-parkway-in-time-for-fall-travel/",
+      "summary": "Just ahead of peak fall color, the National Park Service has reopened more Hurricane Helene repairs on the Blue Ridge Parkway, so visitors can now drive without interruption from James River at milepost 63.7 in Virginia to Little Switzerland near milepost 344 in North Carolina. Newly finished work includes mileposts 317.5 to 324.7 south of Linville Falls and 333.9 to 340.2 at NC-80, a repaving near Roanoke, the Deep Gap Bridge, and loops B and D at Julian Price Campground near Blowing Rock, which take reservations through Oct. 30 on recreation.gov. Interior says 48 of 60 slide repairs are done and 458 of 469 miles are open; the last section, mileposts 344 to 355, is slated to reopen by the end of 2026.",
+      "image_remote": "https://wataugaonline.com/wp-content/uploads/2026/10/blue-ridge-parkway-linville-falls-mp-320-nps.jpg",
+      "image_local": "images/story-784.jpg",
+      "id": "158fe560d7fafcf4735ac9d5c6bee568bca15462"
+    },
+    "dca2d03299f06231ebb537e683b835931c7d0033": {
+      "headline": "Tesoro’s business address: Trumbull Mall sale underway, Henkel’s $70M expansion, and the data center ‘not a new hyperscale AI facility’",
+      "cat": "Local / Trumbull CT",
+      "source": "Town of Trumbull",
+      "url": "https://www.trumbull-ct.gov/m/newsflash/Home/Detail/3193",
+      "summary": "The town on Monday posted First Selectman Vicki Tesoro’s Oct. 1 annual address to the business community. She said the Trumbull Mall, listed for sale in January, is in an active sale process under 2025 zoning aimed at turning it into a neighborhood district; Henkel is investing $70 million to expand its campus; a 39,000-square-foot grocery is planned at 1 Trefoil Drive pending an appeal; and Kubtec and Baco Enterprises are moving in. She said the 80 Merritt Boulevard renovation is an update of a data center that has operated since the 1960s, is the town’s largest taxpayer, and is not a new hyperscale AI facility; the two-year moratorium adopted Sept. 9 applies only to new centers. She also cited a 10.5% jump in median home prices, office vacancy down from 44% to about 13% since 2017, the AA+ bond rating, the new Hillcrest Middle School due in 2028, and a Veterans and First Responders Center opening early next year.",
+      "image_remote": "http://www.trumbull-ct.gov/ImageRepository/Document?documentID=1645",
+      "image_local": "images/story-785.jpg",
+      "id": "dca2d03299f06231ebb537e683b835931c7d0033"
+    },
+    "db3a497b95d3b6ccb05f6f01305648b62cc522ce": {
+      "headline": "Group behind 122 Wilton Road proposes 18 affordable duplex units at 96 Compo Road North under the 8-30g law",
+      "cat": "Local / Fairfield CT",
+      "source": "Westport Journal",
+      "url": "https://westportjournal.com/business/18-unit-affordable-housing-development-proposed-on-compo-road-n/",
+      "summary": "Garden Homes Fund, which built Westport’s first all-affordable development at 122 Wilton Road, has applied to the Planning and Zoning Commission for 18 affordable units at 96 Compo Road North, in a single-family zone, using Connecticut’s 8-30g statute. The plan calls for nine one-story duplexes with two-bedroom units open to all ages; all 18 would be affordable, although the law requires only 30%. Head Richard Freedman said he kept the buildings low to fit the neighborhood and chose the flat site because it has public water and sewer; the flood-damaged house there was sold as a teardown. The Wilton Road project was built after two denials and a court fight, and Freedman’s most optimistic timeline for Compo Road is about two years if it is approved.",
+      "image_remote": "https://westportjournal.com/wp-content/uploads/2026/10/One-of-the-new-buildings-planned-for-96-Compo-Road-North-Town-of-Westport.png",
+      "image_local": "images/story-786.jpg",
+      "id": "db3a497b95d3b6ccb05f6f01305648b62cc522ce"
     }
   },
-  "updated": "Monday, October 5, 2026 · 4:00 PM ET"
+  "updated": "Monday, October 5, 2026 · 6:00 PM ET"
 }
