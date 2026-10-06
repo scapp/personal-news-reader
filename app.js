@@ -31,7 +31,8 @@
   const undoDismiss = document.getElementById('undo-dismiss');
 
   let auth = null;
-  let stories = [];
+  let stories = []; // live home feed = data.json only (≤20)
+  let catalog = []; // archive+data merge for Saved lookup
   let updatedLabel = '';
   let syncToken = null;
   let gistFileSha = null;
@@ -295,7 +296,7 @@
 
   function showUndo(id) {
     undoRemoveId = id;
-    const story = stories.find((s) => s && s.id === id);
+    const story = (catalog.length ? catalog : stories).find((s) => s && s.id === id);
     const title = story && story.headline ? String(story.headline) : 'Story';
     const short = title.length > 90 ? title.slice(0, 87) + '…' : title;
     if (undoText) undoText.textContent = 'Removed: ' + short;
@@ -410,21 +411,24 @@
     });
   }
 
-  function notRemoved() {
+  function notRemoved(pool) {
     const removed = removedIds();
-    return stories.filter((s) => s && s.id && !removed.has(s.id));
+    const src = pool || stories;
+    return src.filter((s) => s && s.id && !removed.has(s.id));
   }
 
   function visibleStories() {
     const reads = readIds();
     const saved = savedIds();
     const hideRead = !!(hideReadToggle && hideReadToggle.checked);
-    const pool = notRemoved();
 
+    // Saved view resolves against the full catalog (archive + live batch).
     if (viewMode === 'saved') {
-      return pool.filter((s) => saved.has(s.id));
+      return notRemoved(catalog.length ? catalog : stories).filter((s) => saved.has(s.id));
     }
 
+    // Home feed is the published data.json batch only (hard-capped ≤20 at publish).
+    const pool = notRemoved(stories);
     const unread = pool.filter((s) => !reads.has(s.id));
     const drop = new Set();
     if (unread.length > UNREAD_CAP) {
@@ -444,7 +448,7 @@
     const visible = visibleStories();
     const reads = readIds();
     const saved = savedIds();
-    const totalKnown = notRemoved().length;
+    const totalKnown = notRemoved(stories).length;
 
     if (viewMode === 'saved') {
       subtitle.textContent = `${updatedLabel || 'Updated recently'} · ${visible.length} saved`;
@@ -612,7 +616,11 @@
       loadJson('archive.json', bust).catch(() => null),
     ]);
     updatedLabel = data.updated || (archive && archive.updated) || '';
-    stories = mergeStories(data, archive);
+    // Live home feed = published data.json only, hard-capped at 20 (publish rule).
+    const live = (data.stories || []).filter((s) => s && s.id).slice(0, UNREAD_CAP);
+    stories = live;
+    // Full catalog keeps archive for Saved stories no longer in the live batch.
+    catalog = mergeStories(data, archive);
     lastFetchedAt = Date.now();
     render();
   }
