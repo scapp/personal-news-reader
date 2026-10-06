@@ -1,8 +1,129 @@
 {
-  "updated": "Tuesday, October 6, 2026 · 4:00 PM ET",
+  "updated": "Tuesday, October 6, 2026 · 6:00 PM ET",
   "stories": [
     {
       "n": 1,
+      "headline": "Christa Pike, the Tennessee inmate who survived two lethal injections, is now awake and speaking, her lawyers say",
+      "cat": "Crime / courts",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/news/us-news/christa-pike-awake-speaking-failed-execution-attempt-lawyer-says-rcna601970",
+      "image_local": "images/story-848.jpg",
+      "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261006-christa-pike-ew-448p-759768.jpg",
+      "id": "1a2d673b376e32395c529471a609dfd294874f97",
+      "summary": "Christa Pike, who survived Tennessee’s attempt to execute her last Wednesday when two doses of pentobarbital failed to kill her, is conscious, speaking and receiving medical care, her attorneys said Tuesday, calling the development “unprecedented.” Lawyers Randy Spivey and Kelly Gleason said she remains handcuffed and shackled despite significant injuries to her arms, and that “at a minimum, we expect a long recovery.” After the failed execution she was rushed to a hospital and put on a ventilator while staff worked to clear the drug from her system; her lawyers believe problems with the IV lines may have caused the drug to flow into her body instead of her bloodstream. Pike, 50, was sentenced to death for the 1995 murder of classmate Colleen Slemmer when she was 18, and would have been the first woman executed in Tennessee in 200 years. Gov. Bill Lee has ordered an independent review and paused all executions for the rest of the year, and state prison chief Frank Strada resigned Saturday. Her attorneys plan a news conference Wednesday."
+    },
+    {
+      "n": 2,
+      "headline": "Russia confirms a ‘shadow fleet’ oil tanker is burning off Sochi after an attack by uncrewed boats; all 23 crew rescued",
+      "cat": "World",
+      "source": "Anadolu Agency",
+      "url": "https://www.aa.com.tr/en/world/fire-erupts-on-liberia-flagged-oil-tanker-near-russia-s-sochi-authorities/4080163",
+      "image_local": "images/story-849.jpg",
+      "image_remote": "https://web-cdnprod.aa.com.tr/uploads/Contents/2026/10/06/thumbs_b_c_6fdf76c105d4f4319195ff1983bb2dd0.jpg",
+      "id": "7c6752e6d9f7ab0d564737bbf16ed42e0dafc441",
+      "summary": "Russian authorities confirmed Tuesday evening that the Liberia-flagged oil tanker Aframax Rio was attacked by uncrewed boats in the Black Sea near the resort city of Sochi, state news agency TASS reported. Russia’s Transport Ministry said all 23 crew members, all Indian nationals, were rescued, and preliminary information showed no injuries, while oil was burning openly on the water. Dmitry Plishkin, who heads the neighboring Sirius federal territory, said its beaches were closed and air and water quality were being monitored, insisting pollutant levels posed no threat to health. Video of thick black smoke over the coast had circulated for hours before Moscow commented. The tanker was placed on Ukraine’s sanctions list in February as part of Russia’s shadow fleet; Kyiv has not claimed the attack. It came the same day drones hit two merchant ships off Bulgaria and a Russian strike on a merchant ship in the Black Sea killed at least one crew member."
+    },
+    {
+      "n": 3,
+      "headline": "Trumbull girls soccer shuts out Wilton 4–0 for a fourth straight win and moves to 9–1–1",
+      "cat": "Local / Trumbull CT",
+      "source": "MaxPreps",
+      "url": "https://www.maxpreps.com/ct/soccer/girls/match/trumbull-vs-wilton/10-5-2026/?c=8bbd88c2-baaa-4eaf-9f0c-2cab856def79",
+      "image_local": "",
+      "image_remote": "",
+      "id": "e4429940e3c2f8b8474d6d02f09906480a5bfb35",
+      "summary": "Trumbull High’s girls soccer team beat Wilton 4–0 at home Monday evening in an FCIAC game, according to the final posted on MaxPreps. It was the Eagles’ fourth win in a row, following a 2–1 win at McMahon on Sept. 29 and a 1–0 home win over New Canaan last Thursday, and their seventh shutout of the season. Trumbull is now 9–1–1 overall and 9–1 in the league, third in the FCIAC standings, and a perfect 6–0 at home. The Eagles have scored 31 goals and allowed just five; their only loss was 1–0 at Ridgefield on Sept. 24. Next up: at Darien on Thursday at 4 p.m., then home against Norwalk Saturday at 9 a.m."
+    },
+    {
+      "n": 4,
+      "headline": "Apple is quietly working with LG on a doorbell, smart lock, thermostat and cameras for its coming home hub",
+      "cat": "Apple",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/06/lg-apple-smart-home-products/",
+      "image_local": "",
+      "image_remote": "",
+      "id": "694914da2183f64c39ecc5969b968444820ed458",
+      "summary": "LG Electronics is building a lineup of smart home accessories designed to work with Apple’s upcoming home hub, according to a Bloomberg report and documents LG filed with the Federal Communications Commission and UL Solutions. The list includes a wired video doorbell, a thermostat, a smart deadbolt, a temperature sensor, indoor and outdoor security cameras and a floodlight camera. The devices will carry LG branding, but Bloomberg says Apple helped develop them, a “second-party” arrangement that lets Apple expand its home lineup quickly without making every gadget itself. Several support Wi-Fi, Bluetooth, Thread and Matter, and the lock adds ultra-wideband so it can unlock automatically as an iPhone owner walks up. Apple is expected to unveil the home hub, a new Apple TV 4K and a new HomePod mini on Oct. 13, but the LG accessories aren’t expected for a few more months. Apple isn’t named in the filings, and LG asked the FCC to keep the details confidential."
+    },
+    {
+      "n": 5,
+      "headline": "Supreme Court lets stand a ruling that a man with a meth-possession felony can’t be stripped of his gun rights",
+      "cat": "Second Amendment / courts",
+      "source": "Daily Caller",
+      "url": "https://dailycaller.com/2026/10/06/supreme-court-decides-not-to-follow-up-after-major-ruling-in-marijuana-gun-case",
+      "image_local": "",
+      "image_remote": "",
+      "id": "1e107c22f190d8806141254f7eaec324f65b5586",
+      "summary": "The Supreme Court on Monday turned down the Justice Department’s appeal in the case of Charles Hembree, leaving in place a Fifth Circuit decision that threw out his conviction for being a felon in possession of a firearm. Hembree’s underlying felony was a 2018 conviction for simply possessing methamphetamine. In January, a three-judge panel (two Trump appointees and one Obama appointee) ruled that the federal felon gun ban was unconstitutional as applied to him, with Judge Stephen Higginson writing that the government failed to show that history and tradition support simple drug possession as grounds for losing Second Amendment rights. The Justice Department had asked the justices to send the case back in light of their later Hemani decision, which struck down a gun charge against a regular marijuana user. By denying review, the Court leaves the Fifth Circuit’s rule in force in Texas, Louisiana and Mississippi, narrowing which felony convictions can cost someone the right to own a gun there."
+    },
+    {
+      "n": 6,
+      "headline": "Matt Walsh: America’s loneliness epidemic is real, and AI ‘friends’ could make it far worse than any doomsday scenario",
+      "cat": "Matt Walsh",
+      "source": "The Daily Wire",
+      "url": "https://www.dailywire.com/news/the-loneliness-epidemic-is-real-ai-is-making-it-much-worse",
+      "image_local": "images/story-850.jpg",
+      "image_remote": "https://dw-wp-production.imgix.net/2026/10/Untitled-design-2026-10-06T163341.842.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+      "id": "edf5d3677927d46753d773f893ccac89cca97af3",
+      "summary": "In a commentary adapted from his show, Matt Walsh argues that the most immediate danger from artificial intelligence isn’t a robot apocalypse but a nation of isolated people bonding with chatbots instead of each other. He cites new survey data, replicating the old Life Style surveys behind “Bowling Alone,” showing the share of Americans who host friends or family at home at least once a month has fallen from 42% in 1975 to 12% in 2026; monthly card-playing, book-reading and church attendance have each dropped by roughly 60%. About a quarter of Americans now eat every meal alone on a given day, he notes, and Japan already tracks “lonely deaths” where bodies go undiscovered for years. With U.S. birth rates about 25% below replacement, Walsh warns the same is coming here, and says AI companions that are “always available, always serve your needs” and “only care about what you want” could turn the problem into a crisis, much like the 2013 film “Her.”"
+    },
+    {
+      "n": 7,
+      "headline": "Bryan Rust is back at full practice, so the Penguins must cut a forward before Wednesday in Washington — and they’re putting it off",
+      "cat": "Penguins hockey",
+      "source": "Pittsburgh Hockey Now",
+      "url": "https://pittsburghhockeynow.com/pittsburgh-penguins-put-off-player-decision-bryan-rust-elmer-soderblom/",
+      "image_local": "images/story-851.jpg",
+      "image_remote": "https://assets-varnish.triblive.com/2026/10/10010924_web1_AP26116626430598.jpg",
+      "id": "332051fe33d5e4abf9120ba45025f76fd9a6d13e",
+      "summary": "Penguins winger Bryan Rust practiced Tuesday as a full participant for the first time since he was hurt in the final preseason game, putting him in line to return as soon as Wednesday’s rivalry opener against the Capitals in Washington. The catch: Pittsburgh is at the 23-man roster limit, so activating Rust means someone has to go. On Tuesday the team punted, neither activating Rust nor putting anyone on waivers. The likeliest candidates are Elmer Soderblom, acquired from Detroit for a third-round pick before the 2025 trade deadline, and Filip Hallander, a former second-round pick now in his third stint with the club who missed most of last season with blood clots and a lung issue but scored in the 7–0 opener against Philadelphia; both have been healthy scratches. At practice, Hendrix Lapierre skated on the top line with Sidney Crosby and Rickard Rakell, while Rust worked on the third line with Ben Kindel and Ville Koivunen. The Penguins can still designate a player non-roster Wednesday morning if Rust is cleared."
+    },
+    {
+      "n": 8,
+      "headline": "Jets promote pass rusher Nate Lynn, their biggest preseason standout, after Braiden McGregor’s season-ending pec injury",
+      "cat": "Jets football",
+      "source": "Jets X-Factor",
+      "url": "https://jetsxfactor.com/2026/10/06/ny-jets-sign-preseason-star-nate-lynn-active-roster/",
+      "image_local": "",
+      "image_remote": "",
+      "id": "6e215672cc0f8bfdf470162504f9fdadf7206f26",
+      "summary": "The Jets have signed edge rusher Nate Lynn to the active roster, Jets X-Factor reports, after backup Braiden McGregor suffered a season-ending pectoral injury. Lynn, 24, out of William & Mary, didn’t even join the team until after the preseason opener, then led the Jets with six pressures and three sacks in two preseason games, an 86.5 Pro Football Focus grade that ranked seventh of 173 edge rushers with at least 30 snaps. He was still waived on cutdown day when McGregor won the final edge spot. Pass rush is exactly where the Jets need help: in the Week 4 loss in Chicago, their edge rushers managed only four pressures combined, three of them by Will McDonald. Lynn has posted an 18.4% pressure rate across three NFL preseasons and now gets his first regular-season shot, though he’ll also have to hold up against the run as the third edge-setter behind Joseph Ossai and Kingsley Enagbare."
+    },
+    {
+      "n": 9,
+      "headline": "Eva Marie Saint, Oscar winner for ‘On the Waterfront’ and Hitchcock’s heroine in ‘North by Northwest,’ dies at 102",
+      "cat": "Culture / obituary",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/eva-marie-saint-dies-age-102-on-the-waterfront/",
+      "image_local": "images/story-852.jpg",
+      "image_remote": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/06/4c7868dd-0ce4-49b3-93ff-63401de21443/thumbnail/1200x630/a7d2413744a4d83b6600156fbe49b47e/gettyimages-927297430.jpg",
+      "id": "a133d5ffb1dc041d635b3a93ddfc94b2b2a69e6f",
+      "summary": "Eva Marie Saint, one of the last stars of Hollywood’s golden age, died of natural causes at her Los Angeles home, surrounded by family, her publicist said. She was 102. Saint won the best supporting actress Oscar for her very first film, 1954’s “On the Waterfront,” playing Edie Doyle opposite Marlon Brando, and accepted it visibly pregnant (“I may have the baby right here!”); her son was born two days later. Five years later she played the mysterious spy Eve Kendall opposite Cary Grant in Alfred Hitchcock’s “North by Northwest.” Hitchcock’s direction, she recalled, was simple: lower your voice, don’t use your hands, and look Cary Grant in the eyes at all times. She deliberately limited herself to about one film a year to raise her children, telling an agent who warned she wouldn’t be a superstar, “Well, I guess not.” She was married to director Jeffrey Hayden for 65 years until his death in 2016, earned five Emmy nominations, winning for “People Like Us” in 1990, and was still working on a podcast series at 97."
+    },
+    {
+      "n": 10,
+      "headline": "Death Angel founding bassist Dennis Pepa reveals he is fighting stage 4 cancer and asks fans for help",
+      "cat": "Heavy metal",
+      "source": "Blabbermouth",
+      "url": "https://blabbermouth.net/news/death-angels-founding-bassist-dennis-pepa-is-battling-stage-four-cancer",
+      "image_local": "images/story-853.jpg",
+      "image_remote": "https://assets.blabbermouth.net/media/dennispepagofundoct2026_638.jpg",
+      "id": "763a016dfd4a0d8b32b7d359008bc99f6d81b82a",
+      "summary": "Dennis Pepa, founding bassist of the Bay Area thrash band Death Angel, is battling stage 4 duodenal cancer, a rare and generally aggressive cancer of the small intestine, and has launched a GoFundMe to pay for treatment. Pepa, who played on the band’s classic early records, wrote that he was diagnosed in February 2026 after already losing his job of almost 20 years, leaving his family scrambling to pay for care while keeping up with everyday bills. He is hoping to pursue dendritic cell immunotherapy at the Immunocine Cancer Center in Mexico, which uses a patient’s own immune cells and tumor material, and has set a $150,000 goal to cover the treatment, about six weeks of living costs there, and support for his family at home. “$150k sounds huge,” he wrote, “but it takes a village, and every cent counts.”"
+    },
+    {
+      "n": 11,
+      "headline": "Tropical Depression Nine forms in the Gulf and could bring heavy rain to the Gulf Coast this weekend — and moisture to the Northeast next week",
+      "cat": "Weather",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/hurricane-season-tropical-threat-gulf-us/",
+      "image_local": "images/story-854.jpg",
+      "image_remote": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/06/6f21661f-a163-4cd4-bbd9-69116d4e757e/thumbnail/1200x630g7/0bf5e4eb9e2c97f788cd26ece43a9e60/92l-spaghetti-map-gulf.jpg",
+      "id": "5225f7ebaaa98d2da0ff360d85656893d71cefd4",
+      "summary": "Tropical Depression Nine formed Tuesday over the warm waters of the Bay of Campeche off Mexico, and forecast models increasingly agree it will move north toward the U.S. Gulf Coast this weekend. Whether or not it strengthens, it is expected to bring moderate to heavy rain to the Gulf Coast and the rest of the Southeast from this weekend into early next week, and some longer-range models carry that moisture into the Ohio Valley and the Northeast by the middle of next week. Timing and strength are still uncertain: some models bring impacts as early as Friday evening, others later in the weekend, and some keep it a depression while others make it a tropical storm. If it is named, it would be Isaias, only the ninth named storm of a quiet Atlantic season (El Niño is fueling the Pacific instead). Hurricane season ends Nov. 30."
+    },
+    {
+      "n": 12,
       "headline": "DHS: both men wanted for stabbing off-duty NYPD Detective Jose Mercedes are illegal immigrants who were released despite long rap sheets",
       "cat": "Immigration",
       "source": "Fox News",
@@ -13,7 +134,7 @@
       "summary": "The two men wanted for the attempted murder of off-duty NYPD Detective Jose Mercedes, who walked out of Jacobi Medical Center this week after being stabbed while fighting off chain snatchers, are Dominican citizens living in the U.S. illegally, the Department of Homeland Security says. Dangelo Rafael Jean Caraballo, 25, and Sneider Mejia Bautista, 24, allegedly tried to grab Mercedes’ gold chain while he was clearing out his car trunk, then stabbed and slashed him when he fought back; he chased them two blocks before collapsing. Both remain at large. DHS says both crossed the Arizona border and were released by the Biden administration. Caraballo’s record includes loaded-gun possession, menacing and fleeing police, and he was let go after a December 2024 arrest before ICE could lodge a detainer. ICE did lodge a detainer on Bautista after an October 2025 weapon charge, but city officials declined it under New York’s sanctuary rules. “This horrific crime could have been prevented,” DHS Secretary Markwayne Mullin said, urging New York to cooperate."
     },
     {
-      "n": 2,
+      "n": 13,
       "headline": "ABC tells a federal judge the FCC has its ‘head on a guillotine’; the Justice Department says the license review is about Disney’s DEI stonewalling",
       "cat": "Media",
       "source": "CBS News",
@@ -24,40 +145,7 @@
       "summary": "Disney’s ABC asked a federal judge in Washington on Tuesday to block the FCC’s early review of the licenses of eight ABC-owned TV stations, renewals that weren’t due until 2028–2031. In a roughly two-hour hearing, ABC lawyer Beth Wilkinson argued that statements by President Trump and FCC Chair Brendan Carr show the review is retaliation for coverage the administration dislikes, citing Trump’s July call to revoke ABC and NBC licenses. She said the network is already changing how it covers politics, including how “The View” picks clips, and that the FCC could hand ABC “the corporate death penalty.” Justice Department lawyers countered that the FCC ordered the early renewal because Disney failed to adequately answer its investigation into the company’s diversity, equity and inclusion practices, and that any challenge must go through the full commission and then a federal appeals court, not a district judge. Most of the argument turned on that jurisdiction question; no ruling was issued Tuesday."
     },
     {
-      "n": 3,
-      "headline": "The CIA officer caught with nearly 300 gold bars pleads guilty to a $194 million scheme and admits exposing a secret intelligence source",
-      "cat": "Crime / courts",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/politics/national-security/cia-officer-arrested-gold-bars-pleads-guilty-wire-fraud-rcna601857",
-      "image_local": "images/story-835.jpg",
-      "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261006-david-rush-vl-355p-3e2f09.jpg",
-      "id": "253f994cd153d4063dae9fe0ae085a1e4c49afe1",
-      "summary": "David Rush, 49, a fired senior officer in the CIA’s Directorate of Science and Technology, pleaded guilty Tuesday in Alexandria, Virginia, to one count of wire fraud and faces up to 20 years when he is sentenced Jan. 28. Prosecutors say he siphoned off $194 million by inventing a highly classified program to pay for luxury Florida real estate and a sensitive “activity” to buy gold, effectively acting as his own approving official. Agents who searched his home seized 298 gold bars, about $2 million in cash and 35 luxury watches. In his plea papers, Rush also admitted that in late 2025 he gave a foreign official descriptive details about a U.S. clandestine human source, information that could endanger the source and the officers working with them. Investigators say he fabricated parts of his education and military record, including tales of being a Top Gun pilot, and fooled the agency for years while serving as a liaison to sensitive Pentagon programs. The intelligence community’s inspector general is investigating separately."
-    },
-    {
-      "n": 4,
-      "headline": "Next door in Bridgeport: ex-state Sen. Dennis Bradley is arrested again, accused of opening a voter’s absentee ballot and having her switch it to his brother",
-      "cat": "Local / Fairfield CT",
-      "source": "News 12 Connecticut",
-      "url": "https://connecticut.news12.com/2026/10/06/former-state-sen-dennis-bradley-re-arrested-in-connection-with-ballot-fraud-investigation/7E9VxE1ZSVUaW3Mf1TeI5J",
-      "image_local": "images/story-836.jpg",
-      "image_remote": "https://images-cf.news12static.com/3kqcuzntcg31/95r6vtHKKA3ViOrvcsYXQ/c96423a5c0b9adb5b76f09aaea53e503/1994da31-c0c8-42b0-b3e9-e9317892513c.jpg",
-      "id": "8c46e11ca90d55e59024d16ddcefe486965b1e72",
-      "summary": "Former Democratic state Sen. Dennis Bradley of Bridgeport has been charged in connection with absentee ballots in the city’s Aug. 11 Democratic primary for probate judge, Chief State’s Attorney Patrick J. Griffin announced Tuesday. The race pitted incumbent Judge Paul Ganim against Bradley’s brother, Mark Bradley. Prosecutors say a voter complained to Bridgeport police and the State Elections Enforcement Commission that Dennis Bradley came to her apartment, opened her already-completed absentee ballot and told her to change her vote from Ganim to his brother. The commission referred the case to the Chief State’s Attorney. Bradley is charged with two counts of illegal possession of absentee ballots and envelopes, plus being present while an absentee voter filled out a ballot. He is due in Bridgeport Superior Court Oct. 21. The new charges are separate from his earlier campaign-fraud convictions. It is another absentee-ballot case for Bridgeport, which borders Trumbull and where a judge ordered the 2023 Democratic mayoral primary redone over absentee-ballot irregularities."
-    },
-    {
-      "n": 5,
-      "headline": "Poland moves Patriot batteries to the Ukrainian border region and commits $26 billion to shelters and civil defense",
-      "cat": "World",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/poland-to-deploy-patriots-near-ukrainian-border-announces-26-billion-civil-defense-plan/",
-      "image_local": "images/story-837.jpg",
-      "image_remote": "https://assets.kyivindependent.com/content/images/2026/10/GettyImages-1243970745_20261006-161455.jpg",
-      "id": "6e788c1c8df1499a0ba949c6f0fd5fec7ca59ab3",
-      "summary": "Poland will station Patriot air-defense batteries in its Lublin region, which borders Ukraine, to protect Lublin airport and reassure residents after repeated Russian violations of Polish airspace, Defense Minister Wladyslaw Kosiniak-Kamysz said. New military formations, including unmanned-systems units, will also be created there. The same day, Prime Minister Donald Tusk said his government will adopt a five-year civil defense program for 2027–2031 worth 102.4 billion zlotys, about $26.4 billion. Unlike past programs that covered emergency purchases such as generators, this one is mostly long-term investment: shelters, equipment, rescue bases, stockpiles, secure water and energy supplies, warning systems and cybersecurity. About $7.7 billion will go to regional governments, which will help decide whether money goes to shelters, firehouses or other projects."
-    },
-    {
-      "n": 6,
+      "n": 14,
       "headline": "Tesla turns on Powershare home backup for the Model 3 and Model Y, so the car can keep your house running for about two days",
       "cat": "Elon Musk / Tesla",
       "source": "Electrek",
@@ -68,29 +156,7 @@
       "summary": "Tesla has switched on Powershare Home Backup for the Model 3 and Model Y, meaning its two best-selling cars can now feed power to a house during an outage; until now only the Cybertruck could. There are strings attached. The home needs a Powerwall 3 and a Wall Connector, and Tesla only guarantees the feature on U.S. and Puerto Rico cars ordered on or after Oct. 1, 2026; some, but not all, earlier cars have the needed PCS2 Lite inverter, which owners can check under Software > Additional Vehicle Information. Tesla says a Model 3 or Y starting at 90% charge adds more than two days of backup for a house using 30 kWh a day, with up to 11.52 kW of continuous output. Existing Powerwall 3 owners need no extra hardware but must call Tesla support to enable it. Powerwall 2 support is “coming soon,” and selling power back to the grid isn’t offered. Electrek notes Ford did this on the F-150 Lightning in 2022, and Tesla once promised bidirectional charging by about 2025."
     },
     {
-      "n": 7,
-      "headline": "The second iOS 27.2 public beta brings Apple’s redesigned Health app to the iPhone ahead of a release later this month",
-      "cat": "Apple",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/10/06/apple-releases-second-ios-27-2-public-beta-with-new-iphone-health-app/",
-      "image_local": "",
-      "image_remote": "",
-      "id": "d7b948d7fba8f55fbbdc6f049778fa17d44cd1ef",
-      "summary": "Apple released the second public beta of iOS 27.2 on Tuesday, and it includes the all-new Health app Apple first showed at the iPhone 18 Pro event, so anyone in the public beta program can now try it. The update also expands Siri’s AI language support to French, Japanese, Korean, Portuguese and Spanish, renames Podcasts’ “Up Next” to “New Episodes” with Continue Playing moved directly below it, and tones down the color used for labels in Apple Music. iOS 27.2 follows the Sept. 14 launch of iOS 27 (iOS 27.1 is just for the iPhone Duo) and is expected to ship to everyone later in October. Apple also put out matching public betas for iPadOS and macOS 27.2."
-    },
-    {
-      "n": 8,
-      "headline": "Garmin’s $900 Enduro 4 claims up to 320 hours of battery, far beyond the Apple Watch Ultra 4’s two-plus days",
-      "cat": "Gadgets",
-      "source": "Gizmodo",
-      "url": "https://gizmodo.com/garmin-enduro-4-smartwatch-2000822419",
-      "image_local": "images/story-839.jpg",
-      "image_remote": "https://gizmodo.com/app/uploads/2026/10/Garmin-Enduro-1200x675.jpg",
-      "id": "54c4284dc24faa0edac44ec82db6b420e06d7ff0",
-      "summary": "Garmin has announced the Enduro 4, an endurance smartwatch rated for up to 320 hours of battery life, compared with a little over two days for Apple’s new Apple Watch Ultra 4. The top figure requires its activity power mode and enough sunshine for the solar-charging memory-in-pixel display, so it will need real-world testing. The Enduro 4 isn’t as premium as Garmin’s Fenix 9 Pro: the screen is dimmer than that model’s OLED and the case is fiber-reinforced polymer rather than titanium. But it gets 50% more RAM for smoother maps and navigation, 64GB of storage, a sapphire lens and 10ATM water resistance, plus the Fenix 9 Pro’s health tools, including stamina zones and the new Garmin Epic multi-activity summaries. It sells for $900, aimed at long trail runs and backpacking trips rather than phone-style smarts."
-    },
-    {
-      "n": 9,
+      "n": 15,
       "headline": "A new Canon patent shows a ‘big white’ telephoto with a slot for a drop-in 1.4x teleconverter",
       "cat": "Canon / Photography",
       "source": "Canon Rumors",
@@ -101,7 +167,7 @@
       "summary": "A Canon patent spotted by Canon Rumors describes a telephoto lens built around a 100–300mm f/2.8 design with an empty space where a 1.4x teleconverter can be dropped in, adding reach without making the lens longer or changing how it balances in the hand. The converter sits toward the rear of the lens, where the light path has narrowed, so its glass can be smaller than it would be farther forward. The site suggests the approach could let Canon offer a long super-telephoto zoom, something like a 300–600mm, at a lower price than lenses with a built-in extender, with the drop-in converter sold separately to those who want it. As with most patents, there is no sign yet of a product or a date."
     },
     {
-      "n": 10,
+      "n": 16,
       "headline": "Jeep is now the ‘Official 4x4 of Moab’ under a two-year deal funding trail work and town events",
       "cat": "Jeep",
       "source": "Mopar Insiders",
@@ -112,7 +178,7 @@
       "summary": "The City of Moab, Utah, has named Jeep its Official 4×4 in a two-year partnership that formalizes one of the off-road world’s best-known relationships. Jeep will provide annual funding for local programs, community events and trail maintenance. The first big project comes at the 2027 Easter Jeep Safari, when Jeep, the Red Rock 4-Wheelers, the Bureau of Land Management’s Moab Field Office and Tread Lightly! will do stewardship work along the Chicken Corners trail corridor. Jeep will also back the Red Rock Arts Festival and Moab’s upcoming 125th anniversary. “Moab is more than a destination. It’s an integral part of the Jeep brand story,” said Jeep CEO Branden Coté. Jeep has long tested vehicles and shown concepts there, and the Moab name has appeared on Wranglers, including the Hemi-powered Wrangler Moab 392, and will appear on the new Recon."
     },
     {
-      "n": 11,
+      "n": 17,
       "headline": "Harley spinoff LiveWire’s S4 Honcho Street becomes an approved bike for Motorcycle Safety Foundation rider courses",
       "cat": "Harley-Davidson",
       "source": "Powersports Business",
@@ -123,29 +189,7 @@
       "summary": "LiveWire, Harley-Davidson’s electric motorcycle brand, says its S4 Honcho Street meets the Motorcycle Safety Foundation’s criteria for use in rider-training programs, meeting all three main requirements for power output, weight and seat height. The bike weighs 266 pounds, has a seat under 30 inches and has no clutch or gears to shift, which LiveWire argues removes hurdles for beginners. The company already partnered in July 2025 with Bartels’ Harley-Davidson Riding Academy in Marina del Rey, California, the first U.S. new-rider program to offer certified training on its S2 bikes. “The next generation of riders is coming up on e-bikes and electric vehicles,” said LiveWire’s Jon Bekefy, calling an electric motorcycle “a more natural first step into motorcycling.”"
     },
     {
-      "n": 12,
-      "headline": "Crosby vs. Ovechkin, game No. 101: the Penguins open the rivalry’s final season in Washington on Wednesday",
-      "cat": "Penguins hockey",
-      "source": "NHL.com",
-      "url": "https://www.nhl.com/news/penguins-crosby-capitals-ovechkin-meet-again-with-rivalry-in-final-season",
-      "image_local": "images/story-842.jpg",
-      "image_remote": "https://media.d3.nhle.com/image/private/t_ratio16_9-size50/v1791313549/prd/iergevvrcgrmajcpo1gc.jpg",
-      "id": "b20e399472cb6369dce5a5cbf98fda86551d7b6a",
-      "summary": "Sidney Crosby and Alex Ovechkin meet for the 101st time, playoffs included, when the Penguins visit the Capitals on Wednesday at 7:30 PM ET (TNT, HBO Max), the first meeting since Ovechkin announced Monday that this will be his last NHL season. Capitals coach Spencer Carbery said Washington “has to” start Ovechkin for his final home opener. Crosby leads the regular-season head-to-head with 97 points to Ovechkin’s 71, and Pittsburgh is 43-28-4 in those 75 games; in 25 playoff games Ovechkin has 33 points to Crosby’s 30, but the Penguins won three of their four series, and each series winner went on to lift the Cup. Ovechkin, 41, holds the record with 929 goals; Crosby, 39, is seventh all-time with 1,763 points. “Every game (between) Sid and Ovi, it’s a special night,” Evgeni Malkin said. Crosby says the old playoff hostility has turned into friendship and “a ton of respect.”"
-    },
-    {
-      "n": 13,
-      "headline": "Film breakdown: how the Jets’ defense held Chicago to 2-of-7 in the red zone, including a goal-line stand",
-      "cat": "Jets football",
-      "source": "New York Jets",
-      "url": "https://www.newyorkjets.com/news/jets-film-breakdown-how-new-york-limited-bears-in-the-red-zone-10-06-2026",
-      "image_local": "images/story-843.jpg",
-      "image_remote": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/jets/hdbowp02kkeuuturktpn",
-      "id": "e0fbc26cac4f4483394262041312f146b409b2ce",
-      "summary": "The Jets lost 23–12 in Chicago, but their defense bent without breaking: the Bears scored touchdowns on only two of seven red-zone trips. On the opening drive Chicago ran three plays inside the Jets’ 5 and came away with nothing. Jamien Sherwood stopped D’Andre Swift short on second-and-goal after a touchdown was overturned on review, Sherwood broke up a third-down throw to tight end Colston Loveland with T’Vondre Sweat in Tyson Bagent’s face, and Stephens beat a block to drop Swift short on fourth down. Before halftime the Jets twice stopped Chicago on third-and-6, once with Minkah Fitzpatrick and rookie edge David Bailey combining on Swift, which held the Bears to a pair of 30-yard field goals. “The thing about defense is all about limiting points,” coach Aaron Glenn said, calling red-zone defense a staple of what the team wants to be."
-    },
-    {
-      "n": 14,
+      "n": 18,
       "headline": "On the day his memoir ‘Devil On My Shoulder’ hits stores, Alice Cooper gets his own weekly SiriusXM show on Little Steven’s Underground Garage",
       "cat": "Heavy metal",
       "source": "Blabbermouth",
@@ -156,18 +200,7 @@
       "summary": "Alice Cooper is joining Little Steven’s Underground Garage on SiriusXM (Channel 21) with a weekly show starting Saturday, Oct. 10, at 4 PM ET, with an encore Sundays at 9 PM ET. Stevie Van Zandt and Cooper announced it at the end of a SiriusXM Town Hall marking Tuesday’s release of Cooper’s memoir, “Devil On My Shoulder,” which follows how the band name became a stage name and then a monster he says he has finally tamed. Each week Cooper will pull from the channel’s playlist, add his own picks and tell stories from five-plus decades in rock. “I just finished his new book… nobody has better stories than Alice. And some of them are even true!” Van Zandt said. Cooper’s line: “Longtime listener, first-time DJ!”"
     },
     {
-      "n": 15,
-      "headline": "W.A.S.P.’s Blackie Lawless shrugs off AI music, comparing the panic to Y2K: ‘It’s not gonna affect me’",
-      "cat": "Heavy metal",
-      "source": "Blabbermouth",
-      "url": "https://blabbermouth.net/news/w-a-s-p-s-blackie-lawless-on-a-i-powered-music-creation-its-not-gonna-affect-me",
-      "image_local": "images/story-845.jpg",
-      "image_remote": "https://assets.blabbermouth.net/media/blackielawlessmay2025live_638.jpg",
-      "id": "ba104751356d5b760e37521c30837524d5403863",
-      "summary": "Asked at a VIP question-and-answer session before W.A.S.P.’s Sept. 20 show at the House of Blues in Houston about AI tools that generate melodies, harmonies and lyrics, Blackie Lawless said he isn’t worried. “It’s not gonna affect me,” he said, likening the alarm to the Y2K scare: “After all was said and done, more was said than done.” He allowed there is probably a place for AI and said, “If it becomes a tool that helps people, then so be it.” His bigger point was that songs in a genre aren’t that different from one another; what sets them apart is the people performing them, “and AI can’t do that. At least not yet.” He also weighed in on the major labels’ copyright lawsuits against AI music companies that trained on their artists’ recordings without permission."
-    },
-    {
-      "n": 16,
+      "n": 19,
       "headline": "United and Delta will both start nonstops next summer to Flagstaff, the closest airport to the Grand Canyon and Sedona",
       "cat": "USA travel",
       "source": "The Points Guy",
@@ -178,7 +211,7 @@
       "summary": "Flagstaff Pulliam Airport in Arizona is getting two new airlines in 2027. United will fly twice daily from Denver starting Aug. 10, 2027, less than 48 hours after Delta announced twice-daily nonstops from Salt Lake City starting June 7. Both will use Bombardier CRJ-550s with 10 first-class seats, 20 extra-legroom economy seats and 20 regular economy seats. Flagstaff sits a little over two hours north of Phoenix and is the most convenient airport for Grand Canyon National Park and Sedona. American Airlines has long had the airport to itself, flying from Phoenix for decades and from Dallas-Fort Worth since 2018. United flew Denver–Flagstaff from 2019 through 2022, and the airport recently got an $800,000 federal grant to attract new service to Denver or Salt Lake City."
     },
     {
-      "n": 17,
+      "n": 20,
       "headline": "Babylon Bee: ‘9 Crimes Pete Hegseth Just Declared Worthy Of Death Penalty’",
       "cat": "Satire",
       "source": "The Babylon Bee",
@@ -187,39 +220,6 @@
       "image_remote": "https://media.babylonbee.com/articles/6ac5481714ed76ac5481714ed8.jpg",
       "id": "f4158aef057abe207162dc2c8699e1329eddbef0",
       "summary": "Satire. Riffing on the Pentagon’s approval of a firing squad for Fort Hood shooter Nidal Hasan, the Bee lists other offenses “Secretary of War Pete Hegseth” has supposedly made capital crimes. Among them: owning anime (“A firing squad may be too kind”), having seen the musical Wicked (“You can go defy gravity in the gallows, soldier”), being ugly (“We will have the most lethal and attractive fighting force on the planet”), singing “and many more” at the end of “Happy Birthday,” and a man using any emoji other than a thumbs-up (“Straight to the electric chair”)."
-    },
-    {
-      "n": 18,
-      "headline": "Trump and Anduril unveil a $6.6 billion ‘software-defined’ shipyard in Baltimore County to build Virginia-class submarine parts",
-      "cat": "Politics / MAGA",
-      "source": "DefenseScoop",
-      "url": "https://defensescoop.com/2026/10/06/white-house-anduril-announce-new-shipyard-baltimore-county/",
-      "image_local": "images/story-814.jpg",
-      "image_remote": "https://defensescoop.com/wp-content/uploads/sites/8/2026/10/VA-Class-Submarine.jpg",
-      "id": "f0743901c44ebc73f7cb49f92dc8b36ee022ece0",
-      "summary": "The White House and Anduril Industries announced plans Tuesday for Arsenal-2, a shipyard of more than 2 million square feet on a 187-acre site at Tradepoint Atlantic in Sparrows Point, the old Bethlehem Steel property outside Baltimore, ahead of President Trump’s 4 PM visit there. The Navy has awarded Anduril a contract worth up to $2.9 billion, and the company will put in $3.7 billion of its own money. The White House says the $6.6 billion project will create more than 13,000 direct and indirect jobs. The yard will build Virginia-class submarine sections such as torpedo tubes, sterns and bow sections and ship them to Electric Boat in Groton, Connecticut, and Newport News Shipbuilding for final assembly. Anduril’s ArsenalOS software will run the production floor. Permitting starts now, and the first operations are expected in 2030. Maryland officials call it the largest single private investment in the state."
-    },
-    {
-      "n": 19,
-      "headline": "LEGO opens pre-orders for BrickLink Designer Program Series 9 fan-designed sets through Oct. 12",
-      "cat": "LEGO",
-      "source": "The Brick Fan",
-      "url": "https://www.thebrickfan.com/bricklink-designer-program-series-9-sets-available-for-pre-order/",
-      "image_local": "images/story-826.jpg",
-      "image_remote": "https://www.thebrickfan.com/wp-content/uploads/2026/09/BrickLink-Designer-Program-Series-9-Final.jpg",
-      "id": "a13cadb7692aa86f41ec90acf7a975ffba0bc90a",
-      "summary": "The fan-designed BrickLink Designer Program Series 9 sets are now up for pre-order on the LEGO Shop until Oct. 12. The run is limited and production depends on demand: each set needs 3,000 pre-orders to be made and can be produced up to 30,000 times, and if one model falls short LEGO can shift extra production to the others. The sets will not ship until March 2027, and buyers are not charged until then."
-    },
-    {
-      "n": 20,
-      "headline": "Fairfield County homeowners and businesses hit by the Sept. 13 flash flooding can now apply for low-interest SBA disaster loans",
-      "cat": "Local / Fairfield CT",
-      "source": "WTIC NewsTalk 1080",
-      "url": "https://www.audacy.com/wtic/news/local/ct-secures-relief-over-september-floods",
-      "image_local": "",
-      "image_remote": "",
-      "id": "48d9d2b0a7d20b633abf84df5982b3e49b541584",
-      "summary": "The U.S. Small Business Administration has approved a disaster declaration for the severe storms and flash flooding of Sept. 13. Fairfield County, which includes Trumbull, is the primary county in the federal notice published Tuesday, and neighboring Litchfield and New Haven counties are also eligible. Homeowners can borrow up to $500,000 to repair a primary home, homeowners and renters up to $100,000 for damaged belongings, and businesses and nonprofits up to $2 million for physical losses or working capital. The federal notice lists homeowner rates of 3% for those without credit elsewhere. An in-person SBA Disaster Loan Outreach Center opens Wednesday, Oct. 7, at the Margaret E. Morton Government Center, 999 Broad Street in Bridgeport. Applications are also taken at lending.sba.gov or 1-800-659-2955. The deadline for property-damage loans is Dec. 1."
     }
   ]
 }
