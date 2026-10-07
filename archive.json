@@ -939,7 +939,13 @@
     "f39b4c49755ea0c1e12d135c442a7d1bdcc6d5ae",
     "84e574a1d9bec72d93b0829c2c01c6972b095a05",
     "22060f3c9ecfeedd93e9439add9285731f166ff0",
-    "9df5249f6d3bcc0d2f7551e019993fa0cc6af3b2"
+    "9df5249f6d3bcc0d2f7551e019993fa0cc6af3b2",
+    "e0300326a79ad6808a4a34ad17fabbdaed4d6d26",
+    "68f4375afdcf8fd940a07ee655e9b06485d5183d",
+    "70669acbf181ca9f5a11f33f5af8936daf5a83d7",
+    "54f048c772f538e68a43c23828f9707b80c9dd57",
+    "edfae4bc531685f03f525e09b0a47c372efc3bfe",
+    "d4608593e60f9a47b2059b84bc73396ff5d6bc31"
   ],
   "stories": {
     "0c2ac7a5e342411678296315c4c59043b1f067cc": {
@@ -11697,7 +11703,67 @@
       "image_remote": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7680x4320+0+400/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F29%2Ffd%2F9336bb2d466fa157fb66cc2cdaf2%2Fap26280356127391.jpg",
       "image_local": "images/story-865.jpg",
       "id": "9df5249f6d3bcc0d2f7551e019993fa0cc6af3b2"
+    },
+    "e0300326a79ad6808a4a34ad17fabbdaed4d6d26": {
+      "headline": "Hurricane watch goes up from Bay St. Louis to Indian Pass as Isaias strengthens; 5–7 feet of storm surge possible on Mobile Bay",
+      "cat": "Weather",
+      "source": "National Hurricane Center",
+      "url": "https://www.nhc.noaa.gov/archive/2026/al09/al092026.public.004.shtml",
+      "summary": "The National Hurricane Center’s 11 a.m. ET advisory on Wednesday put the first watches on the U.S. coast for Tropical Storm Isaias. A Hurricane Watch now runs from Bay St. Louis, Mississippi, to Indian Pass, Florida, and a Storm Surge Watch covers the coast from the mouth of the Mississippi River east to Yankeetown, Florida. Tropical Storm Watches stretch west to the Jefferson/Plaquemines Parish line in Louisiana and east to the Aucilla River in Florida. A Hurricane Hunter aircraft found Isaias with 45 mph winds about 540 miles south-southwest of the mouth of the Mississippi, moving east-northeast at 8 mph. Forecasters expect rapid strengthening, with Isaias becoming a hurricane by Thursday, passing north of the Yucatán and approaching the northern Gulf Coast on Friday. Hurricane conditions could begin in the watch area late Friday, with tropical-storm winds arriving around midday. Peak surge could reach 5 to 7 feet from Ocean Springs, Mississippi, to Indian Pass, including Mobile Bay, and 3 to 5 feet near the mouth of the Mississippi. Rain totals of 3 to 6 inches, locally 10, are forecast from southeastern Louisiana to the Florida Panhandle, and 1 to 3 inches as far north as the Tennessee Valley and the Carolinas. More watches or warnings could come later today.",
+      "image_remote": "https://www.nhc.noaa.gov/storm_graphics/AT09/refresh/AL092026_3day_cone+png/071453_3day_cone.png",
+      "image_local": "images/story-866.jpg",
+      "id": "e0300326a79ad6808a4a34ad17fabbdaed4d6d26"
+    },
+    "68f4375afdcf8fd940a07ee655e9b06485d5183d": {
+      "headline": "Trumbull volleyball sweeps Brien McMahon 3–0 to go 10–0; field hockey blanks Stamford 3–0",
+      "cat": "Local / Trumbull CT",
+      "source": "FCIAC",
+      "url": "https://www.fciac.net/1216027/fciac-scoreboard-and-schedule-for-oct-5-10/",
+      "summary": "Trumbull High’s volleyball team stayed perfect on Tuesday night, beating Brien McMahon 3–0 at home, according to the FCIAC scoreboard. It is the Eagles’ 10th straight win to open the season and seventh in the conference, after the four-set win at Southington last Friday. Trumbull field hockey also posted a 3–0 shutout at Stamford on Monday. Both teams are back on the road at New Canaan this week: field hockey plays there today, Wednesday, at 4 p.m., and volleyball visits New Canaan on Thursday at 4 p.m. Also on the calendar: girls soccer is at Darien on Thursday at 4 p.m., boys soccer hosts Darien on Friday at 5:30 p.m., and the girls host Norwalk at 9 a.m. Saturday.",
+      "image_remote": "",
+      "image_local": "",
+      "id": "68f4375afdcf8fd940a07ee655e9b06485d5183d"
+    },
+    "70669acbf181ca9f5a11f33f5af8936daf5a83d7": {
+      "headline": "Trumbull Police invite residents to walk with their team in the Oct. 25 Alzheimer’s Walk at Sherwood Island",
+      "cat": "Local / Trumbull CT",
+      "source": "Town of Trumbull",
+      "url": "https://www.trumbull-ct.gov/m/newsflash/Home/Detail/3194",
+      "summary": "The Trumbull Police Department is fielding a team in the Alzheimer’s Walk on Sunday, Oct. 25, at 10 a.m. at Sherwood Island State Park in Westport, and the department is asking residents to join in. The town’s new notice says the walk is a chance for officers to come together outside of work, support an important cause and stand with the individuals and families in the community who live with Alzheimer’s. People can walk with the team, make a donation or simply come out and cheer the walkers on; the department says every step, donation and bit of encouragement helps. Sign-ups and donations go through the team’s Alzheimer’s Association page, act.alz.org/goto/trumbullpolicect, which is linked from the town’s post.",
+      "image_remote": "",
+      "image_local": "",
+      "id": "70669acbf181ca9f5a11f33f5af8936daf5a83d7"
+    },
+    "54f048c772f538e68a43c23828f9707b80c9dd57": {
+      "headline": "Christa Pike fallout spreads to Texas: lawyers for a man set to die tonight say the state’s pentobarbital may be degraded too",
+      "cat": "Crime / courts",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/lawyers-seek-block-texas-execution-citing-christa-pike/",
+      "summary": "Lawyers for Jamaal Howard, 46, who is scheduled to be executed in Texas on Wednesday, have asked the state’s Court of Criminal Appeals to stay his lethal injection, pointing to the failed execution of Christa Pike in Tennessee last week. Pike survived two doses of pentobarbital, the same drug Texas plans to use, and Howard’s attorneys argue there is a similar risk that the Texas supply is degraded because it is far past its original beyond-use dates. They say the state is withholding information about the dose until after a Texas attorney general opinion that will not arrive in time. Howard was convicted of killing convenience-store clerk Vickie Swartout, 42, during a 2000 robbery in Silsbee that netted $114 and a carton of cigarettes, and he also has a Supreme Court appeal pending on an intellectual-disability claim. Pike’s own lawyers say she is conscious and speaking but still handcuffed and shackled to her hospital bed with severe damage to her arms; they were in a Nashville court today seeking to preserve evidence from the execution and continue to ask Gov. Bill Lee to commute her sentence. Separately, the Army has set Dec. 3 for Fort Hood shooter Nidal Hasan’s execution by firing squad, the first military execution since 1961.",
+      "image_remote": "",
+      "image_local": "",
+      "id": "54f048c772f538e68a43c23828f9707b80c9dd57"
+    },
+    "edfae4bc531685f03f525e09b0a47c372efc3bfe": {
+      "headline": "Phil Anselmo’s Down drop ‘The Myth,’ a second taste of ‘Volume V’ ahead of their Nov. 20 album show with Pantera in New Orleans",
+      "cat": "Heavy metal",
+      "source": "Revolver",
+      "url": "https://www.revolvermag.com/music/hear-downs-crushing-new-song-the-myth/",
+      "summary": "Down, the New Orleans sludge supergroup fronted by Pantera’s Philip H. Anselmo, have released “The Myth,” the second preview of their long-awaited album Volume V after this summer’s “Blood Oath.” Revolver calls it a song in several movements, moving from bluesy grooves and classic metal chugging into a high-flying proto-metal jam, with Anselmo power-growling lyrics that salute rock-and-roll heroes (“When times are tough, they count on us”). Guitarist Kirk Windstein calls it “a perfect example of a classic Down collaboration,” and Pepper Keenan describes it as “classic Down in all its hammer-fisted glory leading into a ’70s jam trip.” The lineup of Anselmo, Keenan (Corrosion of Conformity), Windstein (Crowbar), drummer Jimmy Bower and bassist Pat Bruders recorded the album at Anselmo’s home studio through 2025, and Windstein says it has the same vibe as their 1995 debut NOLA. Volume V is out Nov. 20 on Nuclear Blast, and Down will play an album-release show that weekend as part of “The Great NOLA Trendkill” at New Orleans’ Lakefront Arena on Nov. 20–21, with Pantera and Black Label Society.",
+      "image_remote": "https://media.revolvermag.com/smaecrmuhw/styles/card-social/2026/08/19/DOWN-promo-Danin-Drahos-2026.jpg.webp?version=6ac666ef28008",
+      "image_local": "images/story-867.jpg",
+      "id": "edfae4bc531685f03f525e09b0a47c372efc3bfe"
+    },
+    "d4608593e60f9a47b2059b84bc73396ff5d6bc31": {
+      "headline": "American Airlines moves its Bozeman–Yellowstone nonstop from LaGuardia to JFK, adds JFK–Seattle, and cuts six routes for 2027",
+      "cat": "USA travel",
+      "source": "The Points Guy",
+      "url": "https://thepointsguy.com/news/american-airlines-route-changes-new-york-laguardia-jfk-bozeman-seattle/",
+      "summary": "American Airlines is shuffling its New York flights for next year. Its seasonal nonstop to Bozeman, the gateway to Yellowstone, will move from LaGuardia to JFK, where it can fly four days a week on a Boeing 737-8 from June 18, 2027, instead of only on Saturdays, which is all LaGuardia’s rules allowed. American is also adding twice-daily JFK–Seattle flights on Airbus A321neos from April 6, 2027, a route it last flew in 2019. At the same time it is dropping six routes: Chicago O’Hare–Lincoln, Nebraska; Dallas–Albany, New York (summer seasonal); Miami–Tulum; Miami–Montréal; LaGuardia–Bozeman; and Phoenix–Provo, Utah. No city loses American entirely, though Lincoln, Provo and Tulum will be left with only Dallas nonstops. The airline says it is moderating growth next summer to return to steady profits as jet fuel averages $4.43 a gallon, up from $2.42 last year, because of supply disruptions from the Iran war. Travelers from the New York area will find competition from Alaska, Delta and JetBlue on both new routes, and United flies to both cities from Newark.",
+      "image_remote": "https://runway-media-production.global.ssl.fastly.net/us/originals/2026/09/american-a321.jpeg",
+      "image_local": "images/story-868.jpg",
+      "id": "d4608593e60f9a47b2059b84bc73396ff5d6bc31"
     }
   },
-  "updated": "Wednesday, October 7, 2026 · 7:00 AM ET"
+  "updated": "Wednesday, October 7, 2026 · 11:30 AM ET"
 }

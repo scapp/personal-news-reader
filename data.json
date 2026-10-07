@@ -1,8 +1,74 @@
 {
-  "updated": "Wednesday, October 7, 2026 · 7:00 AM ET",
+  "updated": "Wednesday, October 7, 2026 · 11:30 AM ET",
   "stories": [
     {
       "n": 1,
+      "headline": "Hurricane watch goes up from Bay St. Louis to Indian Pass as Isaias strengthens; 5–7 feet of storm surge possible on Mobile Bay",
+      "cat": "Weather",
+      "source": "National Hurricane Center",
+      "url": "https://www.nhc.noaa.gov/archive/2026/al09/al092026.public.004.shtml",
+      "image_local": "images/story-866.jpg",
+      "image_remote": "https://www.nhc.noaa.gov/storm_graphics/AT09/refresh/AL092026_3day_cone+png/071453_3day_cone.png",
+      "id": "e0300326a79ad6808a4a34ad17fabbdaed4d6d26",
+      "summary": "The National Hurricane Center’s 11 a.m. ET advisory on Wednesday put the first watches on the U.S. coast for Tropical Storm Isaias. A Hurricane Watch now runs from Bay St. Louis, Mississippi, to Indian Pass, Florida, and a Storm Surge Watch covers the coast from the mouth of the Mississippi River east to Yankeetown, Florida. Tropical Storm Watches stretch west to the Jefferson/Plaquemines Parish line in Louisiana and east to the Aucilla River in Florida. A Hurricane Hunter aircraft found Isaias with 45 mph winds about 540 miles south-southwest of the mouth of the Mississippi, moving east-northeast at 8 mph. Forecasters expect rapid strengthening, with Isaias becoming a hurricane by Thursday, passing north of the Yucatán and approaching the northern Gulf Coast on Friday. Hurricane conditions could begin in the watch area late Friday, with tropical-storm winds arriving around midday. Peak surge could reach 5 to 7 feet from Ocean Springs, Mississippi, to Indian Pass, including Mobile Bay, and 3 to 5 feet near the mouth of the Mississippi. Rain totals of 3 to 6 inches, locally 10, are forecast from southeastern Louisiana to the Florida Panhandle, and 1 to 3 inches as far north as the Tennessee Valley and the Carolinas. More watches or warnings could come later today."
+    },
+    {
+      "n": 2,
+      "headline": "Trumbull volleyball sweeps Brien McMahon 3–0 to go 10–0; field hockey blanks Stamford 3–0",
+      "cat": "Local / Trumbull CT",
+      "source": "FCIAC",
+      "url": "https://www.fciac.net/1216027/fciac-scoreboard-and-schedule-for-oct-5-10/",
+      "image_local": "",
+      "image_remote": "",
+      "id": "68f4375afdcf8fd940a07ee655e9b06485d5183d",
+      "summary": "Trumbull High’s volleyball team stayed perfect on Tuesday night, beating Brien McMahon 3–0 at home, according to the FCIAC scoreboard. It is the Eagles’ 10th straight win to open the season and seventh in the conference, after the four-set win at Southington last Friday. Trumbull field hockey also posted a 3–0 shutout at Stamford on Monday. Both teams are back on the road at New Canaan this week: field hockey plays there today, Wednesday, at 4 p.m., and volleyball visits New Canaan on Thursday at 4 p.m. Also on the calendar: girls soccer is at Darien on Thursday at 4 p.m., boys soccer hosts Darien on Friday at 5:30 p.m., and the girls host Norwalk at 9 a.m. Saturday."
+    },
+    {
+      "n": 3,
+      "headline": "Trumbull Police invite residents to walk with their team in the Oct. 25 Alzheimer’s Walk at Sherwood Island",
+      "cat": "Local / Trumbull CT",
+      "source": "Town of Trumbull",
+      "url": "https://www.trumbull-ct.gov/m/newsflash/Home/Detail/3194",
+      "image_local": "",
+      "image_remote": "",
+      "id": "70669acbf181ca9f5a11f33f5af8936daf5a83d7",
+      "summary": "The Trumbull Police Department is fielding a team in the Alzheimer’s Walk on Sunday, Oct. 25, at 10 a.m. at Sherwood Island State Park in Westport, and the department is asking residents to join in. The town’s new notice says the walk is a chance for officers to come together outside of work, support an important cause and stand with the individuals and families in the community who live with Alzheimer’s. People can walk with the team, make a donation or simply come out and cheer the walkers on; the department says every step, donation and bit of encouragement helps. Sign-ups and donations go through the team’s Alzheimer’s Association page, act.alz.org/goto/trumbullpolicect, which is linked from the town’s post."
+    },
+    {
+      "n": 4,
+      "headline": "Christa Pike fallout spreads to Texas: lawyers for a man set to die tonight say the state’s pentobarbital may be degraded too",
+      "cat": "Crime / courts",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/lawyers-seek-block-texas-execution-citing-christa-pike/",
+      "image_local": "",
+      "image_remote": "",
+      "id": "54f048c772f538e68a43c23828f9707b80c9dd57",
+      "summary": "Lawyers for Jamaal Howard, 46, who is scheduled to be executed in Texas on Wednesday, have asked the state’s Court of Criminal Appeals to stay his lethal injection, pointing to the failed execution of Christa Pike in Tennessee last week. Pike survived two doses of pentobarbital, the same drug Texas plans to use, and Howard’s attorneys argue there is a similar risk that the Texas supply is degraded because it is far past its original beyond-use dates. They say the state is withholding information about the dose until after a Texas attorney general opinion that will not arrive in time. Howard was convicted of killing convenience-store clerk Vickie Swartout, 42, during a 2000 robbery in Silsbee that netted $114 and a carton of cigarettes, and he also has a Supreme Court appeal pending on an intellectual-disability claim. Pike’s own lawyers say she is conscious and speaking but still handcuffed and shackled to her hospital bed with severe damage to her arms; they were in a Nashville court today seeking to preserve evidence from the execution and continue to ask Gov. Bill Lee to commute her sentence. Separately, the Army has set Dec. 3 for Fort Hood shooter Nidal Hasan’s execution by firing squad, the first military execution since 1961."
+    },
+    {
+      "n": 5,
+      "headline": "Phil Anselmo’s Down drop ‘The Myth,’ a second taste of ‘Volume V’ ahead of their Nov. 20 album show with Pantera in New Orleans",
+      "cat": "Heavy metal",
+      "source": "Revolver",
+      "url": "https://www.revolvermag.com/music/hear-downs-crushing-new-song-the-myth/",
+      "image_local": "images/story-867.jpg",
+      "image_remote": "https://media.revolvermag.com/smaecrmuhw/styles/card-social/2026/08/19/DOWN-promo-Danin-Drahos-2026.jpg.webp?version=6ac666ef28008",
+      "id": "edfae4bc531685f03f525e09b0a47c372efc3bfe",
+      "summary": "Down, the New Orleans sludge supergroup fronted by Pantera’s Philip H. Anselmo, have released “The Myth,” the second preview of their long-awaited album Volume V after this summer’s “Blood Oath.” Revolver calls it a song in several movements, moving from bluesy grooves and classic metal chugging into a high-flying proto-metal jam, with Anselmo power-growling lyrics that salute rock-and-roll heroes (“When times are tough, they count on us”). Guitarist Kirk Windstein calls it “a perfect example of a classic Down collaboration,” and Pepper Keenan describes it as “classic Down in all its hammer-fisted glory leading into a ’70s jam trip.” The lineup of Anselmo, Keenan (Corrosion of Conformity), Windstein (Crowbar), drummer Jimmy Bower and bassist Pat Bruders recorded the album at Anselmo’s home studio through 2025, and Windstein says it has the same vibe as their 1995 debut NOLA. Volume V is out Nov. 20 on Nuclear Blast, and Down will play an album-release show that weekend as part of “The Great NOLA Trendkill” at New Orleans’ Lakefront Arena on Nov. 20–21, with Pantera and Black Label Society."
+    },
+    {
+      "n": 6,
+      "headline": "American Airlines moves its Bozeman–Yellowstone nonstop from LaGuardia to JFK, adds JFK–Seattle, and cuts six routes for 2027",
+      "cat": "USA travel",
+      "source": "The Points Guy",
+      "url": "https://thepointsguy.com/news/american-airlines-route-changes-new-york-laguardia-jfk-bozeman-seattle/",
+      "image_local": "images/story-868.jpg",
+      "image_remote": "https://runway-media-production.global.ssl.fastly.net/us/originals/2026/09/american-a321.jpeg",
+      "id": "d4608593e60f9a47b2059b84bc73396ff5d6bc31",
+      "summary": "American Airlines is shuffling its New York flights for next year. Its seasonal nonstop to Bozeman, the gateway to Yellowstone, will move from LaGuardia to JFK, where it can fly four days a week on a Boeing 737-8 from June 18, 2027, instead of only on Saturdays, which is all LaGuardia’s rules allowed. American is also adding twice-daily JFK–Seattle flights on Airbus A321neos from April 6, 2027, a route it last flew in 2019. At the same time it is dropping six routes: Chicago O’Hare–Lincoln, Nebraska; Dallas–Albany, New York (summer seasonal); Miami–Tulum; Miami–Montréal; LaGuardia–Bozeman; and Phoenix–Provo, Utah. No city loses American entirely, though Lincoln, Provo and Tulum will be left with only Dallas nonstops. The airline says it is moderating growth next summer to return to steady profits as jet fuel averages $4.43 a gallon, up from $2.42 last year, because of supply disruptions from the Iran war. Travelers from the New York area will find competition from Alaska, Delta and JetBlue on both new routes, and United flies to both cities from Newark."
+    },
+    {
+      "n": 7,
       "headline": "Russia’s Putin-birthday barrage turns deadly: a missile flattens part of a Pryluky apartment block, killing at least 14, including four children",
       "cat": "World",
       "source": "Ukrainska Pravda",
@@ -13,18 +79,7 @@
       "summary": "The overnight Russian missile and drone attack that rocked Kyiv in the early hours of Wednesday hit hardest in Pryluky, a city in Ukraine’s Chernihiv Oblast, where a missile struck a five-story apartment building. Ukraine’s State Emergency Service says at least 14 people were killed there, including four children, and 50 were injured, seven of them children; 15 people, including a child, were pulled alive from the rubble and the search for others is still going on. Police first reported four dead and 20 hurt, and the toll has climbed through the morning. Among the injured is a police officer whose husband, recently back from front-line duty, and mother were both killed. Two people also died in Kyiv’s Darnytskyi district, and strikes damaged high-rise buildings in Kremenchuk and Dnipro. Ukraine’s Air Force says air defenses brought down 161 missiles and drones but hits were recorded at 18 locations, and the Energy Ministry warned of possible emergency power cuts. President Zelensky called the strike Russia’s “birthday gift” to Vladimir Putin, who turned 74 on Wednesday."
     },
     {
-      "n": 2,
-      "headline": "Tropical Storm Isaias forms in the Gulf and is forecast to hit the northern Gulf Coast as a Category 2 hurricane late Friday",
-      "cat": "Weather",
-      "source": "FOX Weather",
-      "url": "https://www.foxweather.com/weather-news/tropical-storm-isaias-gulf-coast-landfalling-atlantic-hurricane",
-      "image_local": "images/story-861.jpg",
-      "image_remote": "https://images.foxweather.com/static.foxweather.com/www.foxweather.com/content/uploads/2026/10/1024/512/5104894f-download-1.png?ve=1&tl=1",
-      "id": "cc613f7997de6bbdd5cbf5f9666d1704b6f3d55b",
-      "summary": "Tropical Depression Nine strengthened into Tropical Storm Isaias in the Bay of Campeche early Wednesday, with 40 mph winds, and forecasters expect it to intensify quickly into a dangerous Category 2 hurricane as it heads east-northeast across very warm Gulf water, the warmest on record for this time of year. It is forecast to pass north of the Yucatán Peninsula on Thursday and approach the U.S. coast on Friday, with landfall estimated late Friday or early Saturday somewhere between Biloxi, Mississippi, and Panama City, Florida. Impacts are expected to center on Louisiana, Mississippi, Alabama and the Florida Panhandle, and the Weather Prediction Center already has a Level 2 of 4 flash-flood risk for parts of the Southeast on Friday and Saturday. Florida Gov. Ron DeSantis has declared a state of emergency for 25 counties in the Panhandle and Big Bend. Isaias would be the Atlantic season’s first hurricane: September ended without one for the first time in 32 years, and it would be the first U.S. hurricane landfall since Milton in October 2024."
-    },
-    {
-      "n": 3,
+      "n": 8,
       "headline": "Trumbull posts its official Nov. 3 election warning: polling places, plus two weeks of early voting at the Trumbull Library starting Oct. 19",
       "cat": "Local / Trumbull CT",
       "source": "Town of Trumbull",
@@ -35,7 +90,7 @@
       "summary": "Town Clerk Mary Markham has posted Trumbull’s official warning for the Nov. 3 state election, along with sample ballots for each district. Polls will be open from 6 a.m. to 8 p.m. at the usual locations: Daniels Farm School (District 1), Booth Hill School (2), Tashua School (3), Madison Middle School (both District 4 precincts), Frenchtown Road School (5), Middlebrook School (both District 6 precincts) and Christian Heritage School (both District 7 precincts). Early voting runs every day from Monday, Oct. 19, through Sunday, Nov. 1, at the Trumbull Library at 33 Quality Street, from 10 a.m. to 6 p.m., with longer hours of 8 a.m. to 8 p.m. on Tuesday, Oct. 27, and Thursday, Oct. 29. Absentee ballots will also be counted at the library, and voting tabulators will be used. On the ballot are governor and lieutenant governor, U.S. senator, the congressional seat, state senator and state representative, the other statewide offices, judge of probate and registrar of voters. The notice is posted in English and Spanish."
     },
     {
-      "n": 4,
+      "n": 9,
       "headline": "Newly declassified FBI memo: Jack Smith’s prosecutors met with John Brennan to prep the Trump documents case, despite Smith telling senators he never met him",
       "cat": "Trump / MAGA",
       "source": "Fox News",
@@ -46,7 +101,7 @@
       "summary": "Records declassified by the White House on Monday show that two assistant special counsels working for Jack Smith joined FBI agents for a November 2023 meeting with former CIA Director John Brennan at CIA headquarters in McLean, Virginia, “to discuss expert testimony to National Defense Information in the forthcoming trial” against President Trump in the classified-documents case. At a Senate Judiciary Committee hearing last week, Chairman Chuck Grassley asked Smith whether he had ever received “consultation or counsel” from Brennan; Smith said he had never met Brennan and had “no recollection” of talking with him. Grassley told Fox News Digital the meeting plainly counts as consultation with Smith’s team and called Smith’s answer “highly evasive and misleading, at minimum.” The release also includes two pages of CIA-headed notes in which the lines under Brennan’s name are fully redacted. Brennan was not CIA director during the period the documents case covered, and the records do not suggest he had firsthand knowledge of it. Smith has denied that his investigations were political; his lawyers and the Justice Department did not respond to requests for comment."
     },
     {
-      "n": 5,
+      "n": 10,
       "headline": "Musk on Terafab: ‘We will build and run the fab. Let there be ZERO doubt’ — TSMC might sublease space, and Intel stays on as partner",
       "cat": "Elon Musk / Tesla",
       "source": "Yahoo Finance (Stocktwits)",
@@ -57,7 +112,7 @@
       "summary": "Elon Musk moved Wednesday to shut down talk that Taiwan’s TSMC could take over his Terafab AI chip complex in Texas. Replying on X to a post predicting TSMC would own and run it, Musk wrote: “No, we will build and run the fab. Let there be ZERO doubt about that,” adding that TSMC could perhaps sublease part of the facility “but nothing more than that.” Over the weekend he had confirmed “just discussions” with TSMC, which knocked Intel’s stock down 2.6% Monday and 3.2% Tuesday on fears it could be sidelined. Intel signed on in April as Terafab’s development partner, and CEO Lip-Bu Tan told Bloomberg ahead of an event in Tokyo that Intel will stay involved; its shares rose about 2.5% in overnight trading. Terafab, a Tesla–SpaceX venture planned for Grimes County, Texas, is meant to make chips for Musk’s companies, from Optimus robots and Cybercabs to xAI. It is one of Intel’s most visible outside wins as its foundry business tries to recover."
     },
     {
-      "n": 6,
+      "n": 11,
       "headline": "‘Crackgate’ fix: LEGO says it found why Gingy and Patrick minifigure heads are cracking and will send free replacements",
       "cat": "LEGO",
       "source": "Jay’s Brick Blog",
@@ -68,18 +123,7 @@
       "summary": "LEGO has acknowledged the “#crackgate” problem fans have been reporting, in which the heads on Gingy from the Shrek Collectible Minifigures series and Patrick from set 11386 SpongeBob SquarePants: Bikini Bottom crack or develop stress marks. Blogger Jay of Jay’s Brick Blog met with LEGO’s Quality team at the Fan Creator Summit in Billund and says the company has identified the cause and already put fixed heads into production. In a statement, LEGO said: “We are aware of a quality issue affecting some LEGO minifigure heads … we’re really sorry for the disappointment this has caused,” and said affected fans will be able to request replacements free of charge from LEGO Customer Service. There is no date yet for when requests open, so owners of a cracked Gingy or Patrick should hold on to it and watch for LEGO’s announcement. Jay says the Quality team took fan concerns about a perceived drop in quality seriously and credits the fans who reported the problem to Customer Service for getting it fixed quickly."
     },
     {
-      "n": 7,
-      "headline": "North Carolina man who used bots to stream his AI-generated songs and collect $8 million in royalties gets 18 months in prison",
-      "cat": "Tech / crime",
-      "source": "Gizmodo",
-      "url": "https://gizmodo.com/guy-who-made-millions-by-creating-ai-music-ouroboros-receives-18-month-prison-sentence-2000822638",
-      "image_local": "",
-      "image_remote": "",
-      "id": "22060f3c9ecfeedd93e9439add9285731f166ff0",
-      "summary": "Michael Smith, a 54-year-old from North Carolina who pleaded guilty in March, has been sentenced to 18 months in prison in what prosecutors call a first-of-its-kind streaming-fraud case. Starting in 2017, Smith set up thousands of automated accounts to stream his own songs nonstop on music services; he later found it more profitable to upload huge numbers of AI-generated tracks and have his bots play those instead, robots listening to robots. He was ordered to forfeit the $8,091,843.64 he collected in royalties. U.S. Attorney Jamie McDonald said Smith “robbed millions in royalty payments from genuine artists and their fans” by putting bots in place of listeners and fake songs in place of real ones. The scheme was not victimless: services like Spotify pay artists out of one big royalty pool split by share of plays, so every fake stream takes money from real musicians, especially smaller ones."
-    },
-    {
-      "n": 8,
+      "n": 12,
       "headline": "France’s Henri Kagan and Japan’s Kenso Soai win the Nobel Prize in chemistry for solving how ‘mirror-image’ molecules choose a side",
       "cat": "Science",
       "source": "NPR",
@@ -90,29 +134,7 @@
       "summary": "Henri B. Kagan of Université Paris-Sud in France and Kenso Soai of the Tokyo University of Science won the 2026 Nobel Prize in chemistry on Wednesday for discovering non-linear effects and autocatalysis in asymmetric organic synthesis. In plain terms, many molecules come in left- and right-handed mirror-image forms, and living things use almost entirely one hand. The Nobel Committee said the two scientists solved “a chemical mystery that is over a century old: how homochirality can emerge spontaneously,” showing how a small imbalance can amplify itself until one form dominates. The committee called their reactions “spectacular” and said they have been decisive for chemists designing ways to make pharmaceuticals, where the wrong mirror image of a drug can be useless or harmful. The prize is worth 12 million Swedish kronor, about $1.2 million. The literature prize comes Thursday, the peace prize Friday and economics next Monday."
     },
     {
-      "n": 9,
-      "headline": "Washington state resident charged with coaching and helping the Tumbler Ridge school shooter who killed eight in Canada",
-      "cat": "Crime / courts",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/news/us-news/us-resident-charged-helping-canadian-school-shooter-rampage-killed-8-t-rcna601965",
-      "image_local": "images/story-855.jpg",
-      "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-02/260211-british-columbia-shooting-rs-210d06.jpg",
-      "id": "174f86f0ddbc8d0c211c5579f2c312f7fc4254c4",
-      "summary": "Federal prosecutors have charged James Cody Bryant, 30, of Washington state, with conspiracy to murder persons in a foreign country over the Feb. 10 rampage in Tumbler Ridge, British Columbia, one of the deadliest shootings in Canadian history. The shooter, 18-year-old Jesse Van Rootselaar, killed her mother and 11-year-old stepbrother, then five children and a teacher at Tumbler Ridge Secondary School before dying by suicide. The Justice Department says Bryant, whom the FBI says identifies as female, had been in repeated contact with the shooter over Discord for about three years, gave advice and money, promised not to “snitch,” offered to run the livestream, and on the day of the attack helped troubleshoot the shooter’s car so the drive to the school could continue. “He had the information and ability to alert law enforcement … but chose not to,” acting U.S. Attorney Neil Floyd said. Twitch says an account that appears to be Bryant’s was the only one that saw the 20-second stream before it cut off. The charge carries up to life in prison; Bryant was arrested Tuesday and is in custody."
-    },
-    {
-      "n": 10,
-      "headline": "Trumbull boys soccer’s three-game win streak ends in a 2–1 loss at Wilton; Darien visits Friday",
-      "cat": "Local / Trumbull CT",
-      "source": "MaxPreps",
-      "url": "https://www.maxpreps.com/ct/soccer/match/trumbull-vs-wilton/10-6-2026/?c=b40fcce8-ffec-4970-ad71-8f57c45561b6",
-      "image_local": "",
-      "image_remote": "",
-      "id": "9c420d29e849a2a1f104de468f3fcdaf749a4191",
-      "summary": "Trumbull High’s boys soccer team lost 2–1 at Wilton on Tuesday evening in an FCIAC game, according to the final posted on MaxPreps. The loss snapped a three-game winning streak that included a 1–0 win at Simsbury, a 3–1 home win over McMahon and a 1–0 win at New Canaan last Friday. The Eagles are now 8–4–1 overall and 5–2–1 in the league, still third in the FCIAC standings, with 27 goals scored and 13 allowed; they remain unbeaten at home (3–0–1). Next up is a home game against Darien on Friday at 5:30 p.m., followed by a trip to Norwalk next Monday. (Tuesday’s girls volleyball match against McMahon, with Trumbull 9–0 and ranked second in the state, had no score posted yet.)"
-    },
-    {
-      "n": 11,
+      "n": 13,
       "headline": "iFixit cracks open the Apple Watch Ultra 4 and Series 12: a slightly bigger Ultra battery, but the screen still has to come off first",
       "cat": "Apple",
       "source": "9to5Mac",
@@ -123,7 +145,7 @@
       "summary": "iFixit has finished its teardowns of Apple’s September launches with the Apple Watch Ultra 4 and Series 12. The Ultra 4’s battery grows slightly, to 2.444 watt-hours from 2.313 in the Ultra 3, but replacing it still means heating and prying off the glued display, and the four screws on the back only reach the sensor assembly and the S11 chip. With no meaningful repair improvements, the Ultra 4 scores 4 out of 10, the same as its predecessor. The Series 12 does a bit better: Apple added stretch-release adhesive and a pull tab under its 1.461 watt-hour battery and swapped the display’s fiddly ZIF connector for a simpler press connector, earning a 4 out of 10, one point higher than the last base model. iFixit’s Shahram Mokhtari warned that the Series 12’s display tolerances are so tight he worried about cracking the screen, and replacing the screen now also means replacing the battery. For comparison, Google’s Pixel Watch 5 scored 9 out of 10, with a display that comes off with two Torx screws."
     },
     {
-      "n": 12,
+      "n": 14,
       "headline": "Riley Gaines tells a packed Turning Point crowd in Reno that Charlie Kirk’s legacy will carry on — and offers Lia Thomas a charity rematch",
       "cat": "Charlie Kirk / Turning Point",
       "source": "KOLO 8 News Now (Reno)",
@@ -134,7 +156,7 @@
       "summary": "Turning Point USA’s fall campus tour, “America: Love It or Leave It,” packed the Joe Crowley Student Union at the University of Nevada, Reno on Monday night, where speakers told a mostly conservative crowd of students and older adults that the late Charlie Kirk’s work will continue. Former Kentucky swimmer Riley Gaines described her disbelief and grief on learning of Kirk’s assassination and condemned people who celebrated it, while volunteers registered attendees to vote. Gaines and commentator Will Witt also weighed in on the Cornell sexual-assault controversy, with Witt calling the national uproar “selective outrage.” Asked about her race against Lia Thomas, Gaines said she would welcome a charity rematch. The tour, which also features Erika Kirk, Donald Trump Jr. and Ben Shapiro at other stops, drew only a sparse crowd for its daytime open-mic session on campus but filled the evening ticketed event. Comedian Chris D’Elia was dropped from the lineup amid new misconduct reports."
     },
     {
-      "n": 13,
+      "n": 15,
       "headline": "Matt Walsh: America’s loneliness epidemic is real, and AI ‘friends’ could make it far worse than any doomsday scenario",
       "cat": "Matt Walsh",
       "source": "The Daily Wire",
@@ -145,7 +167,7 @@
       "summary": "In a commentary adapted from his show, Matt Walsh argues that the most immediate danger from artificial intelligence isn’t a robot apocalypse but a nation of isolated people bonding with chatbots instead of each other. He cites new survey data, replicating the old Life Style surveys behind “Bowling Alone,” showing the share of Americans who host friends or family at home at least once a month has fallen from 42% in 1975 to 12% in 2026; monthly card-playing, book-reading and church attendance have each dropped by roughly 60%. About a quarter of Americans now eat every meal alone on a given day, he notes, and Japan already tracks “lonely deaths” where bodies go undiscovered for years. With U.S. birth rates about 25% below replacement, Walsh warns the same is coming here, and says AI companions that are “always available, always serve your needs” and “only care about what you want” could turn the problem into a crisis, much like the 2013 film “Her.”"
     },
     {
-      "n": 14,
+      "n": 16,
       "headline": "Bryan Rust is back at full practice, so the Penguins must cut a forward before Wednesday in Washington — and they’re putting it off",
       "cat": "Penguins hockey",
       "source": "Pittsburgh Hockey Now",
@@ -156,7 +178,7 @@
       "summary": "Penguins winger Bryan Rust practiced Tuesday as a full participant for the first time since he was hurt in the final preseason game, putting him in line to return as soon as Wednesday’s rivalry opener against the Capitals in Washington. The catch: Pittsburgh is at the 23-man roster limit, so activating Rust means someone has to go. On Tuesday the team punted, neither activating Rust nor putting anyone on waivers. The likeliest candidates are Elmer Soderblom, acquired from Detroit for a third-round pick before the 2025 trade deadline, and Filip Hallander, a former second-round pick now in his third stint with the club who missed most of last season with blood clots and a lung issue but scored in the 7–0 opener against Philadelphia; both have been healthy scratches. At practice, Hendrix Lapierre skated on the top line with Sidney Crosby and Rickard Rakell, while Rust worked on the third line with Ben Kindel and Ville Koivunen. The Penguins can still designate a player non-roster Wednesday morning if Rust is cleared."
     },
     {
-      "n": 15,
+      "n": 17,
       "headline": "Jets promote pass rusher Nate Lynn, their biggest preseason standout, after Braiden McGregor’s season-ending pec injury",
       "cat": "Jets football",
       "source": "Jets X-Factor",
@@ -167,18 +189,7 @@
       "summary": "The Jets have signed edge rusher Nate Lynn to the active roster, Jets X-Factor reports, after backup Braiden McGregor suffered a season-ending pectoral injury. Lynn, 24, out of William & Mary, didn’t even join the team until after the preseason opener, then led the Jets with six pressures and three sacks in two preseason games, an 86.5 Pro Football Focus grade that ranked seventh of 173 edge rushers with at least 30 snaps. He was still waived on cutdown day when McGregor won the final edge spot. Pass rush is exactly where the Jets need help: in the Week 4 loss in Chicago, their edge rushers managed only four pressures combined, three of them by Will McDonald. Lynn has posted an 18.4% pressure rate across three NFL preseasons and now gets his first regular-season shot, though he’ll also have to hold up against the run as the third edge-setter behind Joseph Ossai and Kingsley Enagbare."
     },
     {
-      "n": 16,
-      "headline": "Death Angel founding bassist Dennis Pepa reveals he is fighting stage 4 cancer and asks fans for help",
-      "cat": "Heavy metal",
-      "source": "Blabbermouth",
-      "url": "https://blabbermouth.net/news/death-angels-founding-bassist-dennis-pepa-is-battling-stage-four-cancer",
-      "image_local": "images/story-853.jpg",
-      "image_remote": "https://assets.blabbermouth.net/media/dennispepagofundoct2026_638.jpg",
-      "id": "763a016dfd4a0d8b32b7d359008bc99f6d81b82a",
-      "summary": "Dennis Pepa, founding bassist of the Bay Area thrash band Death Angel, is battling stage 4 duodenal cancer, a rare and generally aggressive cancer of the small intestine, and has launched a GoFundMe to pay for treatment. Pepa, who played on the band’s classic early records, wrote that he was diagnosed in February 2026 after already losing his job of almost 20 years, leaving his family scrambling to pay for care while keeping up with everyday bills. He is hoping to pursue dendritic cell immunotherapy at the Immunocine Cancer Center in Mexico, which uses a patient’s own immune cells and tumor material, and has set a $150,000 goal to cover the treatment, about six weeks of living costs there, and support for his family at home. “$150k sounds huge,” he wrote, “but it takes a village, and every cent counts.”"
-    },
-    {
-      "n": 17,
+      "n": 18,
       "headline": "A new Canon patent shows a ‘big white’ telephoto with a slot for a drop-in 1.4x teleconverter",
       "cat": "Canon / Photography",
       "source": "Canon Rumors",
@@ -189,7 +200,7 @@
       "summary": "A Canon patent spotted by Canon Rumors describes a telephoto lens built around a 100–300mm f/2.8 design with an empty space where a 1.4x teleconverter can be dropped in, adding reach without making the lens longer or changing how it balances in the hand. The converter sits toward the rear of the lens, where the light path has narrowed, so its glass can be smaller than it would be farther forward. The site suggests the approach could let Canon offer a long super-telephoto zoom, something like a 300–600mm, at a lower price than lenses with a built-in extender, with the drop-in converter sold separately to those who want it. As with most patents, there is no sign yet of a product or a date."
     },
     {
-      "n": 18,
+      "n": 19,
       "headline": "Jeep is now the ‘Official 4x4 of Moab’ under a two-year deal funding trail work and town events",
       "cat": "Jeep",
       "source": "Mopar Insiders",
@@ -200,7 +211,7 @@
       "summary": "The City of Moab, Utah, has named Jeep its Official 4×4 in a two-year partnership that formalizes one of the off-road world’s best-known relationships. Jeep will provide annual funding for local programs, community events and trail maintenance. The first big project comes at the 2027 Easter Jeep Safari, when Jeep, the Red Rock 4-Wheelers, the Bureau of Land Management’s Moab Field Office and Tread Lightly! will do stewardship work along the Chicken Corners trail corridor. Jeep will also back the Red Rock Arts Festival and Moab’s upcoming 125th anniversary. “Moab is more than a destination. It’s an integral part of the Jeep brand story,” said Jeep CEO Branden Coté. Jeep has long tested vehicles and shown concepts there, and the Moab name has appeared on Wranglers, including the Hemi-powered Wrangler Moab 392, and will appear on the new Recon."
     },
     {
-      "n": 19,
+      "n": 20,
       "headline": "Harley spinoff LiveWire’s S4 Honcho Street becomes an approved bike for Motorcycle Safety Foundation rider courses",
       "cat": "Harley-Davidson",
       "source": "Powersports Business",
@@ -209,17 +220,6 @@
       "image_remote": "https://powersportsbusiness.com/wp-content/uploads/2026/10/LW_S4_Honcho_Street_MSF3.png",
       "id": "20c61b5aa5a22a9fabbbec4630ef218177ba7c8f",
       "summary": "LiveWire, Harley-Davidson’s electric motorcycle brand, says its S4 Honcho Street meets the Motorcycle Safety Foundation’s criteria for use in rider-training programs, meeting all three main requirements for power output, weight and seat height. The bike weighs 266 pounds, has a seat under 30 inches and has no clutch or gears to shift, which LiveWire argues removes hurdles for beginners. The company already partnered in July 2025 with Bartels’ Harley-Davidson Riding Academy in Marina del Rey, California, the first U.S. new-rider program to offer certified training on its S2 bikes. “The next generation of riders is coming up on e-bikes and electric vehicles,” said LiveWire’s Jon Bekefy, calling an electric motorcycle “a more natural first step into motorcycling.”"
-    },
-    {
-      "n": 20,
-      "headline": "United and Delta will both start nonstops next summer to Flagstaff, the closest airport to the Grand Canyon and Sedona",
-      "cat": "USA travel",
-      "source": "The Points Guy",
-      "url": "https://thepointsguy.com/news/united-new-flights-arizona-grand-canyon-sedona/",
-      "image_local": "images/story-846.jpg",
-      "image_remote": "https://runway-media-production.global.ssl.fastly.net/us/originals/2024/06/Red-Rock-mountains-in-Sedona-Arizona-Southwestern-United-States_DOUGBERRY.jpg",
-      "id": "fb78315238c43868c1c2805b816dcf3c5acd2378",
-      "summary": "Flagstaff Pulliam Airport in Arizona is getting two new airlines in 2027. United will fly twice daily from Denver starting Aug. 10, 2027, less than 48 hours after Delta announced twice-daily nonstops from Salt Lake City starting June 7. Both will use Bombardier CRJ-550s with 10 first-class seats, 20 extra-legroom economy seats and 20 regular economy seats. Flagstaff sits a little over two hours north of Phoenix and is the most convenient airport for Grand Canyon National Park and Sedona. American Airlines has long had the airport to itself, flying from Phoenix for decades and from Dallas-Fort Worth since 2018. United flew Denver–Flagstaff from 2019 through 2022, and the airport recently got an $800,000 federal grant to attract new service to Denver or Salt Lake City."
     }
   ]
 }
