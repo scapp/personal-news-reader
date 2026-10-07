@@ -923,7 +923,15 @@
     "6e215672cc0f8bfdf470162504f9fdadf7206f26",
     "a133d5ffb1dc041d635b3a93ddfc94b2b2a69e6f",
     "763a016dfd4a0d8b32b7d359008bc99f6d81b82a",
-    "5225f7ebaaa98d2da0ff360d85656893d71cefd4"
+    "5225f7ebaaa98d2da0ff360d85656893d71cefd4",
+    "174f86f0ddbc8d0c211c5579f2c312f7fc4254c4",
+    "a6b7fda129bf5dde4aa124d0376c3e611703c6bc",
+    "9c420d29e849a2a1f104de468f3fcdaf749a4191",
+    "14f7dbe4f4c719b62f8b341acd11fc50bdb85f3e",
+    "b00aff49e5ae1684e3f4387fdb659c9216dd9048",
+    "a59fa99407af81ca7d246928ca60be2655016828",
+    "f8cfa56e1aded792868d1250924f55a3de550f84",
+    "1ff5bca2dbf6dd081b219c75be08e311fc1bf535"
   ],
   "stories": {
     "0c2ac7a5e342411678296315c4c59043b1f067cc": {
@@ -11521,7 +11529,87 @@
       "image_remote": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/06/6f21661f-a163-4cd4-bbd9-69116d4e757e/thumbnail/1200x630g7/0bf5e4eb9e2c97f788cd26ece43a9e60/92l-spaghetti-map-gulf.jpg",
       "image_local": "images/story-854.jpg",
       "id": "5225f7ebaaa98d2da0ff360d85656893d71cefd4"
+    },
+    "174f86f0ddbc8d0c211c5579f2c312f7fc4254c4": {
+      "headline": "Washington state resident charged with coaching and helping the Tumbler Ridge school shooter who killed eight in Canada",
+      "cat": "Crime / courts",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/news/us-news/us-resident-charged-helping-canadian-school-shooter-rampage-killed-8-t-rcna601965",
+      "summary": "Federal prosecutors have charged James Cody Bryant, 30, of Washington state, with conspiracy to murder persons in a foreign country over the Feb. 10 rampage in Tumbler Ridge, British Columbia, one of the deadliest shootings in Canadian history. The shooter, 18-year-old Jesse Van Rootselaar, killed her mother and 11-year-old stepbrother, then five children and a teacher at Tumbler Ridge Secondary School before dying by suicide. The Justice Department says Bryant, whom the FBI says identifies as female, had been in repeated contact with the shooter over Discord for about three years, gave advice and money, promised not to “snitch,” offered to run the livestream, and on the day of the attack helped troubleshoot the shooter’s car so the drive to the school could continue. “He had the information and ability to alert law enforcement … but chose not to,” acting U.S. Attorney Neil Floyd said. Twitch says an account that appears to be Bryant’s was the only one that saw the 20-second stream before it cut off. The charge carries up to life in prison; Bryant was arrested Tuesday and is in custody.",
+      "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-02/260211-british-columbia-shooting-rs-210d06.jpg",
+      "image_local": "images/story-855.jpg",
+      "id": "174f86f0ddbc8d0c211c5579f2c312f7fc4254c4"
+    },
+    "a6b7fda129bf5dde4aa124d0376c3e611703c6bc": {
+      "headline": "Zelensky’s warning comes true: Russia hits Kyiv with a mass missile and drone attack overnight, on Putin’s 74th birthday",
+      "cat": "World",
+      "source": "Kyiv Independent",
+      "url": "https://kyivindependent.com/russia-slams-kyiv-in-mass-missile-drone-attack-on-putins-74th-birthday/",
+      "summary": "Hours after President Volodymyr Zelensky warned Ukrainians that Russia was preparing a large-scale strike and pleaded with them to take air-raid alerts seriously, explosions rocked Kyiv around 3:15 a.m. local time Wednesday (about 8:15 p.m. Tuesday Eastern). Ukraine’s Air Force had reported Russian Tu-95 strategic bombers approaching the border, and Kyiv Independent reporters counted 10 to 12 blasts in quick succession, with flames and smoke visible around the Podil district. Mayor Vitali Klitschko said a non-residential area in the Obolon district was struck and warehouses were hit, while missile debris burned in the Shevchenkivskyi and Darnytskyi districts. An earlier wave of drones had triggered a nearly hour-long air-raid alert in the evening. The barrage coincides with Vladimir Putin’s 74th birthday and follows a strike the night before that damaged cars, as Russia keeps targeting the capital’s key bridges. Casualty figures were not yet available.",
+      "image_remote": "",
+      "image_local": "",
+      "id": "a6b7fda129bf5dde4aa124d0376c3e611703c6bc"
+    },
+    "9c420d29e849a2a1f104de468f3fcdaf749a4191": {
+      "headline": "Trumbull boys soccer’s three-game win streak ends in a 2–1 loss at Wilton; Darien visits Friday",
+      "cat": "Local / Trumbull CT",
+      "source": "MaxPreps",
+      "url": "https://www.maxpreps.com/ct/soccer/match/trumbull-vs-wilton/10-6-2026/?c=b40fcce8-ffec-4970-ad71-8f57c45561b6",
+      "summary": "Trumbull High’s boys soccer team lost 2–1 at Wilton on Tuesday evening in an FCIAC game, according to the final posted on MaxPreps. The loss snapped a three-game winning streak that included a 1–0 win at Simsbury, a 3–1 home win over McMahon and a 1–0 win at New Canaan last Friday. The Eagles are now 8–4–1 overall and 5–2–1 in the league, still third in the FCIAC standings, with 27 goals scored and 13 allowed; they remain unbeaten at home (3–0–1). Next up is a home game against Darien on Friday at 5:30 p.m., followed by a trip to Norwalk next Monday. (Tuesday’s girls volleyball match against McMahon, with Trumbull 9–0 and ranked second in the state, had no score posted yet.)",
+      "image_remote": "",
+      "image_local": "",
+      "id": "9c420d29e849a2a1f104de468f3fcdaf749a4191"
+    },
+    "14f7dbe4f4c719b62f8b341acd11fc50bdb85f3e": {
+      "headline": "iFixit cracks open the Apple Watch Ultra 4 and Series 12: a slightly bigger Ultra battery, but the screen still has to come off first",
+      "cat": "Apple",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/10/06/ifixit-tears-down-apple-watch-series-12-and-ultra-4-finds-mixed-repairability-results/",
+      "summary": "iFixit has finished its teardowns of Apple’s September launches with the Apple Watch Ultra 4 and Series 12. The Ultra 4’s battery grows slightly, to 2.444 watt-hours from 2.313 in the Ultra 3, but replacing it still means heating and prying off the glued display, and the four screws on the back only reach the sensor assembly and the S11 chip. With no meaningful repair improvements, the Ultra 4 scores 4 out of 10, the same as its predecessor. The Series 12 does a bit better: Apple added stretch-release adhesive and a pull tab under its 1.461 watt-hour battery and swapped the display’s fiddly ZIF connector for a simpler press connector, earning a 4 out of 10, one point higher than the last base model. iFixit’s Shahram Mokhtari warned that the Series 12’s display tolerances are so tight he worried about cracking the screen, and replacing the screen now also means replacing the battery. For comparison, Google’s Pixel Watch 5 scored 9 out of 10, with a display that comes off with two Torx screws.",
+      "image_remote": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/ifixit-teardown-watch-12-ultra-4.jpg?quality=82&strip=all&resize=1200,628",
+      "image_local": "images/story-856.jpg",
+      "id": "14f7dbe4f4c719b62f8b341acd11fc50bdb85f3e"
+    },
+    "b00aff49e5ae1684e3f4387fdb659c9216dd9048": {
+      "headline": "Riley Gaines tells a packed Turning Point crowd in Reno that Charlie Kirk’s legacy will carry on — and offers Lia Thomas a charity rematch",
+      "cat": "Charlie Kirk / Turning Point",
+      "source": "KOLO 8 News Now (Reno)",
+      "url": "https://www.kolotv.com/2026/10/06/riley-gaines-turning-point-usa-activists-bring-america-love-it-or-leave-it-tour-unr/",
+      "summary": "Turning Point USA’s fall campus tour, “America: Love It or Leave It,” packed the Joe Crowley Student Union at the University of Nevada, Reno on Monday night, where speakers told a mostly conservative crowd of students and older adults that the late Charlie Kirk’s work will continue. Former Kentucky swimmer Riley Gaines described her disbelief and grief on learning of Kirk’s assassination and condemned people who celebrated it, while volunteers registered attendees to vote. Gaines and commentator Will Witt also weighed in on the Cornell sexual-assault controversy, with Witt calling the national uproar “selective outrage.” Asked about her race against Lia Thomas, Gaines said she would welcome a charity rematch. The tour, which also features Erika Kirk, Donald Trump Jr. and Ben Shapiro at other stops, drew only a sparse crowd for its daytime open-mic session on campus but filled the evening ticketed event. Comedian Chris D’Elia was dropped from the lineup amid new misconduct reports.",
+      "image_remote": "https://gray-kolo-prod.gtv-cdn.com/resizer/v2/OH4BUL7MEVFVNF53B2OD6IGHHE.png?auth=8b187ac6f11e4304bfdae2a3625428d4a501b379bb03d925e7f6a27e9448b5c1&width=1200&height=600&smart=true",
+      "image_local": "images/story-857.jpg",
+      "id": "b00aff49e5ae1684e3f4387fdb659c9216dd9048"
+    },
+    "a59fa99407af81ca7d246928ca60be2655016828": {
+      "headline": "Xbox reportedly lands exclusive streaming rights to GTA 6, so PC and phone players can play it at launch on Nov. 19",
+      "cat": "Gaming / tech",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/xbox-lands-exclusive-streaming-rights-for-gta-6-at-launch-2000741146",
+      "summary": "Microsoft has reportedly secured exclusive cloud-streaming rights to Grand Theft Auto VI at launch, Xbox chief Asha Sharma told employees at an all-hands meeting Tuesday, according to The Verge. In practice, that means Xbox Cloud Gaming will be the only service able to stream the game when it comes out Nov. 19, and it gives PC players a way in even though Rockstar still hasn’t announced a PC version; anyone with a phone, tablet or handheld that runs Xbox’s cloud app could stream it too. How long the exclusivity lasts is unclear. The timing lines up with big changes to Xbox’s cloud service in November: monthly streaming caps of 15 hours for Game Pass Ultimate, 10 for Premium and five for Essential, plus a new pay-as-you-go option that lets players buy bundles of streaming hours without a Game Pass subscription. Sharma also said the next-generation Xbox, Project Helix, will be a “family of devices,” some built with partners.",
+      "image_remote": "https://kotaku.com/app/uploads/2026/09/Jason_and_Lucia_03.15z--1200x675.jpg",
+      "image_local": "images/story-858.jpg",
+      "id": "a59fa99407af81ca7d246928ca60be2655016828"
+    },
+    "f8cfa56e1aded792868d1250924f55a3de550f84": {
+      "headline": "Ebola reaches Kenya: a man who flew home to Nairobi from Congo by way of Uganda is the country’s first case and first death",
+      "cat": "World / health",
+      "source": "PBS NewsHour (AP)",
+      "url": "https://www.pbs.org/newshour/health/man-living-in-congo-who-went-back-to-kenya-is-countrys-1st-confirmed-ebola-case-and-death",
+      "summary": "Kenya has recorded its first-ever Ebola case and death. Health Minister Aden Duale said a Kenyan citizen who had lived in Congo for seven years fell ill about a month ago, was treated at several hospitals, then traveled by road to Kampala, Uganda, and boarded a flight to Nairobi, arriving Saturday afternoon. He tested positive at Nairobi Hospital and died late Monday. Twenty-eight contacts, including family members and the health workers who treated him, are being traced, and Kenya’s border points are on high alert. The outbreak, declared in eastern Congo in mid-May, has grown to at least 8,400 cases and more than 4,000 deaths, making it the fastest-growing Ebola outbreak on record. Kenya is the fourth country to log a case, after Congo, Uganda (20 cases) and France (one). Kenya also hosts a U.S.-funded isolation center where exposed Americans quarantine for 21 days before flying home, a facility that has drawn lawsuits and deadly local protests.",
+      "image_remote": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-06T112952Z_2137920549_RC2LXNAD55EU_RTRMADP_3_KENYA-EBOLA-1024x658.jpg",
+      "image_local": "images/story-859.jpg",
+      "id": "f8cfa56e1aded792868d1250924f55a3de550f84"
+    },
+    "1ff5bca2dbf6dd081b219c75be08e311fc1bf535": {
+      "headline": "Seeing a surprise $90 deposit from Social Security? It’s a one-time Medicare rebate — and about 40 million enrollees won’t get one",
+      "cat": "Money / Medicare",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/90-social-security-check-medicare-seniors/",
+      "summary": "Millions of seniors are spotting $90 deposits from the Social Security Administration this week. The money is the one-time Medicare payment President Trump announced Friday to help offset rising costs, paid from the Medicare Improvement Fund that Congress set up to support traditional Medicare. It goes to roughly 20 million Part B enrollees in traditional Medicare who don’t pay the higher income-related premium and don’t get Medicaid help with premiums; people in Medicare Advantage are not eligible, which leaves about 40 million of Part B’s 62.9 million enrollees out. Most will get it by direct deposit on or around Oct. 8, and some reported pending deposits Tuesday; others will receive a Treasury paper check later in October labeled “Medicare Improvement Fund Payment; $90 Payment to Offset October Premium.” Experts say it helps but won’t cover the increases: Part B premiums rose more than $200 a year in 2026 and are projected to climb nearly $80 more in 2027.",
+      "image_remote": "",
+      "image_local": "",
+      "id": "1ff5bca2dbf6dd081b219c75be08e311fc1bf535"
     }
   },
-  "updated": "Tuesday, October 6, 2026 · 6:00 PM ET"
+  "updated": "Tuesday, October 6, 2026 · 10:00 PM ET"
 }
