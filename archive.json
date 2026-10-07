@@ -945,7 +945,20 @@
     "70669acbf181ca9f5a11f33f5af8936daf5a83d7",
     "54f048c772f538e68a43c23828f9707b80c9dd57",
     "edfae4bc531685f03f525e09b0a47c372efc3bfe",
-    "d4608593e60f9a47b2059b84bc73396ff5d6bc31"
+    "d4608593e60f9a47b2059b84bc73396ff5d6bc31",
+    "8eca03fb05a8def78a6f64a3f45c84c551922195",
+    "98786b73fc796b57473d26777b16a7493635b720",
+    "e0fcc7edd52bd14b469ecb6c5bf5cebd3c53e11d",
+    "59fd926985dabeca854eb046ba827ef6338b9c45",
+    "c6b4eb334767b64a3bf4d7b7bcec145112c33940",
+    "c0c6369aa4987d5f3ce41ab1145c1ee7dd30d001",
+    "19197f4f820f870ede089845188134946fa1ded8",
+    "333098f1b7de48db63bc3c268faf5f8b9e324314",
+    "aee595334db33564d64881dcfacf549a0a0b2537",
+    "26f5db096aa6a2195c3d3b60be2b1c825b930414",
+    "15ca5ef5f79e827c0a1ecf1ddc3e87a8deeee0e2",
+    "4a1706e8a57693284ca09007bb360cdcce5026ff",
+    "a7e1b5cb6a4e61b791c5a98d50b6755327680ebb"
   ],
   "stories": {
     "0c2ac7a5e342411678296315c4c59043b1f067cc": {
@@ -11763,7 +11776,137 @@
       "image_remote": "https://runway-media-production.global.ssl.fastly.net/us/originals/2026/09/american-a321.jpeg",
       "image_local": "images/story-868.jpg",
       "id": "d4608593e60f9a47b2059b84bc73396ff5d6bc31"
+    },
+    "8eca03fb05a8def78a6f64a3f45c84c551922195": {
+      "headline": "FBI stops an alleged ISIS-inspired plot to shoot up Mall of America: an 18-year-old was arrested buying an AK-47 for an Oct. 24 attack",
+      "cat": "Crime / national security",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/doj-fbi-minnesota-counterterrorism-action/",
+      "summary": "Federal prosecutors in Minnesota say an 18-year-old Twin Cities man, Sheikhdoon Abdullahi Mohamud, a U.S. citizen, planned to carry out a mass shooting at Mall of America later this month and was arrested at gunpoint on Tuesday in a Richfield park, moments after he left an undercover agent’s car with a Norinco AK-47-style rifle, four magazines and about 200 rounds. According to the criminal complaint filed Wednesday, an FBI informant traded hundreds of messages with him starting in December 2024. Mohamud allegedly said he wanted to join al-Shabaab in Somalia, and when he could not afford the trip, said he would attack in the United States instead, “for the sake of Allah only.” He allegedly picked the mall “because it’s owned by Jewish,” named the Hmong Arts Celebration on Oct. 24 because “it will be a lot of people,” cited the Pulse nightclub massacre and last year’s Bondi Beach attack as inspiration, and sent a video on Discord pledging allegiance to ISIS. U.S. Attorney Daniel Rosen said the defendant talked of killing “maybe 30 to 60 people,” and that the FBI had tried to warn his parents in May 2025 but was rebuffed. He is charged with receiving a firearm and ammunition to commit a federal crime of terrorism.",
+      "image_remote": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/07/758c0144-2e56-48ef-b282-f16d3e0a42e0/thumbnail/1200x630/e447e1fc4fb20c9e7905f4100f19a64e/rosen.jpg",
+      "image_local": "images/story-869.jpg",
+      "id": "8eca03fb05a8def78a6f64a3f45c84c551922195"
+    },
+    "98786b73fc796b57473d26777b16a7493635b720": {
+      "headline": "Meet your Trumbull candidates: Patch Q&As with Sen. Sujata Gadkar-Wilcox and challenger Scott Modlin for the 22nd Senate District, plus Bill Mecca for the 123rd House seat",
+      "cat": "Local / Trumbull CT",
+      "source": "Patch",
+      "url": "https://patch.com/connecticut/trumbull/ct-patch-candidate-profile-sujata-gadkar-wilcox-state-senate",
+      "summary": "Patch Trumbull posted candidate questionnaires on Wednesday for races on the town’s Nov. 3 ballot. In the 22nd State Senate District, Democrat Sujata Gadkar-Wilcox, 47, a Quinnipiac University legal studies professor and former Trumbull Ethics Commission member finishing her first term, calls education quality the state’s No. 1 issue and points to the 2025 energy affordability law, more oversight of Eversource and United Illuminating, and the Child Tax Credit she helped pass. Her opponent, Scott Modlin, 56, a public adjuster running on the Republican and Independent lines (Patch lists “R&I”), names affordability as the top issue, wants to eliminate the personal property tax, proposes burying power lines, and promises that if he does not reach most of his goals in two years he will not run again. For the 123rd House District, Democrat Bill Mecca, 56, a social worker on the Town Council since 2015 and past president of the Nichols Improvement Association, wants the state to fix the Education Cost Sharing formula so suburban towns lean less on property taxes, end unfunded mandates, and press regulators harder on utility spending. Early voting runs Oct. 19 to Nov. 1 at the Trumbull Library.",
+      "image_remote": "",
+      "image_local": "",
+      "id": "98786b73fc796b57473d26777b16a7493635b720"
+    },
+    "e0fcc7edd52bd14b469ecb6c5bf5cebd3c53e11d": {
+      "headline": "Judge orders Tennessee to preserve every piece of evidence from Christa Pike’s failed execution; her lawyers say she now has pneumonia and cannot move her arms",
+      "cat": "Crime / courts",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/10/07/nx-s1-5993628/judge-orders-that-christa-pike-execution-evidence-be-preserved",
+      "summary": "A Davidson County Chancery Court judge in Nashville on Wednesday ordered Tennessee prison officials to preserve all evidence from last week’s botched lethal injection of Christa Pike — log books, medical waste, and every message sent or received by officials connected to the attempt. “Anything in the actual room needs to be preserved and maintained,” Judge I’Ashea Myles said. She also gave Pike’s lawyers “liberal access” to her, with the prison required to answer visit requests within two hours. Pike was given two doses of pentobarbital on Sept. 30 and survived; her attorneys say that after days unconscious she is awake and speaking but still in critical care, and NBC and CBS report they say she has pneumonia and no function in her arms. Since the failed attempt, Tennessee’s prison chief Frank Strada has resigned and Gov. Bill Lee has halted executions through the end of the year and ordered an independent review. The state told the court that whether to set a new execution date is up to the Tennessee Supreme Court; Pike’s lawyers called a second attempt “unconscionable.”",
+      "image_remote": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3959x2227+0+41/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F04%2F44%2Ffa719b234310a4364d8e8132d9c4%2Fap26280607293621.jpg",
+      "image_local": "images/story-870.jpg",
+      "id": "e0fcc7edd52bd14b469ecb6c5bf5cebd3c53e11d"
+    },
+    "59fd926985dabeca854eb046ba827ef6338b9c45": {
+      "headline": "No waiver casualty: Penguins trade Filip Hallander to Edmonton for defenseman Spencer Stastney, and Kuzmenko gets non-roster status, clearing room for Bryan Rust",
+      "cat": "Penguins hockey",
+      "source": "Pittsburgh Hockey Now",
+      "url": "https://pittsburghhockeynow.com/pittsburgh-penguins-trade-filip-hallander-edm-nhl-grants-andrei-kuzmenko-non-roster-status/",
+      "summary": "The Penguins solved their roster crunch on Wednesday without exposing anyone on waivers. Pittsburgh sent forward Filip Hallander, who had a goal and two assists in two games, to the Edmonton Oilers for left-shot defenseman Spencer Stastney, 26, who is signed through this season at $1.525 million. Stastney set career highs last season with 10 points and 63 blocked shots in 66 games split between Nashville and Edmonton and was part of the Predators’ fifth-ranked penalty kill. Separately, the NHL granted forward Andrei Kuzmenko non-roster status after he returned from Russia, where his father was killed in a bear attack; coach Dan Muse said Kuzmenko is with the team on the trip and skating but will not play. That opens a spot for Bryan Rust, who Muse called a game-time decision for tonight’s 7:30 p.m. game in Washington. If he plays, Rust is expected to skate on a line with Ben Kindel and Ville Koivunen.",
+      "image_remote": "https://platform.pensburgh.com/wp-content/uploads/sites/123/2026/10/gettyimages-2267132967.jpg?quality=90&strip=all&w=1200",
+      "image_local": "images/story-871.jpg",
+      "id": "59fd926985dabeca854eb046ba827ef6338b9c45"
+    },
+    "c6b4eb334767b64a3bf4d7b7bcec145112c33940": {
+      "headline": "Jets open Tim Patrick’s 21-day return window and get Kingsley Enagbare and Mason Taylor back at practice before the Browns game",
+      "cat": "Jets football",
+      "source": "Heavy",
+      "url": "https://heavy.com/sports/nfl/new-york-jets/cleveland-browns-good-news-2026/",
+      "summary": "Head coach Aaron Glenn delivered some good news on Wednesday as the Jets began preparing for Sunday’s Week 5 home game against Cleveland at MetLife Stadium. Veteran wide receiver Tim Patrick, on injured reserve since a groin injury in the first week of regular-season practice, has been designated to return, giving the Jets 21 days to add him to the active roster. Pass rusher Kingsley Enagbare (knee), who was ruled out 90 minutes before last week’s kickoff, and tight end Mason Taylor (thumb) also returned to practice. The help is needed: Garrett Wilson, Isaiah Williams, Malik McClain and Jamaal Pritchett are the only healthy receivers on the 53-man roster, with Omar Cooper Jr. on IR and Adonai Mitchell, running back Breece Hall and lineman Dylan Parham all listed by Glenn as week-to-week. Cornerback Jarvis Brownlee Jr. remains in the concussion protocol. Patrick, 32, has 191 catches for 2,590 yards and 18 touchdowns in 87 career games and is valued as a run blocker.",
+      "image_remote": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/jets/w8oumy3x339bjpjz6baf",
+      "image_local": "images/story-872.jpg",
+      "id": "c6b4eb334767b64a3bf4d7b7bcec145112c33940"
+    },
+    "c0c6369aa4987d5f3ce41ab1145c1ee7dd30d001": {
+      "headline": "Some Apple Watch Series 12 and Ultra 4 owners report burning and redness under the sensor — and wonder if the new 5-second heart-rate checks are to blame",
+      "cat": "Apple",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/07/apple-watch-series-12-skin-irritation/",
+      "summary": "A growing number of owners of Apple’s new Apple Watch Series 12 and Apple Watch Ultra 4 say the watches are irritating their skin, according to reports on the MacRumors forums and Reddit. The complaints describe a burning sensation and redness right under the sensor area. Both models now measure heart rate every five seconds and have a larger ECG electrode surface, a ring of photodiodes and bigger green LEDs, and some users suspect the more frequent readings, though no cause has been confirmed and wrist irritation complaints go back to the original Apple Watch. Apple’s guidance blames bands worn too tight or too loose and trapped soap, sweat, sunscreen or lotion, notes trace nickel and acrylates kept away from the skin, and recommends keeping the watch and band clean and dry. Some owners say the problem faded after an adjustment period or a cleaning; others have returned their watches. Apple advises anyone with redness, swelling or itching to see a doctor before wearing the watch again.",
+      "image_remote": "https://images.macrumors.com/t/L4PasgALQl8uSCDBpWQXQYBi9Cc=/1600x/article-new/2026/09/apple-watch-s12-ultra-4.jpg",
+      "image_local": "images/story-873.jpg",
+      "id": "c0c6369aa4987d5f3ce41ab1145c1ee7dd30d001"
+    },
+    "19197f4f820f870ede089845188134946fa1ded8": {
+      "headline": "Aerosmith come out of retirement for two nights at the Hollywood Bowl, with Slash, Sammy Hagar, Heart, Billy Idol, Run DMC and more on the bill",
+      "cat": "Classic rock / Heavy metal",
+      "source": "Blabbermouth",
+      "url": "https://blabbermouth.net/news/its-official-aerosmith-to-return-to-live-stage-for-two-exclusive-nights-only-at-hollywood-bowl",
+      "summary": "Two years after Aerosmith quit touring because of Steven Tyler’s fractured larynx, the band will play live again. “California, Dream On: Aerosmith & Friends” takes over the Hollywood Bowl in Los Angeles on Oct. 29 and Nov. 1, with Don Was as music director and a rotating lineup that includes the Black Crowes, Run DMC, Heart, Billy Idol, Slash and Duff McKagan of Guns N’ Roses, Sammy Hagar, Jerry Cantrell and Mike Inez of Alice in Chains, Nuno Bettencourt, Sully Erna, Tom Morello, Steve Stevens, Chad Smith and Eric Church, with more guests still to be announced. Citi cardmember presales start Thursday at 10 a.m. Pacific, and the general on-sale is Saturday, Oct. 10, at 10 a.m. Pacific, with VIP packages offered. The band’s Peace Out farewell tour stopped after a Sept. 9, 2023, show in Elmont, N.Y., when Tyler was injured, and retirement from the road was announced in August 2024. As recently as April, Joe Perry said the band was “not in touring mode, but there are certainly other options.”",
+      "image_remote": "https://assets.blabbermouth.net/media/aerosmithoct2026_638.jpg",
+      "image_local": "images/story-874.jpg",
+      "id": "19197f4f820f870ede089845188134946fa1ded8"
+    },
+    "333098f1b7de48db63bc3c268faf5f8b9e324314": {
+      "headline": "Zakk Wylde’s Wylde Audio launches its first acoustic guitars: a Grand Auditorium in Ash Burst Satin now, and a Norse Dragon Bullseye version next spring",
+      "cat": "Guitar",
+      "source": "Blabbermouth",
+      "url": "https://blabbermouth.net/news/zakk-wylde-introduces-first-ever-wylde-audio-acoustic-guitars",
+      "summary": "More than a decade after Black Label Society and Ozzy Osbourne guitarist Zakk Wylde started his own Wylde Audio brand of guitars and amps, the company has released its first acoustic models. The Wylde Audio Grand Auditorium Acoustic in Ash Burst Satin went on sale Oct. 6 through select dealers and online at SchecterGuitars.com and WyldeAudio.com; a second version with Wylde’s Norse Dragon Bullseye graphic follows in spring 2027. The guitars pair striking tops with mahogany back and sides, pearloid Rune inlays on a rosewood fingerboard, and a thin “C” mahogany neck with a 25.5-inch scale, 16-inch radius and 20 narrow jumbo frets. Cream-and-black binding, satin black hardware and Grover tuners finish the look, and a Wylde Audio Pro EQ preamp with a built-in tuner and piezo pickup handles the stage. Wylde, who formed Black Label Society in 1998, played on every Ozzy solo album from “No Rest for the Wicked” on except 2020’s “Ordinary Man.”",
+      "image_remote": "https://assets.blabbermouth.net/media/zakkwyldeacousticoct2026_638.jpg",
+      "image_local": "images/story-875.jpg",
+      "id": "333098f1b7de48db63bc3c268faf5f8b9e324314"
+    },
+    "aee595334db33564d64881dcfacf549a0a0b2537": {
+      "headline": "Still ticking at 715,000 miles: a Southern California rideshare driver’s 2017 Kia Sorento is still running on its original V6",
+      "cat": "Auto reliability",
+      "source": "The Drive",
+      "url": "https://www.thedrive.com/news/this-2017-kia-sorento-is-still-running-the-stock-v6-at-715000-miles-whats-your-excuse",
+      "summary": "The third-generation Kia Sorento is better known for engine failures and oil burning than longevity, but Arthur Rutaquio’s 2017 example has passed 715,000 miles on its factory 3.3-liter Lambda V6. Rutaquio drives rideshare between San Diego and LAX daily and has also taken the SUV cross-country to Orlando and back. His answer to how: “Maintenance.” An independent mechanic friend does all the work — Rutaquio says he never takes it to a dealer because of “trust issues.” Oil is changed every 10,000 miles, never cheaper than Valvoline extended-life, and Royal Purple or Amsoil with Lucas stabilizer when he can afford it. The original transmission failed around 580,000 miles and was replaced, the front suspension is rebuilt every 200,000 to 250,000 miles and the rear every 100,000 to 150,000, and the car has gone through two alternators, a starter, a water pump, a throttle body, injectors and several oil-pressure sensors. The Drive notes the V6 avoids the problems of Kia’s troubled Theta II turbo four. His goal now is one million miles.",
+      "image_remote": "https://www.thedrive.com/wp-content/uploads/2026/10/High-Mile-Sorento-Hero.jpeg?w=1200",
+      "image_local": "images/story-876.jpg",
+      "id": "aee595334db33564d64881dcfacf549a0a0b2537"
+    },
+    "26f5db096aa6a2195c3d3b60be2b1c825b930414": {
+      "headline": "Microsoft’s Surface Laptop Ultra is a $2,599 Nvidia-powered ‘builder-class’ PC that it says beats a MacBook Pro M5 Pro at AI work",
+      "cat": "New tech gadgets",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2280302/microsoft-surface-laptop-ultra-specs/",
+      "summary": "At an event in San Francisco on Wednesday, Microsoft opened pre-orders for the Surface Laptop Ultra, its most powerful notebook yet, starting at $2,599. It is built around Nvidia’s new RTX Spark chip with an 18-core or 20-core CPU, up to 128GB of unified memory and up to one petaflop of AI compute, and Microsoft pitches it as a “builder-class PC” for developers and AI researchers rather than everyday users. The 15-inch Mini-LED touchscreen has a 3:2 shape and up to 2,000 nits of brightness, the haptic touchpad is 30 percent larger than on other 15-inch Surfaces, and the 4.5-pound aluminum body, 18mm thick, keeps USB-A, HDMI, a headphone jack and a full SD card reader alongside a new Magnetic Connect magnetic USB-C port. Microsoft says it keeps 99 percent of its performance on battery and claims 6.2 times faster video generation than a MacBook Pro with M5 Pro. Storage is user-replaceable, and a $5,999 Surface RTX Spark Dev Box desktop was announced too.",
+      "image_remote": "https://www.engadget.com/img/gallery/microsoft-surface-laptop-ultra-specs/l-intro-1791398871.jpg",
+      "image_local": "images/story-877.jpg",
+      "id": "26f5db096aa6a2195c3d3b60be2b1c825b930414"
+    },
+    "15ca5ef5f79e827c0a1ecf1ddc3e87a8deeee0e2": {
+      "headline": "Israel’s U.N. ambassador rips Mayor Mamdani’s Oct. 7 anniversary post: ‘Like turning September 11 into a day of mourning for al-Qaeda’",
+      "cat": "Politics / NYC",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/israel-amb-torches-mamdani-oct-7-post-like-turning-september-11-into-day-mourning-al-qaeda",
+      "summary": "New York City Mayor Zohran Mamdani’s message on the third anniversary of Hamas’s Oct. 7 attack drew a sharp rebuke from Israel’s ambassador to the United Nations, Danny Danon. Mamdani’s post opened by calling the day “profoundly painful for so many New Yorkers,” described the attack as “horrific war crimes,” and noted that Hamas killed more than 1,100 Israelis and abducted 251. He then turned most of the statement to Gaza, accusing Israel of a “devastating, ongoing genocide,” citing a Palestinian death toll above 74,000, and accusing the U.S. government of complicity. Danon called it “Mamdani-ism — an attempt to hijack the anniversary of October 7 and turn it into yet another propaganda attack against Israel,” adding, “It is like turning September 11 into a day of mourning for al-Qaeda terrorists. We will remember those who were murdered, and we will never forget who was behind this massacre.” Israel rejects the genocide charge and says it warns civilians before strikes. The post is the latest flashpoint for the mayor, who also faced backlash when an old post resurfaced ahead of this year’s 9/11 ceremony at Ground Zero.",
+      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/danny-danon-zohran-mamdani-split.jpg",
+      "image_local": "images/story-878.jpg",
+      "id": "15ca5ef5f79e827c0a1ecf1ddc3e87a8deeee0e2"
+    },
+    "4a1706e8a57693284ca09007bb360cdcce5026ff": {
+      "headline": "Trump will give Elon Musk the National Medal of Science on Thursday, along with Sergey Brin, Jensen Huang and Lisa Su — his first time presenting the honors",
+      "cat": "Elon Musk / Tesla",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/first-fox-elon-musk-heads-back-white-house-trump-marks-prestigious-first-presidency",
+      "summary": "President Trump will award Elon Musk the National Medal of Science on Thursday at the White House’s “Science: A New Golden Age” summit on super intelligence, Fox News Digital reports. Google co-founder Sergey Brin, Nvidia CEO Jensen Huang and AMD CEO Lisa Su will receive the same medal, and Dell’s Michael Dell and Microsoft CEO Satya Nadella will get the National Medal of Technology and Innovation. It is the first time Trump has presented either honor in his two terms. White House spokesperson Liz Huston said the recipients “are helping ensure America keeps leading the world in innovation.” The award is another step in Musk’s return to Trump’s orbit after their public falling-out over the One Big Beautiful Bill following his DOGE exit. Musk has since joined Trump at a recent tech leaders’ lunch and during Chinese President Xi Jinping’s visit, and has taken an advisory role co-leading the Pentagon’s Project Meridian, which studies the future of warfare and the technology the military will need.",
+      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/trump-elon-musk.jpg",
+      "image_local": "images/story-879.jpg",
+      "id": "4a1706e8a57693284ca09007bb360cdcce5026ff"
+    },
+    "a7e1b5cb6a4e61b791c5a98d50b6755327680ebb": {
+      "headline": "Babylon Bee: ‘McDonald’s Reduces Entire Global Workforce To 27 Kiosks And A Guy Named José’",
+      "cat": "Satire",
+      "source": "The Babylon Bee",
+      "url": "https://babylonbee.com/news/mcdonalds-reduces-entire-global-workforce-to-27-kiosks-and-a-guy-named-jos/",
+      "summary": "Satire. The Babylon Bee imagines McDonald’s announcing that all orders at its more than 45,000 restaurants in over 100 countries — once staffed by about 2.2 million people — will now be handled by 27 self-order kiosks and one guy named José. A fictional CEO named “Bob McDonald” predicts that the cost-cutting will push revenue from $27 billion to “easily” more than $1 trillion, with corporate planning to charge franchisees more in rent and royalties now that they are saving on payroll. Franchise owners, in the Bee’s telling, remain skeptical that 27 kiosks worldwide will keep food quality, service and sales up at thousands of stores.",
+      "image_remote": "https://media.babylonbee.com/articles/6ac6930c269ef6ac6930c269f0.jpg",
+      "image_local": "images/story-880.jpg",
+      "id": "a7e1b5cb6a4e61b791c5a98d50b6755327680ebb"
     }
   },
-  "updated": "Wednesday, October 7, 2026 · 11:30 AM ET"
+  "updated": "Wednesday, October 7, 2026 · 4:00 PM ET"
 }
