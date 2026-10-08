@@ -997,7 +997,11 @@
     "c05a83c4abab8aa775a4648ee6be0c6e8a677725",
     "0e0b5ae4b894b8026e97824a0716357461c9ee00",
     "7f03dcfaf2c05aa4c70f0cce9d1d03fdae6a32da",
-    "d6c81031e66c03a2ca6f0d99dde20fbf664668a4"
+    "d6c81031e66c03a2ca6f0d99dde20fbf664668a4",
+    "4181029f49c295e553fd6533af478f64d8312b39",
+    "99812fc945ae882175c0d3ff111b4815aaeb4c94",
+    "14486b0ec5c82de31c02ee9520b62e6bd15233af",
+    "eea1aecc0a3fbddc86fb048f2ddf50040ed37378"
   ],
   "stories": {
     "0c2ac7a5e342411678296315c4c59043b1f067cc": {
@@ -12335,7 +12339,47 @@
       "image_remote": "https://media.babylonbee.com/articles/6ac7f02280fcb6ac7f02280fcc.jpg",
       "image_local": "images/story-910.jpg",
       "id": "d6c81031e66c03a2ca6f0d99dde20fbf664668a4"
+    },
+    "4181029f49c295e553fd6533af478f64d8312b39": {
+      "headline": "DOJ takes Cassidy Hutchinson to a grand jury over whether she lied to Congress about Trump on Jan. 6, including the steering-wheel story",
+      "cat": "Trump / DOJ",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/doj-seeking-indictment-cassidy-hutchinson-jan-6/",
+      "summary": "Federal prosecutors have been presenting evidence to a grand jury in Washington, D.C., on whether former White House aide Cassidy Hutchinson lied to Congress in her Jan. 6 testimony, two sources told CBS News. Hutchinson, who worked for chief of staff Mark Meadows, told the House Jan. 6 committee in 2022 that President Trump had been warned some supporters were armed and wanted the magnetometers removed, and she relayed a secondhand account from deputy chief of staff Tony Ornato that Trump lunged at the steering wheel when the Secret Service refused to drive him to the Capitol. Trump’s driver later testified under oath that the president never grabbed the wheel. CBS could not determine exactly which parts of her testimony prosecutors are examining; media reports say House Republicans made the referral. In an unusual move, the case is being handled by the Justice Department’s Civil Rights Division rather than the U.S. Attorney’s Office in D.C. The grand jury activity was first reported by Punchbowl News.",
+      "image_remote": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/09/23/5fcb3cc9-939e-4aae-9b82-08a7d9c3e351/thumbnail/1200x630g2/832b8abe4c5e3e905ca01d30ace11450/cassidy-hutchinson-swearing-in.jpg",
+      "image_local": "images/story-911.jpg",
+      "id": "4181029f49c295e553fd6533af478f64d8312b39"
+    },
+    "99812fc945ae882175c0d3ff111b4815aaeb4c94": {
+      "headline": "ABC News quietly deletes its story tying Anduril’s Pentagon billions to Don Jr. and Eric Trump after Palmer Luckey calls it ‘totally bogus’",
+      "cat": "Media",
+      "source": "Washington Free Beacon",
+      "url": "https://freebeacon.com/media/oops-page-unavailable-abc-news-mysteriously-spikes-article-alleging-trump-admin-awarded-billions-to-palmer-luckeys-anduril-because-of-ties-to-don-jr-eric/",
+      "summary": "ABC News has pulled, without explanation, a story published Wednesday headlined “Trump sons’ investments have won billions in Pentagon contracts since his election,” which claimed Palmer Luckey’s Anduril had landed $6 billion in federal contracts since the Trump brothers’ 1789 Capital took a stake, including the $6.6 billion Baltimore shipyard deal President Trump unveiled this week. Gavin Newsom pushed the story on X to some 900,000 views before the link began redirecting to an “Oops! Page unavailable” 404 page less than 24 hours after publication, the Free Beacon reports. Luckey called the piece “totally bogus,” saying Anduril had shown the reporter data that 1789 Capital’s stake is about $50 million, roughly 0.1 percent of the company, and that the $6.6 billion figure is a hypothetical contract ceiling rather than money the Pentagon will necessarily pay. Outlets normally append corrections or an editor’s note rather than deleting a story outright; ABC did not respond to requests for comment, and the reporter, an early-career fellow in ABC’s Washington bureau, said “No comment.”",
+      "image_remote": "https://freebeacon.com/wp-content/uploads/2026/10/MixCollage-08-Oct-2026-04-46-PM-3433.jpg",
+      "image_local": "images/story-912.jpg",
+      "id": "99812fc945ae882175c0d3ff111b4815aaeb4c94"
+    },
+    "14486b0ec5c82de31c02ee9520b62e6bd15233af": {
+      "headline": "Tesla renames FSD ‘Tesla Assisted Driving’ across Europe — and Germany agrees it may run up to 10% over the speed limit",
+      "cat": "Tesla",
+      "source": "TeslaNorth",
+      "url": "https://teslanorth.com/2026/10/08/tesla-assisted-driving-europe/",
+      "summary": "Most of Tesla’s European websites now call FSD Supervised “Tesla Assisted Driving,” after Germany’s Transport Ministry said the old name was “somewhat misleading” and revealed Tesla had offered the change in talks. In return, the ministry said it and Tesla agreed the system may exceed posted limits “slightly, by a maximum of ten percent,” arguing small overages can help traffic flow, and Germany will back that approach in the EU process. Transport Minister Steffen Bilger said he will now push for timely Europe-wide approval; drivers remain “100 percent responsible,” and the ministry says the system has performed strongly in city driving. The software is already legal in eight countries — the Netherlands, Lithuania, Estonia, Denmark, Belgium, Slovenia, the Czech Republic and Croatia — all tracing back to the Dutch RDW approval of April 10, with Slovakia preparing to follow. Germany itself is not yet on the list, and neither Tesla nor Berlin has set a date for an EU vote or the KBA’s review; Tesla also hasn’t said whether the name or pricing changes in the car.",
+      "image_remote": "https://cdn.teslanorth.com/wp-content/uploads/2026/10/tesla-assisted-driving-europe.jpg",
+      "image_local": "images/story-913.jpg",
+      "id": "14486b0ec5c82de31c02ee9520b62e6bd15233af"
+    },
+    "eea1aecc0a3fbddc86fb048f2ddf50040ed37378": {
+      "headline": "New ‘P7 DarkSword’ iPhone spyware variant steals Keychain passwords and crypto wallets through malicious ads — another reason to stay updated",
+      "cat": "Apple / security",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/10/08/researchers-uncover-new-darksword-spyware-variant-affecting-unpatched-iphones/",
+      "summary": "Security firm iVerify has detailed P7 DarkSword, a previously unseen variant of the malware deployed through the DarkSword iPhone exploit chain that Google and iVerify exposed earlier this year, which hit iPhones running iOS 18.4 through 18.7 and prompted Apple to ship patches including iOS 18.7.7. iVerify found P7 in August while investigating an infection on a financial-institution employee’s iPhone. The new version is stealthier and more capable: it pulls Keychain data directly on the phone, targets crypto-wallet data, and keeps two-way contact with its operators, checking in every 15 seconds for commands to grab files, upload photos, read Apple Notes, inventory apps and scan the filesystem. It is being spread through malicious ads in watering-hole attacks, so victims don’t have to be individually targeted, and iVerify says older indicators of compromise no longer catch it. P7 is not a new iOS vulnerability but a new payload for already-patched holes, so keeping iOS current remains the main defense.",
+      "image_remote": "https://9to5mac.com/wp-content/uploads/sites/6/2024/06/apple-hacked.jpg?quality=82&strip=all&resize=1200,628",
+      "image_local": "images/story-914.jpg",
+      "id": "eea1aecc0a3fbddc86fb048f2ddf50040ed37378"
     }
   },
-  "updated": "Thursday, October 8, 2026 · 5:29 PM ET"
+  "updated": "Thursday, October 8, 2026 · 7:26 PM ET"
 }

@@ -1,8 +1,52 @@
 {
-  "updated": "Thursday, October 8, 2026 · 5:29 PM ET",
+  "updated": "Thursday, October 8, 2026 · 7:26 PM ET",
   "stories": [
     {
       "n": 1,
+      "headline": "DOJ takes Cassidy Hutchinson to a grand jury over whether she lied to Congress about Trump on Jan. 6, including the steering-wheel story",
+      "cat": "Trump / DOJ",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/doj-seeking-indictment-cassidy-hutchinson-jan-6/",
+      "image_local": "images/story-911.jpg",
+      "image_remote": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/09/23/5fcb3cc9-939e-4aae-9b82-08a7d9c3e351/thumbnail/1200x630g2/832b8abe4c5e3e905ca01d30ace11450/cassidy-hutchinson-swearing-in.jpg",
+      "id": "4181029f49c295e553fd6533af478f64d8312b39",
+      "summary": "Federal prosecutors have been presenting evidence to a grand jury in Washington, D.C., on whether former White House aide Cassidy Hutchinson lied to Congress in her Jan. 6 testimony, two sources told CBS News. Hutchinson, who worked for chief of staff Mark Meadows, told the House Jan. 6 committee in 2022 that President Trump had been warned some supporters were armed and wanted the magnetometers removed, and she relayed a secondhand account from deputy chief of staff Tony Ornato that Trump lunged at the steering wheel when the Secret Service refused to drive him to the Capitol. Trump’s driver later testified under oath that the president never grabbed the wheel. CBS could not determine exactly which parts of her testimony prosecutors are examining; media reports say House Republicans made the referral. In an unusual move, the case is being handled by the Justice Department’s Civil Rights Division rather than the U.S. Attorney’s Office in D.C. The grand jury activity was first reported by Punchbowl News."
+    },
+    {
+      "n": 2,
+      "headline": "ABC News quietly deletes its story tying Anduril’s Pentagon billions to Don Jr. and Eric Trump after Palmer Luckey calls it ‘totally bogus’",
+      "cat": "Media",
+      "source": "Washington Free Beacon",
+      "url": "https://freebeacon.com/media/oops-page-unavailable-abc-news-mysteriously-spikes-article-alleging-trump-admin-awarded-billions-to-palmer-luckeys-anduril-because-of-ties-to-don-jr-eric/",
+      "image_local": "images/story-912.jpg",
+      "image_remote": "https://freebeacon.com/wp-content/uploads/2026/10/MixCollage-08-Oct-2026-04-46-PM-3433.jpg",
+      "id": "99812fc945ae882175c0d3ff111b4815aaeb4c94",
+      "summary": "ABC News has pulled, without explanation, a story published Wednesday headlined “Trump sons’ investments have won billions in Pentagon contracts since his election,” which claimed Palmer Luckey’s Anduril had landed $6 billion in federal contracts since the Trump brothers’ 1789 Capital took a stake, including the $6.6 billion Baltimore shipyard deal President Trump unveiled this week. Gavin Newsom pushed the story on X to some 900,000 views before the link began redirecting to an “Oops! Page unavailable” 404 page less than 24 hours after publication, the Free Beacon reports. Luckey called the piece “totally bogus,” saying Anduril had shown the reporter data that 1789 Capital’s stake is about $50 million, roughly 0.1 percent of the company, and that the $6.6 billion figure is a hypothetical contract ceiling rather than money the Pentagon will necessarily pay. Outlets normally append corrections or an editor’s note rather than deleting a story outright; ABC did not respond to requests for comment, and the reporter, an early-career fellow in ABC’s Washington bureau, said “No comment.”"
+    },
+    {
+      "n": 3,
+      "headline": "Tesla renames FSD ‘Tesla Assisted Driving’ across Europe — and Germany agrees it may run up to 10% over the speed limit",
+      "cat": "Tesla",
+      "source": "TeslaNorth",
+      "url": "https://teslanorth.com/2026/10/08/tesla-assisted-driving-europe/",
+      "image_local": "images/story-913.jpg",
+      "image_remote": "https://cdn.teslanorth.com/wp-content/uploads/2026/10/tesla-assisted-driving-europe.jpg",
+      "id": "14486b0ec5c82de31c02ee9520b62e6bd15233af",
+      "summary": "Most of Tesla’s European websites now call FSD Supervised “Tesla Assisted Driving,” after Germany’s Transport Ministry said the old name was “somewhat misleading” and revealed Tesla had offered the change in talks. In return, the ministry said it and Tesla agreed the system may exceed posted limits “slightly, by a maximum of ten percent,” arguing small overages can help traffic flow, and Germany will back that approach in the EU process. Transport Minister Steffen Bilger said he will now push for timely Europe-wide approval; drivers remain “100 percent responsible,” and the ministry says the system has performed strongly in city driving. The software is already legal in eight countries — the Netherlands, Lithuania, Estonia, Denmark, Belgium, Slovenia, the Czech Republic and Croatia — all tracing back to the Dutch RDW approval of April 10, with Slovakia preparing to follow. Germany itself is not yet on the list, and neither Tesla nor Berlin has set a date for an EU vote or the KBA’s review; Tesla also hasn’t said whether the name or pricing changes in the car."
+    },
+    {
+      "n": 4,
+      "headline": "New ‘P7 DarkSword’ iPhone spyware variant steals Keychain passwords and crypto wallets through malicious ads — another reason to stay updated",
+      "cat": "Apple / security",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/10/08/researchers-uncover-new-darksword-spyware-variant-affecting-unpatched-iphones/",
+      "image_local": "images/story-914.jpg",
+      "image_remote": "https://9to5mac.com/wp-content/uploads/sites/6/2024/06/apple-hacked.jpg?quality=82&strip=all&resize=1200,628",
+      "id": "eea1aecc0a3fbddc86fb048f2ddf50040ed37378",
+      "summary": "Security firm iVerify has detailed P7 DarkSword, a previously unseen variant of the malware deployed through the DarkSword iPhone exploit chain that Google and iVerify exposed earlier this year, which hit iPhones running iOS 18.4 through 18.7 and prompted Apple to ship patches including iOS 18.7.7. iVerify found P7 in August while investigating an infection on a financial-institution employee’s iPhone. The new version is stealthier and more capable: it pulls Keychain data directly on the phone, targets crypto-wallet data, and keeps two-way contact with its operators, checking in every 15 seconds for commands to grab files, upload photos, read Apple Notes, inventory apps and scan the filesystem. It is being spread through malicious ads in watering-hole attacks, so victims don’t have to be individually targeted, and iVerify says older indicators of compromise no longer catch it. P7 is not a new iOS vulnerability but a new payload for already-patched holes, so keeping iOS current remains the main defense."
+    },
+    {
+      "n": 5,
       "headline": "Pentagon says Fort Hood shooter Nidal Hasan’s Dec. 3 firing-squad execution will be livestreamed after Hegseth vows it will be ‘public’",
       "cat": "Crime / courts",
       "source": "AP (via ClickOrlando)",
@@ -13,7 +57,7 @@
       "summary": "The Pentagon said Thursday that the firing-squad execution of Fort Hood shooter Nidal Malik Hasan will be livestreamed, after Defense Secretary Pete Hegseth said the execution would be public. “We’ll make sure that people are able to watch it, that it’s public,” Hegseth told Real America’s Voice in an interview aboard the USS Abraham Lincoln on Wednesday, confirming the execution will take place at Fort Hood on Dec. 3. Asked whether Hasan had made any final requests or reached out to the administration, Hegseth replied: “Don’t care. We’ll see him on December 3rd.” Pentagon officials said more details would follow, and the White House referred questions about the livestream to the Pentagon. Hasan, a former Army psychiatrist, killed 13 people and wounded 32 in the 2009 attack on the Texas base; President Trump approved his execution last week. Hegseth said the military has not carried out a firing-squad execution since World War II; the AP notes the last U.S. military execution of any kind was the April 1961 hanging of Army Pvt. John Bennett."
     },
     {
-      "n": 2,
+      "n": 6,
       "headline": "Trump hands Elon Musk the National Medal of Science and calls him ‘our modern-day Thomas Edison’ — then receives his late uncle’s Reagan-era medal",
       "cat": "Elon Musk / Tesla",
       "source": "New York Post",
@@ -24,7 +68,7 @@
       "summary": "President Trump presented the nation’s top science and technology honors Thursday at a “golden age” of science ceremony, giving the National Medal of Science to SpaceX and Tesla CEO Elon Musk, Nvidia’s Jensen Huang, Google co-founder Sergey Brin and AMD’s Lisa Su, and the National Medal of Technology and Innovation to Dell CEO Michael Dell and Microsoft CEO Satya Nadella. He saved his warmest words for Musk, a year after their public blowup: calling him “my friend” and a “national treasure,” Trump said “there is nobody like him” and “Elon is our modern-day Thomas Edison.” None of the CEOs spoke; they accepted gold medals the president handed over in jewelry boxes, and he praised Dell and his wife, Susan, who gave $250 million to the Trump Accounts program, as “unbelievable philanthropists.” The ceremony also played a tribute to Trump’s uncle, MIT physicist Dr. John Trump, who helped develop wartime radar, was asked by the FBI to examine Nikola Tesla’s papers after Tesla’s death in 1943, and received the National Medal of Science from Ronald Reagan in 1983. The president was given that framed medal, with its Reagan-signed certificate, calling it the honor of his uncle’s lifetime."
     },
     {
-      "n": 3,
+      "n": 7,
       "headline": "Trumbull police say a Bridgeport man burglarized a Beardsley Parkway day care overnight, took $1,200 and the owner’s car — and was caught at the wheel in Bridgeport",
       "cat": "Local / Trumbull CT",
       "source": "Town of Trumbull",
@@ -35,7 +79,7 @@
       "summary": "Trumbull Police posted details Thursday of the arrest of Latrell Eppes, 32, of Bridgeport, in a burglary at a day care facility on Beardsley Parkway. According to the department, the day care’s owner called police around 7:15 a.m. to report that the business had been entered overnight and about $1,200 in cash was stolen, and that a car was also missing. While officers were investigating, the vehicle was tracked to the parking lot of the North End Variety store in Bridgeport, where officers found Eppes walking out of the store and getting into the car and took him into custody without incident. Police say he had a large amount of cash, suspected narcotics, the keys to the stolen vehicle and cash believed to have come from the day care. Eppes was charged with burglary, larceny of a motor vehicle, possession of narcotics and related offenses and was held on a $50,000 bond. The town’s release dates the arrest to Sunday, Sept. 20, with a court appearance that was set for Sept. 30."
     },
     {
-      "n": 4,
+      "n": 8,
       "headline": "Apple’s second October launch: touchscreen OLED MacBook Pros with a Dynamic Island and an OLED iPad mini are reportedly coming around Oct. 27",
       "cat": "Apple / Mac",
       "source": "MacRumors",
@@ -46,7 +90,7 @@
       "summary": "Apple will introduce new touchscreen MacBook Pro models with OLED displays, plus an OLED iPad mini, “on or around” Tuesday, Oct. 27, MacRumors reports, citing Bloomberg; the launch is also expected to include an M6 14-inch MacBook Pro and an M6 iMac. It follows Apple’s Oct. 13 “Welcome home” launch of a new smart-home hub, a revamped Apple TV 4K and a refreshed HomePod mini, and both launches are expected to include an online video presentation and hands-on time for the press. Apple has been working on an OLED MacBook for years, and while some rumors suggested a “MacBook Ultra” name, Bloomberg says the 14- and 16-inch machines will stay in the MacBook Pro family — thinner and lighter than today’s models, with OLED touchscreens and a Dynamic Island. The new iPad mini is said to get a landscape front camera for video calls, a redesigned speaker system and its first OLED display."
     },
     {
-      "n": 5,
+      "n": 9,
       "headline": "Godox’s $85 magnetic A2 snaps onto an iPhone and brings back a real xenon flash, with TTL, 1/8000s sync and a bi-color video light",
       "cat": "Photography gadgets",
       "source": "PetaPixel",
@@ -57,7 +101,7 @@
       "summary": "Godox has launched the Smartphone Xenon Flash A2, a MagSafe-mounted strobe aimed at the current craze for the look of a real camera flash, which has young shooters buying old point-and-shoots. It works with the iPhone 15 series and newer, including the iPhone Air, with Android and HarmonyOS support in development. The flash has a guide number of about 15 (ISO 100, meters), so it is meant for subjects within about two meters, and syncs at shutter speeds up to 1/8000s; Godox says a coming smartphone wireless trigger will let it fire the company’s speedlights and outdoor strobes for more power. For video it adds a 3-watt bi-color LED adjustable from 2800K to 6000K. Setup uses an NFC scan and Godox’s camera app, with an Auto TTL mode, Natural, Even and Contrast effects, and manual shutter and flash control; it can be used on the phone or detached over Bluetooth, mounted on anything magnetic, and paired with bounce cards, a snoot and honeycomb. PetaPixel notes it picks up the idea of Profoto’s discontinued C1. The 93-gram A2 comes in white, silver, burgundy and black and is on preorder for $84.90."
     },
     {
-      "n": 6,
+      "n": 10,
       "headline": "Slash receives the 2026 Les Paul Spirit Award — carved from Les Paul’s own hand-built studio boards — and remembers jamming with the inventor",
       "cat": "Guitar",
       "source": "Blabbermouth",
@@ -68,7 +112,7 @@
       "summary": "Guns N’ Roses guitarist Slash received the 2026 Les Paul Spirit Award on Monday, Oct. 5, at a private celebration at the Les Paul Recording Studio at Universal Master Recordings in Hollywood, presented by the Les Paul Foundation with Gibson Gives, Gibson’s philanthropic arm. The award itself was made from hand-carved acoustic boards Les Paul built and used in his home recording studio, so no two are alike. Slash, who was friends with Paul and often played with him, said Paul “was so much more than a great guitarist and innovator. He was an actual inventor who changed the instrument itself, built groundbreaking recording equipment and completely reimagined how artists could record music,” and called the honor “tremendous.” Foundation executive director Michael Braunstein said that if Paul were alive, “Slash and he would be jamming onstage together somewhere regularly.” Previous recipients include Bob Weir, Nile Rodgers, The Edge, Peter Frampton and Steve Miller. Blabbermouth adds that Slash plans a new album with Myles Kennedy and the Conspirators in February, followed by a solo tour in April."
     },
     {
-      "n": 7,
+      "n": 11,
       "headline": "Babylon Bee: ‘Aaron Rodgers Gives Up Ayahuasca After Getting Sacked By Big Bird’",
       "cat": "Satire",
       "source": "Babylon Bee",
@@ -79,29 +123,7 @@
       "summary": "In the Babylon Bee’s latest sports satire, Steelers quarterback Aaron Rodgers decides to quit the psychedelic ayahuasca after being sacked on third down by “the gargantuan yellow form of Big Bird,” who beat the left tackle “with an incredible swim move” and put the running back “on skates with a quick spin.” “He bodied me, man,” the fictional Rodgers says. “It was like I was in an explosion of pain and yellow feathers.” Teammates in the piece report the pocket was clean and no defender was anywhere near him — right guard Brock Hoffman says Rodgers just hit the turf screaming “No, Big Bird!” and then warned him, “Stay away from me, Elmo. You and your red demon hands!” The story ends with Rodgers asking stadium security to remove the Count for gleefully tallying his interceptions."
     },
     {
-      "n": 8,
-      "headline": "Vance cuts Microsoft, Adobe and the big IT outsourcers out of the green-card pipeline for H-1B workers, saying they passed over Americans",
-      "cat": "Immigration / Tech",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2281503/us-suspends-permanent-residency-program-for-microsoft-adobe-and-other-tech-companies/",
-      "image_local": "",
-      "image_remote": "",
-      "id": "10393c10bdf378a5e5ad7b75f18be5f8e8c78543",
-      "summary": "The Trump administration on Thursday suspended Microsoft, Adobe and IT outsourcing firms Cognizant, Infosys, Tata Consultancy Services, Wipro, HCL Technologies and Capgemini from the permanent labor certification program that lets employers sponsor H-1B visa holders for green cards. “We will not accept any new or process any pending permanent labor certification applications involving these companies,” Labor Secretary Keith Sonderling said. Vice President JD Vance, announcing the move, accused the companies of deliberately under-advertising jobs at home so they could hire from abroad, using the lack of response “to then go and replace American workers with what is effectively foreign indentured servants,” and said no company “has used this system more than Microsoft.” Microsoft answered that most of its U.S. employees are Americans, that 80 percent of its roughly 6,000 H-1B filings last fiscal year were extensions or status changes for existing staff, and that new hires on the visas equal only 1 percent of its U.S. workforce. Engadget notes the Justice Department won a $3.2 million settlement from OpenAI in August over similar under-advertising claims, after earlier cases against Meta and Apple, and that the government is also investigating nine universities, including Harvard, Yale and Stanford, over alleged J-1 visa abuses."
-    },
-    {
-      "n": 9,
-      "headline": "USS Abraham Lincoln comes home to San Diego after a record 265 straight days at sea — with a Presidential Unit Citation for 3,693 combat missions against Iran",
-      "cat": "Military",
-      "source": "NPR (AP)",
-      "url": "https://www.npr.org/2026/10/08/g-s1-147195/uss-lincoln-returning-san-diego",
-      "image_local": "",
-      "image_remote": "",
-      "id": "7c28f5a91aed245223fe3f2b0852062143b1bdf0",
-      "summary": "The aircraft carrier USS Abraham Lincoln returned to San Diego on Thursday after supporting the war against Iran on a record-setting deployment that included 265 uninterrupted days at sea. Defense Secretary Pete Hegseth flew out to the ship Wednesday to award the crew the Presidential Unit Citation, the highest honor a unit can receive, and pushed back on efforts to turn the Lincoln into “a symbol of dysfunction or a symbol of low morale or a symbol of a failed mission,” telling sailors President Trump “couldn’t be more proud of what you executed.” According to the citation, the Lincoln and its strike group flew 3,693 combat missions, delivered 1.37 million pounds of ordnance, launched 450 Tomahawk cruise missiles, shot down 77 one-way attack drones and sank 64 Iranian warships. The carrier left San Diego in November and drew national attention over reports of crew stress and food and hygiene shortages; the Navy later acknowledged meal options were briefly cut from two to one, and told lawmakers eight sailors attempted suicide during the deployment, a number experts call low for a 6,000-sailor strike group. The crew got its first port call, in Thailand, early last month after the USS George Washington relieved it in August."
-    },
-    {
-      "n": 10,
+      "n": 12,
       "headline": "New indictment charges Maduro and his wife with conspiring to torture more than a dozen Americans — electric shock, beatings and forced injections",
       "cat": "Crime / courts",
       "source": "CBS News",
@@ -112,7 +134,7 @@
       "summary": "Federal prosecutors in Manhattan filed a superseding indictment Thursday adding a charge of conspiracy to commit torture against deposed Venezuelan President Nicolás Maduro and his wife, Cilia Flores, who were already charged with narco-terrorism conspiracy, cocaine importation conspiracy and machine-gun and destructive-device counts. “The Maduro regime subjected over a dozen American citizens to torture while held in custody of the Venezuelan government — including drugs, electrocution, sexual assault, and more,” FBI Director Kash Patel said. The 30-page indictment says Maduro ordered opponents detained and tortured, received regular updates on interrogations and, about one defiant prisoner, told officials to “squeeze them harder”; it says one American arrested in 2022 was given injections that caused seizures, and a U.S. citizen held in 2023 was told he was being kept alive because his citizenship made him useful in a prisoner swap. At a hearing Thursday, Judge Henry J. Ricardo denied bail for Flores, who cited heart problems, noting her access to “considerable funds,” and allowed her arraignment on the new charge to be delayed. The couple, brought to the U.S. by the military to face the January indictment, have pleaded not guilty to the original charges."
     },
     {
-      "n": 11,
+      "n": 13,
       "headline": "Isaias knocks nearly two-thirds of Gulf oil output offline as it rapidly strengthens toward landfall — and analysts warn there’s ‘no slack in the system’ for gas prices",
       "cat": "Energy / Weather",
       "source": "NBC News",
@@ -123,7 +145,7 @@
       "summary": "Hurricane Isaias is rapidly intensifying in the Gulf of Mexico and is expected to make landfall on the northeastern Gulf shore late Friday or early Saturday, and it is already squeezing U.S. energy supplies. By noon Thursday, nearly two-thirds of Gulf oil production and 57% of natural gas production had been shut in, NBC News reports, with Chevron shutting four of its Gulf assets and Shell halting production at five sites. Andy Lipow of Lipow Oil Associates said nearly all U.S. offshore production and about 14% of the nation’s refining capacity sit in the storm’s path, and with refineries already running flat out, “there is no slack in the system”; GasBuddy’s Patrick De Haan said flooded refineries could be offline for up to 10 days, producing a short-term squeeze at the pump. The national average was $4.36 a gallon Thursday, up 21 cents over the past month, and Brent crude jumped nearly 5% in early trading on reports President Trump was weighing renewed strikes on Iran. De Haan said the bigger long-term worry is Ukraine’s attacks on Russian refineries, which he expects to keep pressure on fuel for three to six months."
     },
     {
-      "n": 12,
+      "n": 14,
       "headline": "Trump-appointed judge presses the DOJ on its White House ban of CNN, MS NOW and Politico — and keeps their reporters inside until he rules by Tuesday",
       "cat": "Media",
       "source": "CBS News",
@@ -134,7 +156,7 @@
       "summary": "Lawyers for CNN, MS NOW and Politico were back before U.S. District Judge Timothy Kelly on Thursday seeking a preliminary injunction against President Trump’s ban on their reporters, which they say affects 78 credentialed journalists. The Justice Department’s Michael Velchik argued the president determined the outlets’ reporters failed to meet minimum professional journalistic standards and published articles that put national security at risk, while the outlets’ lawyer, Ted Boutrous, said Trump had made clear the ban was about coverage he dislikes and that he “got up on the wrong side of the bed.” Kelly, a Trump appointee, was skeptical, saying the president “seems to have said publicly and on several occasions” he acted “because of X and Y, and now the government is coming to court saying no, it was actually Z,” and calling due process “probably the biggest hurdle” for the government, citing a 2020 D.C. Circuit ruling that the White House must give fair notice and meaningful standards before suspending a credential. His temporary restraining order, set to expire Thursday, now runs through Tuesday, so the three outlets keep White House access into next week; he said he will rule on the injunction no later than Tuesday."
     },
     {
-      "n": 13,
+      "n": 15,
       "headline": "Trumbull’s Rep. David Rutigliano makes his 123rd District case: give state surpluses back to taxpayers, rethink energy deregulation and end ‘one party rule’ in Hartford",
       "cat": "Local / Trumbull CT",
       "source": "Patch",
@@ -143,28 +165,6 @@
       "image_remote": "",
       "id": "8a4a30b8420eb0d7bfb520be0e2ecbdc604c789e",
       "summary": "Patch Trumbull posted incumbent state Rep. David Rutigliano’s candidate questionnaire Thursday morning, a day after it ran Democratic challenger Bill Mecca’s, ahead of the Nov. 3 election for the 123rd House District. Rutigliano, 60, a Republican chef and restaurateur who previously served on Trumbull’s Board of Finance and Economic Development Commission says “Hartford is out of balance” and “overwhelming one party rule has not served us well.” He names affordability as the state’s No. 1 issue and says that after the bipartisan fiscal guardrails produced billions in surpluses used to pay down debt, the remainder should go back to towns as aid to cut property taxes or directly to taxpayers, faulting the current administration for spending it instead. On energy, he blames constrained natural-gas supply into New England, backs nuclear and tougher scrutiny of utility costs at PURA, and says the late-1990s deregulation of the energy market “has been a failure” and should be revisited. He cites state money he helped secure for Long Hill Green, the veterans center, Unity Park and Thrushwood Lake, plus firefighter cancer coverage, tax relief for volunteer firefighters and PTSD protections for first responders."
-    },
-    {
-      "n": 14,
-      "headline": "Masked crew rams a pickup through a Washington jewelry store in broad daylight — then flees empty-handed when the owner opens fire",
-      "cat": "Self-defense",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/us/washington-jewelry-store-owner-opens-fire-would-be-thieves-ram-truck-storefront",
-      "image_local": "images/story-897.jpg",
-      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/lynwood-washington-attempted-robbery-2.jpg",
-      "id": "7f6c3ea53cda666c8ea96f19bb20c1aa092252bf",
-      "summary": "A group of masked would-be thieves drove a white Toyota Tacoma through the front of Medina Jewelers in Lynnwood, Washington, shortly after 12:25 p.m. Tuesday and rushed inside, one of them apparently carrying an axe, according to police and surveillance video. The store owner grabbed a gun and fired, and the suspects ran out without taking anything, FOX13 Seattle reported; video shows a man believed to be the owner pointing the gun at them as they fled. Police said no one was hurt at the scene but it is unclear whether any suspect was struck, and they are still working to determine whether any of the suspects was armed. The video shows three vehicles circling the parking lot before the crash; the suspects escaped in a black BMW SUV, which hit a parked car and may have front passenger-side damage, and a silver Toyota or Infiniti sedan. “It was broad daylight and a pretty rare occurrence for us,” Lynnwood Police Cmdr. Joe Dickenson said. Detectives are asking tipsters to email crimetips@lynnwoodwa.gov referencing case No. 2026-37986."
-    },
-    {
-      "n": 15,
-      "headline": "American Airlines will put SpaceX’s Starlink Wi-Fi on every mainline jet — more than 1,000 planes — and keep it free for AAdvantage members",
-      "cat": "USA travel / Starlink",
-      "source": "The Points Guy",
-      "url": "https://thepointsguy.com/news/american-airlines-expands-starlink-wifi-mainline-fleet/",
-      "image_local": "images/story-900.jpg",
-      "image_remote": "https://runway-media-production.global.ssl.fastly.net/us/originals/2026/09/20260921_American-Airlines_CHenderson-2.jpg",
-      "id": "9e0c781e60662242ed54df4a591bb9ed453064e7",
-      "summary": "American Airlines said Thursday it will install SpaceX’s Starlink satellite Wi-Fi on every Airbus and Boeing jet in its mainline fleet, more than double the roughly 500 Airbus planes it planned to equip when it first announced the deal in May. Once installations are finished, more than 1,000 American jets are expected to have the faster service, and Wi-Fi is expected to stay free for members of its AAdvantage loyalty program. The Points Guy says the switch should especially help American’s long-haul Boeing 787s and 777s, many of which still use legacy Panasonic service with frequent connectivity gaps; only its regional jets are not slated for Starlink. “Dependable connectivity can make a meaningful difference in how they spend their time in the air,” chief customer officer Heather Garboden said. United, Alaska and Hawaiian already use or are installing Starlink, and Southwest and Frontier announced plans this year, while Delta and JetBlue are going with Amazon’s competing service, expected on Delta in 2028."
     },
     {
       "n": 16,
