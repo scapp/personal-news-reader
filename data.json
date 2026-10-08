@@ -1,8 +1,85 @@
 {
-  "updated": "Wednesday, October 7, 2026 · 10:00 PM ET",
+  "updated": "Thursday, October 8, 2026 · 7:00 AM ET",
   "stories": [
     {
       "n": 1,
+      "headline": "Isaias becomes the first hurricane of 2026 — the latest first hurricane in 121 years — and hurricane warnings now run from Mississippi to the Florida Panhandle",
+      "cat": "Weather",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/hurricane-isaias-first-storm-2026-atlantic-season-record/",
+      "image_local": "images/story-889.jpg",
+      "image_remote": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/08/6e3a78ab-4655-4264-885a-976b5d6dff1e/thumbnail/1200x630/fe9ffb4c2299b313cf609e56451f27bc/hurricane.jpg",
+      "id": "64518a177f5754fafb826dee4de7d713e9c626ca",
+      "summary": "Isaias strengthened into a hurricane late Wednesday night and had maximum sustained winds of 80 mph early Thursday, with its core about 420 miles south-southwest of the mouth of the Mississippi River, the National Hurricane Center said. It is expected to keep strengthening through early Friday and make landfall along the northern Gulf Coast late Friday or early Saturday. A hurricane warning now covers the coast from Ocean Springs, Mississippi, across Alabama to Florida’s Bay/Gulf County line, with tropical storm warnings on either side and a storm surge warning from the mouth of the Mississippi to Florida’s Steinhatchee River; the center said preparations “should be rushed to completion today.” Forecasters expect 3 to 7 inches of rain, up to 10 inches in spots, from southeastern Louisiana to the Panhandle, with heavy rain reaching the Tennessee Valley and the Carolinas. Florida Gov. Ron DeSantis declared a state of emergency for more than two dozen counties and Alabama Gov. Kay Ivey for 40. CBS notes it is the latest date in 121 years for the Atlantic season’s first hurricane, just missing the record of Oct. 8, 1905, in a season kept quiet by a strong El Niño."
+    },
+    {
+      "n": 2,
+      "headline": "Russian glide bomb hits a Kramatorsk bus stop at morning rush, killing at least 30 people on two buses",
+      "cat": "World",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/world/europe/30-people-feared-dead-bus-attack-eastern-ukraine-rcna602247",
+      "image_local": "images/story-890.jpg",
+      "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261008-kramatorsk-bus-mb-1139-ec89ed.jpg",
+      "id": "fa57195b9952500976a4b295737a9fdd4c537c28",
+      "summary": "A Russian aerial bomb struck a street in the eastern Ukrainian city of Kramatorsk around 10 a.m. local time Thursday as two buses were passing, killing at least 30 people and wounding 18, Ukraine’s National Police said. President Volodymyr Zelenskyy said Russia hit “an ordinary public transport stop,” and Donetsk regional governor Vadym Filashkin accused Moscow of deliberately targeting civilians, saying a bus full of passengers is attractive to Russia “precisely because one hit can kill as many people as possible.” Ukraine’s emergency service later put the toll at 33, the Kyiv Independent reported, and the Kramatorsk and Sloviansk military administrations halted all public transport. The strike came after an overnight barrage of 142 drones across the country, 126 of which Ukraine said it shot down or suppressed, and a day after a missile hit a residential building in northern Ukraine, killing 22 people, including five children. NBC News notes civilian casualties are climbing as Ukraine runs low on interceptors for its Patriot batteries."
+    },
+    {
+      "n": 3,
+      "headline": "Lawsuit says Dearborn hung ‘Ramadan Kareem’ banners and lighted crescent moons but ignored requests for Easter, Passover or any Christian or Jewish symbols",
+      "cat": "Religious liberty",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/lawsuit-accuses-dearborn-michigan-hostile-christians-jews-islamic-displays",
+      "image_local": "images/story-891.jpg",
+      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/Ramadan_Dearborn_Cleveland.jpg",
+      "id": "9a3422138864ffc2e4a5bd653a895594432ef396",
+      "summary": "Margot Cleveland, senior legal correspondent at The Federalist, has sued the city of Dearborn, Michigan, and Mayor Abdullah Hammoud in federal court, alleging the city violates the First Amendment by displaying only Islamic religious symbols in public. Cleveland told Fox News Digital she noticed “Ramadan Kareem” banners lining the boulevard and a lone crescent-moon display during the fourth week of Lent, with Easter and Passover approaching. She says the city attorney never answered her letter asking whether Christian and Jewish holidays would get equal treatment, that one council member told her on LinkedIn the council had been told not to talk to her, and that public-records requests turned up Dearborn police selling Ramadan T-shirts bearing the department’s seal. “I have not asked the city not to celebrate Ramadan,” she said. “What I’ve asked is that the city treat Christians and Jews equally.” Instead, she says, the mayor added bigger, lighted Ramadan displays. The American Freedom Law Center filed the complaint in the Eastern District of Michigan on Sept. 17. The city said it “has a longstanding commitment to serving all residents fairly and equitably, regardless of faith or background.”"
+    },
+    {
+      "n": 4,
+      "headline": "Producer Andrew Watt says Ozzy, Iommi and Geezer were up for one last original-lineup Black Sabbath album — until a 40-minute call with Bill Ward",
+      "cat": "Heavy metal",
+      "source": "Louder",
+      "url": "https://www.loudersound.com/bands-artists/andrew-watt-claims-ozzy-osbourne-tony-iommi-and-geezer-butler-wanted-to-make-one-final-black-sabbath-album",
+      "image_local": "images/story-892.jpg",
+      "image_remote": "https://cdn.mos.cms.futurecdn.net/7dL9TgSCVMdVoNW7D5q9dU-1280-80.jpg",
+      "id": "bc90a625b4c1601a71b4a7995162ee834b48e721",
+      "summary": "Andrew Watt, who produced Ozzy Osbourne’s Ordinary Man (2020) and Patient Number 9 (2022), says Ozzy wanted his next record to be a Black Sabbath album with the original lineup, and that Sharon and Ozzy had him call each member. Tony Iommi was in “as long as Bill was there,” Watt told the Lipps Service podcast; Ozzy said “If Bill does it, we’ll do it,” and Geezer Butler was in if the others were. Watt then had what he called “one of the weirdest and funniest phone calls ever” — 40 minutes with drummer Bill Ward — and Ward ultimately could not make the record “for a multitude of different reasons,” followed by a long email that ended the idea. Louder notes Watt’s account doesn’t quite match Iommi, who told Classic Rock this summer that Watt was “very keen and a bit too excited,” didn’t know what working with the original Sabbath and Ward was like, and that after 2013’s 13 he didn’t like the idea of “another album.” Iommi’s own solo record, From The Dark, comes out Oct. 23 on BMG."
+    },
+    {
+      "n": 5,
+      "headline": "Sigma’s $799 50-120mm f/2.8 finally gives Canon RF crop shooters a compact 70-200-style zoom, completing its APS-C trinity",
+      "cat": "Canon photography",
+      "source": "Canon Rumors",
+      "url": "https://www.canonrumors.com/sigma-officially-announces-the-rf-50-120mm-f-2-8-dc-os-contemporary/",
+      "image_local": "images/story-893.jpg",
+      "image_remote": "https://www.canonrumors.com/wp-content/uploads/2026/10/Sigma-50-120mm-f2.8-DC-OS-Contemporary-1600.jpg",
+      "id": "8554bdb61a37200cb1d1b9fd81a6a4b2cdbe0cec",
+      "summary": "Sigma has announced the 50-120mm f/2.8 DC OS Contemporary, the long end of its compact f/2.8 “holy trinity” for APS-C cameras alongside the 10-18mm and 18-50mm f/2.8 zooms. On Canon’s RF mount it works out to an 80-192mm equivalent field of view — the crop-sensor answer to a 70-200mm f/2.8 that Canon Rumors says APS-C shooters have wanted “for as long as we can remember.” The RF version weighs 410 grams (the Sony E and Fujifilm X versions are 390 grams), has optical stabilization rated at 6.5 stops at the wide end and 4.5 at the long end, a linear HLA autofocus motor, low focus breathing for video and weather sealing; Sigma dropped the switches and buttons to keep it small. Sigma’s MTF charts look strong, especially at 120mm, Canon Rumors says, with only some corner softness. It costs $799 (£699), is available to preorder, and ships Oct. 22."
+    },
+    {
+      "n": 6,
+      "headline": "Chattanooga’s new Renaissance Faire doubles in size for Nov. 14–15, spreading across two riverfront parks with armored combat, forges and three stages",
+      "cat": "Renaissance faires",
+      "source": "The Pulse (Chattanooga)",
+      "url": "https://www.chattanoogapulse.com/citylife/news/chattanooga-renaissance-faire-announces-lineup-for-expanded-/",
+      "image_local": "images/story-894.jpg",
+      "image_remote": "https://www.chattanoogapulse.com/downloads/40427/download/Renaissance%20Faire%2026.png?cb=887d9171651e500be112b73ee3a0fe0c&w=700",
+      "id": "f6f4c0bde32572a2e4aee79209479bc9213c6a1b",
+      "summary": "After its first faire drew big crowds this spring, the Chattanooga Renaissance Faire returns Nov. 14–15 and expands into a two-day event across both Coolidge Park and Renaissance Park on the Tennessee River. The newly announced lineup includes full-contact Dauntless Armored Combat and BattleKat Combat, circus acts from Dandy the Modern Monkey Boy and Fickle & Fray, Snapping Pyros fire performers, Ambush Improv, the Buckle and Bits Show, and roaming pirates, mermaids, fairies and characters such as Droopel the Barbarian and the Washing Wenches. The Chattanooga Zoo and Happinest Raptors will bring live animals, and there will be live-action role-playing, Dungeons & Dragons, workshops and a large artisan market, plus working forges and demonstrations in pottery, fiber arts, block printing, silversmithing and leatherworking. Hours are 10 a.m. to 8 p.m. Saturday and 10 a.m. to 5 p.m. Sunday; tickets are on sale at chattrenfaire.com."
+    },
+    {
+      "n": 7,
+      "headline": "LEGO Pokémon rumor: a $129.99 Snorlax, a Charmander and a Poké Ball are said to be coming in March 2027",
+      "cat": "LEGO",
+      "source": "Brick Fanatics",
+      "url": "https://www.brickfanatics.com/lego-snorlax-rumoured-two-more-pokemon-builds",
+      "image_local": "",
+      "image_remote": "",
+      "id": "3ee2f8aeccf88844e53f5a428032c25df2055398",
+      "summary": "New rumors fill in three previously reported 18+ LEGO Pokémon sets, Brick Fanatics reports, citing the Instagram leaker unibricks. Set 72183 would be a Poké Ball at $39.99 with 406 pieces, 72184 a Charmander at $69.99 with 741 pieces, and 72185 a 1,156-piece Snorlax at $129.99 — the biggest of the three, as befits the famously sleepy Pokémon. The catch is timing: the sets have reportedly slipped from February to March 2027, lining up with rumored LEGO Pokémon blind boxes due the same month. No images exist yet, but nearly every adult LEGO Pokémon set so far has been a buildable figure, like 72160 Arcanine and 72150 Munchlax. As with any LEGO leak, names, prices and dates are unconfirmed until the LEGO Group announces them."
+    },
+    {
+      "n": 8,
       "headline": "USS Abraham Lincoln is finally coming home after more than 300 days at sea, and Hegseth tells the crew he was the one who signed the extensions",
       "cat": "Military",
       "source": "NBC News",
@@ -13,7 +90,7 @@
       "summary": "The aircraft carrier USS Abraham Lincoln and its roughly 7,500 personnel are scheduled to dock in San Diego on Thursday after more than 300 days at sea, ending a deployment that drew sharp criticism. The Lincoln left San Diego last November and was expected back before summer, but its deployment was extended after the Iran war began in February; it went 286 days without a port call until a short stop in Thailand in early September. Aboard the ship on Wednesday, Defense Secretary Pete Hegseth told crew members he was the “only thing standing between you and home” and that he was the one “who signed that orders book twice” to extend the deployment. NBC News reports the mood on the last night was jovial — sailors ran a 5K around a flight deck now cleared of aircraft while a band played at sunset. Families had earlier raised alarms about dwindling food supplies and low morale, and a letter from a top Navy official to Sen. Kirsten Gillibrand said at least eight service members attempted suicide during the months at sea; no deaths on the ship have been attributed to suicide. A sailor from the air wing also went overboard in August and was quickly rescued."
     },
     {
-      "n": 2,
+      "n": 9,
       "headline": "Texas executes Jamaal Howard, the first U.S. execution since Christa Pike survived Tennessee’s lethal injection, after courts reject last-minute pentobarbital and competency appeals",
       "cat": "Crime / courts",
       "source": "KPRC Click2Houston",
@@ -24,7 +101,7 @@
       "summary": "Texas executed Jamaal Howard by lethal injection on Wednesday night; he was pronounced dead at 8:03 p.m. local time in Huntsville, the Texas Department of Criminal Justice said. Howard was 20 when he robbed a convenience store in Silsbee, north of Beaumont, in 2000 and shot clerk Vickie Swartout, 42, a killing captured on the store’s surveillance video. In his final statement he apologized to her family: “I wish that you accept my apology, and I wish for your forgiveness.” It was the first execution in the country since Tennessee’s Sept. 30 attempt on Christa Pike, who survived two injections of pentobarbital — the same drug Texas uses. Howard’s lawyers had asked Gov. Greg Abbott for a 30-day delay while they sought records on whether the state’s compounded pentobarbital, whose use dates Texas extends after testing, was safe; Abbott did not respond. The Texas Court of Criminal Appeals and the U.S. Supreme Court rejected his final appeals, including a claim that he was intellectually disabled and mentally ill, which briefly delayed the execution. Howard was the seventh man executed in Texas this year; John Rubio, convicted of killing his three children in 2003, is next."
     },
     {
-      "n": 3,
+      "n": 10,
       "headline": "Penguins’ turnovers bury them in Washington: Capitals win 5-3 in Crosby-vs.-Ovechkin game No. 101 despite Bryan Rust’s goal in his season debut",
       "cat": "Penguins hockey",
       "source": "PensBurgh",
@@ -35,7 +112,7 @@
       "summary": "The Penguins suffered their first loss of the season, 5-3 to the Capitals at Capital One Arena on Wednesday night, after opening 2-0. PensBurgh called it a game decided by self-inflicted mistakes. Washington scored on its first shot 23 seconds in, when Trevor van Riemsdyk’s turnover sprung Anthony Beauvillier on a breakaway; Bryan Rust, activated earlier in the day, answered 56 seconds later in his season debut, driving the net off a Ben Kindel feed. A Kris Letang reverse behind the net set up Tom Wilson’s goal, and in the second period a stray puck from goalie Arturs Silovs and a picked-off cross-ice pass by Declan Carlile led to goals by Pierre-Luc Dubois and Alex Tuch for a 4-1 Capitals lead. Pittsburgh clawed back on goals by Tommy Novak (on a Malkin rebound) and Nick Robertson’s tip, but Ryan Leonard restored the two-goal lead on a power play early in the third. Wilson finished with a goal and two assists. Pittsburgh outshot Washington 30-27; Silovs stopped 22 of 27 and Logan Thompson 27 of 30. Neither Sidney Crosby nor Alex Ovechkin registered a point. The Penguins play next in Columbus on Friday night."
     },
     {
-      "n": 4,
+      "n": 11,
       "headline": "Trumbull this weekend: a Nichols church spaghetti supper Saturday, followed by a U.S. Coast Guard Glee Club concert",
       "cat": "Local / Trumbull CT",
       "source": "Patch",
@@ -46,7 +123,7 @@
       "summary": "Patch’s Trumbull weekend guide for Thursday, Oct. 8, through Sunday, Oct. 11, centers on one Saturday night in Nichols. Nichols United Methodist Church, 35 Shelton Road, is holding a spaghetti supper on Saturday, Oct. 10, at 5:30 p.m., followed at 7 p.m. by a concert from the U.S. Coast Guard Glee Club. Dinner is $15, $14 for seniors and $5 for children, with meatballs $1 each, and the concert is by free-will donation. Patch says no other public arts events could be confirmed in town for the weekend."
     },
     {
-      "n": 5,
+      "n": 12,
       "headline": "A scratch-built, GSX-R-powered lawnmower hit 152.8 mph at the Arkansas Mile — and it still cuts grass",
       "cat": "Motorsports",
       "source": "The Drive",
@@ -57,7 +134,7 @@
       "summary": "Elliott Loe and friends from the Ziptied YouTube channel built what is likely the world’s fastest lawnmower, The Drive reports, with a proven 152.8-mph run in the standing mile at ECTA’s Arkansas Mile. The scratch-built mower uses a chromoly tube chassis and body panels from a 1990s MTD Tradesman once sold at Sam’s Club; the bare chassis weighs just 45 pounds, about 450 with the 988cc inline-four from a 2004 Suzuki GSX-R, which makes more than 160 horsepower stock and gets an extra 50-horsepower shot of nitrous. Its two-way average of 147.3 mph is now in certification and, if verified, would beat the current record of about 143 mph held by a Hayabusa-powered mower from the United Kingdom. “The surface was extremely rough for a mower that had no suspension, and it would jump in the air two or three times per run,” Loe said, adding that he also beat the Honda Mean Mower V2’s claimed 150.9 mph, “officially bringing the fastest lawnmower back to the land of freedom.”"
     },
     {
-      "n": 6,
+      "n": 13,
       "headline": "Icelandair adds St. Louis as its 16th U.S. gateway, with 737 MAX flights to Reykjavík from May 2027 and Southwest connections",
       "cat": "USA travel",
       "source": "The Points Guy",
@@ -68,18 +145,7 @@
       "summary": "Icelandair said Wednesday it will fly between Keflavik International Airport near Reykjavík and St. Louis Lambert International three to four times a week from May 14 through Oct. 24, 2027, on Mondays, Wednesdays, Fridays and Sundays. The route uses a Boeing 737 MAX 8 with 16 business-class recliners and 144 economy seats. St. Louis becomes Icelandair’s 16th U.S. gateway and its first new North American destination for 2027, and it connects with partner Southwest Airlines, the busiest carrier at STL, giving fliers of both airlines a new transfer point between the U.S. and Europe. Icelandair will be the third European airline at St. Louis, after British Airways and Lufthansa. Travelers can also use Icelandair’s free stopover program to spend up to seven days in Iceland on the way. The defunct budget carrier WOW Air briefly flew St. Louis–Keflavik in 2018 and 2019."
     },
     {
-      "n": 7,
-      "headline": "‘They hit us bad’: newly obtained video shows Iran’s attack on Camp Buehring in Kuwait at the start of the war — and how U.S. troops ended up abandoning the base",
-      "cat": "World",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/iran-attack-kuwait-camp-buehring-u-s-new-footage/",
-      "image_local": "images/story-881.jpg",
-      "image_remote": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/07/1c366c56-bcc2-4825-b68e-272a8c62162d/thumbnail/1200x630g2/e3a090f294032ebac32aba7fef339180/screenshot-2026-10-07-at-1-34-10-pm.png",
-      "id": "f2fe1a41156ea6cf7a8f55f9f636e6334f362202",
-      "summary": "CBS News has obtained videos, recorded by someone stationed on the ground, of Iranian attacks on Camp Buehring, a major U.S. post in Kuwait about 25 miles from the Iraqi border, in the opening days of the war with Iran seven months ago. The footage captures moments of impact and damaged buildings and equipment; CBS says it authenticated the files through their metadata and by comparing them with other photos of the damage. American forces faced ballistic missiles and drones, and three service members said Iranian F-5 fighter jets also took part. “They ran so close to us I could see their helmets,” one eyewitness said. Before the war, most of the roughly 7,000 troops at the base were moved away under the Pentagon’s “get off the X” plan, but more than 100 soldiers stayed behind. CBS reports they ran critically low on .50-caliber ammunition, and a senior Army logistics official confirmed concerns about .50-caliber rounds and Patriot missiles. Eventually the remaining soldiers loaded what equipment they could and drove at night deep into the Kuwaiti desert. “There were a lot of brave guys who stayed to fight there — and people at home don’t know what happened,” the source said. “We had to abandon the base.” Central Command declined to comment; the Pentagon pointed to Defense Secretary Pete Hegseth’s March remarks that more than 90% of troops had been moved out of range of Iranian fire."
-    },
-    {
-      "n": 8,
+      "n": 14,
       "headline": "Trumbull trucking-company owner gets two years in federal prison for faking more than 1,000 Amazon hauls in a $3.5 million fraud",
       "cat": "Local / Trumbull CT",
       "source": "WFSB",
@@ -90,29 +156,7 @@
       "summary": "Ameer Nasir, 25, of Trumbull was sentenced on Wednesday to 24 months in federal prison and three years of supervised release for defrauding Amazon of more than $3.5 million, the U.S. Attorney’s Office for Connecticut said. He was also ordered to repay $3,547,090.93. Prosecutors say that from December 2019 to February 2021 Nasir worked a scheme against Amazon Logistics, the Amazon subsidiary that hires trucking companies to move trailers between cities, warehouses and fulfillment centers. He registered 23 trucking accounts — some set up under false names or using other transportation companies’ identities without their knowledge — and used them to accept more than 1,000 hauling assignments. He then manipulated Amazon’s transportation management system to make it look as though trailers had been moved and submitted invoices for trips that never happened, which Amazon paid. Nasir was arrested in May 2025 and pleaded guilty to wire fraud on March 6. He remains free on bond and must report to prison on Nov. 12. The FBI investigated with help from Amazon."
     },
     {
-      "n": 9,
-      "headline": "Isaias quickly intensifying: now 65 mph and forecast to be a hurricane by Thursday morning, with landfall on the northern Gulf Coast late Friday or early Saturday",
-      "cat": "Weather",
-      "source": "National Hurricane Center",
-      "url": "https://www.nhc.noaa.gov/archive/2026/al09/al092026.public.005.shtml",
-      "image_local": "images/story-882.jpg",
-      "image_remote": "https://www.nhc.noaa.gov/storm_graphics/AT09/refresh/AL092026_3day_cone+png/072049_3day_cone.png",
-      "id": "db18c200ea7ce49f6316f8bfec08c78940b7018b",
-      "summary": "Tropical Storm Isaias strengthened sharply on Wednesday afternoon. The National Hurricane Center’s 5 p.m. ET advisory, based on NOAA Hurricane Hunter data, put maximum sustained winds at 65 mph, up from 45 mph at 11 a.m., with the center about 500 miles south-southwest of the mouth of the Mississippi River, moving east-northeast at 8 mph. Isaias is expected to become a hurricane by Thursday morning and keep strengthening through Friday morning as it passes north of the Yucatán Peninsula and turns north, making landfall along the northern Gulf Coast late Friday or early Saturday. The Hurricane Watch from Bay St. Louis, Mississippi, to Indian Pass, Florida, and the Storm Surge Watch from the mouth of the Mississippi to Yankeetown, Florida, are unchanged for now, but forecasters say more watches or warnings may be needed tonight. Surge could reach 5 to 7 feet from Ocean Springs, Mississippi, to Indian Pass, including Mobile Bay, and 4 to 6 feet from Indian Pass to the Steinhatchee River. From Friday through the weekend, 3 to 7 inches of rain, locally 10, is forecast from far southeastern Louisiana to the Florida Panhandle, with 1 to 3 inches as far north as the Tennessee Valley and the Carolinas. Tornadoes are possible along the northeastern Gulf Coast Friday night, spreading inland Saturday."
-    },
-    {
-      "n": 10,
-      "headline": "Justice Department drops its appeal and says it will not enforce the federal ban on dealers selling handguns to adults under 21 ‘against anyone, anywhere’",
-      "cat": "Second Amendment",
-      "source": "Daily Caller",
-      "url": "https://dailycaller.com/2026/10/07/unheralded-doj-memo-leads-feds-to-drop-appeal-over-handgun-sales-ban/",
-      "image_local": "",
-      "image_remote": "",
-      "id": "8172646cd66cdb3e965f4ddb12a80814148f8130",
-      "summary": "The Justice Department told the Fifth Circuit Court of Appeals on Monday that it is dropping its appeal in a Firearms Policy Coalition lawsuit, first filed in November 2020 as Reese v. ATF, in which a federal district court struck down the law barring licensed dealers from selling handguns to adults 18 to 20. The move follows a Sept. 17 opinion from the department’s Office of Legal Counsel concluding that those provisions, Sections 922(b)(1) and (c)(1), are inconsistent with the Second Amendment under the Supreme Court’s Bruen and Wolford decisions and “may not be enforced to impose criminal penalties on dealers” who sell handguns to that age group. In a brief also filed Monday, the government argued the case is now moot because it “will not enforce the challenged provisions against anyone, anywhere,” and said there is no basis to widen the existing injunction as the plaintiffs want. The memo argued that the law treats an 18-year-old as “mature enough to be drafted, vote, serve as a juror, and be sentenced to death,” and noted that an 18-year-old represented the United States in Olympic skeet shooting in Tokyo yet could not legally have bought a pistol from a dealer. The plaintiffs consented to the dismissal."
-    },
-    {
-      "n": 11,
+      "n": 15,
       "headline": "OpenAI brings GPT-6 to ChatGPT with ‘Intelligent UI’ answers that can include charts, buttons, forms and built-in calculators and games",
       "cat": "AI / tech",
       "source": "9to5Mac",
@@ -123,7 +167,7 @@
       "summary": "OpenAI on Wednesday began rolling out new GPT-6 models tuned for everyday ChatGPT conversations, a month after it introduced the first GPT-6 models. GPT-6 Sol is arriving now for Plus, Pro, Business and Enterprise subscribers, and GPT-6 Luna starts rolling out to Free and Go users on Thursday. The headline feature is what OpenAI calls Intelligent UI: instead of always replying with a block of text, ChatGPT can mix in graphics, tappable buttons, forms, charts and interactive widgets depending on the question — a side-by-side layout for a comparison, an interactive diagram for an explanation, or plain text when that is most useful. For more complex prompts it can build small interactive tools right in the conversation, such as calculators, bill splitters and games, and let users adjust inputs to see how results change. OpenAI also says GPT-6 can start answering while it is still thinking, filling in its response progressively instead of making users wait for the full reasoning process to finish."
     },
     {
-      "n": 12,
+      "n": 16,
       "headline": "Jets open Tim Patrick’s 21-day return window and get Kingsley Enagbare and Mason Taylor back at practice before the Browns game",
       "cat": "Jets football",
       "source": "Heavy",
@@ -134,7 +178,7 @@
       "summary": "Head coach Aaron Glenn delivered some good news on Wednesday as the Jets began preparing for Sunday’s Week 5 home game against Cleveland at MetLife Stadium. Veteran wide receiver Tim Patrick, on injured reserve since a groin injury in the first week of regular-season practice, has been designated to return, giving the Jets 21 days to add him to the active roster. Pass rusher Kingsley Enagbare (knee), who was ruled out 90 minutes before last week’s kickoff, and tight end Mason Taylor (thumb) also returned to practice. The help is needed: Garrett Wilson, Isaiah Williams, Malik McClain and Jamaal Pritchett are the only healthy receivers on the 53-man roster, with Omar Cooper Jr. on IR and Adonai Mitchell, running back Breece Hall and lineman Dylan Parham all listed by Glenn as week-to-week. Cornerback Jarvis Brownlee Jr. remains in the concussion protocol. Patrick, 32, has 191 catches for 2,590 yards and 18 touchdowns in 87 career games and is valued as a run blocker."
     },
     {
-      "n": 13,
+      "n": 17,
       "headline": "Some Apple Watch Series 12 and Ultra 4 owners report burning and redness under the sensor — and wonder if the new 5-second heart-rate checks are to blame",
       "cat": "Apple",
       "source": "MacRumors",
@@ -145,29 +189,7 @@
       "summary": "A growing number of owners of Apple’s new Apple Watch Series 12 and Apple Watch Ultra 4 say the watches are irritating their skin, according to reports on the MacRumors forums and Reddit. The complaints describe a burning sensation and redness right under the sensor area. Both models now measure heart rate every five seconds and have a larger ECG electrode surface, a ring of photodiodes and bigger green LEDs, and some users suspect the more frequent readings, though no cause has been confirmed and wrist irritation complaints go back to the original Apple Watch. Apple’s guidance blames bands worn too tight or too loose and trapped soap, sweat, sunscreen or lotion, notes trace nickel and acrylates kept away from the skin, and recommends keeping the watch and band clean and dry. Some owners say the problem faded after an adjustment period or a cleaning; others have returned their watches. Apple advises anyone with redness, swelling or itching to see a doctor before wearing the watch again."
     },
     {
-      "n": 14,
-      "headline": "Aerosmith come out of retirement for two nights at the Hollywood Bowl, with Slash, Sammy Hagar, Heart, Billy Idol, Run DMC and more on the bill",
-      "cat": "Classic rock / Heavy metal",
-      "source": "Blabbermouth",
-      "url": "https://blabbermouth.net/news/its-official-aerosmith-to-return-to-live-stage-for-two-exclusive-nights-only-at-hollywood-bowl",
-      "image_local": "images/story-874.jpg",
-      "image_remote": "https://assets.blabbermouth.net/media/aerosmithoct2026_638.jpg",
-      "id": "19197f4f820f870ede089845188134946fa1ded8",
-      "summary": "Two years after Aerosmith quit touring because of Steven Tyler’s fractured larynx, the band will play live again. “California, Dream On: Aerosmith & Friends” takes over the Hollywood Bowl in Los Angeles on Oct. 29 and Nov. 1, with Don Was as music director and a rotating lineup that includes the Black Crowes, Run DMC, Heart, Billy Idol, Slash and Duff McKagan of Guns N’ Roses, Sammy Hagar, Jerry Cantrell and Mike Inez of Alice in Chains, Nuno Bettencourt, Sully Erna, Tom Morello, Steve Stevens, Chad Smith and Eric Church, with more guests still to be announced. Citi cardmember presales start Thursday at 10 a.m. Pacific, and the general on-sale is Saturday, Oct. 10, at 10 a.m. Pacific, with VIP packages offered. The band’s Peace Out farewell tour stopped after a Sept. 9, 2023, show in Elmont, N.Y., when Tyler was injured, and retirement from the road was announced in August 2024. As recently as April, Joe Perry said the band was “not in touring mode, but there are certainly other options.”"
-    },
-    {
-      "n": 15,
-      "headline": "Zakk Wylde’s Wylde Audio launches its first acoustic guitars: a Grand Auditorium in Ash Burst Satin now, and a Norse Dragon Bullseye version next spring",
-      "cat": "Guitar",
-      "source": "Blabbermouth",
-      "url": "https://blabbermouth.net/news/zakk-wylde-introduces-first-ever-wylde-audio-acoustic-guitars",
-      "image_local": "images/story-875.jpg",
-      "image_remote": "https://assets.blabbermouth.net/media/zakkwyldeacousticoct2026_638.jpg",
-      "id": "333098f1b7de48db63bc3c268faf5f8b9e324314",
-      "summary": "More than a decade after Black Label Society and Ozzy Osbourne guitarist Zakk Wylde started his own Wylde Audio brand of guitars and amps, the company has released its first acoustic models. The Wylde Audio Grand Auditorium Acoustic in Ash Burst Satin went on sale Oct. 6 through select dealers and online at SchecterGuitars.com and WyldeAudio.com; a second version with Wylde’s Norse Dragon Bullseye graphic follows in spring 2027. The guitars pair striking tops with mahogany back and sides, pearloid Rune inlays on a rosewood fingerboard, and a thin “C” mahogany neck with a 25.5-inch scale, 16-inch radius and 20 narrow jumbo frets. Cream-and-black binding, satin black hardware and Grover tuners finish the look, and a Wylde Audio Pro EQ preamp with a built-in tuner and piezo pickup handles the stage. Wylde, who formed Black Label Society in 1998, played on every Ozzy solo album from “No Rest for the Wicked” on except 2020’s “Ordinary Man.”"
-    },
-    {
-      "n": 16,
+      "n": 18,
       "headline": "Still ticking at 715,000 miles: a Southern California rideshare driver’s 2017 Kia Sorento is still running on its original V6",
       "cat": "Auto reliability",
       "source": "The Drive",
@@ -178,18 +200,7 @@
       "summary": "The third-generation Kia Sorento is better known for engine failures and oil burning than longevity, but Arthur Rutaquio’s 2017 example has passed 715,000 miles on its factory 3.3-liter Lambda V6. Rutaquio drives rideshare between San Diego and LAX daily and has also taken the SUV cross-country to Orlando and back. His answer to how: “Maintenance.” An independent mechanic friend does all the work — Rutaquio says he never takes it to a dealer because of “trust issues.” Oil is changed every 10,000 miles, never cheaper than Valvoline extended-life, and Royal Purple or Amsoil with Lucas stabilizer when he can afford it. The original transmission failed around 580,000 miles and was replaced, the front suspension is rebuilt every 200,000 to 250,000 miles and the rear every 100,000 to 150,000, and the car has gone through two alternators, a starter, a water pump, a throttle body, injectors and several oil-pressure sensors. The Drive notes the V6 avoids the problems of Kia’s troubled Theta II turbo four. His goal now is one million miles."
     },
     {
-      "n": 17,
-      "headline": "Israel’s U.N. ambassador rips Mayor Mamdani’s Oct. 7 anniversary post: ‘Like turning September 11 into a day of mourning for al-Qaeda’",
-      "cat": "Politics / NYC",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/politics/israel-amb-torches-mamdani-oct-7-post-like-turning-september-11-into-day-mourning-al-qaeda",
-      "image_local": "images/story-878.jpg",
-      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/danny-danon-zohran-mamdani-split.jpg",
-      "id": "15ca5ef5f79e827c0a1ecf1ddc3e87a8deeee0e2",
-      "summary": "New York City Mayor Zohran Mamdani’s message on the third anniversary of Hamas’s Oct. 7 attack drew a sharp rebuke from Israel’s ambassador to the United Nations, Danny Danon. Mamdani’s post opened by calling the day “profoundly painful for so many New Yorkers,” described the attack as “horrific war crimes,” and noted that Hamas killed more than 1,100 Israelis and abducted 251. He then turned most of the statement to Gaza, accusing Israel of a “devastating, ongoing genocide,” citing a Palestinian death toll above 74,000, and accusing the U.S. government of complicity. Danon called it “Mamdani-ism — an attempt to hijack the anniversary of October 7 and turn it into yet another propaganda attack against Israel,” adding, “It is like turning September 11 into a day of mourning for al-Qaeda terrorists. We will remember those who were murdered, and we will never forget who was behind this massacre.” Israel rejects the genocide charge and says it warns civilians before strikes. The post is the latest flashpoint for the mayor, who also faced backlash when an old post resurfaced ahead of this year’s 9/11 ceremony at Ground Zero."
-    },
-    {
-      "n": 18,
+      "n": 19,
       "headline": "Trump will give Elon Musk the National Medal of Science on Thursday, along with Sergey Brin, Jensen Huang and Lisa Su — his first time presenting the honors",
       "cat": "Elon Musk / Tesla",
       "source": "Fox News",
@@ -200,7 +211,7 @@
       "summary": "President Trump will award Elon Musk the National Medal of Science on Thursday at the White House’s “Science: A New Golden Age” summit on super intelligence, Fox News Digital reports. Google co-founder Sergey Brin, Nvidia CEO Jensen Huang and AMD CEO Lisa Su will receive the same medal, and Dell’s Michael Dell and Microsoft CEO Satya Nadella will get the National Medal of Technology and Innovation. It is the first time Trump has presented either honor in his two terms. White House spokesperson Liz Huston said the recipients “are helping ensure America keeps leading the world in innovation.” The award is another step in Musk’s return to Trump’s orbit after their public falling-out over the One Big Beautiful Bill following his DOGE exit. Musk has since joined Trump at a recent tech leaders’ lunch and during Chinese President Xi Jinping’s visit, and has taken an advisory role co-leading the Pentagon’s Project Meridian, which studies the future of warfare and the technology the military will need."
     },
     {
-      "n": 19,
+      "n": 20,
       "headline": "Babylon Bee: ‘McDonald’s Reduces Entire Global Workforce To 27 Kiosks And A Guy Named José’",
       "cat": "Satire",
       "source": "The Babylon Bee",
@@ -209,17 +220,6 @@
       "image_remote": "https://media.babylonbee.com/articles/6ac6930c269ef6ac6930c269f0.jpg",
       "id": "a7e1b5cb6a4e61b791c5a98d50b6755327680ebb",
       "summary": "Satire. The Babylon Bee imagines McDonald’s announcing that all orders at its more than 45,000 restaurants in over 100 countries — once staffed by about 2.2 million people — will now be handled by 27 self-order kiosks and one guy named José. A fictional CEO named “Bob McDonald” predicts that the cost-cutting will push revenue from $27 billion to “easily” more than $1 trillion, with corporate planning to charge franchisees more in rent and royalties now that they are saving on payroll. Franchise owners, in the Bee’s telling, remain skeptical that 27 kiosks worldwide will keep food quality, service and sales up at thousands of stores."
-    },
-    {
-      "n": 20,
-      "headline": "‘Crackgate’ fix: LEGO says it found why Gingy and Patrick minifigure heads are cracking and will send free replacements",
-      "cat": "LEGO",
-      "source": "Jay’s Brick Blog",
-      "url": "https://jaysbrickblog.com/news/crackgate-update-lego-to-fix-and-replace-gingy-and-patrick-minifigure-heads/",
-      "image_local": "images/story-864.jpg",
-      "image_remote": "https://jaysbrickblog.com/wp-content/uploads/2026/10/Patrick-and-Gingy-Crack-Update-Feature.png",
-      "id": "84e574a1d9bec72d93b0829c2c01c6972b095a05",
-      "summary": "LEGO has acknowledged the “#crackgate” problem fans have been reporting, in which the heads on Gingy from the Shrek Collectible Minifigures series and Patrick from set 11386 SpongeBob SquarePants: Bikini Bottom crack or develop stress marks. Blogger Jay of Jay’s Brick Blog met with LEGO’s Quality team at the Fan Creator Summit in Billund and says the company has identified the cause and already put fixed heads into production. In a statement, LEGO said: “We are aware of a quality issue affecting some LEGO minifigure heads … we’re really sorry for the disappointment this has caused,” and said affected fans will be able to request replacements free of charge from LEGO Customer Service. There is no date yet for when requests open, so owners of a cracked Gingy or Patrick should hold on to it and watch for LEGO’s announcement. Jay says the Quality team took fan concerns about a perceived drop in quality seriously and credits the fans who reported the problem to Customer Service for getting it fixed quickly."
     }
   ]
 }

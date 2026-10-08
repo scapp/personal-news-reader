@@ -969,7 +969,14 @@
     "2f2e27f09b5c257fa4c2888595cd7a77f5f0bc9c",
     "3a52b70ce027995f224b7d4f5abe6b5cdd4eb8a8",
     "94a9658e18fb9d3b71ae31ac3ccf51609e490091",
-    "a2ec1bdba0f30937367b625f79e48fe75fb083a1"
+    "a2ec1bdba0f30937367b625f79e48fe75fb083a1",
+    "64518a177f5754fafb826dee4de7d713e9c626ca",
+    "fa57195b9952500976a4b295737a9fdd4c537c28",
+    "9a3422138864ffc2e4a5bd653a895594432ef396",
+    "bc90a625b4c1601a71b4a7995162ee834b48e721",
+    "8554bdb61a37200cb1d1b9fd81a6a4b2cdbe0cec",
+    "f6f4c0bde32572a2e4aee79209479bc9213c6a1b",
+    "3ee2f8aeccf88844e53f5a428032c25df2055398"
   ],
   "stories": {
     "0c2ac7a5e342411678296315c4c59043b1f067cc": {
@@ -12027,7 +12034,77 @@
       "image_remote": "https://runway-media-production.global.ssl.fastly.net/us/originals/2023/11/Icelandair-getty-scaled.jpg",
       "image_local": "images/story-888.jpg",
       "id": "a2ec1bdba0f30937367b625f79e48fe75fb083a1"
+    },
+    "64518a177f5754fafb826dee4de7d713e9c626ca": {
+      "headline": "Isaias becomes the first hurricane of 2026 — the latest first hurricane in 121 years — and hurricane warnings now run from Mississippi to the Florida Panhandle",
+      "cat": "Weather",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/hurricane-isaias-first-storm-2026-atlantic-season-record/",
+      "summary": "Isaias strengthened into a hurricane late Wednesday night and had maximum sustained winds of 80 mph early Thursday, with its core about 420 miles south-southwest of the mouth of the Mississippi River, the National Hurricane Center said. It is expected to keep strengthening through early Friday and make landfall along the northern Gulf Coast late Friday or early Saturday. A hurricane warning now covers the coast from Ocean Springs, Mississippi, across Alabama to Florida’s Bay/Gulf County line, with tropical storm warnings on either side and a storm surge warning from the mouth of the Mississippi to Florida’s Steinhatchee River; the center said preparations “should be rushed to completion today.” Forecasters expect 3 to 7 inches of rain, up to 10 inches in spots, from southeastern Louisiana to the Panhandle, with heavy rain reaching the Tennessee Valley and the Carolinas. Florida Gov. Ron DeSantis declared a state of emergency for more than two dozen counties and Alabama Gov. Kay Ivey for 40. CBS notes it is the latest date in 121 years for the Atlantic season’s first hurricane, just missing the record of Oct. 8, 1905, in a season kept quiet by a strong El Niño.",
+      "image_remote": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/08/6e3a78ab-4655-4264-885a-976b5d6dff1e/thumbnail/1200x630/fe9ffb4c2299b313cf609e56451f27bc/hurricane.jpg",
+      "image_local": "images/story-889.jpg",
+      "id": "64518a177f5754fafb826dee4de7d713e9c626ca"
+    },
+    "fa57195b9952500976a4b295737a9fdd4c537c28": {
+      "headline": "Russian glide bomb hits a Kramatorsk bus stop at morning rush, killing at least 30 people on two buses",
+      "cat": "World",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/world/europe/30-people-feared-dead-bus-attack-eastern-ukraine-rcna602247",
+      "summary": "A Russian aerial bomb struck a street in the eastern Ukrainian city of Kramatorsk around 10 a.m. local time Thursday as two buses were passing, killing at least 30 people and wounding 18, Ukraine’s National Police said. President Volodymyr Zelenskyy said Russia hit “an ordinary public transport stop,” and Donetsk regional governor Vadym Filashkin accused Moscow of deliberately targeting civilians, saying a bus full of passengers is attractive to Russia “precisely because one hit can kill as many people as possible.” Ukraine’s emergency service later put the toll at 33, the Kyiv Independent reported, and the Kramatorsk and Sloviansk military administrations halted all public transport. The strike came after an overnight barrage of 142 drones across the country, 126 of which Ukraine said it shot down or suppressed, and a day after a missile hit a residential building in northern Ukraine, killing 22 people, including five children. NBC News notes civilian casualties are climbing as Ukraine runs low on interceptors for its Patriot batteries.",
+      "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261008-kramatorsk-bus-mb-1139-ec89ed.jpg",
+      "image_local": "images/story-890.jpg",
+      "id": "fa57195b9952500976a4b295737a9fdd4c537c28"
+    },
+    "9a3422138864ffc2e4a5bd653a895594432ef396": {
+      "headline": "Lawsuit says Dearborn hung ‘Ramadan Kareem’ banners and lighted crescent moons but ignored requests for Easter, Passover or any Christian or Jewish symbols",
+      "cat": "Religious liberty",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/lawsuit-accuses-dearborn-michigan-hostile-christians-jews-islamic-displays",
+      "summary": "Margot Cleveland, senior legal correspondent at The Federalist, has sued the city of Dearborn, Michigan, and Mayor Abdullah Hammoud in federal court, alleging the city violates the First Amendment by displaying only Islamic religious symbols in public. Cleveland told Fox News Digital she noticed “Ramadan Kareem” banners lining the boulevard and a lone crescent-moon display during the fourth week of Lent, with Easter and Passover approaching. She says the city attorney never answered her letter asking whether Christian and Jewish holidays would get equal treatment, that one council member told her on LinkedIn the council had been told not to talk to her, and that public-records requests turned up Dearborn police selling Ramadan T-shirts bearing the department’s seal. “I have not asked the city not to celebrate Ramadan,” she said. “What I’ve asked is that the city treat Christians and Jews equally.” Instead, she says, the mayor added bigger, lighted Ramadan displays. The American Freedom Law Center filed the complaint in the Eastern District of Michigan on Sept. 17. The city said it “has a longstanding commitment to serving all residents fairly and equitably, regardless of faith or background.”",
+      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/Ramadan_Dearborn_Cleveland.jpg",
+      "image_local": "images/story-891.jpg",
+      "id": "9a3422138864ffc2e4a5bd653a895594432ef396"
+    },
+    "bc90a625b4c1601a71b4a7995162ee834b48e721": {
+      "headline": "Producer Andrew Watt says Ozzy, Iommi and Geezer were up for one last original-lineup Black Sabbath album — until a 40-minute call with Bill Ward",
+      "cat": "Heavy metal",
+      "source": "Louder",
+      "url": "https://www.loudersound.com/bands-artists/andrew-watt-claims-ozzy-osbourne-tony-iommi-and-geezer-butler-wanted-to-make-one-final-black-sabbath-album",
+      "summary": "Andrew Watt, who produced Ozzy Osbourne’s Ordinary Man (2020) and Patient Number 9 (2022), says Ozzy wanted his next record to be a Black Sabbath album with the original lineup, and that Sharon and Ozzy had him call each member. Tony Iommi was in “as long as Bill was there,” Watt told the Lipps Service podcast; Ozzy said “If Bill does it, we’ll do it,” and Geezer Butler was in if the others were. Watt then had what he called “one of the weirdest and funniest phone calls ever” — 40 minutes with drummer Bill Ward — and Ward ultimately could not make the record “for a multitude of different reasons,” followed by a long email that ended the idea. Louder notes Watt’s account doesn’t quite match Iommi, who told Classic Rock this summer that Watt was “very keen and a bit too excited,” didn’t know what working with the original Sabbath and Ward was like, and that after 2013’s 13 he didn’t like the idea of “another album.” Iommi’s own solo record, From The Dark, comes out Oct. 23 on BMG.",
+      "image_remote": "https://cdn.mos.cms.futurecdn.net/7dL9TgSCVMdVoNW7D5q9dU-1280-80.jpg",
+      "image_local": "images/story-892.jpg",
+      "id": "bc90a625b4c1601a71b4a7995162ee834b48e721"
+    },
+    "8554bdb61a37200cb1d1b9fd81a6a4b2cdbe0cec": {
+      "headline": "Sigma’s $799 50-120mm f/2.8 finally gives Canon RF crop shooters a compact 70-200-style zoom, completing its APS-C trinity",
+      "cat": "Canon photography",
+      "source": "Canon Rumors",
+      "url": "https://www.canonrumors.com/sigma-officially-announces-the-rf-50-120mm-f-2-8-dc-os-contemporary/",
+      "summary": "Sigma has announced the 50-120mm f/2.8 DC OS Contemporary, the long end of its compact f/2.8 “holy trinity” for APS-C cameras alongside the 10-18mm and 18-50mm f/2.8 zooms. On Canon’s RF mount it works out to an 80-192mm equivalent field of view — the crop-sensor answer to a 70-200mm f/2.8 that Canon Rumors says APS-C shooters have wanted “for as long as we can remember.” The RF version weighs 410 grams (the Sony E and Fujifilm X versions are 390 grams), has optical stabilization rated at 6.5 stops at the wide end and 4.5 at the long end, a linear HLA autofocus motor, low focus breathing for video and weather sealing; Sigma dropped the switches and buttons to keep it small. Sigma’s MTF charts look strong, especially at 120mm, Canon Rumors says, with only some corner softness. It costs $799 (£699), is available to preorder, and ships Oct. 22.",
+      "image_remote": "https://www.canonrumors.com/wp-content/uploads/2026/10/Sigma-50-120mm-f2.8-DC-OS-Contemporary-1600.jpg",
+      "image_local": "images/story-893.jpg",
+      "id": "8554bdb61a37200cb1d1b9fd81a6a4b2cdbe0cec"
+    },
+    "f6f4c0bde32572a2e4aee79209479bc9213c6a1b": {
+      "headline": "Chattanooga’s new Renaissance Faire doubles in size for Nov. 14–15, spreading across two riverfront parks with armored combat, forges and three stages",
+      "cat": "Renaissance faires",
+      "source": "The Pulse (Chattanooga)",
+      "url": "https://www.chattanoogapulse.com/citylife/news/chattanooga-renaissance-faire-announces-lineup-for-expanded-/",
+      "summary": "After its first faire drew big crowds this spring, the Chattanooga Renaissance Faire returns Nov. 14–15 and expands into a two-day event across both Coolidge Park and Renaissance Park on the Tennessee River. The newly announced lineup includes full-contact Dauntless Armored Combat and BattleKat Combat, circus acts from Dandy the Modern Monkey Boy and Fickle & Fray, Snapping Pyros fire performers, Ambush Improv, the Buckle and Bits Show, and roaming pirates, mermaids, fairies and characters such as Droopel the Barbarian and the Washing Wenches. The Chattanooga Zoo and Happinest Raptors will bring live animals, and there will be live-action role-playing, Dungeons & Dragons, workshops and a large artisan market, plus working forges and demonstrations in pottery, fiber arts, block printing, silversmithing and leatherworking. Hours are 10 a.m. to 8 p.m. Saturday and 10 a.m. to 5 p.m. Sunday; tickets are on sale at chattrenfaire.com.",
+      "image_remote": "https://www.chattanoogapulse.com/downloads/40427/download/Renaissance%20Faire%2026.png?cb=887d9171651e500be112b73ee3a0fe0c&w=700",
+      "image_local": "images/story-894.jpg",
+      "id": "f6f4c0bde32572a2e4aee79209479bc9213c6a1b"
+    },
+    "3ee2f8aeccf88844e53f5a428032c25df2055398": {
+      "headline": "LEGO Pokémon rumor: a $129.99 Snorlax, a Charmander and a Poké Ball are said to be coming in March 2027",
+      "cat": "LEGO",
+      "source": "Brick Fanatics",
+      "url": "https://www.brickfanatics.com/lego-snorlax-rumoured-two-more-pokemon-builds",
+      "summary": "New rumors fill in three previously reported 18+ LEGO Pokémon sets, Brick Fanatics reports, citing the Instagram leaker unibricks. Set 72183 would be a Poké Ball at $39.99 with 406 pieces, 72184 a Charmander at $69.99 with 741 pieces, and 72185 a 1,156-piece Snorlax at $129.99 — the biggest of the three, as befits the famously sleepy Pokémon. The catch is timing: the sets have reportedly slipped from February to March 2027, lining up with rumored LEGO Pokémon blind boxes due the same month. No images exist yet, but nearly every adult LEGO Pokémon set so far has been a buildable figure, like 72160 Arcanine and 72150 Munchlax. As with any LEGO leak, names, prices and dates are unconfirmed until the LEGO Group announces them.",
+      "image_remote": "",
+      "image_local": "",
+      "id": "3ee2f8aeccf88844e53f5a428032c25df2055398"
     }
   },
-  "updated": "Wednesday, October 7, 2026 · 10:00 PM ET"
+  "updated": "Thursday, October 8, 2026 · 7:00 AM ET"
 }
