@@ -1006,7 +1006,16 @@
     "9f3a9474280bd9b6c71fa37dbd851677333ecf53",
     "8668ef39d4763fd42039bbd5b7674db968e9d1c0",
     "5ff1d586f4cdd42a47b89080d76c0c5d9c4aac24",
-    "e570f025163f9f266cf52ff1fd6e16e3058047f5"
+    "e570f025163f9f266cf52ff1fd6e16e3058047f5",
+    "332b1aa1138ed865fe6fe9547fab4cdf27d474da",
+    "37fcce3cd3a3716555e35cbfb4ea985af976a43c",
+    "4fa96baf897ef31547da34e5d2c02806142b0391",
+    "b720ecf017ed730a2af074977d0c5b8bf6455ed1",
+    "020d4436f02de141244e096fb84b7847668c6302",
+    "2ed59956c27aff0ab27faaf59452202fcea4c8bb",
+    "28887cef7e2ae11ac6af562a1f2a647770b05400",
+    "897611ea8f7058ce701ed020c095dedf5203ef1f",
+    "3dddeba6e97e991e68ae1b0a16fbc498296c423a"
   ],
   "stories": {
     "0c2ac7a5e342411678296315c4c59043b1f067cc": {
@@ -12434,7 +12443,97 @@
       "image_remote": "https://media.babylonbee.com/articles/6ac8047ae29bf6ac8047ae29c0.jpg",
       "image_local": "images/story-919.jpg",
       "id": "e570f025163f9f266cf52ff1fd6e16e3058047f5"
+    },
+    "332b1aa1138ed865fe6fe9547fab4cdf27d474da": {
+      "headline": "Hurricane Isaias hits 105 mph and is forecast to keep strengthening before a Friday-night landfall on the Florida Panhandle and Alabama coast",
+      "cat": "Weather",
+      "source": "NPR (AP)",
+      "url": "https://www.npr.org/2026/10/09/nx-s1-5996396/hurricane-isaias-updates",
+      "summary": "Isaias, the first hurricane of the Atlantic season, strengthened to a Category 2 storm with 105 mph winds as it headed northeast across the Gulf, and forecasters expect it to intensify rapidly before it comes ashore late Friday or early Saturday. A hurricane warning runs from Ocean Springs, Mississippi, to the Bay–Gulf County line in Florida, with a storm surge warning from the mouth of the Mississippi to the Suwannee River. “Today is the day to prepare,” said National Hurricane Center director Michael Brennan. Alabama Gov. Kay Ivey ordered non-residents out of Gulf Shores, Orange Beach and Dauphin Island, traffic backed up leaving the beaches, and Gov. Ron DeSantis said about 5,000 Florida National Guard troops would be mobilized. Forecasters warn of 5 to 7 feet of surge in parts of Alabama and Mississippi, up to 15 inches of rain, overnight tornadoes and long power outages, with heavy rain possible as far north as Tennessee and North Carolina. Isaias formed one day short of tying a 1905 record for the season’s latest first hurricane.",
+      "image_remote": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1788x1006+0+490/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffe%2F5c%2Fb9d992f643e597cfafb2fae051c6%2Fap26281529295134.jpg",
+      "image_local": "images/story-920.jpg",
+      "id": "332b1aa1138ed865fe6fe9547fab4cdf27d474da"
+    },
+    "37fcce3cd3a3716555e35cbfb4ea985af976a43c": {
+      "headline": "Mamdani demands Trump free the man an ICE agent shot in the Bronx and pull ICE out of New York as protesters clash with police",
+      "cat": "Immigration",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/us/mamdani-demands-trump-release-illegal-immigrant-shot-ice-agent-protests-erupt-bronx",
+      "summary": "An ICE agent shot and wounded a man during a targeted arrest in the Marble Hill section of the Bronx on Thursday afternoon, setting off street protests and confrontations with law enforcement. DHS says the 28-year-old is an illegal immigrant from the Dominican Republic with a prior grand larceny conviction and earlier arrests for assault, robbery, drugs and weapons, and alleged ties to the Trinitarios gang. NYPD Commissioner Jessica Tisch said seven rounds were fired, striking the driver in the neck, and that a 5-year-old boy believed to be his son was in the car but was not hurt. At a late-night news conference, Mayor Zohran Mamdani said he spent about two hours on the phone with President Trump, unsuccessfully urging him to release the man, and said the city wants ICE gone: “All they do is terrorize this city.” Gov. Kathy Hochul said she asked Trump and DHS Secretary Markwayne Mullin to halt enforcement in New York and release any body-camera video. The man has since been moved out of the hospital by ICE.",
+      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/mamdani-ice-presser-shooting-nyc.jpg",
+      "image_local": "images/story-921.jpg",
+      "id": "37fcce3cd3a3716555e35cbfb4ea985af976a43c"
+    },
+    "4fa96baf897ef31547da34e5d2c02806142b0391": {
+      "headline": "Big Thursday for Trumbull High: girls soccer edges Darien 2–1, volleyball sweeps New Canaan to stay unbeaten, field hockey routs Danbury 9–0",
+      "cat": "Local / Trumbull CT",
+      "source": "Yahoo Sports (CT Insider photos); scores via FCIAC",
+      "url": "https://sports.yahoo.com/articles/photos-trumbull-vs-darien-high-035713529.html",
+      "summary": "Trumbull’s fall teams went 3–0 on Thursday, according to the FCIAC scoreboard. Girls soccer won 2–1 at Darien, a road win over one of the league’s traditional powers; the photo gallery from the match is free on Yahoo Sports. Volleyball swept New Canaan 3–0 (25-23, 25-17, 25-19) to stay perfect on the season, led by Adriana Castillo’s 13 kills and 9 digs, McKenzyi Bell’s 12 kills and 3 blocks, and Bea Carley’s 16 digs and 3 aces. Field hockey beat Danbury 9–0. Up next: boys soccer hosts Darien tonight at 5:30 p.m., girls soccer hosts Norwalk Saturday at 9 a.m., field hockey plays at Fairfield Warde Saturday at 10 a.m., girls swimming hosts Westhill/Stamford Monday at 11 a.m., and volleyball is at Wilton on Tuesday.",
+      "image_remote": "https://media.zenfs.com/en/ct_insider_187/ed26927bb5b20c7d9d650d3f9f847d1a.jpg",
+      "image_local": "images/story-922.jpg",
+      "id": "4fa96baf897ef31547da34e5d2c02806142b0391"
+    },
+    "b720ecf017ed730a2af074977d0c5b8bf6455ed1": {
+      "headline": "Judas Priest founding bassist Ian Hill retires after 57 years, citing advanced arthritis; Uriah Heep’s Dave Rimmer takes over",
+      "cat": "Heavy metal",
+      "source": "Blabbermouth",
+      "url": "https://blabbermouth.net/news/judas-priests-ian-hill-announces-his-retirement-uriah-heeps-dave-rimmer-to-step-in",
+      "summary": "Ian Hill, the last original member of Judas Priest, announced Friday that he is retiring from the band he co-founded in 1969. In a message the band shared, the 74-year-old said he had always planned to continue “until my performances suffer… I hate to say it, but that time has come.” He described arthritis in both shoulders, his right hand and both knees, treated with painkillers and cortisone shots, and said he snapped a tendon in his left shoulder during the Brussels show on the recent European tour, which kept him out of the Sept. 21 London concert. Dave Rimmer of Uriah Heep and Elegant Weapons, Richie Faulkner’s side band, filled in that night and is now his permanent replacement. Hill said he still recorded bass for Priest’s next album and wants to make up for “fifty seven years” of neglected family life. The band called him “the backbone of Judas Priest for so long.”",
+      "image_remote": "https://assets.blabbermouth.net/media/ianhilljudaspriestaug2024_638.jpg",
+      "image_local": "images/story-923.jpg",
+      "id": "b720ecf017ed730a2af074977d0c5b8bf6455ed1"
+    },
+    "020d4436f02de141244e096fb84b7847668c6302": {
+      "headline": "Nobel Peace Prize goes to Navi Pillay, ex-ICC judge who led the U.N. Gaza ‘genocide’ inquiry; she jokes she ‘may share this prize with Trump’",
+      "cat": "World",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/world/europe/nobel-peace-prize-favorites-include-yulia-navalnaya-donald-trump-downp-rcna602462",
+      "summary": "The Norwegian Nobel Committee awarded the 2026 Peace Prize to Navanethem “Navi” Pillay, an 85-year-old South African jurist who once defended Nelson Mandela, served as a judge at the International Criminal Court and as U.N. human rights chief, and most recently led the U.N. commission that concluded Israel committed genocide in Gaza. Committee chair Jørgen Watne Frydnes framed the choice as a defense of international law against a “shift towards power politics.” Pillay learned of the award at a law forum in Nuremberg and told the applauding crowd, “If you clap a little bit more, I may share this prize with Trump.” President Trump was among 287 nominees, put forward by the leaders of Israel, Pakistan and Cambodia, but said this week that the committee has “a reputation for maybe not giving it to people like me.” Amnesty International’s chief praised the pick as a rebuke to U.S. attacks on the ICC. Pillay was not among the betting favorites.",
+      "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261009-Navi-rs-c00c5e.jpg",
+      "image_local": "images/story-924.jpg",
+      "id": "020d4436f02de141244e096fb84b7847668c6302"
+    },
+    "2ed59956c27aff0ab27faaf59452202fcea4c8bb": {
+      "headline": "SpaceX buys nationwide 800 MHz spectrum to turn Starlink Mobile into a full U.S. carrier; AT&T, Verizon and T-Mobile shares slip",
+      "cat": "Elon Musk / SpaceX",
+      "source": "Teslarati",
+      "url": "https://www.teslarati.com/spacex-direc-cell-att-verizon-t-mobile-challenge/",
+      "summary": "SpaceX has agreed to buy Grain Management’s entire nationwide 800 MHz spectrum portfolio, which it says will “pave the way for Starlink to become a major mobile carrier in the US.” The low-band licenses, which Grain acquired from T-Mobile only in August, are built for ground towers rather than satellites, and SpaceX says the band penetrates walls and works with most existing phones. Combined with the 2 GHz satellite spectrum it gained from EchoStar, Starlink Mobile would be the first operator running both satellite and terrestrial spectrum. No price was disclosed and the deal needs FCC approval. It follows the FCC’s approval earlier this week of 15,000 second-generation Starlink Mobile satellites. Shares of AT&T, Verizon and T-Mobile fell in after-hours trading; T-Mobile, currently SpaceX’s launch partner for direct-to-cell service, is in the most awkward spot. SpaceX president Gwynne Shotwell said in August she expects Starlink Mobile to win customers from the big carriers.",
+      "image_remote": "https://www.teslarati.com/wp-content/uploads/2026/05/spacex-starlink-d2d-verizon-att-tmobile-1000x600.jpg",
+      "image_local": "images/story-925.jpg",
+      "id": "2ed59956c27aff0ab27faaf59452202fcea4c8bb"
+    },
+    "28887cef7e2ae11ac6af562a1f2a647770b05400": {
+      "headline": "With DJI blocked in the U.S., Insta360 opens a Times Square flagship and goes all-in on American creators",
+      "cat": "Cameras / Insta360",
+      "source": "Rest of World",
+      "url": "https://restofworld.org/2026/insta360-us-dji-sanctions-drones-cameras/",
+      "summary": "With the FCC blocking DJI from selling new drones and cameras in the U.S. and the Pentagon labeling it a Chinese military company, its smaller Shenzhen rival Insta360 is making a hard push for American buyers. Last month it opened its first U.S. flagship store in Times Square, with YouTubers flown in and yellow-shirted cyclists touring the city. Co-founder Max Richter, a former DJI employee, told Rest of World the U.S. already accounts for 30% to 40% of Insta360’s revenue. DJI still holds about 73% of global handheld smart-camera shipments to Insta360’s 20%, and GoPro has been largely pushed out. Insta360 also spun up an independent drone brand, Antigravity, whose A1 drone won FCC approval just before the ban on new foreign-made drones took effect, a structure analysts say could shield the camera business from future restrictions. “It’s better to have a clear no than maybe in business,” one consultant said of the regulatory picture.",
+      "image_remote": "https://restofworld.org/wp-content/uploads/2026/10/INSTA360-13-1500x900.jpg",
+      "image_local": "images/story-926.jpg",
+      "id": "28887cef7e2ae11ac6af562a1f2a647770b05400"
+    },
+    "897611ea8f7058ce701ed020c095dedf5203ef1f": {
+      "headline": "Penguins (2-2-0) try to bounce back at Columbus tonight; Tommy Novak leads the team with five points, and Pittsburgh is 24-3-6 in its last 33 vs. the Jackets",
+      "cat": "Penguins hockey",
+      "source": "PensBurgh",
+      "url": "https://www.pensburgh.com/penguins-lines-game-time-watch/81661/game-preview-pittsburgh-penguins-columbus-blue-jackets-10-9-2026",
+      "summary": "After two straight losses following a 2-0 start, the Penguins visit the Columbus Blue Jackets tonight (SportsNet Pittsburgh; ESPN+ out of market). Pittsburgh is 2-2-0 and fourth in the Metropolitan Division, playing its fifth game; Columbus is 1-1-0 and coming off a five-day break after a 4-1 home loss to Utah. Pittsburgh has dominated the matchup, going 24-3-6 in its last 33 games against Columbus since February 2017. Tommy Novak has been the early surprise with a team-leading five points (3 goals, 2 assists) in four games, already his best start in five games. Elmer Soderblom, Ilya Solovyov and Spencer Stastney are expected scratches. It’s the first of a back-to-back: the Penguins host Dallas on Saturday before a week-long western trip to Chicago, Colorado, Vegas and Utah.",
+      "image_remote": "https://platform.pensburgh.com/wp-content/uploads/sites/123/2026/09/gettyimages-2254664107.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "image_local": "images/story-927.jpg",
+      "id": "897611ea8f7058ce701ed020c095dedf5203ef1f"
+    },
+    "3dddeba6e97e991e68ae1b0a16fbc498296c423a": {
+      "headline": "Manson follower Patricia Krenwinkel recommended for parole a third time, 57 years after the Tate-LaBianca murders; Newsom has twice blocked it",
+      "cat": "Crime / courts",
+      "source": "People",
+      "url": "https://people.com/charles-manson-follower-convicted-in-1969-sharon-tate-murders-granted-parole-again-12164481",
+      "summary": "Patricia Krenwinkel, 78, one of Charles Manson’s most notorious followers, was again recommended for parole at a hearing on Oct. 6, according to California corrections records. She has been in prison since her 1971 conviction on seven counts of first-degree murder for the August 1969 killings of actress Sharon Tate and four others at Tate’s home and of Leno and Rosemary LaBianca the next night, and she is now California’s longest-serving female inmate. The parole board granted her release in 2022 and 2025, and Gov. Gavin Newsom reversed it both times, saying she still posed an unreasonable risk despite her rehabilitation. The new decision faces a 120-day board review, after which Newsom has 30 days to decide whether to block it again. Krenwinkel has kept a clean prison record and earned a bachelor’s degree. Fellow Manson family members Leslie Van Houten and Steve Grogan have been paroled; Tex Watson waived a hearing until 2029.",
+      "image_remote": "https://people.com/thmb/uEnlfwtwiojRrcPY5aXxmVGz1fE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(749x0:751x2)/patricia-kenwinkel-prebit-tout-051524-557421727ae44b0ba1a9b1231aa9e726.jpg",
+      "image_local": "images/story-928.jpg",
+      "id": "3dddeba6e97e991e68ae1b0a16fbc498296c423a"
     }
   },
-  "updated": "Thursday, October 8, 2026 · 10:22 PM ET"
+  "updated": "Friday, October 9, 2026 · 7:18 AM ET"
 }
