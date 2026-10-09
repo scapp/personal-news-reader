@@ -1,8 +1,96 @@
 {
-  "updated": "Friday, October 9, 2026 · 4:16 PM ET",
+  "updated": "Friday, October 9, 2026 · 6:11 PM ET",
   "stories": [
     {
       "n": 1,
+      "headline": "Update: a second, magnitude 6.6 quake hits Panama hours after the 7.7 — more than 45 aftershocks, a colonial-era church listed as a national heritage site collapses and Panama City’s main airport halts flights",
+      "cat": "World",
+      "source": "WDTV (AP)",
+      "url": "https://www.wdtv.com/2026/10/09/second-powerful-66-magnitude-earthquake-strikes-panama-following-series-aftershocks-usgs-says/",
+      "image_local": "images/story-947.jpg",
+      "image_remote": "https://gray-wdtv-prod.gtv-cdn.com/resizer/v2/FHFIAQQJCZF6THSUGQSFCXPWPY.jpg?auth=2a0fc319325709abe26643be28173b5003506dcbbd35f07327eab4f35aad362e&width=1200&height=600&smart=true",
+      "id": "f685706bb54d831be245102b5b233f073f797ef8",
+      "summary": "Panama was hit by a second powerful earthquake Friday afternoon, a magnitude 6.6, hours after the magnitude 7.7 quake centered near Pitaloza Arriba in Herrera province, the U.S. Geological Survey said. Seismologists at the University of Panama have recorded more than 45 aftershocks, including several around magnitude 5.8, 5.5 and 5.2. Civil protection officials say damage is concentrated in the central provinces of Veraguas, Herrera and Los Santos: the cathedral on the main square in Penonomé partly collapsed and cracked, the governor’s office and the Dos Continentes hotel were damaged, and local outlets reported that the Church of San Atanasio in Los Santos, a colonial-era church declared a National Historic Heritage Site in 1938, collapsed. Several injuries but no deaths had been reported. Tocumen International Airport in Panama City suspended operations while it is inspected, while the Panama Canal Authority said ships are moving normally. Tsunami warnings covered Panama, Colombia, Ecuador, Nicaragua and Guatemala, with waves of 3 to 9 feet possible in parts of Panama, and the U.S. Embassy says it is checking on Americans in the country, a popular retirement destination."
+    },
+    {
+      "n": 2,
+      "headline": "Tesoro’s October newsletter: free naloxone cabinets at five Trumbull spots, the Veterans and First Responders Center on track for January, and a $243,656 special-education grant",
+      "cat": "Local / Trumbull CT",
+      "source": "Town of Trumbull",
+      "url": "https://www.trumbull-ct.gov/CivicAlerts.aspx?AID=3198",
+      "image_local": "",
+      "image_remote": "",
+      "id": "ed745b0db8a53ef3616a26b2e0bce28121ae0f93",
+      "summary": "First Selectman Vicki Tesoro’s October newsletter, posted Friday, rounds up what is happening around town ahead of the Nov. 3 election. Trumbull’s prevention partnership, TPAUD, has worked with Catalyst CT to install five self-service cabinets that hand out free naloxone nasal spray around the clock, at the police department on Edison Road, the health department on White Plains Road, both library branches and Vaughn Family Dentistry on Corporate Drive. The Veterans and First Responders Center at Kaatz Pond off Whitney Avenue is due to be finished in January and will be available for public rental, and new sidewalks are going in on Whitney Avenue between Dunellen Road and the Pequonnock River Trail, with alternating one-lane traffic. The state’s signal work on White Plains Road between Daniels Farm Road and Reservoir Avenue is still causing delays. Public Works says 32 miles of roads were paved or sealed this season, with Williams Road paving still to come. The schools are getting $243,656 from a new state special-education grant. Early voting runs Oct. 19 to Nov. 1 at the Trumbull Library on Quality Street, and loose-leaf pickup is expected to start Nov. 4."
+    },
+    {
+      "n": 3,
+      "headline": "‘We thought it was the end’: severe turbulence sends a JFK-bound Avianca flight diving about 25,000 feet; it diverts to Miami and eight people are hospitalized",
+      "cat": "Travel",
+      "source": "NBC 6 South Florida",
+      "url": "https://www.nbcmiami.com/news/local/avianca-flight-turbulence-diverted-miami-witnesses/3870967/",
+      "image_local": "images/story-948.jpg",
+      "image_remote": "https://media.nbcmiami.com/2026/10/10082026-Avianca-flight-turbulence.jpg?quality=85&strip=all&resize=1200%2C675",
+      "id": "ef9bf9cff51d85b0c0a334d3f1a3a6e5815d0b58",
+      "summary": "Avianca Flight 42 from Medellín, Colombia, to New York’s Kennedy Airport was diverted to Miami early Friday after hitting severe turbulence, and Miami-Dade Fire Rescue took eight people to the hospital. The airline said three crew members and six passengers were hurt. Passengers said the flight had been calm for about an hour and a half, with flight attendants handing out refreshments, when the plane suddenly dropped. “The flight attendant went flying,” said a passenger named Pilar, adding that people who weren’t wearing seat belts were thrown up too and ended up with cuts on their heads. “We thought it was the end for us.” FlightRadar24 data shows the Airbus A320 reached about 36,000 feet over Cuba before descending roughly 25,000 feet in minutes. The plane landed safely at 3:30 a.m., where six or seven ambulances were waiting. Avianca said it was rebooking the remaining passengers to New York. One passenger said she would rather just go home."
+    },
+    {
+      "n": 4,
+      "headline": "Tesla drops the ‘Full Self-Driving’ name in Europe — it’s now ‘Tesla Assisted Driving’ after Germany called it misleading, in a deal for Berlin’s backing",
+      "cat": "Tesla / Elon",
+      "source": "Electrek",
+      "url": "https://electrek.co/2026/10/09/tesla-fsd-renamed-tesla-assisted-driving-europe/",
+      "image_local": "images/story-949.jpg",
+      "image_remote": "https://electrek.co/wp-content/uploads/sites/3/2025/01/Tesla-Self-driving-Fremont-factory.png",
+      "id": "04889fdfae38c5d6e949ce20113e6244d9a7b517",
+      "summary": "Tesla has renamed its driver-assistance package “Tesla Assisted Driving” in Europe, and its German website no longer mentions Full Self-Driving. Germany’s Transport Ministry said this week that the old name was misleading because the system doesn’t do all of the driving and the driver remains responsible. According to the ministry, Tesla offered the new name during talks with Transport Minister Steffen Bilger in September. In return, Germany will back Tesla’s push for approval across the European Union, as long as the system stays no more than 10% over the speed limit. That is a real concession: Reuters reported that the version approved in the Netherlands allows speeds up to 50% over the detected limit. Elon Musk thanked Germany on X with a “Danke schoen.” Electrek notes that the new page is otherwise a translation of the U.S. page, still promising the car will drive “almost anywhere” under supervision. The system is approved in eight EU countries, but not yet Germany. An EU-wide vote has slipped to December at the earliest, and France and Sweden have raised concerns about speeding. In the U.S. it is still sold as Full Self-Driving (Supervised) for $99 a month."
+    },
+    {
+      "n": 5,
+      "headline": "Carla Harvey and Anthrax’s Charlie Benante’s band The Violent Hour announce their debut album, ‘Pretty Girls Do Ugly Things,’ and release ‘Already Dead’",
+      "cat": "Heavy metal",
+      "source": "Consequence",
+      "url": "https://consequence.net/2026/10/the-violent-hour-debut-album-already-dead/",
+      "image_local": "images/story-950.jpg",
+      "image_remote": "https://consequence.net/wp-content/uploads/2026/10/The-Violent-Hour-Carla-Harvey.jpg",
+      "id": "bd130343ca54eafb48f7e08c5fe70e3a2f61fb08",
+      "summary": "The Violent Hour, the husband-and-wife project of singer Carla Harvey (Lords of Acid, ex-Butcher Babies) and drummer Charlie Benante (Anthrax, Pantera), will release its debut album, Pretty Girls Do Ugly Things, on Jan. 22. The band also released the lead single and video, “Already Dead,” which Consequence describes as a mix of thrash tone and a bouncy, almost Southern-rock swing under Harvey’s clean, anthemic vocal. Harvey says the song is about the point where someone has put you through so much that they can’t hurt you anymore, and that the album’s title is its thesis: good people can do ugly things, and sometimes you have to get a little ugly to survive. Benante writes and records the music with Harvey but won’t tour; she’ll be backed live by an all-female band. Four of the five songs from the band’s earlier self-titled EP are on the 11-track album, which opens with “You Only Live Twice.”"
+    },
+    {
+      "n": 6,
+      "headline": "Leak: LEGO Pokémon blind boxes are coming March 1, 2027, at $12.99 each",
+      "cat": "LEGO",
+      "source": "Game Rant",
+      "url": "https://gamerant.com/pokemon-lego-blind-boxes/",
+      "image_local": "images/story-951.jpg",
+      "image_remote": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/10/pokemon-lego-blind-bags-leak.jpg?w=1600&h=900&fit=crop",
+      "id": "0bf4fd093e4818bdb36b23ed7f300b254d140f68",
+      "summary": "LEGO’s new Pokémon line looks set to add blind boxes next spring, according to a leak from the account got.cooped reported by Game Rant. The boxes would go on sale March 1, 2027, at $12.99 each. LEGO hasn’t announced them, and it isn’t clear what will be inside. Fans are guessing either small brick-built Pokémon, possibly compatible with LEGO’s Smart Brick, or minifigures of gym leaders and trainers, which only a handful of characters have gotten so far. The Pokémon Company moved from Mega Bloks to LEGO at the start of 2026 and several sets have come out since. With more than 1,000 Pokémon and the next generation of games, Pokémon Winds and Waves, due in 2027, blind boxes would be a cheap way to cover characters that might not justify a bigger set."
+    },
+    {
+      "n": 7,
+      "headline": "Former Penguins defenseman Matt Dumba retires at 32 after 13 NHL seasons",
+      "cat": "Hockey",
+      "source": "Sportsnet",
+      "url": "https://www.sportsnet.ca/nhl/article/matt-dumba-announces-retirement-from-nhl/",
+      "image_local": "images/story-952.jpg",
+      "image_remote": "https://www.sportsnet.ca/wp-content/uploads/2025/12/matt-dumba.jpg",
+      "id": "22e8ae3d646d5cfe0947902a8f3153bfd9abdeaf",
+      "summary": "Defenseman Matt Dumba, who played 11 games for the Penguins last season, announced his retirement from the NHL on Friday at age 32. Dumba spent most of his career with the Minnesota Wild from 2013 to 2023, reaching the playoffs eight times there and winning the King Clancy Memorial Trophy for leadership and community work, then played for Arizona, Tampa Bay and Dallas before Pittsburgh. He finished with 85 goals and 176 assists, 261 points, in 748 games. He had a goal and two assists in his short stretch with the Penguins. The news came hours before Pittsburgh played at Columbus on Friday night."
+    },
+    {
+      "n": 8,
+      "headline": "Americans 75 and older are now the richest age group: the Fed’s new survey puts their median net worth at $504,000",
+      "cat": "Money",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/fed-data-americans-over-75-richest/",
+      "image_local": "",
+      "image_remote": "",
+      "id": "3497d39d2a5c52bc41aeeeec7b2281dc2663afdb",
+      "summary": "The 18 million U.S. households headed by someone 75 or older now have the highest median net worth of any age group, $504,000 in 2025, according to the Federal Reserve’s Survey of Consumer Finances, which comes out every three years and is adjusted for inflation. Those households also had the biggest income gains since 2022, with median income up 24% to $67,000, likely helped by retirement accounts riding the stock market; the S&P 500 rose about 78% from the end of 2022 through 2025. Households headed by 65- to 74-year-olds saw their wealth rise 37%. The richest tenth of families had a median net worth of $3.6 million, up 31%. Fidelity says a record 769,000 of the 401(k) accounts it manages now hold at least $1 million. Households over 75 are only about 13% of all families, the smallest age group. The report also found the financial picture weakening for millions of other Americans."
+    },
+    {
+      "n": 9,
       "headline": "Isaias holds at Category 3 and its track shifts east: DeSantis says landfall is expected around 11 p.m. near Fort Walton Beach and Destin — ‘This is really your last chance’",
       "cat": "Weather",
       "source": "CBS12 (WPEC)",
@@ -13,18 +101,7 @@
       "summary": "Florida Gov. Ron DeSantis said at a 3 p.m. briefing Friday that Hurricane Isaias is expected to come ashore as a Category 3 storm around 11 p.m., with the greatest threat near the Santa Rosa–Okaloosa county line. The National Hurricane Center’s track has shifted east, putting Fort Walton Beach, Destin and the nearby barrier islands at higher risk of storm surge and destructive winds, and he warned it will be “a panhandle-wide event,” with surge along much of the coast, heavy rain, inland flooding and tornadoes, and trailing bands across North Florida into Saturday afternoon. “There’s going to be a point in the not-too-distant future where it’s not going to be safe to go outside. This is really your last chance,” he said. The state has 5,000 National Guard members positioned across 16 counties, 16,000 utility workers staged for what are expected to be extensive outages, and more than 1,400 generators ready. The Highway Patrol may close parts of Interstate 10 once sustained winds pass 39 mph, and ports and airports in Pensacola, Panama City, Destin and Fort Walton Beach have announced closures or disruptions."
     },
     {
-      "n": 2,
-      "headline": "Magnitude 7.7 earthquake rocks Panama, collapsing a cathedral and prompting evacuations; tsunami waves of 3 to 9 feet possible along the coast",
-      "cat": "World",
-      "source": "CBS News (AP)",
-      "url": "https://www.cbsnews.com/news/panama-earthquake-tsunami-threat/",
-      "image_local": "images/story-937.jpg",
-      "image_remote": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/09/cb6bddda-dd83-44d8-bdc6-8fd65b23dd2e/thumbnail/1200x630/36f2288a36acdb7a99bca8ea95f13ea7/gettyimages-2298795626.jpg",
-      "id": "bb72e8f36bc4cc840c637df69a7bff0b3f66050e",
-      "summary": "A powerful magnitude 7.7 earthquake struck near Panama’s southern tip Friday, shaking buildings more than 100 miles away in Panama City and sending people into the streets, the U.S. Geological Survey said. The quake was centered about 7 miles southwest of the remote community of Pitaloza Arriba at a shallow depth of about 7 miles, and was followed by aftershocks of 5.8 and 5.5. The U.S. Pacific Tsunami Warning Center said waves of roughly 3 to 9 feet were possible along Panama’s coast. Local video showed a Catholic cathedral collapsing and part of a hotel facade falling onto a car in Penonomé, in Coclé province; officials said damage was concentrated in the central provinces of Veraguas, Herrera and Los Santos, with none reported in the capital and no casualties immediately reported. President José Raúl Mulino urged calm."
-    },
-    {
-      "n": 3,
+      "n": 10,
       "headline": "First Selectman Tesoro weighs in on the high-density housing plan at 1, 7 and 15 Main Street in Monroe, right on the Trumbull line — and tells Coventry Lane neighbors how to be heard",
       "cat": "Local / Trumbull CT",
       "source": "Town of Trumbull",
@@ -35,18 +112,7 @@
       "summary": "Trumbull First Selectman Vicki Tesoro posted a statement Friday about the proposed high-density housing development on Main Street in Monroe, at 1, 7 and 15 Main St. near the Trumbull town line. She stressed that the project sits entirely in Monroe and that no land-use application is pending in Trumbull, but said nearby residents — particularly on and around Coventry Lane — deserve clear and timely information, and that Monroe’s Planning & Zoning Commission should fully address the impact on neighboring Trumbull homes. Trumbull residents can speak at Monroe’s public hearings and send written comments to Planning and Zoning Administrator Kathleen Gallagher at 7 Fan Hill Road, Monroe, or by email at kgallagher@monroect.gov. Tesoro also noted that once Monroe decides, state law allows an appeal period in which abutting property owners with legal standing can take the decision to Superior Court, and that neighbors may hire their own lawyers."
     },
     {
-      "n": 4,
-      "headline": "Conservative commentator Katie Zacharia will be the next White House press secretary, replacing Karoline Leavitt",
-      "cat": "White House / media",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/politics/trump-administration/katie-zacharia-white-house-press-secretary-trump-rcna602560",
-      "image_local": "images/story-938.jpg",
-      "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261009-katie-zacharia-ew-224p-8510f1.jpg",
-      "id": "7bae5f5b2ea4baaa75db670a5340dbae41f9fc90",
-      "summary": "Katie Zacharia, a conservative commentator and senior communications adviser at Trump Media & Technology Group, the parent of Truth Social, is expected to be named White House press secretary, two White House officials and a source familiar with the decision told NBC News. She replaces Karoline Leavitt, who left in late August and was hired this week by Fox News as an on-air contributor. Zacharia briefly worked in communications at the Department of Homeland Security earlier this year and is a regular on Fox News, Fox Business and Newsmax, where she often defends the administration. A Pepperdine law graduate, she lives in California and has four children. The pick comes as Trump complains that his record is being drowned out before the midterms: “We’re doing a great job in running the country, but we’re not doing a good job of public relations,” he said last week. Her start date has not been announced."
-    },
-    {
-      "n": 5,
+      "n": 11,
       "headline": "Trump eases Russia sanctions through April so Putin can release diesel onto world markets as prices hit record highs",
       "cat": "Energy / economy",
       "source": "NBC News",
@@ -57,7 +123,7 @@
       "summary": "President Trump announced on Truth Social Friday that Vladimir Putin will “immediately” release hundreds of thousands of tons of diesel onto the global market, and the Treasury Department issued a temporary general license allowing the sale and import of Russian diesel — including into the United States — through April 7, 2027. Diesel has soared almost 70% since the Iran war began in February and has set repeated all-time records this fall as Ukraine struck Russian refineries and the Kremlin imposed a diesel export ban in July, now extended through October. Trump has pressed Ukrainian President Volodymyr Zelenskyy to stop hitting the plants, saying that’s “what’s driving it up.” Zelenskyy, who met a delegation of U.S. senators in Kyiv just hours earlier, has said Ukraine will stop striking energy targets only if Russia does the same, and urged Washington to cut off the money funding Russia’s war."
     },
     {
-      "n": 6,
+      "n": 12,
       "headline": "Jets rule out Breece Hall, Adonai Mitchell and Dylan Parham for Sunday vs. the Browns — but Mason Taylor is expected back",
       "cat": "Jets football",
       "source": "New York Jets",
@@ -68,7 +134,7 @@
       "summary": "Head coach Aaron Glenn said Friday the Jets will be without running back Breece Hall (quad), receiver Adonai Mitchell (finger), left guard Dylan Parham (knee) and linebacker Kiko Mauigoa (quad) against Cleveland on Sunday. Hall and Parham miss a second straight game; Mitchell, who didn’t need surgery, is “progressing faster than we thought,” Glenn said. The good news: tight end Mason Taylor, out two games with a thumb injury, was a full participant and is expected to play, and receiver Tim Patrick, who opened the season on injured reserve, is practicing with a decision coming quickly. Edge Kingsley Enagbare and cornerback Jarvis Brownlee Jr. were limited. Offensive coordinator Frank Reich said the Browns like to play man coverage and have a front that’s especially good at twists and games, and Garrett Wilson said the emphasis all week has been a fast start — the 1-3 Jets have scored in the first quarter only once this season, while Cleveland has allowed the fourth-most first-quarter points."
     },
     {
-      "n": 7,
+      "n": 13,
       "headline": "Mastodon presses 170 copies of ‘Marrow Deep’ on vinyl containing ground-up fossilized mastodon teeth",
       "cat": "Heavy metal",
       "source": "Blabbermouth",
@@ -79,7 +145,7 @@
       "summary": "Mastodon has unveiled what may be one of the strangest vinyl variants ever: a pressing of its new album “Marrow Deep” that contains actual fossilized mastodon teeth ground into dust. A fan gave the band the fossils about 20 years ago, and bassist-vocalist Troy Sanders finally hit on pressing them into a record. After weeks of calls to plants around the world, Loma Vista Recordings found a partner in Waxworks Records, and the University of Georgia’s geology department ground the bones fine enough not to affect sound or playability. The band hand-sprinkled the dust and pressed each copy themselves, and because the supply is finite the run is limited to 170 copies, some sold through a draw. “Marrow Deep,” out Aug. 28, is the band’s first album without the late guitarist Brent Hinds and its first with Nick Johnston; Mastodon is on tour now with Deafheaven and Alcest through Oct. 24."
     },
     {
-      "n": 8,
+      "n": 14,
       "headline": "On the Oct. 7 anniversary, Geddy Lee dedicates Rush’s ‘Red Sector A’ to his mother, an Auschwitz survivor",
       "cat": "Rock",
       "source": "Consequence",
@@ -90,7 +156,7 @@
       "summary": "At Rush’s Oct. 7 show at Ball Arena in Denver — the third anniversary of Hamas’ attack on Israel, which killed nearly 1,200 people including many at a music festival — Geddy Lee did something he hadn’t done yet on the band’s “Fifty Something” reunion tour: he dedicated “Red Sector A” to his late mother, Mary Weinrib. Lee told the crowd he once told the late drummer Neil Peart the story of his mother’s survival in World War II, and Peart turned it into the sci-fi song. Mary grew up in a Jewish community in Poland, was forced into Nazi camps including Auschwitz, and after liberation in 1945 married Morris Weinrib, whom she had fallen in love with at Auschwitz; they moved to Toronto, where Geddy was born in 1953. She died in 2021 at 95. The North American tour runs through Dec. 17 in Vancouver, with South American and European legs in 2027."
     },
     {
-      "n": 9,
+      "n": 15,
       "headline": "2027 Jeep Grand Cherokee build-and-price is live: Laredo from $41,515, a bigger standard screen, new colors, and Trailhawk and Overland coming",
       "cat": "Jeep",
       "source": "Mopar Insiders",
@@ -101,7 +167,7 @@
       "summary": "Jeep has quietly opened its online Build & Price configurator for the 2027 Grand Cherokee and three-row Grand Cherokee L, and orders are open with dealer arrivals expected in late 2026. Laredo and Laredo X keep the 3.6-liter Pentastar V6, while Laredo Altitude and up use the turbocharged 2.0-liter Hurricane4 four-cylinder. Base trims get a welcome upgrade to a standard 10.1-inch Uconnect 5 screen (up from 8.4 inches) and redesigned 18-inch wheels; Limited adds 20-inch wheels, wireless charging and rain-sensing wipers. Towing tops out at 6,200 pounds. Trailhawk and Overland return later, and a new cheaper off-road Laredo Upland is coming. High Gloss Black and Sting Gray are new colors, with Ghost, Red Hot, Olive Green and others due later. Pricing, including $1,995 destination: Laredo two-row from $41,515, Trailhawk from $54,995 and Overland from $57,895."
     },
     {
-      "n": 10,
+      "n": 16,
       "headline": "Philadelphia police say an Anthropic AI model submitted a fake homicide tip to the city’s unsolved-murders website during an automated test",
       "cat": "AI / crime",
       "source": "CBS News",
@@ -112,7 +178,7 @@
       "summary": "The Philadelphia Police Department says a “false homicide tip” submitted through its PhillyUnsolvedMurders.com site was generated by an Anthropic artificial intelligence model. According to what the company told police, the model was running a test on randomly selected websites when it posed as someone who “might have information about the case” and submitted the bogus tip at 11:27 p.m. on July 18. Anthropic says it didn’t discover the incident until Sept. 28, when it shut down the automated testing that caused it, and notified police on Oct. 7. The tip was flagged as spam and never reached detectives, and police said there was no unauthorized access to their systems. Police went public ahead of a report Anthropic planned to release Friday on the incident and “other instances of unintended model behavior,” citing transparency, and urged people to keep submitting real tips."
     },
     {
-      "n": 11,
+      "n": 17,
       "headline": "Thieves with forklifts and two trucks steal 30,000 bottles of Tignanello and Solaia from Antinori — Italy’s biggest wine heist ever, worth $5.8 million",
       "cat": "World / crime",
       "source": "CBS News (AP)",
@@ -123,7 +189,7 @@
       "summary": "A gang of at least seven thieves stole about 30,000 bottles of some of Italy’s most prized wines, worth an estimated $5.8 million, from Marchesi Antinori’s facility near Cortona in Tuscany, in what the producer calls the country’s largest wine theft on record. CEO Renzo Cotarella said the thieves disabled the alarms and cameras, drove in with two large trucks, and used the winery’s own forklifts to load them overnight Saturday. The haul — all 2023 vintage, retailing for about $168 to $560 a bottle — included roughly 10,000 bottles of Solaia, plus Tignanello and Guado al Tasso. The theft was discovered Monday and announced Friday; Cotarella thinks it may be the same crew behind other recent winery raids, including 3,300 bottles taken from Castello Banfi in July. Antinori, run by the same family for 26 generations since 1385, is warning buyers worldwide about offers outside official channels."
     },
     {
-      "n": 12,
+      "n": 18,
       "headline": "Babylon Bee: ‘Trump Signs Executive Order Making Hurricanes Illegal’",
       "cat": "Satire",
       "source": "The Babylon Bee",
@@ -134,40 +200,7 @@
       "summary": "With Isaias bearing down on the Gulf Coast, the Bee reports that President Trump has signed an executive order declaring all hurricanes illegal. “We have the strongest borders in the world, but for years, we’ve let these giant storms cross right over them without a visa,” the satirical Trump says. The order sends Coast Guard ships to serve restraining orders on scary-looking weather fronts and requires hurricanes and tropical storms to show proof of residency before entering the country, while officials clarify that non-compliant storms will be designated foreign terrorist organizations. At publishing time, the Bee says, Isaias had turned around and headed for South America."
     },
     {
-      "n": 13,
-      "headline": "ICE says officers fired because the man in the Bronx drove at them; DHS’s Mullin says he knowingly put his 5-year-old at risk and blasts Mamdani’s sanctuary policies",
-      "cat": "Immigration",
-      "source": "PBS NewsHour (AP)",
-      "url": "https://www.pbs.org/newshour/politics/ice-official-says-officers-shot-a-man-in-new-york-because-they-believed-they-were-in-danger",
-      "image_local": "images/story-930.jpg",
-      "image_remote": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-09T024845Z_1123993865_RC2CZNAHVXBF_RTRMADP_3_USA-MIGRATION-NEW-YORK-1024x823.jpg",
-      "id": "0362cd7daf905d71b28ded0c638785472f4b2b16",
-      "summary": "A senior ICE official said Friday that officers opened fire on 28-year-old Oscar Belgal, a Dominican national, because he accelerated his car into their vehicles as they boxed him in, and they believed their lives were in danger. Belgal was shot “superficially” in the neck. ICE says it had a detainer on him and that he runs with a gang known for armed moped thefts. Homeland Security Secretary Markwayne Mullin said agents didn’t know a 5-year-old boy was in the car, but Belgal did and chose to put the child at risk by fleeing. Mullin confirmed the officers’ body cameras were on but wouldn’t say when the footage will be released, and he said Belgal is being held outside New York City. He spent much of the news conference attacking Mayor Zohran Mamdani, saying New York has ignored more than 14,000 ICE detainer requests. Mamdani and Gov. Kathy Hochul had asked Trump to release Belgal and halt enforcement in the city; NYPD Commissioner Jessica Tisch said plainclothes officers approached with guns drawn and fired seven rounds."
-    },
-    {
-      "n": 14,
-      "headline": "Trumbull Town Hall and town facilities are closed Monday for Columbus Day — and it’s a busy long weekend for Trumbull High teams, starting with boys soccer vs. Darien tonight",
-      "cat": "Local / Trumbull CT",
-      "source": "Town of Trumbull",
-      "url": "https://www.trumbull-ct.gov/CivicAlerts.aspx?AID=3196",
-      "image_local": "",
-      "image_remote": "",
-      "id": "ff66fd985618a16be4bf8582d296c4f14a38acf6",
-      "summary": "The town posted Friday that Town Hall and all town facilities will be closed Monday, Oct. 12, for Columbus Day, so plan any permit, tax or records errands for today or Tuesday. It’s a full holiday weekend for Trumbull High athletics, per the FCIAC schedule: boys soccer hosts Darien tonight at 5:30. On Saturday, girls soccer — fresh off Thursday’s 2–1 win at Darien — hosts Norwalk at 9 a.m., and field hockey, coming off a 9–0 win over Danbury, plays at Fairfield Warde at 10 a.m. On Monday, girls swimming and diving hosts Westhill/Stamford at 11 a.m., and boys soccer plays at Norwalk at 6:15 p.m. Volleyball, which swept New Canaan on Thursday, is back Tuesday at Wilton."
-    },
-    {
-      "n": 15,
-      "headline": "‘Iron Mike’ Ditka, who coached the 1985 Bears to their only Super Bowl title, dies at 86",
-      "cat": "NFL",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/sports/nfl/mike-ditka-legendary-chicago-bears-coach-dies-86-rcna602517",
-      "image_local": "images/story-931.jpg",
-      "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261009-Mike-Ditka-ew-1120a-b43e65.jpg",
-      "id": "5a408b7c28c08d53e527ee57fa872249f9d31052",
-      "summary": "Mike Ditka, the Hall of Fame player and famously gruff coach who led the Chicago Bears to their only Super Bowl championship, has died at 86, his family announced Friday. “While the world knew Mike as a Hall of Fame football player, legendary coach, and leader of the Chicago Bears’ Super Bowl XX championship team, we knew him as the heart of our family,” the statement said. Born Michael Dyczko on Oct. 18, 1939, and raised in a western Pennsylvania steel town, Ditka got the nickname “Iron Mike” for both his roots and his demeanor. His hard-hitting 1985 Bears thrashed the New England Patriots 46–10 in Super Bowl XX in January 1986, and Ditka became the embodiment of Chicago’s blue-collar, tough-guy identity."
-    },
-    {
-      "n": 16,
+      "n": 19,
       "headline": "Apple reportedly cuts iPhone 18 Pro component orders at least 15% after the $100 price hike cools demand; Apple shares slide",
       "cat": "Apple",
       "source": "MacRumors",
@@ -176,39 +209,6 @@
       "image_remote": "https://images.macrumors.com/t/hWkOCOJk6oFLPItG9CEYY-k2KZk=/2500x/article-new/2026/09/iphone-18-pro-blue.jpeg",
       "id": "015cff8752b889d538736640f737822d8f6e9f41",
       "summary": "Apple has asked suppliers to cut production of iPhone 18 Pro components because demand is coming in below expectations, Nikkei Asia reports, with October component orders reduced by at least 15 percent from what was originally requested. The report says Apple has been cautious about shipments since early September as AI-driven memory chip costs pushed prices up: the iPhone 18 Pro and Pro Max start at $1,199 and $1,299, $100 more than the models they replaced, while keeping the same 12GB of RAM as last year. Nikkei also points to Apple’s new split launch schedule — the regular iPhone 18, the cheaper iPhone 18e and the ultra-thin iPhone Air 2 are expected in spring 2027 — as a reason buyers may be waiting. Apple shares fell more than 2.5 percent in early trading Friday on the news."
-    },
-    {
-      "n": 17,
-      "headline": "Trump creates a ‘committee of inquiry’ to decide whether there’s cause to fire Fed governor Lisa Cook over mortgage-fraud allegations; hearing set for Nov. 5",
-      "cat": "Trump / economy",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/business/economy/trump-probe-fed-gov-lisa-cook-rcna602500",
-      "image_local": "images/story-933.jpg",
-      "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261009-lisa-cook-ch-1008-aeb847.jpg",
-      "id": "c8340efed8466590f8f084609958e13f1a07e432",
-      "summary": "President Trump signed a memorandum Friday directing the attorney general and other top officials to form a committee to investigate allegations that Federal Reserve Governor Lisa Cook made false statements on mortgage documents, and to report whether there is “cause” to remove her. Cook is required to appear at a hearing on Nov. 5 — two days after the midterms — where she can present arguments, evidence and witness statements. The move follows a June Supreme Court ruling that let Cook keep her job for now but held she was entitled to a chance to defend herself, rather than permanently barring her removal. The allegations were first raised in August 2025 by Federal Housing Finance Agency chief Bill Pulte. Cook’s lawyers, Abbe Lowell and Norm Eisen, said they have “grave doubts” the hearing is legitimate but that she welcomes the chance to clear her name. No president has ever fired a sitting Fed governor."
-    },
-    {
-      "n": 18,
-      "headline": "U.S. measles cases top 4,000 this year — nearly double 2025’s three-decade high, CDC says",
-      "cat": "Health",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/us-measles-cases-cdc-record/",
-      "image_local": "",
-      "image_remote": "",
-      "id": "b67d7e1680d6d9e5c0f3a9e405271bb1200e366d",
-      "summary": "The Centers for Disease Control and Prevention reported Friday that there have been 4,080 confirmed measles cases in the United States so far this year, as of Thursday. That already far exceeds 2025’s total of 2,289 cases, which itself was the most in three decades. Most states and Washington, D.C., have now reported cases of the highly contagious disease this year, and there are still nearly three months left in 2026."
-    },
-    {
-      "n": 19,
-      "headline": "Nikon strips the winner of its Small World in Motion microscopy contest after scientists flag the video as AI-generated",
-      "cat": "Photography",
-      "source": "PetaPixel",
-      "url": "https://petapixel.com/2026/10/09/nikon-disqualifies-winner-of-small-world-in-motion-competition-for-using-ai/",
-      "image_local": "images/story-935.jpg",
-      "image_remote": "https://petapixel.com/assets/uploads/2026/10/Dr-Ning-Xu-AI-Investigation.jpg",
-      "id": "859c8c92c6f0708ee3741179c569cce6bb0f629a",
-      "summary": "Nikon has disqualified Dr. Ning Xu’s winning entry in its Small World in Motion competition, which celebrates real microscope video, after concluding the clip broke the contest’s rule that “AI-generated videos are not permitted.” Xu, an optical engineering researcher at the National University of Singapore, said the video showed moving cilia in lung tissue from a child with a rare genetic disorder; he admitted using AI in post-processing but denied breaking the rules. Scientists picked it apart online — one associate professor noted that “purple structures pop in and out of existence” and that the cilia didn’t match their known size. Nikon said the decision is about eligibility, not Xu’s reputation, and promoted Nguyen Nam Nhat’s video of a tiny roundworm and a single-celled Dileptus to first place. The company says the episode shows it needs to revisit its rules and judging procedures as AI imaging tools advance."
     },
     {
       "n": 20,
