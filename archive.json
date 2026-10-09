@@ -1015,7 +1015,16 @@
     "2ed59956c27aff0ab27faaf59452202fcea4c8bb",
     "28887cef7e2ae11ac6af562a1f2a647770b05400",
     "897611ea8f7058ce701ed020c095dedf5203ef1f",
-    "3dddeba6e97e991e68ae1b0a16fbc498296c423a"
+    "3dddeba6e97e991e68ae1b0a16fbc498296c423a",
+    "18f8311235b6f778e2eee72239dd542ef338779c",
+    "0362cd7daf905d71b28ded0c638785472f4b2b16",
+    "ff66fd985618a16be4bf8582d296c4f14a38acf6",
+    "5a408b7c28c08d53e527ee57fa872249f9d31052",
+    "015cff8752b889d538736640f737822d8f6e9f41",
+    "c8340efed8466590f8f084609958e13f1a07e432",
+    "b67d7e1680d6d9e5c0f3a9e405271bb1200e366d",
+    "c30fd0aded403a0308f092401332e4a8fa1dedc5",
+    "859c8c92c6f0708ee3741179c569cce6bb0f629a"
   ],
   "stories": {
     "0c2ac7a5e342411678296315c4c59043b1f067cc": {
@@ -12533,7 +12542,97 @@
       "image_remote": "https://people.com/thmb/uEnlfwtwiojRrcPY5aXxmVGz1fE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(749x0:751x2)/patricia-kenwinkel-prebit-tout-051524-557421727ae44b0ba1a9b1231aa9e726.jpg",
       "image_local": "images/story-928.jpg",
       "id": "3dddeba6e97e991e68ae1b0a16fbc498296c423a"
+    },
+    "18f8311235b6f778e2eee72239dd542ef338779c": {
+      "headline": "Isaias becomes a major hurricane with 120 mph winds Friday morning; forecasters expect it to weaken to a strong Category 2 before landfall tonight on the Gulf Coast",
+      "cat": "Weather",
+      "source": "PBS NewsHour (AP)",
+      "url": "https://www.pbs.org/newshour/nation/el-ninos-storm-killer-winds-and-climates-warming-waters-in-fight-over-future-of-hurricane-isaias",
+      "summary": "Hurricane Isaias blew past the major-hurricane threshold Friday morning, reaching 111 mph and then 120 mph winds, after rapidly intensifying from 40 mph to 80 mph in a single day earlier in the week. The National Hurricane Center says the storm is no longer tilting and has a strong eye, and it expects Isaias to weaken to a strong Category 2 before coming ashore somewhere between the Mississippi–Alabama coast and the Florida Panhandle late Friday night or early Saturday. Hurricane researcher Phil Klotzbach explains the tug-of-war behind the forecast: this year’s strong El Niño has produced storm-shredding wind shear all season, but Gulf waters running about 2.7 degrees above normal gave Isaias a short window to power up. Shear is forecast to jump from about 20 mph to more than 50 mph before landfall, which should take some punch out of the storm — but forecasters warn the coast is in “a tenuous spot,” since a delay of just six hours in that shear would let Isaias arrive stronger.",
+      "image_remote": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-09T135526Z_1025360693_RC2OZNARWTT0_RTRMADP_3_STORM-ISAIAS-1024x683.jpg",
+      "image_local": "images/story-929.jpg",
+      "id": "18f8311235b6f778e2eee72239dd542ef338779c"
+    },
+    "0362cd7daf905d71b28ded0c638785472f4b2b16": {
+      "headline": "ICE says officers fired because the man in the Bronx drove at them; DHS’s Mullin says he knowingly put his 5-year-old at risk and blasts Mamdani’s sanctuary policies",
+      "cat": "Immigration",
+      "source": "PBS NewsHour (AP)",
+      "url": "https://www.pbs.org/newshour/politics/ice-official-says-officers-shot-a-man-in-new-york-because-they-believed-they-were-in-danger",
+      "summary": "A senior ICE official said Friday that officers opened fire on 28-year-old Oscar Belgal, a Dominican national, because he accelerated his car into their vehicles as they boxed him in, and they believed their lives were in danger. Belgal was shot “superficially” in the neck. ICE says it had a detainer on him and that he runs with a gang known for armed moped thefts. Homeland Security Secretary Markwayne Mullin said agents didn’t know a 5-year-old boy was in the car, but Belgal did and chose to put the child at risk by fleeing. Mullin confirmed the officers’ body cameras were on but wouldn’t say when the footage will be released, and he said Belgal is being held outside New York City. He spent much of the news conference attacking Mayor Zohran Mamdani, saying New York has ignored more than 14,000 ICE detainer requests. Mamdani and Gov. Kathy Hochul had asked Trump to release Belgal and halt enforcement in the city; NYPD Commissioner Jessica Tisch said plainclothes officers approached with guns drawn and fired seven rounds.",
+      "image_remote": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-09T024845Z_1123993865_RC2CZNAHVXBF_RTRMADP_3_USA-MIGRATION-NEW-YORK-1024x823.jpg",
+      "image_local": "images/story-930.jpg",
+      "id": "0362cd7daf905d71b28ded0c638785472f4b2b16"
+    },
+    "ff66fd985618a16be4bf8582d296c4f14a38acf6": {
+      "headline": "Trumbull Town Hall and town facilities are closed Monday for Columbus Day — and it’s a busy long weekend for Trumbull High teams, starting with boys soccer vs. Darien tonight",
+      "cat": "Local / Trumbull CT",
+      "source": "Town of Trumbull",
+      "url": "https://www.trumbull-ct.gov/CivicAlerts.aspx?AID=3196",
+      "summary": "The town posted Friday that Town Hall and all town facilities will be closed Monday, Oct. 12, for Columbus Day, so plan any permit, tax or records errands for today or Tuesday. It’s a full holiday weekend for Trumbull High athletics, per the FCIAC schedule: boys soccer hosts Darien tonight at 5:30. On Saturday, girls soccer — fresh off Thursday’s 2–1 win at Darien — hosts Norwalk at 9 a.m., and field hockey, coming off a 9–0 win over Danbury, plays at Fairfield Warde at 10 a.m. On Monday, girls swimming and diving hosts Westhill/Stamford at 11 a.m., and boys soccer plays at Norwalk at 6:15 p.m. Volleyball, which swept New Canaan on Thursday, is back Tuesday at Wilton.",
+      "image_remote": "",
+      "image_local": "",
+      "id": "ff66fd985618a16be4bf8582d296c4f14a38acf6"
+    },
+    "5a408b7c28c08d53e527ee57fa872249f9d31052": {
+      "headline": "‘Iron Mike’ Ditka, who coached the 1985 Bears to their only Super Bowl title, dies at 86",
+      "cat": "NFL",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/sports/nfl/mike-ditka-legendary-chicago-bears-coach-dies-86-rcna602517",
+      "summary": "Mike Ditka, the Hall of Fame player and famously gruff coach who led the Chicago Bears to their only Super Bowl championship, has died at 86, his family announced Friday. “While the world knew Mike as a Hall of Fame football player, legendary coach, and leader of the Chicago Bears’ Super Bowl XX championship team, we knew him as the heart of our family,” the statement said. Born Michael Dyczko on Oct. 18, 1939, and raised in a western Pennsylvania steel town, Ditka got the nickname “Iron Mike” for both his roots and his demeanor. His hard-hitting 1985 Bears thrashed the New England Patriots 46–10 in Super Bowl XX in January 1986, and Ditka became the embodiment of Chicago’s blue-collar, tough-guy identity.",
+      "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261009-Mike-Ditka-ew-1120a-b43e65.jpg",
+      "image_local": "images/story-931.jpg",
+      "id": "5a408b7c28c08d53e527ee57fa872249f9d31052"
+    },
+    "015cff8752b889d538736640f737822d8f6e9f41": {
+      "headline": "Apple reportedly cuts iPhone 18 Pro component orders at least 15% after the $100 price hike cools demand; Apple shares slide",
+      "cat": "Apple",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/09/apple-cuts-iphone-18-pro-orders-price-demand/",
+      "summary": "Apple has asked suppliers to cut production of iPhone 18 Pro components because demand is coming in below expectations, Nikkei Asia reports, with October component orders reduced by at least 15 percent from what was originally requested. The report says Apple has been cautious about shipments since early September as AI-driven memory chip costs pushed prices up: the iPhone 18 Pro and Pro Max start at $1,199 and $1,299, $100 more than the models they replaced, while keeping the same 12GB of RAM as last year. Nikkei also points to Apple’s new split launch schedule — the regular iPhone 18, the cheaper iPhone 18e and the ultra-thin iPhone Air 2 are expected in spring 2027 — as a reason buyers may be waiting. Apple shares fell more than 2.5 percent in early trading Friday on the news.",
+      "image_remote": "https://images.macrumors.com/t/hWkOCOJk6oFLPItG9CEYY-k2KZk=/2500x/article-new/2026/09/iphone-18-pro-blue.jpeg",
+      "image_local": "images/story-932.jpg",
+      "id": "015cff8752b889d538736640f737822d8f6e9f41"
+    },
+    "c8340efed8466590f8f084609958e13f1a07e432": {
+      "headline": "Trump creates a ‘committee of inquiry’ to decide whether there’s cause to fire Fed governor Lisa Cook over mortgage-fraud allegations; hearing set for Nov. 5",
+      "cat": "Trump / economy",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/business/economy/trump-probe-fed-gov-lisa-cook-rcna602500",
+      "summary": "President Trump signed a memorandum Friday directing the attorney general and other top officials to form a committee to investigate allegations that Federal Reserve Governor Lisa Cook made false statements on mortgage documents, and to report whether there is “cause” to remove her. Cook is required to appear at a hearing on Nov. 5 — two days after the midterms — where she can present arguments, evidence and witness statements. The move follows a June Supreme Court ruling that let Cook keep her job for now but held she was entitled to a chance to defend herself, rather than permanently barring her removal. The allegations were first raised in August 2025 by Federal Housing Finance Agency chief Bill Pulte. Cook’s lawyers, Abbe Lowell and Norm Eisen, said they have “grave doubts” the hearing is legitimate but that she welcomes the chance to clear her name. No president has ever fired a sitting Fed governor.",
+      "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261009-lisa-cook-ch-1008-aeb847.jpg",
+      "image_local": "images/story-933.jpg",
+      "id": "c8340efed8466590f8f084609958e13f1a07e432"
+    },
+    "b67d7e1680d6d9e5c0f3a9e405271bb1200e366d": {
+      "headline": "U.S. measles cases top 4,000 this year — nearly double 2025’s three-decade high, CDC says",
+      "cat": "Health",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/us-measles-cases-cdc-record/",
+      "summary": "The Centers for Disease Control and Prevention reported Friday that there have been 4,080 confirmed measles cases in the United States so far this year, as of Thursday. That already far exceeds 2025’s total of 2,289 cases, which itself was the most in three decades. Most states and Washington, D.C., have now reported cases of the highly contagious disease this year, and there are still nearly three months left in 2026.",
+      "image_remote": "",
+      "image_local": "",
+      "id": "b67d7e1680d6d9e5c0f3a9e405271bb1200e366d"
+    },
+    "c30fd0aded403a0308f092401332e4a8fa1dedc5": {
+      "headline": "Darth Vader’s lightsaber from the ‘I am your father’ duel in ‘The Empire Strikes Back’ heads to auction, expected to top $1 million",
+      "cat": "Movies / collectibles",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/star-wars-empire-strikes-back-lightsaber-duel-auction/",
+      "summary": "The lightsaber Darth Vader used in his Cloud City duel with Luke Skywalker in “The Empire Strikes Back” — the scene where Vader reveals “I am your father” — will be sold at Heritage Auctions’ Ultimate Star Wars Auction on Nov. 12, with an estimate of at least $1 million. More than two dozen lightsaber props are in the sale, including the ones Ewan McGregor’s Obi-Wan and Hayden Christensen’s Anakin used in “Revenge of the Sith” (at least $10,000 each). Other lots include Boba Fett’s EE-3 carbine blaster (estimated at more than $100,000), a Yoda puppet hand used by Frank Oz, Anthony Daniels’ signed third-draft script of the 1977 original, a TIE Fighter pilot helmet from “Rogue One,” and a miniature snowspeeder from Carrie Fisher’s private collection. In July, Luke’s lightsaber with his severed hand from “Empire” sold for a record $3.75 million.",
+      "image_remote": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/09/7c95f1a4-50f7-44aa-8cce-24856cd37d2f/thumbnail/1200x630g2/b5796df57468559b4885237305a4b5c3/ap26282015723688.jpg",
+      "image_local": "images/story-934.jpg",
+      "id": "c30fd0aded403a0308f092401332e4a8fa1dedc5"
+    },
+    "859c8c92c6f0708ee3741179c569cce6bb0f629a": {
+      "headline": "Nikon strips the winner of its Small World in Motion microscopy contest after scientists flag the video as AI-generated",
+      "cat": "Photography",
+      "source": "PetaPixel",
+      "url": "https://petapixel.com/2026/10/09/nikon-disqualifies-winner-of-small-world-in-motion-competition-for-using-ai/",
+      "summary": "Nikon has disqualified Dr. Ning Xu’s winning entry in its Small World in Motion competition, which celebrates real microscope video, after concluding the clip broke the contest’s rule that “AI-generated videos are not permitted.” Xu, an optical engineering researcher at the National University of Singapore, said the video showed moving cilia in lung tissue from a child with a rare genetic disorder; he admitted using AI in post-processing but denied breaking the rules. Scientists picked it apart online — one associate professor noted that “purple structures pop in and out of existence” and that the cilia didn’t match their known size. Nikon said the decision is about eligibility, not Xu’s reputation, and promoted Nguyen Nam Nhat’s video of a tiny roundworm and a single-celled Dileptus to first place. The company says the episode shows it needs to revisit its rules and judging procedures as AI imaging tools advance.",
+      "image_remote": "https://petapixel.com/assets/uploads/2026/10/Dr-Ning-Xu-AI-Investigation.jpg",
+      "image_local": "images/story-935.jpg",
+      "id": "859c8c92c6f0708ee3741179c569cce6bb0f629a"
     }
   },
-  "updated": "Friday, October 9, 2026 · 7:18 AM ET"
+  "updated": "Friday, October 9, 2026 · 12:00 PM ET"
 }

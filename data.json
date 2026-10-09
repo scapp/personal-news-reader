@@ -1,30 +1,107 @@
 {
-  "updated": "Friday, October 9, 2026 · 7:18 AM ET",
+  "updated": "Friday, October 9, 2026 · 12:00 PM ET",
   "stories": [
     {
       "n": 1,
-      "headline": "Hurricane Isaias hits 105 mph and is forecast to keep strengthening before a Friday-night landfall on the Florida Panhandle and Alabama coast",
+      "headline": "Isaias becomes a major hurricane with 120 mph winds Friday morning; forecasters expect it to weaken to a strong Category 2 before landfall tonight on the Gulf Coast",
       "cat": "Weather",
-      "source": "NPR (AP)",
-      "url": "https://www.npr.org/2026/10/09/nx-s1-5996396/hurricane-isaias-updates",
-      "image_local": "images/story-920.jpg",
-      "image_remote": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1788x1006+0+490/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffe%2F5c%2Fb9d992f643e597cfafb2fae051c6%2Fap26281529295134.jpg",
-      "id": "332b1aa1138ed865fe6fe9547fab4cdf27d474da",
-      "summary": "Isaias, the first hurricane of the Atlantic season, strengthened to a Category 2 storm with 105 mph winds as it headed northeast across the Gulf, and forecasters expect it to intensify rapidly before it comes ashore late Friday or early Saturday. A hurricane warning runs from Ocean Springs, Mississippi, to the Bay–Gulf County line in Florida, with a storm surge warning from the mouth of the Mississippi to the Suwannee River. “Today is the day to prepare,” said National Hurricane Center director Michael Brennan. Alabama Gov. Kay Ivey ordered non-residents out of Gulf Shores, Orange Beach and Dauphin Island, traffic backed up leaving the beaches, and Gov. Ron DeSantis said about 5,000 Florida National Guard troops would be mobilized. Forecasters warn of 5 to 7 feet of surge in parts of Alabama and Mississippi, up to 15 inches of rain, overnight tornadoes and long power outages, with heavy rain possible as far north as Tennessee and North Carolina. Isaias formed one day short of tying a 1905 record for the season’s latest first hurricane."
+      "source": "PBS NewsHour (AP)",
+      "url": "https://www.pbs.org/newshour/nation/el-ninos-storm-killer-winds-and-climates-warming-waters-in-fight-over-future-of-hurricane-isaias",
+      "image_local": "images/story-929.jpg",
+      "image_remote": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-09T135526Z_1025360693_RC2OZNARWTT0_RTRMADP_3_STORM-ISAIAS-1024x683.jpg",
+      "id": "18f8311235b6f778e2eee72239dd542ef338779c",
+      "summary": "Hurricane Isaias blew past the major-hurricane threshold Friday morning, reaching 111 mph and then 120 mph winds, after rapidly intensifying from 40 mph to 80 mph in a single day earlier in the week. The National Hurricane Center says the storm is no longer tilting and has a strong eye, and it expects Isaias to weaken to a strong Category 2 before coming ashore somewhere between the Mississippi–Alabama coast and the Florida Panhandle late Friday night or early Saturday. Hurricane researcher Phil Klotzbach explains the tug-of-war behind the forecast: this year’s strong El Niño has produced storm-shredding wind shear all season, but Gulf waters running about 2.7 degrees above normal gave Isaias a short window to power up. Shear is forecast to jump from about 20 mph to more than 50 mph before landfall, which should take some punch out of the storm — but forecasters warn the coast is in “a tenuous spot,” since a delay of just six hours in that shear would let Isaias arrive stronger."
     },
     {
       "n": 2,
-      "headline": "Mamdani demands Trump free the man an ICE agent shot in the Bronx and pull ICE out of New York as protesters clash with police",
+      "headline": "ICE says officers fired because the man in the Bronx drove at them; DHS’s Mullin says he knowingly put his 5-year-old at risk and blasts Mamdani’s sanctuary policies",
       "cat": "Immigration",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/us/mamdani-demands-trump-release-illegal-immigrant-shot-ice-agent-protests-erupt-bronx",
-      "image_local": "images/story-921.jpg",
-      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/mamdani-ice-presser-shooting-nyc.jpg",
-      "id": "37fcce3cd3a3716555e35cbfb4ea985af976a43c",
-      "summary": "An ICE agent shot and wounded a man during a targeted arrest in the Marble Hill section of the Bronx on Thursday afternoon, setting off street protests and confrontations with law enforcement. DHS says the 28-year-old is an illegal immigrant from the Dominican Republic with a prior grand larceny conviction and earlier arrests for assault, robbery, drugs and weapons, and alleged ties to the Trinitarios gang. NYPD Commissioner Jessica Tisch said seven rounds were fired, striking the driver in the neck, and that a 5-year-old boy believed to be his son was in the car but was not hurt. At a late-night news conference, Mayor Zohran Mamdani said he spent about two hours on the phone with President Trump, unsuccessfully urging him to release the man, and said the city wants ICE gone: “All they do is terrorize this city.” Gov. Kathy Hochul said she asked Trump and DHS Secretary Markwayne Mullin to halt enforcement in New York and release any body-camera video. The man has since been moved out of the hospital by ICE."
+      "source": "PBS NewsHour (AP)",
+      "url": "https://www.pbs.org/newshour/politics/ice-official-says-officers-shot-a-man-in-new-york-because-they-believed-they-were-in-danger",
+      "image_local": "images/story-930.jpg",
+      "image_remote": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-09T024845Z_1123993865_RC2CZNAHVXBF_RTRMADP_3_USA-MIGRATION-NEW-YORK-1024x823.jpg",
+      "id": "0362cd7daf905d71b28ded0c638785472f4b2b16",
+      "summary": "A senior ICE official said Friday that officers opened fire on 28-year-old Oscar Belgal, a Dominican national, because he accelerated his car into their vehicles as they boxed him in, and they believed their lives were in danger. Belgal was shot “superficially” in the neck. ICE says it had a detainer on him and that he runs with a gang known for armed moped thefts. Homeland Security Secretary Markwayne Mullin said agents didn’t know a 5-year-old boy was in the car, but Belgal did and chose to put the child at risk by fleeing. Mullin confirmed the officers’ body cameras were on but wouldn’t say when the footage will be released, and he said Belgal is being held outside New York City. He spent much of the news conference attacking Mayor Zohran Mamdani, saying New York has ignored more than 14,000 ICE detainer requests. Mamdani and Gov. Kathy Hochul had asked Trump to release Belgal and halt enforcement in the city; NYPD Commissioner Jessica Tisch said plainclothes officers approached with guns drawn and fired seven rounds."
     },
     {
       "n": 3,
+      "headline": "Trumbull Town Hall and town facilities are closed Monday for Columbus Day — and it’s a busy long weekend for Trumbull High teams, starting with boys soccer vs. Darien tonight",
+      "cat": "Local / Trumbull CT",
+      "source": "Town of Trumbull",
+      "url": "https://www.trumbull-ct.gov/CivicAlerts.aspx?AID=3196",
+      "image_local": "",
+      "image_remote": "",
+      "id": "ff66fd985618a16be4bf8582d296c4f14a38acf6",
+      "summary": "The town posted Friday that Town Hall and all town facilities will be closed Monday, Oct. 12, for Columbus Day, so plan any permit, tax or records errands for today or Tuesday. It’s a full holiday weekend for Trumbull High athletics, per the FCIAC schedule: boys soccer hosts Darien tonight at 5:30. On Saturday, girls soccer — fresh off Thursday’s 2–1 win at Darien — hosts Norwalk at 9 a.m., and field hockey, coming off a 9–0 win over Danbury, plays at Fairfield Warde at 10 a.m. On Monday, girls swimming and diving hosts Westhill/Stamford at 11 a.m., and boys soccer plays at Norwalk at 6:15 p.m. Volleyball, which swept New Canaan on Thursday, is back Tuesday at Wilton."
+    },
+    {
+      "n": 4,
+      "headline": "‘Iron Mike’ Ditka, who coached the 1985 Bears to their only Super Bowl title, dies at 86",
+      "cat": "NFL",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/sports/nfl/mike-ditka-legendary-chicago-bears-coach-dies-86-rcna602517",
+      "image_local": "images/story-931.jpg",
+      "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261009-Mike-Ditka-ew-1120a-b43e65.jpg",
+      "id": "5a408b7c28c08d53e527ee57fa872249f9d31052",
+      "summary": "Mike Ditka, the Hall of Fame player and famously gruff coach who led the Chicago Bears to their only Super Bowl championship, has died at 86, his family announced Friday. “While the world knew Mike as a Hall of Fame football player, legendary coach, and leader of the Chicago Bears’ Super Bowl XX championship team, we knew him as the heart of our family,” the statement said. Born Michael Dyczko on Oct. 18, 1939, and raised in a western Pennsylvania steel town, Ditka got the nickname “Iron Mike” for both his roots and his demeanor. His hard-hitting 1985 Bears thrashed the New England Patriots 46–10 in Super Bowl XX in January 1986, and Ditka became the embodiment of Chicago’s blue-collar, tough-guy identity."
+    },
+    {
+      "n": 5,
+      "headline": "Apple reportedly cuts iPhone 18 Pro component orders at least 15% after the $100 price hike cools demand; Apple shares slide",
+      "cat": "Apple",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/09/apple-cuts-iphone-18-pro-orders-price-demand/",
+      "image_local": "images/story-932.jpg",
+      "image_remote": "https://images.macrumors.com/t/hWkOCOJk6oFLPItG9CEYY-k2KZk=/2500x/article-new/2026/09/iphone-18-pro-blue.jpeg",
+      "id": "015cff8752b889d538736640f737822d8f6e9f41",
+      "summary": "Apple has asked suppliers to cut production of iPhone 18 Pro components because demand is coming in below expectations, Nikkei Asia reports, with October component orders reduced by at least 15 percent from what was originally requested. The report says Apple has been cautious about shipments since early September as AI-driven memory chip costs pushed prices up: the iPhone 18 Pro and Pro Max start at $1,199 and $1,299, $100 more than the models they replaced, while keeping the same 12GB of RAM as last year. Nikkei also points to Apple’s new split launch schedule — the regular iPhone 18, the cheaper iPhone 18e and the ultra-thin iPhone Air 2 are expected in spring 2027 — as a reason buyers may be waiting. Apple shares fell more than 2.5 percent in early trading Friday on the news."
+    },
+    {
+      "n": 6,
+      "headline": "Trump creates a ‘committee of inquiry’ to decide whether there’s cause to fire Fed governor Lisa Cook over mortgage-fraud allegations; hearing set for Nov. 5",
+      "cat": "Trump / economy",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/business/economy/trump-probe-fed-gov-lisa-cook-rcna602500",
+      "image_local": "images/story-933.jpg",
+      "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261009-lisa-cook-ch-1008-aeb847.jpg",
+      "id": "c8340efed8466590f8f084609958e13f1a07e432",
+      "summary": "President Trump signed a memorandum Friday directing the attorney general and other top officials to form a committee to investigate allegations that Federal Reserve Governor Lisa Cook made false statements on mortgage documents, and to report whether there is “cause” to remove her. Cook is required to appear at a hearing on Nov. 5 — two days after the midterms — where she can present arguments, evidence and witness statements. The move follows a June Supreme Court ruling that let Cook keep her job for now but held she was entitled to a chance to defend herself, rather than permanently barring her removal. The allegations were first raised in August 2025 by Federal Housing Finance Agency chief Bill Pulte. Cook’s lawyers, Abbe Lowell and Norm Eisen, said they have “grave doubts” the hearing is legitimate but that she welcomes the chance to clear her name. No president has ever fired a sitting Fed governor."
+    },
+    {
+      "n": 7,
+      "headline": "U.S. measles cases top 4,000 this year — nearly double 2025’s three-decade high, CDC says",
+      "cat": "Health",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/us-measles-cases-cdc-record/",
+      "image_local": "",
+      "image_remote": "",
+      "id": "b67d7e1680d6d9e5c0f3a9e405271bb1200e366d",
+      "summary": "The Centers for Disease Control and Prevention reported Friday that there have been 4,080 confirmed measles cases in the United States so far this year, as of Thursday. That already far exceeds 2025’s total of 2,289 cases, which itself was the most in three decades. Most states and Washington, D.C., have now reported cases of the highly contagious disease this year, and there are still nearly three months left in 2026."
+    },
+    {
+      "n": 8,
+      "headline": "Darth Vader’s lightsaber from the ‘I am your father’ duel in ‘The Empire Strikes Back’ heads to auction, expected to top $1 million",
+      "cat": "Movies / collectibles",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/star-wars-empire-strikes-back-lightsaber-duel-auction/",
+      "image_local": "images/story-934.jpg",
+      "image_remote": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/09/7c95f1a4-50f7-44aa-8cce-24856cd37d2f/thumbnail/1200x630g2/b5796df57468559b4885237305a4b5c3/ap26282015723688.jpg",
+      "id": "c30fd0aded403a0308f092401332e4a8fa1dedc5",
+      "summary": "The lightsaber Darth Vader used in his Cloud City duel with Luke Skywalker in “The Empire Strikes Back” — the scene where Vader reveals “I am your father” — will be sold at Heritage Auctions’ Ultimate Star Wars Auction on Nov. 12, with an estimate of at least $1 million. More than two dozen lightsaber props are in the sale, including the ones Ewan McGregor’s Obi-Wan and Hayden Christensen’s Anakin used in “Revenge of the Sith” (at least $10,000 each). Other lots include Boba Fett’s EE-3 carbine blaster (estimated at more than $100,000), a Yoda puppet hand used by Frank Oz, Anthony Daniels’ signed third-draft script of the 1977 original, a TIE Fighter pilot helmet from “Rogue One,” and a miniature snowspeeder from Carrie Fisher’s private collection. In July, Luke’s lightsaber with his severed hand from “Empire” sold for a record $3.75 million."
+    },
+    {
+      "n": 9,
+      "headline": "Nikon strips the winner of its Small World in Motion microscopy contest after scientists flag the video as AI-generated",
+      "cat": "Photography",
+      "source": "PetaPixel",
+      "url": "https://petapixel.com/2026/10/09/nikon-disqualifies-winner-of-small-world-in-motion-competition-for-using-ai/",
+      "image_local": "images/story-935.jpg",
+      "image_remote": "https://petapixel.com/assets/uploads/2026/10/Dr-Ning-Xu-AI-Investigation.jpg",
+      "id": "859c8c92c6f0708ee3741179c569cce6bb0f629a",
+      "summary": "Nikon has disqualified Dr. Ning Xu’s winning entry in its Small World in Motion competition, which celebrates real microscope video, after concluding the clip broke the contest’s rule that “AI-generated videos are not permitted.” Xu, an optical engineering researcher at the National University of Singapore, said the video showed moving cilia in lung tissue from a child with a rare genetic disorder; he admitted using AI in post-processing but denied breaking the rules. Scientists picked it apart online — one associate professor noted that “purple structures pop in and out of existence” and that the cilia didn’t match their known size. Nikon said the decision is about eligibility, not Xu’s reputation, and promoted Nguyen Nam Nhat’s video of a tiny roundworm and a single-celled Dileptus to first place. The company says the episode shows it needs to revisit its rules and judging procedures as AI imaging tools advance."
+    },
+    {
+      "n": 10,
       "headline": "Big Thursday for Trumbull High: girls soccer edges Darien 2–1, volleyball sweeps New Canaan to stay unbeaten, field hockey routs Danbury 9–0",
       "cat": "Local / Trumbull CT",
       "source": "Yahoo Sports (CT Insider photos); scores via FCIAC",
@@ -35,7 +112,7 @@
       "summary": "Trumbull’s fall teams went 3–0 on Thursday, according to the FCIAC scoreboard. Girls soccer won 2–1 at Darien, a road win over one of the league’s traditional powers; the photo gallery from the match is free on Yahoo Sports. Volleyball swept New Canaan 3–0 (25-23, 25-17, 25-19) to stay perfect on the season, led by Adriana Castillo’s 13 kills and 9 digs, McKenzyi Bell’s 12 kills and 3 blocks, and Bea Carley’s 16 digs and 3 aces. Field hockey beat Danbury 9–0. Up next: boys soccer hosts Darien tonight at 5:30 p.m., girls soccer hosts Norwalk Saturday at 9 a.m., field hockey plays at Fairfield Warde Saturday at 10 a.m., girls swimming hosts Westhill/Stamford Monday at 11 a.m., and volleyball is at Wilton on Tuesday."
     },
     {
-      "n": 4,
+      "n": 11,
       "headline": "Judas Priest founding bassist Ian Hill retires after 57 years, citing advanced arthritis; Uriah Heep’s Dave Rimmer takes over",
       "cat": "Heavy metal",
       "source": "Blabbermouth",
@@ -46,7 +123,7 @@
       "summary": "Ian Hill, the last original member of Judas Priest, announced Friday that he is retiring from the band he co-founded in 1969. In a message the band shared, the 74-year-old said he had always planned to continue “until my performances suffer… I hate to say it, but that time has come.” He described arthritis in both shoulders, his right hand and both knees, treated with painkillers and cortisone shots, and said he snapped a tendon in his left shoulder during the Brussels show on the recent European tour, which kept him out of the Sept. 21 London concert. Dave Rimmer of Uriah Heep and Elegant Weapons, Richie Faulkner’s side band, filled in that night and is now his permanent replacement. Hill said he still recorded bass for Priest’s next album and wants to make up for “fifty seven years” of neglected family life. The band called him “the backbone of Judas Priest for so long.”"
     },
     {
-      "n": 5,
+      "n": 12,
       "headline": "Nobel Peace Prize goes to Navi Pillay, ex-ICC judge who led the U.N. Gaza ‘genocide’ inquiry; she jokes she ‘may share this prize with Trump’",
       "cat": "World",
       "source": "NBC News",
@@ -57,7 +134,7 @@
       "summary": "The Norwegian Nobel Committee awarded the 2026 Peace Prize to Navanethem “Navi” Pillay, an 85-year-old South African jurist who once defended Nelson Mandela, served as a judge at the International Criminal Court and as U.N. human rights chief, and most recently led the U.N. commission that concluded Israel committed genocide in Gaza. Committee chair Jørgen Watne Frydnes framed the choice as a defense of international law against a “shift towards power politics.” Pillay learned of the award at a law forum in Nuremberg and told the applauding crowd, “If you clap a little bit more, I may share this prize with Trump.” President Trump was among 287 nominees, put forward by the leaders of Israel, Pakistan and Cambodia, but said this week that the committee has “a reputation for maybe not giving it to people like me.” Amnesty International’s chief praised the pick as a rebuke to U.S. attacks on the ICC. Pillay was not among the betting favorites."
     },
     {
-      "n": 6,
+      "n": 13,
       "headline": "SpaceX buys nationwide 800 MHz spectrum to turn Starlink Mobile into a full U.S. carrier; AT&T, Verizon and T-Mobile shares slip",
       "cat": "Elon Musk / SpaceX",
       "source": "Teslarati",
@@ -68,7 +145,7 @@
       "summary": "SpaceX has agreed to buy Grain Management’s entire nationwide 800 MHz spectrum portfolio, which it says will “pave the way for Starlink to become a major mobile carrier in the US.” The low-band licenses, which Grain acquired from T-Mobile only in August, are built for ground towers rather than satellites, and SpaceX says the band penetrates walls and works with most existing phones. Combined with the 2 GHz satellite spectrum it gained from EchoStar, Starlink Mobile would be the first operator running both satellite and terrestrial spectrum. No price was disclosed and the deal needs FCC approval. It follows the FCC’s approval earlier this week of 15,000 second-generation Starlink Mobile satellites. Shares of AT&T, Verizon and T-Mobile fell in after-hours trading; T-Mobile, currently SpaceX’s launch partner for direct-to-cell service, is in the most awkward spot. SpaceX president Gwynne Shotwell said in August she expects Starlink Mobile to win customers from the big carriers."
     },
     {
-      "n": 7,
+      "n": 14,
       "headline": "With DJI blocked in the U.S., Insta360 opens a Times Square flagship and goes all-in on American creators",
       "cat": "Cameras / Insta360",
       "source": "Rest of World",
@@ -79,7 +156,7 @@
       "summary": "With the FCC blocking DJI from selling new drones and cameras in the U.S. and the Pentagon labeling it a Chinese military company, its smaller Shenzhen rival Insta360 is making a hard push for American buyers. Last month it opened its first U.S. flagship store in Times Square, with YouTubers flown in and yellow-shirted cyclists touring the city. Co-founder Max Richter, a former DJI employee, told Rest of World the U.S. already accounts for 30% to 40% of Insta360’s revenue. DJI still holds about 73% of global handheld smart-camera shipments to Insta360’s 20%, and GoPro has been largely pushed out. Insta360 also spun up an independent drone brand, Antigravity, whose A1 drone won FCC approval just before the ban on new foreign-made drones took effect, a structure analysts say could shield the camera business from future restrictions. “It’s better to have a clear no than maybe in business,” one consultant said of the regulatory picture."
     },
     {
-      "n": 8,
+      "n": 15,
       "headline": "Penguins (2-2-0) try to bounce back at Columbus tonight; Tommy Novak leads the team with five points, and Pittsburgh is 24-3-6 in its last 33 vs. the Jackets",
       "cat": "Penguins hockey",
       "source": "PensBurgh",
@@ -90,7 +167,7 @@
       "summary": "After two straight losses following a 2-0 start, the Penguins visit the Columbus Blue Jackets tonight (SportsNet Pittsburgh; ESPN+ out of market). Pittsburgh is 2-2-0 and fourth in the Metropolitan Division, playing its fifth game; Columbus is 1-1-0 and coming off a five-day break after a 4-1 home loss to Utah. Pittsburgh has dominated the matchup, going 24-3-6 in its last 33 games against Columbus since February 2017. Tommy Novak has been the early surprise with a team-leading five points (3 goals, 2 assists) in four games, already his best start in five games. Elmer Soderblom, Ilya Solovyov and Spencer Stastney are expected scratches. It’s the first of a back-to-back: the Penguins host Dallas on Saturday before a week-long western trip to Chicago, Colorado, Vegas and Utah."
     },
     {
-      "n": 9,
+      "n": 16,
       "headline": "Manson follower Patricia Krenwinkel recommended for parole a third time, 57 years after the Tate-LaBianca murders; Newsom has twice blocked it",
       "cat": "Crime / courts",
       "source": "People",
@@ -101,18 +178,7 @@
       "summary": "Patricia Krenwinkel, 78, one of Charles Manson’s most notorious followers, was again recommended for parole at a hearing on Oct. 6, according to California corrections records. She has been in prison since her 1971 conviction on seven counts of first-degree murder for the August 1969 killings of actress Sharon Tate and four others at Tate’s home and of Leno and Rosemary LaBianca the next night, and she is now California’s longest-serving female inmate. The parole board granted her release in 2022 and 2025, and Gov. Gavin Newsom reversed it both times, saying she still posed an unreasonable risk despite her rehabilitation. The new decision faces a 120-day board review, after which Newsom has 30 days to decide whether to block it again. Krenwinkel has kept a clean prison record and earned a bachelor’s degree. Fellow Manson family members Leslie Van Houten and Steve Grogan have been paroled; Tex Watson waived a hearing until 2029."
     },
     {
-      "n": 10,
-      "headline": "Trump tells Minnesota to ‘fight back’ against Somali immigrants: ‘If you need, the Federal Government will come to your rescue’",
-      "cat": "Immigration",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/politics/immigration/president-donald-trump-urges-minnesotans-fight-back-somali-immigrants-rcna602431",
-      "image_local": "images/story-915.jpg",
-      "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261008-donald-trump-dc-ww-1357-d922d6.jpg",
-      "id": "b9f08b03677bd292395661c88bf11595bf78a90d",
-      "summary": "President Trump on Thursday urged Minnesotans to “fight back” against the state’s Somali community in a Truth Social post. “The once Great State of Minnesota is being taken over by Somali Immigrants,” he wrote. “The people of Minnesota must fight back.” He added: “The Somalians should not be allowed to get away with what they are doing. They view you as weak and stupid people. Fight back Minnesota, fight back! If you need, the Federal Government will come to your rescue.” The White House did not immediately say what kind of action the president had in mind. Trump has repeatedly criticized Minnesota’s Somali community and Rep. Ilhan Omar, who was born in Somalia, and his rhetoric has sharpened since reports last year that dozens of people of Somali descent were convicted in fraud schemes in the state."
-    },
-    {
-      "n": 11,
+      "n": 17,
       "headline": "Logan Federico’s father presses AG Todd Blanche for ‘Logan’s Law,’ a public registry of repeat violent offenders",
       "cat": "Crime / courts",
       "source": "Fox News",
@@ -123,7 +189,7 @@
       "summary": "Stephen Federico, whose 22-year-old daughter Logan was murdered during a home break-in in Columbia, South Carolina, used a crime roundtable attended by Attorney General Todd Blanche on Thursday to push “Logan’s Law.” The proposal would create a publicly searchable database of repeat violent offenders, force cross-county and interstate information sharing, and hold prosecutors accountable for how they handle habitual criminals. Federico says the system let the accused killer, Alexander Dickey, stay on the street despite a lengthy record. “This was preventable,” he said. “I’m not going to save just one more life. I’m going to save thousands.” Rep. Russell Fry, R-S.C., who introduced the bill with the late Sen. Lindsey Graham, compared it to the existing sex-offender registry: “This is for violent crimes. It’s the same concept.” The bill has not yet reached the floor of either chamber. Blanche said it took a tragedy to push the issue forward."
     },
     {
-      "n": 12,
+      "n": 18,
       "headline": "Army’s own report on the DC Black Hawk–airliner collision finds failures at every layer, from a 75-foot route margin to a dead ADS-B transmitter",
       "cat": "Aviation / military",
       "source": "AP (via PBS NewsHour)",
@@ -134,7 +200,7 @@
       "summary": "The Army released its investigation into last year’s collision between a Black Hawk helicopter and an American Airlines jet near Reagan National Airport, which killed 67 people in the deadliest U.S. crash in more than two decades. The report was finished in May and made public Thursday after months of pressure from victims’ families. It faults the air traffic controller for not giving the helicopter crew more precise information about the jet and not warning the airliner, but also cites two failed radio transmissions, night-vision goggles that limited the pilots’ view, and a helicopter route that allowed only 75 feet of vertical separation from landing planes; the NTSB found the Black Hawk was flying nearly 100 feet higher than its instruments read. The Army says it has strengthened crew training and inspected and reconfigured 3,585 helicopters after learning the crashed aircraft’s ADS-B location broadcast had not worked for some time, and it is reviewing helicopter routes in Los Angeles and Seattle-Tacoma. Tim Lilley, a former Black Hawk pilot whose son was the jet’s first officer, said the partly redacted report still doesn’t say who was responsible."
     },
     {
-      "n": 13,
+      "n": 19,
       "headline": "Not a payola deal: Instagram admits a glitch has been pushing Creed’s ‘Higher’ onto everyone’s Stories",
       "cat": "Rock",
       "source": "Consequence",
@@ -145,7 +211,7 @@
       "summary": "Instagram has apologized after users noticed its music picker repeatedly suggesting Creed’s 1999 hit “Higher” as the soundtrack for their Stories, no matter what they were posting. Some had begun to wonder whether the band had cut a promotional deal with Meta. “We looked into this and found that this song is being recommended to more people than intended,” an Instagram spokesperson told CNN, adding that the company is still investigating and working on a fix. Song recommendations normally draw on a user’s past picks and the visual content of the post. Users also reported an uptick in suggestions for Soulja Boy’s “Turn My Swag On,” but Instagram says that one is legitimate. The glitch comes during a broader Creed revival: the band returned to touring in 2024 after more than a decade away and hosted another Summer of ’99 and Beyond cruise this year."
     },
     {
-      "n": 14,
+      "n": 20,
       "headline": "Babylon Bee: ‘Egypt Saved After Joseph Advises Pharaoh To Stock Up On Emergency Food Buckets From My Patriot Supply’",
       "cat": "Satire",
       "source": "Babylon Bee",
@@ -154,72 +220,6 @@
       "image_remote": "https://media.babylonbee.com/articles/6ac8047ae29bf6ac8047ae29c0.jpg",
       "id": "e570f025163f9f266cf52ff1fd6e16e3058047f5",
       "summary": "The Babylon Bee recasts the Genesis famine story as a prepper ad: Joseph, second only to Pharaoh, gets charge of the royal accounts and orders emergency food buckets ahead of the seven lean years, having Pharaoh’s servants build “something called an Internet” so he can order online. “Without them, we’d be stuck storing grain in silos, and that’s a lot of extra work,” Joseph explains. Egypt ends up with enough surplus to sell to the rest of the world, and a delighted Pharaoh muses about building “a cool little cat statue with a human head on it.” The kicker: Joseph’s brothers arrive looking for food buckets but are detained when they can’t remember the promo code, COAT OF MANY COLORS."
-    },
-    {
-      "n": 15,
-      "headline": "DOJ takes Cassidy Hutchinson to a grand jury over whether she lied to Congress about Trump on Jan. 6, including the steering-wheel story",
-      "cat": "Trump / DOJ",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/doj-seeking-indictment-cassidy-hutchinson-jan-6/",
-      "image_local": "images/story-911.jpg",
-      "image_remote": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/09/23/5fcb3cc9-939e-4aae-9b82-08a7d9c3e351/thumbnail/1200x630g2/832b8abe4c5e3e905ca01d30ace11450/cassidy-hutchinson-swearing-in.jpg",
-      "id": "4181029f49c295e553fd6533af478f64d8312b39",
-      "summary": "Federal prosecutors have been presenting evidence to a grand jury in Washington, D.C., on whether former White House aide Cassidy Hutchinson lied to Congress in her Jan. 6 testimony, two sources told CBS News. Hutchinson, who worked for chief of staff Mark Meadows, told the House Jan. 6 committee in 2022 that President Trump had been warned some supporters were armed and wanted the magnetometers removed, and she relayed a secondhand account from deputy chief of staff Tony Ornato that Trump lunged at the steering wheel when the Secret Service refused to drive him to the Capitol. Trump’s driver later testified under oath that the president never grabbed the wheel. CBS could not determine exactly which parts of her testimony prosecutors are examining; media reports say House Republicans made the referral. In an unusual move, the case is being handled by the Justice Department’s Civil Rights Division rather than the U.S. Attorney’s Office in D.C. The grand jury activity was first reported by Punchbowl News."
-    },
-    {
-      "n": 16,
-      "headline": "ABC News quietly deletes its story tying Anduril’s Pentagon billions to Don Jr. and Eric Trump after Palmer Luckey calls it ‘totally bogus’",
-      "cat": "Media",
-      "source": "Washington Free Beacon",
-      "url": "https://freebeacon.com/media/oops-page-unavailable-abc-news-mysteriously-spikes-article-alleging-trump-admin-awarded-billions-to-palmer-luckeys-anduril-because-of-ties-to-don-jr-eric/",
-      "image_local": "images/story-912.jpg",
-      "image_remote": "https://freebeacon.com/wp-content/uploads/2026/10/MixCollage-08-Oct-2026-04-46-PM-3433.jpg",
-      "id": "99812fc945ae882175c0d3ff111b4815aaeb4c94",
-      "summary": "ABC News has pulled, without explanation, a story published Wednesday headlined “Trump sons’ investments have won billions in Pentagon contracts since his election,” which claimed Palmer Luckey’s Anduril had landed $6 billion in federal contracts since the Trump brothers’ 1789 Capital took a stake, including the $6.6 billion Baltimore shipyard deal President Trump unveiled this week. Gavin Newsom pushed the story on X to some 900,000 views before the link began redirecting to an “Oops! Page unavailable” 404 page less than 24 hours after publication, the Free Beacon reports. Luckey called the piece “totally bogus,” saying Anduril had shown the reporter data that 1789 Capital’s stake is about $50 million, roughly 0.1 percent of the company, and that the $6.6 billion figure is a hypothetical contract ceiling rather than money the Pentagon will necessarily pay. Outlets normally append corrections or an editor’s note rather than deleting a story outright; ABC did not respond to requests for comment, and the reporter, an early-career fellow in ABC’s Washington bureau, said “No comment.”"
-    },
-    {
-      "n": 17,
-      "headline": "New ‘P7 DarkSword’ iPhone spyware variant steals Keychain passwords and crypto wallets through malicious ads — another reason to stay updated",
-      "cat": "Apple / security",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/10/08/researchers-uncover-new-darksword-spyware-variant-affecting-unpatched-iphones/",
-      "image_local": "images/story-914.jpg",
-      "image_remote": "https://9to5mac.com/wp-content/uploads/sites/6/2024/06/apple-hacked.jpg?quality=82&strip=all&resize=1200,628",
-      "id": "eea1aecc0a3fbddc86fb048f2ddf50040ed37378",
-      "summary": "Security firm iVerify has detailed P7 DarkSword, a previously unseen variant of the malware deployed through the DarkSword iPhone exploit chain that Google and iVerify exposed earlier this year, which hit iPhones running iOS 18.4 through 18.7 and prompted Apple to ship patches including iOS 18.7.7. iVerify found P7 in August while investigating an infection on a financial-institution employee’s iPhone. The new version is stealthier and more capable: it pulls Keychain data directly on the phone, targets crypto-wallet data, and keeps two-way contact with its operators, checking in every 15 seconds for commands to grab files, upload photos, read Apple Notes, inventory apps and scan the filesystem. It is being spread through malicious ads in watering-hole attacks, so victims don’t have to be individually targeted, and iVerify says older indicators of compromise no longer catch it. P7 is not a new iOS vulnerability but a new payload for already-patched holes, so keeping iOS current remains the main defense."
-    },
-    {
-      "n": 18,
-      "headline": "Trumbull police say a Bridgeport man burglarized a Beardsley Parkway day care overnight, took $1,200 and the owner’s car — and was caught at the wheel in Bridgeport",
-      "cat": "Local / Trumbull CT",
-      "source": "Town of Trumbull",
-      "url": "https://www.trumbull-ct.gov/m/newsflash/Home/Detail/3195",
-      "image_local": "",
-      "image_remote": "",
-      "id": "02a192ebd1180c549df9a17c9c79ebb7af9d84fc",
-      "summary": "Trumbull Police posted details Thursday of the arrest of Latrell Eppes, 32, of Bridgeport, in a burglary at a day care facility on Beardsley Parkway. According to the department, the day care’s owner called police around 7:15 a.m. to report that the business had been entered overnight and about $1,200 in cash was stolen, and that a car was also missing. While officers were investigating, the vehicle was tracked to the parking lot of the North End Variety store in Bridgeport, where officers found Eppes walking out of the store and getting into the car and took him into custody without incident. Police say he had a large amount of cash, suspected narcotics, the keys to the stolen vehicle and cash believed to have come from the day care. Eppes was charged with burglary, larceny of a motor vehicle, possession of narcotics and related offenses and was held on a $50,000 bond. The town’s release dates the arrest to Sunday, Sept. 20, with a court appearance that was set for Sept. 30."
-    },
-    {
-      "n": 19,
-      "headline": "Jets (1-3) come home to face the 3-1 Browns needing to fix their slow starts — Garrett Wilson: ‘we have to get on the board now’",
-      "cat": "Jets football",
-      "source": "NewYorkJets.com",
-      "url": "https://www.newyorkjets.com/news/jets-vs-browns-game-preview-geno-smith-deshaun-watson-week-5-nfl-10-11-2026",
-      "image_local": "images/story-902.jpg",
-      "image_remote": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/jets/yatbdprcbodqcm55cnf8",
-      "id": "1e73a5c297780ce5bc6da7a577ec3c5aad118a56",
-      "summary": "The Jets return to MetLife Stadium on Sunday riding a three-game losing streak to host a Cleveland team that has won three straight since an opening-day blowout. Wide receiver Garrett Wilson, who leads the team with 24 catches, 270 yards and two touchdowns but was held to three catches in Chicago as the offense ran just 32 plays, said he feels a higher level of urgency: “We have to get on the board, we have to get on the board now.” The Jets have spotted their past three opponents early leads, scoring 17 first-half points in those games, while the Browns have been outscored 27-3 in first quarters; both teams have lived in one-score games, with the Jets losing to Green Bay in overtime and to Detroit and Cleveland beating Tampa Bay, Carolina and Pittsburgh by a combined 10 points. New York has been missing four offensive starters but could get tight end Mason Taylor back from a thumb injury, and Wilson called Browns cornerback Denzel Ward a player who “brings out the best in you.” It starts a nine-game run against AFC opponents, with three of the next four at home."
-    },
-    {
-      "n": 20,
-      "headline": "Indian’s CEO says he’s ‘disappointed’ Harley would ‘quit American bagger racing’ as the Motor Co. walks away from King of the Baggers",
-      "cat": "Harley-Davidson",
-      "source": "RideApart",
-      "url": "https://www.rideapart.com/news/811094/indian-motorcycle-ceo-mike-kennedy-calls-out-harley-davidson-king-of-the-baggers/",
-      "image_local": "images/story-903.jpg",
-      "image_remote": "https://cdn.motor1.com/images/mgl/0eNMOW/s1/2024-king-of-the-baggers-will-race-alongside-motogp-at-cota.jpg",
-      "id": "09b67133fc628fba7406d602fd7ba9acf7d19662",
-      "summary": "Indian Motorcycle CEO Mike Kennedy publicly criticized Harley-Davidson’s decision to leave MotoAmerica’s King of the Baggers, the bagger race series Harley helped found. “We are disappointed that Harley-Davidson would quit American bagger racing and walk away from something that has unified so many American V-twin riders regardless of which brand of motorcycle they ride,” Kennedy said, adding that “rivalry, and the inherent possibility of losing, is what makes competition truly meaningful.” He said Indian remains committed to MotoAmerica and the series. RideApart’s writer says he understood Harley’s cost-cutting logic at first, since the company is in a rebuilding phase and racing burns cash, but now sides with Kennedy, arguing Harley should have dropped its single-make MotoGP support series instead. The piece notes Harley is also courting younger riders with an upcoming entry-level bike, an expanded Revolution Max lineup, a returning Sportster and its purchase of EV dirt-bike brand Dust Moto, but warns it can’t leave its core bagger and cruiser buyers hanging."
     }
   ]
 }
