@@ -1001,7 +1001,12 @@
     "4181029f49c295e553fd6533af478f64d8312b39",
     "99812fc945ae882175c0d3ff111b4815aaeb4c94",
     "14486b0ec5c82de31c02ee9520b62e6bd15233af",
-    "eea1aecc0a3fbddc86fb048f2ddf50040ed37378"
+    "eea1aecc0a3fbddc86fb048f2ddf50040ed37378",
+    "b9f08b03677bd292395661c88bf11595bf78a90d",
+    "9f3a9474280bd9b6c71fa37dbd851677333ecf53",
+    "8668ef39d4763fd42039bbd5b7674db968e9d1c0",
+    "5ff1d586f4cdd42a47b89080d76c0c5d9c4aac24",
+    "e570f025163f9f266cf52ff1fd6e16e3058047f5"
   ],
   "stories": {
     "0c2ac7a5e342411678296315c4c59043b1f067cc": {
@@ -12379,7 +12384,57 @@
       "image_remote": "https://9to5mac.com/wp-content/uploads/sites/6/2024/06/apple-hacked.jpg?quality=82&strip=all&resize=1200,628",
       "image_local": "images/story-914.jpg",
       "id": "eea1aecc0a3fbddc86fb048f2ddf50040ed37378"
+    },
+    "b9f08b03677bd292395661c88bf11595bf78a90d": {
+      "headline": "Trump tells Minnesota to ‘fight back’ against Somali immigrants: ‘If you need, the Federal Government will come to your rescue’",
+      "cat": "Immigration",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/politics/immigration/president-donald-trump-urges-minnesotans-fight-back-somali-immigrants-rcna602431",
+      "summary": "President Trump on Thursday urged Minnesotans to “fight back” against the state’s Somali community in a Truth Social post. “The once Great State of Minnesota is being taken over by Somali Immigrants,” he wrote. “The people of Minnesota must fight back.” He added: “The Somalians should not be allowed to get away with what they are doing. They view you as weak and stupid people. Fight back Minnesota, fight back! If you need, the Federal Government will come to your rescue.” The White House did not immediately say what kind of action the president had in mind. Trump has repeatedly criticized Minnesota’s Somali community and Rep. Ilhan Omar, who was born in Somalia, and his rhetoric has sharpened since reports last year that dozens of people of Somali descent were convicted in fraud schemes in the state.",
+      "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261008-donald-trump-dc-ww-1357-d922d6.jpg",
+      "image_local": "images/story-915.jpg",
+      "id": "b9f08b03677bd292395661c88bf11595bf78a90d"
+    },
+    "9f3a9474280bd9b6c71fa37dbd851677333ecf53": {
+      "headline": "Logan Federico’s father presses AG Todd Blanche for ‘Logan’s Law,’ a public registry of repeat violent offenders",
+      "cat": "Crime / courts",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/us/logan-federico-dad-says-criminals-more-important-victims-pushes-repeat-offender-registry",
+      "summary": "Stephen Federico, whose 22-year-old daughter Logan was murdered during a home break-in in Columbia, South Carolina, used a crime roundtable attended by Attorney General Todd Blanche on Thursday to push “Logan’s Law.” The proposal would create a publicly searchable database of repeat violent offenders, force cross-county and interstate information sharing, and hold prosecutors accountable for how they handle habitual criminals. Federico says the system let the accused killer, Alexander Dickey, stay on the street despite a lengthy record. “This was preventable,” he said. “I’m not going to save just one more life. I’m going to save thousands.” Rep. Russell Fry, R-S.C., who introduced the bill with the late Sen. Lindsey Graham, compared it to the existing sex-offender registry: “This is for violent crimes. It’s the same concept.” The bill has not yet reached the floor of either chamber. Blanche said it took a tragedy to push the issue forward.",
+      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2025/09/logan-federico-stephen-federico-congressional-hearing.jpg",
+      "image_local": "images/story-916.jpg",
+      "id": "9f3a9474280bd9b6c71fa37dbd851677333ecf53"
+    },
+    "8668ef39d4763fd42039bbd5b7674db968e9d1c0": {
+      "headline": "Army’s own report on the DC Black Hawk–airliner collision finds failures at every layer, from a 75-foot route margin to a dead ADS-B transmitter",
+      "cat": "Aviation / military",
+      "source": "AP (via PBS NewsHour)",
+      "url": "https://www.pbs.org/newshour/nation/army-calls-for-safety-fixes-after-finding-systemic-failures-behind-dc-midair-collision",
+      "summary": "The Army released its investigation into last year’s collision between a Black Hawk helicopter and an American Airlines jet near Reagan National Airport, which killed 67 people in the deadliest U.S. crash in more than two decades. The report was finished in May and made public Thursday after months of pressure from victims’ families. It faults the air traffic controller for not giving the helicopter crew more precise information about the jet and not warning the airliner, but also cites two failed radio transmissions, night-vision goggles that limited the pilots’ view, and a helicopter route that allowed only 75 feet of vertical separation from landing planes; the NTSB found the Black Hawk was flying nearly 100 feet higher than its instruments read. The Army says it has strengthened crew training and inspected and reconfigured 3,585 helicopters after learning the crashed aircraft’s ADS-B location broadcast had not worked for some time, and it is reviewing helicopter routes in Los Angeles and Seattle-Tacoma. Tim Lilley, a former Black Hawk pilot whose son was the jet’s first officer, said the partly redacted report still doesn’t say who was responsible.",
+      "image_remote": "https://d3i6fh83elv35t.cloudfront.net/static/2025/12/2025-02-06T162808Z_269648295_RC2WNCA8QYGV_RTRMADP_3_USA-CRASH-WASHINGTONDC-1024x683.jpg",
+      "image_local": "images/story-917.jpg",
+      "id": "8668ef39d4763fd42039bbd5b7674db968e9d1c0"
+    },
+    "5ff1d586f4cdd42a47b89080d76c0c5d9c4aac24": {
+      "headline": "Not a payola deal: Instagram admits a glitch has been pushing Creed’s ‘Higher’ onto everyone’s Stories",
+      "cat": "Rock",
+      "source": "Consequence",
+      "url": "https://consequence.net/2026/10/instagram-creed-recommendation-glitch/",
+      "summary": "Instagram has apologized after users noticed its music picker repeatedly suggesting Creed’s 1999 hit “Higher” as the soundtrack for their Stories, no matter what they were posting. Some had begun to wonder whether the band had cut a promotional deal with Meta. “We looked into this and found that this song is being recommended to more people than intended,” an Instagram spokesperson told CNN, adding that the company is still investigating and working on a fix. Song recommendations normally draw on a user’s past picks and the visual content of the post. Users also reported an uptick in suggestions for Soulja Boy’s “Turn My Swag On,” but Instagram says that one is legitimate. The glitch comes during a broader Creed revival: the band returned to touring in 2024 after more than a decade away and hosted another Summer of ’99 and Beyond cruise this year.",
+      "image_remote": "https://consequence.net/wp-content/uploads/2026/10/Instagram-Apologizes-Creed-Higher-Repeated-Song-Recommendations.jpg",
+      "image_local": "images/story-918.jpg",
+      "id": "5ff1d586f4cdd42a47b89080d76c0c5d9c4aac24"
+    },
+    "e570f025163f9f266cf52ff1fd6e16e3058047f5": {
+      "headline": "Babylon Bee: ‘Egypt Saved After Joseph Advises Pharaoh To Stock Up On Emergency Food Buckets From My Patriot Supply’",
+      "cat": "Satire",
+      "source": "Babylon Bee",
+      "url": "https://babylonbee.com/news/egypt-saved-after-joseph-advises-pharaoh-to-stock-up-on-emergency-food-buckets-from-my-patriot-supply/",
+      "summary": "The Babylon Bee recasts the Genesis famine story as a prepper ad: Joseph, second only to Pharaoh, gets charge of the royal accounts and orders emergency food buckets ahead of the seven lean years, having Pharaoh’s servants build “something called an Internet” so he can order online. “Without them, we’d be stuck storing grain in silos, and that’s a lot of extra work,” Joseph explains. Egypt ends up with enough surplus to sell to the rest of the world, and a delighted Pharaoh muses about building “a cool little cat statue with a human head on it.” The kicker: Joseph’s brothers arrive looking for food buckets but are detained when they can’t remember the promo code, COAT OF MANY COLORS.",
+      "image_remote": "https://media.babylonbee.com/articles/6ac8047ae29bf6ac8047ae29c0.jpg",
+      "image_local": "images/story-919.jpg",
+      "id": "e570f025163f9f266cf52ff1fd6e16e3058047f5"
     }
   },
-  "updated": "Thursday, October 8, 2026 · 7:26 PM ET"
+  "updated": "Thursday, October 8, 2026 · 10:22 PM ET"
 }
