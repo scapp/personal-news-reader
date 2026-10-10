@@ -1044,7 +1044,15 @@
     "bd130343ca54eafb48f7e08c5fe70e3a2f61fb08",
     "0bf4fd093e4818bdb36b23ed7f300b254d140f68",
     "22e8ae3d646d5cfe0947902a8f3153bfd9abdeaf",
-    "3497d39d2a5c52bc41aeeeec7b2281dc2663afdb"
+    "3497d39d2a5c52bc41aeeeec7b2281dc2663afdb",
+    "3557c462377dd314db4905686272edb715aa9bee",
+    "b50c0bc756b3633d22b22390a8928ba80ddb3b53",
+    "1f5e5a5a7ceb0e87ba6092b272823e3172491d9a",
+    "78d5f32bff76757e192dce2bcea322bad3582313",
+    "14272a507c33a92bd6dc15d60c5d220522aee8ca",
+    "dee165e89bd602d45192788ed0dabca6a3945bc5",
+    "15bee76fe6febc1ce4d6c7c8736e5913abfa1f28",
+    "0e4eb5bbf442133a94d44afde1f87ecce9dc0862"
   ],
   "stories": {
     "0c2ac7a5e342411678296315c4c59043b1f067cc": {
@@ -12852,7 +12860,87 @@
       "image_remote": "",
       "image_local": "",
       "id": "3497d39d2a5c52bc41aeeeec7b2281dc2663afdb"
+    },
+    "3557c462377dd314db4905686272edb715aa9bee": {
+      "headline": "Isaias makes landfall near Destin, Florida, as a 105-mph Category 2 hurricane; half a million customers lose power and nearly 70% of Escambia County is dark",
+      "cat": "Weather",
+      "source": "WXII 12 News",
+      "url": "https://www.wxii12.com/article/hurricane-isaias-landfall-florida/74094824",
+      "summary": "Hurricane Isaias came ashore near Destin in the Florida Panhandle just before 9:30 p.m. Eastern Friday with maximum sustained winds of 105 mph, after briefly reaching Category 3 strength earlier in the day. The National Hurricane Center said water was rising quickly along the coast; a gauge in Panama City Beach recorded water about 5.4 feet above normal high tide. About half a million utility customers along the Gulf Coast were without power, including nearly 70% of Escambia County, more than 120,000 customers, and Pensacola’s mayor said power was out across most of the city. Hurricane warnings cover parts of the Florida Panhandle, southern Alabama and southern Mississippi, Gov. Ron DeSantis has declared an emergency in 27 Florida counties, and forecasters warn of flash and river flooding across the Southeast through the weekend, plus a tornado threat overnight that spreads into Georgia and the Carolinas on Saturday.",
+      "image_remote": "https://kubrick.htvapps.com/htv-prod/images/ccf66cfe-cf6d-4c3c-aff1-26189f39edb5.png?crop=0.985xw%3A1.00xh%3B0.00813xw%2C0&resize=1200%3A*",
+      "image_local": "images/story-953.jpg",
+      "id": "3557c462377dd314db4905686272edb715aa9bee"
+    },
+    "b50c0bc756b3633d22b22390a8928ba80ddb3b53": {
+      "headline": "Meet your Trumbull candidates: Town Council member Bill Mecca makes his case for the 123rd House District — fix the school-funding formula and get tough on utility costs",
+      "cat": "Local / Trumbull CT",
+      "source": "Trumbull Patch",
+      "url": "https://patch.com/connecticut/trumbull/ct-patch-candidate-profile-bill-mecca-state-representative",
+      "summary": "Bill Mecca, a Trumbull Town Council member running for state representative in the 123rd House District against incumbent David Rutigliano, answered Patch’s candidate questionnaire ahead of the Nov. 3 election. He calls K–12 school funding the No. 1 issue in Connecticut and wants the state to put in more money and rewrite the Education Cost Sharing formula so suburban towns like Trumbull don’t lean so heavily on property taxes, and to end unfunded state mandates. On electric bills, he backs a mix of nuclear, renewables and storage, using the Millstone and Seabrook contracts, and much tougher scrutiny of utility spending before it lands in rates. As evidence he can do the job, Mecca points to his time as president of the Nichols Improvement Association, where he started the Nichols Farmers Market and an adult kickball league, and his council votes for balanced budgets since 2018, restoring the police pension, keeping the town’s top-tier bond rating, a bigger tax break for volunteer firefighters and the senior-center referendum.",
+      "image_remote": "",
+      "image_local": "",
+      "id": "b50c0bc756b3633d22b22390a8928ba80ddb3b53"
+    },
+    "1f5e5a5a7ceb0e87ba6092b272823e3172491d9a": {
+      "headline": "Penguins lose 3–2 in a shootout at Columbus but steal a point behind rookie goalie Sergei Murashov’s 43 saves",
+      "cat": "Penguins hockey",
+      "source": "PensBurgh",
+      "url": "https://www.pensburgh.com/game-recaps/81478/penguins-blue-jackets-recap-murashov-shines-rest-of-team-not-so-much-in-shootout-loss",
+      "summary": "The Penguins were badly outplayed in Columbus on Friday night and still left with a point. The well-rested Blue Jackets, coming off nearly a week off, outshot Pittsburgh 24-3 at one stage of the second period, and goals by Damon Severson, set up by Zach Werenski, and Mathieu Olivier made it 2-0. Bryan Rust cut the lead with his signature move off the left wing late in the second, and Evgeni Malkin tied it 3:19 into the third when an Erik Karlsson point shot went in off his stick. Rookie Sergei Murashov, the league’s second-youngest goalie, kept them alive through a lively 3-on-3 overtime and finished with 43 saves on 45 shots, but Kent Johnson scored the only shootout goal for Columbus. PensBurgh says the bigger worry is the team’s sloppy, disconnected play the last few games. Pittsburgh plays again Saturday on the second night of a back-to-back.",
+      "image_remote": "https://platform.pensburgh.com/wp-content/uploads/sites/123/2026/10/gettyimages-2298858718.jpg?quality=90&strip=all&crop=0%2C10.748650367683%2C100%2C78.502699264634&w=1200",
+      "image_local": "images/story-954.jpg",
+      "id": "1f5e5a5a7ceb0e87ba6092b272823e3172491d9a"
+    },
+    "78d5f32bff76757e192dce2bcea322bad3582313": {
+      "headline": "Federal judge strikes down the Justice Department’s plan to run state voter rolls through immigration databases and press states to drop voters",
+      "cat": "Politics / courts",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/judge-blocks-doj-state-voter-roll-policy-civil-rights/",
+      "summary": "A federal judge in Washington on Friday threw out the Trump administration’s policy of collecting state voter rolls, checking them against federal immigration databases such as the Homeland Security Department’s SAVE system, and pushing states to remove people it says are registered illegally. In a 78-page ruling, U.S. District Judge Sparkle Sooknanan wrote that the Justice Department “cannot run roughshod over longstanding laws,” finding it lacked authority under the Help America Vote Act and the National Voter Registration Act and violated the Administrative Procedure Act and the Privacy Act, and that the federal data could contain errors. She said the decision doesn’t stop states from maintaining their own rolls and “does not pave the way for ineligible voters to vote.” The ruling covers voter files already turned over by the 18 states that fully cooperated as well as those still being fought over in court. The suit was brought by Common Cause; the Justice Department says it is reviewing the decision ahead of the midterms.",
+      "image_remote": "",
+      "image_local": "",
+      "id": "78d5f32bff76757e192dce2bcea322bad3582313"
+    },
+    "14272a507c33a92bd6dc15d60c5d220522aee8ca": {
+      "headline": "Krebs: the Canadian arrested in the FBI’s ShinyHunters probe is the co-founder of a ransomware-negotiation firm, seized while visiting a Philadelphia cyber-insurance summit",
+      "cat": "Cybercrime",
+      "source": "KrebsOnSecurity",
+      "url": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
+      "summary": "The Canadian man the FBI arrested in Pennsylvania this week in its investigation of the ShinyHunters hacking group, which stole data on thousands of FBI employees from the bureau’s job portal, appears to be a co-founder of a cybersecurity company that negotiates with ransomware gangs on behalf of victims, Brian Krebs reports. Sources told KrebsOnSecurity the suspect was in town for a cyber-insurance conference, and federal court records show an Edward Dobrovsky (a slight misspelling of Edward Dubrovsky, co-founder of Canadian firms Cypfer and CyberSteward) was arrested Oct. 8 on cyber-extortion and conspiracy charges; the case has been moved to the Eastern District of Texas, now the center of the probe. Dubrovsky wrote a book on handling ransomware negotiations. The FBI declined to comment. Krebs’s sources say charges against people at other negotiation firms may follow. The FBI says ShinyHunters has extorted more than $70 million this year; “Rey,” the member who took over the group after an earlier arrest, was reported detained in Jordan last week.",
+      "image_remote": "",
+      "image_local": "",
+      "id": "14272a507c33a92bd6dc15d60c5d220522aee8ca"
+    },
+    "dee165e89bd602d45192788ed0dabca6a3945bc5": {
+      "headline": "Buy an iPhone Duo at an Apple Store and it will greet you by name: ‘Hello, Steve’ on the first startup screen",
+      "cat": "Apple",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/09/iphone-duo-name-personalization/",
+      "summary": "Apple has a small surprise for people who buy the foldable iPhone Duo at a U.S. Apple Store: employees will be able to set the phone so it shows the buyer’s name on the “Hello” screen the first time it turns on, Bloomberg’s Mark Gurman reports. The option is limited to the Duo in the U.S., with English and Spanish greetings. MacRumors expects it to cover both in-store purchases and orders picked up in a store. Preorders for the iPhone Duo open Oct. 16 at 8 a.m. Eastern, it goes on sale Oct. 23, and prices start at $1,999.",
+      "image_remote": "https://images.macrumors.com/t/CF37ey2cPgDxE7XhXnqyT0kz1_Q=/1920x/article-new/2026/10/iphone-duo-feature.jpg",
+      "image_local": "images/story-955.jpg",
+      "id": "dee165e89bd602d45192788ed0dabca6a3945bc5"
+    },
+    "15bee76fe6febc1ce4d6c7c8736e5913abfa1f28": {
+      "headline": "Brian May on Queen’s restored 1986 ‘Budapest’ concert film, Freddie’s last tour — and why a Queen reunion is ‘a big I don’t know’",
+      "cat": "Rock",
+      "source": "Louder (Classic Rock)",
+      "url": "https://www.loudersound.com/bands-artists/queen-budapest-concert-film",
+      "summary": "Queen’s July 1986 show at Budapest’s 80,000-seat Népstadion, the first outdoor stadium concert by a Western rock band behind the Iron Curtain, has been restored in 4K for Queen Budapest, out on DVD and Blu-ray Oct. 30. Brian May and Roger Taylor tell Classic Rock the band arrived by hydrofoil down the Danube and that Freddie Mercury learned a Hungarian folk song for the crowd, reading the words off his hand; Taylor remembers Mercury asking whether the parliament building was for sale. It was the last tour: the band played its final show with Mercury at Knebworth less than three weeks later, and May recalls Freddie saying backstage, “I can’t do this any more after this.” Queen hasn’t played live since two shows in Japan in February 2024. May says another tour is “a big ‘I don’t know,’” but believes that if Mercury were alive, Queen would probably be touring next year.",
+      "image_remote": "https://cdn.mos.cms.futurecdn.net/8GGLUjEb4yQbAFkrFPwKsW-1280-80.jpg",
+      "image_local": "images/story-956.jpg",
+      "id": "15bee76fe6febc1ce4d6c7c8736e5913abfa1f28"
+    },
+    "0e4eb5bbf442133a94d44afde1f87ecce9dc0862": {
+      "headline": "Three men are found guilty of murdering two Australian brothers and their American friend on a 2024 surfing trip in Baja California",
+      "cat": "World / crime",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/men-guilty-mexico-australian-american-surfer-murders/",
+      "summary": "A judge in Ensenada, Mexico, on Friday found three men guilty of killing Australian brothers Callum and Jake Robinson and their American friend Carter Rhoad, who disappeared on a surfing trip near Punta San José in Baja California in April 2024; their bodies were found in a well that May. Jesús Gerardo García, known as “El Kekas,” was identified as the gunman, and he and two co-defendants were also convicted of armed robbery and carjacking. During the monthlong trial, García’s ex-partner testified that he told her he came to the friends’ tent with a 9 mm pistol and ignored one of them begging for his life; she pleaded guilty last year and is serving 20 years. Prosecutors want 210-year sentences, and the judge will hand down the sentences on Oct. 16. “It’s hard for a parent to lose a son, and we lost two sons,” said the brothers’ father, Martin Robinson, who attended the trial with his wife.",
+      "image_remote": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/09/08/ed3981db-5b6b-4726-86d8-0f00b5dd1383/thumbnail/1200x630/5966556ec100d4b61273f38aef86b23e/ap24127062868049.jpg",
+      "image_local": "images/story-957.jpg",
+      "id": "0e4eb5bbf442133a94d44afde1f87ecce9dc0862"
     }
   },
-  "updated": "Friday, October 9, 2026 · 6:11 PM ET"
+  "updated": "Friday, October 9, 2026 · 10:06 PM ET"
 }

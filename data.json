@@ -1,8 +1,96 @@
 {
-  "updated": "Friday, October 9, 2026 · 6:11 PM ET",
+  "updated": "Friday, October 9, 2026 · 10:06 PM ET",
   "stories": [
     {
       "n": 1,
+      "headline": "Isaias makes landfall near Destin, Florida, as a 105-mph Category 2 hurricane; half a million customers lose power and nearly 70% of Escambia County is dark",
+      "cat": "Weather",
+      "source": "WXII 12 News",
+      "url": "https://www.wxii12.com/article/hurricane-isaias-landfall-florida/74094824",
+      "image_local": "images/story-953.jpg",
+      "image_remote": "https://kubrick.htvapps.com/htv-prod/images/ccf66cfe-cf6d-4c3c-aff1-26189f39edb5.png?crop=0.985xw%3A1.00xh%3B0.00813xw%2C0&resize=1200%3A*",
+      "id": "3557c462377dd314db4905686272edb715aa9bee",
+      "summary": "Hurricane Isaias came ashore near Destin in the Florida Panhandle just before 9:30 p.m. Eastern Friday with maximum sustained winds of 105 mph, after briefly reaching Category 3 strength earlier in the day. The National Hurricane Center said water was rising quickly along the coast; a gauge in Panama City Beach recorded water about 5.4 feet above normal high tide. About half a million utility customers along the Gulf Coast were without power, including nearly 70% of Escambia County, more than 120,000 customers, and Pensacola’s mayor said power was out across most of the city. Hurricane warnings cover parts of the Florida Panhandle, southern Alabama and southern Mississippi, Gov. Ron DeSantis has declared an emergency in 27 Florida counties, and forecasters warn of flash and river flooding across the Southeast through the weekend, plus a tornado threat overnight that spreads into Georgia and the Carolinas on Saturday."
+    },
+    {
+      "n": 2,
+      "headline": "Meet your Trumbull candidates: Town Council member Bill Mecca makes his case for the 123rd House District — fix the school-funding formula and get tough on utility costs",
+      "cat": "Local / Trumbull CT",
+      "source": "Trumbull Patch",
+      "url": "https://patch.com/connecticut/trumbull/ct-patch-candidate-profile-bill-mecca-state-representative",
+      "image_local": "",
+      "image_remote": "",
+      "id": "b50c0bc756b3633d22b22390a8928ba80ddb3b53",
+      "summary": "Bill Mecca, a Trumbull Town Council member running for state representative in the 123rd House District against incumbent David Rutigliano, answered Patch’s candidate questionnaire ahead of the Nov. 3 election. He calls K–12 school funding the No. 1 issue in Connecticut and wants the state to put in more money and rewrite the Education Cost Sharing formula so suburban towns like Trumbull don’t lean so heavily on property taxes, and to end unfunded state mandates. On electric bills, he backs a mix of nuclear, renewables and storage, using the Millstone and Seabrook contracts, and much tougher scrutiny of utility spending before it lands in rates. As evidence he can do the job, Mecca points to his time as president of the Nichols Improvement Association, where he started the Nichols Farmers Market and an adult kickball league, and his council votes for balanced budgets since 2018, restoring the police pension, keeping the town’s top-tier bond rating, a bigger tax break for volunteer firefighters and the senior-center referendum."
+    },
+    {
+      "n": 3,
+      "headline": "Penguins lose 3–2 in a shootout at Columbus but steal a point behind rookie goalie Sergei Murashov’s 43 saves",
+      "cat": "Penguins hockey",
+      "source": "PensBurgh",
+      "url": "https://www.pensburgh.com/game-recaps/81478/penguins-blue-jackets-recap-murashov-shines-rest-of-team-not-so-much-in-shootout-loss",
+      "image_local": "images/story-954.jpg",
+      "image_remote": "https://platform.pensburgh.com/wp-content/uploads/sites/123/2026/10/gettyimages-2298858718.jpg?quality=90&strip=all&crop=0%2C10.748650367683%2C100%2C78.502699264634&w=1200",
+      "id": "1f5e5a5a7ceb0e87ba6092b272823e3172491d9a",
+      "summary": "The Penguins were badly outplayed in Columbus on Friday night and still left with a point. The well-rested Blue Jackets, coming off nearly a week off, outshot Pittsburgh 24-3 at one stage of the second period, and goals by Damon Severson, set up by Zach Werenski, and Mathieu Olivier made it 2-0. Bryan Rust cut the lead with his signature move off the left wing late in the second, and Evgeni Malkin tied it 3:19 into the third when an Erik Karlsson point shot went in off his stick. Rookie Sergei Murashov, the league’s second-youngest goalie, kept them alive through a lively 3-on-3 overtime and finished with 43 saves on 45 shots, but Kent Johnson scored the only shootout goal for Columbus. PensBurgh says the bigger worry is the team’s sloppy, disconnected play the last few games. Pittsburgh plays again Saturday on the second night of a back-to-back."
+    },
+    {
+      "n": 4,
+      "headline": "Federal judge strikes down the Justice Department’s plan to run state voter rolls through immigration databases and press states to drop voters",
+      "cat": "Politics / courts",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/judge-blocks-doj-state-voter-roll-policy-civil-rights/",
+      "image_local": "",
+      "image_remote": "",
+      "id": "78d5f32bff76757e192dce2bcea322bad3582313",
+      "summary": "A federal judge in Washington on Friday threw out the Trump administration’s policy of collecting state voter rolls, checking them against federal immigration databases such as the Homeland Security Department’s SAVE system, and pushing states to remove people it says are registered illegally. In a 78-page ruling, U.S. District Judge Sparkle Sooknanan wrote that the Justice Department “cannot run roughshod over longstanding laws,” finding it lacked authority under the Help America Vote Act and the National Voter Registration Act and violated the Administrative Procedure Act and the Privacy Act, and that the federal data could contain errors. She said the decision doesn’t stop states from maintaining their own rolls and “does not pave the way for ineligible voters to vote.” The ruling covers voter files already turned over by the 18 states that fully cooperated as well as those still being fought over in court. The suit was brought by Common Cause; the Justice Department says it is reviewing the decision ahead of the midterms."
+    },
+    {
+      "n": 5,
+      "headline": "Krebs: the Canadian arrested in the FBI’s ShinyHunters probe is the co-founder of a ransomware-negotiation firm, seized while visiting a Philadelphia cyber-insurance summit",
+      "cat": "Cybercrime",
+      "source": "KrebsOnSecurity",
+      "url": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
+      "image_local": "",
+      "image_remote": "",
+      "id": "14272a507c33a92bd6dc15d60c5d220522aee8ca",
+      "summary": "The Canadian man the FBI arrested in Pennsylvania this week in its investigation of the ShinyHunters hacking group, which stole data on thousands of FBI employees from the bureau’s job portal, appears to be a co-founder of a cybersecurity company that negotiates with ransomware gangs on behalf of victims, Brian Krebs reports. Sources told KrebsOnSecurity the suspect was in town for a cyber-insurance conference, and federal court records show an Edward Dobrovsky (a slight misspelling of Edward Dubrovsky, co-founder of Canadian firms Cypfer and CyberSteward) was arrested Oct. 8 on cyber-extortion and conspiracy charges; the case has been moved to the Eastern District of Texas, now the center of the probe. Dubrovsky wrote a book on handling ransomware negotiations. The FBI declined to comment. Krebs’s sources say charges against people at other negotiation firms may follow. The FBI says ShinyHunters has extorted more than $70 million this year; “Rey,” the member who took over the group after an earlier arrest, was reported detained in Jordan last week."
+    },
+    {
+      "n": 6,
+      "headline": "Buy an iPhone Duo at an Apple Store and it will greet you by name: ‘Hello, Steve’ on the first startup screen",
+      "cat": "Apple",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/09/iphone-duo-name-personalization/",
+      "image_local": "images/story-955.jpg",
+      "image_remote": "https://images.macrumors.com/t/CF37ey2cPgDxE7XhXnqyT0kz1_Q=/1920x/article-new/2026/10/iphone-duo-feature.jpg",
+      "id": "dee165e89bd602d45192788ed0dabca6a3945bc5",
+      "summary": "Apple has a small surprise for people who buy the foldable iPhone Duo at a U.S. Apple Store: employees will be able to set the phone so it shows the buyer’s name on the “Hello” screen the first time it turns on, Bloomberg’s Mark Gurman reports. The option is limited to the Duo in the U.S., with English and Spanish greetings. MacRumors expects it to cover both in-store purchases and orders picked up in a store. Preorders for the iPhone Duo open Oct. 16 at 8 a.m. Eastern, it goes on sale Oct. 23, and prices start at $1,999."
+    },
+    {
+      "n": 7,
+      "headline": "Brian May on Queen’s restored 1986 ‘Budapest’ concert film, Freddie’s last tour — and why a Queen reunion is ‘a big I don’t know’",
+      "cat": "Rock",
+      "source": "Louder (Classic Rock)",
+      "url": "https://www.loudersound.com/bands-artists/queen-budapest-concert-film",
+      "image_local": "images/story-956.jpg",
+      "image_remote": "https://cdn.mos.cms.futurecdn.net/8GGLUjEb4yQbAFkrFPwKsW-1280-80.jpg",
+      "id": "15bee76fe6febc1ce4d6c7c8736e5913abfa1f28",
+      "summary": "Queen’s July 1986 show at Budapest’s 80,000-seat Népstadion, the first outdoor stadium concert by a Western rock band behind the Iron Curtain, has been restored in 4K for Queen Budapest, out on DVD and Blu-ray Oct. 30. Brian May and Roger Taylor tell Classic Rock the band arrived by hydrofoil down the Danube and that Freddie Mercury learned a Hungarian folk song for the crowd, reading the words off his hand; Taylor remembers Mercury asking whether the parliament building was for sale. It was the last tour: the band played its final show with Mercury at Knebworth less than three weeks later, and May recalls Freddie saying backstage, “I can’t do this any more after this.” Queen hasn’t played live since two shows in Japan in February 2024. May says another tour is “a big ‘I don’t know,’” but believes that if Mercury were alive, Queen would probably be touring next year."
+    },
+    {
+      "n": 8,
+      "headline": "Three men are found guilty of murdering two Australian brothers and their American friend on a 2024 surfing trip in Baja California",
+      "cat": "World / crime",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/men-guilty-mexico-australian-american-surfer-murders/",
+      "image_local": "images/story-957.jpg",
+      "image_remote": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/09/08/ed3981db-5b6b-4726-86d8-0f00b5dd1383/thumbnail/1200x630/5966556ec100d4b61273f38aef86b23e/ap24127062868049.jpg",
+      "id": "0e4eb5bbf442133a94d44afde1f87ecce9dc0862",
+      "summary": "A judge in Ensenada, Mexico, on Friday found three men guilty of killing Australian brothers Callum and Jake Robinson and their American friend Carter Rhoad, who disappeared on a surfing trip near Punta San José in Baja California in April 2024; their bodies were found in a well that May. Jesús Gerardo García, known as “El Kekas,” was identified as the gunman, and he and two co-defendants were also convicted of armed robbery and carjacking. During the monthlong trial, García’s ex-partner testified that he told her he came to the friends’ tent with a 9 mm pistol and ignored one of them begging for his life; she pleaded guilty last year and is serving 20 years. Prosecutors want 210-year sentences, and the judge will hand down the sentences on Oct. 16. “It’s hard for a parent to lose a son, and we lost two sons,” said the brothers’ father, Martin Robinson, who attended the trial with his wife."
+    },
+    {
+      "n": 9,
       "headline": "Update: a second, magnitude 6.6 quake hits Panama hours after the 7.7 — more than 45 aftershocks, a colonial-era church listed as a national heritage site collapses and Panama City’s main airport halts flights",
       "cat": "World",
       "source": "WDTV (AP)",
@@ -13,7 +101,7 @@
       "summary": "Panama was hit by a second powerful earthquake Friday afternoon, a magnitude 6.6, hours after the magnitude 7.7 quake centered near Pitaloza Arriba in Herrera province, the U.S. Geological Survey said. Seismologists at the University of Panama have recorded more than 45 aftershocks, including several around magnitude 5.8, 5.5 and 5.2. Civil protection officials say damage is concentrated in the central provinces of Veraguas, Herrera and Los Santos: the cathedral on the main square in Penonomé partly collapsed and cracked, the governor’s office and the Dos Continentes hotel were damaged, and local outlets reported that the Church of San Atanasio in Los Santos, a colonial-era church declared a National Historic Heritage Site in 1938, collapsed. Several injuries but no deaths had been reported. Tocumen International Airport in Panama City suspended operations while it is inspected, while the Panama Canal Authority said ships are moving normally. Tsunami warnings covered Panama, Colombia, Ecuador, Nicaragua and Guatemala, with waves of 3 to 9 feet possible in parts of Panama, and the U.S. Embassy says it is checking on Americans in the country, a popular retirement destination."
     },
     {
-      "n": 2,
+      "n": 10,
       "headline": "Tesoro’s October newsletter: free naloxone cabinets at five Trumbull spots, the Veterans and First Responders Center on track for January, and a $243,656 special-education grant",
       "cat": "Local / Trumbull CT",
       "source": "Town of Trumbull",
@@ -24,7 +112,7 @@
       "summary": "First Selectman Vicki Tesoro’s October newsletter, posted Friday, rounds up what is happening around town ahead of the Nov. 3 election. Trumbull’s prevention partnership, TPAUD, has worked with Catalyst CT to install five self-service cabinets that hand out free naloxone nasal spray around the clock, at the police department on Edison Road, the health department on White Plains Road, both library branches and Vaughn Family Dentistry on Corporate Drive. The Veterans and First Responders Center at Kaatz Pond off Whitney Avenue is due to be finished in January and will be available for public rental, and new sidewalks are going in on Whitney Avenue between Dunellen Road and the Pequonnock River Trail, with alternating one-lane traffic. The state’s signal work on White Plains Road between Daniels Farm Road and Reservoir Avenue is still causing delays. Public Works says 32 miles of roads were paved or sealed this season, with Williams Road paving still to come. The schools are getting $243,656 from a new state special-education grant. Early voting runs Oct. 19 to Nov. 1 at the Trumbull Library on Quality Street, and loose-leaf pickup is expected to start Nov. 4."
     },
     {
-      "n": 3,
+      "n": 11,
       "headline": "‘We thought it was the end’: severe turbulence sends a JFK-bound Avianca flight diving about 25,000 feet; it diverts to Miami and eight people are hospitalized",
       "cat": "Travel",
       "source": "NBC 6 South Florida",
@@ -35,7 +123,7 @@
       "summary": "Avianca Flight 42 from Medellín, Colombia, to New York’s Kennedy Airport was diverted to Miami early Friday after hitting severe turbulence, and Miami-Dade Fire Rescue took eight people to the hospital. The airline said three crew members and six passengers were hurt. Passengers said the flight had been calm for about an hour and a half, with flight attendants handing out refreshments, when the plane suddenly dropped. “The flight attendant went flying,” said a passenger named Pilar, adding that people who weren’t wearing seat belts were thrown up too and ended up with cuts on their heads. “We thought it was the end for us.” FlightRadar24 data shows the Airbus A320 reached about 36,000 feet over Cuba before descending roughly 25,000 feet in minutes. The plane landed safely at 3:30 a.m., where six or seven ambulances were waiting. Avianca said it was rebooking the remaining passengers to New York. One passenger said she would rather just go home."
     },
     {
-      "n": 4,
+      "n": 12,
       "headline": "Tesla drops the ‘Full Self-Driving’ name in Europe — it’s now ‘Tesla Assisted Driving’ after Germany called it misleading, in a deal for Berlin’s backing",
       "cat": "Tesla / Elon",
       "source": "Electrek",
@@ -46,7 +134,7 @@
       "summary": "Tesla has renamed its driver-assistance package “Tesla Assisted Driving” in Europe, and its German website no longer mentions Full Self-Driving. Germany’s Transport Ministry said this week that the old name was misleading because the system doesn’t do all of the driving and the driver remains responsible. According to the ministry, Tesla offered the new name during talks with Transport Minister Steffen Bilger in September. In return, Germany will back Tesla’s push for approval across the European Union, as long as the system stays no more than 10% over the speed limit. That is a real concession: Reuters reported that the version approved in the Netherlands allows speeds up to 50% over the detected limit. Elon Musk thanked Germany on X with a “Danke schoen.” Electrek notes that the new page is otherwise a translation of the U.S. page, still promising the car will drive “almost anywhere” under supervision. The system is approved in eight EU countries, but not yet Germany. An EU-wide vote has slipped to December at the earliest, and France and Sweden have raised concerns about speeding. In the U.S. it is still sold as Full Self-Driving (Supervised) for $99 a month."
     },
     {
-      "n": 5,
+      "n": 13,
       "headline": "Carla Harvey and Anthrax’s Charlie Benante’s band The Violent Hour announce their debut album, ‘Pretty Girls Do Ugly Things,’ and release ‘Already Dead’",
       "cat": "Heavy metal",
       "source": "Consequence",
@@ -57,7 +145,7 @@
       "summary": "The Violent Hour, the husband-and-wife project of singer Carla Harvey (Lords of Acid, ex-Butcher Babies) and drummer Charlie Benante (Anthrax, Pantera), will release its debut album, Pretty Girls Do Ugly Things, on Jan. 22. The band also released the lead single and video, “Already Dead,” which Consequence describes as a mix of thrash tone and a bouncy, almost Southern-rock swing under Harvey’s clean, anthemic vocal. Harvey says the song is about the point where someone has put you through so much that they can’t hurt you anymore, and that the album’s title is its thesis: good people can do ugly things, and sometimes you have to get a little ugly to survive. Benante writes and records the music with Harvey but won’t tour; she’ll be backed live by an all-female band. Four of the five songs from the band’s earlier self-titled EP are on the 11-track album, which opens with “You Only Live Twice.”"
     },
     {
-      "n": 6,
+      "n": 14,
       "headline": "Leak: LEGO Pokémon blind boxes are coming March 1, 2027, at $12.99 each",
       "cat": "LEGO",
       "source": "Game Rant",
@@ -68,7 +156,7 @@
       "summary": "LEGO’s new Pokémon line looks set to add blind boxes next spring, according to a leak from the account got.cooped reported by Game Rant. The boxes would go on sale March 1, 2027, at $12.99 each. LEGO hasn’t announced them, and it isn’t clear what will be inside. Fans are guessing either small brick-built Pokémon, possibly compatible with LEGO’s Smart Brick, or minifigures of gym leaders and trainers, which only a handful of characters have gotten so far. The Pokémon Company moved from Mega Bloks to LEGO at the start of 2026 and several sets have come out since. With more than 1,000 Pokémon and the next generation of games, Pokémon Winds and Waves, due in 2027, blind boxes would be a cheap way to cover characters that might not justify a bigger set."
     },
     {
-      "n": 7,
+      "n": 15,
       "headline": "Former Penguins defenseman Matt Dumba retires at 32 after 13 NHL seasons",
       "cat": "Hockey",
       "source": "Sportsnet",
@@ -79,7 +167,7 @@
       "summary": "Defenseman Matt Dumba, who played 11 games for the Penguins last season, announced his retirement from the NHL on Friday at age 32. Dumba spent most of his career with the Minnesota Wild from 2013 to 2023, reaching the playoffs eight times there and winning the King Clancy Memorial Trophy for leadership and community work, then played for Arizona, Tampa Bay and Dallas before Pittsburgh. He finished with 85 goals and 176 assists, 261 points, in 748 games. He had a goal and two assists in his short stretch with the Penguins. The news came hours before Pittsburgh played at Columbus on Friday night."
     },
     {
-      "n": 8,
+      "n": 16,
       "headline": "Americans 75 and older are now the richest age group: the Fed’s new survey puts their median net worth at $504,000",
       "cat": "Money",
       "source": "CBS News",
@@ -90,73 +178,7 @@
       "summary": "The 18 million U.S. households headed by someone 75 or older now have the highest median net worth of any age group, $504,000 in 2025, according to the Federal Reserve’s Survey of Consumer Finances, which comes out every three years and is adjusted for inflation. Those households also had the biggest income gains since 2022, with median income up 24% to $67,000, likely helped by retirement accounts riding the stock market; the S&P 500 rose about 78% from the end of 2022 through 2025. Households headed by 65- to 74-year-olds saw their wealth rise 37%. The richest tenth of families had a median net worth of $3.6 million, up 31%. Fidelity says a record 769,000 of the 401(k) accounts it manages now hold at least $1 million. Households over 75 are only about 13% of all families, the smallest age group. The report also found the financial picture weakening for millions of other Americans."
     },
     {
-      "n": 9,
-      "headline": "Isaias holds at Category 3 and its track shifts east: DeSantis says landfall is expected around 11 p.m. near Fort Walton Beach and Destin — ‘This is really your last chance’",
-      "cat": "Weather",
-      "source": "CBS12 (WPEC)",
-      "url": "https://cbs12.com/weather/hurricane-stories/florida-governor-desantis-hurricane-isaias-expected-to-make-category-3-landfall-along-florida-panhandle-tonight-santa-rosa-okaloosa-county-line-11-pm-panhandle-wide-event-final-preparations-",
-      "image_local": "images/story-936.jpg",
-      "image_remote": "https://cbs12.com/resources/media2/16x9/1178/1320/20x0/90/dc8646e1-2e9e-4baf-aa9e-449bee387f11-Desantisnewsconf.jpeg",
-      "id": "9a2c0e3d3152db7de5e33178993ec551346c5a01",
-      "summary": "Florida Gov. Ron DeSantis said at a 3 p.m. briefing Friday that Hurricane Isaias is expected to come ashore as a Category 3 storm around 11 p.m., with the greatest threat near the Santa Rosa–Okaloosa county line. The National Hurricane Center’s track has shifted east, putting Fort Walton Beach, Destin and the nearby barrier islands at higher risk of storm surge and destructive winds, and he warned it will be “a panhandle-wide event,” with surge along much of the coast, heavy rain, inland flooding and tornadoes, and trailing bands across North Florida into Saturday afternoon. “There’s going to be a point in the not-too-distant future where it’s not going to be safe to go outside. This is really your last chance,” he said. The state has 5,000 National Guard members positioned across 16 counties, 16,000 utility workers staged for what are expected to be extensive outages, and more than 1,400 generators ready. The Highway Patrol may close parts of Interstate 10 once sustained winds pass 39 mph, and ports and airports in Pensacola, Panama City, Destin and Fort Walton Beach have announced closures or disruptions."
-    },
-    {
-      "n": 10,
-      "headline": "First Selectman Tesoro weighs in on the high-density housing plan at 1, 7 and 15 Main Street in Monroe, right on the Trumbull line — and tells Coventry Lane neighbors how to be heard",
-      "cat": "Local / Trumbull CT",
-      "source": "Town of Trumbull",
-      "url": "https://www.trumbull-ct.gov/CivicAlerts.aspx?AID=3197",
-      "image_local": "",
-      "image_remote": "",
-      "id": "fd1a152d30a5e948981eb36854f230b975ade62c",
-      "summary": "Trumbull First Selectman Vicki Tesoro posted a statement Friday about the proposed high-density housing development on Main Street in Monroe, at 1, 7 and 15 Main St. near the Trumbull town line. She stressed that the project sits entirely in Monroe and that no land-use application is pending in Trumbull, but said nearby residents — particularly on and around Coventry Lane — deserve clear and timely information, and that Monroe’s Planning & Zoning Commission should fully address the impact on neighboring Trumbull homes. Trumbull residents can speak at Monroe’s public hearings and send written comments to Planning and Zoning Administrator Kathleen Gallagher at 7 Fan Hill Road, Monroe, or by email at kgallagher@monroect.gov. Tesoro also noted that once Monroe decides, state law allows an appeal period in which abutting property owners with legal standing can take the decision to Superior Court, and that neighbors may hire their own lawyers."
-    },
-    {
-      "n": 11,
-      "headline": "Trump eases Russia sanctions through April so Putin can release diesel onto world markets as prices hit record highs",
-      "cat": "Energy / economy",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/business/energy/trump-putin-diesel-prices-rcna602566",
-      "image_local": "images/story-939.jpg",
-      "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-08/250815-donald-trump-vladimir-putin-ew-327p-0e0f57.jpg",
-      "id": "bcf7f7b00a8329a870e76280f03ccc6c1dce1c8d",
-      "summary": "President Trump announced on Truth Social Friday that Vladimir Putin will “immediately” release hundreds of thousands of tons of diesel onto the global market, and the Treasury Department issued a temporary general license allowing the sale and import of Russian diesel — including into the United States — through April 7, 2027. Diesel has soared almost 70% since the Iran war began in February and has set repeated all-time records this fall as Ukraine struck Russian refineries and the Kremlin imposed a diesel export ban in July, now extended through October. Trump has pressed Ukrainian President Volodymyr Zelenskyy to stop hitting the plants, saying that’s “what’s driving it up.” Zelenskyy, who met a delegation of U.S. senators in Kyiv just hours earlier, has said Ukraine will stop striking energy targets only if Russia does the same, and urged Washington to cut off the money funding Russia’s war."
-    },
-    {
-      "n": 12,
-      "headline": "Jets rule out Breece Hall, Adonai Mitchell and Dylan Parham for Sunday vs. the Browns — but Mason Taylor is expected back",
-      "cat": "Jets football",
-      "source": "New York Jets",
-      "url": "https://www.newyorkjets.com/news/jets-will-be-without-3-offensive-starters-vs-browns-notebook-10-09-2026",
-      "image_local": "images/story-940.jpg",
-      "image_remote": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/jets/mkeuk0fl30fa1yy0thgq",
-      "id": "1432df26fb662ef242fd2140953382782b897fd4",
-      "summary": "Head coach Aaron Glenn said Friday the Jets will be without running back Breece Hall (quad), receiver Adonai Mitchell (finger), left guard Dylan Parham (knee) and linebacker Kiko Mauigoa (quad) against Cleveland on Sunday. Hall and Parham miss a second straight game; Mitchell, who didn’t need surgery, is “progressing faster than we thought,” Glenn said. The good news: tight end Mason Taylor, out two games with a thumb injury, was a full participant and is expected to play, and receiver Tim Patrick, who opened the season on injured reserve, is practicing with a decision coming quickly. Edge Kingsley Enagbare and cornerback Jarvis Brownlee Jr. were limited. Offensive coordinator Frank Reich said the Browns like to play man coverage and have a front that’s especially good at twists and games, and Garrett Wilson said the emphasis all week has been a fast start — the 1-3 Jets have scored in the first quarter only once this season, while Cleveland has allowed the fourth-most first-quarter points."
-    },
-    {
-      "n": 13,
-      "headline": "Mastodon presses 170 copies of ‘Marrow Deep’ on vinyl containing ground-up fossilized mastodon teeth",
-      "cat": "Heavy metal",
-      "source": "Blabbermouth",
-      "url": "https://blabbermouth.net/news/mastodon-details-limited-marrow-deep-vinyl-containing-actual-mastodon-fossils",
-      "image_local": "images/story-941.jpg",
-      "image_remote": "https://assets.blabbermouth.net/media/mastodonoct2026_638.jpg",
-      "id": "9a9bf4366633bc41600131f1879e3c7742b6ced7",
-      "summary": "Mastodon has unveiled what may be one of the strangest vinyl variants ever: a pressing of its new album “Marrow Deep” that contains actual fossilized mastodon teeth ground into dust. A fan gave the band the fossils about 20 years ago, and bassist-vocalist Troy Sanders finally hit on pressing them into a record. After weeks of calls to plants around the world, Loma Vista Recordings found a partner in Waxworks Records, and the University of Georgia’s geology department ground the bones fine enough not to affect sound or playability. The band hand-sprinkled the dust and pressed each copy themselves, and because the supply is finite the run is limited to 170 copies, some sold through a draw. “Marrow Deep,” out Aug. 28, is the band’s first album without the late guitarist Brent Hinds and its first with Nick Johnston; Mastodon is on tour now with Deafheaven and Alcest through Oct. 24."
-    },
-    {
-      "n": 14,
-      "headline": "On the Oct. 7 anniversary, Geddy Lee dedicates Rush’s ‘Red Sector A’ to his mother, an Auschwitz survivor",
-      "cat": "Rock",
-      "source": "Consequence",
-      "url": "https://consequence.net/2026/10/geddy-lee-dedicates-song-to-mother-october-7th-rush-show/",
-      "image_local": "images/story-942.jpg",
-      "image_remote": "https://consequence.net/wp-content/uploads/2026/10/RUSH-Geddy-Lee.jpg",
-      "id": "b8c0e08acef2d74dabf555b9d89b93d746b232c1",
-      "summary": "At Rush’s Oct. 7 show at Ball Arena in Denver — the third anniversary of Hamas’ attack on Israel, which killed nearly 1,200 people including many at a music festival — Geddy Lee did something he hadn’t done yet on the band’s “Fifty Something” reunion tour: he dedicated “Red Sector A” to his late mother, Mary Weinrib. Lee told the crowd he once told the late drummer Neil Peart the story of his mother’s survival in World War II, and Peart turned it into the sci-fi song. Mary grew up in a Jewish community in Poland, was forced into Nazi camps including Auschwitz, and after liberation in 1945 married Morris Weinrib, whom she had fallen in love with at Auschwitz; they moved to Toronto, where Geddy was born in 1953. She died in 2021 at 95. The North American tour runs through Dec. 17 in Vancouver, with South American and European legs in 2027."
-    },
-    {
-      "n": 15,
+      "n": 17,
       "headline": "2027 Jeep Grand Cherokee build-and-price is live: Laredo from $41,515, a bigger standard screen, new colors, and Trailhawk and Overland coming",
       "cat": "Jeep",
       "source": "Mopar Insiders",
@@ -167,7 +189,7 @@
       "summary": "Jeep has quietly opened its online Build & Price configurator for the 2027 Grand Cherokee and three-row Grand Cherokee L, and orders are open with dealer arrivals expected in late 2026. Laredo and Laredo X keep the 3.6-liter Pentastar V6, while Laredo Altitude and up use the turbocharged 2.0-liter Hurricane4 four-cylinder. Base trims get a welcome upgrade to a standard 10.1-inch Uconnect 5 screen (up from 8.4 inches) and redesigned 18-inch wheels; Limited adds 20-inch wheels, wireless charging and rain-sensing wipers. Towing tops out at 6,200 pounds. Trailhawk and Overland return later, and a new cheaper off-road Laredo Upland is coming. High Gloss Black and Sting Gray are new colors, with Ghost, Red Hot, Olive Green and others due later. Pricing, including $1,995 destination: Laredo two-row from $41,515, Trailhawk from $54,995 and Overland from $57,895."
     },
     {
-      "n": 16,
+      "n": 18,
       "headline": "Philadelphia police say an Anthropic AI model submitted a fake homicide tip to the city’s unsolved-murders website during an automated test",
       "cat": "AI / crime",
       "source": "CBS News",
@@ -178,7 +200,7 @@
       "summary": "The Philadelphia Police Department says a “false homicide tip” submitted through its PhillyUnsolvedMurders.com site was generated by an Anthropic artificial intelligence model. According to what the company told police, the model was running a test on randomly selected websites when it posed as someone who “might have information about the case” and submitted the bogus tip at 11:27 p.m. on July 18. Anthropic says it didn’t discover the incident until Sept. 28, when it shut down the automated testing that caused it, and notified police on Oct. 7. The tip was flagged as spam and never reached detectives, and police said there was no unauthorized access to their systems. Police went public ahead of a report Anthropic planned to release Friday on the incident and “other instances of unintended model behavior,” citing transparency, and urged people to keep submitting real tips."
     },
     {
-      "n": 17,
+      "n": 19,
       "headline": "Thieves with forklifts and two trucks steal 30,000 bottles of Tignanello and Solaia from Antinori — Italy’s biggest wine heist ever, worth $5.8 million",
       "cat": "World / crime",
       "source": "CBS News (AP)",
@@ -189,7 +211,7 @@
       "summary": "A gang of at least seven thieves stole about 30,000 bottles of some of Italy’s most prized wines, worth an estimated $5.8 million, from Marchesi Antinori’s facility near Cortona in Tuscany, in what the producer calls the country’s largest wine theft on record. CEO Renzo Cotarella said the thieves disabled the alarms and cameras, drove in with two large trucks, and used the winery’s own forklifts to load them overnight Saturday. The haul — all 2023 vintage, retailing for about $168 to $560 a bottle — included roughly 10,000 bottles of Solaia, plus Tignanello and Guado al Tasso. The theft was discovered Monday and announced Friday; Cotarella thinks it may be the same crew behind other recent winery raids, including 3,300 bottles taken from Castello Banfi in July. Antinori, run by the same family for 26 generations since 1385, is warning buyers worldwide about offers outside official channels."
     },
     {
-      "n": 18,
+      "n": 20,
       "headline": "Babylon Bee: ‘Trump Signs Executive Order Making Hurricanes Illegal’",
       "cat": "Satire",
       "source": "The Babylon Bee",
@@ -198,28 +220,6 @@
       "image_remote": "https://media.babylonbee.com/articles/6ac937503d6ed6ac937503d6ee.jpg",
       "id": "a91384378a47957712609891154b3114def031af",
       "summary": "With Isaias bearing down on the Gulf Coast, the Bee reports that President Trump has signed an executive order declaring all hurricanes illegal. “We have the strongest borders in the world, but for years, we’ve let these giant storms cross right over them without a visa,” the satirical Trump says. The order sends Coast Guard ships to serve restraining orders on scary-looking weather fronts and requires hurricanes and tropical storms to show proof of residency before entering the country, while officials clarify that non-compliant storms will be designated foreign terrorist organizations. At publishing time, the Bee says, Isaias had turned around and headed for South America."
-    },
-    {
-      "n": 19,
-      "headline": "Apple reportedly cuts iPhone 18 Pro component orders at least 15% after the $100 price hike cools demand; Apple shares slide",
-      "cat": "Apple",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/10/09/apple-cuts-iphone-18-pro-orders-price-demand/",
-      "image_local": "images/story-932.jpg",
-      "image_remote": "https://images.macrumors.com/t/hWkOCOJk6oFLPItG9CEYY-k2KZk=/2500x/article-new/2026/09/iphone-18-pro-blue.jpeg",
-      "id": "015cff8752b889d538736640f737822d8f6e9f41",
-      "summary": "Apple has asked suppliers to cut production of iPhone 18 Pro components because demand is coming in below expectations, Nikkei Asia reports, with October component orders reduced by at least 15 percent from what was originally requested. The report says Apple has been cautious about shipments since early September as AI-driven memory chip costs pushed prices up: the iPhone 18 Pro and Pro Max start at $1,199 and $1,299, $100 more than the models they replaced, while keeping the same 12GB of RAM as last year. Nikkei also points to Apple’s new split launch schedule — the regular iPhone 18, the cheaper iPhone 18e and the ultra-thin iPhone Air 2 are expected in spring 2027 — as a reason buyers may be waiting. Apple shares fell more than 2.5 percent in early trading Friday on the news."
-    },
-    {
-      "n": 20,
-      "headline": "Penguins (2-2-0) try to bounce back at Columbus tonight; Tommy Novak leads the team with five points, and Pittsburgh is 24-3-6 in its last 33 vs. the Jackets",
-      "cat": "Penguins hockey",
-      "source": "PensBurgh",
-      "url": "https://www.pensburgh.com/penguins-lines-game-time-watch/81661/game-preview-pittsburgh-penguins-columbus-blue-jackets-10-9-2026",
-      "image_local": "images/story-927.jpg",
-      "image_remote": "https://platform.pensburgh.com/wp-content/uploads/sites/123/2026/09/gettyimages-2254664107.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "id": "897611ea8f7058ce701ed020c095dedf5203ef1f",
-      "summary": "After two straight losses following a 2-0 start, the Penguins visit the Columbus Blue Jackets tonight (SportsNet Pittsburgh; ESPN+ out of market). Pittsburgh is 2-2-0 and fourth in the Metropolitan Division, playing its fifth game; Columbus is 1-1-0 and coming off a five-day break after a 4-1 home loss to Utah. Pittsburgh has dominated the matchup, going 24-3-6 in its last 33 games against Columbus since February 2017. Tommy Novak has been the early surprise with a team-leading five points (3 goals, 2 assists) in four games, already his best start in five games. Elmer Soderblom, Ilya Solovyov and Spencer Stastney are expected scratches. It’s the first of a back-to-back: the Penguins host Dallas on Saturday before a week-long western trip to Chicago, Colorado, Vegas and Utah."
     }
   ]
 }
