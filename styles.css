@@ -457,3 +457,233 @@ body {
   .masthead-top { align-items: flex-start; flex-direction: column; }
   .masthead-actions { justify-content: flex-start; }
 }
+
+/* ---------------------------------------------------------------
+   iPhone swipe-card deck (Steve, 2026-10-11)
+   Phones only: (max-width: 599px). iPad mini / iPad portrait
+   (744px+) and wider keep the grid above — no deck at all.
+   app.js toggles body.deck-mode with the same media query.
+   --------------------------------------------------------------- */
+.swipe-deck[hidden] { display: none !important; }
+
+@media (max-width: 599px) {
+  body.deck-mode {
+    overflow: hidden;
+    overscroll-behavior: none;
+    min-height: 0;
+    height: 100vh;
+    height: 100dvh;
+  }
+  body.deck-mode .app {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    height: 100dvh;
+    padding-top: env(safe-area-inset-top, 0px);
+    padding-bottom: env(safe-area-inset-bottom, 0px);
+    padding-left: env(safe-area-inset-left, 0px);
+    padding-right: env(safe-area-inset-right, 0px);
+    overflow: hidden;
+  }
+  body.deck-mode .masthead {
+    flex: 0 0 auto;
+    padding: 0.5rem 0 0.4rem;
+    margin-bottom: 0.5rem;
+    border-bottom-width: 2px;
+  }
+  body.deck-mode .eyebrow,
+  body.deck-mode .toggle,
+  body.deck-mode .site-footer { display: none; }
+  body.deck-mode .masthead-top {
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-end;
+    margin-bottom: 0.3rem;
+  }
+  body.deck-mode .masthead-actions { gap: 0.4rem; flex-wrap: nowrap; }
+  body.deck-mode .refresh-btn { padding: 0.32rem 0.7rem; font-size: 0.85rem; }
+  body.deck-mode .masthead h1 { font-size: 1.3rem; }
+  body.deck-mode .masthead .deck { font-size: 0.85rem; margin-top: 0.1rem; }
+  body.deck-mode .refresh-status { font-size: 0.85rem; margin-top: 0.15rem; }
+  body.deck-mode main.inner {
+    flex: 1 1 auto;
+    min-height: 0;
+    display: flex;
+    flex-direction: column;
+  }
+  body.deck-mode .lead,
+  body.deck-mode .feed,
+  body.deck-mode .empty { display: none; }
+
+  .swipe-deck {
+    flex: 1 1 auto;
+    min-height: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    padding-bottom: 0.5rem;
+  }
+  .swipe-stack {
+    position: relative;
+    flex: 1 1 auto;
+    min-height: 0;
+  }
+  .swipe-card {
+    position: absolute;
+    inset: 0;
+    display: flex;
+    flex-direction: column;
+    background: var(--paper-2);
+    border: 1px solid var(--line);
+    border-radius: 16px;
+    overflow: hidden;
+    box-shadow: var(--shadow);
+    touch-action: pan-y;
+    will-change: transform;
+    --remove-o: 0;
+    --save-o: 0;
+  }
+  .swipe-card.next {
+    transform: scale(0.95) translateY(10px);
+    pointer-events: none;
+  }
+  .swipe-card.top { z-index: 2; }
+  .swipe-card.dragging { user-select: none; -webkit-user-select: none; }
+  .swipe-card::after {
+    /* tint while dragging: red on right (remove), blue/green on left (save) */
+    content: "";
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+    border-radius: inherit;
+    background:
+      linear-gradient(90deg, transparent 40%, rgba(185, 28, 28, calc(var(--remove-o) * 0.28))),
+      linear-gradient(270deg, transparent 40%, rgba(22, 163, 74, calc(var(--save-o) * 0.28)));
+  }
+  .swipe-label {
+    position: absolute;
+    top: 1rem;
+    z-index: 3;
+    padding: 0.3rem 0.8rem;
+    border: 3px solid currentColor;
+    border-radius: 10px;
+    font-weight: 800;
+    font-size: 1.25rem;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    background: var(--paper-2);
+    pointer-events: none;
+  }
+  .swipe-label-remove {
+    left: 1rem;
+    color: #dc2626;
+    transform: rotate(-12deg);
+    opacity: var(--remove-o);
+  }
+  .swipe-label-save {
+    right: 1rem;
+    color: #16a34a;
+    transform: rotate(12deg);
+    opacity: var(--save-o);
+  }
+  .swipe-scroll {
+    flex: 1 1 auto;
+    min-height: 0;
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
+    overscroll-behavior: contain;
+    touch-action: pan-y;
+  }
+  .swipe-media {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: var(--blue-soft);
+  }
+  .swipe-media img {
+    /* full photo, never cropped to its bottom half */
+    display: block;
+    width: 100%;
+    height: auto;
+    max-height: 38vh;
+    max-height: 38dvh;
+    object-fit: contain;
+    object-position: center;
+    -webkit-user-drag: none;
+  }
+  .swipe-copy { padding: 0.8rem 0.95rem 1rem; }
+  .swipe-copy h2 {
+    margin: 0.1rem 0 0.45rem;
+    font-family: var(--font);
+    font-size: 1.3rem;
+    line-height: 1.22;
+  }
+  .swipe-copy h2 a { color: inherit; text-decoration: none; }
+  .swipe-copy .summary { font-size: 1rem; line-height: 1.5; margin-bottom: 0.6rem; }
+  .saved-badge {
+    display: inline-block;
+    margin-left: 0.4rem;
+    padding: 0.15rem 0.5rem;
+    border-radius: 999px;
+    border: 1px solid var(--blue);
+    color: var(--blue);
+    font-size: 0.72rem;
+    font-weight: 700;
+    text-transform: uppercase;
+  }
+  .deck-bar {
+    flex: 0 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.5rem;
+  }
+  .deck-btn {
+    border: 1px solid var(--line);
+    background: var(--btn-bg);
+    color: var(--ink);
+    border-radius: 999px;
+    padding: 0.55rem 1rem;
+    font-size: 0.95rem;
+    font-weight: 700;
+    cursor: pointer;
+    min-width: 6.5rem;
+    -webkit-tap-highlight-color: transparent;
+  }
+  .deck-remove { color: var(--danger); }
+  .deck-save { color: #15803d; }
+  :root[data-theme="dark"] .deck-save { color: #86efac; }
+  .deck-pos {
+    color: var(--ink-muted);
+    font-size: 0.95rem;
+    font-weight: 600;
+    font-variant-numeric: tabular-nums;
+  }
+  .deck-end {
+    margin: auto 0;
+    text-align: center;
+    padding: 2rem 1rem;
+    background: var(--paper-2);
+    border: 1px solid var(--line);
+    border-radius: 16px;
+  }
+  .deck-end h2 { margin: 0 0 0.5rem; font-family: var(--font); color: var(--blue-deep); }
+  .deck-end p { margin: 0 0 0.8rem; color: var(--ink-muted); }
+  .deck-end-actions { display: flex; flex-direction: column; gap: 0.5rem; align-items: center; }
+  .deck-end-actions button {
+    border: 1px solid var(--line);
+    background: var(--btn-bg);
+    color: var(--blue-deep);
+    border-radius: 999px;
+    padding: 0.55rem 1rem;
+    font-weight: 700;
+    font-size: 0.95rem;
+    cursor: pointer;
+  }
+  body.deck-mode .undo-bar {
+    bottom: calc(env(safe-area-inset-bottom, 0px) + 3.6rem);
+  }
+}
+@media (max-width: 599px) and (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) .deck-save { color: #86efac; }
+}

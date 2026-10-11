@@ -29,6 +29,10 @@
   const undoText = document.getElementById('undo-text');
   const undoBtn = document.getElementById('undo-remove');
   const undoDismiss = document.getElementById('undo-dismiss');
+  const deckEl = document.getElementById('deck');
+  // Swipe-card deck is for phones only (iPhone). iPad mini / iPad portrait (744px+) keep the grid.
+  const PHONE_QUERY = '(max-width: 599px)';
+  const phoneMq = window.matchMedia(PHONE_QUERY);
 
   let auth = null;
   let stories = []; // live home feed = data.json only (≤20)
@@ -40,6 +44,10 @@
   let syncing = false;
   let viewMode = 'feed';
   let undoRemoveId = null;
+  let undoAction = null; // { kind: 'remove'|'save', id, wasSaved, wasRead }
+  const deckDone = new Set(); // ids swiped/acted on this session (position indicator)
+  let deckBusy = false;
+  let suppressClick = false;
 
   function loadList(key) {
     try {
@@ -294,24 +302,34 @@
     schedulePush();
   }
 
-  function showUndo(id) {
+  function showUndo(id, action) {
     undoRemoveId = id;
+    undoAction = action || { kind: 'remove', id };
     const story = (catalog.length ? catalog : stories).find((s) => s && s.id === id);
     const title = story && story.headline ? String(story.headline) : 'Story';
     const short = title.length > 90 ? title.slice(0, 87) + '…' : title;
-    if (undoText) undoText.textContent = 'Removed: ' + short;
+    const verb = undoAction.kind === 'save' ? 'Saved & read: ' : 'Removed: ';
+    if (undoText) undoText.textContent = verb + short;
     if (undoBar) undoBar.hidden = false;
   }
 
   function hideUndo() {
     undoRemoveId = null;
+    undoAction = null;
     if (undoBar) undoBar.hidden = true;
   }
 
   function undoRemove() {
     if (!undoRemoveId) return;
     const id = undoRemoveId;
-    saveList(REMOVED_KEY, loadList(REMOVED_KEY).filter((x) => x !== id));
+    const action = undoAction || { kind: 'remove', id };
+    if (action.kind === 'save') {
+      if (!action.wasSaved) saveList(SAVED_KEY, loadList(SAVED_KEY).filter((x) => x !== id));
+      if (!action.wasRead) saveList(READ_KEY, loadList(READ_KEY).filter((x) => x !== id));
+    } else {
+      saveList(REMOVED_KEY, loadList(REMOVED_KEY).filter((x) => x !== id));
+    }
+    deckDone.delete(id);
     hideUndo();
     render();
     schedulePush();
@@ -321,9 +339,23 @@
     const list = loadList(REMOVED_KEY);
     list.push(id);
     saveList(REMOVED_KEY, list);
+    deckDone.add(id);
     render();
     schedulePush();
-    showUndo(id);
+    showUndo(id, { kind: 'remove', id });
+  }
+
+  // Swipe-left / deck Save: add to Saved (never toggles off) AND mark read.
+  function saveAndRead(id) {
+    const saved = loadList(SAVED_KEY);
+    const reads = loadList(READ_KEY);
+    const action = { kind: 'save', id, wasSaved: saved.includes(id), wasRead: reads.includes(id) };
+    if (!action.wasSaved) { saved.push(id); saveList(SAVED_KEY, saved); }
+    if (!action.wasRead) { reads.push(id); saveList(READ_KEY, reads); }
+    deckDone.add(id);
+    render();
+    schedulePush();
+    showUndo(id, action);
   }
 
   function showUnlocked() {
@@ -444,7 +476,178 @@
     });
   }
 
+  function deckMode() {
+    return viewMode === 'feed' && phoneMq.matches;
+  }
+
+  function deckStories() {
+    const reads = readIds();
+    return visibleStories().filter((s) => !reads.has(s.id));
+  }
+
+  function swipeCardHtml(story, isSaved, cls) {
+    const img = imageSrc(story);
+    const url = escapeHtml(story.url || '#');
+    const media = img
+      ? `<a class="swipe-media" href="${url}" target="_blank" rel="noopener noreferrer" draggable="false"><img src="${escapeHtml(img)}" alt="" draggable="false" loading="eager"></a>`
+      : '';
+    return `
+      <article class="swipe-card ${cls}${img ? '' : ' no-photo'}" data-id="${escapeHtml(story.id)}"${cls === 'next' ? ' aria-hidden="true"' : ''}>
+        <div class="swipe-label swipe-label-remove" aria-hidden="true">Remove</div>
+        <div class="swipe-label swipe-label-save" aria-hidden="true">Save</div>
+        <div class="swipe-scroll">
+          ${media}
+          <div class="swipe-copy">
+            <div class="cat">${escapeHtml(story.cat || 'News')}</div>${isSaved ? '<span class="saved-badge">Saved</span>' : ''}
+            <h2><a href="${url}" target="_blank" rel="noopener noreferrer" draggable="false">${escapeHtml(story.headline)}</a></h2>
+            <p class="summary">${escapeHtml(story.summary || '')}</p>
+            <div class="meta-row"><span class="source">${escapeHtml(story.source || '')}</span></div>
+          </div>
+        </div>
+      </article>`;
+  }
+
+  function renderDeck() {
+    const list = deckStories();
+    const saved = savedIds();
+    leadEl.innerHTML = '';
+    feedEl.innerHTML = '';
+    emptyEl.hidden = true;
+    deckEl.hidden = false;
+    const total = deckDone.size + list.length;
+    subtitle.textContent = `${updatedLabel || 'Updated recently'} · ${list.length} unread`;
+    if (!list.length) {
+      deckEl.innerHTML = `
+        <div class="deck-end">
+          <h2>All caught up</h2>
+          <p>No unread stories left in this batch. New stories arrive at 7am, 11am, and 5pm ET.</p>
+          <p class="deck-end-actions">
+            <button type="button" data-action="open-saved">Open Saved (${saved.size})</button>
+            <button type="button" data-action="deck-refresh">Check for new stories</button>
+          </p>
+        </div>`;
+      return;
+    }
+    const [top, next] = list;
+    deckEl.innerHTML = `
+      <div class="swipe-stack">
+        ${next ? swipeCardHtml(next, saved.has(next.id), 'next') : ''}
+        ${swipeCardHtml(top, saved.has(top.id), 'top')}
+      </div>
+      <div class="deck-bar">
+        <button type="button" class="deck-btn deck-remove" data-action="deck-remove" data-id="${escapeHtml(top.id)}" aria-label="Remove story (swipe right)">✕ Remove</button>
+        <span class="deck-pos" aria-live="polite">${deckDone.size + 1} of ${total}</span>
+        <button type="button" class="deck-btn deck-save" data-action="deck-save" data-id="${escapeHtml(top.id)}" aria-label="Save and mark read (swipe left)">Save ✓</button>
+      </div>`;
+    bindImageErrors(deckEl);
+    const card = deckEl.querySelector('.swipe-card.top');
+    if (card) bindSwipe(card);
+  }
+
+  function paintDrag(card, dx) {
+    const w = card.offsetWidth || window.innerWidth;
+    const p = Math.max(-1, Math.min(1, dx / (w * 0.3)));
+    card.style.transform = `translateX(${dx}px) rotate(${(dx / w) * 12}deg)`;
+    card.style.setProperty('--remove-o', String(Math.max(0, p)));
+    card.style.setProperty('--save-o', String(Math.max(0, -p)));
+    const next = deckEl.querySelector('.swipe-card.next');
+    if (next) next.style.transform = `scale(${0.95 + 0.05 * Math.abs(p)}) translateY(${10 - 10 * Math.abs(p)}px)`;
+  }
+
+  function snapBack(card) {
+    card.classList.remove('dragging');
+    card.style.transition = 'transform 0.22s ease-out';
+    card.style.transform = '';
+    card.style.setProperty('--remove-o', '0');
+    card.style.setProperty('--save-o', '0');
+    const next = deckEl.querySelector('.swipe-card.next');
+    if (next) { next.style.transition = 'transform 0.22s ease-out'; next.style.transform = ''; }
+  }
+
+  // dir 'right' = remove, 'left' = save + mark read.
+  function flyOff(card, dir) {
+    if (deckBusy || !card) return;
+    deckBusy = true;
+    const id = card.getAttribute('data-id');
+    const w = card.offsetWidth || window.innerWidth;
+    const sign = dir === 'right' ? 1 : -1;
+    card.classList.add('dragging');
+    card.style.setProperty(dir === 'right' ? '--remove-o' : '--save-o', '1');
+    card.style.transition = 'transform 0.26s ease-in, opacity 0.26s ease-in';
+    card.style.transform = `translateX(${sign * w * 1.4}px) rotate(${sign * 18}deg)`;
+    card.style.opacity = '0';
+    window.setTimeout(() => {
+      deckBusy = false;
+      if (dir === 'right') removeStory(id);
+      else saveAndRead(id);
+    }, 260);
+  }
+
+  function bindSwipe(card) {
+    let sx = 0, sy = 0, st = 0, dx = 0, dy = 0, mode = null, pid = null;
+    let samples = []; // recent [time, dx] for flick velocity
+    card.addEventListener('pointerdown', (e) => {
+      if (deckBusy) return;
+      if (e.pointerType === 'mouse' && e.button !== 0) return;
+      if (e.target.closest('button')) return;
+      sx = e.clientX; sy = e.clientY; st = performance.now();
+      dx = 0; dy = 0; mode = 'pending'; pid = e.pointerId;
+      samples = [[st, 0]];
+      card.style.transition = 'none';
+    });
+    card.addEventListener('pointermove', (e) => {
+      if (e.pointerId !== pid || !mode) return;
+      dx = e.clientX - sx;
+      dy = e.clientY - sy;
+      const now = performance.now();
+      samples.push([now, dx]);
+      while (samples.length > 2 && now - samples[0][0] > 120) samples.shift();
+      if (mode === 'pending') {
+        // Only mostly-horizontal gestures become swipes; vertical = scroll inside the card.
+        if (Math.abs(dx) > 10 && Math.abs(dx) > Math.abs(dy) * 1.3) {
+          mode = 'drag';
+          card.classList.add('dragging');
+          try { card.setPointerCapture(pid); } catch (_) {}
+        } else if (Math.abs(dy) > 10) {
+          mode = null;
+          return;
+        } else {
+          return;
+        }
+      }
+      if (e.cancelable) e.preventDefault();
+      paintDrag(card, dx);
+    });
+    const end = (e) => {
+      if (e.pointerId !== pid) return;
+      const m = mode;
+      mode = null; pid = null;
+      if (m !== 'drag') return;
+      suppressClick = true;
+      window.setTimeout(() => { suppressClick = false; }, 400);
+      const w = card.offsetWidth || window.innerWidth;
+      // Flick velocity over the last ~120ms of movement (px per ms).
+      const first = samples[0] || [st, 0];
+      const lastS = samples[samples.length - 1] || [st, dx];
+      const dt = Math.max(16, lastS[0] - first[0]);
+      const v = (lastS[1] - first[1]) / dt;
+      const commit = e.type !== 'pointercancel'
+        && (Math.abs(dx) > w * 0.3 || (Math.abs(v) > 0.6 && Math.abs(dx) > 40));
+      if (commit) flyOff(card, dx > 0 ? 'right' : 'left');
+      else snapBack(card);
+    };
+    card.addEventListener('pointerup', end);
+    card.addEventListener('pointercancel', end);
+  }
+
   function render() {
+    const inDeck = deckMode();
+    document.body.classList.toggle('deck-mode', inDeck);
+    if (inDeck) {
+      renderDeck();
+      return;
+    }
+    if (deckEl) { deckEl.hidden = true; deckEl.innerHTML = ''; }
     const visible = visibleStories();
     const reads = readIds();
     const saved = savedIds();
@@ -480,6 +683,19 @@
     if (!btn) return;
     const id = btn.getAttribute('data-id');
     const action = btn.getAttribute('data-action');
+    if (action === 'open-saved') {
+      if (savedToggle && viewMode !== 'saved') savedToggle.click();
+      return;
+    }
+    if (action === 'deck-refresh') {
+      refreshStories('manual');
+      return;
+    }
+    if (action === 'deck-remove' || action === 'deck-save') {
+      const card = deckEl && deckEl.querySelector('.swipe-card.top');
+      if (card) flyOff(card, action === 'deck-remove' ? 'right' : 'left');
+      return;
+    }
     if (!id) return;
     if (action === 'remove') {
       removeStory(id);
@@ -660,6 +876,24 @@
       render();
     });
     document.addEventListener('click', onClick);
+    // A completed drag must not also open the article link.
+    document.addEventListener('click', (e) => {
+      if (suppressClick && e.target.closest('.swipe-card')) {
+        e.preventDefault();
+        e.stopPropagation();
+      }
+    }, true);
+    document.addEventListener('keydown', (e) => {
+      if (!deckMode() || app.hidden) return;
+      if (e.target && /^(INPUT|TEXTAREA|SELECT)$/.test(e.target.tagName)) return;
+      const card = deckEl && deckEl.querySelector('.swipe-card.top');
+      if (!card) return;
+      if (e.key === 'ArrowRight') { e.preventDefault(); flyOff(card, 'right'); }
+      else if (e.key === 'ArrowLeft') { e.preventDefault(); flyOff(card, 'left'); }
+    });
+    const onPhoneMq = () => render();
+    if (phoneMq.addEventListener) phoneMq.addEventListener('change', onPhoneMq);
+    else if (phoneMq.addListener) phoneMq.addListener(onPhoneMq);
     if (refreshBtn) {
       refreshBtn.addEventListener('click', () => refreshStories('manual'));
     }

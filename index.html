@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Personal News</title>
 <meta name="description" content="Steve’s personal news brief — refreshed at 7am, 11am, and 5pm ET.">
 <meta name="robots" content="noindex,nofollow">
@@ -22,7 +22,7 @@
 <link rel="icon" type="image/png" sizes="32x32" href="icons/favicon-32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="icons/favicon-16.png">
 <link rel="manifest" href="site.webmanifest">
-<link rel="stylesheet" href="styles.css?v=20261003">
+<link rel="stylesheet" href="styles.css?v=20261011s">
 </head>
 <body>
   <div id="gate" class="gate" hidden>
@@ -62,6 +62,7 @@
     <main class="inner">
       <section id="lead" class="lead" aria-label="Featured story"></section>
       <section id="feed" class="feed" aria-label="Stories"></section>
+      <section id="deck" class="swipe-deck" aria-label="Story cards" hidden></section>
       <p id="empty" class="empty" hidden>No stories to show. Toggle “Hide read” or clear removed items in this browser.</p>
     </main>
 
@@ -75,10 +76,10 @@
 
   <div id="undo-bar" class="undo-bar" hidden>
     <p id="undo-text">Story removed.</p>
-    <button type="button" id="undo-remove">Undo remove</button>
+    <button type="button" id="undo-remove">Undo</button>
     <button type="button" id="undo-dismiss" aria-label="Dismiss undo">Dismiss</button>
   </div>
 
-  <script src="app.js?v=20261003" defer></script>
+  <script src="app.js?v=20261011s" defer></script>
 </body>
 </html>
