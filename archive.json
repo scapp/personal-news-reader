@@ -1077,7 +1077,10 @@
     "c0252dec6b2438d98f61419409c01feec7a866cb",
     "f9b0c7f4860986002fcb27bf0f16ff624421fd55",
     "2656fc695b9c37cb2a9eaf4b2d9582d127db3367",
-    "e9ea78232fc288b9aeb329b817d397a492750c80"
+    "e9ea78232fc288b9aeb329b817d397a492750c80",
+    "7f203fac4ffb62132ed4a6d3f2eb7b24bb80274b",
+    "6ee0d19681781258d84f16a7ca7bf557e8ab0537",
+    "e04c0115927b0cd2d7ab3f781bf3bb05193f221b"
   ],
   "stories": {
     "0c2ac7a5e342411678296315c4c59043b1f067cc": {
@@ -13215,7 +13218,37 @@
       "image_remote": "https://www.brickfanatics.com/bf-derivatives/webp/7e7cc8991529cd3efe1a3b8cfb9b634435615993a0c8079a8afab51b2344171d.webp",
       "image_local": "images/story-979.jpg",
       "id": "e9ea78232fc288b9aeb329b817d397a492750c80"
+    },
+    "7f203fac4ffb62132ed4a6d3f2eb7b24bb80274b": {
+      "headline": "Category 4 Hurricane Simon slams Mexico’s Pacific coast with 140 mph winds as Puerto Vallarta braces for the worst around midnight",
+      "cat": "World / weather",
+      "source": "PBS NewsHour (AP)",
+      "url": "https://www.pbs.org/newshour/world/hurricane-simon-hits-mexicos-pacific-coast",
+      "summary": "Hurricane Simon pounded Mexico’s Pacific coast as a Category 4 storm on Sunday, its eye staying just offshore while its strongest winds and rain hit the communities between the Sierra Madre and the ocean. The center was moving parallel to the coast toward the Puerto Vallarta area, where the most damaging winds and rain were expected around midnight and into Monday morning. The U.S. National Hurricane Center says it isn’t clear whether Simon will make landfall, which would let it keep its sustained 140 mph winds. Senior specialist Phillipe Pappin said Cabo Corrientes, the westernmost tip of mainland Mexico at the southern edge of the bay where Puerto Vallarta sits, is the most likely spot for a direct hit, and warned of “catastrophic wind and life-threatening storm surge.” Forecasters expect 10 to 20 inches of rain in many places and up to 30 inches in parts of Michoacán, Colima and Jalisco, raising the risk of flooding and mudslides. National Guard vehicles patrolled Puerto Vallarta as police with megaphones told joggers and dog walkers to take shelter. Jalisco suspended classes in 22 coastal towns and began evacuations, and President Claudia Sheinbaum urged people in four states to stay sheltered until officials say the danger has passed.",
+      "image_remote": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-11T153051Z_720955666_RC231OA7SFDR_RTRMADP_3_STORM-SIMON-1024x683.jpg",
+      "image_local": "images/story-980.jpg",
+      "id": "7f203fac4ffb62132ed4a6d3f2eb7b24bb80274b"
+    },
+    "6ee0d19681781258d84f16a7ca7bf557e8ab0537": {
+      "headline": "Sex Pistols singer Frank Carter has a Denver fan thrown out for objecting to a women-only mosh pit, then tells critics to ‘stay home’",
+      "cat": "Music",
+      "source": "Stereogum",
+      "url": "https://stereogum.com/2514265/frank-carter-curses-out-man-who-crashed-female-only-sex-pistols-mosh-pit/news",
+      "summary": "At the Sex Pistols’ show at Denver’s Ogden Theatre on Friday night, frontman Frank Carter, the former Gallows singer who now fronts the band in place of John Lydon, cleared the pit before “No Feelings” and declared it ladies-only so women could mosh “without getting an elbow to the face.” A man in the crowd objected that women could already do that, and Carter tore into him from the stage in a profanity-laced exchange that has spread widely on video, then had security eject him and offered to “explain it all to you again” outside. On Saturday Carter doubled down on Instagram, writing that any man offended by a women-only pit is “part of the problem,” that the issue “isn’t up for debate,” and that by “ladies only” he means a “trans inclusionary space.” He also posted a message from someone saying he was the fan’s father, apologizing for his “idiotic son” and thanking Carter. The band makes the same women-only pit request at venues across its current U.S. tour.",
+      "image_remote": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/10/frank-carter.jpg",
+      "image_local": "images/story-981.jpg",
+      "id": "6ee0d19681781258d84f16a7ca7bf557e8ab0537"
+    },
+    "e04c0115927b0cd2d7ab3f781bf3bb05193f221b": {
+      "headline": "Citroën brings back the 2CV as a tiny electric concept it plans to sell in 2028 for about €15,000",
+      "cat": "Cars",
+      "source": "Electrek",
+      "url": "https://electrek.co/2026/10/11/the-legendary-citroen-2cv-is-back-as-a-e15k-electric-concept-for-2028/",
+      "summary": "Citroën has unveiled an electric concept version of its classic 2CV ahead of this week’s Paris Motor Show and says it intends to have it on sale in 2028 for around €15,000, just under $17,000. The original “Deux Chevaux,” built until 1990, sold millions as a cheap, comfortable car with a soft suspension famously meant to cross a farm field without breaking a basket of eggs. The new one keeps the giant roll-back fabric roof and the tiny footprint (it is actually four inches shorter than the old car), and Citroën is targeting a weight of about 1,000 kg, or roughly 2,205 pounds, which is lighter than a current Mazda MX-5. The styling is boxier, with a taller hood, low wheel arches and roll-down windows instead of the old pop-outs. Citroën hasn’t released power or battery specs yet; Electrek expects it to land between the 8-horsepower Ami and the 113-horsepower C3, and the low arches hint at a city car rather than a farm-road one.",
+      "image_remote": "https://electrek.co/wp-content/uploads/sites/3/2026/10/cl26-021-302-format-16-9_31bdd1.jpg?quality=82&strip=all&resize=1200,628",
+      "image_local": "images/story-982.jpg",
+      "id": "e04c0115927b0cd2d7ab3f781bf3bb05193f221b"
     }
   },
-  "updated": "Sunday, October 11, 2026 · 4:18 PM ET"
+  "updated": "Sunday, October 11, 2026 · 6:06 PM ET"
 }
