@@ -1,8 +1,85 @@
 {
-  "updated": "Sunday, October 11, 2026 · 11:45 AM ET",
+  "updated": "Sunday, October 11, 2026 · 4:18 PM ET",
   "stories": [
     {
       "n": 1,
+      "headline": "Jets beat the Browns 17-12 in the rain at MetLife as Braelon Allen scores the winner with 3:01 left after a botched Cleveland punt snap",
+      "cat": "Jets football",
+      "source": "Cleveland 19 News",
+      "url": "https://www.cleveland19.com/2026/10/11/browns-falter-4th-lose-jets-17-12/",
+      "image_local": "images/story-974.jpg",
+      "image_remote": "https://gray-woio-prod.gtv-cdn.com/resizer/v2/5ZC7RUEGYBGFFMI56SJ3VNHTSA.jpg?auth=e0ecee86390bb9bdf6af1a62e5edebdacd9bb81269bd6ba618ca55dd3a2876d8&width=1200&height=600&smart=true",
+      "id": "f2269b665dabf170ee8416d0b79970755ced8949",
+      "summary": "The Jets got their second win of the season Sunday, beating the 3-1 Browns 17-12 on a rainy afternoon at MetLife Stadium. Cleveland took its first lead midway through the fourth quarter on a 29-yard Deshaun Watson bomb to rookie Denzel Boston, but kicker Andre Szmyt missed the extra point, leaving it 12-10. The Browns then seemed to have the game in hand when Carson Schwesinger forced a Geno Smith fumble with 4:13 to go. Instead, a high snap sailed through punter Corey Bojorquez’s hands, Trevin Wallace recovered for the Jets in field-goal range, and Braelon Allen ran 22 yards for the go-ahead touchdown with 3:01 left. The Jets’ first-half touchdown came on a 32-yard Smith pass to Garrett Wilson, and Jason Sanders added a 54-yard field goal early in the fourth. No. 2 overall pick David Bailey had his first three-sack game in the NFL. It was a sloppy, turnover-filled day in the rain: Cleveland linebacker Quincy Williams forced three fumbles, tying a Browns record. Browns rookie receiver KC Concepcion left in the first quarter with a head injury after a high hit from Minkah Fitzpatrick and did not return."
+    },
+    {
+      "n": 2,
+      "headline": "Hours after Trump declared a Russia-Ukraine ‘energy ceasefire,’ Russia hit a Kharkiv power plant, and Russian lawmakers say they never heard of the deal",
+      "cat": "World / politics",
+      "source": "Kyiv Independent",
+      "url": "https://kyivindependent.com/russia-struck-kharkivs-power-plant-shortly-after-trump-announced-energy-ceasefire/",
+      "image_local": "images/story-975.jpg",
+      "image_remote": "https://assets.kyivindependent.com/content/images/2026/10/photo_2026-10-11-11_49_19_20261011-174931.jpeg",
+      "id": "3dca9323f6fd0cacf054f978081aa0b5686b0692",
+      "summary": "Ukraine’s Presidential Office says Russia struck Kharkiv’s CHP-5 power plant Sunday evening, after President Trump posted on Truth Social that an “ENERGY CEASEFIRE” between Russia and Ukraine was “effective immediately” and that “both parties have agreed.” “Just now, there was a strike on CHP-5 in Kharkiv — on Kharkiv’s energy infrastructure,” President Volodymyr Zelenskyy said at about 8 p.m. local time. Soon after, a Russian missile hit a grocery store in the Kharkiv suburbs, killing three people and wounding nine, including two children, according to regional governor Oleh Syniehubov. A senior Ukrainian official told the Kyiv Independent that Kyiv had no information about the truce. Zelenskyy told Axios that if Trump “negotiated it with (Vladimir) Putin, please tell us when the ceasefire begins. We are ready, and we will accept it.” Moscow has not confirmed it either. Igor Ananskikh, first deputy chair of the State Duma’s energy committee, said he knew nothing about it and suggested that “Trump often says things to keep oil prices from rising.” Zelenskyy says Russia made more than 200 strikes on Ukraine’s power system in the past week. Less than an hour before Trump’s post, Zelenskyy told ABC News that a two-month ceasefire arranged by Trump and Putin would let Ukraine prepare for a new presidential election, which martial law currently forbids."
+    },
+    {
+      "n": 3,
+      "headline": "At least 139 migrants dead and 84 missing after an overcrowded boat bound for war-torn Yemen capsized off Djibouti",
+      "cat": "World",
+      "source": "PBS NewsHour (AP)",
+      "url": "https://www.pbs.org/newshour/world/at-least-139-migrants-dead-dozens-missing-after-boat-capsizes-off-djibouti-coast",
+      "image_local": "images/story-976.jpg",
+      "image_remote": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-11T151137Z_1832774383_RC221OAMD3IN_RTRMADP_3_YEMEN-CRISIS-MIGRANTS-1024x682.jpg",
+      "id": "d7c1f7fa41920a16928a21786080fe2fb243e151",
+      "summary": "At least 139 people, including children, died when a boat carrying 305 migrants capsized off the coast of Djibouti shortly after setting out for Yemen on the night of Oct. 8, the International Organization for Migration said Sunday. At least 84 people are still missing, making it one of the deadliest shipwrecks on the busy and dangerous crossing from the Horn of Africa to the Arabian Peninsula, which migrants use to reach work in the rich Gulf states. More than 80 people survived, all of them Ethiopian. IOM’s Djibouti chief, Alexandre Coissac, said the boat sank close to shore “mainly because it was overcrowded,” and local authorities were overwhelmed as bodies kept washing up. The official toll counts only bodies buried by the authorities. Survivors buried others themselves, and those will be added once they are verified. “What is terrible is that they were buried with no names, in a common grave, like in a war situation,” Coissac said. Survivors are being treated at IOM’s rescue center in Obock. Tens of thousands of migrants cross the Bab el-Mandeb Strait every year, even as fighting escalates in Yemen between the Saudi-backed government and the Iran-backed Houthis."
+    },
+    {
+      "n": 4,
+      "headline": "Alvaro Pulido, Alex Saab’s partner in an alleged Maduro-era bribery scheme with a $10 million U.S. bounty on his head, is finally in American custody",
+      "cat": "Crime / courts",
+      "source": "CBS News (AP)",
+      "url": "https://www.cbsnews.com/news/alvaro-pulido-us-custody-venezuela-bribery/",
+      "image_local": "",
+      "image_remote": "",
+      "id": "c0252dec6b2438d98f61419409c01feec7a866cb",
+      "summary": "Alvaro Pulido, a Colombian-born businessman wanted by the U.S. for years for allegedly bribing top Venezuelan officials in exchange for lucrative government contracts, has been taken into U.S. custody, a Homeland Security Task Force spokesperson said Sunday. The DEA and State Department had offered up to $10 million for information leading to his arrest. Pulido was indicted in Miami federal court in 2019 and again in 2021 in the investigation of his longtime partner, Alex Saab, a onetime ally of ousted Venezuelan President Nicolás Maduro. Prosecutors say the two set up a network of offshore shell companies to funnel bribes to Maduro allies in return for contracts to import food, medicine and low-cost housing while Venezuelans went hungry. Officials did not say how Pulido came into U.S. hands after an investigation by the DEA, FBI and Homeland Security Investigations. He is due in court in Miami on Tuesday. Saab was deported to the U.S. in May by acting President Delcy Rodríguez, who took over after the U.S. military ousted Maduro in January, and last month he pleaded guilty, agreeing to cooperate against Maduro and forfeit $195 million. Caracas has said nothing about Pulido’s arrest."
+    },
+    {
+      "n": 5,
+      "headline": "Trumbull this week: last voter registration session before Nov. 3, early voting starts Oct. 19 at the library, and loose-leaf pickup begins Nov. 4",
+      "cat": "Local / Trumbull CT",
+      "source": "Patch Trumbull",
+      "url": "https://patch.com/connecticut/trumbull/5-things-know-trumbull-voter-registration-session-loose-leaf-pickup-more",
+      "image_local": "images/story-977.jpg",
+      "image_remote": "https://patch.com/img/cdn20/users/22878689/20261009/104544/styles/patch_image/public/img-3273___09103213822.jpg",
+      "id": "f9b0c7f4860986002fcb27bf0f16ff624421fd55",
+      "summary": "Trumbull’s registrars will hold a statewide voter registration session Friday, the last regular session before the Nov. 3 election, though same-day registration will still be available during early voting and on Election Day (questions: 203-452-5058 or 203-452-5059). Early voting runs Oct. 19 through Nov. 1 at the Trumbull Library from 10 a.m. to 6 p.m., with longer 8 a.m. to 8 p.m. hours on Oct. 27 and Oct. 29, according to the town clerk’s election warning. On Election Day, Trumbull votes at Daniels Farm, Booth Hill, Tashua, Madison Middle, Frenchtown Road, Middlebrook and Christian Heritage schools. Also this week, the Hillcrest Middle School Building Committee gets updates from its architect and construction manager and reviews invoices, and the Library System Board of Trustees elects officers and discusses the poet laureate program. Public Works says the town’s loose-leaf collection should start Nov. 4 and run until every neighborhood is done, with a daily progress map online. Residents can also ask for bagged-leaf pickup as often as they need during the program."
+    },
+    {
+      "n": 6,
+      "headline": "Dave Lombardo at 40 years of ‘Reign in Blood’: it ‘still gives me the chills,’ and if I go into cardiac arrest, play ‘Angel of Death’",
+      "cat": "Heavy metal",
+      "source": "Loudwire",
+      "url": "https://loudwire.com/dave-lombardo-slayer-reign-in-blood-gives-me-chills/",
+      "image_local": "images/story-978.jpg",
+      "image_remote": "https://townsquare.media/site/366/files/2026/10/attachment-dave_lombardo_reign_in_blood_gives_me_chills.jpg?w=1200&q=75&format=natural",
+      "id": "2656fc695b9c37cb2a9eaf4b2d9582d127db3367",
+      "summary": "Slayer’s “Reign in Blood” turned 40 this month, and former drummer Dave Lombardo told the Loaded Radio podcast that the album still gets his heart racing. “It still gives me the chills when I listen to that album,” he said. “The palms of your hands get sweaty … your heart rate increases.” He joked: “If I go into cardiac arrest, play ‘Angel Of Death’ or ‘Raining Blood’ … and watch me just pop up.” Asked whether thrash is still close to his heart, Lombardo said he enjoys good thrash but thinks much modern metal has gone “very sterile” since recording software took over, missing the “push and pull” of the old albums that sounded “restless” and “aggressive.” He recalled the band in the studio urging each other on (“Faster?” “Yeah, play it just a little faster”) and summed up the record as “anger, angst, adrenaline — everything.” He also remembered late co-founder and guitarist Jeff Hanneman, who died in 2013, as a funny, self-taught “trailblazer” and an amazing songwriter."
+    },
+    {
+      "n": 7,
+      "headline": "LEGO announces a Star Wars x Marvel ‘Hope Assembles’ crossover contest at NYCC, reviving the rumor of a mash-up ‘Iron Falcon’ set",
+      "cat": "LEGO",
+      "source": "Brick Fanatics",
+      "url": "https://www.brickfanatics.com/lego-marvel-star-wars-crossover-event-old-rumour",
+      "image_local": "images/story-979.jpg",
+      "image_remote": "https://www.brickfanatics.com/bf-derivatives/webp/7e7cc8991529cd3efe1a3b8cfb9b634435615993a0c8079a8afab51b2344171d.webp",
+      "id": "e9ea78232fc288b9aeb329b817d397a492750c80",
+      "summary": "At New York Comic Con this weekend, LEGO announced a new LEGO Ideas event, “Hope Assembles,” inviting fans to submit designs for LEGO Marvel and Star Wars crossover models that could eventually become real sets. It is named after the Star Wars/Marvel: Hope Assembles crossover comic due in early 2027. Brick Fanatics says the contest puts new weight behind a rumor from August about a set numbered 75481 called Iron Falcon, reportedly being considered as a Star Wars–Marvel crossover. The rumor looked outlandish at the time, until the crossover comic was announced the next day. The Ideas event does not confirm Iron Falcon or any official crossover sets, and the site cautions that no LEGO rumor should be treated as fact until the LEGO Group confirms it. Fans who like a mismatched Millennium Falcon can already buy 75389 The Dark Falcon while they wait."
+    },
+    {
+      "n": 8,
       "headline": "Riyadh’s airport terminal is hit again a day after the strike that killed 12, as the Houthis declare Saudi airspace a target and Trump weighs joining the fight",
       "cat": "World",
       "source": "CBS News (AP)",
@@ -13,18 +90,7 @@
       "summary": "A projectile struck a passenger terminal at Riyadh’s King Khalid International Airport on Sunday, hitting the same complex housing domestic terminals 3 and 4 where Saturday’s strike killed at least 12 people, including a U.S. citizen, and wounded 309, according to the Saudi-led coalition. There were no immediate details on the second hit. Hours earlier, Houthi military spokesman Yahya Saree warned on X that Saudi “airports and airspace are exposed to targeting and constitute a theatre of operations for our forces,” sparing only Mecca and Medina and telling passengers not to travel. The airport stays closed, flights are being diverted, Riyadh schools have moved online, and the U.S., Britain, Germany, Australia and Canada have told citizens to stay away. Saturday’s attack was the deadliest on Saudi soil in more than a decade. Secretary of State Marco Rubio condemned “the terrorist Houthis,” President Trump has said he is considering joining Saudi strikes on them, and Israeli Prime Minister Benjamin Netanyahu said terrorism “must be confronted with resolve.” The dead include a 28-year-old Egyptian flight attendant for the Saudi airline Flynas. The Houthis said their own airport in Sanaa was struck again and blamed the Saudis."
     },
     {
-      "n": 2,
-      "headline": "Trump announces an immediate Russia-Ukraine ‘energy ceasefire’ — and Zelenskyy says it was ‘news for me’ but Ukraine will stop hitting refineries if Russia does",
-      "cat": "World / politics",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/zelenskyy-trump-new-ukrainian-president/",
-      "image_local": "images/story-970.jpg",
-      "image_remote": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/11/82bfbef0-cbea-4abc-af24-d7c74f61e7f9/thumbnail/1200x630/3370c303e46e1502244efa2b31093884/ap26277551651484.jpg",
-      "id": "59850f18e1d606a5fdf889cb1bc1f7e95b1743a7",
-      "summary": "President Trump posted on Truth Social Sunday: “Effective immediately, there is an ENERGY CEASEFIRE in the War between Russia and Ukraine. Both parties have agreed. Do not break it!” It is not yet clear what the truce covers, and Ukrainian President Volodymyr Zelenskyy told Axios the announcement “was news for me,” though he said Ukraine would agree if Russia did. “Ukraine will be ready to stop striking Russian oil refineries if Russia stops striking our energy infrastructure,” he wrote on X, adding that any de-escalation must be reciprocal and backed by guarantees. The announcement came a day after Trump said Ukraine should “get a new leader who can make a deal,” blaming Zelenskyy for high U.S. diesel prices. On Friday Trump announced a deal to buy more than 300,000 tons of Russian diesel right away, 500,000 tons in November and 1 million tons after that, which Kyiv and European officials say will help fund Russia’s war. Hours before the post, a Ukrainian drone strike shut down a Yandex data center in Vladimir, east of Moscow, knocking out taxi and banking services across dozens of Russian cities."
-    },
-    {
-      "n": 3,
+      "n": 9,
       "headline": "Category 4 Hurricane Simon pounds Mexico’s Pacific coast near Puerto Vallarta with its eye hugging the shore — and it may never make a clean landfall",
       "cat": "World / weather",
       "source": "ABC7 (AP)",
@@ -35,7 +101,7 @@
       "summary": "Hurricane Simon was battering Mexico’s west-central Pacific coast as a Category 4 storm Sunday morning, with sustained winds of about 150 mph and its eye moving north just offshore, about 110 miles south-southeast of Cabo Corrientes, at a slow 6 mph. National Hurricane Center specialist Phillipe Pappin told the AP it is “a little tricky” to say whether Simon will make landfall because the eye is moving “very close or parallel to the coast,” which could let it keep its extremely dangerous strength. Cabo Corrientes, the westernmost tip of mainland Mexico, is the most likely spot for a direct hit. Forecasters warn of “catastrophic wind,” a life-threatening storm surge and 10 to 20 inches of rain, with up to 30 inches in parts of Michoacán, Colima and Jalisco, bringing flooding and mudslides in the mountains. That is bad news for the Puerto Vallarta area, popular with American tourists, where many residents live in hillside communities whose homes may not withstand the storm. Jalisco closed schools in 22 coastal municipalities and began evacuations, and businesses boarded up Saturday."
     },
     {
-      "n": 4,
+      "n": 10,
       "headline": "Philadelphia officer Shane Seiber killed and his partner shot 12 times in a porch ambush; the suspect, a city water worker with past gun arrests, is charged with murder",
       "cat": "Crime / police",
       "source": "6abc Philadelphia",
@@ -46,7 +112,7 @@
       "summary": "Philadelphia police officer Shane Seiber, 40, a 10-year veteran, died after being shot three times in an ambush in West Philadelphia early Saturday. His partner, a 33-year-old father of five, was shot 12 times and is hospitalized in stable condition. The officers had been sent to the 100 block of North 52nd Street shortly after 12:20 a.m. for a report of a man with a gun on a porch and were shot soon after stepping onto it. Police say the gunman fled down an alley firing at other officers and was caught after falling out of a tree. Officers recovered two handguns and a shotgun, one of them a handgun taken from a wounded officer. District Attorney Larry Krasner charged Eric Lewis, 35, with murder, homicide of a law enforcement officer, attempted murder of the wounded officer, attempted murder of nine other officers who were shot at, and weapons offenses. Court records show earlier arrests on gun, drug and assault charges between 2013 and 2020, and his union confirmed he worked for the Philadelphia Water Department. Seiber leaves a 7-year-old son and a 3-year-old daughter. Gov. Josh Shapiro ordered flags to half-staff."
     },
     {
-      "n": 5,
+      "n": 11,
       "headline": "Gurman: Apple’s ‘HomeView’ hub ships mid-November in four colors, while the new Apple TV 4K and HomePod mini arrive Oct. 30",
       "cat": "Apple",
       "source": "MacRumors",
@@ -57,7 +123,7 @@
       "summary": "Two days before Apple’s “Welcome home” event on Tuesday, Oct. 13, Bloomberg’s Mark Gurman reports in his Power On newsletter that the company’s new smart home hub, called HomeView, will ship around mid-November, “at least as of now,” about a month after it is unveiled. The new Apple TV 4K with an A19 chip and the new HomePod mini with an S10 chip will reach customers and stores first, on Friday, Oct. 30. HomeView is meant to be the Siri command center of an Apple home: a display driven mainly by voice, with touch support, powered by an A18 chip. It will come in two versions, a countertop model with a metal speaker base in space gray, silver, starlight and pink, and a wall-mounted model with a flat square base in space gray and silver only. Gurman says it will sound better than the new HomePod mini. It will run a limited set of Apple apps and will have no App Store. The HomeView name first surfaced in a trademark filing by a shell company that MacRumors spotted Friday."
     },
     {
-      "n": 6,
+      "n": 12,
       "headline": "Reunited Aussie thrash pioneers Mortal Sin plan a first-ever best-of, a Keep It True live set and a 1989 tape from their Metallica support slot",
       "cat": "Heavy metal",
       "source": "Blabbermouth",
@@ -68,18 +134,7 @@
       "summary": "Mortal Sin singer Mat Maurer told Finland’s Rauta that the reunited Australian thrash band will put out a few releases early next year while it works on new songs. The plan is the band’s first-ever best-of, with three or four songs from each album, on vinyl; a bootleg of its set from Germany’s Keep It True festival in April; and a desk tape from when Mortal Sin opened for Metallica in 1989. “If there’s something there to keep [the fans] happy, that will let us concentrate on … hopefully writing,” Maurer said, admitting lyrics can take weeks: “the music comes first. And then I have to sit and listen to that music … What’s the story? Is it a movie?” Mortal Sin played its first show in more than 14 years on Jan. 31 in Adelaide, toured Australia, then played European festivals including Brutal Assault and Alcatraz this summer. Original members Maurer and bassist Andy Eftichiou are joined by guitarists Nathan Shea and Ryan Huthnance and drummer George Delinicolis. 2026 marks 40 years of their debut, “Mayhemic Destruction.”"
     },
     {
-      "n": 7,
-      "headline": "Isaias aftermath: at least four dead, roofs torn off across the Panhandle, and the second-highest surge on record at Panama City Beach",
-      "cat": "Weather",
-      "source": "FOX Weather",
-      "url": "https://www.foxweather.com/weather-news/deadly-isaias-start-finish-trail-destruction-gulf-coast",
-      "image_local": "images/story-958.jpg",
-      "image_remote": "https://images.foxweather.com/static.foxweather.com/www.foxweather.com/content/uploads/2026/10/1024/512/gettyimages-2299562170-scaled.jpg?ve=1&tl=1",
-      "id": "9bc93e171567fc26960963ea1f6ee09f190bb1d5",
-      "summary": "Hurricane Isaias, the first hurricane of the Atlantic season, came ashore near Destin, Florida, about 9:30 p.m. ET Friday as a Category 2 storm with 105 mph winds, after briefly reaching Category 3 strength Friday morning. By Saturday it had weakened to a post-tropical cyclone moving inland toward Tennessee, but not before killing at least four people. In Florida, a woman died when a large tree fell onto her home, and a man was found dead in a garage in Escambia County after a generator was run indoors, with four others treated for carbon monoxide poisoning. In Alabama, a tree killed a person in a home in East Birmingham, and officials confirmed a second death in the state. Pensacola and nearby Milton were among the hardest hit, with apartment and store roofs peeled away and trees down on homes, and boats were tossed onto roads in Navarre and Tiger Point. Panama City Beach recorded its second-highest storm surge on record at 5.6 feet above average high tide. Heavy rain and confirmed tornadoes spread across Alabama, Georgia and South Carolina on Saturday."
-    },
-    {
-      "n": 8,
+      "n": 13,
       "headline": "ATF stops requiring federal approval and registration for suppressors and short-barreled rifles and shotguns — nationwide",
       "cat": "Second Amendment",
       "source": "NTD",
@@ -90,7 +145,7 @@
       "summary": "Americans no longer need federal approval to make or own suppressors, short-barreled rifles, short-barreled shotguns and “any other weapons” under new ATF guidance issued Oct. 9. It ends a National Firearms Act approval system that has been in place for more than 90 years. The change follows the Silencer Shop Foundation v. ATF case. After the One Big Beautiful Bill Act cut the NFA tax on those items to zero on Jan. 1, U.S. District Judge Hendrix ruled that the approval and registration rules could no longer be justified under Congress’s taxing power, and the Justice Department chose not to appeal. The court order covered only the plaintiffs, but ATF Director Robert Cekada said the agency will apply it to everyone. ATF will also stop enforcing NFA registration and marking rules for these items and the ban on taking unregistered ones across state lines, though voluntary registration stays open. Machine guns and destructive devices are still fully regulated. Background checks, dealer rules and state bans, such as those in California, New Jersey and New York, still apply. Because the change rests on enforcement discretion rather than repeal, it could be reversed."
     },
     {
-      "n": 9,
+      "n": 14,
       "headline": "DOJ antitrust division probes ABC, CBS, CNN, Fox and NBC over their joint press-pool boycott after the White House ban",
       "cat": "Media",
       "source": "CBS News",
@@ -101,7 +156,7 @@
       "summary": "The Justice Department is investigating whether the five TV networks in the White House television pool (ABC, CBS, CNN, Fox and NBC) violated antitrust law when they jointly suspended pool coverage last month. They halted it in protest of President Trump pulling credentials from CNN, MS NOW and Politico. “Group boycotts among commercial competitors can violate the Sherman Act,” DOJ spokesperson Emily Covington told CBS News Saturday. “The Antitrust Division is simply investigating to determine whether these news organizations have violated the antitrust laws.” The suspension came during Chinese President Xi Jinping’s state visit. The networks said at the time that “no administration should reject a news organization because it objects to its reporting.” CNN, MS NOW and Politico won a temporary restraining order restoring their credentials, which Judge Timothy Kelly extended to Tuesday while he weighs the case, though CNN and Politico are still kept out of the Oval Office and off Air Force One. CBS noted it and CNN now share a parent company, Skydance, after the Paramount–Warner Bros. Discovery merger closed this week. The New York Times first reported the probe."
     },
     {
-      "n": 10,
+      "n": 15,
       "headline": "Erie, Pa., gunman kills seven relatives and a family friend, including a 22-month-old and a pregnant woman, then himself",
       "cat": "Crime",
       "source": "NBC News",
@@ -112,7 +167,7 @@
       "summary": "A 45-year-old man killed seven members of his family and a family friend at a home in Erie, Pennsylvania, Friday evening before shooting himself, police said. Police Chief Rick Lorah called it “the worst scene I have ever experienced.” Officers responded just before 5 p.m. to a ShotSpotter alert and found two women, 51 and 37, dead outside. A neighbor’s Ring doorbell video showed them arriving distressed and pounding on doors for help, and its audio appears to capture muffled gunfire inside before the gunman came out and shot them. SWAT officers later breached the house with a robot and found a 5-year-old boy and a 22-month-old girl on the first floor, and four more victims, ages 19 to 44, in a stairwell. One victim was eight months pregnant. The shooter was found dead on the second floor with a .40-caliber handgun registered to him. Lorah said it is too soon to discuss motive but that he believes “mental health is at play here.” Gov. Josh Shapiro offered the state’s full support."
     },
     {
-      "n": 11,
+      "n": 16,
       "headline": "Pope Leo XIV says he will have surgery this week to remove a lung nodule found at a ‘very early stage’",
       "cat": "Faith",
       "source": "NPR",
@@ -123,18 +178,7 @@
       "summary": "Pope Leo XIV told the crowd at his Sunday Angelus in St. Peter’s Square that doctors found a “localized nodule” in his lung at a “very early stage” and recommended removing it. “Following their advice, I have therefore decided to undergo an operation to remove it,” he said, asking for prayers. Vatican spokesperson Matteo Bruni said the operation is scheduled for the first days of this week at Rome’s Gemelli Hospital, the usual hospital for popes, with about a week of recovery expected. It is not yet clear whether the surgery will affect his trip to Uruguay, Argentina and Peru planned for early November. In the same address he appealed for safe passage of grain across the Black Sea (“The daily bread of millions of people cannot be held hostage by war”). On Saturday he posted that the death penalty is “inadmissible,” as the U.S. prepares to livestream the Fort Hood shooter’s execution."
     },
     {
-      "n": 12,
-      "headline": "Nearby Westport: Adrian Rodriguez’s hat trick sinks unbeaten Greenwich 3-0 as Staples boys soccer moves to 10-0-1",
-      "cat": "Local / nearby: Westport (Trumbull stand-in)",
-      "source": "Westport Journal",
-      "url": "https://westportjournal.com/sports/another-shutout-for-staples-boys-soccer/",
-      "image_local": "images/story-964.jpg",
-      "image_remote": "https://westportjournal.com/wp-content/uploads/2026/10/Defenseman-Peter-Nelson-Photo-Paolo-Caniato.png",
-      "id": "745aff0944d3f14f90cfcf54bc95f8ca87a38d19",
-      "summary": "No fresh free Trumbull items turned up this weekend, so here is the nearby-town stand-in. Staples boys soccer, last year’s FCIAC and state champion, beat previously unbeaten Greenwich 3-0 at Cardinal Stadium behind a true hat trick (three straight goals) from Adrian Rodriguez, avenging a 4-3 comeback loss to the Cardinals in last year’s regular season. Greenwich came in 7-0-2. The win lifts the Wreckers to 10-0-1, with their fourth straight shutout and ninth of the season behind a tenacious defense and midfield. Staples has five league games left: Fairfield Ludlowe on Monday and Bridgeport Central on Wednesday, both at Wakeman Field at 4 p.m., then Brien McMahon on Saturday at 11:30 a.m."
-    },
-    {
-      "n": 13,
+      "n": 17,
       "headline": "Penguins snap their skid, beating Dallas 2-1 in a shootout behind Silovs as Kindel, Crosby and Rakell score",
       "cat": "Penguins hockey",
       "source": "PensBurgh",
@@ -145,7 +189,7 @@
       "summary": "A night after a shootout loss at Columbus, the Penguins ground out a 2-1 shootout win over the Dallas Stars at home Saturday. It snapped an ugly skid and closed out a stretch of five games in eight days. Arturs Silovs started in goal, with Elmer Soderblom in for Ville Koivunen and Spencer Stastney replacing the injured Trevor van Riemsdyk. A Kris Letang goal in the first was wiped out on a Dallas challenge for a Hendrix Lapierre high stick. Connor Dewar broke the scoreless tie early in the third with his first of the season, a backhand off a Star in front that ended Jake Oettinger’s shutout streak of nearly 190 minutes. Tyler Seguin tied it with 29 seconds left on a deflection with Oettinger pulled. After a scoreless overtime, Ben Kindel and Sidney Crosby scored in the shootout, Wyatt Johnston kept Dallas alive, Rickard Rakell went top shelf in Round 4 and Silovs stopped Mikko Rantanen to win it. PensBurgh called it the team’s best all-around effort since the opening-night rout of the Flyers."
     },
     {
-      "n": 14,
+      "n": 18,
       "headline": "Tesla says its Austin Cybercab fleet grew 8x in a month to 300-plus, and names Dallas as the next city",
       "cat": "Tesla",
       "source": "Teslarati",
@@ -156,18 +200,7 @@
       "summary": "Tesla has given its first official count of its active Cybercab fleet. The Robotaxi account posted Saturday that one month after launch the service had “scaled to 300+ Cybercabs serving Austin – an 8x increase in 30 days.” Tesla AI software chief Ashok Elluswamy added: “Two years since the 10/10 Cybercab WeRobot event, the cabs are everywhere in Austin now. Dallas soon,” the first time Tesla has named the next city for public Cybercab rides. Public rides opened in Austin on Sept. 4. The fleet passed 100 in late September after jumping from 58 to 125 vehicles in a single week, and on Thursday Tesla added 150 Cybercabs to the Texas automated-vehicle registry, raising its registered count from 169 to 319."
     },
     {
-      "n": 15,
-      "headline": "Bassist Becky Baldwin thought the email was fake: how she landed the gig on Tony Iommi’s solo album ‘From The Dark’",
-      "cat": "Heavy metal",
-      "source": "Blabbermouth",
-      "url": "https://blabbermouth.net/news/becky-baldwin-explains-how-she-landed-gig-playing-bass-on-tony-iommis-new-solo-album",
-      "image_local": "images/story-967.jpg",
-      "image_remote": "https://assets.blabbermouth.net/media/tonyiommibeckyjuly2026_638.jpg",
-      "id": "f57ce665f7a4dd5381772f26cbb61002d5e1efff",
-      "summary": "Mercyful Fate’s newest bassist, Becky Baldwin, 35, told The Chronicles Of Podcast how she ended up on Black Sabbath guitarist Tony Iommi’s upcoming solo album, “From The Dark.” The lineup also includes drummer Karl Brazil, known for work with Robbie Williams and James Blunt, and Norwegian singer Jørn Lande. She said an email arrived on “some random Wednesday” with “Tony Iommi” in the subject line, from someone saying they were Iommi’s manager and inviting her to the studio. “This is fake. Surely this is fake,” she recalled thinking, until she checked the sender, website and email and then called. It turned out producer Mike Exeter had been following her for years, including her classic-metal bass covers on social media, some of them Black Sabbath songs, and recommended her when Iommi went looking for a bassist."
-    },
-    {
-      "n": 16,
+      "n": 19,
       "headline": "Babylon Bee: ‘Heaven Excited To Finally Get Answer To Who Would Win A Fight Between God And Mike Ditka’",
       "cat": "Satire",
       "source": "Babylon Bee",
@@ -178,7 +211,7 @@
       "summary": "The Babylon Bee marks Mike Ditka’s death at 86 by settling the oldest Bears-fan debate. Heaven’s residents gather for the long-awaited “Ditka v. God” showdown. “We know Ditka would win against a hurricane,” one resident explains, and that it would be a tie against a hurricane named ‘Ditka.’ An increasingly exasperated angel tries to explain that the Lord is “the eternal source of all power and existence” and that every ounce of Ditka’s strength comes from Him. The fans reply that this only means a God-strengthened Ditka is unbeatable. The kicker: when Ditka kneels before the Lord in worship, Bears fans take it as a sign he is running out the clock on a victory."
     },
     {
-      "n": 17,
+      "n": 20,
       "headline": "Meet your Trumbull candidates: Town Council member Bill Mecca makes his case for the 123rd House District — fix the school-funding formula and get tough on utility costs",
       "cat": "Local / Trumbull CT",
       "source": "Trumbull Patch",
@@ -187,39 +220,6 @@
       "image_remote": "",
       "id": "b50c0bc756b3633d22b22390a8928ba80ddb3b53",
       "summary": "Bill Mecca, a Trumbull Town Council member running for state representative in the 123rd House District against incumbent David Rutigliano, answered Patch’s candidate questionnaire ahead of the Nov. 3 election. He calls K–12 school funding the No. 1 issue in Connecticut and wants the state to put in more money and rewrite the Education Cost Sharing formula so suburban towns like Trumbull don’t lean so heavily on property taxes, and to end unfunded state mandates. On electric bills, he backs a mix of nuclear, renewables and storage, using the Millstone and Seabrook contracts, and much tougher scrutiny of utility spending before it lands in rates. As evidence he can do the job, Mecca points to his time as president of the Nichols Improvement Association, where he started the Nichols Farmers Market and an adult kickball league, and his council votes for balanced budgets since 2018, restoring the police pension, keeping the town’s top-tier bond rating, a bigger tax break for volunteer firefighters and the senior-center referendum."
-    },
-    {
-      "n": 18,
-      "headline": "Tesoro’s October newsletter: free naloxone cabinets at five Trumbull spots, the Veterans and First Responders Center on track for January, and a $243,656 special-education grant",
-      "cat": "Local / Trumbull CT",
-      "source": "Town of Trumbull",
-      "url": "https://www.trumbull-ct.gov/CivicAlerts.aspx?AID=3198",
-      "image_local": "",
-      "image_remote": "",
-      "id": "ed745b0db8a53ef3616a26b2e0bce28121ae0f93",
-      "summary": "First Selectman Vicki Tesoro’s October newsletter, posted Friday, rounds up what is happening around town ahead of the Nov. 3 election. Trumbull’s prevention partnership, TPAUD, has worked with Catalyst CT to install five self-service cabinets that hand out free naloxone nasal spray around the clock, at the police department on Edison Road, the health department on White Plains Road, both library branches and Vaughn Family Dentistry on Corporate Drive. The Veterans and First Responders Center at Kaatz Pond off Whitney Avenue is due to be finished in January and will be available for public rental, and new sidewalks are going in on Whitney Avenue between Dunellen Road and the Pequonnock River Trail, with alternating one-lane traffic. The state’s signal work on White Plains Road between Daniels Farm Road and Reservoir Avenue is still causing delays. Public Works says 32 miles of roads were paved or sealed this season, with Williams Road paving still to come. The schools are getting $243,656 from a new state special-education grant. Early voting runs Oct. 19 to Nov. 1 at the Trumbull Library on Quality Street, and loose-leaf pickup is expected to start Nov. 4."
-    },
-    {
-      "n": 19,
-      "headline": "Leak: LEGO Pokémon blind boxes are coming March 1, 2027, at $12.99 each",
-      "cat": "LEGO",
-      "source": "Game Rant",
-      "url": "https://gamerant.com/pokemon-lego-blind-boxes/",
-      "image_local": "images/story-951.jpg",
-      "image_remote": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/10/pokemon-lego-blind-bags-leak.jpg?w=1600&h=900&fit=crop",
-      "id": "0bf4fd093e4818bdb36b23ed7f300b254d140f68",
-      "summary": "LEGO’s new Pokémon line looks set to add blind boxes next spring, according to a leak from the account got.cooped reported by Game Rant. The boxes would go on sale March 1, 2027, at $12.99 each. LEGO hasn’t announced them, and it isn’t clear what will be inside. Fans are guessing either small brick-built Pokémon, possibly compatible with LEGO’s Smart Brick, or minifigures of gym leaders and trainers, which only a handful of characters have gotten so far. The Pokémon Company moved from Mega Bloks to LEGO at the start of 2026 and several sets have come out since. With more than 1,000 Pokémon and the next generation of games, Pokémon Winds and Waves, due in 2027, blind boxes would be a cheap way to cover characters that might not justify a bigger set."
-    },
-    {
-      "n": 20,
-      "headline": "2027 Jeep Grand Cherokee build-and-price is live: Laredo from $41,515, a bigger standard screen, new colors, and Trailhawk and Overland coming",
-      "cat": "Jeep",
-      "source": "Mopar Insiders",
-      "url": "https://moparinsiders.com/2027-jeep-grand-cherokee-build-price-goes-live/",
-      "image_local": "images/story-943.jpg",
-      "image_remote": "https://moparinsiders.com/wp-content/uploads/2026/10/Image-60-scaled.jpeg",
-      "id": "29e311dd09d11444acd9c4b0c3af8e60f60650a5",
-      "summary": "Jeep has quietly opened its online Build & Price configurator for the 2027 Grand Cherokee and three-row Grand Cherokee L, and orders are open with dealer arrivals expected in late 2026. Laredo and Laredo X keep the 3.6-liter Pentastar V6, while Laredo Altitude and up use the turbocharged 2.0-liter Hurricane4 four-cylinder. Base trims get a welcome upgrade to a standard 10.1-inch Uconnect 5 screen (up from 8.4 inches) and redesigned 18-inch wheels; Limited adds 20-inch wheels, wireless charging and rain-sensing wipers. Towing tops out at 6,200 pounds. Trailhawk and Overland return later, and a new cheaper off-road Laredo Upland is coming. High Gloss Black and Sting Gray are new colors, with Ghost, Red Hot, Olive Green and others due later. Pricing, including $1,995 destination: Laredo two-row from $41,515, Trailhawk from $54,995 and Overland from $57,895."
     }
   ]
 }
