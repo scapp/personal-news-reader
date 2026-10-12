@@ -1080,7 +1080,12 @@
     "e9ea78232fc288b9aeb329b817d397a492750c80",
     "7f203fac4ffb62132ed4a6d3f2eb7b24bb80274b",
     "6ee0d19681781258d84f16a7ca7bf557e8ab0537",
-    "e04c0115927b0cd2d7ab3f781bf3bb05193f221b"
+    "e04c0115927b0cd2d7ab3f781bf3bb05193f221b",
+    "487ef3fa8b4601048e347140f11f8e10bca6cca9",
+    "12ec90d102aa30955ba5ce6f5139ed6fc3039889",
+    "4f31cef541d533a6cf85914b3870de4dceef02c0",
+    "6d9a3d0db75b27bb5024cf32f0bc0495941b3f09",
+    "989eead54749f3cb5afaf9344e719f9e779bfd7e"
   ],
   "stories": {
     "0c2ac7a5e342411678296315c4c59043b1f067cc": {
@@ -13248,7 +13253,57 @@
       "image_remote": "https://electrek.co/wp-content/uploads/sites/3/2026/10/cl26-021-302-format-16-9_31bdd1.jpg?quality=82&strip=all&resize=1200,628",
       "image_local": "images/story-982.jpg",
       "id": "e04c0115927b0cd2d7ab3f781bf3bb05193f221b"
+    },
+    "487ef3fa8b4601048e347140f11f8e10bca6cca9": {
+      "headline": "Federal judge orders the taxpayer-funded pro-Trump TV ads off the air immediately, including spots set to run Sunday night",
+      "cat": "Politics",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/politics/trump-administration/federal-judge-orders-trump-tv-ads-funded-taxpayers-air-immediately-rcna602879",
+      "summary": "U.S. District Judge Jennifer Rochon of the Southern District of New York on Sunday ordered the Trump administration to stop airing the government-funded TV ads that portray President Trump favorably, effective immediately. The suit was brought by the watchdog group Common Cause, Robert Hunter, a Democrat running for the Alabama state House, and a New York labor union and its PAC; the DNC filed one of several similar complaints. The administration had told the court Saturday that the Department of Homeland Security, through a vendor, had bought ads only through Sunday, but Rochon said that didn’t make the case moot. She ordered the administration to “cancel or cause to be cancelled” any remaining spots, including those scheduled for Sunday night, and barred it from using DHS money to make, place or air the challenged ads. She found the plaintiffs likely to win on the merits. One of the ads was nearly identical to a 2024 Trump campaign spot. Trump said last week that his super PAC MAGA Inc. would help fund the ads going forward; the White House, DHS, OMB and MAGA Inc. did not immediately comment.",
+      "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261011-Trump-aa-747-87fee2.jpg",
+      "image_local": "images/story-983.jpg",
+      "id": "487ef3fa8b4601048e347140f11f8e10bca6cca9"
+    },
+    "12ec90d102aa30955ba5ce6f5139ed6fc3039889": {
+      "headline": "A long-lost 1970 Black Sabbath live session, thought destroyed in a fire, surfaces in full broadcast-quality audio",
+      "cat": "Heavy metal",
+      "source": "Louder",
+      "url": "https://www.loudersound.com/bands-artists/black-sabbath-the-lost-1970-avro-sessions",
+      "summary": "Three months after their debut album came out, Black Sabbath went to Hilversum in the Netherlands to tape a session for the short-lived Dutch TV show Doebidoe, the forerunner of Top Pop. They played a 40-minute set of blistering, often stretched-out songs from the first record, including a version of “The Wizard” with different lyrics and a rare live “Warning,” and mimed “Evil Woman” for the broadcast. Broadcaster AVRO had said the tapes were destroyed in a fire, and until now the only proof the session survived was a silent 20-second clip of “N.I.B.” that turned up on YouTube in 2013. The full audio has now appeared on an unofficial live album, The Lost 1970 Avro Sessions, from a mysterious German label called Avertigro, a nod to Vertigo and AVRO, pressed in a limited run of 666 copies. The recording is also on YouTube and the Internet Archive, and Louder says it is good enough to deserve a proper release. Three days after the Dutch taping, Sabbath played “Black Sabbath,” “Iron Man” and “N.I.B.” on Germany’s Beat-Club.",
+      "image_remote": "https://cdn.mos.cms.futurecdn.net/SGbxCYziaGLshCbSGifsQN-1280-80.jpg",
+      "image_local": "images/story-984.jpg",
+      "id": "12ec90d102aa30955ba5ce6f5139ed6fc3039889"
+    },
+    "4f31cef541d533a6cf85914b3870de4dceef02c0": {
+      "headline": "Suspect in the Eden Prairie, Minn., homecoming-game shooting is out on bond two days after his arrest, drawing fire from Trump’s team",
+      "cat": "Crime / courts",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/us/minnesota-homecoming-shooting-suspect-bond-gunfire-sends-football-fans-fleeing",
+      "summary": "Adam Abdihakeem Adam, 18, posted bond and walked out of the Hennepin County jail at 7:04 p.m. Saturday, two days after his arrest, according to jail records reviewed by Fox News Digital. Police say he shot two teenagers, ages 18 and 17, outside Eden Prairie High School during its Oct. 2 homecoming football game, forcing the stadium to be evacuated. Charging documents cited by FOX 9 say two cars pulled into a parking lot, a fight involving about 10 people broke out, and the driver of one car got out, opened fire and fled; investigators say Adam was driving his brother’s car and that they tracked his phone before, during and after the shooting, after which he ditched it and changed his number. Records show a $100,000 bail or bond option with no conditions. He faces two felony counts of second-degree assault with a dangerous weapon and one count of second-degree riot while armed, and is due back in court Monday afternoon. Trump’s Rapid Response 47 account blasted the release, saying a “Radical Left judge immediately granted him a no-condition bail,” and pointed to police statements linking the shooting to rival Somali gangs.",
+      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/eden-prairie-homecoming-shooting-police-adam-mugshot.png",
+      "image_local": "images/story-985.jpg",
+      "id": "4f31cef541d533a6cf85914b3870de4dceef02c0"
+    },
+    "6d9a3d0db75b27bb5024cf32f0bc0495941b3f09": {
+      "headline": "Tropical Storm Rachel swamps Southern California beach homes, then soaks Las Vegas and Utah — and forecasters say it’s a preview of a record El Niño",
+      "cat": "U.S. / weather",
+      "source": "NPR (AP)",
+      "url": "https://www.npr.org/2026/10/11/nx-s1-5998124/tropical-storm-rachel-downgraded-as-high-winds-and-rain-turn-inward",
+      "summary": "Rachel was downgraded to a post-tropical storm on Sunday after a weekend of flooding and damage in Southern California, and its remnants moved inland across the desert Southwest. Oceanfront homes in Long Beach and Newport Beach were partly submerged when heavy surf broke through sand berms built to hold the water back, and flood warnings stayed up along much of the California coast from San Diego to the San Francisco Bay Area. Rockslides briefly blocked roads as the storm moved northeast, Las Vegas set a daily rainfall record Sunday, and the National Weather Service issued a flood watch for much of Utah, including Salt Lake City, with heavy rain starting Sunday evening. Flash flooding and high surf remain a risk. Forecasters warn Rachel may be just a taste of what’s coming: they expect the strongest El Niño on record this winter, with likely record rainfall, big surf and mudslides into next year. California, under an emergency proclamation from Gov. Gavin Newsom last month, is pre-positioning more than 4 million sandbags, 50,000 feet of portable flood barriers and 400,000 tons of rock for levee repairs.",
+      "image_remote": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8192x4608+0+193/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7f%2Fd1%2F5d7cdecb4c40a6daa08394941431%2Fap26284751363826.jpg",
+      "image_local": "images/story-986.jpg",
+      "id": "6d9a3d0db75b27bb5024cf32f0bc0495941b3f09"
+    },
+    "989eead54749f3cb5afaf9344e719f9e779bfd7e": {
+      "headline": "Study: 19 of 21 new cars tested sent data to third parties, and GM’s apps passed VINs to Meta, Google, Snap and Pinterest",
+      "cat": "Cars / tech",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2281212/new-car-sharing-data-third-party-companies-study-northeastern-university/",
+      "summary": "A Northeastern University study tested 21 late-model cars and 30 automaker apps from Consumer Reports’ fleet between October 2024 and August 2025 and found that 19 of the cars sent data to at least one third-party company over Wi-Fi, while 28 of the 30 apps contacted at least one advertising or analytics firm. Seven apps passed identifiers such as VINs, email addresses and precise locations to ad and analytics companies. Four of them were GM’s (myCadillac, myChevrolet, myBuick and myGMC), each sending VINs to 10 companies including Pinterest, Snap, Yahoo, Meta, Google, Microsoft, Adobe and the data broker Acxiom. HondaLink sent VINs and location to Amplitude, and the Lincoln and MyNISSAN apps rounded out the list. Unlike a phone’s ad ID, a VIN can’t be reset, so pairing it with an email lets advertisers follow an owner across apps and sites. Ten of the cars contacted no tracking domains by themselves, but their apps did; the Tesla Model 3 was the reverse, reaching 22 ad and tracking companies from the car itself. The testing predates the FTC’s January order against GM over driver data, and GM says it shares data only with contractually restricted service providers.",
+      "image_remote": "",
+      "image_local": "",
+      "id": "989eead54749f3cb5afaf9344e719f9e779bfd7e"
     }
   },
-  "updated": "Sunday, October 11, 2026 · 6:06 PM ET"
+  "updated": "Sunday, October 11, 2026 · 10:04 PM ET"
 }
