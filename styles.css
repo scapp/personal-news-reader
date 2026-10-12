@@ -410,38 +410,25 @@ body {
 .site-footer p { margin: 0 0 0.35rem; }
 .site-footer a { color: var(--blue); }
 
-.undo-bar {
+.undo-toast {
   position: fixed;
-  left: 50%;
-  bottom: 0.85rem;
-  transform: translateX(-50%);
+  right: max(0.75rem, env(safe-area-inset-right, 0px));
+  bottom: calc(env(safe-area-inset-bottom, 0px) + 0.75rem);
   z-index: 20;
-  width: min(520px, calc(100% - 1.25rem));
-  display: flex;
+  display: inline-flex;
   align-items: center;
-  gap: 0.55rem;
-  padding: 0.7rem 0.75rem;
-  border-radius: 12px;
-  background: #0f172a;
-  color: #f8fafc;
-  box-shadow: 0 10px 28px rgba(0, 0, 0, 0.28);
-}
-.undo-bar p {
-  margin: 0;
-  flex: 1 1 auto;
-  font-size: 0.95rem;
-  line-height: 1.35;
-}
-.undo-bar button {
-  border: 0;
+  gap: 0.6rem;
+  padding: 0.35rem 0.8rem;
   border-radius: 999px;
-  padding: 0.4rem 0.75rem;
-  font-weight: 700;
-  cursor: pointer;
-  font-size: 0.9rem;
+  background: rgba(15, 23, 42, 0.92);
+  color: #f8fafc;
+  font-size: 0.85rem;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.25);
+  pointer-events: none;
+  transition: opacity 0.2s ease;
 }
-#undo-remove { background: #fff; color: #0f172a; }
-#undo-dismiss { background: transparent; color: #e2e8f0; border: 1px solid #475569; }
+.undo-toast[hidden] { display: none; }
+.undo-toast a { color: #93c5fd; font-weight: 700; text-decoration: none; pointer-events: auto; }
 
 @media (min-width: 768px) {
   .feed {
@@ -680,8 +667,14 @@ body {
     font-size: 0.95rem;
     cursor: pointer;
   }
-  body.deck-mode .undo-bar {
-    bottom: calc(env(safe-area-inset-bottom, 0px) + 3.6rem);
+  /* Sits over the deck bar's position counter, between Remove and Save: never over the card. */
+  body.deck-mode .undo-toast {
+    right: auto;
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: var(--undo-toast-bottom, calc(env(safe-area-inset-bottom, 0px) + 0.75rem));
+    max-width: 44vw;
+    white-space: nowrap;
   }
 }
 @media (max-width: 599px) and (prefers-color-scheme: dark) {

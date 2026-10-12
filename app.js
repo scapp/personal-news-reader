@@ -25,10 +25,15 @@
   const refreshStatus = document.getElementById('refresh-status');
   const themeToggle = document.getElementById('theme-toggle');
   const savedToggle = document.getElementById('saved-toggle');
-  const undoBar = document.getElementById('undo-bar');
+  const undoToast = document.getElementById('undo-toast');
   const undoText = document.getElementById('undo-text');
-  const undoBtn = document.getElementById('undo-remove');
-  const undoDismiss = document.getElementById('undo-dismiss');
+  const undoLink = document.getElementById('undo-link');
+  const MOTION_PERM_KEY = 'pnr_motion_perm'; // 'granted' | 'denied'
+  const SHAKE_THRESHOLD = 25; // m/s^2 total accel magnitude (gravity ≈ 9.8)
+  const SHAKE_HITS = 3; // spikes needed within SHAKE_WINDOW_MS
+  const SHAKE_WINDOW_MS = 800;
+  const SHAKE_DEBOUNCE_MS = 1500;
+  let undoToastTimer = null;
   const deckEl = document.getElementById('deck');
   // Swipe-card deck is for phones only (iPhone). iPad mini / iPad portrait (744px+) keep the grid.
   const PHONE_QUERY = '(max-width: 599px)';
@@ -285,10 +290,12 @@
 
   function markRead(id) {
     const list = loadList(READ_KEY);
+    if (list.includes(id)) return;
     list.push(id);
     saveList(READ_KEY, list);
     render();
     schedulePush();
+    showUndo(id, { kind: 'read', id });
   }
 
   function toggleSaved(id) {
@@ -302,21 +309,110 @@
     schedulePush();
   }
 
+  // Undo is single-level (last remove / save&read). No always-on bar:
+  // shake, Cmd/Ctrl+Z, or the brief toast shown after a remove.
+  function positionToast() {
+    if (!undoToast) return;
+    const bar = deckMode() && deckEl ? deckEl.querySelector('.deck-bar') : null;
+    if (bar) {
+      const r = bar.getBoundingClientRect();
+      undoToast.style.setProperty('--undo-toast-bottom', Math.max(4, window.innerHeight - r.bottom + (r.height - 30) / 2) + 'px');
+    } else undoToast.style.removeProperty('--undo-toast-bottom');
+  }
+
+  function showToast(text) {
+    if (!undoToast) return;
+    if (undoText) undoText.textContent = text;
+    if (undoLink) undoLink.hidden = false;
+    positionToast();
+    undoToast.hidden = false;
+    clearTimeout(undoToastTimer);
+    undoToastTimer = setTimeout(hideToast, 4000);
+  }
+
+  function hideToast() {
+    clearTimeout(undoToastTimer);
+    undoToastTimer = null;
+    if (undoToast) undoToast.hidden = true;
+  }
+
   function showUndo(id, action) {
     undoRemoveId = id;
     undoAction = action || { kind: 'remove', id };
-    const story = (catalog.length ? catalog : stories).find((s) => s && s.id === id);
-    const title = story && story.headline ? String(story.headline) : 'Story';
-    const short = title.length > 90 ? title.slice(0, 87) + '…' : title;
-    const verb = undoAction.kind === 'save' ? 'Saved & read: ' : 'Removed: ';
-    if (undoText) undoText.textContent = verb + short;
-    if (undoBar) undoBar.hidden = false;
+    if (undoAction.kind === 'remove') showToast('Removed');
+    else hideToast();
   }
 
   function hideUndo() {
     undoRemoveId = null;
     undoAction = null;
-    if (undoBar) undoBar.hidden = true;
+    hideToast();
+  }
+
+  function flashUndone() {
+    showToast('Undone');
+    if (undoLink) undoLink.hidden = true;
+    clearTimeout(undoToastTimer);
+    undoToastTimer = setTimeout(hideToast, 1500);
+  }
+
+  // ---- shake to undo ----
+  let shakeHits = [];
+  let lastShakeAt = 0;
+  let motionListening = false;
+  function onDeviceMotion(e) {
+    const a = e.accelerationIncludingGravity || e.acceleration;
+    if (!a) return;
+    const mag = Math.sqrt((a.x || 0) ** 2 + (a.y || 0) ** 2 + (a.z || 0) ** 2);
+    const now = Date.now();
+    if (mag < SHAKE_THRESHOLD) return;
+    shakeHits = shakeHits.filter((t) => now - t < SHAKE_WINDOW_MS);
+    shakeHits.push(now);
+    if (shakeHits.length < SHAKE_HITS || now - lastShakeAt < SHAKE_DEBOUNCE_MS) return;
+    shakeHits = [];
+    lastShakeAt = now;
+    if (!app.hidden && undoRemoveId) {
+      if (navigator.vibrate) try { navigator.vibrate(30); } catch (_) {}
+      undoRemove();
+      flashUndone();
+    }
+  }
+  function startMotion() {
+    if (motionListening || typeof window.DeviceMotionEvent === 'undefined') return;
+    motionListening = true;
+    window.addEventListener('devicemotion', onDeviceMotion);
+  }
+  function getMotionPerm() {
+    try { return localStorage.getItem(MOTION_PERM_KEY); } catch (_) { return null; }
+  }
+  function setupShake() {
+    if (typeof window.DeviceMotionEvent === 'undefined') return;
+    if (typeof DeviceMotionEvent.requestPermission !== 'function') { startMotion(); return; }
+    // iOS/iPadOS: must ask from a user gesture. Ask once on first tap/swipe.
+    const stored = getMotionPerm();
+    if (stored === 'denied') return;
+    if (stored === 'granted') {
+      // Permission persists per origin in Safari, but re-confirm silently on next gesture.
+      startMotion();
+    }
+    const ask = () => {
+      document.removeEventListener('pointerup', ask, true);
+      document.removeEventListener('touchend', ask, true);
+      let p;
+      try { p = DeviceMotionEvent.requestPermission(); } catch (_) { return; }
+      Promise.resolve(p).then((res) => {
+        if (res === 'granted' || res === 'denied') {
+          try { localStorage.setItem(MOTION_PERM_KEY, res); } catch (_) {}
+        }
+        if (res === 'granted') startMotion();
+        else if (res !== 'denied') arm(); // undecided: ask again on a later tap
+      }).catch(() => {});
+    };
+    const arm = () => {
+      document.addEventListener('pointerup', ask, true);
+      document.addEventListener('touchend', ask, true);
+    };
+    arm();
   }
 
   function undoRemove() {
@@ -326,6 +422,8 @@
     if (action.kind === 'save') {
       if (!action.wasSaved) saveList(SAVED_KEY, loadList(SAVED_KEY).filter((x) => x !== id));
       if (!action.wasRead) saveList(READ_KEY, loadList(READ_KEY).filter((x) => x !== id));
+    } else if (action.kind === 'read') {
+      saveList(READ_KEY, loadList(READ_KEY).filter((x) => x !== id));
     } else {
       saveList(REMOVED_KEY, loadList(REMOVED_KEY).filter((x) => x !== id));
     }
@@ -913,8 +1011,17 @@
         render();
       });
     }
-    if (undoBtn) undoBtn.addEventListener('click', undoRemove);
-    if (undoDismiss) undoDismiss.addEventListener('click', hideUndo);
+    if (undoLink) undoLink.addEventListener('click', (e) => { e.preventDefault(); undoRemove(); });
+    document.addEventListener('keydown', (e) => {
+      if (app.hidden || e.key.toLowerCase() !== 'z' || !(e.metaKey || e.ctrlKey) || e.shiftKey || e.altKey) return;
+      if (e.target && (/^(INPUT|TEXTAREA|SELECT)$/.test(e.target.tagName) || e.target.isContentEditable)) return;
+      if (!undoRemoveId) return;
+      e.preventDefault();
+      undoRemove();
+      flashUndone();
+    });
+    window.addEventListener('resize', () => { if (undoToast && !undoToast.hidden) positionToast(); });
+    setupShake();
     document.addEventListener('visibilitychange', () => {
       if (document.visibilityState === 'visible' && !app.hidden) {
         if (Date.now() - lastFetchedAt > 30 * 1000) refreshStories('auto');
