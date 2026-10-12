@@ -1,8 +1,85 @@
 {
-  "updated": "Monday, October 12, 2026 · 7:14 AM ET",
+  "updated": "Monday, October 12, 2026 · 12:05 PM ET",
   "stories": [
     {
       "n": 1,
+      "headline": "Federal agents raid Rep. Ilhan Omar’s D.C. home in a criminal probe of the immigration paperwork her father filed when she was a child",
+      "cat": "Politics",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/ilhan-omars-home-dc-searched-hsi-pre-dawn-raid",
+      "image_local": "images/story-992.jpg",
+      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/hsi-raid-omar-split.jpg",
+      "id": "8c6967ab5e9cf6ee00920ba426c7541d3c6f3b0e",
+      "summary": "Agents with Homeland Security Investigations, the criminal investigative arm of DHS, searched the Washington, D.C., home of Rep. Ilhan Omar, D-Minn., early Monday morning. Fox News Digital, which first reported the raid, says the operation began around 6 a.m., with HSI and DHS leading it and the Justice Department involved, and that agents in HSI jackets were seen outside the house. Sources told Fox and CBS News the case centers on the Somali-born congresswoman’s immigration paperwork, filled out by her late father when she was a child; HSI handles federal crimes such as immigration document fraud, identity fraud and benefit fraud. A DOJ spokesperson said HSI “executed a judicially authorized search warrant secured by the Department of Justice” as “part of an ongoing federal investigation.” Omar’s office did not respond to requests for comment, and the White House and DHS declined to comment. Border czar Tom Homan said in mid-September that Omar was the subject of an ongoing criminal investigation; at the time she said no one had contacted her about one. Omar has also drawn scrutiny over her financial disclosures, which went from reporting $6 million to $30 million in her husband’s assets in 2024 to a maximum of $125,000 in shared assets in 2025."
+    },
+    {
+      "n": 2,
+      "headline": "Apple reportedly raises iPhone Duo orders 30% ahead of Friday’s pre-orders, pushing its 2026 target toward 10 million",
+      "cat": "Apple",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/10/12/apple-has-reportedly-increased-its-iphone-duo-orders-by-30/",
+      "image_local": "images/story-993.jpg",
+      "image_remote": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-night-sky-front-back.jpg?quality=82&strip=all&resize=1200,628",
+      "id": "ad82b9836200f079deb3914969b87adaa95d5b37",
+      "summary": "Apple is expecting much stronger demand for the foldable iPhone Duo than it first planned, according to a report from China’s Securities Times. Supply-chain sources told the paper Apple has raised its iPhone Duo orders by 30%; total supply for the rest of 2026 still doesn’t exceed 10 million units, but against earlier estimates of 6 to 7 million, 9to5Mac says the new target is likely close to 10 million. Pre-orders open this Friday, Oct. 16, and Apple’s “get ready” step for faster checkout opens later today. The same sources say iPhone 18 Pro Max orders rose 10% to 15% while iPhone 18 Pro orders were cut by the same amount, leaving total iPhone 18 Pro-line targets unchanged, which contradicts a recent Nikkei Asia report of cuts."
+    },
+    {
+      "n": 3,
+      "headline": "Milford police identify three suspects in weeks of attacks on the homeless camp behind Lowe’s: fireworks, thrown stones and swastikas",
+      "cat": "Local / Connecticut",
+      "source": "Patch (Milford)",
+      "url": "https://patch.com/connecticut/milford/nearly-daily-violent-attacks-target-homeless-encampment-milford",
+      "image_local": "",
+      "image_remote": "",
+      "id": "d4fe0553ba18e9257ec09b4289e2c7a0551e866e",
+      "summary": "Milford police say they have identified suspects in a string of attacks on the homeless encampment behind the Lowe’s store at 311 Old Gate Lane, after the Beth-El Shelter called for “immediate protective measures” over what it described as “nearly daily violent attacks and hate speech” since the end of September. The shelter says fireworks thrown into the camp started fires that residents had to put out, that the attacks have grown more dangerous over the past week, and that shelter employees have been hurt; swastikas were also spray-painted on trees. Police Chief Keith Mello said Monday that detectives are assigned to the case and patrols near the camp have been increased around the clock. Police confirmed evidence of fireworks thrown at or near the encampment and of the swastikas, but said there do not appear to be physical injuries to encampment residents. A license plate reader on Old Gate Lane identified one suspect and digital evidence led to two more. Police count at least five separate incidents, which may or may not all be linked to those suspects. Charges, including whether a hate crime was committed, will be decided when the investigation is complete; a hate-crimes notification has been filed with the Connecticut State Police. Mayor Rich Smith condemned the attacks on Friday."
+    },
+    {
+      "n": 4,
+      "headline": "Two Renoirs stolen from a French museum turn up hidden behind a cinder block wall, torn and in need of restoration",
+      "cat": "World / crime",
+      "source": "CBS News (AP)",
+      "url": "https://www.cbsnews.com/news/stolen-renoir-paintings-found-behind-wall-france/",
+      "image_local": "images/story-994.jpg",
+      "image_remote": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/12/9047cb38-ed29-428a-aa3a-9991728632eb/thumbnail/1200x630/f1134f093774c326b67141ebeb23935d/ap26285467970644.jpg",
+      "id": "4143f414fb5be978d5cf37d45bc1977c5c0cfea7",
+      "summary": "Two paintings by Pierre-Auguste Renoir stolen in September from the museum in Cagnes-sur-Mer in southern France were found hidden behind a wall and have slight damage, prosecutors said Monday. The thieves escaped with two works and abandoned two others as they fled; all four were valued at about $10 million. Marseille prosecutor Nicolas Bessone said “Portrait of Madame Colonna Romano” and “Young Woman at the Well” were recovered last Thursday in a search of a home in Clermont-l’Hérault, a day after six people, including a woman, were arrested. “The paintings were hidden behind a solid cinder block wall. They were completely undetectable,” he said; interrogation got the receiver of the stolen goods to admit he had them. A 29-year-old man seen as the main suspect was charged over the weekend after DNA linked him to the theft. The portrait’s canvas has a tear on the dress and the other painting’s frame was damaged, so both will need restoration. The case is the latest in a run of French museum heists, including last year’s daylight theft of about $100 million in crown jewels from the Louvre, which have raised questions about museum security."
+    },
+    {
+      "n": 5,
+      "headline": "NHTSA weighs a probe into claims Tesla Robotaxis speed through school zones, and puts the driverless fleet at about 1,000 cars",
+      "cat": "Tesla",
+      "source": "Electrek",
+      "url": "https://electrek.co/2026/10/12/nhtsa-tesla-robotaxi-school-zone-speeding-petition/",
+      "image_local": "images/story-995.jpg",
+      "image_remote": "https://electrek.co/wp-content/uploads/sites/3/2026/02/Tesla-Cybercab-hero.jpg?quality=82&strip=all&resize=1200,628",
+      "id": "771f787eeef0e0b427c3c92d51e61af88c245449",
+      "summary": "A new defect petition accuses Tesla’s Robotaxis of speeding through active school zones, and the National Highway Traffic Safety Administration has opened a file to decide whether to investigate. The Office of Defects Investigation opened the petition review, DP26010, on Friday, Oct. 9; it covers model-year 2026 Robotaxis, Model Y and Cybercab, running Tesla’s Automated Driving System, which the agency estimates at about 1,000 vehicles. Electrek says that is the first federal figure for the size of the fleet, which Tesla doesn’t disclose, though NHTSA may be counting cars certified with the Texas DMV rather than those in active service. The evidence is thin so far: three social media videos and four incidents in NHTSA’s own tally, with no crashes, injuries or deaths. NHTSA has 120 days from the Sept. 23 filing, to about Jan. 21, 2027, to grant or deny it; a grant would open a formal defect investigation that could end in a recall. It is the third federal action aimed at Tesla’s driverless fleet in about five weeks, after an audit query and a Special Order requiring Tesla to show under oath that the Cybercab, which has no pedals or steering wheel, meets federal safety standards."
+    },
+    {
+      "n": 6,
+      "headline": "Gene Simmons says he has Trump’s and Elon Musk’s numbers in his phone, and the president’s team texts him every week or two",
+      "cat": "Rock / music",
+      "source": "Blabbermouth",
+      "url": "https://blabbermouth.net/news/gene-simmons-says-he-has-donald-trumps-and-elon-musks-phone-numbers-in-his-contact-list-im-kind-of-a-big-deal",
+      "image_local": "images/story-996.jpg",
+      "image_remote": "https://assets.blabbermouth.net/media/genesimmonsbloomdec2025_638.jpg",
+      "id": "61979a5fe6af23a341f69ca26f1b75f5346b758b",
+      "summary": "Asked on the Hollywood Raw podcast to name the most famous person in his phone’s contacts, KISS bassist Gene Simmons said: “Maybe not the most famous person, although he could be, but certainly the most impressive person. I’ve got Elon’s number… I’ve got the president’s number and stuff. As a matter of fact, he sends me, through his assistant, weekly or bi-weekly sort of texts about what’s going on… I’m certain I’m not the only one.” Without giving his own opinion of Trump, Simmons added that the president “was duly elected by more than half the country,” and said, “No matter what you think of the person who’s actually got the title, I respect the presidency. Because it’s the will of the people.” Last month he told Detroit’s WRIF that the most impressive people to him are Warren Buffett, Musk and Jeff Bezos, saying Musk is “planning, for goodness sakes, cities on Mars while the rest of us are complaining about the traffic jam.” Simmons appeared with Trump on the first season of Celebrity Apprentice in 2008 and called him “good for the political system” in 2016."
+    },
+    {
+      "n": 7,
+      "headline": "A 1923 Leica 0-Series prototype, serial No. 103, sells for €4.25 million (about $4.75 million) after a 20-minute bidding war",
+      "cat": "Cameras",
+      "source": "PetaPixel",
+      "url": "https://petapixel.com/2026/10/12/the-third-leica-0-series-prototype-camera-ever-made-just-sold-for-nearly-5-million/",
+      "image_local": "images/story-997.jpg",
+      "image_remote": "https://petapixel.com/assets/uploads/2026/10/wetzlar-camera-auctions-8-leica-0-series-featured.jpg",
+      "id": "a894fa5d61d1240f6ef59deb9037f092e8bd43ca",
+      "summary": "A Leica 0-Series camera from 1923 sold at the eighth Wetzlar Camera Auctions on Saturday for €4,250,000, about $4.75 million, more than twice its €2 million estimate after a 20-minute bidding war, making it one of the most expensive cameras ever sold at auction. Serial number 103 is the third 0-Series camera made; Leica’s first prototype was No. 101. The 0-Series cameras were hand-built prototypes leading up to the Leica I, the company’s first commercially sold 35mm camera, and only 16 are known to survive, all in museums and private collections. “The Leica 0-Series represents the very beginning of Leica’s remarkable history and is regarded as the holy grail of Leica collecting,” said auction co-owner Lars Netopil. Other lots among the 259 included a handmade Leica Model A prototype at €225,000, a gold-plated 1931 Leica I Model C “Luxus” at €375,000, a 1965 Leica M4 prototype also at €375,000, and a square-format Leitz 24x24mm prototype from the late 1940s at €137,500."
+    },
+    {
+      "n": 8,
       "headline": "NYC first lady Rama Duwaji animated a tribute portrait of her ‘inspiration,’ a Palestinian artist who cheered Oct. 7, praised Hamas founders and called Anne Frank’s diary a forgery",
       "cat": "Politics",
       "source": "Washington Free Beacon",
@@ -13,7 +90,7 @@
       "summary": "New York City first lady Rama Duwaji, the wife of Mayor Zohran Mamdani, posted a video in April 2024 in which she animated a portrait of Palestinian painter Sliman Mansour and said he “inspired the work that I do,” calling him “an artist of the Intifada” and noting proudly that he had been jailed twice. A Washington Free Beacon review of Mansour’s work, writings and social media found a decades-long record of cheering on violence against Israelis. The day after Hamas’s Oct. 7 massacre he posted his painting “Rising” of a Palestinian fighter with a gun; days later he shared an image of a founder of the PFLP, a U.S.-designated terrorist group, telling followers “there is no end to our struggle”; and in 2017 he called Hamas founders Ahmed Yassin and Abdul Aziz al-Rantisi “great leaders.” In 2021, Yahya Sinwar, the future Oct. 7 mastermind, held a Gaza press conference thanking Iran for money and weapons in front of a banner reworked from one of Mansour’s best-known paintings, and Mansour said he was pleased. The Free Beacon also says Mansour claimed The Diary of Anne Frank was a forgery and posted Hitler’s paintings. In the video Duwaji works under a banner reading “Artists Against Apartheid: Palestine Will Be Free.” Mansour died in August."
     },
     {
-      "n": 2,
+      "n": 9,
       "headline": "James Hetfield at the Sphere: ‘Metallica is not here, like some other entertainers, to influence you with their bull****’",
       "cat": "Heavy metal",
       "source": "Louder (Metal Hammer)",
@@ -24,7 +101,7 @@
       "summary": "During Metallica’s residency show at the Sphere in Las Vegas on Saturday night, James Hetfield thanked fans who had traveled to see the band, then made clear you won’t get political speeches from the stage. “Unless you live in Vegas, you’ve come a long way to spend some time with Metallica. We’re grateful for that — your travels, the money you spend, the time it took,” he said in footage posted to social media. “And I just gotta say, Metallica is not here, like some other entertainers, to influence you with their bullshit, OK? … We’re here to forget about all the outside shit.” Metal Hammer notes the remark comes weeks after rapper Macklemore was dropped from Ed Sheeran’s stadium tour over an onstage speech about Gaza. Metallica have written political songs, such as “…And Justice for All,” but the band has largely stayed out of politics. Hetfield told Chile’s La Tercera in 2017, “I hate politics… What’s important to me is connecting people with music. Politics, religion… they separate people,” and Lars Ulrich has said the two have never sat down to discuss their political views in 35 years together."
     },
     {
-      "n": 3,
+      "n": 10,
       "headline": "North Korea fires multiple ballistic missiles toward its eastern waters, extending a streak of weapons tests as Kim keeps rebuffing Trump",
       "cat": "World",
       "source": "CBS News (AP)",
@@ -35,7 +112,7 @@
       "summary": "North Korea fired several ballistic missiles toward its eastern waters on Monday, South Korea’s military said, the latest in a run of weapons demonstrations. South Korea’s Joint Chiefs of Staff said the missiles were launched from the area around Pyongyang, where the North has used its airport as a major launch site, but did not immediately say how many were fired or how far they flew; Japan’s Defense Ministry said it detected at least two, which landed outside Japan’s exclusive economic zone. The launch came days after South Korea flight-tested its first homegrown hypersonic weapon on Friday, and follows an Oct. 3 North Korean test of what Pyongyang called a hypersonic intermediate-range missile meant to evade defenses in South Korea and Japan. Tensions also rose after three South Korean soldiers were hurt last month by land mines near the border that the South and the U.S.-led U.N. Command say North Korea planted, which Pyongyang denies. Kim Jong Un has halted all diplomacy with Seoul, calls the South a permanent enemy, and has rebuffed President Trump’s calls to revive the talks that broke down in 2019, demanding Washington drop denuclearization as a precondition."
     },
     {
-      "n": 4,
+      "n": 11,
       "headline": "Most U.S. police drone fleets are Chinese-made DJI, and the Trump administration’s bans and tariffs are squeezing departments that rely on them",
       "cat": "Tech / police",
       "source": "NPR",
@@ -46,7 +123,7 @@
       "summary": "An estimated 6,000 U.S. law enforcement agencies now fly drones for search and rescue, crash and fire investigations and tactical calls, and the Law Enforcement Drone Association estimates 80% to 90% of them use DJI, the Chinese manufacturer. The Trump administration wants to end that dominance to build up U.S. drone makers: it has banned many new foreign-made drones from the American market and, most recently, announced tariffs of 15% to 100% on some foreign drones. NPR profiles New Jersey’s Ocean County Sheriff’s Office, whose fleet of 25 drones is entirely DJI and is paid for with asset-forfeiture money and the operating budget. Its drone chief, Kevin Fennessy, recalls flying a small drone through a shot-out window into a house where a murder suspect had fired 41 times at officers, letting SWAT clear it without anyone getting hurt; in July the department’s drones dropped flotation devices to two struggling swimmers. LEDA head Jon Beal says the group supports a stronger American drone industry but warns that cutting off Chinese drones will “cancel out perfectly viable drone programs,” and critics say U.S. makers can’t yet match DJI’s quality and price."
     },
     {
-      "n": 5,
+      "n": 12,
       "headline": "IKEA freight will soon ride Texas’ I-45 in Kodiak self-driving semis with nobody in the cab",
       "cat": "Tech / trucking",
       "source": "Fox News (CyberGuy)",
@@ -57,7 +134,7 @@
       "summary": "Kodiak AI plans to start hauling IKEA products between the Dallas and Houston areas later this year with no one aboard, after four years running the route with a safety observer in the cab. The driverless stretch covers 219 miles, mostly on Interstate 45 between Kodiak facilities, part of a 292-mile route from IKEA’s Baytown distribution center to its Frisco store. Founder and CEO Don Burnette told Fox News’ CyberGuy that the call to pull the driver comes from years of operating data and a formal safety case; as of the end of September, Kodiak says 96% of the claims and evidence for its long-haul safety case were materially complete, and it expects to launch driverless long-haul service by the end of 2026. The company already runs trucks with empty cabs for Atlas Energy Solutions in the Permian Basin, where 35 driverless trucks had logged more than 40,000 hours of paid operations by the end of the second quarter. The trucks have redundant braking, steering, power and computing and monitor more than 1,000 safety-critical components. “From the outside, the drive itself should look pretty boring, and that’s exactly what we want,” Burnette said."
     },
     {
-      "n": 6,
+      "n": 13,
       "headline": "Federal judge orders the taxpayer-funded pro-Trump TV ads off the air immediately, including spots set to run Sunday night",
       "cat": "Politics",
       "source": "NBC News",
@@ -68,18 +145,7 @@
       "summary": "U.S. District Judge Jennifer Rochon of the Southern District of New York on Sunday ordered the Trump administration to stop airing the government-funded TV ads that portray President Trump favorably, effective immediately. The suit was brought by the watchdog group Common Cause, Robert Hunter, a Democrat running for the Alabama state House, and a New York labor union and its PAC; the DNC filed one of several similar complaints. The administration had told the court Saturday that the Department of Homeland Security, through a vendor, had bought ads only through Sunday, but Rochon said that didn’t make the case moot. She ordered the administration to “cancel or cause to be cancelled” any remaining spots, including those scheduled for Sunday night, and barred it from using DHS money to make, place or air the challenged ads. She found the plaintiffs likely to win on the merits. One of the ads was nearly identical to a 2024 Trump campaign spot. Trump said last week that his super PAC MAGA Inc. would help fund the ads going forward; the White House, DHS, OMB and MAGA Inc. did not immediately comment."
     },
     {
-      "n": 7,
-      "headline": "A long-lost 1970 Black Sabbath live session, thought destroyed in a fire, surfaces in full broadcast-quality audio",
-      "cat": "Heavy metal",
-      "source": "Louder",
-      "url": "https://www.loudersound.com/bands-artists/black-sabbath-the-lost-1970-avro-sessions",
-      "image_local": "images/story-984.jpg",
-      "image_remote": "https://cdn.mos.cms.futurecdn.net/SGbxCYziaGLshCbSGifsQN-1280-80.jpg",
-      "id": "12ec90d102aa30955ba5ce6f5139ed6fc3039889",
-      "summary": "Three months after their debut album came out, Black Sabbath went to Hilversum in the Netherlands to tape a session for the short-lived Dutch TV show Doebidoe, the forerunner of Top Pop. They played a 40-minute set of blistering, often stretched-out songs from the first record, including a version of “The Wizard” with different lyrics and a rare live “Warning,” and mimed “Evil Woman” for the broadcast. Broadcaster AVRO had said the tapes were destroyed in a fire, and until now the only proof the session survived was a silent 20-second clip of “N.I.B.” that turned up on YouTube in 2013. The full audio has now appeared on an unofficial live album, The Lost 1970 Avro Sessions, from a mysterious German label called Avertigro, a nod to Vertigo and AVRO, pressed in a limited run of 666 copies. The recording is also on YouTube and the Internet Archive, and Louder says it is good enough to deserve a proper release. Three days after the Dutch taping, Sabbath played “Black Sabbath,” “Iron Man” and “N.I.B.” on Germany’s Beat-Club."
-    },
-    {
-      "n": 8,
+      "n": 14,
       "headline": "Suspect in the Eden Prairie, Minn., homecoming-game shooting is out on bond two days after his arrest, drawing fire from Trump’s team",
       "cat": "Crime / courts",
       "source": "Fox News",
@@ -90,29 +156,7 @@
       "summary": "Adam Abdihakeem Adam, 18, posted bond and walked out of the Hennepin County jail at 7:04 p.m. Saturday, two days after his arrest, according to jail records reviewed by Fox News Digital. Police say he shot two teenagers, ages 18 and 17, outside Eden Prairie High School during its Oct. 2 homecoming football game, forcing the stadium to be evacuated. Charging documents cited by FOX 9 say two cars pulled into a parking lot, a fight involving about 10 people broke out, and the driver of one car got out, opened fire and fled; investigators say Adam was driving his brother’s car and that they tracked his phone before, during and after the shooting, after which he ditched it and changed his number. Records show a $100,000 bail or bond option with no conditions. He faces two felony counts of second-degree assault with a dangerous weapon and one count of second-degree riot while armed, and is due back in court Monday afternoon. Trump’s Rapid Response 47 account blasted the release, saying a “Radical Left judge immediately granted him a no-condition bail,” and pointed to police statements linking the shooting to rival Somali gangs."
     },
     {
-      "n": 9,
-      "headline": "Tropical Storm Rachel swamps Southern California beach homes, then soaks Las Vegas and Utah — and forecasters say it’s a preview of a record El Niño",
-      "cat": "U.S. / weather",
-      "source": "NPR (AP)",
-      "url": "https://www.npr.org/2026/10/11/nx-s1-5998124/tropical-storm-rachel-downgraded-as-high-winds-and-rain-turn-inward",
-      "image_local": "images/story-986.jpg",
-      "image_remote": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8192x4608+0+193/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7f%2Fd1%2F5d7cdecb4c40a6daa08394941431%2Fap26284751363826.jpg",
-      "id": "6d9a3d0db75b27bb5024cf32f0bc0495941b3f09",
-      "summary": "Rachel was downgraded to a post-tropical storm on Sunday after a weekend of flooding and damage in Southern California, and its remnants moved inland across the desert Southwest. Oceanfront homes in Long Beach and Newport Beach were partly submerged when heavy surf broke through sand berms built to hold the water back, and flood warnings stayed up along much of the California coast from San Diego to the San Francisco Bay Area. Rockslides briefly blocked roads as the storm moved northeast, Las Vegas set a daily rainfall record Sunday, and the National Weather Service issued a flood watch for much of Utah, including Salt Lake City, with heavy rain starting Sunday evening. Flash flooding and high surf remain a risk. Forecasters warn Rachel may be just a taste of what’s coming: they expect the strongest El Niño on record this winter, with likely record rainfall, big surf and mudslides into next year. California, under an emergency proclamation from Gov. Gavin Newsom last month, is pre-positioning more than 4 million sandbags, 50,000 feet of portable flood barriers and 400,000 tons of rock for levee repairs."
-    },
-    {
-      "n": 10,
-      "headline": "Study: 19 of 21 new cars tested sent data to third parties, and GM’s apps passed VINs to Meta, Google, Snap and Pinterest",
-      "cat": "Cars / tech",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2281212/new-car-sharing-data-third-party-companies-study-northeastern-university/",
-      "image_local": "",
-      "image_remote": "",
-      "id": "989eead54749f3cb5afaf9344e719f9e779bfd7e",
-      "summary": "A Northeastern University study tested 21 late-model cars and 30 automaker apps from Consumer Reports’ fleet between October 2024 and August 2025 and found that 19 of the cars sent data to at least one third-party company over Wi-Fi, while 28 of the 30 apps contacted at least one advertising or analytics firm. Seven apps passed identifiers such as VINs, email addresses and precise locations to ad and analytics companies. Four of them were GM’s (myCadillac, myChevrolet, myBuick and myGMC), each sending VINs to 10 companies including Pinterest, Snap, Yahoo, Meta, Google, Microsoft, Adobe and the data broker Acxiom. HondaLink sent VINs and location to Amplitude, and the Lincoln and MyNISSAN apps rounded out the list. Unlike a phone’s ad ID, a VIN can’t be reset, so pairing it with an email lets advertisers follow an owner across apps and sites. Ten of the cars contacted no tracking domains by themselves, but their apps did; the Tesla Model 3 was the reverse, reaching 22 ad and tracking companies from the car itself. The testing predates the FTC’s January order against GM over driver data, and GM says it shares data only with contractually restricted service providers."
-    },
-    {
-      "n": 11,
+      "n": 15,
       "headline": "Category 4 Hurricane Simon slams Mexico’s Pacific coast with 140 mph winds as Puerto Vallarta braces for the worst around midnight",
       "cat": "World / weather",
       "source": "PBS NewsHour (AP)",
@@ -123,29 +167,7 @@
       "summary": "Hurricane Simon pounded Mexico’s Pacific coast as a Category 4 storm on Sunday, its eye staying just offshore while its strongest winds and rain hit the communities between the Sierra Madre and the ocean. The center was moving parallel to the coast toward the Puerto Vallarta area, where the most damaging winds and rain were expected around midnight and into Monday morning. The U.S. National Hurricane Center says it isn’t clear whether Simon will make landfall, which would let it keep its sustained 140 mph winds. Senior specialist Phillipe Pappin said Cabo Corrientes, the westernmost tip of mainland Mexico at the southern edge of the bay where Puerto Vallarta sits, is the most likely spot for a direct hit, and warned of “catastrophic wind and life-threatening storm surge.” Forecasters expect 10 to 20 inches of rain in many places and up to 30 inches in parts of Michoacán, Colima and Jalisco, raising the risk of flooding and mudslides. National Guard vehicles patrolled Puerto Vallarta as police with megaphones told joggers and dog walkers to take shelter. Jalisco suspended classes in 22 coastal towns and began evacuations, and President Claudia Sheinbaum urged people in four states to stay sheltered until officials say the danger has passed."
     },
     {
-      "n": 12,
-      "headline": "Sex Pistols singer Frank Carter has a Denver fan thrown out for objecting to a women-only mosh pit, then tells critics to ‘stay home’",
-      "cat": "Music",
-      "source": "Stereogum",
-      "url": "https://stereogum.com/2514265/frank-carter-curses-out-man-who-crashed-female-only-sex-pistols-mosh-pit/news",
-      "image_local": "images/story-981.jpg",
-      "image_remote": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/10/frank-carter.jpg",
-      "id": "6ee0d19681781258d84f16a7ca7bf557e8ab0537",
-      "summary": "At the Sex Pistols’ show at Denver’s Ogden Theatre on Friday night, frontman Frank Carter, the former Gallows singer who now fronts the band in place of John Lydon, cleared the pit before “No Feelings” and declared it ladies-only so women could mosh “without getting an elbow to the face.” A man in the crowd objected that women could already do that, and Carter tore into him from the stage in a profanity-laced exchange that has spread widely on video, then had security eject him and offered to “explain it all to you again” outside. On Saturday Carter doubled down on Instagram, writing that any man offended by a women-only pit is “part of the problem,” that the issue “isn’t up for debate,” and that by “ladies only” he means a “trans inclusionary space.” He also posted a message from someone saying he was the fan’s father, apologizing for his “idiotic son” and thanking Carter. The band makes the same women-only pit request at venues across its current U.S. tour."
-    },
-    {
-      "n": 13,
-      "headline": "Citroën brings back the 2CV as a tiny electric concept it plans to sell in 2028 for about €15,000",
-      "cat": "Cars",
-      "source": "Electrek",
-      "url": "https://electrek.co/2026/10/11/the-legendary-citroen-2cv-is-back-as-a-e15k-electric-concept-for-2028/",
-      "image_local": "images/story-982.jpg",
-      "image_remote": "https://electrek.co/wp-content/uploads/sites/3/2026/10/cl26-021-302-format-16-9_31bdd1.jpg?quality=82&strip=all&resize=1200,628",
-      "id": "e04c0115927b0cd2d7ab3f781bf3bb05193f221b",
-      "summary": "Citroën has unveiled an electric concept version of its classic 2CV ahead of this week’s Paris Motor Show and says it intends to have it on sale in 2028 for around €15,000, just under $17,000. The original “Deux Chevaux,” built until 1990, sold millions as a cheap, comfortable car with a soft suspension famously meant to cross a farm field without breaking a basket of eggs. The new one keeps the giant roll-back fabric roof and the tiny footprint (it is actually four inches shorter than the old car), and Citroën is targeting a weight of about 1,000 kg, or roughly 2,205 pounds, which is lighter than a current Mazda MX-5. The styling is boxier, with a taller hood, low wheel arches and roll-down windows instead of the old pop-outs. Citroën hasn’t released power or battery specs yet; Electrek expects it to land between the 8-horsepower Ami and the 113-horsepower C3, and the low arches hint at a city car rather than a farm-road one."
-    },
-    {
-      "n": 14,
+      "n": 16,
       "headline": "Jets beat the Browns 17-12 in the rain at MetLife as Braelon Allen scores the winner with 3:01 left after a botched Cleveland punt snap",
       "cat": "Jets football",
       "source": "Cleveland 19 News",
@@ -156,7 +178,7 @@
       "summary": "The Jets got their second win of the season Sunday, beating the 3-1 Browns 17-12 on a rainy afternoon at MetLife Stadium. Cleveland took its first lead midway through the fourth quarter on a 29-yard Deshaun Watson bomb to rookie Denzel Boston, but kicker Andre Szmyt missed the extra point, leaving it 12-10. The Browns then seemed to have the game in hand when Carson Schwesinger forced a Geno Smith fumble with 4:13 to go. Instead, a high snap sailed through punter Corey Bojorquez’s hands, Trevin Wallace recovered for the Jets in field-goal range, and Braelon Allen ran 22 yards for the go-ahead touchdown with 3:01 left. The Jets’ first-half touchdown came on a 32-yard Smith pass to Garrett Wilson, and Jason Sanders added a 54-yard field goal early in the fourth. No. 2 overall pick David Bailey had his first three-sack game in the NFL. It was a sloppy, turnover-filled day in the rain: Cleveland linebacker Quincy Williams forced three fumbles, tying a Browns record. Browns rookie receiver KC Concepcion left in the first quarter with a head injury after a high hit from Minkah Fitzpatrick and did not return."
     },
     {
-      "n": 15,
+      "n": 17,
       "headline": "Trumbull this week: last voter registration session before Nov. 3, early voting starts Oct. 19 at the library, and loose-leaf pickup begins Nov. 4",
       "cat": "Local / Trumbull CT",
       "source": "Patch Trumbull",
@@ -167,7 +189,7 @@
       "summary": "Trumbull’s registrars will hold a statewide voter registration session Friday, the last regular session before the Nov. 3 election, though same-day registration will still be available during early voting and on Election Day (questions: 203-452-5058 or 203-452-5059). Early voting runs Oct. 19 through Nov. 1 at the Trumbull Library from 10 a.m. to 6 p.m., with longer 8 a.m. to 8 p.m. hours on Oct. 27 and Oct. 29, according to the town clerk’s election warning. On Election Day, Trumbull votes at Daniels Farm, Booth Hill, Tashua, Madison Middle, Frenchtown Road, Middlebrook and Christian Heritage schools. Also this week, the Hillcrest Middle School Building Committee gets updates from its architect and construction manager and reviews invoices, and the Library System Board of Trustees elects officers and discusses the poet laureate program. Public Works says the town’s loose-leaf collection should start Nov. 4 and run until every neighborhood is done, with a daily progress map online. Residents can also ask for bagged-leaf pickup as often as they need during the program."
     },
     {
-      "n": 16,
+      "n": 18,
       "headline": "LEGO announces a Star Wars x Marvel ‘Hope Assembles’ crossover contest at NYCC, reviving the rumor of a mash-up ‘Iron Falcon’ set",
       "cat": "LEGO",
       "source": "Brick Fanatics",
@@ -178,18 +200,7 @@
       "summary": "At New York Comic Con this weekend, LEGO announced a new LEGO Ideas event, “Hope Assembles,” inviting fans to submit designs for LEGO Marvel and Star Wars crossover models that could eventually become real sets. It is named after the Star Wars/Marvel: Hope Assembles crossover comic due in early 2027. Brick Fanatics says the contest puts new weight behind a rumor from August about a set numbered 75481 called Iron Falcon, reportedly being considered as a Star Wars–Marvel crossover. The rumor looked outlandish at the time, until the crossover comic was announced the next day. The Ideas event does not confirm Iron Falcon or any official crossover sets, and the site cautions that no LEGO rumor should be treated as fact until the LEGO Group confirms it. Fans who like a mismatched Millennium Falcon can already buy 75389 The Dark Falcon while they wait."
     },
     {
-      "n": 17,
-      "headline": "Gurman: Apple’s ‘HomeView’ hub ships mid-November in four colors, while the new Apple TV 4K and HomePod mini arrive Oct. 30",
-      "cat": "Apple",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/10/11/apple-homeview-smart-home-hub-ship-next-month/",
-      "image_local": "",
-      "image_remote": "",
-      "id": "faa5f816dbcdd72f11370e4a29a44ec9d7e43566",
-      "summary": "Two days before Apple’s “Welcome home” event on Tuesday, Oct. 13, Bloomberg’s Mark Gurman reports in his Power On newsletter that the company’s new smart home hub, called HomeView, will ship around mid-November, “at least as of now,” about a month after it is unveiled. The new Apple TV 4K with an A19 chip and the new HomePod mini with an S10 chip will reach customers and stores first, on Friday, Oct. 30. HomeView is meant to be the Siri command center of an Apple home: a display driven mainly by voice, with touch support, powered by an A18 chip. It will come in two versions, a countertop model with a metal speaker base in space gray, silver, starlight and pink, and a wall-mounted model with a flat square base in space gray and silver only. Gurman says it will sound better than the new HomePod mini. It will run a limited set of Apple apps and will have no App Store. The HomeView name first surfaced in a trademark filing by a shell company that MacRumors spotted Friday."
-    },
-    {
-      "n": 18,
+      "n": 19,
       "headline": "Penguins snap their skid, beating Dallas 2-1 in a shootout behind Silovs as Kindel, Crosby and Rakell score",
       "cat": "Penguins hockey",
       "source": "PensBurgh",
@@ -198,17 +209,6 @@
       "image_remote": "https://platform.pensburgh.com/wp-content/uploads/sites/123/2026/10/gettyimages-2299069043.jpg?quality=90&strip=all&crop=0%2C10.736714417228%2C100%2C78.526571165544&w=1200",
       "id": "808a97599faa20a61f2ca9b070011c757ca21afb",
       "summary": "A night after a shootout loss at Columbus, the Penguins ground out a 2-1 shootout win over the Dallas Stars at home Saturday. It snapped an ugly skid and closed out a stretch of five games in eight days. Arturs Silovs started in goal, with Elmer Soderblom in for Ville Koivunen and Spencer Stastney replacing the injured Trevor van Riemsdyk. A Kris Letang goal in the first was wiped out on a Dallas challenge for a Hendrix Lapierre high stick. Connor Dewar broke the scoreless tie early in the third with his first of the season, a backhand off a Star in front that ended Jake Oettinger’s shutout streak of nearly 190 minutes. Tyler Seguin tied it with 29 seconds left on a deflection with Oettinger pulled. After a scoreless overtime, Ben Kindel and Sidney Crosby scored in the shootout, Wyatt Johnston kept Dallas alive, Rickard Rakell went top shelf in Round 4 and Silovs stopped Mikko Rantanen to win it. PensBurgh called it the team’s best all-around effort since the opening-night rout of the Flyers."
-    },
-    {
-      "n": 19,
-      "headline": "Tesla says its Austin Cybercab fleet grew 8x in a month to 300-plus, and names Dallas as the next city",
-      "cat": "Tesla",
-      "source": "Teslarati",
-      "url": "https://www.teslarati.com/tesla-cybercab-dallas/",
-      "image_local": "",
-      "image_remote": "",
-      "id": "b703d727666f4e84ec7ef92325d7546947c77edd",
-      "summary": "Tesla has given its first official count of its active Cybercab fleet. The Robotaxi account posted Saturday that one month after launch the service had “scaled to 300+ Cybercabs serving Austin – an 8x increase in 30 days.” Tesla AI software chief Ashok Elluswamy added: “Two years since the 10/10 Cybercab WeRobot event, the cabs are everywhere in Austin now. Dallas soon,” the first time Tesla has named the next city for public Cybercab rides. Public rides opened in Austin on Sept. 4. The fleet passed 100 in late September after jumping from 58 to 125 vehicles in a single week, and on Thursday Tesla added 150 Cybercabs to the Texas automated-vehicle registry, raising its registered count from 169 to 319."
     },
     {
       "n": 20,

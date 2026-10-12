@@ -1090,7 +1090,14 @@
     "6ee92efe68432b5454b0c00c14172e82c0a3e1cc",
     "64348ae90f9ff4a44a18915a21e2e8aaf7e740c7",
     "f26407a758cd010191073ef58ad4c5fa81b1eb18",
-    "90ebf532f44114d5744e6d4f1405fd8562745af3"
+    "90ebf532f44114d5744e6d4f1405fd8562745af3",
+    "8c6967ab5e9cf6ee00920ba426c7541d3c6f3b0e",
+    "ad82b9836200f079deb3914969b87adaa95d5b37",
+    "d4fe0553ba18e9257ec09b4289e2c7a0551e866e",
+    "4143f414fb5be978d5cf37d45bc1977c5c0cfea7",
+    "771f787eeef0e0b427c3c92d51e61af88c245449",
+    "61979a5fe6af23a341f69ca26f1b75f5346b758b",
+    "a894fa5d61d1240f6ef59deb9037f092e8bd43ca"
   ],
   "stories": {
     "0c2ac7a5e342411678296315c4c59043b1f067cc": {
@@ -13358,7 +13365,77 @@
       "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/ikea-self-driving-truck-1.jpg",
       "image_local": "images/story-991.jpg",
       "id": "90ebf532f44114d5744e6d4f1405fd8562745af3"
+    },
+    "8c6967ab5e9cf6ee00920ba426c7541d3c6f3b0e": {
+      "headline": "Federal agents raid Rep. Ilhan Omar’s D.C. home in a criminal probe of the immigration paperwork her father filed when she was a child",
+      "cat": "Politics",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/ilhan-omars-home-dc-searched-hsi-pre-dawn-raid",
+      "summary": "Agents with Homeland Security Investigations, the criminal investigative arm of DHS, searched the Washington, D.C., home of Rep. Ilhan Omar, D-Minn., early Monday morning. Fox News Digital, which first reported the raid, says the operation began around 6 a.m., with HSI and DHS leading it and the Justice Department involved, and that agents in HSI jackets were seen outside the house. Sources told Fox and CBS News the case centers on the Somali-born congresswoman’s immigration paperwork, filled out by her late father when she was a child; HSI handles federal crimes such as immigration document fraud, identity fraud and benefit fraud. A DOJ spokesperson said HSI “executed a judicially authorized search warrant secured by the Department of Justice” as “part of an ongoing federal investigation.” Omar’s office did not respond to requests for comment, and the White House and DHS declined to comment. Border czar Tom Homan said in mid-September that Omar was the subject of an ongoing criminal investigation; at the time she said no one had contacted her about one. Omar has also drawn scrutiny over her financial disclosures, which went from reporting $6 million to $30 million in her husband’s assets in 2024 to a maximum of $125,000 in shared assets in 2025.",
+      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/hsi-raid-omar-split.jpg",
+      "image_local": "images/story-992.jpg",
+      "id": "8c6967ab5e9cf6ee00920ba426c7541d3c6f3b0e"
+    },
+    "ad82b9836200f079deb3914969b87adaa95d5b37": {
+      "headline": "Apple reportedly raises iPhone Duo orders 30% ahead of Friday’s pre-orders, pushing its 2026 target toward 10 million",
+      "cat": "Apple",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/10/12/apple-has-reportedly-increased-its-iphone-duo-orders-by-30/",
+      "summary": "Apple is expecting much stronger demand for the foldable iPhone Duo than it first planned, according to a report from China’s Securities Times. Supply-chain sources told the paper Apple has raised its iPhone Duo orders by 30%; total supply for the rest of 2026 still doesn’t exceed 10 million units, but against earlier estimates of 6 to 7 million, 9to5Mac says the new target is likely close to 10 million. Pre-orders open this Friday, Oct. 16, and Apple’s “get ready” step for faster checkout opens later today. The same sources say iPhone 18 Pro Max orders rose 10% to 15% while iPhone 18 Pro orders were cut by the same amount, leaving total iPhone 18 Pro-line targets unchanged, which contradicts a recent Nikkei Asia report of cuts.",
+      "image_remote": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-night-sky-front-back.jpg?quality=82&strip=all&resize=1200,628",
+      "image_local": "images/story-993.jpg",
+      "id": "ad82b9836200f079deb3914969b87adaa95d5b37"
+    },
+    "d4fe0553ba18e9257ec09b4289e2c7a0551e866e": {
+      "headline": "Milford police identify three suspects in weeks of attacks on the homeless camp behind Lowe’s: fireworks, thrown stones and swastikas",
+      "cat": "Local / Connecticut",
+      "source": "Patch (Milford)",
+      "url": "https://patch.com/connecticut/milford/nearly-daily-violent-attacks-target-homeless-encampment-milford",
+      "summary": "Milford police say they have identified suspects in a string of attacks on the homeless encampment behind the Lowe’s store at 311 Old Gate Lane, after the Beth-El Shelter called for “immediate protective measures” over what it described as “nearly daily violent attacks and hate speech” since the end of September. The shelter says fireworks thrown into the camp started fires that residents had to put out, that the attacks have grown more dangerous over the past week, and that shelter employees have been hurt; swastikas were also spray-painted on trees. Police Chief Keith Mello said Monday that detectives are assigned to the case and patrols near the camp have been increased around the clock. Police confirmed evidence of fireworks thrown at or near the encampment and of the swastikas, but said there do not appear to be physical injuries to encampment residents. A license plate reader on Old Gate Lane identified one suspect and digital evidence led to two more. Police count at least five separate incidents, which may or may not all be linked to those suspects. Charges, including whether a hate crime was committed, will be decided when the investigation is complete; a hate-crimes notification has been filed with the Connecticut State Police. Mayor Rich Smith condemned the attacks on Friday.",
+      "image_remote": "",
+      "image_local": "",
+      "id": "d4fe0553ba18e9257ec09b4289e2c7a0551e866e"
+    },
+    "4143f414fb5be978d5cf37d45bc1977c5c0cfea7": {
+      "headline": "Two Renoirs stolen from a French museum turn up hidden behind a cinder block wall, torn and in need of restoration",
+      "cat": "World / crime",
+      "source": "CBS News (AP)",
+      "url": "https://www.cbsnews.com/news/stolen-renoir-paintings-found-behind-wall-france/",
+      "summary": "Two paintings by Pierre-Auguste Renoir stolen in September from the museum in Cagnes-sur-Mer in southern France were found hidden behind a wall and have slight damage, prosecutors said Monday. The thieves escaped with two works and abandoned two others as they fled; all four were valued at about $10 million. Marseille prosecutor Nicolas Bessone said “Portrait of Madame Colonna Romano” and “Young Woman at the Well” were recovered last Thursday in a search of a home in Clermont-l’Hérault, a day after six people, including a woman, were arrested. “The paintings were hidden behind a solid cinder block wall. They were completely undetectable,” he said; interrogation got the receiver of the stolen goods to admit he had them. A 29-year-old man seen as the main suspect was charged over the weekend after DNA linked him to the theft. The portrait’s canvas has a tear on the dress and the other painting’s frame was damaged, so both will need restoration. The case is the latest in a run of French museum heists, including last year’s daylight theft of about $100 million in crown jewels from the Louvre, which have raised questions about museum security.",
+      "image_remote": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/12/9047cb38-ed29-428a-aa3a-9991728632eb/thumbnail/1200x630/f1134f093774c326b67141ebeb23935d/ap26285467970644.jpg",
+      "image_local": "images/story-994.jpg",
+      "id": "4143f414fb5be978d5cf37d45bc1977c5c0cfea7"
+    },
+    "771f787eeef0e0b427c3c92d51e61af88c245449": {
+      "headline": "NHTSA weighs a probe into claims Tesla Robotaxis speed through school zones, and puts the driverless fleet at about 1,000 cars",
+      "cat": "Tesla",
+      "source": "Electrek",
+      "url": "https://electrek.co/2026/10/12/nhtsa-tesla-robotaxi-school-zone-speeding-petition/",
+      "summary": "A new defect petition accuses Tesla’s Robotaxis of speeding through active school zones, and the National Highway Traffic Safety Administration has opened a file to decide whether to investigate. The Office of Defects Investigation opened the petition review, DP26010, on Friday, Oct. 9; it covers model-year 2026 Robotaxis, Model Y and Cybercab, running Tesla’s Automated Driving System, which the agency estimates at about 1,000 vehicles. Electrek says that is the first federal figure for the size of the fleet, which Tesla doesn’t disclose, though NHTSA may be counting cars certified with the Texas DMV rather than those in active service. The evidence is thin so far: three social media videos and four incidents in NHTSA’s own tally, with no crashes, injuries or deaths. NHTSA has 120 days from the Sept. 23 filing, to about Jan. 21, 2027, to grant or deny it; a grant would open a formal defect investigation that could end in a recall. It is the third federal action aimed at Tesla’s driverless fleet in about five weeks, after an audit query and a Special Order requiring Tesla to show under oath that the Cybercab, which has no pedals or steering wheel, meets federal safety standards.",
+      "image_remote": "https://electrek.co/wp-content/uploads/sites/3/2026/02/Tesla-Cybercab-hero.jpg?quality=82&strip=all&resize=1200,628",
+      "image_local": "images/story-995.jpg",
+      "id": "771f787eeef0e0b427c3c92d51e61af88c245449"
+    },
+    "61979a5fe6af23a341f69ca26f1b75f5346b758b": {
+      "headline": "Gene Simmons says he has Trump’s and Elon Musk’s numbers in his phone, and the president’s team texts him every week or two",
+      "cat": "Rock / music",
+      "source": "Blabbermouth",
+      "url": "https://blabbermouth.net/news/gene-simmons-says-he-has-donald-trumps-and-elon-musks-phone-numbers-in-his-contact-list-im-kind-of-a-big-deal",
+      "summary": "Asked on the Hollywood Raw podcast to name the most famous person in his phone’s contacts, KISS bassist Gene Simmons said: “Maybe not the most famous person, although he could be, but certainly the most impressive person. I’ve got Elon’s number… I’ve got the president’s number and stuff. As a matter of fact, he sends me, through his assistant, weekly or bi-weekly sort of texts about what’s going on… I’m certain I’m not the only one.” Without giving his own opinion of Trump, Simmons added that the president “was duly elected by more than half the country,” and said, “No matter what you think of the person who’s actually got the title, I respect the presidency. Because it’s the will of the people.” Last month he told Detroit’s WRIF that the most impressive people to him are Warren Buffett, Musk and Jeff Bezos, saying Musk is “planning, for goodness sakes, cities on Mars while the rest of us are complaining about the traffic jam.” Simmons appeared with Trump on the first season of Celebrity Apprentice in 2008 and called him “good for the political system” in 2016.",
+      "image_remote": "https://assets.blabbermouth.net/media/genesimmonsbloomdec2025_638.jpg",
+      "image_local": "images/story-996.jpg",
+      "id": "61979a5fe6af23a341f69ca26f1b75f5346b758b"
+    },
+    "a894fa5d61d1240f6ef59deb9037f092e8bd43ca": {
+      "headline": "A 1923 Leica 0-Series prototype, serial No. 103, sells for €4.25 million (about $4.75 million) after a 20-minute bidding war",
+      "cat": "Cameras",
+      "source": "PetaPixel",
+      "url": "https://petapixel.com/2026/10/12/the-third-leica-0-series-prototype-camera-ever-made-just-sold-for-nearly-5-million/",
+      "summary": "A Leica 0-Series camera from 1923 sold at the eighth Wetzlar Camera Auctions on Saturday for €4,250,000, about $4.75 million, more than twice its €2 million estimate after a 20-minute bidding war, making it one of the most expensive cameras ever sold at auction. Serial number 103 is the third 0-Series camera made; Leica’s first prototype was No. 101. The 0-Series cameras were hand-built prototypes leading up to the Leica I, the company’s first commercially sold 35mm camera, and only 16 are known to survive, all in museums and private collections. “The Leica 0-Series represents the very beginning of Leica’s remarkable history and is regarded as the holy grail of Leica collecting,” said auction co-owner Lars Netopil. Other lots among the 259 included a handmade Leica Model A prototype at €225,000, a gold-plated 1931 Leica I Model C “Luxus” at €375,000, a 1965 Leica M4 prototype also at €375,000, and a square-format Leitz 24x24mm prototype from the late 1940s at €137,500.",
+      "image_remote": "https://petapixel.com/assets/uploads/2026/10/wetzlar-camera-auctions-8-leica-0-series-featured.jpg",
+      "image_local": "images/story-997.jpg",
+      "id": "a894fa5d61d1240f6ef59deb9037f092e8bd43ca"
     }
   },
-  "updated": "Monday, October 12, 2026 · 7:14 AM ET"
+  "updated": "Monday, October 12, 2026 · 12:05 PM ET"
 }
