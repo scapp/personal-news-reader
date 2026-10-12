@@ -1104,7 +1104,12 @@
     "dab2231b9139470c424e76f07da788c82d41955d",
     "ba4df12f55a1e56db1764a8d5dd5a893897729a1",
     "f5be754e66c77f29cd0ba607bc9cdf2a7f954fd2",
-    "b25ff53c8bff29aaf0e486b2e44e864da76e428c"
+    "b25ff53c8bff29aaf0e486b2e44e864da76e428c",
+    "516d37f3f5bb97bce85f1c467e67e44fad531406",
+    "25b3e02d88e0c935d2453858d4152c2e7f0f12d2",
+    "3d542ced65c0f95c1524091d027ae517b88f30cb",
+    "6f89f34076818b4e8e85676fcc46c35dc5ac650d",
+    "9433b04f88cffd3b6babae0a45e1c6fa24509cc8"
   ],
   "stories": {
     "0c2ac7a5e342411678296315c4c59043b1f067cc": {
@@ -13512,7 +13517,57 @@
       "image_remote": "https://media.babylonbee.com/articles/6acd1a6f99c336acd1a6f99c34.jpg",
       "image_local": "images/story-1004.jpg",
       "id": "b25ff53c8bff29aaf0e486b2e44e864da76e428c"
+    },
+    "516d37f3f5bb97bce85f1c467e67e44fad531406": {
+      "headline": "RJ Mitte, who played Walter White Jr. on ‘Breaking Bad,’ dies at 34",
+      "cat": "TV / obituary",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/rj-mitte-breaking-bad-actor-dies-age-34/",
+      "summary": "RJ Mitte, who rose to fame as Walter “Flynn” White Jr., the son of Bryan Cranston’s chemistry-teacher-turned-meth-kingpin on “Breaking Bad,” has died at 34, his representative confirmed Monday. A Brownsville, Texas, justice of the peace told NBC News she declared him dead at 1:32 p.m. Monday in Brownsville, where he had moved, but could not disclose a cause of death. Mitte, who was diagnosed with cerebral palsy at 3, drew on that experience for the role; the series debuted in January 2008 when he was 15, and the cast won a Screen Actors Guild ensemble award in 2014 for its final season. Off screen he became a prominent disability advocate, serving as an ambassador for United Cerebral Palsy and Shriners Children’s and as president of The Mitte Foundation, and in 2014 received SAG-AFTRA’s Howard Russell Award. He later starred in “The Oak Room” and the 2021 wrestling film “Triumph,” about a high schooler with cerebral palsy. His representatives asked for privacy for his family.",
+      "image_remote": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/12/772092b5-61ff-4026-81dc-595515c6f6e0/thumbnail/1200x630/0e7cb73843494461b908c5abc21aa3d0/gettyimages-2298044430.jpg",
+      "image_local": "images/story-1005.jpg",
+      "id": "516d37f3f5bb97bce85f1c467e67e44fad531406"
+    },
+    "25b3e02d88e0c935d2453858d4152c2e7f0f12d2": {
+      "headline": "Chicago police solve the 1960 murder of 8-year-old Gloria Kowalewicz — and the killer was one of their own, a longtime homicide detective",
+      "cat": "Crime / courts",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/news/us-news/chicago-police-find-killer-65-year-old-cold-case-murder-little-girl-on-rcna602947",
+      "summary": "The Chicago Police Department says DNA technology that didn’t exist 65 years ago, combined with “a carefully preserved fingerprint” lifted from the strap of her white communion purse, has identified the man who abducted and killed 8-year-old Gloria Kowalewicz as she walked to Saturday morning Mass on the South Side on Nov. 12, 1960: Thomas F. McInerney Jr., then 24, who went on to serve as a CPD homicide detective and retired in 1987 after 28 years on the job. He died in Las Vegas in 2006 at 70. The third-grader was shot twice in the head and left in a ditch in a forest preserve southwest of the city; the case set off a months-long manhunt in which thousands were questioned, and more than 1,000 people attended her funeral. The match came in July using the same kind of genetic genealogy that caught the Golden State Killer. “McInerney should never have worn the CPD star, and it is devastating to accept that he was never identified and held accountable while he was alive,” the department said. His DNA is in the FBI’s CODIS database, and the FBI is checking whether he may be tied to other unsolved crimes from that era. Police still don’t know why he targeted Gloria; his parents lived less than a mile from her family.",
+      "image_remote": "",
+      "image_local": "",
+      "id": "25b3e02d88e0c935d2453858d4152c2e7f0f12d2"
+    },
+    "3d542ced65c0f95c1524091d027ae517b88f30cb": {
+      "headline": "Trump says he’s “looking at” firing Ambassador to Greece Kimberly Guilfoyle over an alleged $100,000 pay-to-play ask: “We’re not happy”",
+      "cat": "Politics",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/trump-says-hes-looking-at-firing-kimberly-guilfoyle/",
+      "summary": "President Trump told reporters on his way to Ohio on Monday that he and his administration are “looking at” firing Kimberly Guilfoyle as U.S. ambassador to Greece. “Well, we’re looking at it,” he said. “We’re not happy.” The question follows claims by businessman Eric Deters, who told CBS News last week he has “no doubt it was pay-to-play” after Guilfoyle allegedly asked him, ahead of her Senate confirmation hearing, to wire $100,000 to cover her American Express bill in exchange for her help with the administration. Deters gave CBS screenshots of their texts, including one in which she appears to ask for the money, and says he never paid. Sources told CBS that White House officials were told the texts are authentic and some aides were displeased; Guilfoyle’s lawyer has disputed their authenticity. Guilfoyle, Donald Trump Jr.’s ex-fiancée and a former Fox News host, had her hearing in July 2025 and was confirmed that September. She was highly visible during Secretary of State Marco Rubio’s visit to Greece last week, when Rubio declined to comment on the story.",
+      "image_remote": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/12/2276110d-b914-499b-b2b2-7865556cb303/thumbnail/1200x630/1884dc196aa176210512140c2bac6e85/ap26085749152250.jpg",
+      "image_local": "images/story-1006.jpg",
+      "id": "3d542ced65c0f95c1524091d027ae517b88f30cb"
+    },
+    "6f89f34076818b4e8e85676fcc46c35dc5ac650d": {
+      "headline": "Penguins trade Caleb Jones and prospect Daniel Laatsch to Buffalo for left-shot defenseman Ryan Johnson, a 2019 first-rounder",
+      "cat": "Penguins hockey",
+      "source": "Pittsburgh Hockey Now",
+      "url": "https://pittsburghhockeynow.com/pittsburgh-penguins-trade-acquire-lefty-d-man-for-caleb-jones-prospect/",
+      "summary": "For the second time in a week, the Penguins have picked up a left-handed defenseman buried on another team’s depth chart. On Monday evening Pittsburgh sent Caleb Jones and depth prospect Daniel Laatsch to the Buffalo Sabres for Ryan Johnson, 25, the Sabres’ first-round pick (31st overall) in 2019. Johnson, 6-foot-1 and 195 pounds, is a defensive-minded, good-skating blueliner who played four seasons at the University of Minnesota and 41 NHL games as a rookie, but has spent most of the past two seasons in the AHL with only three NHL games in each; he has seven career NHL assists in 47 games and had 19 points in 56 games for Rochester last season. Jones, signed to a two-year, $1.8 million deal in July 2025, played just seven games for Pittsburgh last season through injuries and a suspension for a positive performance-enhancing-substance test, and was waived ahead of this season. Laatsch, a 6-foot-5 defenseman, played 29 ECHL games for Wheeling. The move fills a hole: the Penguins had no depth defenseman on the NHL roster after putting Trevor van Riemsdyk on injured reserve Monday.",
+      "image_remote": "https://media.pittsburghhockeynow.com/wp-content/uploads/2026/10/12173657/NHL-Preseason-Buffalo-Sabres-at-Pittsburgh-Penguins-tagreuters-com2026newsml_mt1usatoday29883011664510345-1600x900.jpg",
+      "image_local": "images/story-1007.jpg",
+      "id": "6f89f34076818b4e8e85676fcc46c35dc5ac650d"
+    },
+    "9433b04f88cffd3b6babae0a45e1c6fa24509cc8": {
+      "headline": "Jerry Seinfeld to anti-Israel hecklers at his Chicago show: “I’m gonna find out how much your ticket was and I’m sending it to Israel”",
+      "cat": "Comedy / Israel",
+      "source": "The Algemeiner",
+      "url": "https://www.algemeiner.com/2026/10/12/jerry-seinfeld-tells-anti-israel-hecklers-at-chicago-show-hell-donate-ticket-costs-to-israel/",
+      "summary": "Activists from Anti-War Committee Chicago and the Chicago branch of the U.S. Palestinian Community Network repeatedly interrupted Jerry Seinfeld’s Friday show at the Chicago Theatre, calling him a racist and a “genocide apologist” for his support of Israel. “Seinfeld you will see, Palestine will be free,” one man shouted; when Seinfeld joked he’d “had enough” of his cell phone service, a woman yelled, “Well, I’ve had enough of genocide!” and accused him of making jokes while Palestinians are killed “with our taxpayer money.” Seinfeld shot back sarcastically, “I am a racist. It’s a genocide, I’m into it,” then added, “I’m gonna find out how much your ticket was and I’m sending it to Israel … No I won’t, I’m keeping it,” drawing laughter, applause and cheers, according to fan video posted online. Seinfeld, who lived on a kibbutz as a teenager, visited Israel after the Oct. 7, 2023, Hamas attack, met hostage families and has been heckled at several shows; protesters also walked out of his Duke University commencement speech. He has said “Free Palestine” is a way of saying “you don’t like Jews” without admitting it.",
+      "image_remote": "https://www.algemeiner.com/wp-content/uploads/2023/12/2022-09-11T195540Z_198851089_MT1SIPA000X4PH0N_RTRMADP_3_SIPA-USA-2.jpg",
+      "image_local": "images/story-1008.jpg",
+      "id": "9433b04f88cffd3b6babae0a45e1c6fa24509cc8"
     }
   },
-  "updated": "Monday, October 12, 2026 · 4:22 PM ET"
+  "updated": "Monday, October 12, 2026 · 6:19 PM ET"
 }
