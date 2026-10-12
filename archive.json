@@ -1097,7 +1097,14 @@
     "4143f414fb5be978d5cf37d45bc1977c5c0cfea7",
     "771f787eeef0e0b427c3c92d51e61af88c245449",
     "61979a5fe6af23a341f69ca26f1b75f5346b758b",
-    "a894fa5d61d1240f6ef59deb9037f092e8bd43ca"
+    "a894fa5d61d1240f6ef59deb9037f092e8bd43ca",
+    "00e357375dcd871313bf61702728872b46f69519",
+    "a5b466438099ac0976b0a3acf0f171d2f218da84",
+    "9889ac25b335b03cc8019d2383a10c0d7d172255",
+    "dab2231b9139470c424e76f07da788c82d41955d",
+    "ba4df12f55a1e56db1764a8d5dd5a893897729a1",
+    "f5be754e66c77f29cd0ba607bc9cdf2a7f954fd2",
+    "b25ff53c8bff29aaf0e486b2e44e864da76e428c"
   ],
   "stories": {
     "0c2ac7a5e342411678296315c4c59043b1f067cc": {
@@ -13435,7 +13442,77 @@
       "image_remote": "https://petapixel.com/assets/uploads/2026/10/wetzlar-camera-auctions-8-leica-0-series-featured.jpg",
       "image_local": "images/story-997.jpg",
       "id": "a894fa5d61d1240f6ef59deb9037f092e8bd43ca"
+    },
+    "00e357375dcd871313bf61702728872b46f69519": {
+      "headline": "Musk says Starship Flight 15 will try to catch the ship itself with the tower, likely “a little bit before Thanksgiving”",
+      "cat": "Elon / SpaceX",
+      "source": "Teslarati",
+      "url": "https://www.teslarati.com/elon-musk-spacex-starship-tower-catch/",
+      "summary": "Speaking to about 2,000 people at the X Takeover event at Giga Texas on Saturday, Elon Musk said SpaceX’s next Starship flight is four to six weeks away and “probably launches a little bit before Thanksgiving, is my guess,” a slip from earlier reporting that pointed to a launch as early as Oct. 19. He said the list of changes between flights is short this time, “but some of them take a fair bit of work and we’ve got to go inside the tank.” The big goal: “We’re going to try to catch the ship, which is a super big deal. If we do so, that’ll be the first time that there’s been full recovery of an orbital class rocket.” SpaceX has caught the Super Heavy booster with the tower’s mechanical arms, but the upper stage has never been caught; every ship so far has ended in a water landing. Musk said Flight 16 would then aim to refly both the booster and the ship. Teslarati notes that Starlink V3 satellites can only fly on Starship, and NASA’s Moon lander plans depend on fast, reusable tanker flights. Flight 14 reached orbit on Sept. 28 and deployed the first 26 V3 satellites despite an early engine shutdown.",
+      "image_remote": "https://www.teslarati.com/wp-content/uploads/2026/06/elon-musk-starship-starbase-1000x600.jpg",
+      "image_local": "images/story-998.jpg",
+      "id": "00e357375dcd871313bf61702728872b46f69519"
+    },
+    "a5b466438099ac0976b0a3acf0f171d2f218da84": {
+      "headline": "Selma Blair arrested after allegedly biting a flight attendant and being restrained on a Delta flight from LAX to JFK",
+      "cat": "Crime / courts",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/selma-blair-arrested-incident-on-board-flight-from-lax-to-jfk/",
+      "summary": "Actress Selma Blair, 54, was arrested after allegedly biting a flight attendant on Delta Air Lines Flight 938 from Los Angeles to New York’s JFK around 11 p.m. Sunday, CBS News reports. Port Authority Police say two flight attendants were hurt, one bitten and one with a laceration, and one went to the hospital; the crew had to restrain her. In air traffic control audio the pilot asked for medical personnel at the gate for “a bloody nose as well as some bite marks,” adding that the passenger may have hit her head on the bulkhead. A law enforcement source says she then kicked a Port Authority officer in the ambulance and assaulted a nurse at Jamaica Hospital. She was taken to Queens Central Booking for arraignment on two state assault counts, and the FBI, which is looking into a “potential assault” on the plane, issued her a federal summons. Her attorney says she “experienced a medical emergency that led to the alleged conduct” and is stable. Delta said it has “zero tolerance for unruly or unlawful behavior.” Blair, known for “Cruel Intentions” and “Legally Blonde,” has multiple sclerosis; her 2022 memoir has a chapter titled “Bite Me.”",
+      "image_remote": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/12/247fe598-4e63-46a1-beff-5e16ec2c94bc/thumbnail/1200x630g3/c96828c02cb4db43ebd67c6f7ae96687/gettyimages-2298149182.jpg",
+      "image_local": "images/story-999.jpg",
+      "id": "a5b466438099ac0976b0a3acf0f171d2f218da84"
+    },
+    "9889ac25b335b03cc8019d2383a10c0d7d172255": {
+      "headline": "Hackers remotely defrost refrigerators at hundreds of French supermarkets, sparking fires and forcing stores to dump fresh and frozen food",
+      "cat": "World / cyber",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/cyberattack-supermarkets-refrigerators-france-fires-food-losses/",
+      "summary": "Major French supermarket chains said Monday they were hit by a cyberattack that drove up temperatures in refrigerators across hundreds of stores, spoiling food and, prosecutors say, sparking fires. At least 300 Intermarché and Netto shops, more than 100 Coopérative U outlets and several E. Leclerc stores were hit; Carrefour said 80 of its roughly 6,000 stores were attacked. French broadcaster BFM TV said hackers “managed to remotely trigger the forced defrosting of the refrigeration systems,” and affected stores will have to throw out all fresh and frozen products. A source said control systems from Danish maker Danfoss were targeted; Danfoss said most affected units were “legacy” AK-SM800 and AK-SC355 regulators that no longer get security updates, and that it had long urged supermarkets to upgrade. France’s cybersecurity agency has found a vulnerability in the Danish software and is warning European counterparts, since other countries may be affected. Ahold Delhaize, which also runs U.S. grocery chains, reported its own “security issue,” and Paris prosecutors have opened an investigation. Coopérative U’s CEO called targeting food-supply equipment “of extreme gravity and unprecedented.”",
+      "image_remote": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/12/68bbafea-6d26-464b-8296-d942b589aa51/thumbnail/1200x630/db575cdaf8fac7ca5f0c739b16ce1ae9/2026-10-12t154034z-1680256209-rc2q1oaaopie-rtrmadp-3-france-cyberattack.jpg",
+      "image_local": "images/story-1000.jpg",
+      "id": "9889ac25b335b03cc8019d2383a10c0d7d172255"
+    },
+    "dab2231b9139470c424e76f07da788c82d41955d": {
+      "headline": "Anthrax’s Frank Bello would do more ‘Big Four’ thrash shows “in a heartbeat”: “Talk to Metallica… They know our number”",
+      "cat": "Heavy metal",
+      "source": "Consequence (Heavy Consequence)",
+      "url": "https://consequence.net/2026/10/anthrax-frank-bello-big-four-shows/",
+      "summary": "Fifteen years after Metallica, Slayer, Megadeth and Anthrax wrapped their run of 14 “Big Four” shows at Yankee Stadium in 2011, Anthrax bassist Frank Bello told Heavy Consequence he would love to do it again. “It’s certainly not up to me,” he said. “Talk to Metallica. I would do it in a heartbeat. If it’s meant to be, it’ll be. They know our number. We’re friends.” Bello said he reconnected with James Hetfield for about half an hour at last year’s Back to the Beginning concert. With Slayer back on stage after quitting in 2019 and Megadeth on a farewell tour, any reunion would likely have to happen in the next few years. Bello also looked back on 1986–87, when Master of Puppets, Peace Sells, Reign in Blood and Among the Living all came out within 13 months: “Those records met the moment. It exploded… There’s a whole generation that hasn’t seen that. Of course, we’d do it. But, yeah, we’ll wait for the call.” Anthrax recently released Cursum Perficio, its first album in 10 years.",
+      "image_remote": "https://consequence.net/wp-content/uploads/2026/10/Anthrax-Frank-Bello.jpg",
+      "image_local": "images/story-1001.jpg",
+      "id": "dab2231b9139470c424e76f07da788c82d41955d"
+    },
+    "ba4df12f55a1e56db1764a8d5dd5a893897729a1": {
+      "headline": "Jeep closes its Twelve 4 Twelve series with the 2027 Wrangler Switchback: doors and hoods swapped between black and gray Rubicon Xs on the line",
+      "cat": "Jeep",
+      "source": "Mopar Insiders",
+      "url": "https://moparinsiders.com/2027-jeep-wrangler-switchback-closes-twelve-4-twelve/",
+      "summary": "Jeep has revealed the last of its yearlong Twelve 4 Twelve special Wranglers, the 2027 Wrangler Switchback, built to look like two owners traded parts. It starts from the Wrangler Rubicon X in two- and four-door versions and mixes Gloss Black and Sting-Gray: Jeep sequences black and gray Wranglers together on the assembly line and switches their doors during normal production, then swaps the dual-vented power-dome hoods at the upfitting center. A matching three-piece hardtop, black badges and tow hooks set off bright Gecko green on the grille surround, hood graphics, swing-gate decal and the beadlock wheel rings, which Jeep says are the first production Wrangler beadlock rings in a bright color. Inside are Global Black Nappa seats with an embossed Switchback logo, Sea Salt Nappa trim (a Wrangler first), Pearl and Lime stitching, a Willys satin-chrome shifter medallion and a swing-gate plaque with blueprint-style drawings and Detroit and Toledo references. The series has marked Jeep’s 85 years with a dozen Wranglers drawing on military, retro, Western and concept-vehicle themes; this one leans on gaming and digital culture.",
+      "image_remote": "https://moparinsiders.com/wp-content/uploads/2026/10/JP027_WR052.jpeg",
+      "image_local": "images/story-1002.jpg",
+      "id": "ba4df12f55a1e56db1764a8d5dd5a893897729a1"
+    },
+    "f5be754e66c77f29cd0ba607bc9cdf2a7f954fd2": {
+      "headline": "Ex-paratrooper Karl Bushby is back on British soil after a 28-year, 30,000-mile walk from Chile, with about 240 miles left to his mum’s house",
+      "cat": "World / travel",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/world/british-adventurer-returns-home-after-28-year-walk-around-world",
+      "summary": "British adventurer Karl Bushby has set foot in England again after a journey on foot he began in Chile on Nov. 1, 1998, with a few hundred dollars in his pocket. On Oct. 5 he announced he had swum the English Channel from France, celebrated with fish and chips, and on Oct. 9 set off through Dover on the final leg; he hopes to reach his mother’s home in Hull by the end of the month and has roughly 240 miles to go. The ex-paratrooper got the idea from a birthday card his father sent in the 1990s about walking from London to New York via the Bering Strait. He walked north through the Americas, crossed the frozen Bering Strait from Alaska into Russia, and when Russia refused him a visa in 2012 he walked to the Russian Embassy in Washington in protest until the ban was lifted. He later crossed Mongolia and China and swam the Caspian Sea from Kazakhstan to Azerbaijan in 2024. Expected to take 12 years, the trip stretched across more than 30,000 miles and 29 countries through visa fights, the 2008 crash, COVID and detention. “It’s the people, the strangers that I have met along the way, that have kept me upright,” he said.",
+      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/karl-bushby-swims-caspian-sea.jpg",
+      "image_local": "images/story-1003.jpg",
+      "id": "f5be754e66c77f29cd0ba607bc9cdf2a7f954fd2"
+    },
+    "b25ff53c8bff29aaf0e486b2e44e864da76e428c": {
+      "headline": "Babylon Bee: ‘Mamdani Says ICE Agents Who Cross Border Into New York City Without Permission Will Be Prosecuted’",
+      "cat": "Satire",
+      "source": "The Babylon Bee",
+      "url": "https://babylonbee.com/news/mamdani-says-ice-agents-who-cross-border-into-new-york-city-without-permission-will-be-prosecuted",
+      "summary": "Satire. In the Bee’s telling, Mayor Zoran Mamdani’s office announced Monday that any ICE agents who cross into the city without permission will be prosecuted “to the fullest extent of the law,” with agents still in town to be rounded up and deported to New Jersey, where they can petition to enter New York legally. “This city wants ICE out, and I am prepared to enforce our city’s borders against them,” the fake Mamdani says, adding that “no one should be allowed to freely roam in and out of a territory without permission.” A fictional President Trump calls the move unprecedented, noting New York doesn’t have a wall, only “a little water,” and that ICE agents can swim the Hudson “like dolphins — ICE dolphins, I call them.” By publishing time, the mayor had diverted money from free bus rides to building a big, beautiful wall around the city to keep ICE out.",
+      "image_remote": "https://media.babylonbee.com/articles/6acd1a6f99c336acd1a6f99c34.jpg",
+      "image_local": "images/story-1004.jpg",
+      "id": "b25ff53c8bff29aaf0e486b2e44e864da76e428c"
     }
   },
-  "updated": "Monday, October 12, 2026 · 12:05 PM ET"
+  "updated": "Monday, October 12, 2026 · 4:22 PM ET"
 }
