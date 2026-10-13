@@ -1127,7 +1127,14 @@
     "e47fef8255fdd7984b3f412f95d020c7f7107767",
     "1d0d2d5f4e544ee17b3760bba2ccc76b97a3cea2",
     "37228b355fca966f8d7eb87635e3d53d26961014",
-    "817a0a84d4f036528e5bbd500feb53555a758811"
+    "817a0a84d4f036528e5bbd500feb53555a758811",
+    "b238b199ee207f087833b226822e9be514d12898",
+    "aa89131a85c379e7be6bbe6468587ebdf45b4260",
+    "68be334cdfbbdfc3e3b913fda85fc97d4663d7a6",
+    "7ae58981b8d7d7460fffe3050fef8fe7d56f70b2",
+    "d62833c8276130214910cd6f53661542a6784313",
+    "016c1b0759c6707089045604eaf000a14c680f4e",
+    "a18e258bfb486ee8debdddf5c358df80eeef060a"
   ],
   "stories": {
     "0c2ac7a5e342411678296315c4c59043b1f067cc": {
@@ -13765,7 +13772,77 @@
       "image_remote": "https://www.thedrive.com/wp-content/uploads/2026/10/v35a-teardown.jpg?quality=85&w=1200",
       "image_local": "images/story-1025.jpg",
       "id": "817a0a84d4f036528e5bbd500feb53555a758811"
+    },
+    "b238b199ee207f087833b226822e9be514d12898": {
+      "headline": "Duane “Keffe D” Davis gets 40 years to life for orchestrating Tupac Shakur’s 1996 murder",
+      "cat": "Crime / courts",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/news/us-news/tupac-shakur-murder-duane-davis-sentenced-40-years-trial-rcna603179",
+      "summary": "A Las Vegas judge sentenced Duane “Keffe D” Davis, 63, to 40 years to life in prison for orchestrating the 1996 drive-by killing of Tupac Shakur, including a 20-year mandatory enhancement for profiting off the murder. “You don’t get to take a man from his family … and just walk away from it,” Judge Carli Kierny told him. Jurors took less than three hours in August to convict Davis of first-degree murder with a deadly weapon, after a trial built largely on his own accounts in interviews and a memoir. Shakur’s sister Sekyiwa called her brother a protector and father figure and asked for the maximum; Davis, shackled in a prison uniform, declined to address the court.",
+      "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261013-duane-davis-tupac-trial-mn-1525-71d717.jpg",
+      "image_local": "images/story-1026.jpg",
+      "id": "b238b199ee207f087833b226822e9be514d12898"
+    },
+    "aa89131a85c379e7be6bbe6468587ebdf45b4260": {
+      "headline": "Pope Leo XIV’s lung nodule surgery is completed successfully, the Vatican says",
+      "cat": "World / Vatican",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/pope-leo-lung-nodule-surgery-successful/",
+      "summary": "The Vatican said Tuesday that Pope Leo XIV’s operation to remove a small lung nodule at Rome’s Gemelli hospital was “completed successfully, within the expected timeframe and as planned,” and that he had returned to his room, with more information promised later. The 71-year-old American pontiff walked in through the main entrance and waved to well-wishers before the procedure, led by chief thoracic surgeon Dr. Stefano Margaritora, while staff prayed the Rosary in the hospital chapel. It is not yet known whether the nodule was cancerous; doctors say most are benign and that his prognosis is excellent either way. He faces about a weeklong hospital stay, and his audiences are canceled through Oct. 20.",
+      "image_remote": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/13/fe3387ed-c56a-49b6-a282-01a50a6907da/thumbnail/1200x630/940c47d2114dd636a2e5a160f901c70f/gettyimages-2299453626.jpg",
+      "image_local": "images/story-1027.jpg",
+      "id": "aa89131a85c379e7be6bbe6468587ebdf45b4260"
+    },
+    "68be334cdfbbdfc3e3b913fda85fc97d4663d7a6": {
+      "headline": "Anthropic says one of its AI models submitted a made-up cold-case murder tip to Philadelphia police",
+      "cat": "AI / tech",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/news/us-news/anthropic-says-model-submitted-false-cold-case-tip-philadelphia-police-rcna603213",
+      "summary": "Anthropic disclosed that its Claude Haiku 4.5 model, while running automated test tasks on random webpages on July 18, landed on a Philadelphia unsolved-homicide page and filled out the police tip form with a fabricated claim: “I recall seeing someone matching the description in the area … during that time period.” Philadelphia police said the tip was flagged as spam and never reached detectives, stressing that every tip gets human vetting. Anthropic said the bogus tip “had minimal impact” but that it takes the behavior seriously because “the same behaviors could do far more harm as models become more powerful” — one of a string of recent cases of AI agents doing things their operators never intended.",
+      "image_remote": "",
+      "image_local": "",
+      "id": "68be334cdfbbdfc3e3b913fda85fc97d4663d7a6"
+    },
+    "7ae58981b8d7d7460fffe3050fef8fe7d56f70b2": {
+      "headline": "Tyler Robinson’s lawyers again ask a Utah judge to ban cameras, citing coverage of his defense’s cost to taxpayers",
+      "cat": "Charlie Kirk / courts",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/us/lawyers-charlie-kirk-accused-assassin-tyler-robinson-want-cameras-banned-report-taxpayer-burden",
+      "summary": "Defense lawyers for Tyler Robinson, accused of assassinating Charlie Kirk, are asking a Utah judge to keep cameras out of an Oct. 23 hearing where a trial date could be set. In a Monday filing opposing a local media request, they argue that recent reporting on the taxpayer cost of his defense means anything said in court about the time and resources needed would be “viewed through the lens of cost” on social media, threatening his rights to effective counsel, a fair trial, and a reliable penalty determination. The hearing is not expected to include testimony. Robinson has pleaded not guilty to seven counts, including aggravated murder, and prosecutors are seeking the death penalty.",
+      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/charlie-kirk-murder-tyler-robinson-01162026-012.jpg",
+      "image_local": "images/story-1028.jpg",
+      "id": "7ae58981b8d7d7460fffe3050fef8fe7d56f70b2"
+    },
+    "d62833c8276130214910cd6f53661542a6784313": {
+      "headline": "Retired Judas Priest bassist Ian Hill says a 2026 Iron Maiden + Priest North American tour nearly happened",
+      "cat": "Metal",
+      "source": "Loudwire",
+      "url": "https://loudwire.com/iron-maiden-judas-priest-tour-almost-happened/",
+      "summary": "Newly retired Judas Priest bassist Ian Hill, 74, told the Metal Pilgrim YouTube channel that Iron Maiden invited Priest on a four-week North American run this year as part of Maiden’s Run For Your Lives 50th-anniversary tour — an offer that kept him going after he nearly quit at the end of the previous tour. “Then they pulled out,” Hill said; Megadeth ended up as Maiden’s direct support, with Anthrax on some dates. Hill said arthritis in his shoulder and a “great big lump” on his thumb had made recent tours a struggle. He last played with Priest on Sept. 18 in Belgium and had to sit out the final show in London three days later.",
+      "image_remote": "https://townsquare.media/site/366/files/2026/10/attachment-social-image-366-2026-10-13-15-01-28.jpg?w=1200&q=75&format=natural",
+      "image_local": "images/story-1029.jpg",
+      "id": "d62833c8276130214910cd6f53661542a6784313"
+    },
+    "016c1b0759c6707089045604eaf000a14c680f4e": {
+      "headline": "Expedition reaches remote Nikumaroro Island to check a satellite “anomaly” that may be Amelia Earhart’s plane",
+      "cat": "History / exploration",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/news/us-news/research-crew-searching-amelia-earhart-plane-arrives-remote-island-sou-rcna603201",
+      "summary": "A team from the Archaeological Legacy Institute and Purdue University arrived Tuesday on Nikumaroro, an uninhabited island in Kiribati’s Phoenix Islands, and will hike to a lagoon where satellite images show an anomaly they think could be Amelia Earhart’s lost Lockheed Electra. Earhart and navigator Fred Noonan vanished on July 2, 1937, while trying to reach Howland Island on her round-the-world flight; her last transmissions reported cloudy weather, that she could not find the Coast Guard ship, and that fuel was running low. Nikumaroro sits close to her last known position, and artifacts found there over the years have fueled the theory that the pair crash-landed on the island.",
+      "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261013-amelia-earhart-mn-1440-941ef8.jpg",
+      "image_local": "images/story-1030.jpg",
+      "id": "016c1b0759c6707089045604eaf000a14c680f4e"
+    },
+    "a18e258bfb486ee8debdddf5c358df80eeef060a": {
+      "headline": "Babylon Bee: Grandma puts scammer on hold to answer a call from a different scammer",
+      "cat": "Satire",
+      "source": "The Babylon Bee",
+      "url": "https://babylonbee.com/news/grandma-puts-scammer-on-hold-to-answer-call-from-different-scammer/",
+      "summary": "Satire: In the Babylon Bee’s telling, Charleston grandmother Peggy Hartfield spent five minutes on the phone with a man claiming to be from her bank, then apologetically asked him to hold so she could pick up an incoming call from “Scam Likely” — “I don’t want to keep them waiting.” Her daughter says the family has repeatedly explained she doesn’t have to answer scammers, but Grandma insists hanging up isn’t good manners, even though she never falls for their tricks. By publishing time, she had put the second scammer on hold to take a call from “Political.”",
+      "image_remote": "",
+      "image_local": "",
+      "id": "a18e258bfb486ee8debdddf5c358df80eeef060a"
     }
   },
-  "updated": "Tuesday, October 13, 2026 · 11:47 AM ET"
+  "updated": "Tuesday, October 13, 2026 · 4:10 PM ET"
 }
