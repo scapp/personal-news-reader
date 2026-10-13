@@ -1,8 +1,63 @@
 {
-  "updated": "Monday, October 12, 2026 · 6:19 PM ET",
+  "updated": "Monday, October 12, 2026 · 10:13 PM ET",
   "stories": [
     {
       "n": 1,
+      "headline": "Man dies after falling from the Goliath roller coaster at Six Flags Over Georgia; riders left stranded until crews evacuate the 200-foot ride",
+      "cat": "Crime / courts",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/us/man-dies-after-falling-from-goliath-roller-coaster-six-flags-over-georgia",
+      "image_local": "images/story-1009.jpg",
+      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/six-flags-guests-evacuate-goliath-ride-after-deadly-incident.jpg",
+      "id": "cca24aaa4e5fbd58a940460a83402ba076ed546d",
+      "summary": "A person died Monday afternoon after an incident on the Goliath hypercoaster at Six Flags Over Georgia, Cobb County police confirmed to Fox News. The department said it happened just before 4 p.m., with one person dead and several others reported injured, and did not immediately give further details. A Six Flags spokesperson said the park was “deeply saddened by the guest incident,” was cooperating with authorities, and would not share more “out of respect for the family’s privacy.” Witnesses told local station WXIA the man appeared in their souvenir photo as he fell and “hit the car three different times.” The 200-foot coaster, which reaches about 70 mph with a 170-foot first drop, stalled with passengers stuck on the track until emergency crews evacuated them; video showed people climbing out and using a high staircase. The ride has a secondary 175-foot drop, a 540-degree spiral, and forces up to about 4 Gs."
+    },
+    {
+      "n": 2,
+      "headline": "Internal Stellantis document points to a 2028 Dodge Charger Hellcat: supercharged 6.2L HEMI V8, RWD, two- and four-door",
+      "cat": "Dodge / autos",
+      "source": "Mopar Insiders",
+      "url": "https://moparinsiders.com/report-hellcat-power-returning-to-dodge-charger-for-2028/",
+      "image_local": "images/story-1010.jpg",
+      "image_remote": "https://moparinsiders.com/wp-content/uploads/2026/10/2028-Dodge-Charger-at-the-Drag-Strip-rendering-1024x683.png",
+      "id": "ea1f0e42f0430a084a5d0bdd35d55d2ed6a702cb",
+      "summary": "Mopar Insiders says an internal Stellantis powertrain document lists a 2028 Dodge Charger SRT application pairing the supercharged 6.2-liter Hellcat HEMI V8 with ZF’s 8HP95 eight-speed automatic — the strongest public evidence yet that the Hellcat is coming back on the eighth-generation Charger (LB). The listing covers both the two-door (LB29) and four-door (LB49) bodies and, unlike today’s Hurricane-powered Chargers, calls for rear-wheel drive rather than AWD. That lines up with the site’s March 2026 report that Dodge had greenlit Hellcat development aimed at 2028, when a mid-cycle refresh is due. The same document still shows the 3.0-liter Hurricane twin-turbo I-6 in standard and high-output tunes and the ELD battery-electric pack used in the Charger Daytona, so gas, performance gas, and EV would share the lineup. Dodge has not announced a 2028 Charger SRT Hellcat; product plans can change."
+    },
+    {
+      "n": 3,
+      "headline": "NATO’s top commander warns Russia: we will “break” attacking forces and destroy “anything and everything” that supports them",
+      "cat": "World / defense",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/world/nato-warns-russia-we-break-forces-destroy-anything-everything-you-attack",
+      "image_local": "images/story-1011.jpg",
+      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/putin-grynkewich.jpg",
+      "id": "e94d1cee3a9d52ef04aed913942f4af49d5c5f9a",
+      "summary": "U.S. Air Force Gen. Alexus Grynkewich, NATO’s supreme allied commander in Europe, told the Warsaw Security Forum on Monday that if an adversary presses an attack on the alliance, “we will break the warfighting system engaged against us,” including “not just the attacking force itself, but anything and everything that supports, sustains, and controls that force.” He framed a three-part approach of “blocking, blunting and breaking” enemy forces and said that while NATO is defensive, “If someone is foolish enough to attack us, we will fight” and make any assault on any of the 32 allies “utterly futile.” The remarks come amid European accusations of Russian hybrid warfare — sabotage, arson, cyberattacks, and drone incursions near NATO territory. “We stand here together in Poland today stronger than ever united in our common vision of a more balanced, more ready and more lethal alliance,” Grynkewich said."
+    },
+    {
+      "n": 4,
+      "headline": "More than 30 years after Shotgun Messiah, Zinny J Zan and Harry Cody reunite as Zan/Cody with new album Beautiful ’N Damned",
+      "cat": "Heavy metal",
+      "source": "Louder / Classic Rock",
+      "url": "https://www.loudersound.com/bands-artists/zan-cody-beautiful-n-damned-interview",
+      "image_local": "images/story-1012.jpg",
+      "image_remote": "https://cdn.mos.cms.futurecdn.net/himenDaxpruw5gJe5s5cPT-1280-80.jpg",
+      "id": "6c431adf15968b0d2794395d5b2780d72bee3e65",
+      "summary": "Shotgun Messiah frontman Zinny J Zan and guitarist Harry Cody are back together as Zan/Cody with Beautiful ’N Damned, a hard-rock album with cellos and choirs that they cut over the internet before meeting in person for the first time since 1990. Zan left the glam-metal band amid differences and returned to Sweden; Cody and Tim Sköld carried on until Relativity dropped them after 1992’s industrial-leaning Violent New Breed. Cody says Shotgun Messiah as an entity is still him and Sköld, with most of another album recorded but on hold while Sköld plays bass in Marilyn Manson. Zan/Cody shopped the finished record and signed with Frontiers. They reunited on stage at Sweden Rock in June 2026 — their first Swedish show together since 1988 — and Cody says “time had ironed out most of the issues… the spark was still there.” Shotgun Messiah’s 1989 debut sold nearly half a million copies."
+    },
+    {
+      "n": 5,
+      "headline": "Apple routed a flexible graphite heat pipe through the iPhone Duo’s hinge so both halves can dump heat when the foldable is closed",
+      "cat": "Apple",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/10/12/the-iphone-duos-cooling-system-hides-a-clever-trick-inside-its-hinge/",
+      "image_local": "images/story-1013.jpg",
+      "image_remote": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-hinge-closeup.jpg?quality=82&strip=all&resize=1200,628",
+      "id": "4c16534670953e807025ec80c66094b8660e2973",
+      "summary": "Apple’s thermal team told PCMag that cooling the book-style iPhone Duo was “one of the most technically challenging aspects” of the design because a folded phone doubles in thickness and limits heat paths. Senior thermal manager Banafsheh Barabadi said they co-engineered a flexible graphite pipe that runs through the hinge itself, moving heat between the two halves and giving more surface area to shed it — a material that has to survive countless hinge cycles without losing thermal contact or falling apart. The Duo’s A20 Pro variant, Apple’s first iPhone chip on 2 nm, also adds a second display engine so the inner and outer screens can run at once, and places FaceTime behind the inner display. Across the new iPhones, Apple pairs the SoC with a vapor chamber and a “metal over foam” pad that couples the chip to the chamber while staying mechanically compliant. Pre-orders for the Duo are due Friday."
+    },
+    {
+      "n": 6,
       "headline": "RJ Mitte, who played Walter White Jr. on ‘Breaking Bad,’ dies at 34",
       "cat": "TV / obituary",
       "source": "CBS News",
@@ -13,7 +68,7 @@
       "summary": "RJ Mitte, who rose to fame as Walter “Flynn” White Jr., the son of Bryan Cranston’s chemistry-teacher-turned-meth-kingpin on “Breaking Bad,” has died at 34, his representative confirmed Monday. A Brownsville, Texas, justice of the peace told NBC News she declared him dead at 1:32 p.m. Monday in Brownsville, where he had moved, but could not disclose a cause of death. Mitte, who was diagnosed with cerebral palsy at 3, drew on that experience for the role; the series debuted in January 2008 when he was 15, and the cast won a Screen Actors Guild ensemble award in 2014 for its final season. Off screen he became a prominent disability advocate, serving as an ambassador for United Cerebral Palsy and Shriners Children’s and as president of The Mitte Foundation, and in 2014 received SAG-AFTRA’s Howard Russell Award. He later starred in “The Oak Room” and the 2021 wrestling film “Triumph,” about a high schooler with cerebral palsy. His representatives asked for privacy for his family."
     },
     {
-      "n": 2,
+      "n": 7,
       "headline": "Chicago police solve the 1960 murder of 8-year-old Gloria Kowalewicz — and the killer was one of their own, a longtime homicide detective",
       "cat": "Crime / courts",
       "source": "NBC News",
@@ -24,7 +79,7 @@
       "summary": "The Chicago Police Department says DNA technology that didn’t exist 65 years ago, combined with “a carefully preserved fingerprint” lifted from the strap of her white communion purse, has identified the man who abducted and killed 8-year-old Gloria Kowalewicz as she walked to Saturday morning Mass on the South Side on Nov. 12, 1960: Thomas F. McInerney Jr., then 24, who went on to serve as a CPD homicide detective and retired in 1987 after 28 years on the job. He died in Las Vegas in 2006 at 70. The third-grader was shot twice in the head and left in a ditch in a forest preserve southwest of the city; the case set off a months-long manhunt in which thousands were questioned, and more than 1,000 people attended her funeral. The match came in July using the same kind of genetic genealogy that caught the Golden State Killer. “McInerney should never have worn the CPD star, and it is devastating to accept that he was never identified and held accountable while he was alive,” the department said. His DNA is in the FBI’s CODIS database, and the FBI is checking whether he may be tied to other unsolved crimes from that era. Police still don’t know why he targeted Gloria; his parents lived less than a mile from her family."
     },
     {
-      "n": 3,
+      "n": 8,
       "headline": "Trump says he’s “looking at” firing Ambassador to Greece Kimberly Guilfoyle over an alleged $100,000 pay-to-play ask: “We’re not happy”",
       "cat": "Politics",
       "source": "CBS News",
@@ -35,7 +90,7 @@
       "summary": "President Trump told reporters on his way to Ohio on Monday that he and his administration are “looking at” firing Kimberly Guilfoyle as U.S. ambassador to Greece. “Well, we’re looking at it,” he said. “We’re not happy.” The question follows claims by businessman Eric Deters, who told CBS News last week he has “no doubt it was pay-to-play” after Guilfoyle allegedly asked him, ahead of her Senate confirmation hearing, to wire $100,000 to cover her American Express bill in exchange for her help with the administration. Deters gave CBS screenshots of their texts, including one in which she appears to ask for the money, and says he never paid. Sources told CBS that White House officials were told the texts are authentic and some aides were displeased; Guilfoyle’s lawyer has disputed their authenticity. Guilfoyle, Donald Trump Jr.’s ex-fiancée and a former Fox News host, had her hearing in July 2025 and was confirmed that September. She was highly visible during Secretary of State Marco Rubio’s visit to Greece last week, when Rubio declined to comment on the story."
     },
     {
-      "n": 4,
+      "n": 9,
       "headline": "Penguins trade Caleb Jones and prospect Daniel Laatsch to Buffalo for left-shot defenseman Ryan Johnson, a 2019 first-rounder",
       "cat": "Penguins hockey",
       "source": "Pittsburgh Hockey Now",
@@ -46,7 +101,7 @@
       "summary": "For the second time in a week, the Penguins have picked up a left-handed defenseman buried on another team’s depth chart. On Monday evening Pittsburgh sent Caleb Jones and depth prospect Daniel Laatsch to the Buffalo Sabres for Ryan Johnson, 25, the Sabres’ first-round pick (31st overall) in 2019. Johnson, 6-foot-1 and 195 pounds, is a defensive-minded, good-skating blueliner who played four seasons at the University of Minnesota and 41 NHL games as a rookie, but has spent most of the past two seasons in the AHL with only three NHL games in each; he has seven career NHL assists in 47 games and had 19 points in 56 games for Rochester last season. Jones, signed to a two-year, $1.8 million deal in July 2025, played just seven games for Pittsburgh last season through injuries and a suspension for a positive performance-enhancing-substance test, and was waived ahead of this season. Laatsch, a 6-foot-5 defenseman, played 29 ECHL games for Wheeling. The move fills a hole: the Penguins had no depth defenseman on the NHL roster after putting Trevor van Riemsdyk on injured reserve Monday."
     },
     {
-      "n": 5,
+      "n": 10,
       "headline": "Jerry Seinfeld to anti-Israel hecklers at his Chicago show: “I’m gonna find out how much your ticket was and I’m sending it to Israel”",
       "cat": "Comedy / Israel",
       "source": "The Algemeiner",
@@ -57,7 +112,7 @@
       "summary": "Activists from Anti-War Committee Chicago and the Chicago branch of the U.S. Palestinian Community Network repeatedly interrupted Jerry Seinfeld’s Friday show at the Chicago Theatre, calling him a racist and a “genocide apologist” for his support of Israel. “Seinfeld you will see, Palestine will be free,” one man shouted; when Seinfeld joked he’d “had enough” of his cell phone service, a woman yelled, “Well, I’ve had enough of genocide!” and accused him of making jokes while Palestinians are killed “with our taxpayer money.” Seinfeld shot back sarcastically, “I am a racist. It’s a genocide, I’m into it,” then added, “I’m gonna find out how much your ticket was and I’m sending it to Israel … No I won’t, I’m keeping it,” drawing laughter, applause and cheers, according to fan video posted online. Seinfeld, who lived on a kibbutz as a teenager, visited Israel after the Oct. 7, 2023, Hamas attack, met hostage families and has been heckled at several shows; protesters also walked out of his Duke University commencement speech. He has said “Free Palestine” is a way of saying “you don’t like Jews” without admitting it."
     },
     {
-      "n": 6,
+      "n": 11,
       "headline": "Musk says Starship Flight 15 will try to catch the ship itself with the tower, likely “a little bit before Thanksgiving”",
       "cat": "Elon / SpaceX",
       "source": "Teslarati",
@@ -68,7 +123,7 @@
       "summary": "Speaking to about 2,000 people at the X Takeover event at Giga Texas on Saturday, Elon Musk said SpaceX’s next Starship flight is four to six weeks away and “probably launches a little bit before Thanksgiving, is my guess,” a slip from earlier reporting that pointed to a launch as early as Oct. 19. He said the list of changes between flights is short this time, “but some of them take a fair bit of work and we’ve got to go inside the tank.” The big goal: “We’re going to try to catch the ship, which is a super big deal. If we do so, that’ll be the first time that there’s been full recovery of an orbital class rocket.” SpaceX has caught the Super Heavy booster with the tower’s mechanical arms, but the upper stage has never been caught; every ship so far has ended in a water landing. Musk said Flight 16 would then aim to refly both the booster and the ship. Teslarati notes that Starlink V3 satellites can only fly on Starship, and NASA’s Moon lander plans depend on fast, reusable tanker flights. Flight 14 reached orbit on Sept. 28 and deployed the first 26 V3 satellites despite an early engine shutdown."
     },
     {
-      "n": 7,
+      "n": 12,
       "headline": "Selma Blair arrested after allegedly biting a flight attendant and being restrained on a Delta flight from LAX to JFK",
       "cat": "Crime / courts",
       "source": "CBS News",
@@ -79,7 +134,7 @@
       "summary": "Actress Selma Blair, 54, was arrested after allegedly biting a flight attendant on Delta Air Lines Flight 938 from Los Angeles to New York’s JFK around 11 p.m. Sunday, CBS News reports. Port Authority Police say two flight attendants were hurt, one bitten and one with a laceration, and one went to the hospital; the crew had to restrain her. In air traffic control audio the pilot asked for medical personnel at the gate for “a bloody nose as well as some bite marks,” adding that the passenger may have hit her head on the bulkhead. A law enforcement source says she then kicked a Port Authority officer in the ambulance and assaulted a nurse at Jamaica Hospital. She was taken to Queens Central Booking for arraignment on two state assault counts, and the FBI, which is looking into a “potential assault” on the plane, issued her a federal summons. Her attorney says she “experienced a medical emergency that led to the alleged conduct” and is stable. Delta said it has “zero tolerance for unruly or unlawful behavior.” Blair, known for “Cruel Intentions” and “Legally Blonde,” has multiple sclerosis; her 2022 memoir has a chapter titled “Bite Me.”"
     },
     {
-      "n": 8,
+      "n": 13,
       "headline": "Hackers remotely defrost refrigerators at hundreds of French supermarkets, sparking fires and forcing stores to dump fresh and frozen food",
       "cat": "World / cyber",
       "source": "CBS News",
@@ -90,7 +145,7 @@
       "summary": "Major French supermarket chains said Monday they were hit by a cyberattack that drove up temperatures in refrigerators across hundreds of stores, spoiling food and, prosecutors say, sparking fires. At least 300 Intermarché and Netto shops, more than 100 Coopérative U outlets and several E. Leclerc stores were hit; Carrefour said 80 of its roughly 6,000 stores were attacked. French broadcaster BFM TV said hackers “managed to remotely trigger the forced defrosting of the refrigeration systems,” and affected stores will have to throw out all fresh and frozen products. A source said control systems from Danish maker Danfoss were targeted; Danfoss said most affected units were “legacy” AK-SM800 and AK-SC355 regulators that no longer get security updates, and that it had long urged supermarkets to upgrade. France’s cybersecurity agency has found a vulnerability in the Danish software and is warning European counterparts, since other countries may be affected. Ahold Delhaize, which also runs U.S. grocery chains, reported its own “security issue,” and Paris prosecutors have opened an investigation. Coopérative U’s CEO called targeting food-supply equipment “of extreme gravity and unprecedented.”"
     },
     {
-      "n": 9,
+      "n": 14,
       "headline": "Anthrax’s Frank Bello would do more ‘Big Four’ thrash shows “in a heartbeat”: “Talk to Metallica… They know our number”",
       "cat": "Heavy metal",
       "source": "Consequence (Heavy Consequence)",
@@ -101,18 +156,7 @@
       "summary": "Fifteen years after Metallica, Slayer, Megadeth and Anthrax wrapped their run of 14 “Big Four” shows at Yankee Stadium in 2011, Anthrax bassist Frank Bello told Heavy Consequence he would love to do it again. “It’s certainly not up to me,” he said. “Talk to Metallica. I would do it in a heartbeat. If it’s meant to be, it’ll be. They know our number. We’re friends.” Bello said he reconnected with James Hetfield for about half an hour at last year’s Back to the Beginning concert. With Slayer back on stage after quitting in 2019 and Megadeth on a farewell tour, any reunion would likely have to happen in the next few years. Bello also looked back on 1986–87, when Master of Puppets, Peace Sells, Reign in Blood and Among the Living all came out within 13 months: “Those records met the moment. It exploded… There’s a whole generation that hasn’t seen that. Of course, we’d do it. But, yeah, we’ll wait for the call.” Anthrax recently released Cursum Perficio, its first album in 10 years."
     },
     {
-      "n": 10,
-      "headline": "Jeep closes its Twelve 4 Twelve series with the 2027 Wrangler Switchback: doors and hoods swapped between black and gray Rubicon Xs on the line",
-      "cat": "Jeep",
-      "source": "Mopar Insiders",
-      "url": "https://moparinsiders.com/2027-jeep-wrangler-switchback-closes-twelve-4-twelve/",
-      "image_local": "images/story-1002.jpg",
-      "image_remote": "https://moparinsiders.com/wp-content/uploads/2026/10/JP027_WR052.jpeg",
-      "id": "ba4df12f55a1e56db1764a8d5dd5a893897729a1",
-      "summary": "Jeep has revealed the last of its yearlong Twelve 4 Twelve special Wranglers, the 2027 Wrangler Switchback, built to look like two owners traded parts. It starts from the Wrangler Rubicon X in two- and four-door versions and mixes Gloss Black and Sting-Gray: Jeep sequences black and gray Wranglers together on the assembly line and switches their doors during normal production, then swaps the dual-vented power-dome hoods at the upfitting center. A matching three-piece hardtop, black badges and tow hooks set off bright Gecko green on the grille surround, hood graphics, swing-gate decal and the beadlock wheel rings, which Jeep says are the first production Wrangler beadlock rings in a bright color. Inside are Global Black Nappa seats with an embossed Switchback logo, Sea Salt Nappa trim (a Wrangler first), Pearl and Lime stitching, a Willys satin-chrome shifter medallion and a swing-gate plaque with blueprint-style drawings and Detroit and Toledo references. The series has marked Jeep’s 85 years with a dozen Wranglers drawing on military, retro, Western and concept-vehicle themes; this one leans on gaming and digital culture."
-    },
-    {
-      "n": 11,
+      "n": 15,
       "headline": "Ex-paratrooper Karl Bushby is back on British soil after a 28-year, 30,000-mile walk from Chile, with about 240 miles left to his mum’s house",
       "cat": "World / travel",
       "source": "Fox News",
@@ -123,7 +167,7 @@
       "summary": "British adventurer Karl Bushby has set foot in England again after a journey on foot he began in Chile on Nov. 1, 1998, with a few hundred dollars in his pocket. On Oct. 5 he announced he had swum the English Channel from France, celebrated with fish and chips, and on Oct. 9 set off through Dover on the final leg; he hopes to reach his mother’s home in Hull by the end of the month and has roughly 240 miles to go. The ex-paratrooper got the idea from a birthday card his father sent in the 1990s about walking from London to New York via the Bering Strait. He walked north through the Americas, crossed the frozen Bering Strait from Alaska into Russia, and when Russia refused him a visa in 2012 he walked to the Russian Embassy in Washington in protest until the ban was lifted. He later crossed Mongolia and China and swam the Caspian Sea from Kazakhstan to Azerbaijan in 2024. Expected to take 12 years, the trip stretched across more than 30,000 miles and 29 countries through visa fights, the 2008 crash, COVID and detention. “It’s the people, the strangers that I have met along the way, that have kept me upright,” he said."
     },
     {
-      "n": 12,
+      "n": 16,
       "headline": "Babylon Bee: ‘Mamdani Says ICE Agents Who Cross Border Into New York City Without Permission Will Be Prosecuted’",
       "cat": "Satire",
       "source": "The Babylon Bee",
@@ -134,7 +178,7 @@
       "summary": "Satire. In the Bee’s telling, Mayor Zoran Mamdani’s office announced Monday that any ICE agents who cross into the city without permission will be prosecuted “to the fullest extent of the law,” with agents still in town to be rounded up and deported to New Jersey, where they can petition to enter New York legally. “This city wants ICE out, and I am prepared to enforce our city’s borders against them,” the fake Mamdani says, adding that “no one should be allowed to freely roam in and out of a territory without permission.” A fictional President Trump calls the move unprecedented, noting New York doesn’t have a wall, only “a little water,” and that ICE agents can swim the Hudson “like dolphins — ICE dolphins, I call them.” By publishing time, the mayor had diverted money from free bus rides to building a big, beautiful wall around the city to keep ICE out."
     },
     {
-      "n": 13,
+      "n": 17,
       "headline": "Federal agents raid Rep. Ilhan Omar’s D.C. home in a criminal probe of the immigration paperwork her father filed when she was a child",
       "cat": "Politics",
       "source": "Fox News",
@@ -145,7 +189,7 @@
       "summary": "Agents with Homeland Security Investigations, the criminal investigative arm of DHS, searched the Washington, D.C., home of Rep. Ilhan Omar, D-Minn., early Monday morning. Fox News Digital, which first reported the raid, says the operation began around 6 a.m., with HSI and DHS leading it and the Justice Department involved, and that agents in HSI jackets were seen outside the house. Sources told Fox and CBS News the case centers on the Somali-born congresswoman’s immigration paperwork, filled out by her late father when she was a child; HSI handles federal crimes such as immigration document fraud, identity fraud and benefit fraud. A DOJ spokesperson said HSI “executed a judicially authorized search warrant secured by the Department of Justice” as “part of an ongoing federal investigation.” Omar’s office did not respond to requests for comment, and the White House and DHS declined to comment. Border czar Tom Homan said in mid-September that Omar was the subject of an ongoing criminal investigation; at the time she said no one had contacted her about one. Omar has also drawn scrutiny over her financial disclosures, which went from reporting $6 million to $30 million in her husband’s assets in 2024 to a maximum of $125,000 in shared assets in 2025."
     },
     {
-      "n": 14,
+      "n": 18,
       "headline": "Apple reportedly raises iPhone Duo orders 30% ahead of Friday’s pre-orders, pushing its 2026 target toward 10 million",
       "cat": "Apple",
       "source": "9to5Mac",
@@ -156,7 +200,7 @@
       "summary": "Apple is expecting much stronger demand for the foldable iPhone Duo than it first planned, according to a report from China’s Securities Times. Supply-chain sources told the paper Apple has raised its iPhone Duo orders by 30%; total supply for the rest of 2026 still doesn’t exceed 10 million units, but against earlier estimates of 6 to 7 million, 9to5Mac says the new target is likely close to 10 million. Pre-orders open this Friday, Oct. 16, and Apple’s “get ready” step for faster checkout opens later today. The same sources say iPhone 18 Pro Max orders rose 10% to 15% while iPhone 18 Pro orders were cut by the same amount, leaving total iPhone 18 Pro-line targets unchanged, which contradicts a recent Nikkei Asia report of cuts."
     },
     {
-      "n": 15,
+      "n": 19,
       "headline": "Milford police identify three suspects in weeks of attacks on the homeless camp behind Lowe’s: fireworks, thrown stones and swastikas",
       "cat": "Local / Connecticut",
       "source": "Patch (Milford)",
@@ -167,40 +211,7 @@
       "summary": "Milford police say they have identified suspects in a string of attacks on the homeless encampment behind the Lowe’s store at 311 Old Gate Lane, after the Beth-El Shelter called for “immediate protective measures” over what it described as “nearly daily violent attacks and hate speech” since the end of September. The shelter says fireworks thrown into the camp started fires that residents had to put out, that the attacks have grown more dangerous over the past week, and that shelter employees have been hurt; swastikas were also spray-painted on trees. Police Chief Keith Mello said Monday that detectives are assigned to the case and patrols near the camp have been increased around the clock. Police confirmed evidence of fireworks thrown at or near the encampment and of the swastikas, but said there do not appear to be physical injuries to encampment residents. A license plate reader on Old Gate Lane identified one suspect and digital evidence led to two more. Police count at least five separate incidents, which may or may not all be linked to those suspects. Charges, including whether a hate crime was committed, will be decided when the investigation is complete; a hate-crimes notification has been filed with the Connecticut State Police. Mayor Rich Smith condemned the attacks on Friday."
     },
     {
-      "n": 16,
-      "headline": "NHTSA weighs a probe into claims Tesla Robotaxis speed through school zones, and puts the driverless fleet at about 1,000 cars",
-      "cat": "Tesla",
-      "source": "Electrek",
-      "url": "https://electrek.co/2026/10/12/nhtsa-tesla-robotaxi-school-zone-speeding-petition/",
-      "image_local": "images/story-995.jpg",
-      "image_remote": "https://electrek.co/wp-content/uploads/sites/3/2026/02/Tesla-Cybercab-hero.jpg?quality=82&strip=all&resize=1200,628",
-      "id": "771f787eeef0e0b427c3c92d51e61af88c245449",
-      "summary": "A new defect petition accuses Tesla’s Robotaxis of speeding through active school zones, and the National Highway Traffic Safety Administration has opened a file to decide whether to investigate. The Office of Defects Investigation opened the petition review, DP26010, on Friday, Oct. 9; it covers model-year 2026 Robotaxis, Model Y and Cybercab, running Tesla’s Automated Driving System, which the agency estimates at about 1,000 vehicles. Electrek says that is the first federal figure for the size of the fleet, which Tesla doesn’t disclose, though NHTSA may be counting cars certified with the Texas DMV rather than those in active service. The evidence is thin so far: three social media videos and four incidents in NHTSA’s own tally, with no crashes, injuries or deaths. NHTSA has 120 days from the Sept. 23 filing, to about Jan. 21, 2027, to grant or deny it; a grant would open a formal defect investigation that could end in a recall. It is the third federal action aimed at Tesla’s driverless fleet in about five weeks, after an audit query and a Special Order requiring Tesla to show under oath that the Cybercab, which has no pedals or steering wheel, meets federal safety standards."
-    },
-    {
-      "n": 17,
-      "headline": "A 1923 Leica 0-Series prototype, serial No. 103, sells for €4.25 million (about $4.75 million) after a 20-minute bidding war",
-      "cat": "Cameras",
-      "source": "PetaPixel",
-      "url": "https://petapixel.com/2026/10/12/the-third-leica-0-series-prototype-camera-ever-made-just-sold-for-nearly-5-million/",
-      "image_local": "images/story-997.jpg",
-      "image_remote": "https://petapixel.com/assets/uploads/2026/10/wetzlar-camera-auctions-8-leica-0-series-featured.jpg",
-      "id": "a894fa5d61d1240f6ef59deb9037f092e8bd43ca",
-      "summary": "A Leica 0-Series camera from 1923 sold at the eighth Wetzlar Camera Auctions on Saturday for €4,250,000, about $4.75 million, more than twice its €2 million estimate after a 20-minute bidding war, making it one of the most expensive cameras ever sold at auction. Serial number 103 is the third 0-Series camera made; Leica’s first prototype was No. 101. The 0-Series cameras were hand-built prototypes leading up to the Leica I, the company’s first commercially sold 35mm camera, and only 16 are known to survive, all in museums and private collections. “The Leica 0-Series represents the very beginning of Leica’s remarkable history and is regarded as the holy grail of Leica collecting,” said auction co-owner Lars Netopil. Other lots among the 259 included a handmade Leica Model A prototype at €225,000, a gold-plated 1931 Leica I Model C “Luxus” at €375,000, a 1965 Leica M4 prototype also at €375,000, and a square-format Leitz 24x24mm prototype from the late 1940s at €137,500."
-    },
-    {
-      "n": 18,
-      "headline": "Jets beat the Browns 17-12 in the rain at MetLife as Braelon Allen scores the winner with 3:01 left after a botched Cleveland punt snap",
-      "cat": "Jets football",
-      "source": "Cleveland 19 News",
-      "url": "https://www.cleveland19.com/2026/10/11/browns-falter-4th-lose-jets-17-12/",
-      "image_local": "images/story-974.jpg",
-      "image_remote": "https://gray-woio-prod.gtv-cdn.com/resizer/v2/5ZC7RUEGYBGFFMI56SJ3VNHTSA.jpg?auth=e0ecee86390bb9bdf6af1a62e5edebdacd9bb81269bd6ba618ca55dd3a2876d8&width=1200&height=600&smart=true",
-      "id": "f2269b665dabf170ee8416d0b79970755ced8949",
-      "summary": "The Jets got their second win of the season Sunday, beating the 3-1 Browns 17-12 on a rainy afternoon at MetLife Stadium. Cleveland took its first lead midway through the fourth quarter on a 29-yard Deshaun Watson bomb to rookie Denzel Boston, but kicker Andre Szmyt missed the extra point, leaving it 12-10. The Browns then seemed to have the game in hand when Carson Schwesinger forced a Geno Smith fumble with 4:13 to go. Instead, a high snap sailed through punter Corey Bojorquez’s hands, Trevin Wallace recovered for the Jets in field-goal range, and Braelon Allen ran 22 yards for the go-ahead touchdown with 3:01 left. The Jets’ first-half touchdown came on a 32-yard Smith pass to Garrett Wilson, and Jason Sanders added a 54-yard field goal early in the fourth. No. 2 overall pick David Bailey had his first three-sack game in the NFL. It was a sloppy, turnover-filled day in the rain: Cleveland linebacker Quincy Williams forced three fumbles, tying a Browns record. Browns rookie receiver KC Concepcion left in the first quarter with a head injury after a high hit from Minkah Fitzpatrick and did not return."
-    },
-    {
-      "n": 19,
+      "n": 20,
       "headline": "Trumbull this week: last voter registration session before Nov. 3, early voting starts Oct. 19 at the library, and loose-leaf pickup begins Nov. 4",
       "cat": "Local / Trumbull CT",
       "source": "Patch Trumbull",
@@ -209,17 +220,6 @@
       "image_remote": "https://patch.com/img/cdn20/users/22878689/20261009/104544/styles/patch_image/public/img-3273___09103213822.jpg",
       "id": "f9b0c7f4860986002fcb27bf0f16ff624421fd55",
       "summary": "Trumbull’s registrars will hold a statewide voter registration session Friday, the last regular session before the Nov. 3 election, though same-day registration will still be available during early voting and on Election Day (questions: 203-452-5058 or 203-452-5059). Early voting runs Oct. 19 through Nov. 1 at the Trumbull Library from 10 a.m. to 6 p.m., with longer 8 a.m. to 8 p.m. hours on Oct. 27 and Oct. 29, according to the town clerk’s election warning. On Election Day, Trumbull votes at Daniels Farm, Booth Hill, Tashua, Madison Middle, Frenchtown Road, Middlebrook and Christian Heritage schools. Also this week, the Hillcrest Middle School Building Committee gets updates from its architect and construction manager and reviews invoices, and the Library System Board of Trustees elects officers and discusses the poet laureate program. Public Works says the town’s loose-leaf collection should start Nov. 4 and run until every neighborhood is done, with a daily progress map online. Residents can also ask for bagged-leaf pickup as often as they need during the program."
-    },
-    {
-      "n": 20,
-      "headline": "LEGO announces a Star Wars x Marvel ‘Hope Assembles’ crossover contest at NYCC, reviving the rumor of a mash-up ‘Iron Falcon’ set",
-      "cat": "LEGO",
-      "source": "Brick Fanatics",
-      "url": "https://www.brickfanatics.com/lego-marvel-star-wars-crossover-event-old-rumour",
-      "image_local": "images/story-979.jpg",
-      "image_remote": "https://www.brickfanatics.com/bf-derivatives/webp/7e7cc8991529cd3efe1a3b8cfb9b634435615993a0c8079a8afab51b2344171d.webp",
-      "id": "e9ea78232fc288b9aeb329b817d397a492750c80",
-      "summary": "At New York Comic Con this weekend, LEGO announced a new LEGO Ideas event, “Hope Assembles,” inviting fans to submit designs for LEGO Marvel and Star Wars crossover models that could eventually become real sets. It is named after the Star Wars/Marvel: Hope Assembles crossover comic due in early 2027. Brick Fanatics says the contest puts new weight behind a rumor from August about a set numbered 75481 called Iron Falcon, reportedly being considered as a Star Wars–Marvel crossover. The rumor looked outlandish at the time, until the crossover comic was announced the next day. The Ideas event does not confirm Iron Falcon or any official crossover sets, and the site cautions that no LEGO rumor should be treated as fact until the LEGO Group confirms it. Fans who like a mismatched Millennium Falcon can already buy 75389 The Dark Falcon while they wait."
     }
   ]
 }

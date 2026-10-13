@@ -1109,7 +1109,12 @@
     "25b3e02d88e0c935d2453858d4152c2e7f0f12d2",
     "3d542ced65c0f95c1524091d027ae517b88f30cb",
     "6f89f34076818b4e8e85676fcc46c35dc5ac650d",
-    "9433b04f88cffd3b6babae0a45e1c6fa24509cc8"
+    "9433b04f88cffd3b6babae0a45e1c6fa24509cc8",
+    "cca24aaa4e5fbd58a940460a83402ba076ed546d",
+    "ea1f0e42f0430a084a5d0bdd35d55d2ed6a702cb",
+    "e94d1cee3a9d52ef04aed913942f4af49d5c5f9a",
+    "6c431adf15968b0d2794395d5b2780d72bee3e65",
+    "4c16534670953e807025ec80c66094b8660e2973"
   ],
   "stories": {
     "0c2ac7a5e342411678296315c4c59043b1f067cc": {
@@ -13567,7 +13572,57 @@
       "image_remote": "https://www.algemeiner.com/wp-content/uploads/2023/12/2022-09-11T195540Z_198851089_MT1SIPA000X4PH0N_RTRMADP_3_SIPA-USA-2.jpg",
       "image_local": "images/story-1008.jpg",
       "id": "9433b04f88cffd3b6babae0a45e1c6fa24509cc8"
+    },
+    "cca24aaa4e5fbd58a940460a83402ba076ed546d": {
+      "headline": "Man dies after falling from the Goliath roller coaster at Six Flags Over Georgia; riders left stranded until crews evacuate the 200-foot ride",
+      "cat": "Crime / courts",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/us/man-dies-after-falling-from-goliath-roller-coaster-six-flags-over-georgia",
+      "summary": "A person died Monday afternoon after an incident on the Goliath hypercoaster at Six Flags Over Georgia, Cobb County police confirmed to Fox News. The department said it happened just before 4 p.m., with one person dead and several others reported injured, and did not immediately give further details. A Six Flags spokesperson said the park was “deeply saddened by the guest incident,” was cooperating with authorities, and would not share more “out of respect for the family’s privacy.” Witnesses told local station WXIA the man appeared in their souvenir photo as he fell and “hit the car three different times.” The 200-foot coaster, which reaches about 70 mph with a 170-foot first drop, stalled with passengers stuck on the track until emergency crews evacuated them; video showed people climbing out and using a high staircase. The ride has a secondary 175-foot drop, a 540-degree spiral, and forces up to about 4 Gs.",
+      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/six-flags-guests-evacuate-goliath-ride-after-deadly-incident.jpg",
+      "image_local": "images/story-1009.jpg",
+      "id": "cca24aaa4e5fbd58a940460a83402ba076ed546d"
+    },
+    "ea1f0e42f0430a084a5d0bdd35d55d2ed6a702cb": {
+      "headline": "Internal Stellantis document points to a 2028 Dodge Charger Hellcat: supercharged 6.2L HEMI V8, RWD, two- and four-door",
+      "cat": "Dodge / autos",
+      "source": "Mopar Insiders",
+      "url": "https://moparinsiders.com/report-hellcat-power-returning-to-dodge-charger-for-2028/",
+      "summary": "Mopar Insiders says an internal Stellantis powertrain document lists a 2028 Dodge Charger SRT application pairing the supercharged 6.2-liter Hellcat HEMI V8 with ZF’s 8HP95 eight-speed automatic — the strongest public evidence yet that the Hellcat is coming back on the eighth-generation Charger (LB). The listing covers both the two-door (LB29) and four-door (LB49) bodies and, unlike today’s Hurricane-powered Chargers, calls for rear-wheel drive rather than AWD. That lines up with the site’s March 2026 report that Dodge had greenlit Hellcat development aimed at 2028, when a mid-cycle refresh is due. The same document still shows the 3.0-liter Hurricane twin-turbo I-6 in standard and high-output tunes and the ELD battery-electric pack used in the Charger Daytona, so gas, performance gas, and EV would share the lineup. Dodge has not announced a 2028 Charger SRT Hellcat; product plans can change.",
+      "image_remote": "https://moparinsiders.com/wp-content/uploads/2026/10/2028-Dodge-Charger-at-the-Drag-Strip-rendering-1024x683.png",
+      "image_local": "images/story-1010.jpg",
+      "id": "ea1f0e42f0430a084a5d0bdd35d55d2ed6a702cb"
+    },
+    "e94d1cee3a9d52ef04aed913942f4af49d5c5f9a": {
+      "headline": "NATO’s top commander warns Russia: we will “break” attacking forces and destroy “anything and everything” that supports them",
+      "cat": "World / defense",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/world/nato-warns-russia-we-break-forces-destroy-anything-everything-you-attack",
+      "summary": "U.S. Air Force Gen. Alexus Grynkewich, NATO’s supreme allied commander in Europe, told the Warsaw Security Forum on Monday that if an adversary presses an attack on the alliance, “we will break the warfighting system engaged against us,” including “not just the attacking force itself, but anything and everything that supports, sustains, and controls that force.” He framed a three-part approach of “blocking, blunting and breaking” enemy forces and said that while NATO is defensive, “If someone is foolish enough to attack us, we will fight” and make any assault on any of the 32 allies “utterly futile.” The remarks come amid European accusations of Russian hybrid warfare — sabotage, arson, cyberattacks, and drone incursions near NATO territory. “We stand here together in Poland today stronger than ever united in our common vision of a more balanced, more ready and more lethal alliance,” Grynkewich said.",
+      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/putin-grynkewich.jpg",
+      "image_local": "images/story-1011.jpg",
+      "id": "e94d1cee3a9d52ef04aed913942f4af49d5c5f9a"
+    },
+    "6c431adf15968b0d2794395d5b2780d72bee3e65": {
+      "headline": "More than 30 years after Shotgun Messiah, Zinny J Zan and Harry Cody reunite as Zan/Cody with new album Beautiful ’N Damned",
+      "cat": "Heavy metal",
+      "source": "Louder / Classic Rock",
+      "url": "https://www.loudersound.com/bands-artists/zan-cody-beautiful-n-damned-interview",
+      "summary": "Shotgun Messiah frontman Zinny J Zan and guitarist Harry Cody are back together as Zan/Cody with Beautiful ’N Damned, a hard-rock album with cellos and choirs that they cut over the internet before meeting in person for the first time since 1990. Zan left the glam-metal band amid differences and returned to Sweden; Cody and Tim Sköld carried on until Relativity dropped them after 1992’s industrial-leaning Violent New Breed. Cody says Shotgun Messiah as an entity is still him and Sköld, with most of another album recorded but on hold while Sköld plays bass in Marilyn Manson. Zan/Cody shopped the finished record and signed with Frontiers. They reunited on stage at Sweden Rock in June 2026 — their first Swedish show together since 1988 — and Cody says “time had ironed out most of the issues… the spark was still there.” Shotgun Messiah’s 1989 debut sold nearly half a million copies.",
+      "image_remote": "https://cdn.mos.cms.futurecdn.net/himenDaxpruw5gJe5s5cPT-1280-80.jpg",
+      "image_local": "images/story-1012.jpg",
+      "id": "6c431adf15968b0d2794395d5b2780d72bee3e65"
+    },
+    "4c16534670953e807025ec80c66094b8660e2973": {
+      "headline": "Apple routed a flexible graphite heat pipe through the iPhone Duo’s hinge so both halves can dump heat when the foldable is closed",
+      "cat": "Apple",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/10/12/the-iphone-duos-cooling-system-hides-a-clever-trick-inside-its-hinge/",
+      "summary": "Apple’s thermal team told PCMag that cooling the book-style iPhone Duo was “one of the most technically challenging aspects” of the design because a folded phone doubles in thickness and limits heat paths. Senior thermal manager Banafsheh Barabadi said they co-engineered a flexible graphite pipe that runs through the hinge itself, moving heat between the two halves and giving more surface area to shed it — a material that has to survive countless hinge cycles without losing thermal contact or falling apart. The Duo’s A20 Pro variant, Apple’s first iPhone chip on 2 nm, also adds a second display engine so the inner and outer screens can run at once, and places FaceTime behind the inner display. Across the new iPhones, Apple pairs the SoC with a vapor chamber and a “metal over foam” pad that couples the chip to the chamber while staying mechanically compliant. Pre-orders for the Duo are due Friday.",
+      "image_remote": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-hinge-closeup.jpg?quality=82&strip=all&resize=1200,628",
+      "image_local": "images/story-1013.jpg",
+      "id": "4c16534670953e807025ec80c66094b8660e2973"
     }
   },
-  "updated": "Monday, October 12, 2026 · 6:19 PM ET"
+  "updated": "Monday, October 12, 2026 · 10:13 PM ET"
 }
