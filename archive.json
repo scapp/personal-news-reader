@@ -1121,7 +1121,13 @@
     "5ee69022676bd08c5147f0514fd2a4e53c023b35",
     "18ca78a6efc6cf8fd43f33e26989cb8827d809bd",
     "399a210375edcb26ea358a25b857246cd64668a5",
-    "4afbffff2ac7ca235880162aeb5d64015088dcd4"
+    "4afbffff2ac7ca235880162aeb5d64015088dcd4",
+    "072e2885a717c875992b54b15b14cc1ac3416b43",
+    "56d0581bc79d2842e89006d7dea987f12e845052",
+    "e47fef8255fdd7984b3f412f95d020c7f7107767",
+    "1d0d2d5f4e544ee17b3760bba2ccc76b97a3cea2",
+    "37228b355fca966f8d7eb87635e3d53d26961014",
+    "817a0a84d4f036528e5bbd500feb53555a758811"
   ],
   "stories": {
     "0c2ac7a5e342411678296315c4c59043b1f067cc": {
@@ -13699,7 +13705,67 @@
       "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/Faith-Hedgepeth.jpg",
       "image_local": "images/story-1020.jpg",
       "id": "4afbffff2ac7ca235880162aeb5d64015088dcd4"
+    },
+    "072e2885a717c875992b54b15b14cc1ac3416b43": {
+      "headline": "Apple’s “Welcome Home” event: HomeView smart display, HomePod mini 2, and a pricier Apple TV 4K",
+      "cat": "Apple",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2285079/everything-apple-announced-home-view-homepod-mini-2-event/",
+      "summary": "Apple staged a “Welcome Home” event in New York and put its smart-home push on stage: HomeView, a $299 7-inch Liquid Retina hub with face recognition for up to six people, Siri AI, FaceTime, and Home controls, in tabletop and wall-mount versions with pre-orders open and shipping Nov. 13 (not sold in the EU). HomePod mini 2 arrives at $149 with new colors, richer audio, and four-speaker surround when paired with the new Apple TV 4K; it ships Oct. 30, with Siri AI due later via software. The refreshed Apple TV 4K jumps to $299 for 128GB with an A19 chip, built-in far-field mics for hands-free Siri, and an updated Siri Remote, alongside an Apple Home Collection of partner cameras, locks, and thermostats.",
+      "image_remote": "https://www.engadget.com/img/gallery/everything-apple-announced-home-view-homepod-mini-2-event/l-intro-1791903519.jpg",
+      "image_local": "images/story-1021.jpg",
+      "id": "072e2885a717c875992b54b15b14cc1ac3416b43"
+    },
+    "56d0581bc79d2842e89006d7dea987f12e845052": {
+      "headline": "White House asks Kimberly Guilfoyle to resign as U.S. ambassador to Greece, new press secretary confirms",
+      "cat": "Politics",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/trump-asks-kimberly-guilfoyle-resign-greece-ambassador-white-house-confirms",
+      "summary": "In her first briefing Tuesday, White House press secretary Katie Zacharia said the administration has asked Ambassador to Greece Kimberly Guilfoyle to resign, calling her a “wonderful asset” and wishing her well — one day after President Trump said he was “looking at” firing her and was “not happy.” The request follows Wall Street Journal reporting that Guilfoyle asked Trump donor Eric Deters to wire $100,000 to her American Express account before her Senate confirmation so it would not show on disclosures, plus separate claims about embassy workplace conduct and promoting a Greek firm’s interests. Guilfoyle’s attorney has disputed the messages; it was not immediately clear whether she had formally resigned.",
+      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/donald-trump-kimberly-guilfoyle.jpg",
+      "image_local": "images/story-1022.jpg",
+      "id": "56d0581bc79d2842e89006d7dea987f12e845052"
+    },
+    "e47fef8255fdd7984b3f412f95d020c7f7107767": {
+      "headline": "Chicago teen allegedly shoots and paralyzes pregnant classmate after a judge took him off an ankle monitor",
+      "cat": "Crime / courts",
+      "source": "Not the Bee",
+      "url": "https://notthebee.com/article/report-chicago-teen-shoots-paralyzes-pregnant-student-after-judge-grants-his-release-in-pending-carjacking-case",
+      "summary": "Prosecutors say 17-year-old Angel Funez-Reyes shot a 16-year-old classmate outside Latino Youth High School on Sept. 7, leaving her paralyzed and ending her six-month pregnancy, after weeks of harassment in art class. He had been on electronic monitoring in a juvenile carjacking case until a judge removed the ankle monitor on Aug. 18; two days before the shooting he was arrested for swinging a knife at a passerby and released again. When police booked him for the shooting he still had a knife, prosecutors said. Not the Bee notes he is the 18th person accused in Chicago this year of killing or trying to kill someone while on felony pretrial release.",
+      "image_remote": "",
+      "image_local": "",
+      "id": "e47fef8255fdd7984b3f412f95d020c7f7107767"
+    },
+    "1d0d2d5f4e544ee17b3760bba2ccc76b97a3cea2": {
+      "headline": "Black Sabbath’s Tony Iommi says Ozzy Osbourne’s death has him asking how much longer he has at 78",
+      "cat": "Metal",
+      "source": "Louder / Classic Rock",
+      "url": "https://www.loudersound.com/bands-artists/black-sabbath-tony-iommi-says-ozzy-osbourne-death-has-made-him-reflect-on-his-own-mortality",
+      "summary": "In a Telegraph interview, Black Sabbath guitarist Tony Iommi said Ozzy Osbourne’s death has forced him to confront his own mortality: “I’ve had a few friends go now, and you think, Blimey, hang on, I’m 78, how much longer?” He recalled a final call with Osbourne the day before the singer died, when Ozzy said he was “absolutely shattered” and Iommi told him to rest — “Then I heard the next day that he’d gone.” Iommi, who called Ozzy part of his life for 60 years, also revisited a stalled early-2020s reunion-album idea and is releasing the solo album From the Dark on Oct. 23.",
+      "image_remote": "https://cdn.mos.cms.futurecdn.net/K8kXCjJpBbKLWUviyQN4xG-1280-80.jpg",
+      "image_local": "images/story-1023.jpg",
+      "id": "1d0d2d5f4e544ee17b3760bba2ccc76b97a3cea2"
+    },
+    "37228b355fca966f8d7eb87635e3d53d26961014": {
+      "headline": "Fender’s next American Professional range adds V-Mod III pickups and new bridges — from $1,799 with no price hike",
+      "cat": "Guitar",
+      "source": "Guitar World",
+      "url": "https://www.guitarworld.com/gear/electric-guitars/fender-american-professional-2026",
+      "summary": "Fender rolled out a new American Professional generation (no “III” badge) covering Stratocaster, Telecaster, Jazzmaster, Jaguar, and Precision/Jazz Bass models with model-specific V-Mod III pickups, revised electronics, and new bridges aimed at decades-old hardware gripes — starting at $1,799 without a price increase. Strat/Jazzmaster/Tele pickups get magnet staggers that follow the fretboard radius for better distorted chord response; bridge updates include Strat saddles without protruding screw ends. Guitar World calls it one of Fender’s most comprehensive flagship refreshes in recent memory amid the brand’s separate Stratocaster trademark fights.",
+      "image_remote": "https://cdn.mos.cms.futurecdn.net/yjg3G2AjuXwFCGajUXd4uJ-2560-80.jpg",
+      "image_local": "images/story-1024.jpg",
+      "id": "37228b355fca966f8d7eb87635e3d53d26961014"
+    },
+    "817a0a84d4f036528e5bbd500feb53555a758811": {
+      "headline": "Another torn-down Toyota V35A V6 points to warped heads and coolant intrusion in the Tundra recall saga",
+      "cat": "Auto / engines",
+      "source": "The Drive",
+      "url": "https://www.thedrive.com/news/this-blown-toyota-v6-may-hold-the-secret-to-the-tundras-engine-failures",
+      "summary": "YouTuber Eric of “I Do Cars” tore down a third troublesome Toyota V35A V6 — a replacement engine that failed again — and this time found a warped cylinder head, coolant at the head gaskets, a crusted water pump, and coolant mixed into the oil, rather than the catastrophic bearing wipe seen in earlier teardowns. A relatively clean crank and clearer oil passages leave open whether Toyota has fixed machining debris issues or whether cooling/head problems are another failure mode still in the wild. The Drive frames the tear-down as fresh evidence in Toyota’s murky V6 recall and Tundra engine-failure story.",
+      "image_remote": "https://www.thedrive.com/wp-content/uploads/2026/10/v35a-teardown.jpg?quality=85&w=1200",
+      "image_local": "images/story-1025.jpg",
+      "id": "817a0a84d4f036528e5bbd500feb53555a758811"
     }
   },
-  "updated": "Tuesday, October 13, 2026 · 7:17 AM ET"
+  "updated": "Tuesday, October 13, 2026 · 11:47 AM ET"
 }

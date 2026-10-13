@@ -1,8 +1,74 @@
 {
-  "updated": "Tuesday, October 13, 2026 · 7:17 AM ET",
+  "updated": "Tuesday, October 13, 2026 · 11:47 AM ET",
   "stories": [
     {
       "n": 1,
+      "headline": "Apple’s “Welcome Home” event: HomeView smart display, HomePod mini 2, and a pricier Apple TV 4K",
+      "cat": "Apple",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2285079/everything-apple-announced-home-view-homepod-mini-2-event/",
+      "image_local": "images/story-1021.jpg",
+      "image_remote": "https://www.engadget.com/img/gallery/everything-apple-announced-home-view-homepod-mini-2-event/l-intro-1791903519.jpg",
+      "id": "072e2885a717c875992b54b15b14cc1ac3416b43",
+      "summary": "Apple staged a “Welcome Home” event in New York and put its smart-home push on stage: HomeView, a $299 7-inch Liquid Retina hub with face recognition for up to six people, Siri AI, FaceTime, and Home controls, in tabletop and wall-mount versions with pre-orders open and shipping Nov. 13 (not sold in the EU). HomePod mini 2 arrives at $149 with new colors, richer audio, and four-speaker surround when paired with the new Apple TV 4K; it ships Oct. 30, with Siri AI due later via software. The refreshed Apple TV 4K jumps to $299 for 128GB with an A19 chip, built-in far-field mics for hands-free Siri, and an updated Siri Remote, alongside an Apple Home Collection of partner cameras, locks, and thermostats."
+    },
+    {
+      "n": 2,
+      "headline": "White House asks Kimberly Guilfoyle to resign as U.S. ambassador to Greece, new press secretary confirms",
+      "cat": "Politics",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/trump-asks-kimberly-guilfoyle-resign-greece-ambassador-white-house-confirms",
+      "image_local": "images/story-1022.jpg",
+      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/donald-trump-kimberly-guilfoyle.jpg",
+      "id": "56d0581bc79d2842e89006d7dea987f12e845052",
+      "summary": "In her first briefing Tuesday, White House press secretary Katie Zacharia said the administration has asked Ambassador to Greece Kimberly Guilfoyle to resign, calling her a “wonderful asset” and wishing her well — one day after President Trump said he was “looking at” firing her and was “not happy.” The request follows Wall Street Journal reporting that Guilfoyle asked Trump donor Eric Deters to wire $100,000 to her American Express account before her Senate confirmation so it would not show on disclosures, plus separate claims about embassy workplace conduct and promoting a Greek firm’s interests. Guilfoyle’s attorney has disputed the messages; it was not immediately clear whether she had formally resigned."
+    },
+    {
+      "n": 3,
+      "headline": "Chicago teen allegedly shoots and paralyzes pregnant classmate after a judge took him off an ankle monitor",
+      "cat": "Crime / courts",
+      "source": "Not the Bee",
+      "url": "https://notthebee.com/article/report-chicago-teen-shoots-paralyzes-pregnant-student-after-judge-grants-his-release-in-pending-carjacking-case",
+      "image_local": "",
+      "image_remote": "",
+      "id": "e47fef8255fdd7984b3f412f95d020c7f7107767",
+      "summary": "Prosecutors say 17-year-old Angel Funez-Reyes shot a 16-year-old classmate outside Latino Youth High School on Sept. 7, leaving her paralyzed and ending her six-month pregnancy, after weeks of harassment in art class. He had been on electronic monitoring in a juvenile carjacking case until a judge removed the ankle monitor on Aug. 18; two days before the shooting he was arrested for swinging a knife at a passerby and released again. When police booked him for the shooting he still had a knife, prosecutors said. Not the Bee notes he is the 18th person accused in Chicago this year of killing or trying to kill someone while on felony pretrial release."
+    },
+    {
+      "n": 4,
+      "headline": "Black Sabbath’s Tony Iommi says Ozzy Osbourne’s death has him asking how much longer he has at 78",
+      "cat": "Metal",
+      "source": "Louder / Classic Rock",
+      "url": "https://www.loudersound.com/bands-artists/black-sabbath-tony-iommi-says-ozzy-osbourne-death-has-made-him-reflect-on-his-own-mortality",
+      "image_local": "images/story-1023.jpg",
+      "image_remote": "https://cdn.mos.cms.futurecdn.net/K8kXCjJpBbKLWUviyQN4xG-1280-80.jpg",
+      "id": "1d0d2d5f4e544ee17b3760bba2ccc76b97a3cea2",
+      "summary": "In a Telegraph interview, Black Sabbath guitarist Tony Iommi said Ozzy Osbourne’s death has forced him to confront his own mortality: “I’ve had a few friends go now, and you think, Blimey, hang on, I’m 78, how much longer?” He recalled a final call with Osbourne the day before the singer died, when Ozzy said he was “absolutely shattered” and Iommi told him to rest — “Then I heard the next day that he’d gone.” Iommi, who called Ozzy part of his life for 60 years, also revisited a stalled early-2020s reunion-album idea and is releasing the solo album From the Dark on Oct. 23."
+    },
+    {
+      "n": 5,
+      "headline": "Fender’s next American Professional range adds V-Mod III pickups and new bridges — from $1,799 with no price hike",
+      "cat": "Guitar",
+      "source": "Guitar World",
+      "url": "https://www.guitarworld.com/gear/electric-guitars/fender-american-professional-2026",
+      "image_local": "images/story-1024.jpg",
+      "image_remote": "https://cdn.mos.cms.futurecdn.net/yjg3G2AjuXwFCGajUXd4uJ-2560-80.jpg",
+      "id": "37228b355fca966f8d7eb87635e3d53d26961014",
+      "summary": "Fender rolled out a new American Professional generation (no “III” badge) covering Stratocaster, Telecaster, Jazzmaster, Jaguar, and Precision/Jazz Bass models with model-specific V-Mod III pickups, revised electronics, and new bridges aimed at decades-old hardware gripes — starting at $1,799 without a price increase. Strat/Jazzmaster/Tele pickups get magnet staggers that follow the fretboard radius for better distorted chord response; bridge updates include Strat saddles without protruding screw ends. Guitar World calls it one of Fender’s most comprehensive flagship refreshes in recent memory amid the brand’s separate Stratocaster trademark fights."
+    },
+    {
+      "n": 6,
+      "headline": "Another torn-down Toyota V35A V6 points to warped heads and coolant intrusion in the Tundra recall saga",
+      "cat": "Auto / engines",
+      "source": "The Drive",
+      "url": "https://www.thedrive.com/news/this-blown-toyota-v6-may-hold-the-secret-to-the-tundras-engine-failures",
+      "image_local": "images/story-1025.jpg",
+      "image_remote": "https://www.thedrive.com/wp-content/uploads/2026/10/v35a-teardown.jpg?quality=85&w=1200",
+      "id": "817a0a84d4f036528e5bbd500feb53555a758811",
+      "summary": "YouTuber Eric of “I Do Cars” tore down a third troublesome Toyota V35A V6 — a replacement engine that failed again — and this time found a warped cylinder head, coolant at the head gaskets, a crusted water pump, and coolant mixed into the oil, rather than the catastrophic bearing wipe seen in earlier teardowns. A relatively clean crank and clearer oil passages leave open whether Toyota has fixed machining debris issues or whether cooling/head problems are another failure mode still in the wild. The Drive frames the tear-down as fresh evidence in Toyota’s murky V6 recall and Tundra engine-failure story."
+    },
+    {
+      "n": 7,
       "headline": "X bundles Premium, Grok and Cursor under one monthly “X Subscription,” from $8 Plus to $200 Ultra",
       "cat": "AI / X",
       "source": "Engadget",
@@ -13,7 +79,7 @@
       "summary": "SpaceX Super Intelligence (SpaceXSI, formerly SpaceXAI) rolled out a unified X Subscription that packages Grok, Grok Bot, Cursor, and X Premium by tier after the company bought coding startup Cursor in August. The $8-a-month Plus plan covers Grok Chat, Voice, Imagine and Build plus the Grok API, Cursor for coding, and X Premium perks such as a checkmark and fewer ads. Premium at $30 adds Grok Bot and the latest models, AI image and video generation, faster replies, Cursor cloud agents and automations, and ad-free X with preferred-handle locking. Super ($100) and Ultra ($200) stack priority or earliest access and much higher usage limits; team and enterprise plans are also offered. “We’ve unified plans across Grok, Cursor, and X Premium,” the company said in announcing the scheme."
     },
     {
-      "n": 2,
+      "n": 8,
       "headline": "iPhone takes a record 22% of a shrinking global smartphone market in Q3 even as Apple’s own shipments fall",
       "cat": "Apple",
       "source": "MacRumors",
@@ -24,7 +90,7 @@
       "summary": "Apple’s share of worldwide smartphone shipments hit a third-quarter record of 22% in Q3 2026 even as its own iPhone volume declined, Counterpoint Research’s preliminary figures show — just behind Samsung’s 23%. The industry shipped 20% fewer phones than a year earlier, the weakest July–September total since 2012, as memory-chip shortages and rising prices pushed retail prices up about 20% globally. Apple’s skipped standard iPhone 18 alongside the Pro models in September meant fewer new devices into retail than last year’s iPhone 17 launch, Counterpoint said, though the 18 Pro debut beat the prior Pro generation with China and India standing out. Separate IDC numbers put Apple’s China shipment drop at 4.3% versus a 15.4% market contraction, leaving Apple second there at 17.8% behind Huawei."
     },
     {
-      "n": 3,
+      "n": 9,
       "headline": "Free Beacon unearthed video: Michigan Senate hopeful Abdul El-Sayed called police a “military” that should be disarmed and said cops never helped him",
       "cat": "Politics",
       "source": "Washington Free Beacon",
@@ -35,7 +101,7 @@
       "summary": "Michigan Democratic Senate candidate Abdul El-Sayed markets police-union endorsements and a pledge to “work hand in hand with law enforcement,” but Washington Free Beacon found 2020–2021 podcast clips from the defund era in which he said his “heart races” when he sees cops, that police “have never been out there to help me,” and that America alone “allows our police to police us like they were a military.” Citing living in the U.K. while at Oxford, he asked “when did we allow our police to turn into a military … that could have its way with us?” and urged rethinking police unions that “sink their claws into politicians.” He is set to campaign this week with Rep. Alexandria Ocasio-Cortez; CNN previously reported he said in 2020 that “we do need to defund the police.”"
     },
     {
-      "n": 4,
+      "n": 10,
       "headline": "Bills beat Rams 37–34 in overtime on Monday Night Football in a possible Super Bowl preview",
       "cat": "NFL",
       "source": "NBC News",
@@ -46,7 +112,7 @@
       "summary": "The Buffalo Bills outlasted the Los Angeles Rams 37–34 in overtime on Monday Night Football in a nearly 70-minute thriller between championship contenders and the last two NFL MVPs — Josh Allen (2024) and Matthew Stafford (reigning). After a 33-point combined first three quarters, the teams poured in 38 more in the fourth and OT, trading touchdowns on five straight drives once the fourth began. Allen completed 12 of 19 for 210 yards with a TD and INT and ran 10 times for 121 yards and a score; Stafford went 40 of 54 for 383 yards and three touchdowns, his third straight game with at least 50 attempts. NBC framed the rematch potential as a Super Bowl 61 preview."
     },
     {
-      "n": 5,
+      "n": 11,
       "headline": "Pope Leo XIV enters Rome’s Gemelli Hospital for surgery to remove an early-stage lung nodule",
       "cat": "World / Vatican",
       "source": "DW",
@@ -57,7 +123,7 @@
       "summary": "Pope Leo XIV is undergoing surgery Tuesday at Rome’s Gemelli Hospital to remove a lung nodule and determine whether it is cancerous — the first major health episode of his roughly 17-month papacy. The 71-year-old told thousands in St. Peter’s Square on Sunday that doctors found a “small, localized” nodule “at a very early stage” and that he had agreed to the operation, a candor that contrasts with past Vatican vagueness on papal health. He will be under general anesthesia with about a week in hospital; audiences are canceled through Oct. 20, though a November South America trip is still expected. Oncologists say early detection would leave an excellent prognosis even if the lump proves malignant."
     },
     {
-      "n": 6,
+      "n": 12,
       "headline": "LEGO’s Oct. 13–19 double Insider Points week is live, with Restaurants of the World: Italy as the $180 GWP",
       "cat": "LEGO",
       "source": "Jay’s Brick Blog",
@@ -68,7 +134,7 @@
       "summary": "LEGO’s global October 2026 Double Insider Points promo is live through Oct. 19, doubling points on all purchases for a week that overlaps early holiday shopping and new October releases. Spend US$180 (AU$295 / £160 / €180 / NZ$320) on LEGO.com while stocks last and the free Gift With Purchase is 40909 Restaurants of the World: Italy — the final quarterly set in that GWP series — with Pick a Brick and pre-orders counting toward the threshold. LEGO also refreshed online sale listings with selected sets marked down about 40–50%. Shoppers can stack the sale, the Italy GWP, and 2x points in the same cart."
     },
     {
-      "n": 7,
+      "n": 13,
       "headline": "UNC student’s 2012 murder trial zeroes in on a Bacardi rum bottle, a vulgar note on a biscuit bag, and missing evidence",
       "cat": "Crime / courts",
       "source": "Fox News",
@@ -79,7 +145,7 @@
       "summary": "Miguel Enrique Salguero-Olivares, 33, is on trial in Durham County Superior Court for first-degree murder, rape, sexual offense and burglary in the 2012 killing of UNC-Chapel Hill biology major Faith Hedgepeth, 19. Prosecutors showed the jury a 1.75-liter Bacardi rum bottle they say was the murder weapon and a Time-Out biscuit bag bearing a handwritten “I’m not stupid, b----. Jealous” note; they say the defendant’s DNA is on both. The defense is pressing missing evidence, including an unphotographed bottle collection and a vanished swab from a possible blood stain on a bathroom doorframe. Genetic genealogy after a 2021 DUI stop finally tied Salguero-Olivares to crime-scene DNA after hundreds of earlier samples matched no one."
     },
     {
-      "n": 8,
+      "n": 14,
       "headline": "Man dies after falling from the Goliath roller coaster at Six Flags Over Georgia; riders left stranded until crews evacuate the 200-foot ride",
       "cat": "Crime / courts",
       "source": "Fox News",
@@ -90,7 +156,7 @@
       "summary": "A person died Monday afternoon after an incident on the Goliath hypercoaster at Six Flags Over Georgia, Cobb County police confirmed to Fox News. The department said it happened just before 4 p.m., with one person dead and several others reported injured, and did not immediately give further details. A Six Flags spokesperson said the park was “deeply saddened by the guest incident,” was cooperating with authorities, and would not share more “out of respect for the family’s privacy.” Witnesses told local station WXIA the man appeared in their souvenir photo as he fell and “hit the car three different times.” The 200-foot coaster, which reaches about 70 mph with a 170-foot first drop, stalled with passengers stuck on the track until emergency crews evacuated them; video showed people climbing out and using a high staircase. The ride has a secondary 175-foot drop, a 540-degree spiral, and forces up to about 4 Gs."
     },
     {
-      "n": 9,
+      "n": 15,
       "headline": "Internal Stellantis document points to a 2028 Dodge Charger Hellcat: supercharged 6.2L HEMI V8, RWD, two- and four-door",
       "cat": "Dodge / autos",
       "source": "Mopar Insiders",
@@ -101,7 +167,7 @@
       "summary": "Mopar Insiders says an internal Stellantis powertrain document lists a 2028 Dodge Charger SRT application pairing the supercharged 6.2-liter Hellcat HEMI V8 with ZF’s 8HP95 eight-speed automatic — the strongest public evidence yet that the Hellcat is coming back on the eighth-generation Charger (LB). The listing covers both the two-door (LB29) and four-door (LB49) bodies and, unlike today’s Hurricane-powered Chargers, calls for rear-wheel drive rather than AWD. That lines up with the site’s March 2026 report that Dodge had greenlit Hellcat development aimed at 2028, when a mid-cycle refresh is due. The same document still shows the 3.0-liter Hurricane twin-turbo I-6 in standard and high-output tunes and the ELD battery-electric pack used in the Charger Daytona, so gas, performance gas, and EV would share the lineup. Dodge has not announced a 2028 Charger SRT Hellcat; product plans can change."
     },
     {
-      "n": 10,
+      "n": 16,
       "headline": "NATO’s top commander warns Russia: we will “break” attacking forces and destroy “anything and everything” that supports them",
       "cat": "World / defense",
       "source": "Fox News",
@@ -112,84 +178,7 @@
       "summary": "U.S. Air Force Gen. Alexus Grynkewich, NATO’s supreme allied commander in Europe, told the Warsaw Security Forum on Monday that if an adversary presses an attack on the alliance, “we will break the warfighting system engaged against us,” including “not just the attacking force itself, but anything and everything that supports, sustains, and controls that force.” He framed a three-part approach of “blocking, blunting and breaking” enemy forces and said that while NATO is defensive, “If someone is foolish enough to attack us, we will fight” and make any assault on any of the 32 allies “utterly futile.” The remarks come amid European accusations of Russian hybrid warfare — sabotage, arson, cyberattacks, and drone incursions near NATO territory. “We stand here together in Poland today stronger than ever united in our common vision of a more balanced, more ready and more lethal alliance,” Grynkewich said."
     },
     {
-      "n": 11,
-      "headline": "More than 30 years after Shotgun Messiah, Zinny J Zan and Harry Cody reunite as Zan/Cody with new album Beautiful ’N Damned",
-      "cat": "Heavy metal",
-      "source": "Louder / Classic Rock",
-      "url": "https://www.loudersound.com/bands-artists/zan-cody-beautiful-n-damned-interview",
-      "image_local": "images/story-1012.jpg",
-      "image_remote": "https://cdn.mos.cms.futurecdn.net/himenDaxpruw5gJe5s5cPT-1280-80.jpg",
-      "id": "6c431adf15968b0d2794395d5b2780d72bee3e65",
-      "summary": "Shotgun Messiah frontman Zinny J Zan and guitarist Harry Cody are back together as Zan/Cody with Beautiful ’N Damned, a hard-rock album with cellos and choirs that they cut over the internet before meeting in person for the first time since 1990. Zan left the glam-metal band amid differences and returned to Sweden; Cody and Tim Sköld carried on until Relativity dropped them after 1992’s industrial-leaning Violent New Breed. Cody says Shotgun Messiah as an entity is still him and Sköld, with most of another album recorded but on hold while Sköld plays bass in Marilyn Manson. Zan/Cody shopped the finished record and signed with Frontiers. They reunited on stage at Sweden Rock in June 2026 — their first Swedish show together since 1988 — and Cody says “time had ironed out most of the issues… the spark was still there.” Shotgun Messiah’s 1989 debut sold nearly half a million copies."
-    },
-    {
-      "n": 12,
-      "headline": "Apple routed a flexible graphite heat pipe through the iPhone Duo’s hinge so both halves can dump heat when the foldable is closed",
-      "cat": "Apple",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/10/12/the-iphone-duos-cooling-system-hides-a-clever-trick-inside-its-hinge/",
-      "image_local": "images/story-1013.jpg",
-      "image_remote": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-hinge-closeup.jpg?quality=82&strip=all&resize=1200,628",
-      "id": "4c16534670953e807025ec80c66094b8660e2973",
-      "summary": "Apple’s thermal team told PCMag that cooling the book-style iPhone Duo was “one of the most technically challenging aspects” of the design because a folded phone doubles in thickness and limits heat paths. Senior thermal manager Banafsheh Barabadi said they co-engineered a flexible graphite pipe that runs through the hinge itself, moving heat between the two halves and giving more surface area to shed it — a material that has to survive countless hinge cycles without losing thermal contact or falling apart. The Duo’s A20 Pro variant, Apple’s first iPhone chip on 2 nm, also adds a second display engine so the inner and outer screens can run at once, and places FaceTime behind the inner display. Across the new iPhones, Apple pairs the SoC with a vapor chamber and a “metal over foam” pad that couples the chip to the chamber while staying mechanically compliant. Pre-orders for the Duo are due Friday."
-    },
-    {
-      "n": 13,
-      "headline": "RJ Mitte, who played Walter White Jr. on ‘Breaking Bad,’ dies at 34",
-      "cat": "TV / obituary",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/rj-mitte-breaking-bad-actor-dies-age-34/",
-      "image_local": "images/story-1005.jpg",
-      "image_remote": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/12/772092b5-61ff-4026-81dc-595515c6f6e0/thumbnail/1200x630/0e7cb73843494461b908c5abc21aa3d0/gettyimages-2298044430.jpg",
-      "id": "516d37f3f5bb97bce85f1c467e67e44fad531406",
-      "summary": "RJ Mitte, who rose to fame as Walter “Flynn” White Jr., the son of Bryan Cranston’s chemistry-teacher-turned-meth-kingpin on “Breaking Bad,” has died at 34, his representative confirmed Monday. A Brownsville, Texas, justice of the peace told NBC News she declared him dead at 1:32 p.m. Monday in Brownsville, where he had moved, but could not disclose a cause of death. Mitte, who was diagnosed with cerebral palsy at 3, drew on that experience for the role; the series debuted in January 2008 when he was 15, and the cast won a Screen Actors Guild ensemble award in 2014 for its final season. Off screen he became a prominent disability advocate, serving as an ambassador for United Cerebral Palsy and Shriners Children’s and as president of The Mitte Foundation, and in 2014 received SAG-AFTRA’s Howard Russell Award. He later starred in “The Oak Room” and the 2021 wrestling film “Triumph,” about a high schooler with cerebral palsy. His representatives asked for privacy for his family."
-    },
-    {
-      "n": 14,
-      "headline": "Chicago police solve the 1960 murder of 8-year-old Gloria Kowalewicz — and the killer was one of their own, a longtime homicide detective",
-      "cat": "Crime / courts",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/news/us-news/chicago-police-find-killer-65-year-old-cold-case-murder-little-girl-on-rcna602947",
-      "image_local": "",
-      "image_remote": "",
-      "id": "25b3e02d88e0c935d2453858d4152c2e7f0f12d2",
-      "summary": "The Chicago Police Department says DNA technology that didn’t exist 65 years ago, combined with “a carefully preserved fingerprint” lifted from the strap of her white communion purse, has identified the man who abducted and killed 8-year-old Gloria Kowalewicz as she walked to Saturday morning Mass on the South Side on Nov. 12, 1960: Thomas F. McInerney Jr., then 24, who went on to serve as a CPD homicide detective and retired in 1987 after 28 years on the job. He died in Las Vegas in 2006 at 70. The third-grader was shot twice in the head and left in a ditch in a forest preserve southwest of the city; the case set off a months-long manhunt in which thousands were questioned, and more than 1,000 people attended her funeral. The match came in July using the same kind of genetic genealogy that caught the Golden State Killer. “McInerney should never have worn the CPD star, and it is devastating to accept that he was never identified and held accountable while he was alive,” the department said. His DNA is in the FBI’s CODIS database, and the FBI is checking whether he may be tied to other unsolved crimes from that era. Police still don’t know why he targeted Gloria; his parents lived less than a mile from her family."
-    },
-    {
-      "n": 15,
-      "headline": "Trump says he’s “looking at” firing Ambassador to Greece Kimberly Guilfoyle over an alleged $100,000 pay-to-play ask: “We’re not happy”",
-      "cat": "Politics",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/trump-says-hes-looking-at-firing-kimberly-guilfoyle/",
-      "image_local": "images/story-1006.jpg",
-      "image_remote": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/12/2276110d-b914-499b-b2b2-7865556cb303/thumbnail/1200x630/1884dc196aa176210512140c2bac6e85/ap26085749152250.jpg",
-      "id": "3d542ced65c0f95c1524091d027ae517b88f30cb",
-      "summary": "President Trump told reporters on his way to Ohio on Monday that he and his administration are “looking at” firing Kimberly Guilfoyle as U.S. ambassador to Greece. “Well, we’re looking at it,” he said. “We’re not happy.” The question follows claims by businessman Eric Deters, who told CBS News last week he has “no doubt it was pay-to-play” after Guilfoyle allegedly asked him, ahead of her Senate confirmation hearing, to wire $100,000 to cover her American Express bill in exchange for her help with the administration. Deters gave CBS screenshots of their texts, including one in which she appears to ask for the money, and says he never paid. Sources told CBS that White House officials were told the texts are authentic and some aides were displeased; Guilfoyle’s lawyer has disputed their authenticity. Guilfoyle, Donald Trump Jr.’s ex-fiancée and a former Fox News host, had her hearing in July 2025 and was confirmed that September. She was highly visible during Secretary of State Marco Rubio’s visit to Greece last week, when Rubio declined to comment on the story."
-    },
-    {
-      "n": 16,
-      "headline": "Penguins trade Caleb Jones and prospect Daniel Laatsch to Buffalo for left-shot defenseman Ryan Johnson, a 2019 first-rounder",
-      "cat": "Penguins hockey",
-      "source": "Pittsburgh Hockey Now",
-      "url": "https://pittsburghhockeynow.com/pittsburgh-penguins-trade-acquire-lefty-d-man-for-caleb-jones-prospect/",
-      "image_local": "images/story-1007.jpg",
-      "image_remote": "https://media.pittsburghhockeynow.com/wp-content/uploads/2026/10/12173657/NHL-Preseason-Buffalo-Sabres-at-Pittsburgh-Penguins-tagreuters-com2026newsml_mt1usatoday29883011664510345-1600x900.jpg",
-      "id": "6f89f34076818b4e8e85676fcc46c35dc5ac650d",
-      "summary": "For the second time in a week, the Penguins have picked up a left-handed defenseman buried on another team’s depth chart. On Monday evening Pittsburgh sent Caleb Jones and depth prospect Daniel Laatsch to the Buffalo Sabres for Ryan Johnson, 25, the Sabres’ first-round pick (31st overall) in 2019. Johnson, 6-foot-1 and 195 pounds, is a defensive-minded, good-skating blueliner who played four seasons at the University of Minnesota and 41 NHL games as a rookie, but has spent most of the past two seasons in the AHL with only three NHL games in each; he has seven career NHL assists in 47 games and had 19 points in 56 games for Rochester last season. Jones, signed to a two-year, $1.8 million deal in July 2025, played just seven games for Pittsburgh last season through injuries and a suspension for a positive performance-enhancing-substance test, and was waived ahead of this season. Laatsch, a 6-foot-5 defenseman, played 29 ECHL games for Wheeling. The move fills a hole: the Penguins had no depth defenseman on the NHL roster after putting Trevor van Riemsdyk on injured reserve Monday."
-    },
-    {
       "n": 17,
-      "headline": "Jerry Seinfeld to anti-Israel hecklers at his Chicago show: “I’m gonna find out how much your ticket was and I’m sending it to Israel”",
-      "cat": "Comedy / Israel",
-      "source": "The Algemeiner",
-      "url": "https://www.algemeiner.com/2026/10/12/jerry-seinfeld-tells-anti-israel-hecklers-at-chicago-show-hell-donate-ticket-costs-to-israel/",
-      "image_local": "images/story-1008.jpg",
-      "image_remote": "https://www.algemeiner.com/wp-content/uploads/2023/12/2022-09-11T195540Z_198851089_MT1SIPA000X4PH0N_RTRMADP_3_SIPA-USA-2.jpg",
-      "id": "9433b04f88cffd3b6babae0a45e1c6fa24509cc8",
-      "summary": "Activists from Anti-War Committee Chicago and the Chicago branch of the U.S. Palestinian Community Network repeatedly interrupted Jerry Seinfeld’s Friday show at the Chicago Theatre, calling him a racist and a “genocide apologist” for his support of Israel. “Seinfeld you will see, Palestine will be free,” one man shouted; when Seinfeld joked he’d “had enough” of his cell phone service, a woman yelled, “Well, I’ve had enough of genocide!” and accused him of making jokes while Palestinians are killed “with our taxpayer money.” Seinfeld shot back sarcastically, “I am a racist. It’s a genocide, I’m into it,” then added, “I’m gonna find out how much your ticket was and I’m sending it to Israel … No I won’t, I’m keeping it,” drawing laughter, applause and cheers, according to fan video posted online. Seinfeld, who lived on a kibbutz as a teenager, visited Israel after the Oct. 7, 2023, Hamas attack, met hostage families and has been heckled at several shows; protesters also walked out of his Duke University commencement speech. He has said “Free Palestine” is a way of saying “you don’t like Jews” without admitting it."
-    },
-    {
-      "n": 18,
       "headline": "Musk says Starship Flight 15 will try to catch the ship itself with the tower, likely “a little bit before Thanksgiving”",
       "cat": "Elon / SpaceX",
       "source": "Teslarati",
@@ -200,7 +189,7 @@
       "summary": "Speaking to about 2,000 people at the X Takeover event at Giga Texas on Saturday, Elon Musk said SpaceX’s next Starship flight is four to six weeks away and “probably launches a little bit before Thanksgiving, is my guess,” a slip from earlier reporting that pointed to a launch as early as Oct. 19. He said the list of changes between flights is short this time, “but some of them take a fair bit of work and we’ve got to go inside the tank.” The big goal: “We’re going to try to catch the ship, which is a super big deal. If we do so, that’ll be the first time that there’s been full recovery of an orbital class rocket.” SpaceX has caught the Super Heavy booster with the tower’s mechanical arms, but the upper stage has never been caught; every ship so far has ended in a water landing. Musk said Flight 16 would then aim to refly both the booster and the ship. Teslarati notes that Starlink V3 satellites can only fly on Starship, and NASA’s Moon lander plans depend on fast, reusable tanker flights. Flight 14 reached orbit on Sept. 28 and deployed the first 26 V3 satellites despite an early engine shutdown."
     },
     {
-      "n": 19,
+      "n": 18,
       "headline": "Milford police identify three suspects in weeks of attacks on the homeless camp behind Lowe’s: fireworks, thrown stones and swastikas",
       "cat": "Local / Connecticut",
       "source": "Patch (Milford)",
@@ -211,7 +200,7 @@
       "summary": "Milford police say they have identified suspects in a string of attacks on the homeless encampment behind the Lowe’s store at 311 Old Gate Lane, after the Beth-El Shelter called for “immediate protective measures” over what it described as “nearly daily violent attacks and hate speech” since the end of September. The shelter says fireworks thrown into the camp started fires that residents had to put out, that the attacks have grown more dangerous over the past week, and that shelter employees have been hurt; swastikas were also spray-painted on trees. Police Chief Keith Mello said Monday that detectives are assigned to the case and patrols near the camp have been increased around the clock. Police confirmed evidence of fireworks thrown at or near the encampment and of the swastikas, but said there do not appear to be physical injuries to encampment residents. A license plate reader on Old Gate Lane identified one suspect and digital evidence led to two more. Police count at least five separate incidents, which may or may not all be linked to those suspects. Charges, including whether a hate crime was committed, will be decided when the investigation is complete; a hate-crimes notification has been filed with the Connecticut State Police. Mayor Rich Smith condemned the attacks on Friday."
     },
     {
-      "n": 20,
+      "n": 19,
       "headline": "Trumbull this week: last voter registration session before Nov. 3, early voting starts Oct. 19 at the library, and loose-leaf pickup begins Nov. 4",
       "cat": "Local / Trumbull CT",
       "source": "Patch Trumbull",
@@ -220,6 +209,17 @@
       "image_remote": "https://patch.com/img/cdn20/users/22878689/20261009/104544/styles/patch_image/public/img-3273___09103213822.jpg",
       "id": "f9b0c7f4860986002fcb27bf0f16ff624421fd55",
       "summary": "Trumbull’s registrars will hold a statewide voter registration session Friday, the last regular session before the Nov. 3 election, though same-day registration will still be available during early voting and on Election Day (questions: 203-452-5058 or 203-452-5059). Early voting runs Oct. 19 through Nov. 1 at the Trumbull Library from 10 a.m. to 6 p.m., with longer 8 a.m. to 8 p.m. hours on Oct. 27 and Oct. 29, according to the town clerk’s election warning. On Election Day, Trumbull votes at Daniels Farm, Booth Hill, Tashua, Madison Middle, Frenchtown Road, Middlebrook and Christian Heritage schools. Also this week, the Hillcrest Middle School Building Committee gets updates from its architect and construction manager and reviews invoices, and the Library System Board of Trustees elects officers and discusses the poet laureate program. Public Works says the town’s loose-leaf collection should start Nov. 4 and run until every neighborhood is done, with a daily progress map online. Residents can also ask for bagged-leaf pickup as often as they need during the program."
+    },
+    {
+      "n": 20,
+      "headline": "Jerry Seinfeld to anti-Israel hecklers at his Chicago show: “I’m gonna find out how much your ticket was and I’m sending it to Israel”",
+      "cat": "Comedy / Israel",
+      "source": "The Algemeiner",
+      "url": "https://www.algemeiner.com/2026/10/12/jerry-seinfeld-tells-anti-israel-hecklers-at-chicago-show-hell-donate-ticket-costs-to-israel/",
+      "image_local": "images/story-1008.jpg",
+      "image_remote": "https://www.algemeiner.com/wp-content/uploads/2023/12/2022-09-11T195540Z_198851089_MT1SIPA000X4PH0N_RTRMADP_3_SIPA-USA-2.jpg",
+      "id": "9433b04f88cffd3b6babae0a45e1c6fa24509cc8",
+      "summary": "Activists from Anti-War Committee Chicago and the Chicago branch of the U.S. Palestinian Community Network repeatedly interrupted Jerry Seinfeld’s Friday show at the Chicago Theatre, calling him a racist and a “genocide apologist” for his support of Israel. “Seinfeld you will see, Palestine will be free,” one man shouted; when Seinfeld joked he’d “had enough” of his cell phone service, a woman yelled, “Well, I’ve had enough of genocide!” and accused him of making jokes while Palestinians are killed “with our taxpayer money.” Seinfeld shot back sarcastically, “I am a racist. It’s a genocide, I’m into it,” then added, “I’m gonna find out how much your ticket was and I’m sending it to Israel … No I won’t, I’m keeping it,” drawing laughter, applause and cheers, according to fan video posted online. Seinfeld, who lived on a kibbutz as a teenager, visited Israel after the Oct. 7, 2023, Hamas attack, met hostage families and has been heckled at several shows; protesters also walked out of his Duke University commencement speech. He has said “Free Palestine” is a way of saying “you don’t like Jews” without admitting it."
     }
   ]
 }
