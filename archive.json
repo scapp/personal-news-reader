@@ -1114,7 +1114,14 @@
     "ea1f0e42f0430a084a5d0bdd35d55d2ed6a702cb",
     "e94d1cee3a9d52ef04aed913942f4af49d5c5f9a",
     "6c431adf15968b0d2794395d5b2780d72bee3e65",
-    "4c16534670953e807025ec80c66094b8660e2973"
+    "4c16534670953e807025ec80c66094b8660e2973",
+    "5a66e8032ad6bb650a5db09b60a87b55bfc0f864",
+    "b7b3ae58a9e8d2cfefecd51c6de4ad24e4c81f66",
+    "387843e4a95f6a5dac372b8e0aacf8ff924bce4a",
+    "5ee69022676bd08c5147f0514fd2a4e53c023b35",
+    "18ca78a6efc6cf8fd43f33e26989cb8827d809bd",
+    "399a210375edcb26ea358a25b857246cd64668a5",
+    "4afbffff2ac7ca235880162aeb5d64015088dcd4"
   ],
   "stories": {
     "0c2ac7a5e342411678296315c4c59043b1f067cc": {
@@ -13622,7 +13629,77 @@
       "image_remote": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-hinge-closeup.jpg?quality=82&strip=all&resize=1200,628",
       "image_local": "images/story-1013.jpg",
       "id": "4c16534670953e807025ec80c66094b8660e2973"
+    },
+    "5a66e8032ad6bb650a5db09b60a87b55bfc0f864": {
+      "headline": "X bundles Premium, Grok and Cursor under one monthly “X Subscription,” from $8 Plus to $200 Ultra",
+      "cat": "AI / X",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2284943/x-subscription-bundles-premium-grok-cursor/",
+      "summary": "SpaceX Super Intelligence (SpaceXSI, formerly SpaceXAI) rolled out a unified X Subscription that packages Grok, Grok Bot, Cursor, and X Premium by tier after the company bought coding startup Cursor in August. The $8-a-month Plus plan covers Grok Chat, Voice, Imagine and Build plus the Grok API, Cursor for coding, and X Premium perks such as a checkmark and fewer ads. Premium at $30 adds Grok Bot and the latest models, AI image and video generation, faster replies, Cursor cloud agents and automations, and ad-free X with preferred-handle locking. Super ($100) and Ultra ($200) stack priority or earliest access and much higher usage limits; team and enterprise plans are also offered. “We’ve unified plans across Grok, Cursor, and X Premium,” the company said in announcing the scheme.",
+      "image_remote": "https://www.engadget.com/img/gallery/x-subscription-unifies-x-premium-grok-and-cursor-plans/l-intro-1791880522.jpg",
+      "image_local": "images/story-1014.jpg",
+      "id": "5a66e8032ad6bb650a5db09b60a87b55bfc0f864"
+    },
+    "b7b3ae58a9e8d2cfefecd51c6de4ad24e4c81f66": {
+      "headline": "iPhone takes a record 22% of a shrinking global smartphone market in Q3 even as Apple’s own shipments fall",
+      "cat": "Apple",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/13/iphone-takes-bigger-slice-of-shrinking-market/",
+      "summary": "Apple’s share of worldwide smartphone shipments hit a third-quarter record of 22% in Q3 2026 even as its own iPhone volume declined, Counterpoint Research’s preliminary figures show — just behind Samsung’s 23%. The industry shipped 20% fewer phones than a year earlier, the weakest July–September total since 2012, as memory-chip shortages and rising prices pushed retail prices up about 20% globally. Apple’s skipped standard iPhone 18 alongside the Pro models in September meant fewer new devices into retail than last year’s iPhone 17 launch, Counterpoint said, though the 18 Pro debut beat the prior Pro generation with China and India standing out. Separate IDC numbers put Apple’s China shipment drop at 4.3% versus a 15.4% market contraction, leaving Apple second there at 17.8% behind Huawei.",
+      "image_remote": "https://images.macrumors.com/t/gGs1cmhJ0dgUiLryyQw3GSI4XjY=/1600x/article-new/2026/09/iPhone-18-Pro-Burgundy-1-1.jpg",
+      "image_local": "images/story-1015.jpg",
+      "id": "b7b3ae58a9e8d2cfefecd51c6de4ad24e4c81f66"
+    },
+    "387843e4a95f6a5dac372b8e0aacf8ff924bce4a": {
+      "headline": "Free Beacon unearthed video: Michigan Senate hopeful Abdul El-Sayed called police a “military” that should be disarmed and said cops never helped him",
+      "cat": "Politics",
+      "source": "Washington Free Beacon",
+      "url": "https://freebeacon.com/democrats/unearthed-video-abdul-el-sayed-trashed-police-as-a-military-that-could-have-its-way-with-us-called-to-disarm-them-said-police-never-helped-him/",
+      "summary": "Michigan Democratic Senate candidate Abdul El-Sayed markets police-union endorsements and a pledge to “work hand in hand with law enforcement,” but Washington Free Beacon found 2020–2021 podcast clips from the defund era in which he said his “heart races” when he sees cops, that police “have never been out there to help me,” and that America alone “allows our police to police us like they were a military.” Citing living in the U.K. while at Oxford, he asked “when did we allow our police to turn into a military … that could have its way with us?” and urged rethinking police unions that “sink their claws into politicians.” He is set to campaign this week with Rep. Alexandria Ocasio-Cortez; CNN previously reported he said in 2020 that “we do need to defund the police.”",
+      "image_remote": "https://freebeacon.com/wp-content/uploads/2026/10/michigan-senate-candidate-abdul-el-sayed-campaigns-in-detroit-scaled-e1790898923262.jpg",
+      "image_local": "images/story-1016.jpg",
+      "id": "387843e4a95f6a5dac372b8e0aacf8ff924bce4a"
+    },
+    "5ee69022676bd08c5147f0514fd2a4e53c023b35": {
+      "headline": "Bills beat Rams 37–34 in overtime on Monday Night Football in a possible Super Bowl preview",
+      "cat": "NFL",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/sports/nfl/buffalo-bills-los-angeles-rams-nfl-result-josh-allen-matthew-stafford-rcna603144",
+      "summary": "The Buffalo Bills outlasted the Los Angeles Rams 37–34 in overtime on Monday Night Football in a nearly 70-minute thriller between championship contenders and the last two NFL MVPs — Josh Allen (2024) and Matthew Stafford (reigning). After a 33-point combined first three quarters, the teams poured in 38 more in the fourth and OT, trading touchdowns on five straight drives once the fourth began. Allen completed 12 of 19 for 210 yards with a TD and INT and ran 10 times for 121 yards and a score; Stafford went 40 of 54 for 383 yards and three touchdowns, his third straight game with at least 50 attempts. NBC framed the rematch potential as a Super Bowl 61 preview.",
+      "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261012-tyler-bass-ew-1158p-4f0732.jpg",
+      "image_local": "images/story-1017.jpg",
+      "id": "5ee69022676bd08c5147f0514fd2a4e53c023b35"
+    },
+    "18ca78a6efc6cf8fd43f33e26989cb8827d809bd": {
+      "headline": "Pope Leo XIV enters Rome’s Gemelli Hospital for surgery to remove an early-stage lung nodule",
+      "cat": "World / Vatican",
+      "source": "DW",
+      "url": "https://www.dw.com/en/pope-leo-in-rome-hospital-for-lung-surgery/a-79647264",
+      "summary": "Pope Leo XIV is undergoing surgery Tuesday at Rome’s Gemelli Hospital to remove a lung nodule and determine whether it is cancerous — the first major health episode of his roughly 17-month papacy. The 71-year-old told thousands in St. Peter’s Square on Sunday that doctors found a “small, localized” nodule “at a very early stage” and that he had agreed to the operation, a candor that contrasts with past Vatican vagueness on papal health. He will be under general anesthesia with about a week in hospital; audiences are canceled through Oct. 20, though a November South America trip is still expected. Oncologists say early detection would leave an excellent prognosis even if the lump proves malignant.",
+      "image_remote": "https://static.dw.com/image/79464391_6.jpg",
+      "image_local": "images/story-1018.jpg",
+      "id": "18ca78a6efc6cf8fd43f33e26989cb8827d809bd"
+    },
+    "399a210375edcb26ea358a25b857246cd64668a5": {
+      "headline": "LEGO’s Oct. 13–19 double Insider Points week is live, with Restaurants of the World: Italy as the $180 GWP",
+      "cat": "LEGO",
+      "source": "Jay’s Brick Blog",
+      "url": "https://jaysbrickblog.com/news/october-lego-sale-double-points-and-restaurants-of-the-world-gwp-offers-now-live-worldwide/",
+      "summary": "LEGO’s global October 2026 Double Insider Points promo is live through Oct. 19, doubling points on all purchases for a week that overlaps early holiday shopping and new October releases. Spend US$180 (AU$295 / £160 / €180 / NZ$320) on LEGO.com while stocks last and the free Gift With Purchase is 40909 Restaurants of the World: Italy — the final quarterly set in that GWP series — with Pick a Brick and pre-orders counting toward the threshold. LEGO also refreshed online sale listings with selected sets marked down about 40–50%. Shoppers can stack the sale, the Italy GWP, and 2x points in the same cart.",
+      "image_remote": "https://jaysbrickblog.com/wp-content/uploads/2026/10/LEGO-Double-Insider-Points-October-2027-Italy-GWP.png",
+      "image_local": "images/story-1019.jpg",
+      "id": "399a210375edcb26ea358a25b857246cd64668a5"
+    },
+    "4afbffff2ac7ca235880162aeb5d64015088dcd4": {
+      "headline": "UNC student’s 2012 murder trial zeroes in on a Bacardi rum bottle, a vulgar note on a biscuit bag, and missing evidence",
+      "cat": "Crime / courts",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/us/trial-college-students-murder-zeroes-rum-bottle-vulgar-note-missing-evidence",
+      "summary": "Miguel Enrique Salguero-Olivares, 33, is on trial in Durham County Superior Court for first-degree murder, rape, sexual offense and burglary in the 2012 killing of UNC-Chapel Hill biology major Faith Hedgepeth, 19. Prosecutors showed the jury a 1.75-liter Bacardi rum bottle they say was the murder weapon and a Time-Out biscuit bag bearing a handwritten “I’m not stupid, b----. Jealous” note; they say the defendant’s DNA is on both. The defense is pressing missing evidence, including an unphotographed bottle collection and a vanished swab from a possible blood stain on a bathroom doorframe. Genetic genealogy after a 2021 DUI stop finally tied Salguero-Olivares to crime-scene DNA after hundreds of earlier samples matched no one.",
+      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/Faith-Hedgepeth.jpg",
+      "image_local": "images/story-1020.jpg",
+      "id": "4afbffff2ac7ca235880162aeb5d64015088dcd4"
     }
   },
-  "updated": "Monday, October 12, 2026 · 10:13 PM ET"
+  "updated": "Tuesday, October 13, 2026 · 7:17 AM ET"
 }

@@ -1,8 +1,85 @@
 {
-  "updated": "Monday, October 12, 2026 · 10:13 PM ET",
+  "updated": "Tuesday, October 13, 2026 · 7:17 AM ET",
   "stories": [
     {
       "n": 1,
+      "headline": "X bundles Premium, Grok and Cursor under one monthly “X Subscription,” from $8 Plus to $200 Ultra",
+      "cat": "AI / X",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2284943/x-subscription-bundles-premium-grok-cursor/",
+      "image_local": "images/story-1014.jpg",
+      "image_remote": "https://www.engadget.com/img/gallery/x-subscription-unifies-x-premium-grok-and-cursor-plans/l-intro-1791880522.jpg",
+      "id": "5a66e8032ad6bb650a5db09b60a87b55bfc0f864",
+      "summary": "SpaceX Super Intelligence (SpaceXSI, formerly SpaceXAI) rolled out a unified X Subscription that packages Grok, Grok Bot, Cursor, and X Premium by tier after the company bought coding startup Cursor in August. The $8-a-month Plus plan covers Grok Chat, Voice, Imagine and Build plus the Grok API, Cursor for coding, and X Premium perks such as a checkmark and fewer ads. Premium at $30 adds Grok Bot and the latest models, AI image and video generation, faster replies, Cursor cloud agents and automations, and ad-free X with preferred-handle locking. Super ($100) and Ultra ($200) stack priority or earliest access and much higher usage limits; team and enterprise plans are also offered. “We’ve unified plans across Grok, Cursor, and X Premium,” the company said in announcing the scheme."
+    },
+    {
+      "n": 2,
+      "headline": "iPhone takes a record 22% of a shrinking global smartphone market in Q3 even as Apple’s own shipments fall",
+      "cat": "Apple",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/13/iphone-takes-bigger-slice-of-shrinking-market/",
+      "image_local": "images/story-1015.jpg",
+      "image_remote": "https://images.macrumors.com/t/gGs1cmhJ0dgUiLryyQw3GSI4XjY=/1600x/article-new/2026/09/iPhone-18-Pro-Burgundy-1-1.jpg",
+      "id": "b7b3ae58a9e8d2cfefecd51c6de4ad24e4c81f66",
+      "summary": "Apple’s share of worldwide smartphone shipments hit a third-quarter record of 22% in Q3 2026 even as its own iPhone volume declined, Counterpoint Research’s preliminary figures show — just behind Samsung’s 23%. The industry shipped 20% fewer phones than a year earlier, the weakest July–September total since 2012, as memory-chip shortages and rising prices pushed retail prices up about 20% globally. Apple’s skipped standard iPhone 18 alongside the Pro models in September meant fewer new devices into retail than last year’s iPhone 17 launch, Counterpoint said, though the 18 Pro debut beat the prior Pro generation with China and India standing out. Separate IDC numbers put Apple’s China shipment drop at 4.3% versus a 15.4% market contraction, leaving Apple second there at 17.8% behind Huawei."
+    },
+    {
+      "n": 3,
+      "headline": "Free Beacon unearthed video: Michigan Senate hopeful Abdul El-Sayed called police a “military” that should be disarmed and said cops never helped him",
+      "cat": "Politics",
+      "source": "Washington Free Beacon",
+      "url": "https://freebeacon.com/democrats/unearthed-video-abdul-el-sayed-trashed-police-as-a-military-that-could-have-its-way-with-us-called-to-disarm-them-said-police-never-helped-him/",
+      "image_local": "images/story-1016.jpg",
+      "image_remote": "https://freebeacon.com/wp-content/uploads/2026/10/michigan-senate-candidate-abdul-el-sayed-campaigns-in-detroit-scaled-e1790898923262.jpg",
+      "id": "387843e4a95f6a5dac372b8e0aacf8ff924bce4a",
+      "summary": "Michigan Democratic Senate candidate Abdul El-Sayed markets police-union endorsements and a pledge to “work hand in hand with law enforcement,” but Washington Free Beacon found 2020–2021 podcast clips from the defund era in which he said his “heart races” when he sees cops, that police “have never been out there to help me,” and that America alone “allows our police to police us like they were a military.” Citing living in the U.K. while at Oxford, he asked “when did we allow our police to turn into a military … that could have its way with us?” and urged rethinking police unions that “sink their claws into politicians.” He is set to campaign this week with Rep. Alexandria Ocasio-Cortez; CNN previously reported he said in 2020 that “we do need to defund the police.”"
+    },
+    {
+      "n": 4,
+      "headline": "Bills beat Rams 37–34 in overtime on Monday Night Football in a possible Super Bowl preview",
+      "cat": "NFL",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/sports/nfl/buffalo-bills-los-angeles-rams-nfl-result-josh-allen-matthew-stafford-rcna603144",
+      "image_local": "images/story-1017.jpg",
+      "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261012-tyler-bass-ew-1158p-4f0732.jpg",
+      "id": "5ee69022676bd08c5147f0514fd2a4e53c023b35",
+      "summary": "The Buffalo Bills outlasted the Los Angeles Rams 37–34 in overtime on Monday Night Football in a nearly 70-minute thriller between championship contenders and the last two NFL MVPs — Josh Allen (2024) and Matthew Stafford (reigning). After a 33-point combined first three quarters, the teams poured in 38 more in the fourth and OT, trading touchdowns on five straight drives once the fourth began. Allen completed 12 of 19 for 210 yards with a TD and INT and ran 10 times for 121 yards and a score; Stafford went 40 of 54 for 383 yards and three touchdowns, his third straight game with at least 50 attempts. NBC framed the rematch potential as a Super Bowl 61 preview."
+    },
+    {
+      "n": 5,
+      "headline": "Pope Leo XIV enters Rome’s Gemelli Hospital for surgery to remove an early-stage lung nodule",
+      "cat": "World / Vatican",
+      "source": "DW",
+      "url": "https://www.dw.com/en/pope-leo-in-rome-hospital-for-lung-surgery/a-79647264",
+      "image_local": "images/story-1018.jpg",
+      "image_remote": "https://static.dw.com/image/79464391_6.jpg",
+      "id": "18ca78a6efc6cf8fd43f33e26989cb8827d809bd",
+      "summary": "Pope Leo XIV is undergoing surgery Tuesday at Rome’s Gemelli Hospital to remove a lung nodule and determine whether it is cancerous — the first major health episode of his roughly 17-month papacy. The 71-year-old told thousands in St. Peter’s Square on Sunday that doctors found a “small, localized” nodule “at a very early stage” and that he had agreed to the operation, a candor that contrasts with past Vatican vagueness on papal health. He will be under general anesthesia with about a week in hospital; audiences are canceled through Oct. 20, though a November South America trip is still expected. Oncologists say early detection would leave an excellent prognosis even if the lump proves malignant."
+    },
+    {
+      "n": 6,
+      "headline": "LEGO’s Oct. 13–19 double Insider Points week is live, with Restaurants of the World: Italy as the $180 GWP",
+      "cat": "LEGO",
+      "source": "Jay’s Brick Blog",
+      "url": "https://jaysbrickblog.com/news/october-lego-sale-double-points-and-restaurants-of-the-world-gwp-offers-now-live-worldwide/",
+      "image_local": "images/story-1019.jpg",
+      "image_remote": "https://jaysbrickblog.com/wp-content/uploads/2026/10/LEGO-Double-Insider-Points-October-2027-Italy-GWP.png",
+      "id": "399a210375edcb26ea358a25b857246cd64668a5",
+      "summary": "LEGO’s global October 2026 Double Insider Points promo is live through Oct. 19, doubling points on all purchases for a week that overlaps early holiday shopping and new October releases. Spend US$180 (AU$295 / £160 / €180 / NZ$320) on LEGO.com while stocks last and the free Gift With Purchase is 40909 Restaurants of the World: Italy — the final quarterly set in that GWP series — with Pick a Brick and pre-orders counting toward the threshold. LEGO also refreshed online sale listings with selected sets marked down about 40–50%. Shoppers can stack the sale, the Italy GWP, and 2x points in the same cart."
+    },
+    {
+      "n": 7,
+      "headline": "UNC student’s 2012 murder trial zeroes in on a Bacardi rum bottle, a vulgar note on a biscuit bag, and missing evidence",
+      "cat": "Crime / courts",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/us/trial-college-students-murder-zeroes-rum-bottle-vulgar-note-missing-evidence",
+      "image_local": "images/story-1020.jpg",
+      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/Faith-Hedgepeth.jpg",
+      "id": "4afbffff2ac7ca235880162aeb5d64015088dcd4",
+      "summary": "Miguel Enrique Salguero-Olivares, 33, is on trial in Durham County Superior Court for first-degree murder, rape, sexual offense and burglary in the 2012 killing of UNC-Chapel Hill biology major Faith Hedgepeth, 19. Prosecutors showed the jury a 1.75-liter Bacardi rum bottle they say was the murder weapon and a Time-Out biscuit bag bearing a handwritten “I’m not stupid, b----. Jealous” note; they say the defendant’s DNA is on both. The defense is pressing missing evidence, including an unphotographed bottle collection and a vanished swab from a possible blood stain on a bathroom doorframe. Genetic genealogy after a 2021 DUI stop finally tied Salguero-Olivares to crime-scene DNA after hundreds of earlier samples matched no one."
+    },
+    {
+      "n": 8,
       "headline": "Man dies after falling from the Goliath roller coaster at Six Flags Over Georgia; riders left stranded until crews evacuate the 200-foot ride",
       "cat": "Crime / courts",
       "source": "Fox News",
@@ -13,7 +90,7 @@
       "summary": "A person died Monday afternoon after an incident on the Goliath hypercoaster at Six Flags Over Georgia, Cobb County police confirmed to Fox News. The department said it happened just before 4 p.m., with one person dead and several others reported injured, and did not immediately give further details. A Six Flags spokesperson said the park was “deeply saddened by the guest incident,” was cooperating with authorities, and would not share more “out of respect for the family’s privacy.” Witnesses told local station WXIA the man appeared in their souvenir photo as he fell and “hit the car three different times.” The 200-foot coaster, which reaches about 70 mph with a 170-foot first drop, stalled with passengers stuck on the track until emergency crews evacuated them; video showed people climbing out and using a high staircase. The ride has a secondary 175-foot drop, a 540-degree spiral, and forces up to about 4 Gs."
     },
     {
-      "n": 2,
+      "n": 9,
       "headline": "Internal Stellantis document points to a 2028 Dodge Charger Hellcat: supercharged 6.2L HEMI V8, RWD, two- and four-door",
       "cat": "Dodge / autos",
       "source": "Mopar Insiders",
@@ -24,7 +101,7 @@
       "summary": "Mopar Insiders says an internal Stellantis powertrain document lists a 2028 Dodge Charger SRT application pairing the supercharged 6.2-liter Hellcat HEMI V8 with ZF’s 8HP95 eight-speed automatic — the strongest public evidence yet that the Hellcat is coming back on the eighth-generation Charger (LB). The listing covers both the two-door (LB29) and four-door (LB49) bodies and, unlike today’s Hurricane-powered Chargers, calls for rear-wheel drive rather than AWD. That lines up with the site’s March 2026 report that Dodge had greenlit Hellcat development aimed at 2028, when a mid-cycle refresh is due. The same document still shows the 3.0-liter Hurricane twin-turbo I-6 in standard and high-output tunes and the ELD battery-electric pack used in the Charger Daytona, so gas, performance gas, and EV would share the lineup. Dodge has not announced a 2028 Charger SRT Hellcat; product plans can change."
     },
     {
-      "n": 3,
+      "n": 10,
       "headline": "NATO’s top commander warns Russia: we will “break” attacking forces and destroy “anything and everything” that supports them",
       "cat": "World / defense",
       "source": "Fox News",
@@ -35,7 +112,7 @@
       "summary": "U.S. Air Force Gen. Alexus Grynkewich, NATO’s supreme allied commander in Europe, told the Warsaw Security Forum on Monday that if an adversary presses an attack on the alliance, “we will break the warfighting system engaged against us,” including “not just the attacking force itself, but anything and everything that supports, sustains, and controls that force.” He framed a three-part approach of “blocking, blunting and breaking” enemy forces and said that while NATO is defensive, “If someone is foolish enough to attack us, we will fight” and make any assault on any of the 32 allies “utterly futile.” The remarks come amid European accusations of Russian hybrid warfare — sabotage, arson, cyberattacks, and drone incursions near NATO territory. “We stand here together in Poland today stronger than ever united in our common vision of a more balanced, more ready and more lethal alliance,” Grynkewich said."
     },
     {
-      "n": 4,
+      "n": 11,
       "headline": "More than 30 years after Shotgun Messiah, Zinny J Zan and Harry Cody reunite as Zan/Cody with new album Beautiful ’N Damned",
       "cat": "Heavy metal",
       "source": "Louder / Classic Rock",
@@ -46,7 +123,7 @@
       "summary": "Shotgun Messiah frontman Zinny J Zan and guitarist Harry Cody are back together as Zan/Cody with Beautiful ’N Damned, a hard-rock album with cellos and choirs that they cut over the internet before meeting in person for the first time since 1990. Zan left the glam-metal band amid differences and returned to Sweden; Cody and Tim Sköld carried on until Relativity dropped them after 1992’s industrial-leaning Violent New Breed. Cody says Shotgun Messiah as an entity is still him and Sköld, with most of another album recorded but on hold while Sköld plays bass in Marilyn Manson. Zan/Cody shopped the finished record and signed with Frontiers. They reunited on stage at Sweden Rock in June 2026 — their first Swedish show together since 1988 — and Cody says “time had ironed out most of the issues… the spark was still there.” Shotgun Messiah’s 1989 debut sold nearly half a million copies."
     },
     {
-      "n": 5,
+      "n": 12,
       "headline": "Apple routed a flexible graphite heat pipe through the iPhone Duo’s hinge so both halves can dump heat when the foldable is closed",
       "cat": "Apple",
       "source": "9to5Mac",
@@ -57,7 +134,7 @@
       "summary": "Apple’s thermal team told PCMag that cooling the book-style iPhone Duo was “one of the most technically challenging aspects” of the design because a folded phone doubles in thickness and limits heat paths. Senior thermal manager Banafsheh Barabadi said they co-engineered a flexible graphite pipe that runs through the hinge itself, moving heat between the two halves and giving more surface area to shed it — a material that has to survive countless hinge cycles without losing thermal contact or falling apart. The Duo’s A20 Pro variant, Apple’s first iPhone chip on 2 nm, also adds a second display engine so the inner and outer screens can run at once, and places FaceTime behind the inner display. Across the new iPhones, Apple pairs the SoC with a vapor chamber and a “metal over foam” pad that couples the chip to the chamber while staying mechanically compliant. Pre-orders for the Duo are due Friday."
     },
     {
-      "n": 6,
+      "n": 13,
       "headline": "RJ Mitte, who played Walter White Jr. on ‘Breaking Bad,’ dies at 34",
       "cat": "TV / obituary",
       "source": "CBS News",
@@ -68,7 +145,7 @@
       "summary": "RJ Mitte, who rose to fame as Walter “Flynn” White Jr., the son of Bryan Cranston’s chemistry-teacher-turned-meth-kingpin on “Breaking Bad,” has died at 34, his representative confirmed Monday. A Brownsville, Texas, justice of the peace told NBC News she declared him dead at 1:32 p.m. Monday in Brownsville, where he had moved, but could not disclose a cause of death. Mitte, who was diagnosed with cerebral palsy at 3, drew on that experience for the role; the series debuted in January 2008 when he was 15, and the cast won a Screen Actors Guild ensemble award in 2014 for its final season. Off screen he became a prominent disability advocate, serving as an ambassador for United Cerebral Palsy and Shriners Children’s and as president of The Mitte Foundation, and in 2014 received SAG-AFTRA’s Howard Russell Award. He later starred in “The Oak Room” and the 2021 wrestling film “Triumph,” about a high schooler with cerebral palsy. His representatives asked for privacy for his family."
     },
     {
-      "n": 7,
+      "n": 14,
       "headline": "Chicago police solve the 1960 murder of 8-year-old Gloria Kowalewicz — and the killer was one of their own, a longtime homicide detective",
       "cat": "Crime / courts",
       "source": "NBC News",
@@ -79,7 +156,7 @@
       "summary": "The Chicago Police Department says DNA technology that didn’t exist 65 years ago, combined with “a carefully preserved fingerprint” lifted from the strap of her white communion purse, has identified the man who abducted and killed 8-year-old Gloria Kowalewicz as she walked to Saturday morning Mass on the South Side on Nov. 12, 1960: Thomas F. McInerney Jr., then 24, who went on to serve as a CPD homicide detective and retired in 1987 after 28 years on the job. He died in Las Vegas in 2006 at 70. The third-grader was shot twice in the head and left in a ditch in a forest preserve southwest of the city; the case set off a months-long manhunt in which thousands were questioned, and more than 1,000 people attended her funeral. The match came in July using the same kind of genetic genealogy that caught the Golden State Killer. “McInerney should never have worn the CPD star, and it is devastating to accept that he was never identified and held accountable while he was alive,” the department said. His DNA is in the FBI’s CODIS database, and the FBI is checking whether he may be tied to other unsolved crimes from that era. Police still don’t know why he targeted Gloria; his parents lived less than a mile from her family."
     },
     {
-      "n": 8,
+      "n": 15,
       "headline": "Trump says he’s “looking at” firing Ambassador to Greece Kimberly Guilfoyle over an alleged $100,000 pay-to-play ask: “We’re not happy”",
       "cat": "Politics",
       "source": "CBS News",
@@ -90,7 +167,7 @@
       "summary": "President Trump told reporters on his way to Ohio on Monday that he and his administration are “looking at” firing Kimberly Guilfoyle as U.S. ambassador to Greece. “Well, we’re looking at it,” he said. “We’re not happy.” The question follows claims by businessman Eric Deters, who told CBS News last week he has “no doubt it was pay-to-play” after Guilfoyle allegedly asked him, ahead of her Senate confirmation hearing, to wire $100,000 to cover her American Express bill in exchange for her help with the administration. Deters gave CBS screenshots of their texts, including one in which she appears to ask for the money, and says he never paid. Sources told CBS that White House officials were told the texts are authentic and some aides were displeased; Guilfoyle’s lawyer has disputed their authenticity. Guilfoyle, Donald Trump Jr.’s ex-fiancée and a former Fox News host, had her hearing in July 2025 and was confirmed that September. She was highly visible during Secretary of State Marco Rubio’s visit to Greece last week, when Rubio declined to comment on the story."
     },
     {
-      "n": 9,
+      "n": 16,
       "headline": "Penguins trade Caleb Jones and prospect Daniel Laatsch to Buffalo for left-shot defenseman Ryan Johnson, a 2019 first-rounder",
       "cat": "Penguins hockey",
       "source": "Pittsburgh Hockey Now",
@@ -101,7 +178,7 @@
       "summary": "For the second time in a week, the Penguins have picked up a left-handed defenseman buried on another team’s depth chart. On Monday evening Pittsburgh sent Caleb Jones and depth prospect Daniel Laatsch to the Buffalo Sabres for Ryan Johnson, 25, the Sabres’ first-round pick (31st overall) in 2019. Johnson, 6-foot-1 and 195 pounds, is a defensive-minded, good-skating blueliner who played four seasons at the University of Minnesota and 41 NHL games as a rookie, but has spent most of the past two seasons in the AHL with only three NHL games in each; he has seven career NHL assists in 47 games and had 19 points in 56 games for Rochester last season. Jones, signed to a two-year, $1.8 million deal in July 2025, played just seven games for Pittsburgh last season through injuries and a suspension for a positive performance-enhancing-substance test, and was waived ahead of this season. Laatsch, a 6-foot-5 defenseman, played 29 ECHL games for Wheeling. The move fills a hole: the Penguins had no depth defenseman on the NHL roster after putting Trevor van Riemsdyk on injured reserve Monday."
     },
     {
-      "n": 10,
+      "n": 17,
       "headline": "Jerry Seinfeld to anti-Israel hecklers at his Chicago show: “I’m gonna find out how much your ticket was and I’m sending it to Israel”",
       "cat": "Comedy / Israel",
       "source": "The Algemeiner",
@@ -112,7 +189,7 @@
       "summary": "Activists from Anti-War Committee Chicago and the Chicago branch of the U.S. Palestinian Community Network repeatedly interrupted Jerry Seinfeld’s Friday show at the Chicago Theatre, calling him a racist and a “genocide apologist” for his support of Israel. “Seinfeld you will see, Palestine will be free,” one man shouted; when Seinfeld joked he’d “had enough” of his cell phone service, a woman yelled, “Well, I’ve had enough of genocide!” and accused him of making jokes while Palestinians are killed “with our taxpayer money.” Seinfeld shot back sarcastically, “I am a racist. It’s a genocide, I’m into it,” then added, “I’m gonna find out how much your ticket was and I’m sending it to Israel … No I won’t, I’m keeping it,” drawing laughter, applause and cheers, according to fan video posted online. Seinfeld, who lived on a kibbutz as a teenager, visited Israel after the Oct. 7, 2023, Hamas attack, met hostage families and has been heckled at several shows; protesters also walked out of his Duke University commencement speech. He has said “Free Palestine” is a way of saying “you don’t like Jews” without admitting it."
     },
     {
-      "n": 11,
+      "n": 18,
       "headline": "Musk says Starship Flight 15 will try to catch the ship itself with the tower, likely “a little bit before Thanksgiving”",
       "cat": "Elon / SpaceX",
       "source": "Teslarati",
@@ -121,83 +198,6 @@
       "image_remote": "https://www.teslarati.com/wp-content/uploads/2026/06/elon-musk-starship-starbase-1000x600.jpg",
       "id": "00e357375dcd871313bf61702728872b46f69519",
       "summary": "Speaking to about 2,000 people at the X Takeover event at Giga Texas on Saturday, Elon Musk said SpaceX’s next Starship flight is four to six weeks away and “probably launches a little bit before Thanksgiving, is my guess,” a slip from earlier reporting that pointed to a launch as early as Oct. 19. He said the list of changes between flights is short this time, “but some of them take a fair bit of work and we’ve got to go inside the tank.” The big goal: “We’re going to try to catch the ship, which is a super big deal. If we do so, that’ll be the first time that there’s been full recovery of an orbital class rocket.” SpaceX has caught the Super Heavy booster with the tower’s mechanical arms, but the upper stage has never been caught; every ship so far has ended in a water landing. Musk said Flight 16 would then aim to refly both the booster and the ship. Teslarati notes that Starlink V3 satellites can only fly on Starship, and NASA’s Moon lander plans depend on fast, reusable tanker flights. Flight 14 reached orbit on Sept. 28 and deployed the first 26 V3 satellites despite an early engine shutdown."
-    },
-    {
-      "n": 12,
-      "headline": "Selma Blair arrested after allegedly biting a flight attendant and being restrained on a Delta flight from LAX to JFK",
-      "cat": "Crime / courts",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/selma-blair-arrested-incident-on-board-flight-from-lax-to-jfk/",
-      "image_local": "images/story-999.jpg",
-      "image_remote": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/12/247fe598-4e63-46a1-beff-5e16ec2c94bc/thumbnail/1200x630g3/c96828c02cb4db43ebd67c6f7ae96687/gettyimages-2298149182.jpg",
-      "id": "a5b466438099ac0976b0a3acf0f171d2f218da84",
-      "summary": "Actress Selma Blair, 54, was arrested after allegedly biting a flight attendant on Delta Air Lines Flight 938 from Los Angeles to New York’s JFK around 11 p.m. Sunday, CBS News reports. Port Authority Police say two flight attendants were hurt, one bitten and one with a laceration, and one went to the hospital; the crew had to restrain her. In air traffic control audio the pilot asked for medical personnel at the gate for “a bloody nose as well as some bite marks,” adding that the passenger may have hit her head on the bulkhead. A law enforcement source says she then kicked a Port Authority officer in the ambulance and assaulted a nurse at Jamaica Hospital. She was taken to Queens Central Booking for arraignment on two state assault counts, and the FBI, which is looking into a “potential assault” on the plane, issued her a federal summons. Her attorney says she “experienced a medical emergency that led to the alleged conduct” and is stable. Delta said it has “zero tolerance for unruly or unlawful behavior.” Blair, known for “Cruel Intentions” and “Legally Blonde,” has multiple sclerosis; her 2022 memoir has a chapter titled “Bite Me.”"
-    },
-    {
-      "n": 13,
-      "headline": "Hackers remotely defrost refrigerators at hundreds of French supermarkets, sparking fires and forcing stores to dump fresh and frozen food",
-      "cat": "World / cyber",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/cyberattack-supermarkets-refrigerators-france-fires-food-losses/",
-      "image_local": "images/story-1000.jpg",
-      "image_remote": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/12/68bbafea-6d26-464b-8296-d942b589aa51/thumbnail/1200x630/db575cdaf8fac7ca5f0c739b16ce1ae9/2026-10-12t154034z-1680256209-rc2q1oaaopie-rtrmadp-3-france-cyberattack.jpg",
-      "id": "9889ac25b335b03cc8019d2383a10c0d7d172255",
-      "summary": "Major French supermarket chains said Monday they were hit by a cyberattack that drove up temperatures in refrigerators across hundreds of stores, spoiling food and, prosecutors say, sparking fires. At least 300 Intermarché and Netto shops, more than 100 Coopérative U outlets and several E. Leclerc stores were hit; Carrefour said 80 of its roughly 6,000 stores were attacked. French broadcaster BFM TV said hackers “managed to remotely trigger the forced defrosting of the refrigeration systems,” and affected stores will have to throw out all fresh and frozen products. A source said control systems from Danish maker Danfoss were targeted; Danfoss said most affected units were “legacy” AK-SM800 and AK-SC355 regulators that no longer get security updates, and that it had long urged supermarkets to upgrade. France’s cybersecurity agency has found a vulnerability in the Danish software and is warning European counterparts, since other countries may be affected. Ahold Delhaize, which also runs U.S. grocery chains, reported its own “security issue,” and Paris prosecutors have opened an investigation. Coopérative U’s CEO called targeting food-supply equipment “of extreme gravity and unprecedented.”"
-    },
-    {
-      "n": 14,
-      "headline": "Anthrax’s Frank Bello would do more ‘Big Four’ thrash shows “in a heartbeat”: “Talk to Metallica… They know our number”",
-      "cat": "Heavy metal",
-      "source": "Consequence (Heavy Consequence)",
-      "url": "https://consequence.net/2026/10/anthrax-frank-bello-big-four-shows/",
-      "image_local": "images/story-1001.jpg",
-      "image_remote": "https://consequence.net/wp-content/uploads/2026/10/Anthrax-Frank-Bello.jpg",
-      "id": "dab2231b9139470c424e76f07da788c82d41955d",
-      "summary": "Fifteen years after Metallica, Slayer, Megadeth and Anthrax wrapped their run of 14 “Big Four” shows at Yankee Stadium in 2011, Anthrax bassist Frank Bello told Heavy Consequence he would love to do it again. “It’s certainly not up to me,” he said. “Talk to Metallica. I would do it in a heartbeat. If it’s meant to be, it’ll be. They know our number. We’re friends.” Bello said he reconnected with James Hetfield for about half an hour at last year’s Back to the Beginning concert. With Slayer back on stage after quitting in 2019 and Megadeth on a farewell tour, any reunion would likely have to happen in the next few years. Bello also looked back on 1986–87, when Master of Puppets, Peace Sells, Reign in Blood and Among the Living all came out within 13 months: “Those records met the moment. It exploded… There’s a whole generation that hasn’t seen that. Of course, we’d do it. But, yeah, we’ll wait for the call.” Anthrax recently released Cursum Perficio, its first album in 10 years."
-    },
-    {
-      "n": 15,
-      "headline": "Ex-paratrooper Karl Bushby is back on British soil after a 28-year, 30,000-mile walk from Chile, with about 240 miles left to his mum’s house",
-      "cat": "World / travel",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/world/british-adventurer-returns-home-after-28-year-walk-around-world",
-      "image_local": "images/story-1003.jpg",
-      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/karl-bushby-swims-caspian-sea.jpg",
-      "id": "f5be754e66c77f29cd0ba607bc9cdf2a7f954fd2",
-      "summary": "British adventurer Karl Bushby has set foot in England again after a journey on foot he began in Chile on Nov. 1, 1998, with a few hundred dollars in his pocket. On Oct. 5 he announced he had swum the English Channel from France, celebrated with fish and chips, and on Oct. 9 set off through Dover on the final leg; he hopes to reach his mother’s home in Hull by the end of the month and has roughly 240 miles to go. The ex-paratrooper got the idea from a birthday card his father sent in the 1990s about walking from London to New York via the Bering Strait. He walked north through the Americas, crossed the frozen Bering Strait from Alaska into Russia, and when Russia refused him a visa in 2012 he walked to the Russian Embassy in Washington in protest until the ban was lifted. He later crossed Mongolia and China and swam the Caspian Sea from Kazakhstan to Azerbaijan in 2024. Expected to take 12 years, the trip stretched across more than 30,000 miles and 29 countries through visa fights, the 2008 crash, COVID and detention. “It’s the people, the strangers that I have met along the way, that have kept me upright,” he said."
-    },
-    {
-      "n": 16,
-      "headline": "Babylon Bee: ‘Mamdani Says ICE Agents Who Cross Border Into New York City Without Permission Will Be Prosecuted’",
-      "cat": "Satire",
-      "source": "The Babylon Bee",
-      "url": "https://babylonbee.com/news/mamdani-says-ice-agents-who-cross-border-into-new-york-city-without-permission-will-be-prosecuted",
-      "image_local": "images/story-1004.jpg",
-      "image_remote": "https://media.babylonbee.com/articles/6acd1a6f99c336acd1a6f99c34.jpg",
-      "id": "b25ff53c8bff29aaf0e486b2e44e864da76e428c",
-      "summary": "Satire. In the Bee’s telling, Mayor Zoran Mamdani’s office announced Monday that any ICE agents who cross into the city without permission will be prosecuted “to the fullest extent of the law,” with agents still in town to be rounded up and deported to New Jersey, where they can petition to enter New York legally. “This city wants ICE out, and I am prepared to enforce our city’s borders against them,” the fake Mamdani says, adding that “no one should be allowed to freely roam in and out of a territory without permission.” A fictional President Trump calls the move unprecedented, noting New York doesn’t have a wall, only “a little water,” and that ICE agents can swim the Hudson “like dolphins — ICE dolphins, I call them.” By publishing time, the mayor had diverted money from free bus rides to building a big, beautiful wall around the city to keep ICE out."
-    },
-    {
-      "n": 17,
-      "headline": "Federal agents raid Rep. Ilhan Omar’s D.C. home in a criminal probe of the immigration paperwork her father filed when she was a child",
-      "cat": "Politics",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/politics/ilhan-omars-home-dc-searched-hsi-pre-dawn-raid",
-      "image_local": "images/story-992.jpg",
-      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/hsi-raid-omar-split.jpg",
-      "id": "8c6967ab5e9cf6ee00920ba426c7541d3c6f3b0e",
-      "summary": "Agents with Homeland Security Investigations, the criminal investigative arm of DHS, searched the Washington, D.C., home of Rep. Ilhan Omar, D-Minn., early Monday morning. Fox News Digital, which first reported the raid, says the operation began around 6 a.m., with HSI and DHS leading it and the Justice Department involved, and that agents in HSI jackets were seen outside the house. Sources told Fox and CBS News the case centers on the Somali-born congresswoman’s immigration paperwork, filled out by her late father when she was a child; HSI handles federal crimes such as immigration document fraud, identity fraud and benefit fraud. A DOJ spokesperson said HSI “executed a judicially authorized search warrant secured by the Department of Justice” as “part of an ongoing federal investigation.” Omar’s office did not respond to requests for comment, and the White House and DHS declined to comment. Border czar Tom Homan said in mid-September that Omar was the subject of an ongoing criminal investigation; at the time she said no one had contacted her about one. Omar has also drawn scrutiny over her financial disclosures, which went from reporting $6 million to $30 million in her husband’s assets in 2024 to a maximum of $125,000 in shared assets in 2025."
-    },
-    {
-      "n": 18,
-      "headline": "Apple reportedly raises iPhone Duo orders 30% ahead of Friday’s pre-orders, pushing its 2026 target toward 10 million",
-      "cat": "Apple",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/10/12/apple-has-reportedly-increased-its-iphone-duo-orders-by-30/",
-      "image_local": "images/story-993.jpg",
-      "image_remote": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-night-sky-front-back.jpg?quality=82&strip=all&resize=1200,628",
-      "id": "ad82b9836200f079deb3914969b87adaa95d5b37",
-      "summary": "Apple is expecting much stronger demand for the foldable iPhone Duo than it first planned, according to a report from China’s Securities Times. Supply-chain sources told the paper Apple has raised its iPhone Duo orders by 30%; total supply for the rest of 2026 still doesn’t exceed 10 million units, but against earlier estimates of 6 to 7 million, 9to5Mac says the new target is likely close to 10 million. Pre-orders open this Friday, Oct. 16, and Apple’s “get ready” step for faster checkout opens later today. The same sources say iPhone 18 Pro Max orders rose 10% to 15% while iPhone 18 Pro orders were cut by the same amount, leaving total iPhone 18 Pro-line targets unchanged, which contradicts a recent Nikkei Asia report of cuts."
     },
     {
       "n": 19,
