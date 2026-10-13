@@ -1134,7 +1134,13 @@
     "7ae58981b8d7d7460fffe3050fef8fe7d56f70b2",
     "d62833c8276130214910cd6f53661542a6784313",
     "016c1b0759c6707089045604eaf000a14c680f4e",
-    "a18e258bfb486ee8debdddf5c358df80eeef060a"
+    "a18e258bfb486ee8debdddf5c358df80eeef060a",
+    "2654e91400f5b2ff7fa67e73dee11f42fb01acae",
+    "49e310eb2a55f56a6b8c9ab05031a021a42989f0",
+    "4163bf1078b74cc17cb99d876f21b159cc6ce443",
+    "86e5c001d1a419ce1f6b090df5710dd534676f7a",
+    "4f93673b4051c5cc48f3ef1b45ec9760df030cac",
+    "58610f7993e1e304fe48ac83ea9ab1b25f9436de"
   ],
   "stories": {
     "0c2ac7a5e342411678296315c4c59043b1f067cc": {
@@ -13842,7 +13848,67 @@
       "image_remote": "",
       "image_local": "",
       "id": "a18e258bfb486ee8debdddf5c358df80eeef060a"
+    },
+    "2654e91400f5b2ff7fa67e73dee11f42fb01acae": {
+      "headline": "Vatican says Pope Leo XIV has lung cancer; surgeons removed the lower lobe of his right lung",
+      "cat": "World / Vatican",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/pope-leo-diagnosed-lung-cancer-surgery/",
+      "summary": "The Vatican said Tuesday that Pope Leo XIV’s surgery confirmed lung adenocarcinoma and that doctors removed the lower lobe of his right lung in a roughly 90-minute video-assisted operation with no complications. The 71-year-old American pontiff was in the operating room about three hours, regained consciousness normally, and returned to his room on Gemelli Hospital’s 10th floor. The bulletin did not give a stage or say whether the cancer had spread. Audiences remain canceled through Oct. 20, and a typical three-week no-fly window would press against his planned early-November South America trip.",
+      "image_remote": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/13/27c23460-6b43-45c8-9518-72afd717ddc6/thumbnail/1200x630/7838b043c105d09b5afc81a3f7b57ed1/gettyimages-2299975861.jpg",
+      "image_local": "images/story-1031.jpg",
+      "id": "2654e91400f5b2ff7fa67e73dee11f42fb01acae"
+    },
+    "49e310eb2a55f56a6b8c9ab05031a021a42989f0": {
+      "headline": "Kimberly Guilfoyle resigns as U.S. ambassador to Greece after the White House asks her to step down",
+      "cat": "Politics",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/kimberly-guilfoyle-confirms-exit-ambassador-greece-trump-asks-her-resign-amid-flurry-scandals",
+      "summary": "Kimberly Guilfoyle confirmed Tuesday she is leaving her post as U.S. ambassador to Greece after new White House press secretary Katie Zacharia told reporters the administration had asked her to resign. President Trump said she “was doing a good job, but we didn’t like what we were reading,” distancing himself from the former Donald Trump Jr. fiancée amid allegations she sought help paying a $100,000 credit card bill and other misconduct claims she denies. “These allegations are false, and I intend to vigorously defend my name,” Guilfoyle wrote, while pledging continued loyalty to Trump and the America First movement.",
+      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/donald-trump-kimberly-guilfoyle.jpg",
+      "image_local": "images/story-1032.jpg",
+      "id": "49e310eb2a55f56a6b8c9ab05031a021a42989f0"
+    },
+    "4163bf1078b74cc17cb99d876f21b159cc6ce443": {
+      "headline": "OpenAI says it used its own AI models to trace a hidden office bug to an employee now facing federal charges",
+      "cat": "AI / tech",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2286084/openai-says-it-found-a-sophisticated-recording-device-hidden-in-its-offices/",
+      "summary": "Federal prosecutors charged Saudi national Abdulrahman Alfozan, a 35-year-old OpenAI engineer, with allegedly planting a sophisticated recording device in an executive conference room at the company’s San Francisco headquarters. OpenAI said it discovered the device — reportedly plugged into a TV USB port and covered in toilet paper around Sept. 28 — then used its models to understand it and identify who planted it; the company fired him and referred the case to the FBI. Prosecutors say the room hosted confidential roadmap talks; OpenAI said it has no indication he exfiltrated model weights, source code, or customer data.",
+      "image_remote": "",
+      "image_local": "",
+      "id": "4163bf1078b74cc17cb99d876f21b159cc6ce443"
+    },
+    "86e5c001d1a419ce1f6b090df5710dd534676f7a": {
+      "headline": "Slash says Guns N’ Roses will take 2027 off from touring to work on new music: “We have so much material”",
+      "cat": "Metal",
+      "source": "Blabbermouth",
+      "url": "https://blabbermouth.net/news/slash-says-guns-n-roses-will-take-2027-off-from-touring-to-work-on-new-music-we-have-so-much-material",
+      "summary": "Guns N’ Roses guitarist Slash told SiriusXM’s Trunk Nation that after November–December dates in India, Indonesia, Singapore, Australia and New Zealand, the band plans to take 2027 off the road and write. “Exactly. That’s the idea,” he said when host Eddie Trunk asked whether the break is meant for new material, adding they “have so much material” but “it doesn’t work on the road.” The reunion-era band released two new songs, “Atlas” and “Nothin’,” earlier this year.",
+      "image_remote": "https://assets.blabbermouth.net/media/gunsnrosesofficialoct2026_638.jpg",
+      "image_local": "images/story-1033.jpg",
+      "id": "86e5c001d1a419ce1f6b090df5710dd534676f7a"
+    },
+    "4f93673b4051c5cc48f3ef1b45ec9760df030cac": {
+      "headline": "Elevation Lab pulls its AirTag “Silencer” after admitting it could help stalkers dodge alerts",
+      "cat": "Apple / privacy",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/13/elevation-lab-airtag-silencer/",
+      "summary": "Elevation Lab has yanked its AirTag Silencer — a pin-and-hammer tool meant to destroy the tracker’s speaker so thieves wouldn’t hear an AirTag on a stolen bike — after conceding it could also let someone with bad intent track a person without the usual sound alert. In a customer email the company said it built the gadget for bike security, then realized the stalking side effect, removed the product, and plans to use its patent to stop copycats. MacRumors notes AirTag chirps are an essential anti-stalking safeguard even if they make the trackers less useful against deliberate thieves.",
+      "image_remote": "https://images.macrumors.com/t/OPWRVCL_xaBa4hjTbWp2bPKuNCI=/1956x/article-new/2026/10/elevation-lab-airtag-silencer.jpg",
+      "image_local": "images/story-1034.jpg",
+      "id": "4f93673b4051c5cc48f3ef1b45ec9760df030cac"
+    },
+    "58610f7993e1e304fe48ac83ea9ab1b25f9436de": {
+      "headline": "Babylon Bee: God pushes up the date of the apocalypse after seeing Greta Gerwig’s Narnia trailer",
+      "cat": "Satire",
+      "source": "The Babylon Bee",
+      "url": "https://babylonbee.com/news/god-pushes-up-date-of-apocalypse-after-seeing-greta-gerwigs-narnia-trailer/",
+      "summary": "Satire: In the Babylon Bee’s telling, angelic sources say the Almighty moved the apocalypse way up after watching the trailer for Greta Gerwig’s Magician’s Nephew adaptation. A spokesangel said that after seeing what Gerwig did to C.S. Lewis’s world, the end has been accelerated; surveyed Christians who saw the trailer backed an imminent Armageddon. By publishing time, theologians were penciling in Feb. 11, 2027 — the day before the film’s release.",
+      "image_remote": "https://media.babylonbee.com/articles/6ace9af0f1da46ace9af0f1da5.jpg",
+      "image_local": "images/story-1035.jpg",
+      "id": "58610f7993e1e304fe48ac83ea9ab1b25f9436de"
     }
   },
-  "updated": "Tuesday, October 13, 2026 · 4:10 PM ET"
+  "updated": "Tuesday, October 13, 2026 · 6:07 PM ET"
 }

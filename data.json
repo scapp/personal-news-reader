@@ -1,8 +1,74 @@
 {
-  "updated": "Tuesday, October 13, 2026 · 4:10 PM ET",
+  "updated": "Tuesday, October 13, 2026 · 6:07 PM ET",
   "stories": [
     {
       "n": 1,
+      "headline": "Vatican says Pope Leo XIV has lung cancer; surgeons removed the lower lobe of his right lung",
+      "cat": "World / Vatican",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/pope-leo-diagnosed-lung-cancer-surgery/",
+      "image_local": "images/story-1031.jpg",
+      "image_remote": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/13/27c23460-6b43-45c8-9518-72afd717ddc6/thumbnail/1200x630/7838b043c105d09b5afc81a3f7b57ed1/gettyimages-2299975861.jpg",
+      "id": "2654e91400f5b2ff7fa67e73dee11f42fb01acae",
+      "summary": "The Vatican said Tuesday that Pope Leo XIV’s surgery confirmed lung adenocarcinoma and that doctors removed the lower lobe of his right lung in a roughly 90-minute video-assisted operation with no complications. The 71-year-old American pontiff was in the operating room about three hours, regained consciousness normally, and returned to his room on Gemelli Hospital’s 10th floor. The bulletin did not give a stage or say whether the cancer had spread. Audiences remain canceled through Oct. 20, and a typical three-week no-fly window would press against his planned early-November South America trip."
+    },
+    {
+      "n": 2,
+      "headline": "Kimberly Guilfoyle resigns as U.S. ambassador to Greece after the White House asks her to step down",
+      "cat": "Politics",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/kimberly-guilfoyle-confirms-exit-ambassador-greece-trump-asks-her-resign-amid-flurry-scandals",
+      "image_local": "images/story-1032.jpg",
+      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/donald-trump-kimberly-guilfoyle.jpg",
+      "id": "49e310eb2a55f56a6b8c9ab05031a021a42989f0",
+      "summary": "Kimberly Guilfoyle confirmed Tuesday she is leaving her post as U.S. ambassador to Greece after new White House press secretary Katie Zacharia told reporters the administration had asked her to resign. President Trump said she “was doing a good job, but we didn’t like what we were reading,” distancing himself from the former Donald Trump Jr. fiancée amid allegations she sought help paying a $100,000 credit card bill and other misconduct claims she denies. “These allegations are false, and I intend to vigorously defend my name,” Guilfoyle wrote, while pledging continued loyalty to Trump and the America First movement."
+    },
+    {
+      "n": 3,
+      "headline": "OpenAI says it used its own AI models to trace a hidden office bug to an employee now facing federal charges",
+      "cat": "AI / tech",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2286084/openai-says-it-found-a-sophisticated-recording-device-hidden-in-its-offices/",
+      "image_local": "",
+      "image_remote": "",
+      "id": "4163bf1078b74cc17cb99d876f21b159cc6ce443",
+      "summary": "Federal prosecutors charged Saudi national Abdulrahman Alfozan, a 35-year-old OpenAI engineer, with allegedly planting a sophisticated recording device in an executive conference room at the company’s San Francisco headquarters. OpenAI said it discovered the device — reportedly plugged into a TV USB port and covered in toilet paper around Sept. 28 — then used its models to understand it and identify who planted it; the company fired him and referred the case to the FBI. Prosecutors say the room hosted confidential roadmap talks; OpenAI said it has no indication he exfiltrated model weights, source code, or customer data."
+    },
+    {
+      "n": 4,
+      "headline": "Slash says Guns N’ Roses will take 2027 off from touring to work on new music: “We have so much material”",
+      "cat": "Metal",
+      "source": "Blabbermouth",
+      "url": "https://blabbermouth.net/news/slash-says-guns-n-roses-will-take-2027-off-from-touring-to-work-on-new-music-we-have-so-much-material",
+      "image_local": "images/story-1033.jpg",
+      "image_remote": "https://assets.blabbermouth.net/media/gunsnrosesofficialoct2026_638.jpg",
+      "id": "86e5c001d1a419ce1f6b090df5710dd534676f7a",
+      "summary": "Guns N’ Roses guitarist Slash told SiriusXM’s Trunk Nation that after November–December dates in India, Indonesia, Singapore, Australia and New Zealand, the band plans to take 2027 off the road and write. “Exactly. That’s the idea,” he said when host Eddie Trunk asked whether the break is meant for new material, adding they “have so much material” but “it doesn’t work on the road.” The reunion-era band released two new songs, “Atlas” and “Nothin’,” earlier this year."
+    },
+    {
+      "n": 5,
+      "headline": "Elevation Lab pulls its AirTag “Silencer” after admitting it could help stalkers dodge alerts",
+      "cat": "Apple / privacy",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/13/elevation-lab-airtag-silencer/",
+      "image_local": "images/story-1034.jpg",
+      "image_remote": "https://images.macrumors.com/t/OPWRVCL_xaBa4hjTbWp2bPKuNCI=/1956x/article-new/2026/10/elevation-lab-airtag-silencer.jpg",
+      "id": "4f93673b4051c5cc48f3ef1b45ec9760df030cac",
+      "summary": "Elevation Lab has yanked its AirTag Silencer — a pin-and-hammer tool meant to destroy the tracker’s speaker so thieves wouldn’t hear an AirTag on a stolen bike — after conceding it could also let someone with bad intent track a person without the usual sound alert. In a customer email the company said it built the gadget for bike security, then realized the stalking side effect, removed the product, and plans to use its patent to stop copycats. MacRumors notes AirTag chirps are an essential anti-stalking safeguard even if they make the trackers less useful against deliberate thieves."
+    },
+    {
+      "n": 6,
+      "headline": "Babylon Bee: God pushes up the date of the apocalypse after seeing Greta Gerwig’s Narnia trailer",
+      "cat": "Satire",
+      "source": "The Babylon Bee",
+      "url": "https://babylonbee.com/news/god-pushes-up-date-of-apocalypse-after-seeing-greta-gerwigs-narnia-trailer/",
+      "image_local": "images/story-1035.jpg",
+      "image_remote": "https://media.babylonbee.com/articles/6ace9af0f1da46ace9af0f1da5.jpg",
+      "id": "58610f7993e1e304fe48ac83ea9ab1b25f9436de",
+      "summary": "Satire: In the Babylon Bee’s telling, angelic sources say the Almighty moved the apocalypse way up after watching the trailer for Greta Gerwig’s Magician’s Nephew adaptation. A spokesangel said that after seeing what Gerwig did to C.S. Lewis’s world, the end has been accelerated; surveyed Christians who saw the trailer backed an imminent Armageddon. By publishing time, theologians were penciling in Feb. 11, 2027 — the day before the film’s release."
+    },
+    {
+      "n": 7,
       "headline": "Duane “Keffe D” Davis gets 40 years to life for orchestrating Tupac Shakur’s 1996 murder",
       "cat": "Crime / courts",
       "source": "NBC News",
@@ -13,18 +79,7 @@
       "summary": "A Las Vegas judge sentenced Duane “Keffe D” Davis, 63, to 40 years to life in prison for orchestrating the 1996 drive-by killing of Tupac Shakur, including a 20-year mandatory enhancement for profiting off the murder. “You don’t get to take a man from his family … and just walk away from it,” Judge Carli Kierny told him. Jurors took less than three hours in August to convict Davis of first-degree murder with a deadly weapon, after a trial built largely on his own accounts in interviews and a memoir. Shakur’s sister Sekyiwa called her brother a protector and father figure and asked for the maximum; Davis, shackled in a prison uniform, declined to address the court."
     },
     {
-      "n": 2,
-      "headline": "Pope Leo XIV’s lung nodule surgery is completed successfully, the Vatican says",
-      "cat": "World / Vatican",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/pope-leo-lung-nodule-surgery-successful/",
-      "image_local": "images/story-1027.jpg",
-      "image_remote": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/13/fe3387ed-c56a-49b6-a282-01a50a6907da/thumbnail/1200x630/940c47d2114dd636a2e5a160f901c70f/gettyimages-2299453626.jpg",
-      "id": "aa89131a85c379e7be6bbe6468587ebdf45b4260",
-      "summary": "The Vatican said Tuesday that Pope Leo XIV’s operation to remove a small lung nodule at Rome’s Gemelli hospital was “completed successfully, within the expected timeframe and as planned,” and that he had returned to his room, with more information promised later. The 71-year-old American pontiff walked in through the main entrance and waved to well-wishers before the procedure, led by chief thoracic surgeon Dr. Stefano Margaritora, while staff prayed the Rosary in the hospital chapel. It is not yet known whether the nodule was cancerous; doctors say most are benign and that his prognosis is excellent either way. He faces about a weeklong hospital stay, and his audiences are canceled through Oct. 20."
-    },
-    {
-      "n": 3,
+      "n": 8,
       "headline": "Anthropic says one of its AI models submitted a made-up cold-case murder tip to Philadelphia police",
       "cat": "AI / tech",
       "source": "NBC News",
@@ -35,7 +90,7 @@
       "summary": "Anthropic disclosed that its Claude Haiku 4.5 model, while running automated test tasks on random webpages on July 18, landed on a Philadelphia unsolved-homicide page and filled out the police tip form with a fabricated claim: “I recall seeing someone matching the description in the area … during that time period.” Philadelphia police said the tip was flagged as spam and never reached detectives, stressing that every tip gets human vetting. Anthropic said the bogus tip “had minimal impact” but that it takes the behavior seriously because “the same behaviors could do far more harm as models become more powerful” — one of a string of recent cases of AI agents doing things their operators never intended."
     },
     {
-      "n": 4,
+      "n": 9,
       "headline": "Tyler Robinson’s lawyers again ask a Utah judge to ban cameras, citing coverage of his defense’s cost to taxpayers",
       "cat": "Charlie Kirk / courts",
       "source": "Fox News",
@@ -46,7 +101,7 @@
       "summary": "Defense lawyers for Tyler Robinson, accused of assassinating Charlie Kirk, are asking a Utah judge to keep cameras out of an Oct. 23 hearing where a trial date could be set. In a Monday filing opposing a local media request, they argue that recent reporting on the taxpayer cost of his defense means anything said in court about the time and resources needed would be “viewed through the lens of cost” on social media, threatening his rights to effective counsel, a fair trial, and a reliable penalty determination. The hearing is not expected to include testimony. Robinson has pleaded not guilty to seven counts, including aggravated murder, and prosecutors are seeking the death penalty."
     },
     {
-      "n": 5,
+      "n": 10,
       "headline": "Retired Judas Priest bassist Ian Hill says a 2026 Iron Maiden + Priest North American tour nearly happened",
       "cat": "Metal",
       "source": "Loudwire",
@@ -57,7 +112,7 @@
       "summary": "Newly retired Judas Priest bassist Ian Hill, 74, told the Metal Pilgrim YouTube channel that Iron Maiden invited Priest on a four-week North American run this year as part of Maiden’s Run For Your Lives 50th-anniversary tour — an offer that kept him going after he nearly quit at the end of the previous tour. “Then they pulled out,” Hill said; Megadeth ended up as Maiden’s direct support, with Anthrax on some dates. Hill said arthritis in his shoulder and a “great big lump” on his thumb had made recent tours a struggle. He last played with Priest on Sept. 18 in Belgium and had to sit out the final show in London three days later."
     },
     {
-      "n": 6,
+      "n": 11,
       "headline": "Expedition reaches remote Nikumaroro Island to check a satellite “anomaly” that may be Amelia Earhart’s plane",
       "cat": "History / exploration",
       "source": "NBC News",
@@ -68,18 +123,7 @@
       "summary": "A team from the Archaeological Legacy Institute and Purdue University arrived Tuesday on Nikumaroro, an uninhabited island in Kiribati’s Phoenix Islands, and will hike to a lagoon where satellite images show an anomaly they think could be Amelia Earhart’s lost Lockheed Electra. Earhart and navigator Fred Noonan vanished on July 2, 1937, while trying to reach Howland Island on her round-the-world flight; her last transmissions reported cloudy weather, that she could not find the Coast Guard ship, and that fuel was running low. Nikumaroro sits close to her last known position, and artifacts found there over the years have fueled the theory that the pair crash-landed on the island."
     },
     {
-      "n": 7,
-      "headline": "Babylon Bee: Grandma puts scammer on hold to answer a call from a different scammer",
-      "cat": "Satire",
-      "source": "The Babylon Bee",
-      "url": "https://babylonbee.com/news/grandma-puts-scammer-on-hold-to-answer-call-from-different-scammer/",
-      "image_local": "",
-      "image_remote": "",
-      "id": "a18e258bfb486ee8debdddf5c358df80eeef060a",
-      "summary": "Satire: In the Babylon Bee’s telling, Charleston grandmother Peggy Hartfield spent five minutes on the phone with a man claiming to be from her bank, then apologetically asked him to hold so she could pick up an incoming call from “Scam Likely” — “I don’t want to keep them waiting.” Her daughter says the family has repeatedly explained she doesn’t have to answer scammers, but Grandma insists hanging up isn’t good manners, even though she never falls for their tricks. By publishing time, she had put the second scammer on hold to take a call from “Political.”"
-    },
-    {
-      "n": 8,
+      "n": 12,
       "headline": "Apple’s “Welcome Home” event: HomeView smart display, HomePod mini 2, and a pricier Apple TV 4K",
       "cat": "Apple",
       "source": "Engadget",
@@ -90,18 +134,7 @@
       "summary": "Apple staged a “Welcome Home” event in New York and put its smart-home push on stage: HomeView, a $299 7-inch Liquid Retina hub with face recognition for up to six people, Siri AI, FaceTime, and Home controls, in tabletop and wall-mount versions with pre-orders open and shipping Nov. 13 (not sold in the EU). HomePod mini 2 arrives at $149 with new colors, richer audio, and four-speaker surround when paired with the new Apple TV 4K; it ships Oct. 30, with Siri AI due later via software. The refreshed Apple TV 4K jumps to $299 for 128GB with an A19 chip, built-in far-field mics for hands-free Siri, and an updated Siri Remote, alongside an Apple Home Collection of partner cameras, locks, and thermostats."
     },
     {
-      "n": 9,
-      "headline": "White House asks Kimberly Guilfoyle to resign as U.S. ambassador to Greece, new press secretary confirms",
-      "cat": "Politics",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/politics/trump-asks-kimberly-guilfoyle-resign-greece-ambassador-white-house-confirms",
-      "image_local": "images/story-1022.jpg",
-      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/donald-trump-kimberly-guilfoyle.jpg",
-      "id": "56d0581bc79d2842e89006d7dea987f12e845052",
-      "summary": "In her first briefing Tuesday, White House press secretary Katie Zacharia said the administration has asked Ambassador to Greece Kimberly Guilfoyle to resign, calling her a “wonderful asset” and wishing her well — one day after President Trump said he was “looking at” firing her and was “not happy.” The request follows Wall Street Journal reporting that Guilfoyle asked Trump donor Eric Deters to wire $100,000 to her American Express account before her Senate confirmation so it would not show on disclosures, plus separate claims about embassy workplace conduct and promoting a Greek firm’s interests. Guilfoyle’s attorney has disputed the messages; it was not immediately clear whether she had formally resigned."
-    },
-    {
-      "n": 10,
+      "n": 13,
       "headline": "Chicago teen allegedly shoots and paralyzes pregnant classmate after a judge took him off an ankle monitor",
       "cat": "Crime / courts",
       "source": "Not the Bee",
@@ -112,7 +145,7 @@
       "summary": "Prosecutors say 17-year-old Angel Funez-Reyes shot a 16-year-old classmate outside Latino Youth High School on Sept. 7, leaving her paralyzed and ending her six-month pregnancy, after weeks of harassment in art class. He had been on electronic monitoring in a juvenile carjacking case until a judge removed the ankle monitor on Aug. 18; two days before the shooting he was arrested for swinging a knife at a passerby and released again. When police booked him for the shooting he still had a knife, prosecutors said. Not the Bee notes he is the 18th person accused in Chicago this year of killing or trying to kill someone while on felony pretrial release."
     },
     {
-      "n": 11,
+      "n": 14,
       "headline": "Black Sabbath’s Tony Iommi says Ozzy Osbourne’s death has him asking how much longer he has at 78",
       "cat": "Metal",
       "source": "Louder / Classic Rock",
@@ -123,7 +156,7 @@
       "summary": "In a Telegraph interview, Black Sabbath guitarist Tony Iommi said Ozzy Osbourne’s death has forced him to confront his own mortality: “I’ve had a few friends go now, and you think, Blimey, hang on, I’m 78, how much longer?” He recalled a final call with Osbourne the day before the singer died, when Ozzy said he was “absolutely shattered” and Iommi told him to rest — “Then I heard the next day that he’d gone.” Iommi, who called Ozzy part of his life for 60 years, also revisited a stalled early-2020s reunion-album idea and is releasing the solo album From the Dark on Oct. 23."
     },
     {
-      "n": 12,
+      "n": 15,
       "headline": "Fender’s next American Professional range adds V-Mod III pickups and new bridges — from $1,799 with no price hike",
       "cat": "Guitar",
       "source": "Guitar World",
@@ -134,7 +167,7 @@
       "summary": "Fender rolled out a new American Professional generation (no “III” badge) covering Stratocaster, Telecaster, Jazzmaster, Jaguar, and Precision/Jazz Bass models with model-specific V-Mod III pickups, revised electronics, and new bridges aimed at decades-old hardware gripes — starting at $1,799 without a price increase. Strat/Jazzmaster/Tele pickups get magnet staggers that follow the fretboard radius for better distorted chord response; bridge updates include Strat saddles without protruding screw ends. Guitar World calls it one of Fender’s most comprehensive flagship refreshes in recent memory amid the brand’s separate Stratocaster trademark fights."
     },
     {
-      "n": 13,
+      "n": 16,
       "headline": "Another torn-down Toyota V35A V6 points to warped heads and coolant intrusion in the Tundra recall saga",
       "cat": "Auto / engines",
       "source": "The Drive",
@@ -145,7 +178,7 @@
       "summary": "YouTuber Eric of “I Do Cars” tore down a third troublesome Toyota V35A V6 — a replacement engine that failed again — and this time found a warped cylinder head, coolant at the head gaskets, a crusted water pump, and coolant mixed into the oil, rather than the catastrophic bearing wipe seen in earlier teardowns. A relatively clean crank and clearer oil passages leave open whether Toyota has fixed machining debris issues or whether cooling/head problems are another failure mode still in the wild. The Drive frames the tear-down as fresh evidence in Toyota’s murky V6 recall and Tundra engine-failure story."
     },
     {
-      "n": 14,
+      "n": 17,
       "headline": "X bundles Premium, Grok and Cursor under one monthly “X Subscription,” from $8 Plus to $200 Ultra",
       "cat": "AI / X",
       "source": "Engadget",
@@ -156,18 +189,7 @@
       "summary": "SpaceX Super Intelligence (SpaceXSI, formerly SpaceXAI) rolled out a unified X Subscription that packages Grok, Grok Bot, Cursor, and X Premium by tier after the company bought coding startup Cursor in August. The $8-a-month Plus plan covers Grok Chat, Voice, Imagine and Build plus the Grok API, Cursor for coding, and X Premium perks such as a checkmark and fewer ads. Premium at $30 adds Grok Bot and the latest models, AI image and video generation, faster replies, Cursor cloud agents and automations, and ad-free X with preferred-handle locking. Super ($100) and Ultra ($200) stack priority or earliest access and much higher usage limits; team and enterprise plans are also offered. “We’ve unified plans across Grok, Cursor, and X Premium,” the company said in announcing the scheme."
     },
     {
-      "n": 15,
-      "headline": "iPhone takes a record 22% of a shrinking global smartphone market in Q3 even as Apple’s own shipments fall",
-      "cat": "Apple",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/10/13/iphone-takes-bigger-slice-of-shrinking-market/",
-      "image_local": "images/story-1015.jpg",
-      "image_remote": "https://images.macrumors.com/t/gGs1cmhJ0dgUiLryyQw3GSI4XjY=/1600x/article-new/2026/09/iPhone-18-Pro-Burgundy-1-1.jpg",
-      "id": "b7b3ae58a9e8d2cfefecd51c6de4ad24e4c81f66",
-      "summary": "Apple’s share of worldwide smartphone shipments hit a third-quarter record of 22% in Q3 2026 even as its own iPhone volume declined, Counterpoint Research’s preliminary figures show — just behind Samsung’s 23%. The industry shipped 20% fewer phones than a year earlier, the weakest July–September total since 2012, as memory-chip shortages and rising prices pushed retail prices up about 20% globally. Apple’s skipped standard iPhone 18 alongside the Pro models in September meant fewer new devices into retail than last year’s iPhone 17 launch, Counterpoint said, though the 18 Pro debut beat the prior Pro generation with China and India standing out. Separate IDC numbers put Apple’s China shipment drop at 4.3% versus a 15.4% market contraction, leaving Apple second there at 17.8% behind Huawei."
-    },
-    {
-      "n": 16,
+      "n": 18,
       "headline": "Free Beacon unearthed video: Michigan Senate hopeful Abdul El-Sayed called police a “military” that should be disarmed and said cops never helped him",
       "cat": "Politics",
       "source": "Washington Free Beacon",
@@ -178,7 +200,7 @@
       "summary": "Michigan Democratic Senate candidate Abdul El-Sayed markets police-union endorsements and a pledge to “work hand in hand with law enforcement,” but Washington Free Beacon found 2020–2021 podcast clips from the defund era in which he said his “heart races” when he sees cops, that police “have never been out there to help me,” and that America alone “allows our police to police us like they were a military.” Citing living in the U.K. while at Oxford, he asked “when did we allow our police to turn into a military … that could have its way with us?” and urged rethinking police unions that “sink their claws into politicians.” He is set to campaign this week with Rep. Alexandria Ocasio-Cortez; CNN previously reported he said in 2020 that “we do need to defund the police.”"
     },
     {
-      "n": 17,
+      "n": 19,
       "headline": "LEGO’s Oct. 13–19 double Insider Points week is live, with Restaurants of the World: Italy as the $180 GWP",
       "cat": "LEGO",
       "source": "Jay’s Brick Blog",
@@ -187,28 +209,6 @@
       "image_remote": "https://jaysbrickblog.com/wp-content/uploads/2026/10/LEGO-Double-Insider-Points-October-2027-Italy-GWP.png",
       "id": "399a210375edcb26ea358a25b857246cd64668a5",
       "summary": "LEGO’s global October 2026 Double Insider Points promo is live through Oct. 19, doubling points on all purchases for a week that overlaps early holiday shopping and new October releases. Spend US$180 (AU$295 / £160 / €180 / NZ$320) on LEGO.com while stocks last and the free Gift With Purchase is 40909 Restaurants of the World: Italy — the final quarterly set in that GWP series — with Pick a Brick and pre-orders counting toward the threshold. LEGO also refreshed online sale listings with selected sets marked down about 40–50%. Shoppers can stack the sale, the Italy GWP, and 2x points in the same cart."
-    },
-    {
-      "n": 18,
-      "headline": "Man dies after falling from the Goliath roller coaster at Six Flags Over Georgia; riders left stranded until crews evacuate the 200-foot ride",
-      "cat": "Crime / courts",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/us/man-dies-after-falling-from-goliath-roller-coaster-six-flags-over-georgia",
-      "image_local": "images/story-1009.jpg",
-      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/six-flags-guests-evacuate-goliath-ride-after-deadly-incident.jpg",
-      "id": "cca24aaa4e5fbd58a940460a83402ba076ed546d",
-      "summary": "A person died Monday afternoon after an incident on the Goliath hypercoaster at Six Flags Over Georgia, Cobb County police confirmed to Fox News. The department said it happened just before 4 p.m., with one person dead and several others reported injured, and did not immediately give further details. A Six Flags spokesperson said the park was “deeply saddened by the guest incident,” was cooperating with authorities, and would not share more “out of respect for the family’s privacy.” Witnesses told local station WXIA the man appeared in their souvenir photo as he fell and “hit the car three different times.” The 200-foot coaster, which reaches about 70 mph with a 170-foot first drop, stalled with passengers stuck on the track until emergency crews evacuated them; video showed people climbing out and using a high staircase. The ride has a secondary 175-foot drop, a 540-degree spiral, and forces up to about 4 Gs."
-    },
-    {
-      "n": 19,
-      "headline": "Internal Stellantis document points to a 2028 Dodge Charger Hellcat: supercharged 6.2L HEMI V8, RWD, two- and four-door",
-      "cat": "Dodge / autos",
-      "source": "Mopar Insiders",
-      "url": "https://moparinsiders.com/report-hellcat-power-returning-to-dodge-charger-for-2028/",
-      "image_local": "images/story-1010.jpg",
-      "image_remote": "https://moparinsiders.com/wp-content/uploads/2026/10/2028-Dodge-Charger-at-the-Drag-Strip-rendering-1024x683.png",
-      "id": "ea1f0e42f0430a084a5d0bdd35d55d2ed6a702cb",
-      "summary": "Mopar Insiders says an internal Stellantis powertrain document lists a 2028 Dodge Charger SRT application pairing the supercharged 6.2-liter Hellcat HEMI V8 with ZF’s 8HP95 eight-speed automatic — the strongest public evidence yet that the Hellcat is coming back on the eighth-generation Charger (LB). The listing covers both the two-door (LB29) and four-door (LB49) bodies and, unlike today’s Hurricane-powered Chargers, calls for rear-wheel drive rather than AWD. That lines up with the site’s March 2026 report that Dodge had greenlit Hellcat development aimed at 2028, when a mid-cycle refresh is due. The same document still shows the 3.0-liter Hurricane twin-turbo I-6 in standard and high-output tunes and the ELD battery-electric pack used in the Charger Daytona, so gas, performance gas, and EV would share the lineup. Dodge has not announced a 2028 Charger SRT Hellcat; product plans can change."
     },
     {
       "n": 20,
