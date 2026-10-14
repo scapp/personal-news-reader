@@ -5,6 +5,10 @@
   const READ_KEY = 'pnr_read';
   const REMOVED_KEY = 'pnr_removed';
   const SAVED_KEY = 'pnr_saved';
+  const SAVED_META_KEY = 'pnr_saved_meta'; // { id: snapshot } so saves outlive data.json + archive.json
+  // Old-id -> current-id remaps (pre-urlcanon etc.). Audit 2026-10-14: every historical id is still a key
+  // in archive.json, so nothing needs remapping today. Add pairs here if a future id scheme change happens.
+  const LEGACY_ID_MAP = {};
   const HIDE_READ_KEY = 'pnr_hide_read';
   const THEME_KEY = 'pnr_theme';
   const SYNC_TOKEN_KEY = 'pnr_sync_token';
@@ -41,7 +45,8 @@
 
   let auth = null;
   let stories = []; // live home feed = data.json only (≤20)
-  let catalog = []; // archive+data merge for Saved lookup
+  let archiveMap = null; // id -> story from archive.json, lazy-loaded for Saved only
+  let archivePromise = null;
   let updatedLabel = '';
   let syncToken = null;
   let gistFileSha = null;
@@ -72,6 +77,117 @@
   function removedIds() { return new Set(loadList(REMOVED_KEY)); }
   function savedIds() { return new Set(loadList(SAVED_KEY)); }
 
+  function loadSavedMeta() {
+    try {
+      const o = JSON.parse(localStorage.getItem(SAVED_META_KEY) || '{}');
+      return o && typeof o === 'object' && !Array.isArray(o) ? o : {};
+    } catch (_) { return {}; }
+  }
+  function saveSavedMeta(meta) {
+    // Keep only snapshots for ids that are still saved.
+    const keep = new Set(loadList(SAVED_KEY));
+    const out = {};
+    for (const k of Object.keys(meta || {})) if (keep.has(k) && meta[k]) out[k] = meta[k];
+    try { localStorage.setItem(SAVED_META_KEY, JSON.stringify(out)); } catch (_) {}
+  }
+  function snapshotStory(story) {
+    return {
+      id: String(story.id),
+      title: story.headline || story.title || '',
+      url: story.url || '',
+      source: story.source || '',
+      cat: story.cat || '',
+      image: story.image_local || story.image || story.image_remote || '',
+      summary: story.summary || '',
+      date: story.date || story.published || updatedLabel || '',
+      savedAt: new Date().toISOString(),
+    };
+  }
+  function storyFromSnapshot(m) {
+    return { id: m.id, headline: m.title, url: m.url, source: m.source, cat: m.cat || 'Saved',
+      image_local: m.image, summary: m.summary, date: m.date };
+  }
+  function findStory(id) {
+    return stories.find((s) => s.id === id) || (archiveMap && archiveMap.get(id)) || null;
+  }
+  function addSaved(id) {
+    const list = loadList(SAVED_KEY);
+    if (!list.includes(id)) { list.push(id); saveList(SAVED_KEY, list); }
+    const meta = loadSavedMeta();
+    const story = findStory(id);
+    if (story && !meta[id]) meta[id] = snapshotStory(story);
+    saveSavedMeta(meta);
+  }
+  function dropSaved(id) {
+    saveList(SAVED_KEY, loadList(SAVED_KEY).filter((x) => x !== id));
+    saveSavedMeta(loadSavedMeta());
+  }
+
+  // Saved stories that can actually be shown, newest save first. Resolution order:
+  // live data.json -> archive.json (if loaded) -> saved snapshot. Saved wins over Removed:
+  // removing a story from the feed never hides it from Saved (that was the 25-vs-1 bug).
+  function savedStories() {
+    const meta = loadSavedMeta();
+    const out = [];
+    for (const id of loadList(SAVED_KEY).reverse()) {
+      const live = findStory(id);
+      if (live) out.push(live);
+      else if (meta[id]) out.push(storyFromSnapshot(meta[id]));
+    }
+    return out;
+  }
+
+  function ensureArchive() {
+    if (archiveMap) return Promise.resolve(true);
+    if (!archivePromise) {
+      archivePromise = loadJson('archive.json', true).then((archive) => {
+        const m = new Map();
+        const src = (archive && archive.stories) || {};
+        const list = Array.isArray(src) ? src : Object.entries(src).map(([k, v]) => ({ ...v, id: (v && v.id) || k }));
+        for (const st of list) if (st && st.id) m.set(String(st.id), st);
+        archiveMap = m;
+        return true;
+      }).catch((err) => { archivePromise = null; console.warn('archive.json unavailable', err); return false; });
+    }
+    return archivePromise;
+  }
+
+  // Migrate saved ids: resolve each (data.json -> snapshot -> archive.json -> legacy map), snapshot
+  // everything resolvable, drop only truly unresolvable ids. Never drops if the archive couldn't load.
+  // Returns true if the saved set/snapshots changed (caller pushes via the normal sync path).
+  async function reconcileSaved() {
+    const ids = loadList(SAVED_KEY);
+    const meta = loadSavedMeta();
+    const need = ids.filter((id) => !meta[id] && !stories.some((s) => s.id === id));
+    if (need.length && !(await ensureArchive())) return false;
+    const next = [];
+    let recovered = 0, dropped = 0, remapped = 0, changed = false;
+    for (const id of ids) {
+      if (meta[id]) { next.push(id); continue; }
+      let story = findStory(id);
+      let useId = id;
+      if (!story && LEGACY_ID_MAP[id]) {
+        useId = LEGACY_ID_MAP[id];
+        story = findStory(useId);
+        if (story) remapped++;
+      }
+      if (story) {
+        meta[useId] = snapshotStory(story);
+        next.push(useId);
+        recovered++;
+        changed = true;
+      } else {
+        dropped++;
+        changed = true;
+      }
+    }
+    if (!changed) return false;
+    saveList(SAVED_KEY, next);
+    saveSavedMeta(meta);
+    console.info(`[saved] reconciled ${ids.length} ids: ${recovered} snapshotted/recovered (${remapped} via legacy map), ${dropped} unresolvable dropped, ${new Set(next).size} saved`);
+    return true;
+  }
+
   function unionLists(a, b) {
     return [...new Set([...(a || []), ...(b || [])].map(String))];
   }
@@ -81,6 +197,7 @@
       read: loadList(READ_KEY),
       removed: loadList(REMOVED_KEY),
       saved: loadList(SAVED_KEY),
+      savedMeta: loadSavedMeta(),
       updated: new Date().toISOString(),
     };
   }
@@ -95,6 +212,9 @@
       saveList(READ_KEY, read);
       saveList(REMOVED_KEY, removed);
       if (hasSaved) saveList(SAVED_KEY, saved);
+      if (state.savedMeta && typeof state.savedMeta === 'object') {
+        saveSavedMeta({ ...state.savedMeta, ...loadSavedMeta() });
+      }
     }
     return { read, removed, saved };
   }
@@ -274,6 +394,7 @@
     try {
       if (reason !== 'push-only') {
         await pullRemoteState();
+        await reconcileSaved();
         render();
       }
       await pushRemoteState();
@@ -299,12 +420,8 @@
   }
 
   function toggleSaved(id) {
-    const list = loadList(SAVED_KEY);
-    if (list.includes(id)) saveList(SAVED_KEY, list.filter((x) => x !== id));
-    else {
-      list.push(id);
-      saveList(SAVED_KEY, list);
-    }
+    if (loadList(SAVED_KEY).includes(id)) dropSaved(id);
+    else addSaved(id);
     render();
     schedulePush();
   }
@@ -420,10 +537,15 @@
     const id = undoRemoveId;
     const action = undoAction || { kind: 'remove', id };
     if (action.kind === 'save') {
-      if (!action.wasSaved) saveList(SAVED_KEY, loadList(SAVED_KEY).filter((x) => x !== id));
+      if (!action.wasSaved) dropSaved(id);
       if (!action.wasRead) saveList(READ_KEY, loadList(READ_KEY).filter((x) => x !== id));
     } else if (action.kind === 'read') {
       saveList(READ_KEY, loadList(READ_KEY).filter((x) => x !== id));
+    } else if (action.kind === 'unsave') {
+      saveList(SAVED_KEY, action.prevList || [...loadList(SAVED_KEY), id]);
+      const meta = loadSavedMeta();
+      if (action.snap) meta[id] = action.snap;
+      saveSavedMeta(meta);
     } else {
       saveList(REMOVED_KEY, loadList(REMOVED_KEY).filter((x) => x !== id));
     }
@@ -433,7 +555,19 @@
     schedulePush();
   }
 
+  function unsaveStory(id) {
+    const prevList = loadList(SAVED_KEY);
+    const snap = loadSavedMeta()[id] || null;
+    dropSaved(id);
+    render();
+    schedulePush();
+    undoRemoveId = id;
+    undoAction = { kind: 'unsave', id, prevList, snap };
+    showToast('Removed');
+  }
+
   function removeStory(id) {
+    if (viewMode === 'saved') { unsaveStory(id); return; }
     const list = loadList(REMOVED_KEY);
     list.push(id);
     saveList(REMOVED_KEY, list);
@@ -448,7 +582,7 @@
     const saved = loadList(SAVED_KEY);
     const reads = loadList(READ_KEY);
     const action = { kind: 'save', id, wasSaved: saved.includes(id), wasRead: reads.includes(id) };
-    if (!action.wasSaved) { saved.push(id); saveList(SAVED_KEY, saved); }
+    if (!action.wasSaved) addSaved(id);
     if (!action.wasRead) { reads.push(id); saveList(READ_KEY, reads); }
     deckDone.add(id);
     render();
@@ -552,9 +686,9 @@
     const saved = savedIds();
     const hideRead = !!(hideReadToggle && hideReadToggle.checked);
 
-    // Saved view resolves against the full catalog (archive + live batch).
+    // Saved view: every resolvable saved story (live, archive, or snapshot), never hidden by Removed.
     if (viewMode === 'saved') {
-      return notRemoved(catalog.length ? catalog : stories).filter((s) => saved.has(s.id));
+      return savedStories();
     }
 
     // Home feed is the published data.json batch only (hard-capped ≤20 at publish).
@@ -620,7 +754,7 @@
           <h2>All caught up</h2>
           <p>No unread stories left in this batch. New stories arrive at 7am, 11am, and 5pm ET.</p>
           <p class="deck-end-actions">
-            <button type="button" data-action="open-saved">Open Saved (${saved.size})</button>
+            <button type="button" data-action="open-saved">Open Saved (${savedStories().length})</button>
             <button type="button" data-action="deck-refresh">Check for new stories</button>
           </p>
         </div>`;
@@ -876,65 +1010,18 @@
     refreshStatus.textContent = msg;
   }
 
-  function mergeStories(data, archive) {
-    const byId = new Map();
-    const order = [];
-
-    function ingest(list) {
-      for (const s of list || []) {
-        if (!s || !s.id) continue;
-        if (!byId.has(s.id)) {
-          byId.set(s.id, s);
-          order.push(s.id);
-        } else {
-          byId.set(s.id, { ...byId.get(s.id), ...s });
-        }
-      }
-    }
-
-    if (archive) {
-      if (Array.isArray(archive.order)) {
-        for (const id of archive.order) {
-          const s = archive.stories && archive.stories[id];
-          if (s) {
-            const story = { ...s, id: s.id || id };
-            if (!byId.has(story.id)) {
-              byId.set(story.id, story);
-              order.push(story.id);
-            }
-          }
-        }
-      } else if (archive.stories && typeof archive.stories === 'object' && !Array.isArray(archive.stories)) {
-        ingest(Object.values(archive.stories));
-      } else if (Array.isArray(archive.stories)) {
-        ingest(archive.stories);
-      }
-    }
-
-    ingest(data.stories || []);
-
-    const latestIds = (data.stories || []).map((s) => s && s.id).filter(Boolean);
-    // archive.order is oldest-first. Feed is newest-first so the unread cap drops the oldest.
-    const restOldestFirst = order.filter((id) => !latestIds.includes(id));
-    const finalOrder = [...latestIds, ...restOldestFirst.slice().reverse()];
-    return finalOrder.map((id) => byId.get(id)).filter(Boolean);
-  }
-
   let wired = false;
   let refreshing = false;
   let lastFetchedAt = 0;
 
   async function loadStories(bust) {
-    const [data, archive] = await Promise.all([
-      loadJson('data.json', bust),
-      loadJson('archive.json', bust).catch(() => null),
-    ]);
-    updatedLabel = data.updated || (archive && archive.updated) || '';
+    const data = await loadJson('data.json', bust);
+    updatedLabel = data.updated || '';
     // Live home feed = published data.json only, hard-capped at 20 (publish rule).
     const live = (data.stories || []).filter((s) => s && s.id).slice(0, UNREAD_CAP);
     stories = live;
-    // Full catalog keeps archive for Saved stories no longer in the live batch.
-    catalog = mergeStories(data, archive);
+    // archive.json is lazy-loaded (ensureArchive) only when Saved needs it; a refresh invalidates it.
+    if (bust) { archiveMap = null; archivePromise = null; }
     lastFetchedAt = Date.now();
     render();
   }
@@ -1009,6 +1096,9 @@
         savedToggle.setAttribute('aria-pressed', viewMode === 'saved' ? 'true' : 'false');
         savedToggle.textContent = viewMode === 'saved' ? 'Back to feed' : 'Saved';
         render();
+        if (viewMode === 'saved') {
+          reconcileSaved().then((changed) => { if (changed) { schedulePush(); render(); } });
+        }
       });
     }
     if (undoLink) undoLink.addEventListener('click', (e) => { e.preventDefault(); undoRemove(); });
@@ -1038,6 +1128,8 @@
     await loadStories(true);
     if (syncConfigured() && syncToken) {
       await syncNow('boot');
+      render();
+    } else if (await reconcileSaved()) {
       render();
     }
   }
