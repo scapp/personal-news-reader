@@ -1,8 +1,85 @@
 {
-  "updated": "Wednesday, October 14, 2026 · 11:43 AM ET",
+  "updated": "Wednesday, October 14, 2026 · 4:08 PM ET",
   "stories": [
     {
       "n": 1,
+      "headline": "Elon Musk says Trump and the U.S. military set the Starshield speed limits Ukraine says are disrupting drone intercepts",
+      "cat": "Elon / World",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/elon-musk-spacex-imposes-stunning-restrictions-ukraine-could-have-deadly-consequences",
+      "image_local": "images/story-1049.jpg",
+      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2025/03/starlink-elon-musk.jpg",
+      "id": "85c41fed9c5e2a24ea246be2bf94c8fb8b5ecd63",
+      "summary": "After Ukrainian units reported overnight speed caps on Starshield terminals that cut connectivity for drones flying faster than about 100 mph, Elon Musk posted that “any limits on speed or usage are decided by the US military and ultimately POTUS,” stressing that Starshield hardware is owned and controlled by the U.S. government while commercial Starlink is separate. A source told Fox that Kyiv got no advance warning despite a government contract running through May 2027, and forces found out only after calling SpaceX support when missions failed. Musk did not say whether Trump, War Secretary Pete Hegseth or another official personally authorized the change. Zelenskyy has warned that the throttling could cost lives amid Russian strikes."
+    },
+    {
+      "n": 2,
+      "headline": "Grassley: Jack Smith’s Arctic Frost probe scooped up data on 639,000 Republican voters, donors and MAGA-hat buyers",
+      "cat": "Politics",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/massive-trove-republican-voter-donor-info-breached-biden-doj-probe-senate-chairman",
+      "image_local": "images/story-1050.jpg",
+      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/jack-smith-senate-judiciary-hearing.jpg",
+      "id": "38bbf2435ac789fd08a249e99aff23bf59cb1f45",
+      "summary": "Senate Judiciary Chairman Chuck Grassley’s latest whistleblower memo says former special counsel Jack Smith’s Biden-era Arctic Frost investigation obtained spreadsheets with names, dates of birth, addresses, emails and voter registrations for at least 639,000 Republican voters and supporters — including more than 148,000 small-dollar donors and shipping data on people who bought red MAGA hats and Trump memorabilia. Grassley says the haul goes far beyond what the Jan. 6 mandate required and “aimed to map out the entire Republican Party apparatus,” with some records reaching back years. Smith testified before the committee last month; Democrats have not joined Grassley’s call for more oversight."
+    },
+    {
+      "n": 3,
+      "headline": "Trumbull’s weekend centers on Saturday’s Fall Farm Festival at the Agriscience & Biotechnology Center",
+      "cat": "Local / Trumbull CT",
+      "source": "Patch",
+      "url": "https://patch.com/connecticut/trumbull/trumbull-weekend-guide-fall-farm-festival-agriscience-center",
+      "image_local": "images/story-1051.jpg",
+      "image_remote": "https://patch.com/img/cdn20/users/22878689/20261014/123900/styles/patch_image/public/img-8457___14123848930.jpg",
+      "id": "4d93f04d52da4ed3199a04428d8e0350f378d3f6",
+      "summary": "Patch’s Trumbull weekend guide highlights the Fall Farm Festival on Saturday, Oct. 17, at 10 a.m. at the Trumbull Agriscience & Biotechnology Center, 536 Daniels Farm Road. The free community event lists food trucks, face painting, games, a raffle table, craft vendors and a chance to visit the farm animals. The guide covers the Thursday–Sunday window of Oct. 15–18; the Halloween Town Hall parade for ages 0–5 remains a separate Oct. 27 registration item."
+    },
+    {
+      "n": 4,
+      "headline": "Jets WR Adonai Mitchell had a hand procedure and remains week-to-week ahead of Sunday at New England",
+      "cat": "Jets",
+      "source": "New York Jets",
+      "url": "https://www.newyorkjets.com/news/adonai-mitchell-week-to-week-after-hand-procedure-jets-injury-updates-10-14-2026",
+      "image_local": "images/story-1052.jpg",
+      "image_remote": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/jets/aeqkolov8vzduywo50xk",
+      "id": "291a07ec5739108e46846b6c4ac70b59a9b3c484",
+      "summary": "Head coach Aaron Glenn said Wednesday that third-year wideout Adonai Mitchell underwent a small procedure on the finger injury he suffered in practice before Week 3 and is still week-to-week. “He’s moving his fingers around really, really well,” Glenn said, after Mitchell waited roughly a week and a half to see how it progressed. Mitchell had 9 catches for 123 yards in Weeks 1–2 and could miss a fourth straight game Sunday at the Patriots. RB Breece Hall (quad) and LG Dylan Parham (knee) also did not practice and are week-to-week; Garrett Wilson, Isaiah Williams and Tim Patrick have been carrying the receiver room."
+    },
+    {
+      "n": 5,
+      "headline": "OpenAI turns the tables on Apple, saying an ex-employee took 100+ confidential device files back to Cupertino",
+      "cat": "AI / tech",
+      "source": "Gizmodo",
+      "url": "https://gizmodo.com/openai-turns-the-tables-on-apple-in-legal-fight-over-trade-secrets-2000826007",
+      "image_local": "images/story-1053.jpg",
+      "image_remote": "https://gizmodo.com/app/uploads/2026/10/openAI-apple-lawsuit-1200x675.jpg",
+      "id": "a13b136a25a0f02d046ae0fca9eb79bcfe525f6c",
+      "summary": "In a new federal filing tied to Apple’s July trade-secrets suit against OpenAI, the AI company alleges a former employee who had worked at Apple, spent six months at OpenAI, then returned to Apple transferred more than 100 confidential files about an unreleased OpenAI device — including detailed images, engineering and manufacturing data, and supplier info — to personal accounts on his last day, June 2. OpenAI also says he presented product plans to Apple’s senior leadership, including the VP of operations in Asia, and worries that information is now “circulating inside Apple” as Cupertino pushes AI-enabled hardware. Apple told Reuters it has procedures against using prior employers’ secrets and found no evidence supporting the claim."
+    },
+    {
+      "n": 6,
+      "headline": "Wyoming grad student from China arrested at LAX after allegedly poisoning a classmate’s tea, then trying to flee",
+      "cat": "Crime / courts",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/wyoming-grad-student-poisoned-colleague-arrested-fleeing-us/",
+      "image_local": "images/story-1054.jpg",
+      "image_remote": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/14/b759e897-7236-4adf-834d-5fcf4332f9d2/thumbnail/1200x630g2/6deb0f0c896f2fd5a24a098be6d0dfef/ap26286849574804.jpg",
+      "id": "eff593644cbd77bd54ebf9c615cef1339b8dcf21",
+      "summary": "University of Wyoming microbiology graduate student Aili Wang, 32, was arrested Oct. 6 at Los Angeles International Airport as she allegedly tried to return to China with laptops, storage devices and documents, prosecutors say. Police allege she poisoned the tea of a Vietnamese classmate, “K.T.,” who had federally funded, patent-pending work on disease-treatment tech similar to research she had done in China, using acrylamide bought on eBay after the victim’s wife found the chemical in a coffee maker. Campus cameras allegedly caught her rummaging through his desk. She was held without bail in Los Angeles; her professor called it one of the worst shocks of his career and said the victim’s recovery is uncertain."
+    },
+    {
+      "n": 7,
+      "headline": "World’s oldest shipwreck found off Turkey’s Kekova Island, dated to roughly 4,400–4,700 years old",
+      "cat": "World",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c6gr80rk1yyko",
+      "image_local": "images/story-1055.jpg",
+      "image_remote": "https://ichef.bbci.co.uk/news/1024/branded_news/19d5/live/72e7aa00-c71d-11f1-a82f-35874a3aae81.jpg",
+      "id": "cbed3a79d29f36bf348fd47c7aa698f224ea4446",
+      "summary": "Archaeologists led by Prof. Hakan Öniz of Akdeniz University say a roughly 33-foot Early Bronze Age trade ship found near Kekova Island off Turkey’s coast dates to about 4,400–4,700 years ago — around the time the Pyramids of Giza were built. The wooden hull is gone, but about 30 clay amphorae (some still with traces of cargo) and three stone anchors survived on the seabed. Öniz called it “a time capsule at the bottom of the sea.” The team first spotted the jars years ago, then matched their two-handled, flat-base form to Egyptian finds from the pyramid era and returned to confirm the Bronze Age date."
+    },
+    {
+      "n": 8,
       "headline": "Ukraine accuses SpaceX of suddenly throttling Starlink mid-mission as unwarned Russian missiles hit Kyiv",
       "cat": "Elon / World",
       "source": "NBC News",
@@ -13,7 +90,7 @@
       "summary": "Ukrainian officials and frontline units say Elon Musk’s SpaceX imposed new speed limits on Starlink terminals overnight without notice, disrupting drone missions that rely on the service for in-flight control. Zelenskyy’s defense-tech adviser Serhii Beskrestnov said “a number of missions” failed and called the timing no coincidence given the political moment, and a Zaporizhzhia air-assault unit said it had to cancel operations. The complaints come as Kyiv reels from two Russian ballistic-missile strikes that arrived without the usual allied warning, amid Trump’s diesel deal with Moscow and pressure on Ukraine to stop hitting Russian refineries. Trump insists the U.S. is still sharing intelligence; SpaceX and the White House did not respond to NBC."
     },
     {
-      "n": 2,
+      "n": 9,
       "headline": "Jamaica takes its first flight of third-country deportees from the U.S. as the Supreme Court fight looms",
       "cat": "Immigration",
       "source": "Fox News",
@@ -24,7 +101,7 @@
       "summary": "Twenty-two migrants landed at Kingston’s Norman Manley International Airport on Tuesday, the first transfers under a memorandum Jamaica signed with the U.S. in June that caps arrivals at 25 every two weeks. The Trump administration uses third-country removals for migrants who say their home countries are too dangerous to return to. Jamaica’s government called it a transit arrangement, run with the International Organization for Migration to move people on to their home or other receiving countries, and said it won’t pay for it or accept anyone with a criminal record. The Supreme Court let the deportations continue in September and will weigh the policy’s legality in December; Liberia has agreed to take up to 1,200 third-country deportees within a year."
     },
     {
-      "n": 3,
+      "n": 10,
       "headline": "iPhone Duo repair price list is out: up to $1,499 without AppleCare+, $229 for a battery, $49 for the inner cover layer",
       "cat": "Apple",
       "source": "MacRumors",
@@ -35,7 +112,7 @@
       "summary": "Two days before pre-orders open, Apple has posted its out-of-warranty repair fees for the foldable iPhone Duo, and the top “other damage” charge in the U.S. is $1,499 if you skip AppleCare+. Smaller jobs are more manageable: back glass is $199, a battery replacement is $229, and the removable nano-texture cover layer over the inner display — which Apple’s Kate Bergeron said owners can have swapped — is $49 ($19 with AppleCare+). AppleCare+ for the Duo costs $19.99 a month, $199.99 a year or $399 up front. Pre-orders begin Friday, Oct. 16, and the phone launches Friday, Oct. 23."
     },
     {
-      "n": 4,
+      "n": 11,
       "headline": "Four people who helped “Reckless Ben” in his viral LEGO fight sue American Fork, Utah, and 13 police officers",
       "cat": "LEGO / courts",
       "source": "KSL",
@@ -46,7 +123,7 @@
       "summary": "Four people featured in YouTuber Ben Schneider’s viral videos about the Bricks and Minifigs franchise filed a federal civil-rights suit Wednesday, saying American Fork police detained, searched, handcuffed, arrested and interrogated them without ever charging them. They had helped Schneider try to recover a Star Wars LEGO collection a family said an Oregon store never paid for under a consignment deal; the franchise has since closed and the family settled. The suit claims First and Fourth Amendment violations over traffic stops, phone seizures and warrants, blaming inexperienced, poorly trained officers. Bodycam footage of the encounters was accidentally released on the department’s Dropbox and fueled protests. Schneider himself still faces misdemeanor stalking and residential-picketing charges, with a hearing Dec. 16."
     },
     {
-      "n": 5,
+      "n": 12,
       "headline": "Police say a Pennsylvania mother stabbed her 3-year-old son and husband to death in a Great Wolf Lodge room",
       "cat": "Crime / courts",
       "source": "NBC News",
@@ -57,7 +134,7 @@
       "summary": "Officers rushed to the Great Wolf Lodge water park in the Poconos on Monday afternoon after a woman in Room 2030 called dispatchers saying she needed help taking her own life. Police say 27-year-old Metallica Rose Harrison of Towanda had wounds when they arrived, and officers found her husband, Charles Harrison, and their 3-year-old son dead in the room, both stabbed in the chest. “My husband and son are already gone in the bed in the living room… I’m sorry,” she allegedly told the dispatcher. Pocono Township police call it an isolated domestic tragedy with no threat to the public; a judge ordered her held without bail Tuesday, and the resort says it is cooperating with investigators."
     },
     {
-      "n": 6,
+      "n": 13,
       "headline": "Inflation jumps to 3.7% as gasoline soars 9.1% in a month, in the last CPI report before the midterms",
       "cat": "Economy",
       "source": "NBC News",
@@ -68,7 +145,7 @@
       "summary": "Consumer prices rose 3.7% from a year earlier in September and 0.6% from August, a bit hotter than the 3.6% economists expected, the Bureau of Labor Statistics said Wednesday. Gasoline jumped 9.1% in the month and drove more than half of the increase, as oil has climbed past $106 a barrel during the Iran war; unleaded gas is up 45% since late February. Housing, clothing and restaurant food also rose, while groceries were among the few categories that fell. Core inflation was 2.6%. Wages are growing about 3% a year, so paychecks haven’t outpaced prices since March. White House economist Kevin Hassett called it “a disappointing number.” The same data set gives Social Security recipients a 3.6% cost-of-living raise for 2027, the largest since 2022."
     },
     {
-      "n": 7,
+      "n": 14,
       "headline": "Jackson’s new Legend Series recreates the classic guitars of Randy Rhoads, Scott Ian, Marty Friedman and David Ellefson",
       "cat": "Guitar / metal",
       "source": "Guitar World",
@@ -79,7 +156,7 @@
       "summary": "Jackson is launching a Legend Series of faithful reissues honoring four players who defined the brand. The Randy Rhoads CD1 ($2,499) reproduces the white-and-gold asymmetrical Concorde V he designed with Grover Jackson in 1980 during his Ozzy years, with Seymour Duncan JB/’59 pickups and a vintage-style trem. Scott Ian’s neck-through “Not” Rhoads V ($2,199), the main guitar on Anthrax’s first five albums, gets a Floyd Rose; Marty Friedman’s late-’90s Kelly KE-1 ($2,299) is built from the original sample with Sharkfin inlays and a Kahler bridge; and David Ellefson’s Concert Bass CB V ($2,499) copies Jackson’s first five-string, built for him in 1990. “It’s the guitar that made my life,” Ian says."
     },
     {
-      "n": 8,
+      "n": 15,
       "headline": "Feds subpoena Ilhan Omar’s relatives as her immigration history faces new scrutiny after the D.C. home raid",
       "cat": "Politics",
       "source": "Fox News",
@@ -90,7 +167,7 @@
       "summary": "A day after Homeland Security Investigations agents searched Rep. Ilhan Omar’s Washington home, federal investigators have subpoenaed her sister, Sahra Noor, and other family members as they examine possible fraud and false statements in immigration paperwork, according to reports confirmed in part by Fox News. Separately, emails show Omar’s congressional staff asked the Minnesota Legislative Reference Library in May 2019 to change her listed birth year from 1981 to 1982, a discrepancy a former opponent has questioned. The Justice Department says agents executed a judicially authorized warrant in an ongoing criminal probe; Omar calls it political intimidation and denies wrongdoing."
     },
     {
-      "n": 9,
+      "n": 16,
       "headline": "Penguins fall 5–3 in Chicago as Bedard returns; Crosby scores twice but Murashov yields a soft late winner",
       "cat": "Penguins",
       "source": "Pittsburgh Hockey Now",
@@ -101,7 +178,7 @@
       "summary": "Sidney Crosby scored twice and Erik Karlsson had two assists, but the Pittsburgh Penguins still lost 5–3 at the United Center as Connor Bedard made his season debut for Chicago. Teuvo Teravainen and Roman Kantserov each scored twice for the Blackhawks; Teravainen’s sharp-angle wrister at 15:42 of the third slipped through Sergei Murashov for the go-ahead goal after Crosby had tied it 3–3. Pittsburgh’s early breakdowns — a giveaway goal 28 seconds in and a power-play collapse — kept them chasing, and Tyler Bertuzzi’s empty-netter sealed it. Murashov stopped 15 of 19; Spencer Knight made 24 saves."
     },
     {
-      "n": 10,
+      "n": 17,
       "headline": "Trumbull Town Hall opens registration for its Oct. 27 Halloween parade and trick-or-treat for kids 5 and under",
       "cat": "Local / Trumbull CT",
       "source": "Town of Trumbull",
@@ -112,7 +189,7 @@
       "summary": "Town Hall employees are decorating their office doors for a preschool Halloween parade with trick-or-treating at each department on Tuesday, Oct. 27. It is open to Trumbull residents ages 0–5, who must register in advance; there are two sessions, at 10 a.m. and 11:30 a.m., each limited to 20 children, and each child may sign up for only one. Kids should come in costume, and the event starts in the Town Council Chambers. Registration is online through the town’s form, and families who can’t make it are asked to email the First Selectman’s office so the next child on the waiting list can get the spot."
     },
     {
-      "n": 11,
+      "n": 18,
       "headline": "Tesla sets its long-delayed Roadster unveil livestream for Thursday night, nearly nine years after the first reveal",
       "cat": "Tesla / Elon",
       "source": "Electrek",
@@ -123,7 +200,7 @@
       "summary": "Tesla says it will stream the next-generation Roadster event Thursday, Oct. 15, at 7:55 p.m. Central (8:55 p.m. ET), two weeks after the outdoor-only show in Texas was called off over weather. The car was first shown in November 2017 with production promised for 2020; Electrek counts at least six production slips and seven unveil dates since. Teasers point to SpaceX cold-gas thrusters — Musk has claimed 0–60 mph in under a second — with the demo reportedly scaled back from “flying” to a short hover by a remote-operated, non-street-legal car, plus angular Cyber-style looks and a possible fan-car vacuum feature."
     },
     {
-      "n": 12,
+      "n": 19,
       "headline": "Trump officials now lean against livestreaming Fort Hood shooter Nidal Hasan’s firing-squad execution",
       "cat": "Courts / military",
       "source": "CBS News",
@@ -134,7 +211,7 @@
       "summary": "Trump administration officials are leaning against livestreaming the Dec. 3 firing-squad execution of former Army Maj. Nidal Hasan, who killed 13 people at Fort Hood in 2009, sources told CBS News, though the president had not made a final decision Tuesday. Defense Secretary Pete Hegseth said last week the Pentagon would make the execution public so “people need to understand that there’s serious consequences.” Since then several top Republicans have objected, Vice President JD Vance said he wouldn’t watch, and Speaker Mike Johnson acknowledged members’ concerns. Asked before leaving for an Alaska rally, Trump said, “We’re looking at it.”"
     },
     {
-      "n": 13,
+      "n": 20,
       "headline": "Fujifilm’s $119.95 Instax Square 2 adds a “Mood” switch for warm or cool instant prints",
       "cat": "Photography",
       "source": "PetaPixel",
@@ -143,83 +220,6 @@
       "image_remote": "https://petapixel.com/assets/uploads/2026/10/instax-SQUARE-2_stills-9.jpg",
       "id": "c04719d09170cb377b1ab4c83fd5d0c0b926f773",
       "summary": "Fujifilm announced the Instax Square 2, a rounder, sculpted successor to 2020’s boxy SQ1 with a new Mood Filter Switch that warms or cools the color and tone of each print, or leaves the classic Instax look. It has automatic exposure and flash, a twist-to-operate mode dial with Standard, Close-up and Landscape focus, a selfie mirror, and a 66.75mm f/12.6 lens (about 32mm full-frame equivalent), and runs about 30 film packs on four AAs. It comes in Slate Blue, Misty White and Brick Red for $119.95 and ships in late October, alongside a new lower-contrast Soft Haze film at $18.99 per 10-shot pack."
-    },
-    {
-      "n": 14,
-      "headline": "China sanctions top Paraguay and Belize officials as “pawns” of Taiwan",
-      "cat": "World",
-      "source": "Breitbart",
-      "url": "https://www.breitbart.com/asia/2026/10/13/china-sanctions-paraguay-belize-recognizing-taiwan/",
-      "image_local": "images/story-1041.jpg",
-      "image_remote": "https://media.breitbart.com/media/2026/10/Santiago-Peña-left-meets-Lin-Chia-lung-640x335.jpg",
-      "id": "7957c04f5ebd6d249ec4e79aa39c3496ad9730e0",
-      "summary": "China’s Foreign Ministry announced sanctions on Paraguayan communications minister Gustavo Villate and Belizean foreign minister Francis Fonseca, accusing them of “egregious remarks and actions” on Taiwan, making “illicit visits” to the island and spreading “disinformation” about Chinese cyberattacks. Under Beijing’s 2021 Anti-Foreign Sanctions Law, any assets they hold in China will be frozen and Chinese entities barred from dealing with them. Spokeswoman Mao Ning warned the few countries that still recognize Taipei that “betting on ‘Taiwan independence’ has no future” — Paraguay and Belize are among the last holdouts with formal ties to Taiwan."
-    },
-    {
-      "n": 15,
-      "headline": "Vatican says Pope Leo XIV has lung cancer; surgeons removed the lower lobe of his right lung",
-      "cat": "World / Vatican",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/pope-leo-diagnosed-lung-cancer-surgery/",
-      "image_local": "images/story-1031.jpg",
-      "image_remote": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/13/27c23460-6b43-45c8-9518-72afd717ddc6/thumbnail/1200x630/7838b043c105d09b5afc81a3f7b57ed1/gettyimages-2299975861.jpg",
-      "id": "2654e91400f5b2ff7fa67e73dee11f42fb01acae",
-      "summary": "The Vatican said Tuesday that Pope Leo XIV’s surgery confirmed lung adenocarcinoma and that doctors removed the lower lobe of his right lung in a roughly 90-minute video-assisted operation with no complications. The 71-year-old American pontiff was in the operating room about three hours, regained consciousness normally, and returned to his room on Gemelli Hospital’s 10th floor. The bulletin did not give a stage or say whether the cancer had spread. Audiences remain canceled through Oct. 20, and a typical three-week no-fly window would press against his planned early-November South America trip."
-    },
-    {
-      "n": 16,
-      "headline": "Kimberly Guilfoyle resigns as U.S. ambassador to Greece after the White House asks her to step down",
-      "cat": "Politics",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/politics/kimberly-guilfoyle-confirms-exit-ambassador-greece-trump-asks-her-resign-amid-flurry-scandals",
-      "image_local": "images/story-1032.jpg",
-      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/donald-trump-kimberly-guilfoyle.jpg",
-      "id": "49e310eb2a55f56a6b8c9ab05031a021a42989f0",
-      "summary": "Kimberly Guilfoyle confirmed Tuesday she is leaving her post as U.S. ambassador to Greece after new White House press secretary Katie Zacharia told reporters the administration had asked her to resign. President Trump said she “was doing a good job, but we didn’t like what we were reading,” distancing himself from the former Donald Trump Jr. fiancée amid allegations she sought help paying a $100,000 credit card bill and other misconduct claims she denies. “These allegations are false, and I intend to vigorously defend my name,” Guilfoyle wrote, while pledging continued loyalty to Trump and the America First movement."
-    },
-    {
-      "n": 17,
-      "headline": "OpenAI says it used its own AI models to trace a hidden office bug to an employee now facing federal charges",
-      "cat": "AI / tech",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2286084/openai-says-it-found-a-sophisticated-recording-device-hidden-in-its-offices/",
-      "image_local": "",
-      "image_remote": "",
-      "id": "4163bf1078b74cc17cb99d876f21b159cc6ce443",
-      "summary": "Federal prosecutors charged Saudi national Abdulrahman Alfozan, a 35-year-old OpenAI engineer, with allegedly planting a sophisticated recording device in an executive conference room at the company’s San Francisco headquarters. OpenAI said it discovered the device — reportedly plugged into a TV USB port and covered in toilet paper around Sept. 28 — then used its models to understand it and identify who planted it; the company fired him and referred the case to the FBI. Prosecutors say the room hosted confidential roadmap talks; OpenAI said it has no indication he exfiltrated model weights, source code, or customer data."
-    },
-    {
-      "n": 18,
-      "headline": "Slash says Guns N’ Roses will take 2027 off from touring to work on new music: “We have so much material”",
-      "cat": "Metal",
-      "source": "Blabbermouth",
-      "url": "https://blabbermouth.net/news/slash-says-guns-n-roses-will-take-2027-off-from-touring-to-work-on-new-music-we-have-so-much-material",
-      "image_local": "images/story-1033.jpg",
-      "image_remote": "https://assets.blabbermouth.net/media/gunsnrosesofficialoct2026_638.jpg",
-      "id": "86e5c001d1a419ce1f6b090df5710dd534676f7a",
-      "summary": "Guns N’ Roses guitarist Slash told SiriusXM’s Trunk Nation that after November–December dates in India, Indonesia, Singapore, Australia and New Zealand, the band plans to take 2027 off the road and write. “Exactly. That’s the idea,” he said when host Eddie Trunk asked whether the break is meant for new material, adding they “have so much material” but “it doesn’t work on the road.” The reunion-era band released two new songs, “Atlas” and “Nothin’,” earlier this year."
-    },
-    {
-      "n": 19,
-      "headline": "Elevation Lab pulls its AirTag “Silencer” after admitting it could help stalkers dodge alerts",
-      "cat": "Apple / privacy",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/10/13/elevation-lab-airtag-silencer/",
-      "image_local": "images/story-1034.jpg",
-      "image_remote": "https://images.macrumors.com/t/OPWRVCL_xaBa4hjTbWp2bPKuNCI=/1956x/article-new/2026/10/elevation-lab-airtag-silencer.jpg",
-      "id": "4f93673b4051c5cc48f3ef1b45ec9760df030cac",
-      "summary": "Elevation Lab has yanked its AirTag Silencer — a pin-and-hammer tool meant to destroy the tracker’s speaker so thieves wouldn’t hear an AirTag on a stolen bike — after conceding it could also let someone with bad intent track a person without the usual sound alert. In a customer email the company said it built the gadget for bike security, then realized the stalking side effect, removed the product, and plans to use its patent to stop copycats. MacRumors notes AirTag chirps are an essential anti-stalking safeguard even if they make the trackers less useful against deliberate thieves."
-    },
-    {
-      "n": 20,
-      "headline": "Babylon Bee: God pushes up the date of the apocalypse after seeing Greta Gerwig’s Narnia trailer",
-      "cat": "Satire",
-      "source": "The Babylon Bee",
-      "url": "https://babylonbee.com/news/god-pushes-up-date-of-apocalypse-after-seeing-greta-gerwigs-narnia-trailer/",
-      "image_local": "images/story-1035.jpg",
-      "image_remote": "https://media.babylonbee.com/articles/6ace9af0f1da46ace9af0f1da5.jpg",
-      "id": "58610f7993e1e304fe48ac83ea9ab1b25f9436de",
-      "summary": "Satire: In the Babylon Bee’s telling, angelic sources say the Almighty moved the apocalypse way up after watching the trailer for Greta Gerwig’s Magician’s Nephew adaptation. A spokesangel said that after seeing what Gerwig did to C.S. Lewis’s world, the end has been accelerated; surveyed Christians who saw the trailer backed an imminent Armageddon. By publishing time, theologians were penciling in Feb. 11, 2027 — the day before the film’s release."
     }
   ]
 }

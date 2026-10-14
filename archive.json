@@ -1154,7 +1154,14 @@
     "b5e2277490ccf69aa7fc52b4ba4c39613e3162b1",
     "2f7845c1fcee33285982321862b6fe6e069ea836",
     "67bc8fd0a16822177c0dfdc2a1887cae89345644",
-    "aaea991e0508b56056bca5adbea52bda5c9f0ebb"
+    "aaea991e0508b56056bca5adbea52bda5c9f0ebb",
+    "85c41fed9c5e2a24ea246be2bf94c8fb8b5ecd63",
+    "38bbf2435ac789fd08a249e99aff23bf59cb1f45",
+    "4d93f04d52da4ed3199a04428d8e0350f378d3f6",
+    "291a07ec5739108e46846b6c4ac70b59a9b3c484",
+    "a13b136a25a0f02d046ae0fca9eb79bcfe525f6c",
+    "eff593644cbd77bd54ebf9c615cef1339b8dcf21",
+    "cbed3a79d29f36bf348fd47c7aa698f224ea4446"
   ],
   "stories": {
     "0c2ac7a5e342411678296315c4c59043b1f067cc": {
@@ -14062,7 +14069,77 @@
       "image_remote": "https://cdn.mos.cms.futurecdn.net/fawTPZhGBtidHqbHHpYA3F-1200-80.jpg",
       "image_local": "images/story-1048.jpg",
       "id": "aaea991e0508b56056bca5adbea52bda5c9f0ebb"
+    },
+    "85c41fed9c5e2a24ea246be2bf94c8fb8b5ecd63": {
+      "headline": "Elon Musk says Trump and the U.S. military set the Starshield speed limits Ukraine says are disrupting drone intercepts",
+      "cat": "Elon / World",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/elon-musk-spacex-imposes-stunning-restrictions-ukraine-could-have-deadly-consequences",
+      "summary": "After Ukrainian units reported overnight speed caps on Starshield terminals that cut connectivity for drones flying faster than about 100 mph, Elon Musk posted that “any limits on speed or usage are decided by the US military and ultimately POTUS,” stressing that Starshield hardware is owned and controlled by the U.S. government while commercial Starlink is separate. A source told Fox that Kyiv got no advance warning despite a government contract running through May 2027, and forces found out only after calling SpaceX support when missions failed. Musk did not say whether Trump, War Secretary Pete Hegseth or another official personally authorized the change. Zelenskyy has warned that the throttling could cost lives amid Russian strikes.",
+      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2025/03/starlink-elon-musk.jpg",
+      "image_local": "images/story-1049.jpg",
+      "id": "85c41fed9c5e2a24ea246be2bf94c8fb8b5ecd63"
+    },
+    "38bbf2435ac789fd08a249e99aff23bf59cb1f45": {
+      "headline": "Grassley: Jack Smith’s Arctic Frost probe scooped up data on 639,000 Republican voters, donors and MAGA-hat buyers",
+      "cat": "Politics",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/massive-trove-republican-voter-donor-info-breached-biden-doj-probe-senate-chairman",
+      "summary": "Senate Judiciary Chairman Chuck Grassley’s latest whistleblower memo says former special counsel Jack Smith’s Biden-era Arctic Frost investigation obtained spreadsheets with names, dates of birth, addresses, emails and voter registrations for at least 639,000 Republican voters and supporters — including more than 148,000 small-dollar donors and shipping data on people who bought red MAGA hats and Trump memorabilia. Grassley says the haul goes far beyond what the Jan. 6 mandate required and “aimed to map out the entire Republican Party apparatus,” with some records reaching back years. Smith testified before the committee last month; Democrats have not joined Grassley’s call for more oversight.",
+      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/jack-smith-senate-judiciary-hearing.jpg",
+      "image_local": "images/story-1050.jpg",
+      "id": "38bbf2435ac789fd08a249e99aff23bf59cb1f45"
+    },
+    "4d93f04d52da4ed3199a04428d8e0350f378d3f6": {
+      "headline": "Trumbull’s weekend centers on Saturday’s Fall Farm Festival at the Agriscience & Biotechnology Center",
+      "cat": "Local / Trumbull CT",
+      "source": "Patch",
+      "url": "https://patch.com/connecticut/trumbull/trumbull-weekend-guide-fall-farm-festival-agriscience-center",
+      "summary": "Patch’s Trumbull weekend guide highlights the Fall Farm Festival on Saturday, Oct. 17, at 10 a.m. at the Trumbull Agriscience & Biotechnology Center, 536 Daniels Farm Road. The free community event lists food trucks, face painting, games, a raffle table, craft vendors and a chance to visit the farm animals. The guide covers the Thursday–Sunday window of Oct. 15–18; the Halloween Town Hall parade for ages 0–5 remains a separate Oct. 27 registration item.",
+      "image_remote": "https://patch.com/img/cdn20/users/22878689/20261014/123900/styles/patch_image/public/img-8457___14123848930.jpg",
+      "image_local": "images/story-1051.jpg",
+      "id": "4d93f04d52da4ed3199a04428d8e0350f378d3f6"
+    },
+    "291a07ec5739108e46846b6c4ac70b59a9b3c484": {
+      "headline": "Jets WR Adonai Mitchell had a hand procedure and remains week-to-week ahead of Sunday at New England",
+      "cat": "Jets",
+      "source": "New York Jets",
+      "url": "https://www.newyorkjets.com/news/adonai-mitchell-week-to-week-after-hand-procedure-jets-injury-updates-10-14-2026",
+      "summary": "Head coach Aaron Glenn said Wednesday that third-year wideout Adonai Mitchell underwent a small procedure on the finger injury he suffered in practice before Week 3 and is still week-to-week. “He’s moving his fingers around really, really well,” Glenn said, after Mitchell waited roughly a week and a half to see how it progressed. Mitchell had 9 catches for 123 yards in Weeks 1–2 and could miss a fourth straight game Sunday at the Patriots. RB Breece Hall (quad) and LG Dylan Parham (knee) also did not practice and are week-to-week; Garrett Wilson, Isaiah Williams and Tim Patrick have been carrying the receiver room.",
+      "image_remote": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/jets/aeqkolov8vzduywo50xk",
+      "image_local": "images/story-1052.jpg",
+      "id": "291a07ec5739108e46846b6c4ac70b59a9b3c484"
+    },
+    "a13b136a25a0f02d046ae0fca9eb79bcfe525f6c": {
+      "headline": "OpenAI turns the tables on Apple, saying an ex-employee took 100+ confidential device files back to Cupertino",
+      "cat": "AI / tech",
+      "source": "Gizmodo",
+      "url": "https://gizmodo.com/openai-turns-the-tables-on-apple-in-legal-fight-over-trade-secrets-2000826007",
+      "summary": "In a new federal filing tied to Apple’s July trade-secrets suit against OpenAI, the AI company alleges a former employee who had worked at Apple, spent six months at OpenAI, then returned to Apple transferred more than 100 confidential files about an unreleased OpenAI device — including detailed images, engineering and manufacturing data, and supplier info — to personal accounts on his last day, June 2. OpenAI also says he presented product plans to Apple’s senior leadership, including the VP of operations in Asia, and worries that information is now “circulating inside Apple” as Cupertino pushes AI-enabled hardware. Apple told Reuters it has procedures against using prior employers’ secrets and found no evidence supporting the claim.",
+      "image_remote": "https://gizmodo.com/app/uploads/2026/10/openAI-apple-lawsuit-1200x675.jpg",
+      "image_local": "images/story-1053.jpg",
+      "id": "a13b136a25a0f02d046ae0fca9eb79bcfe525f6c"
+    },
+    "eff593644cbd77bd54ebf9c615cef1339b8dcf21": {
+      "headline": "Wyoming grad student from China arrested at LAX after allegedly poisoning a classmate’s tea, then trying to flee",
+      "cat": "Crime / courts",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/wyoming-grad-student-poisoned-colleague-arrested-fleeing-us/",
+      "summary": "University of Wyoming microbiology graduate student Aili Wang, 32, was arrested Oct. 6 at Los Angeles International Airport as she allegedly tried to return to China with laptops, storage devices and documents, prosecutors say. Police allege she poisoned the tea of a Vietnamese classmate, “K.T.,” who had federally funded, patent-pending work on disease-treatment tech similar to research she had done in China, using acrylamide bought on eBay after the victim’s wife found the chemical in a coffee maker. Campus cameras allegedly caught her rummaging through his desk. She was held without bail in Los Angeles; her professor called it one of the worst shocks of his career and said the victim’s recovery is uncertain.",
+      "image_remote": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/14/b759e897-7236-4adf-834d-5fcf4332f9d2/thumbnail/1200x630g2/6deb0f0c896f2fd5a24a098be6d0dfef/ap26286849574804.jpg",
+      "image_local": "images/story-1054.jpg",
+      "id": "eff593644cbd77bd54ebf9c615cef1339b8dcf21"
+    },
+    "cbed3a79d29f36bf348fd47c7aa698f224ea4446": {
+      "headline": "World’s oldest shipwreck found off Turkey’s Kekova Island, dated to roughly 4,400–4,700 years old",
+      "cat": "World",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c6gr80rk1yyko",
+      "summary": "Archaeologists led by Prof. Hakan Öniz of Akdeniz University say a roughly 33-foot Early Bronze Age trade ship found near Kekova Island off Turkey’s coast dates to about 4,400–4,700 years ago — around the time the Pyramids of Giza were built. The wooden hull is gone, but about 30 clay amphorae (some still with traces of cargo) and three stone anchors survived on the seabed. Öniz called it “a time capsule at the bottom of the sea.” The team first spotted the jars years ago, then matched their two-handled, flat-base form to Egyptian finds from the pyramid era and returned to confirm the Bronze Age date.",
+      "image_remote": "https://ichef.bbci.co.uk/news/1024/branded_news/19d5/live/72e7aa00-c71d-11f1-a82f-35874a3aae81.jpg",
+      "image_local": "images/story-1055.jpg",
+      "id": "cbed3a79d29f36bf348fd47c7aa698f224ea4446"
     }
   },
-  "updated": "Wednesday, October 14, 2026 · 11:43 AM ET"
+  "updated": "Wednesday, October 14, 2026 · 4:08 PM ET"
 }
