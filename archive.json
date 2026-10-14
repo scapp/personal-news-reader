@@ -1161,7 +1161,14 @@
     "291a07ec5739108e46846b6c4ac70b59a9b3c484",
     "a13b136a25a0f02d046ae0fca9eb79bcfe525f6c",
     "eff593644cbd77bd54ebf9c615cef1339b8dcf21",
-    "cbed3a79d29f36bf348fd47c7aa698f224ea4446"
+    "cbed3a79d29f36bf348fd47c7aa698f224ea4446",
+    "56636c34c090814a50a322226b66db7676603a96",
+    "3b0fb56fc6b2db316c95dde9ebac61bd9c256d5f",
+    "2018963b4ceed9087692a03985ca2809d524016b",
+    "f0d7df534cded386c86964adece9ed3e4a096d38",
+    "353a9aa3f3e57b3afec6b049197f391e86925abc",
+    "1b7fc3429de05bd31410ad4aaebd52898b075f35",
+    "56c27255a912e40f0d3082a8214d51a07e783c9e"
   ],
   "stories": {
     "0c2ac7a5e342411678296315c4c59043b1f067cc": {
@@ -14139,7 +14146,77 @@
       "image_remote": "https://ichef.bbci.co.uk/news/1024/branded_news/19d5/live/72e7aa00-c71d-11f1-a82f-35874a3aae81.jpg",
       "image_local": "images/story-1055.jpg",
       "id": "cbed3a79d29f36bf348fd47c7aa698f224ea4446"
+    },
+    "56636c34c090814a50a322226b66db7676603a96": {
+      "headline": "Regulator finds nine of the largest U.S. banks “debanked” customers over political and religious views",
+      "cat": "Politics / finance",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/debanking-top-us-banks-occ-report/",
+      "summary": "A new report from the Treasury Department’s Office of the Comptroller of the Currency, ordered under President Trump’s 2025 executive order on fair access to banking, says the nine largest national banks it supervises had policies that let political, religious or business considerations sway account decisions. The OCC reviewed about 100,000 complaints and hundreds of bank decisions from 2020 through September 2025, and also found that businesses in oil and gas, coal mining and firearms were restricted from some services. One example involved WePay, the now-defunct JPMorgan-owned payment processor, which JPMorgan said “did not meet our expectations” and was corrected. The agency noted some banks also turned away Democratic-leaning groups. “Fair access to financial services is not a mantra — it is a mandate,” Comptroller Jonathan Gould said; Citibank and Wells Fargo pointed to a Bank Policy Institute statement backing fair access.",
+      "image_remote": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/14/51028ba4-ce54-4f17-8a85-64bde41d2034/thumbnail/1200x630/3d5dca9718b4c0f6377d0e080b3ff4f6/gettyimages-56143264.jpg",
+      "image_local": "images/story-1056.jpg",
+      "id": "56636c34c090814a50a322226b66db7676603a96"
+    },
+    "3b0fb56fc6b2db316c95dde9ebac61bd9c256d5f": {
+      "headline": "Houthi missile hits Saudi Aramco’s headquarters in Dhahran as Trump weighs joining Saudi strikes",
+      "cat": "World",
+      "source": "PBS News (AP)",
+      "url": "https://www.pbs.org/newshour/world/iran-backed-houthis-strike-saudi-oil-company-aramcos-headquarters-officials-say",
+      "summary": "Iran-backed Houthi rebels struck the headquarters of Saudi state oil giant Aramco in Dhahran overnight, damaging the building’s top three floors, including the chief executive’s offices, two regional officials told the AP. No one was hurt; the Saudi energy ministry acknowledged only a “limited fire.” The Saudi-led coalition said it also intercepted drones, cruise missiles and ballistic missiles aimed at Riyadh, Dhahran and the military-industrial city of Al-Kharj, and falling debris in Riyadh injured one person. The Houthis call the barrage retaliation for the Saudi-backed offensive in Yemen launched about 10 days ago. Strikes on Riyadh’s King Khalid International Airport have killed at least 18 people in the past week, and President Trump has said he is evaluating whether the U.S. should join Saudi strikes against the Houthis.",
+      "image_remote": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-04T234448Z_1205260248_RC2NWNAPPVY6_RTRMADP_3_SAUDI-OIL-PRICES-1024x691.jpg",
+      "image_local": "images/story-1057.jpg",
+      "id": "3b0fb56fc6b2db316c95dde9ebac61bd9c256d5f"
+    },
+    "2018963b4ceed9087692a03985ca2809d524016b": {
+      "headline": "Apple closes above a $5 trillion market value for the first time on strong iPhone 18 Pro demand",
+      "cat": "Apple",
+      "source": "AppleInsider",
+      "url": "https://appleinsider.com/articles/26/10/14/iphone-18-pro-demand-takes-apple-to-a-5-trillion-market-valuation",
+      "summary": "Apple stock finished Wednesday at $342.96, just past the roughly $342.61 needed for a $5 trillion valuation, making it only the second company after Nvidia to close a trading day above that mark. Apple had briefly touched $5 trillion in July before slipping back into the $4 trillion range. AppleInsider credits steady demand for the iPhone 18 Pro, which recovered from a dip tied to production-cut reports; online orders for the iPhone 18 Pro Max now show about a three-week wait. The milestone lands two days before iPhone Duo pre-orders open, and with the base iPhone 18 and other models pushed to spring 2027, Apple is counting on its Pro and foldable lineup to carry the holiday quarter despite the ongoing chip shortage.",
+      "image_remote": "https://media.appleinsider.com/gallery/69028-145625-Stock-high-xl.jpg",
+      "image_local": "images/story-1058.jpg",
+      "id": "2018963b4ceed9087692a03985ca2809d524016b"
+    },
+    "f0d7df534cded386c86964adece9ed3e4a096d38": {
+      "headline": "On what would have been his 33rd birthday, the White House honors Charlie Kirk as a “Christian martyr” and conservative titan",
+      "cat": "Charlie Kirk",
+      "source": "Just The News",
+      "url": "https://justthenews.com/government/white-house/white-house-honors-charlie-kirk-national-day-remembrance",
+      "summary": "The White House marked the National Day of Remembrance for Charlie Kirk, which President Trump designated for Oct. 14 last year, with a post on X honoring the Turning Point USA co-founder as “a father, husband, Christian martyr, & titan of the conservative movement” and pledging to “always defend our principles of truth, faith, and the open exchange of ideas.” Kirk was assassinated on Sept. 10, 2025, while speaking at Utah Valley University. His widow, Erika Kirk, who now leads Turning Point USA as CEO, posted her own birthday tribute thanking God “for the years He entrusted you to this earth” and for “a once in a lifetime love.”",
+      "image_remote": "https://justthenews.com/sites/default/files/styles/social_media_share/public/2025-09/GettyImages-2190485837.jpg?h=199d8c1f&itok=araq1zKX",
+      "image_local": "images/story-1059.jpg",
+      "id": "f0d7df534cded386c86964adece9ed3e4a096d38"
+    },
+    "353a9aa3f3e57b3afec6b049197f391e86925abc": {
+      "headline": "Sammy Hagar extends an olive branch to Alex Van Halen: “I would love to bury the hatchet”",
+      "cat": "Music / 80s rock",
+      "source": "Blabbermouth",
+      "url": "https://blabbermouth.net/news/sammy-hagar-i-would-love-to-bury-the-hatchet-with-alex-van-halen",
+      "summary": "In a new Billboard interview, Sammy Hagar said he wants peace with Alex Van Halen, months after the drummer called him “a complete idiot” in a Brazilian magazine interview about Van Halen memoirs. “I’ll put out an olive branch right now, and say it again a million times — I would love to bury the hatchet with Alex,” Hagar said. “I would love to be friends again. If we played music, mo’ better,” adding he’s willing to “forget anything and everything” and bring the band’s Roth and Hagar eras together. Hagar tied the feud to his 1977 song “Crack in the World” and called for “unification over separation.” Alex, 73, said earlier this year he had no interest in reading Hagar’s memoir “Red.”",
+      "image_remote": "https://assets.blabbermouth.net/media/SammyHagarAlexVanHalenApril2025_638.jpg",
+      "image_local": "images/story-1060.jpg",
+      "id": "353a9aa3f3e57b3afec6b049197f391e86925abc"
+    },
+    "1b7fc3429de05bd31410ad4aaebd52898b075f35": {
+      "headline": "Cornell’s president admits he never followed up on a 2024 fraternity gang-rape report as faculty debate no confidence",
+      "cat": "Campus",
+      "source": "PBS News (AP)",
+      "url": "https://www.pbs.org/newshour/nation/cornell-president-admits-he-never-followed-up-on-gang-rape-allegation-ahead-of-no-confidence-debate",
+      "summary": "Cornell President Michael Kotlikoff acknowledged he knew in 2024 that a student reported being gang raped at the Chi Phi fraternity house but never checked back on the criminal or Title IX outcomes, and didn’t learn until recently that she had dropped out or that students had been expelled or suspended. The admission came a day before the Faculty Senate began debating a no-confidence resolution on the administration’s handling of sexual-assault reports; debate continues Oct. 28, followed by an electronic vote. Kotlikoff has banned fraternity parties for the rest of the academic year and plans to give state police a role in investigations. The case, brought by “Jane Doe” against seven Chi Phi members and the university, was reopened by the local DA before Gov. Hochul handed it to Attorney General Letitia James.",
+      "image_remote": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-06T000926Z_127532002_RC2AXNAE3523_RTRMADP_3_USA-CRIME-CORNELL-1024x683.jpg",
+      "image_local": "images/story-1061.jpg",
+      "id": "1b7fc3429de05bd31410ad4aaebd52898b075f35"
+    },
+    "56c27255a912e40f0d3082a8214d51a07e783c9e": {
+      "headline": "Working “Hatfield” Apple I signed by Steve Wozniak sells for a record $1.15 million",
+      "cat": "Gadgets / history",
+      "source": "AppleInsider",
+      "url": "https://appleinsider.com/articles/26/10/14/working-apple-i-signed-by-steve-wozniak-sold-for-an-impressive-115m",
+      "summary": "The famous “Hatfield” Apple I, No. 48 in the Apple I registry, sold at a Bonhams online auction for $1.15 million, the highest price ever paid for one of Apple’s first computers. The working machine has a motherboard signed by Steve Wozniak and comes with a letter from Steve Jobs encouraging original owner Fred Hatfield to trade it and $400 for an Apple II board. Hatfield paid $666.60 for it in 1976; Breker sold it in 2013 for about $666,150. This time the auction lasted only 28 minutes and came down to two bidders. Bonhams’ Ian Ehling called it “one of the most important milestones in computing history,” sold during Apple’s 50th-anniversary year.",
+      "image_remote": "https://media.appleinsider.com/gallery/69394-146321-68807-144971-000-lead-Hatfield-xl-xl.jpg",
+      "image_local": "images/story-1062.jpg",
+      "id": "56c27255a912e40f0d3082a8214d51a07e783c9e"
     }
   },
-  "updated": "Wednesday, October 14, 2026 · 4:08 PM ET"
+  "updated": "Wednesday, October 14, 2026 · 6:12 PM ET"
 }
