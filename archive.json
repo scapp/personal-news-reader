@@ -1140,7 +1140,14 @@
     "4163bf1078b74cc17cb99d876f21b159cc6ce443",
     "86e5c001d1a419ce1f6b090df5710dd534676f7a",
     "4f93673b4051c5cc48f3ef1b45ec9760df030cac",
-    "58610f7993e1e304fe48ac83ea9ab1b25f9436de"
+    "58610f7993e1e304fe48ac83ea9ab1b25f9436de",
+    "126e768559370cd03c85b6322441235f7cec253c",
+    "631da9e977525de5502762ad4701849adb22d365",
+    "c095865f4b37d23950f9b45cd0d721db65617c64",
+    "7f88c53c904eb82b381d2aff376658ca36b20d66",
+    "913f14ba5878ca3444545a3f0827b143bec01aea",
+    "c04719d09170cb377b1ab4c83fd5d0c0b926f773",
+    "7957c04f5ebd6d249ec4e79aa39c3496ad9730e0"
   ],
   "stories": {
     "0c2ac7a5e342411678296315c4c59043b1f067cc": {
@@ -13908,7 +13915,77 @@
       "image_remote": "https://media.babylonbee.com/articles/6ace9af0f1da46ace9af0f1da5.jpg",
       "image_local": "images/story-1035.jpg",
       "id": "58610f7993e1e304fe48ac83ea9ab1b25f9436de"
+    },
+    "126e768559370cd03c85b6322441235f7cec253c": {
+      "headline": "Feds subpoena Ilhan Omar’s relatives as her immigration history faces new scrutiny after the D.C. home raid",
+      "cat": "Politics",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/rep-ilhan-omars-immigration-history-faces-new-scrutiny-federal-investigators-subpoena-relatives",
+      "summary": "A day after Homeland Security Investigations agents searched Rep. Ilhan Omar’s Washington home, federal investigators have subpoenaed her sister, Sahra Noor, and other family members as they examine possible fraud and false statements in immigration paperwork, according to reports confirmed in part by Fox News. Separately, emails show Omar’s congressional staff asked the Minnesota Legislative Reference Library in May 2019 to change her listed birth year from 1981 to 1982, a discrepancy a former opponent has questioned. The Justice Department says agents executed a judicially authorized warrant in an ongoing criminal probe; Omar calls it political intimidation and denies wrongdoing.",
+      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/ilhan-omar-reporter.jpg",
+      "image_local": "images/story-1036.jpg",
+      "id": "126e768559370cd03c85b6322441235f7cec253c"
+    },
+    "631da9e977525de5502762ad4701849adb22d365": {
+      "headline": "Penguins fall 5–3 in Chicago as Bedard returns; Crosby scores twice but Murashov yields a soft late winner",
+      "cat": "Penguins",
+      "source": "Pittsburgh Hockey Now",
+      "url": "https://pittsburghhockeynow.com/pittsburgh-penguins-recap-struggling-murashov-softy-lose-to-blackhawks/",
+      "summary": "Sidney Crosby scored twice and Erik Karlsson had two assists, but the Pittsburgh Penguins still lost 5–3 at the United Center as Connor Bedard made his season debut for Chicago. Teuvo Teravainen and Roman Kantserov each scored twice for the Blackhawks; Teravainen’s sharp-angle wrister at 15:42 of the third slipped through Sergei Murashov for the go-ahead goal after Crosby had tied it 3–3. Pittsburgh’s early breakdowns — a giveaway goal 28 seconds in and a power-play collapse — kept them chasing, and Tyler Bertuzzi’s empty-netter sealed it. Murashov stopped 15 of 19; Spencer Knight made 24 saves.",
+      "image_remote": "https://media.pittsburghhockeynow.com/wp-content/uploads/2026/10/13223547/Pittsburgh-Penguins-Game-Lose-5-3-Chicago-Blackhawks.jpg",
+      "image_local": "images/story-1037.jpg",
+      "id": "631da9e977525de5502762ad4701849adb22d365"
+    },
+    "c095865f4b37d23950f9b45cd0d721db65617c64": {
+      "headline": "Trumbull Town Hall opens registration for its Oct. 27 Halloween parade and trick-or-treat for kids 5 and under",
+      "cat": "Local / Trumbull CT",
+      "source": "Town of Trumbull",
+      "url": "https://www.trumbull-ct.gov/CivicAlerts.aspx?AID=3199",
+      "summary": "Town Hall employees are decorating their office doors for a preschool Halloween parade with trick-or-treating at each department on Tuesday, Oct. 27. It is open to Trumbull residents ages 0–5, who must register in advance; there are two sessions, at 10 a.m. and 11:30 a.m., each limited to 20 children, and each child may sign up for only one. Kids should come in costume, and the event starts in the Town Council Chambers. Registration is online through the town’s form, and families who can’t make it are asked to email the First Selectman’s office so the next child on the waiting list can get the spot.",
+      "image_remote": "",
+      "image_local": "",
+      "id": "c095865f4b37d23950f9b45cd0d721db65617c64"
+    },
+    "7f88c53c904eb82b381d2aff376658ca36b20d66": {
+      "headline": "Tesla sets its long-delayed Roadster unveil livestream for Thursday night, nearly nine years after the first reveal",
+      "cat": "Tesla / Elon",
+      "source": "Electrek",
+      "url": "https://electrek.co/2026/10/13/tesla-roadster-event-thursday-nine-years-delays/",
+      "summary": "Tesla says it will stream the next-generation Roadster event Thursday, Oct. 15, at 7:55 p.m. Central (8:55 p.m. ET), two weeks after the outdoor-only show in Texas was called off over weather. The car was first shown in November 2017 with production promised for 2020; Electrek counts at least six production slips and seven unveil dates since. Teasers point to SpaceX cold-gas thrusters — Musk has claimed 0–60 mph in under a second — with the demo reportedly scaled back from “flying” to a short hover by a remote-operated, non-street-legal car, plus angular Cyber-style looks and a possible fan-car vacuum feature.",
+      "image_remote": "https://electrek.co/wp-content/uploads/sites/3/2026/10/Tesla-Roadster-unveiling.jpeg?quality=82&strip=all&resize=1200,628",
+      "image_local": "images/story-1038.jpg",
+      "id": "7f88c53c904eb82b381d2aff376658ca36b20d66"
+    },
+    "913f14ba5878ca3444545a3f0827b143bec01aea": {
+      "headline": "Trump officials now lean against livestreaming Fort Hood shooter Nidal Hasan’s firing-squad execution",
+      "cat": "Courts / military",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/trump-officials-leaning-against-execution-livestream-nidal-hasan/",
+      "summary": "Trump administration officials are leaning against livestreaming the Dec. 3 firing-squad execution of former Army Maj. Nidal Hasan, who killed 13 people at Fort Hood in 2009, sources told CBS News, though the president had not made a final decision Tuesday. Defense Secretary Pete Hegseth said last week the Pentagon would make the execution public so “people need to understand that there’s serious consequences.” Since then several top Republicans have objected, Vice President JD Vance said he wouldn’t watch, and Speaker Mike Johnson acknowledged members’ concerns. Asked before leaving for an Alaska rally, Trump said, “We’re looking at it.”",
+      "image_remote": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/09/a9a207d1-0480-44c6-881b-0994936817c0/thumbnail/1200x630g2/a13fedebb1bbb0ac02e9d227783f52dd/gettyimages-98350519.jpg",
+      "image_local": "images/story-1039.jpg",
+      "id": "913f14ba5878ca3444545a3f0827b143bec01aea"
+    },
+    "c04719d09170cb377b1ab4c83fd5d0c0b926f773": {
+      "headline": "Fujifilm’s $119.95 Instax Square 2 adds a “Mood” switch for warm or cool instant prints",
+      "cat": "Photography",
+      "source": "PetaPixel",
+      "url": "https://petapixel.com/2026/10/13/fujifilms-instax-square-lineup-gets-a-well-rounded-moodier-new-camera/",
+      "summary": "Fujifilm announced the Instax Square 2, a rounder, sculpted successor to 2020’s boxy SQ1 with a new Mood Filter Switch that warms or cools the color and tone of each print, or leaves the classic Instax look. It has automatic exposure and flash, a twist-to-operate mode dial with Standard, Close-up and Landscape focus, a selfie mirror, and a 66.75mm f/12.6 lens (about 32mm full-frame equivalent), and runs about 30 film packs on four AAs. It comes in Slate Blue, Misty White and Brick Red for $119.95 and ships in late October, alongside a new lower-contrast Soft Haze film at $18.99 per 10-shot pack.",
+      "image_remote": "https://petapixel.com/assets/uploads/2026/10/instax-SQUARE-2_stills-9.jpg",
+      "image_local": "images/story-1040.jpg",
+      "id": "c04719d09170cb377b1ab4c83fd5d0c0b926f773"
+    },
+    "7957c04f5ebd6d249ec4e79aa39c3496ad9730e0": {
+      "headline": "China sanctions top Paraguay and Belize officials as “pawns” of Taiwan",
+      "cat": "World",
+      "source": "Breitbart",
+      "url": "https://www.breitbart.com/asia/2026/10/13/china-sanctions-paraguay-belize-recognizing-taiwan/",
+      "summary": "China’s Foreign Ministry announced sanctions on Paraguayan communications minister Gustavo Villate and Belizean foreign minister Francis Fonseca, accusing them of “egregious remarks and actions” on Taiwan, making “illicit visits” to the island and spreading “disinformation” about Chinese cyberattacks. Under Beijing’s 2021 Anti-Foreign Sanctions Law, any assets they hold in China will be frozen and Chinese entities barred from dealing with them. Spokeswoman Mao Ning warned the few countries that still recognize Taipei that “betting on ‘Taiwan independence’ has no future” — Paraguay and Belize are among the last holdouts with formal ties to Taiwan.",
+      "image_remote": "https://media.breitbart.com/media/2026/10/Santiago-Peña-left-meets-Lin-Chia-lung-640x335.jpg",
+      "image_local": "images/story-1041.jpg",
+      "id": "7957c04f5ebd6d249ec4e79aa39c3496ad9730e0"
     }
   },
-  "updated": "Tuesday, October 13, 2026 · 6:07 PM ET"
+  "updated": "Wednesday, October 14, 2026 · 7:15 AM ET"
 }
