@@ -443,7 +443,7 @@
     showUndo(id, { kind: 'remove', id });
   }
 
-  // Swipe-left / deck Save: add to Saved (never toggles off) AND mark read.
+  // Swipe-right / deck Save: add to Saved (never toggles off) AND mark read.
   function saveAndRead(id) {
     const saved = loadList(SAVED_KEY);
     const reads = loadList(READ_KEY);
@@ -591,8 +591,8 @@
       : '';
     return `
       <article class="swipe-card ${cls}${img ? '' : ' no-photo'}" data-id="${escapeHtml(story.id)}"${cls === 'next' ? ' aria-hidden="true"' : ''}>
-        <div class="swipe-label swipe-label-remove" aria-hidden="true">Remove</div>
-        <div class="swipe-label swipe-label-save" aria-hidden="true">Save</div>
+        <div class="swipe-label swipe-label-remove" aria-hidden="true">✕ Remove</div>
+        <div class="swipe-label swipe-label-save" aria-hidden="true">Save ✓</div>
         <div class="swipe-scroll">
           ${media}
           <div class="swipe-copy">
@@ -633,9 +633,9 @@
         ${swipeCardHtml(top, saved.has(top.id), 'top')}
       </div>
       <div class="deck-bar">
-        <button type="button" class="deck-btn deck-remove" data-action="deck-remove" data-id="${escapeHtml(top.id)}" aria-label="Remove story (swipe right)">✕ Remove</button>
+        <button type="button" class="deck-btn deck-remove" data-action="deck-remove" data-id="${escapeHtml(top.id)}" aria-label="Remove story (swipe left)">✕ Remove</button>
         <span class="deck-pos" aria-live="polite">${deckDone.size + 1} of ${total}</span>
-        <button type="button" class="deck-btn deck-save" data-action="deck-save" data-id="${escapeHtml(top.id)}" aria-label="Save and mark read (swipe left)">Save ✓</button>
+        <button type="button" class="deck-btn deck-save" data-action="deck-save" data-id="${escapeHtml(top.id)}" aria-label="Save and mark read (swipe right)">Save ✓</button>
       </div>`;
     bindImageErrors(deckEl);
     const card = deckEl.querySelector('.swipe-card.top');
@@ -646,8 +646,8 @@
     const w = card.offsetWidth || window.innerWidth;
     const p = Math.max(-1, Math.min(1, dx / (w * 0.3)));
     card.style.transform = `translateX(${dx}px) rotate(${(dx / w) * 12}deg)`;
-    card.style.setProperty('--remove-o', String(Math.max(0, p)));
-    card.style.setProperty('--save-o', String(Math.max(0, -p)));
+    card.style.setProperty('--remove-o', String(Math.max(0, -p)));
+    card.style.setProperty('--save-o', String(Math.max(0, p)));
     const next = deckEl.querySelector('.swipe-card.next');
     if (next) next.style.transform = `scale(${0.95 + 0.05 * Math.abs(p)}) translateY(${10 - 10 * Math.abs(p)}px)`;
   }
@@ -662,7 +662,7 @@
     if (next) { next.style.transition = 'transform 0.22s ease-out'; next.style.transform = ''; }
   }
 
-  // dir 'right' = remove, 'left' = save + mark read.
+  // dir 'left' = remove, 'right' = save + mark read (matches button layout: Remove left, Save right).
   function flyOff(card, dir) {
     if (deckBusy || !card) return;
     deckBusy = true;
@@ -670,13 +670,13 @@
     const w = card.offsetWidth || window.innerWidth;
     const sign = dir === 'right' ? 1 : -1;
     card.classList.add('dragging');
-    card.style.setProperty(dir === 'right' ? '--remove-o' : '--save-o', '1');
+    card.style.setProperty(dir === 'left' ? '--remove-o' : '--save-o', '1');
     card.style.transition = 'transform 0.26s ease-in, opacity 0.26s ease-in';
     card.style.transform = `translateX(${sign * w * 1.4}px) rotate(${sign * 18}deg)`;
     card.style.opacity = '0';
     window.setTimeout(() => {
       deckBusy = false;
-      if (dir === 'right') removeStory(id);
+      if (dir === 'left') removeStory(id);
       else saveAndRead(id);
     }, 260);
   }
@@ -791,7 +791,7 @@
     }
     if (action === 'deck-remove' || action === 'deck-save') {
       const card = deckEl && deckEl.querySelector('.swipe-card.top');
-      if (card) flyOff(card, action === 'deck-remove' ? 'right' : 'left');
+      if (card) flyOff(card, action === 'deck-remove' ? 'left' : 'right');
       return;
     }
     if (!id) return;

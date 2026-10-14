@@ -537,15 +537,15 @@ body {
   .swipe-card.top { z-index: 2; }
   .swipe-card.dragging { user-select: none; -webkit-user-select: none; }
   .swipe-card::after {
-    /* tint while dragging: red on right (remove), blue/green on left (save) */
+    /* tint while dragging: red on left (swipe-left remove), green on right (swipe-right save) */
     content: "";
     position: absolute;
     inset: 0;
     pointer-events: none;
     border-radius: inherit;
     background:
-      linear-gradient(90deg, transparent 40%, rgba(185, 28, 28, calc(var(--remove-o) * 0.28))),
-      linear-gradient(270deg, transparent 40%, rgba(22, 163, 74, calc(var(--save-o) * 0.28)));
+      linear-gradient(270deg, transparent 40%, rgba(185, 28, 28, calc(var(--remove-o) * 0.28))),
+      linear-gradient(90deg, transparent 40%, rgba(22, 163, 74, calc(var(--save-o) * 0.28)));
   }
   .swipe-label {
     position: absolute;
@@ -562,15 +562,15 @@ body {
     pointer-events: none;
   }
   .swipe-label-remove {
-    left: 1rem;
+    right: 1rem;
     color: #dc2626;
-    transform: rotate(-12deg);
+    transform: rotate(12deg);
     opacity: var(--remove-o);
   }
   .swipe-label-save {
-    right: 1rem;
+    left: 1rem;
     color: #16a34a;
-    transform: rotate(12deg);
+    transform: rotate(-12deg);
     opacity: var(--save-o);
   }
   .swipe-scroll {
