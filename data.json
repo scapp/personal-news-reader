@@ -1,8 +1,85 @@
 {
-  "updated": "Wednesday, October 14, 2026 · 10:15 PM ET",
+  "updated": "Thursday, October 15, 2026 · 7:12 AM ET",
   "stories": [
     {
       "n": 1,
+      "headline": "Ninth Circuit blocks California’s No Vigilantes Act ID rule for federal agents",
+      "cat": "Politics / immigration",
+      "source": "Breitbart",
+      "url": "https://www.breitbart.com/politics/2026/10/14/federal-appeals-court-blocks-california-rule-forcing-agents-to-show-id/",
+      "image_local": "images/story-1070.jpg",
+      "image_remote": "https://media.breitbart.com/media/2026/10/ICE-Officer-with-Face-Covering-640x335.jpeg",
+      "id": "68e6799788b4e7914821bfec0e206366de48aba0",
+      "summary": "A three-judge Ninth Circuit panel ruled Wednesday that Section 10 of California’s No Vigilantes Act, which required non-uniformed federal officers to visibly display agency and badge ID during enforcement, violates the Supremacy Clause and ordered a preliminary injunction. Judge Mark Bennett wrote that the state law “explicitly overrides the federal government’s power to determine whether, how, and when to publicly identify its officers,” and that the United States is “certain” to succeed on the merits. The panel — Obama appointee Jacqueline Nguyen and Trump appointees Bennett and Daniel Collins — had already paused the rule in April. Gov. Gavin Newsom signed the 2025 law after masked federal immigration sweeps; California can seek rehearing or Supreme Court review."
+    },
+    {
+      "n": 2,
+      "headline": "Nightwish parts ways with Floor Jansen after 14 years; band plans a 2027 album",
+      "cat": "Music / metal",
+      "source": "Blabbermouth",
+      "url": "https://blabbermouth.net/news/nightwish-parts-ways-with-singer-floor-jansen",
+      "image_local": "images/story-1071.jpg",
+      "image_remote": "https://assets.blabbermouth.net/media/nightwishmay2024new_638.jpg",
+      "id": "71fa12a7c31cd1e5481a31eec485b90a18ee7f12",
+      "summary": "Finnish symphonic metal band Nightwish and Dutch singer Floor Jansen announced a mutual split Thursday after 14 years together. The band said the decision was “necessary and important” for each side’s ambitions, wished Jansen well, and said Nightwish will enter the studio in 2027 for a new album as it marks 30 years. Jansen said endings create beginnings and that her solo album Hytress (due January 2027) and tour will now get her full attention. She joined in 2012 and sang on Endless Forms Most Beautiful, Human. :II: Nature, and Yesterwynde; the band has been on live hiatus since 2023."
+    },
+    {
+      "n": 3,
+      "headline": "Touch-screen MacBook Pro, OLED iPad mini, and M6 Macs eyed for an Oct. 28 briefing",
+      "cat": "Apple",
+      "source": "AppleInsider",
+      "url": "https://appleinsider.com/articles/26/10/15/touch-screen-macbook-pro-will-be-unveiled-on-october-28",
+      "image_local": "images/story-1072.jpg",
+      "image_remote": "https://media.appleinsider.com/gallery/68616-144631-66579-139653-M5-MacBook-Pro-display-xl-(1)-xl.jpg",
+      "id": "0e7af828a30eafd2fcff1e8a3e45cb2597b37fc8",
+      "summary": "Apple is inviting media to an all-day product launch experience in Los Angeles on Wednesday, Oct. 28, centered on the long-rumored OLED touch-screen MacBook Pro plus an updated iPad mini and M6 Macs, according to Bloomberg-sourced reporting. After HomeView’s briefing-style unveil on Oct. 12, Apple is expected to skip a big stage event again. Rumors point to an 8.4-inch hybrid OLED iPad mini without ProMotion, and “M6 Macs” plural that could include refreshed MacBook Pros and a long-overdue M6 iMac. Pre-orders would likely open in early November with mid-to-late November shipping if an iMac is in the mix."
+    },
+    {
+      "n": 4,
+      "headline": "Ukraine says a Neptune strike hit six Russian Su-34M bombers at Borisoglebsk airfield",
+      "cat": "World / Ukraine",
+      "source": "Kyiv Independent",
+      "url": "https://kyivindependent.com/ukraine-hits-6-russian-su-34-bomber-jets-with-neptune-missile-military-says/",
+      "image_local": "images/story-1073.jpg",
+      "image_remote": "https://assets.kyivindependent.com/content/images/2026/10/Airfield_20261015-093634.png",
+      "id": "6abfcb009eb96e083bfe71dca28ffba2a09fce09",
+      "summary": "Ukraine’s naval forces said an overnight Oct. 15 attack on Russia’s Borisoglebsk military airfield in Voronezh Oblast damaged six Su-34M fighter-bombers. The navy said it used the domestically built Neptune coastal cruise missile; the General Staff confirmed all six jets were damaged to varying degrees and that explosions and fire were recorded on the base, about 370 kilometers from the front. Local video showed blasts and a large fire. Neptune sank the Moskva in 2022; an upgraded version with roughly 1,000 km range completed testing in 2025, Zelensky said."
+    },
+    {
+      "n": 5,
+      "headline": "Penguins visit Colorado on Friday after Crosby’s two-goal night in a 5-3 loss to Chicago",
+      "cat": "Penguins",
+      "source": "FOX Sports",
+      "url": "https://www.foxsports.com/articles/nhl/pittsburgh-visits-colorado-after-crosbys-2goal-game",
+      "image_local": "",
+      "image_remote": "",
+      "id": "6d1b7ec7e7e4df9036a38a4eee3eb63aca6bff89",
+      "summary": "Pittsburgh (3-3-1) visits the Colorado Avalanche (4-2-1) on Friday at Ball Arena after Sidney Crosby scored his first two goals of the season in Tuesday’s 5-3 road loss to the Blackhawks. Connor Bedard returned from shoulder surgery with an assist as Teuvo Teravainen and Roman Kantserov each scored twice for Chicago. The Penguins are 1-2-1 on the road and open a back-to-back that continues Saturday in Las Vegas. Pittsburgh lists Justin Brazeau, Trevor van Riemsdyk, and Ryan Graves out; Colorado has several forwards day-to-day or out."
+    },
+    {
+      "n": 6,
+      "headline": "Elon Musk says Grok researched and ordered him five LEGO Star Wars sets",
+      "cat": "AI / LEGO",
+      "source": "Mashable",
+      "url": "https://mashable.com/tech/elon-musk-grok-shopping-lego-ai",
+      "image_local": "",
+      "image_remote": "",
+      "id": "955fe240b4fc7cca258676d4ff70cb156015c806",
+      "summary": "After telling X users to photograph a credit card and drop it in chat so Grok could shop for them — despite xAI’s warning not to put personal data in prompts — Elon Musk posted that he asked Grok to research the most fun LEGO Star Wars kits for young kids and order them. On Tuesday he said five Star Wars sets totaling $241.34 had arrived via UPS to an Austin address, sharing chat screenshots rather than photos of the boxes. Grok then turned off shipping checks once delivery finished. Mashable notes Musk can absorb the risk; ordinary users should not paste card details into an AI chat."
+    },
+    {
+      "n": 7,
+      "headline": "Royal Enfield brings the Bullet 650 Twin to America with Jay Leno at Audrain",
+      "cat": "Motorcycles",
+      "source": "RideApart",
+      "url": "https://www.rideapart.com/news/811729/royal-enfield-bullet-650-launch-usa-price-specs-features/",
+      "image_local": "images/story-1074.jpg",
+      "image_remote": "https://cdn.motor1.com/images/mgl/0eppj3/s1/npesj3in2ou.jpg",
+      "id": "322a287d1be73c73caed8403cd0b3ce7bd0c3bb7",
+      "summary": "Royal Enfield debuted the Bullet 650 Twin for the U.S. at the 2026 Audrain Concours Motor Week in Newport, R.I., with Jay Leno helping introduce the bike. The nameplate dates to 1932, but under the classic teardrop tank, hand-painted pinstriping, and wire wheels sits the brand’s 648cc air/oil-cooled parallel twin — about 47 hp and 38.6 lb-ft — with a six-speed gearbox aimed at relaxed riding rather than peak power. It’s another 650 twin for a lineup that keeps adding classic-styled models around that proven engine."
+    },
+    {
+      "n": 8,
       "headline": "DOJ threatens emergency action against California over suspected noncitizens on the voter rolls",
       "cat": "Politics / election",
       "source": "Fox News",
@@ -13,7 +90,7 @@
       "summary": "The Justice Department set a Thursday noon Eastern deadline for California Secretary of State Shirley Weber and Los Angeles County Registrar Dean Logan to review a list of potentially ineligible voters, segregate ballots whose citizenship cannot be verified, and warned it will seek emergency relief if they refuse. A DOJ spokesperson said thousands of potential foreign nationals appear on California’s rolls statewide, not only in L.A. County, and that “only American citizens may vote in federal elections.” California Attorney General Rob Bonta pushed back Wednesday, accusing the Trump administration of voter intimidation and denying widespread fraud. Acting Deputy Attorney General R. Trent McCotter’s Tuesday letters demand action within 48 hours ahead of the midterms."
     },
     {
-      "n": 2,
+      "n": 9,
       "headline": "OpenAI bugging suspect booked a one-way flight to Saudi Arabia before his arrest, prosecutors say",
       "cat": "AI / crime",
       "source": "Gizmodo",
@@ -24,7 +101,7 @@
       "summary": "Prosecutors told a San Francisco judge that Abdulrahman Alfozan, the former OpenAI engineer charged with planting a hidden recorder in an executive conference room, had booked one-way tickets for himself, his wife, and a third family member from San Francisco to Saudi Arabia via Istanbul for Oct. 12. The U.S. Attorney’s Office asked to seal the case on Oct. 8 so he would not flee; he was arrested Oct. 9. Alfozan is also a venture partner at Saudi firm Raed Ventures, which lists a Saudi prince as a fellow partner. OpenAI found the USB-powered bug behind a TV around Sept. 30 and said it found no model weights or customer data taken; a former CIA officer called Raed “basically a state organ” while noting prosecutors have not accused the firm of knowing about the bug."
     },
     {
-      "n": 3,
+      "n": 10,
       "headline": "iPhone Duo’s A20 Pro chip posts Geekbench scores in line with the iPhone 18 Pro ahead of Friday pre-orders",
       "cat": "Apple",
       "source": "MacRumors",
@@ -35,7 +112,7 @@
       "summary": "An early Geekbench 7 run for the iPhone Duo (iPhone19,4) on iOS 27.1 scored about 3,986 single-core and 11,067 multi-core, matching recent iPhone 18 Pro / Pro Max results. Both devices use Apple’s 2nm A20 Pro with a 6-core CPU (4.93 GHz) and 7-core GPU; the Duo listing shows 12 GB of RAM. Apple says the A20 Pro is up to 20% faster in CPU and 40% faster in GPU versus the A19 Pro; GPU was not tested in this run. Real-world performance could still differ because of the Duo’s dual screens and thermals. Pre-orders open Oct. 16, with launch on Oct. 23."
     },
     {
-      "n": 4,
+      "n": 11,
       "headline": "Nikki Sixx says Mötley Crüe shows are politics-free zones: “We’re all in this together”",
       "cat": "Music / 80s rock",
       "source": "Louder",
@@ -46,7 +123,7 @@
       "summary": "A fan-shot clip of Nikki Sixx telling a Mötley Crüe crowd that the band does not care if you are a Republican or a Democrat resurfaced after Metallica’s James Hetfield made a similar “no agendas” speech at the Las Vegas Sphere. “It does not matter to Mötley Crüe if you’re a Republican. It does not matter to Mötley Crüe if you’re a Democrat,” Sixx says, adding gay, straight, or “right down the fucking centre” do not matter either because “we’re all in this together.” Crüe’s Return of the Carnival of Sins tour ended in late September, so the clip predates Hetfield’s Oct. 10 remarks. Sixx has long said artists can post opinions online but should keep the concert stage free of politics, even as bandmate Tommy Lee often criticizes Trump on social media."
     },
     {
-      "n": 5,
+      "n": 12,
       "headline": "Orlando man charged with murder in ex-fiancée Michelle Parker’s 2011 disappearance after People’s Court episode",
       "cat": "Crime / courts",
       "source": "CBS News",
@@ -57,7 +134,7 @@
       "summary": "Dale Smith Jr. was arrested Wednesday on a second-degree murder charge in the Nov. 17, 2011, disappearance of Michelle Parker, 33, the same day a People’s Court episode aired showing the couple fighting over an engagement ring. Parker’s SUV was found abandoned the next day; her body has never been recovered. Orlando Police Chief Eric Smith said investigators spent the past year reexamining conflicting statements and using advanced digital forensics, and that “all evidence leads to Dale Smith Jr. as the person responsible.” Det. Phillip McMican said Smith gave different answers to the same questions over years of interviews and that new evidence turned up in the last year. Parker and Smith have two children together."
     },
     {
-      "n": 6,
+      "n": 13,
       "headline": "Trump DOJ opens Second Amendment probe of New Jersey town over alleged firearm-permit delays",
       "cat": "2A / courts",
       "source": "Breitbart",
@@ -68,7 +145,7 @@
       "summary": "The Justice Department’s Civil Rights Division is investigating whether Pennsauken Township, N.J., “deprives citizens of their right to bear arms” through delays in issuing firearm licenses, focusing on the township police permitting system. Citing the Supreme Court’s Bruen decision, DOJ said lengthy wait times can put a permitting process to “abusive ends.” Assistant Attorney General Harmeet Dhillon said the Second Amendment Section will “defend law-abiding citizens from local authorities who infringe on the right to safely carry legal firearms” and will fix unconstitutional delays if the allegations prove true."
     },
     {
-      "n": 7,
+      "n": 14,
       "headline": "Amelia Earhart search team says it may know within days if a Nikumaroro lagoon anomaly is her plane",
       "cat": "World / history",
       "source": "CBS News",
@@ -79,7 +156,7 @@
       "summary": "A 17-member expedition led by Purdue’s Steve Schultz and the Archaeological Legacy Institute’s Richard Pettigrew began searching a lagoon off Nikumaroro in Kiribati for what may be Amelia Earhart’s Lockheed Electra 10-E. They are focused on the “Taraia Object,” a visual anomaly visible in aerial photos since 1938 and flagged in 2020 satellite imagery. The remote site took five days at sea to reach; Pettigrew said the team will dredge sediment and expects to say within days whether they have found the plane. Earhart and navigator Fred Noonan vanished July 2, 1937, while trying to fly around the equator, about 400 miles southeast of Howland Island."
     },
     {
-      "n": 8,
+      "n": 15,
       "headline": "Regulator finds nine of the largest U.S. banks “debanked” customers over political and religious views",
       "cat": "Politics / finance",
       "source": "CBS News",
@@ -90,7 +167,7 @@
       "summary": "A new report from the Treasury Department’s Office of the Comptroller of the Currency, ordered under President Trump’s 2025 executive order on fair access to banking, says the nine largest national banks it supervises had policies that let political, religious or business considerations sway account decisions. The OCC reviewed about 100,000 complaints and hundreds of bank decisions from 2020 through September 2025, and also found that businesses in oil and gas, coal mining and firearms were restricted from some services. One example involved WePay, the now-defunct JPMorgan-owned payment processor, which JPMorgan said “did not meet our expectations” and was corrected. The agency noted some banks also turned away Democratic-leaning groups. “Fair access to financial services is not a mantra — it is a mandate,” Comptroller Jonathan Gould said; Citibank and Wells Fargo pointed to a Bank Policy Institute statement backing fair access."
     },
     {
-      "n": 9,
+      "n": 16,
       "headline": "Houthi missile hits Saudi Aramco’s headquarters in Dhahran as Trump weighs joining Saudi strikes",
       "cat": "World",
       "source": "PBS News (AP)",
@@ -101,7 +178,7 @@
       "summary": "Iran-backed Houthi rebels struck the headquarters of Saudi state oil giant Aramco in Dhahran overnight, damaging the building’s top three floors, including the chief executive’s offices, two regional officials told the AP. No one was hurt; the Saudi energy ministry acknowledged only a “limited fire.” The Saudi-led coalition said it also intercepted drones, cruise missiles and ballistic missiles aimed at Riyadh, Dhahran and the military-industrial city of Al-Kharj, and falling debris in Riyadh injured one person. The Houthis call the barrage retaliation for the Saudi-backed offensive in Yemen launched about 10 days ago. Strikes on Riyadh’s King Khalid International Airport have killed at least 18 people in the past week, and President Trump has said he is evaluating whether the U.S. should join Saudi strikes against the Houthis."
     },
     {
-      "n": 10,
+      "n": 17,
       "headline": "Apple closes above a $5 trillion market value for the first time on strong iPhone 18 Pro demand",
       "cat": "Apple",
       "source": "AppleInsider",
@@ -112,7 +189,7 @@
       "summary": "Apple stock finished Wednesday at $342.96, just past the roughly $342.61 needed for a $5 trillion valuation, making it only the second company after Nvidia to close a trading day above that mark. Apple had briefly touched $5 trillion in July before slipping back into the $4 trillion range. AppleInsider credits steady demand for the iPhone 18 Pro, which recovered from a dip tied to production-cut reports; online orders for the iPhone 18 Pro Max now show about a three-week wait. The milestone lands two days before iPhone Duo pre-orders open, and with the base iPhone 18 and other models pushed to spring 2027, Apple is counting on its Pro and foldable lineup to carry the holiday quarter despite the ongoing chip shortage."
     },
     {
-      "n": 11,
+      "n": 18,
       "headline": "On what would have been his 33rd birthday, the White House honors Charlie Kirk as a “Christian martyr” and conservative titan",
       "cat": "Charlie Kirk",
       "source": "Just The News",
@@ -123,7 +200,7 @@
       "summary": "The White House marked the National Day of Remembrance for Charlie Kirk, which President Trump designated for Oct. 14 last year, with a post on X honoring the Turning Point USA co-founder as “a father, husband, Christian martyr, & titan of the conservative movement” and pledging to “always defend our principles of truth, faith, and the open exchange of ideas.” Kirk was assassinated on Sept. 10, 2025, while speaking at Utah Valley University. His widow, Erika Kirk, who now leads Turning Point USA as CEO, posted her own birthday tribute thanking God “for the years He entrusted you to this earth” and for “a once in a lifetime love.”"
     },
     {
-      "n": 12,
+      "n": 19,
       "headline": "Sammy Hagar extends an olive branch to Alex Van Halen: “I would love to bury the hatchet”",
       "cat": "Music / 80s rock",
       "source": "Blabbermouth",
@@ -134,7 +211,7 @@
       "summary": "In a new Billboard interview, Sammy Hagar said he wants peace with Alex Van Halen, months after the drummer called him “a complete idiot” in a Brazilian magazine interview about Van Halen memoirs. “I’ll put out an olive branch right now, and say it again a million times — I would love to bury the hatchet with Alex,” Hagar said. “I would love to be friends again. If we played music, mo’ better,” adding he’s willing to “forget anything and everything” and bring the band’s Roth and Hagar eras together. Hagar tied the feud to his 1977 song “Crack in the World” and called for “unification over separation.” Alex, 73, said earlier this year he had no interest in reading Hagar’s memoir “Red.”"
     },
     {
-      "n": 13,
+      "n": 20,
       "headline": "Cornell’s president admits he never followed up on a 2024 fraternity gang-rape report as faculty debate no confidence",
       "cat": "Campus",
       "source": "PBS News (AP)",
@@ -143,83 +220,6 @@
       "image_remote": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-06T000926Z_127532002_RC2AXNAE3523_RTRMADP_3_USA-CRIME-CORNELL-1024x683.jpg",
       "id": "1b7fc3429de05bd31410ad4aaebd52898b075f35",
       "summary": "Cornell President Michael Kotlikoff acknowledged he knew in 2024 that a student reported being gang raped at the Chi Phi fraternity house but never checked back on the criminal or Title IX outcomes, and didn’t learn until recently that she had dropped out or that students had been expelled or suspended. The admission came a day before the Faculty Senate began debating a no-confidence resolution on the administration’s handling of sexual-assault reports; debate continues Oct. 28, followed by an electronic vote. Kotlikoff has banned fraternity parties for the rest of the academic year and plans to give state police a role in investigations. The case, brought by “Jane Doe” against seven Chi Phi members and the university, was reopened by the local DA before Gov. Hochul handed it to Attorney General Letitia James."
-    },
-    {
-      "n": 14,
-      "headline": "Working “Hatfield” Apple I signed by Steve Wozniak sells for a record $1.15 million",
-      "cat": "Gadgets / history",
-      "source": "AppleInsider",
-      "url": "https://appleinsider.com/articles/26/10/14/working-apple-i-signed-by-steve-wozniak-sold-for-an-impressive-115m",
-      "image_local": "images/story-1062.jpg",
-      "image_remote": "https://media.appleinsider.com/gallery/69394-146321-68807-144971-000-lead-Hatfield-xl-xl.jpg",
-      "id": "56c27255a912e40f0d3082a8214d51a07e783c9e",
-      "summary": "The famous “Hatfield” Apple I, No. 48 in the Apple I registry, sold at a Bonhams online auction for $1.15 million, the highest price ever paid for one of Apple’s first computers. The working machine has a motherboard signed by Steve Wozniak and comes with a letter from Steve Jobs encouraging original owner Fred Hatfield to trade it and $400 for an Apple II board. Hatfield paid $666.60 for it in 1976; Breker sold it in 2013 for about $666,150. This time the auction lasted only 28 minutes and came down to two bidders. Bonhams’ Ian Ehling called it “one of the most important milestones in computing history,” sold during Apple’s 50th-anniversary year."
-    },
-    {
-      "n": 15,
-      "headline": "Elon Musk says Trump and the U.S. military set the Starshield speed limits Ukraine says are disrupting drone intercepts",
-      "cat": "Elon / World",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/politics/elon-musk-spacex-imposes-stunning-restrictions-ukraine-could-have-deadly-consequences",
-      "image_local": "images/story-1049.jpg",
-      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2025/03/starlink-elon-musk.jpg",
-      "id": "85c41fed9c5e2a24ea246be2bf94c8fb8b5ecd63",
-      "summary": "After Ukrainian units reported overnight speed caps on Starshield terminals that cut connectivity for drones flying faster than about 100 mph, Elon Musk posted that “any limits on speed or usage are decided by the US military and ultimately POTUS,” stressing that Starshield hardware is owned and controlled by the U.S. government while commercial Starlink is separate. A source told Fox that Kyiv got no advance warning despite a government contract running through May 2027, and forces found out only after calling SpaceX support when missions failed. Musk did not say whether Trump, War Secretary Pete Hegseth or another official personally authorized the change. Zelenskyy has warned that the throttling could cost lives amid Russian strikes."
-    },
-    {
-      "n": 16,
-      "headline": "Grassley: Jack Smith’s Arctic Frost probe scooped up data on 639,000 Republican voters, donors and MAGA-hat buyers",
-      "cat": "Politics",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/politics/massive-trove-republican-voter-donor-info-breached-biden-doj-probe-senate-chairman",
-      "image_local": "images/story-1050.jpg",
-      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/jack-smith-senate-judiciary-hearing.jpg",
-      "id": "38bbf2435ac789fd08a249e99aff23bf59cb1f45",
-      "summary": "Senate Judiciary Chairman Chuck Grassley’s latest whistleblower memo says former special counsel Jack Smith’s Biden-era Arctic Frost investigation obtained spreadsheets with names, dates of birth, addresses, emails and voter registrations for at least 639,000 Republican voters and supporters — including more than 148,000 small-dollar donors and shipping data on people who bought red MAGA hats and Trump memorabilia. Grassley says the haul goes far beyond what the Jan. 6 mandate required and “aimed to map out the entire Republican Party apparatus,” with some records reaching back years. Smith testified before the committee last month; Democrats have not joined Grassley’s call for more oversight."
-    },
-    {
-      "n": 17,
-      "headline": "Trumbull’s weekend centers on Saturday’s Fall Farm Festival at the Agriscience & Biotechnology Center",
-      "cat": "Local / Trumbull CT",
-      "source": "Patch",
-      "url": "https://patch.com/connecticut/trumbull/trumbull-weekend-guide-fall-farm-festival-agriscience-center",
-      "image_local": "images/story-1051.jpg",
-      "image_remote": "https://patch.com/img/cdn20/users/22878689/20261014/123900/styles/patch_image/public/img-8457___14123848930.jpg",
-      "id": "4d93f04d52da4ed3199a04428d8e0350f378d3f6",
-      "summary": "Patch’s Trumbull weekend guide highlights the Fall Farm Festival on Saturday, Oct. 17, at 10 a.m. at the Trumbull Agriscience & Biotechnology Center, 536 Daniels Farm Road. The free community event lists food trucks, face painting, games, a raffle table, craft vendors and a chance to visit the farm animals. The guide covers the Thursday–Sunday window of Oct. 15–18; the Halloween Town Hall parade for ages 0–5 remains a separate Oct. 27 registration item."
-    },
-    {
-      "n": 18,
-      "headline": "Jets WR Adonai Mitchell had a hand procedure and remains week-to-week ahead of Sunday at New England",
-      "cat": "Jets",
-      "source": "New York Jets",
-      "url": "https://www.newyorkjets.com/news/adonai-mitchell-week-to-week-after-hand-procedure-jets-injury-updates-10-14-2026",
-      "image_local": "images/story-1052.jpg",
-      "image_remote": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/jets/aeqkolov8vzduywo50xk",
-      "id": "291a07ec5739108e46846b6c4ac70b59a9b3c484",
-      "summary": "Head coach Aaron Glenn said Wednesday that third-year wideout Adonai Mitchell underwent a small procedure on the finger injury he suffered in practice before Week 3 and is still week-to-week. “He’s moving his fingers around really, really well,” Glenn said, after Mitchell waited roughly a week and a half to see how it progressed. Mitchell had 9 catches for 123 yards in Weeks 1–2 and could miss a fourth straight game Sunday at the Patriots. RB Breece Hall (quad) and LG Dylan Parham (knee) also did not practice and are week-to-week; Garrett Wilson, Isaiah Williams and Tim Patrick have been carrying the receiver room."
-    },
-    {
-      "n": 19,
-      "headline": "OpenAI turns the tables on Apple, saying an ex-employee took 100+ confidential device files back to Cupertino",
-      "cat": "AI / tech",
-      "source": "Gizmodo",
-      "url": "https://gizmodo.com/openai-turns-the-tables-on-apple-in-legal-fight-over-trade-secrets-2000826007",
-      "image_local": "images/story-1053.jpg",
-      "image_remote": "https://gizmodo.com/app/uploads/2026/10/openAI-apple-lawsuit-1200x675.jpg",
-      "id": "a13b136a25a0f02d046ae0fca9eb79bcfe525f6c",
-      "summary": "In a new federal filing tied to Apple’s July trade-secrets suit against OpenAI, the AI company alleges a former employee who had worked at Apple, spent six months at OpenAI, then returned to Apple transferred more than 100 confidential files about an unreleased OpenAI device — including detailed images, engineering and manufacturing data, and supplier info — to personal accounts on his last day, June 2. OpenAI also says he presented product plans to Apple’s senior leadership, including the VP of operations in Asia, and worries that information is now “circulating inside Apple” as Cupertino pushes AI-enabled hardware. Apple told Reuters it has procedures against using prior employers’ secrets and found no evidence supporting the claim."
-    },
-    {
-      "n": 20,
-      "headline": "Wyoming grad student from China arrested at LAX after allegedly poisoning a classmate’s tea, then trying to flee",
-      "cat": "Crime / courts",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/wyoming-grad-student-poisoned-colleague-arrested-fleeing-us/",
-      "image_local": "images/story-1054.jpg",
-      "image_remote": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/14/b759e897-7236-4adf-834d-5fcf4332f9d2/thumbnail/1200x630g2/6deb0f0c896f2fd5a24a098be6d0dfef/ap26286849574804.jpg",
-      "id": "eff593644cbd77bd54ebf9c615cef1339b8dcf21",
-      "summary": "University of Wyoming microbiology graduate student Aili Wang, 32, was arrested Oct. 6 at Los Angeles International Airport as she allegedly tried to return to China with laptops, storage devices and documents, prosecutors say. Police allege she poisoned the tea of a Vietnamese classmate, “K.T.,” who had federally funded, patent-pending work on disease-treatment tech similar to research she had done in China, using acrylamide bought on eBay after the victim’s wife found the chemical in a coffee maker. Campus cameras allegedly caught her rummaging through his desk. She was held without bail in Los Angeles; her professor called it one of the worst shocks of his career and said the victim’s recovery is uncertain."
     }
   ]
 }

@@ -1175,7 +1175,14 @@
     "0c087ac98f424ed12aac7dfe2049c7811b52a246",
     "275d900ff24134d50e52497ce37208c9d4870401",
     "fefe5271c2d34db817b36614e0f487014f241387",
-    "8ad901692afb11e9c8aeab07cd7fbf5634ef078f"
+    "8ad901692afb11e9c8aeab07cd7fbf5634ef078f",
+    "68e6799788b4e7914821bfec0e206366de48aba0",
+    "71fa12a7c31cd1e5481a31eec485b90a18ee7f12",
+    "0e7af828a30eafd2fcff1e8a3e45cb2597b37fc8",
+    "6abfcb009eb96e083bfe71dca28ffba2a09fce09",
+    "6d1b7ec7e7e4df9036a38a4eee3eb63aca6bff89",
+    "955fe240b4fc7cca258676d4ff70cb156015c806",
+    "322a287d1be73c73caed8403cd0b3ce7bd0c3bb7"
   ],
   "stories": {
     "0c2ac7a5e342411678296315c4c59043b1f067cc": {
@@ -14293,7 +14300,77 @@
       "image_remote": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/14/fe957ce2-cf24-4dad-bf85-fd900317ad7a/thumbnail/1200x630/85b119beebbd1e7c6cf56dfbefbd6fd2/1792021006263.png",
       "image_local": "images/story-1069.jpg",
       "id": "8ad901692afb11e9c8aeab07cd7fbf5634ef078f"
+    },
+    "68e6799788b4e7914821bfec0e206366de48aba0": {
+      "headline": "Ninth Circuit blocks California’s No Vigilantes Act ID rule for federal agents",
+      "cat": "Politics / immigration",
+      "source": "Breitbart",
+      "url": "https://www.breitbart.com/politics/2026/10/14/federal-appeals-court-blocks-california-rule-forcing-agents-to-show-id/",
+      "summary": "A three-judge Ninth Circuit panel ruled Wednesday that Section 10 of California’s No Vigilantes Act, which required non-uniformed federal officers to visibly display agency and badge ID during enforcement, violates the Supremacy Clause and ordered a preliminary injunction. Judge Mark Bennett wrote that the state law “explicitly overrides the federal government’s power to determine whether, how, and when to publicly identify its officers,” and that the United States is “certain” to succeed on the merits. The panel — Obama appointee Jacqueline Nguyen and Trump appointees Bennett and Daniel Collins — had already paused the rule in April. Gov. Gavin Newsom signed the 2025 law after masked federal immigration sweeps; California can seek rehearing or Supreme Court review.",
+      "image_remote": "https://media.breitbart.com/media/2026/10/ICE-Officer-with-Face-Covering-640x335.jpeg",
+      "image_local": "images/story-1070.jpg",
+      "id": "68e6799788b4e7914821bfec0e206366de48aba0"
+    },
+    "71fa12a7c31cd1e5481a31eec485b90a18ee7f12": {
+      "headline": "Nightwish parts ways with Floor Jansen after 14 years; band plans a 2027 album",
+      "cat": "Music / metal",
+      "source": "Blabbermouth",
+      "url": "https://blabbermouth.net/news/nightwish-parts-ways-with-singer-floor-jansen",
+      "summary": "Finnish symphonic metal band Nightwish and Dutch singer Floor Jansen announced a mutual split Thursday after 14 years together. The band said the decision was “necessary and important” for each side’s ambitions, wished Jansen well, and said Nightwish will enter the studio in 2027 for a new album as it marks 30 years. Jansen said endings create beginnings and that her solo album Hytress (due January 2027) and tour will now get her full attention. She joined in 2012 and sang on Endless Forms Most Beautiful, Human. :II: Nature, and Yesterwynde; the band has been on live hiatus since 2023.",
+      "image_remote": "https://assets.blabbermouth.net/media/nightwishmay2024new_638.jpg",
+      "image_local": "images/story-1071.jpg",
+      "id": "71fa12a7c31cd1e5481a31eec485b90a18ee7f12"
+    },
+    "0e7af828a30eafd2fcff1e8a3e45cb2597b37fc8": {
+      "headline": "Touch-screen MacBook Pro, OLED iPad mini, and M6 Macs eyed for an Oct. 28 briefing",
+      "cat": "Apple",
+      "source": "AppleInsider",
+      "url": "https://appleinsider.com/articles/26/10/15/touch-screen-macbook-pro-will-be-unveiled-on-october-28",
+      "summary": "Apple is inviting media to an all-day product launch experience in Los Angeles on Wednesday, Oct. 28, centered on the long-rumored OLED touch-screen MacBook Pro plus an updated iPad mini and M6 Macs, according to Bloomberg-sourced reporting. After HomeView’s briefing-style unveil on Oct. 12, Apple is expected to skip a big stage event again. Rumors point to an 8.4-inch hybrid OLED iPad mini without ProMotion, and “M6 Macs” plural that could include refreshed MacBook Pros and a long-overdue M6 iMac. Pre-orders would likely open in early November with mid-to-late November shipping if an iMac is in the mix.",
+      "image_remote": "https://media.appleinsider.com/gallery/68616-144631-66579-139653-M5-MacBook-Pro-display-xl-(1)-xl.jpg",
+      "image_local": "images/story-1072.jpg",
+      "id": "0e7af828a30eafd2fcff1e8a3e45cb2597b37fc8"
+    },
+    "6abfcb009eb96e083bfe71dca28ffba2a09fce09": {
+      "headline": "Ukraine says a Neptune strike hit six Russian Su-34M bombers at Borisoglebsk airfield",
+      "cat": "World / Ukraine",
+      "source": "Kyiv Independent",
+      "url": "https://kyivindependent.com/ukraine-hits-6-russian-su-34-bomber-jets-with-neptune-missile-military-says/",
+      "summary": "Ukraine’s naval forces said an overnight Oct. 15 attack on Russia’s Borisoglebsk military airfield in Voronezh Oblast damaged six Su-34M fighter-bombers. The navy said it used the domestically built Neptune coastal cruise missile; the General Staff confirmed all six jets were damaged to varying degrees and that explosions and fire were recorded on the base, about 370 kilometers from the front. Local video showed blasts and a large fire. Neptune sank the Moskva in 2022; an upgraded version with roughly 1,000 km range completed testing in 2025, Zelensky said.",
+      "image_remote": "https://assets.kyivindependent.com/content/images/2026/10/Airfield_20261015-093634.png",
+      "image_local": "images/story-1073.jpg",
+      "id": "6abfcb009eb96e083bfe71dca28ffba2a09fce09"
+    },
+    "6d1b7ec7e7e4df9036a38a4eee3eb63aca6bff89": {
+      "headline": "Penguins visit Colorado on Friday after Crosby’s two-goal night in a 5-3 loss to Chicago",
+      "cat": "Penguins",
+      "source": "FOX Sports",
+      "url": "https://www.foxsports.com/articles/nhl/pittsburgh-visits-colorado-after-crosbys-2goal-game",
+      "summary": "Pittsburgh (3-3-1) visits the Colorado Avalanche (4-2-1) on Friday at Ball Arena after Sidney Crosby scored his first two goals of the season in Tuesday’s 5-3 road loss to the Blackhawks. Connor Bedard returned from shoulder surgery with an assist as Teuvo Teravainen and Roman Kantserov each scored twice for Chicago. The Penguins are 1-2-1 on the road and open a back-to-back that continues Saturday in Las Vegas. Pittsburgh lists Justin Brazeau, Trevor van Riemsdyk, and Ryan Graves out; Colorado has several forwards day-to-day or out.",
+      "image_remote": "",
+      "image_local": "",
+      "id": "6d1b7ec7e7e4df9036a38a4eee3eb63aca6bff89"
+    },
+    "955fe240b4fc7cca258676d4ff70cb156015c806": {
+      "headline": "Elon Musk says Grok researched and ordered him five LEGO Star Wars sets",
+      "cat": "AI / LEGO",
+      "source": "Mashable",
+      "url": "https://mashable.com/tech/elon-musk-grok-shopping-lego-ai",
+      "summary": "After telling X users to photograph a credit card and drop it in chat so Grok could shop for them — despite xAI’s warning not to put personal data in prompts — Elon Musk posted that he asked Grok to research the most fun LEGO Star Wars kits for young kids and order them. On Tuesday he said five Star Wars sets totaling $241.34 had arrived via UPS to an Austin address, sharing chat screenshots rather than photos of the boxes. Grok then turned off shipping checks once delivery finished. Mashable notes Musk can absorb the risk; ordinary users should not paste card details into an AI chat.",
+      "image_remote": "",
+      "image_local": "",
+      "id": "955fe240b4fc7cca258676d4ff70cb156015c806"
+    },
+    "322a287d1be73c73caed8403cd0b3ce7bd0c3bb7": {
+      "headline": "Royal Enfield brings the Bullet 650 Twin to America with Jay Leno at Audrain",
+      "cat": "Motorcycles",
+      "source": "RideApart",
+      "url": "https://www.rideapart.com/news/811729/royal-enfield-bullet-650-launch-usa-price-specs-features/",
+      "summary": "Royal Enfield debuted the Bullet 650 Twin for the U.S. at the 2026 Audrain Concours Motor Week in Newport, R.I., with Jay Leno helping introduce the bike. The nameplate dates to 1932, but under the classic teardrop tank, hand-painted pinstriping, and wire wheels sits the brand’s 648cc air/oil-cooled parallel twin — about 47 hp and 38.6 lb-ft — with a six-speed gearbox aimed at relaxed riding rather than peak power. It’s another 650 twin for a lineup that keeps adding classic-styled models around that proven engine.",
+      "image_remote": "https://cdn.motor1.com/images/mgl/0eppj3/s1/npesj3in2ou.jpg",
+      "image_local": "images/story-1074.jpg",
+      "id": "322a287d1be73c73caed8403cd0b3ce7bd0c3bb7"
     }
   },
-  "updated": "Wednesday, October 14, 2026 · 10:15 PM ET"
+  "updated": "Thursday, October 15, 2026 · 7:12 AM ET"
 }
