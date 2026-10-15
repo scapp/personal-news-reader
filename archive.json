@@ -1168,7 +1168,14 @@
     "f0d7df534cded386c86964adece9ed3e4a096d38",
     "353a9aa3f3e57b3afec6b049197f391e86925abc",
     "1b7fc3429de05bd31410ad4aaebd52898b075f35",
-    "56c27255a912e40f0d3082a8214d51a07e783c9e"
+    "56c27255a912e40f0d3082a8214d51a07e783c9e",
+    "3d03f2f5bce5d68260a77e5e18604703b11a0515",
+    "d3315291d3ed5708cf00761ccfe1a5edffeaf011",
+    "4e23efcbf47dbea3a2f4c5df3135372ebe5ee0e2",
+    "0c087ac98f424ed12aac7dfe2049c7811b52a246",
+    "275d900ff24134d50e52497ce37208c9d4870401",
+    "fefe5271c2d34db817b36614e0f487014f241387",
+    "8ad901692afb11e9c8aeab07cd7fbf5634ef078f"
   ],
   "stories": {
     "0c2ac7a5e342411678296315c4c59043b1f067cc": {
@@ -14216,7 +14223,77 @@
       "image_remote": "https://media.appleinsider.com/gallery/69394-146321-68807-144971-000-lead-Hatfield-xl-xl.jpg",
       "image_local": "images/story-1062.jpg",
       "id": "56c27255a912e40f0d3082a8214d51a07e783c9e"
+    },
+    "3d03f2f5bce5d68260a77e5e18604703b11a0515": {
+      "headline": "DOJ threatens emergency action against California over suspected noncitizens on the voter rolls",
+      "cat": "Politics / election",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/doj-threatens-emergency-legal-action-california-suspected-noncitizen-voters",
+      "summary": "The Justice Department set a Thursday noon Eastern deadline for California Secretary of State Shirley Weber and Los Angeles County Registrar Dean Logan to review a list of potentially ineligible voters, segregate ballots whose citizenship cannot be verified, and warned it will seek emergency relief if they refuse. A DOJ spokesperson said thousands of potential foreign nationals appear on California’s rolls statewide, not only in L.A. County, and that “only American citizens may vote in federal elections.” California Attorney General Rob Bonta pushed back Wednesday, accusing the Trump administration of voter intimidation and denying widespread fraud. Acting Deputy Attorney General R. Trent McCotter’s Tuesday letters demand action within 48 hours ahead of the midterms.",
+      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/02/los-angeles-election-division-office.jpg",
+      "image_local": "images/story-1063.jpg",
+      "id": "3d03f2f5bce5d68260a77e5e18604703b11a0515"
+    },
+    "d3315291d3ed5708cf00761ccfe1a5edffeaf011": {
+      "headline": "OpenAI bugging suspect booked a one-way flight to Saudi Arabia before his arrest, prosecutors say",
+      "cat": "AI / crime",
+      "source": "Gizmodo",
+      "url": "https://gizmodo.com/openai-bugging-suspect-booked-one-way-flight-to-saudi-arabia-prosecutors-say-2000826061",
+      "summary": "Prosecutors told a San Francisco judge that Abdulrahman Alfozan, the former OpenAI engineer charged with planting a hidden recorder in an executive conference room, had booked one-way tickets for himself, his wife, and a third family member from San Francisco to Saudi Arabia via Istanbul for Oct. 12. The U.S. Attorney’s Office asked to seal the case on Oct. 8 so he would not flee; he was arrested Oct. 9. Alfozan is also a venture partner at Saudi firm Raed Ventures, which lists a Saudi prince as a fellow partner. OpenAI found the USB-powered bug behind a TV around Sept. 30 and said it found no model weights or customer data taken; a former CIA officer called Raed “basically a state organ” while noting prosecutors have not accused the firm of knowing about the bug.",
+      "image_remote": "https://gizmodo.com/app/uploads/2026/10/seeed-bug-openai-1200x675.jpg",
+      "image_local": "images/story-1064.jpg",
+      "id": "d3315291d3ed5708cf00761ccfe1a5edffeaf011"
+    },
+    "4e23efcbf47dbea3a2f4c5df3135372ebe5ee0e2": {
+      "headline": "iPhone Duo’s A20 Pro chip posts Geekbench scores in line with the iPhone 18 Pro ahead of Friday pre-orders",
+      "cat": "Apple",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/14/iphone-duo-benchmark/",
+      "summary": "An early Geekbench 7 run for the iPhone Duo (iPhone19,4) on iOS 27.1 scored about 3,986 single-core and 11,067 multi-core, matching recent iPhone 18 Pro / Pro Max results. Both devices use Apple’s 2nm A20 Pro with a 6-core CPU (4.93 GHz) and 7-core GPU; the Duo listing shows 12 GB of RAM. Apple says the A20 Pro is up to 20% faster in CPU and 40% faster in GPU versus the A19 Pro; GPU was not tested in this run. Real-world performance could still differ because of the Duo’s dual screens and thermals. Pre-orders open Oct. 16, with launch on Oct. 23.",
+      "image_remote": "https://images.macrumors.com/t/CF37ey2cPgDxE7XhXnqyT0kz1_Q=/1920x/article-new/2026/10/iphone-duo-feature.jpg",
+      "image_local": "images/story-1065.jpg",
+      "id": "4e23efcbf47dbea3a2f4c5df3135372ebe5ee0e2"
+    },
+    "0c087ac98f424ed12aac7dfe2049c7811b52a246": {
+      "headline": "Nikki Sixx says Mötley Crüe shows are politics-free zones: “We’re all in this together”",
+      "cat": "Music / 80s rock",
+      "source": "Louder",
+      "url": "https://www.loudersound.com/bands-artists/nikki-sixx-proclaims-motley-crue-shows-to-be-a-politics-free-zone",
+      "summary": "A fan-shot clip of Nikki Sixx telling a Mötley Crüe crowd that the band does not care if you are a Republican or a Democrat resurfaced after Metallica’s James Hetfield made a similar “no agendas” speech at the Las Vegas Sphere. “It does not matter to Mötley Crüe if you’re a Republican. It does not matter to Mötley Crüe if you’re a Democrat,” Sixx says, adding gay, straight, or “right down the fucking centre” do not matter either because “we’re all in this together.” Crüe’s Return of the Carnival of Sins tour ended in late September, so the clip predates Hetfield’s Oct. 10 remarks. Sixx has long said artists can post opinions online but should keep the concert stage free of politics, even as bandmate Tommy Lee often criticizes Trump on social media.",
+      "image_remote": "https://cdn.mos.cms.futurecdn.net/8QiGDySuBFzJvXH4QWYXUT-1280-80.jpg",
+      "image_local": "images/story-1066.jpg",
+      "id": "0c087ac98f424ed12aac7dfe2049c7811b52a246"
+    },
+    "275d900ff24134d50e52497ce37208c9d4870401": {
+      "headline": "Orlando man charged with murder in ex-fiancée Michelle Parker’s 2011 disappearance after People’s Court episode",
+      "cat": "Crime / courts",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/michelle-parker-fiancee-orlando-florida-arrest-murder-charge-2011-disappearance-peoples-court/",
+      "summary": "Dale Smith Jr. was arrested Wednesday on a second-degree murder charge in the Nov. 17, 2011, disappearance of Michelle Parker, 33, the same day a People’s Court episode aired showing the couple fighting over an engagement ring. Parker’s SUV was found abandoned the next day; her body has never been recovered. Orlando Police Chief Eric Smith said investigators spent the past year reexamining conflicting statements and using advanced digital forensics, and that “all evidence leads to Dale Smith Jr. as the person responsible.” Det. Phillip McMican said Smith gave different answers to the same questions over years of interviews and that new evidence turned up in the last year. Parker and Smith have two children together.",
+      "image_remote": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/14/9e63754b-b47b-45b1-b255-ebb3e0acc9ef/thumbnail/1200x630/b9b49008fc5af5349e7248d54a61b756/arrest.jpg",
+      "image_local": "images/story-1067.jpg",
+      "id": "275d900ff24134d50e52497ce37208c9d4870401"
+    },
+    "fefe5271c2d34db817b36614e0f487014f241387": {
+      "headline": "Trump DOJ opens Second Amendment probe of New Jersey town over alleged firearm-permit delays",
+      "cat": "2A / courts",
+      "source": "Breitbart",
+      "url": "https://www.breitbart.com/2nd-amendment/2026/10/14/trump-doj-investigates-new-jersey-town-for-allegations-of-egregious-unjust-delays-issuing-gun-licenses/",
+      "summary": "The Justice Department’s Civil Rights Division is investigating whether Pennsauken Township, N.J., “deprives citizens of their right to bear arms” through delays in issuing firearm licenses, focusing on the township police permitting system. Citing the Supreme Court’s Bruen decision, DOJ said lengthy wait times can put a permitting process to “abusive ends.” Assistant Attorney General Harmeet Dhillon said the Second Amendment Section will “defend law-abiding citizens from local authorities who infringe on the right to safely carry legal firearms” and will fix unconstitutional delays if the allegations prove true.",
+      "image_remote": "https://media.breitbart.com/media/2026/10/GettyImages1326757134-640x335.jpg",
+      "image_local": "images/story-1068.jpg",
+      "id": "fefe5271c2d34db817b36614e0f487014f241387"
+    },
+    "8ad901692afb11e9c8aeab07cd7fbf5634ef078f": {
+      "headline": "Amelia Earhart search team says it may know within days if a Nikumaroro lagoon anomaly is her plane",
+      "cat": "World / history",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/amelia-earhart-plane-search-nikumaroro-expedition/",
+      "summary": "A 17-member expedition led by Purdue’s Steve Schultz and the Archaeological Legacy Institute’s Richard Pettigrew began searching a lagoon off Nikumaroro in Kiribati for what may be Amelia Earhart’s Lockheed Electra 10-E. They are focused on the “Taraia Object,” a visual anomaly visible in aerial photos since 1938 and flagged in 2020 satellite imagery. The remote site took five days at sea to reach; Pettigrew said the team will dredge sediment and expects to say within days whether they have found the plane. Earhart and navigator Fred Noonan vanished July 2, 1937, while trying to fly around the equator, about 400 miles southeast of Howland Island.",
+      "image_remote": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/14/fe957ce2-cf24-4dad-bf85-fd900317ad7a/thumbnail/1200x630/85b119beebbd1e7c6cf56dfbefbd6fd2/1792021006263.png",
+      "image_local": "images/story-1069.jpg",
+      "id": "8ad901692afb11e9c8aeab07cd7fbf5634ef078f"
     }
   },
-  "updated": "Wednesday, October 14, 2026 · 6:12 PM ET"
+  "updated": "Wednesday, October 14, 2026 · 10:15 PM ET"
 }

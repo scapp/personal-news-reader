@@ -1,8 +1,85 @@
 {
-  "updated": "Wednesday, October 14, 2026 · 6:12 PM ET",
+  "updated": "Wednesday, October 14, 2026 · 10:15 PM ET",
   "stories": [
     {
       "n": 1,
+      "headline": "DOJ threatens emergency action against California over suspected noncitizens on the voter rolls",
+      "cat": "Politics / election",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/doj-threatens-emergency-legal-action-california-suspected-noncitizen-voters",
+      "image_local": "images/story-1063.jpg",
+      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/02/los-angeles-election-division-office.jpg",
+      "id": "3d03f2f5bce5d68260a77e5e18604703b11a0515",
+      "summary": "The Justice Department set a Thursday noon Eastern deadline for California Secretary of State Shirley Weber and Los Angeles County Registrar Dean Logan to review a list of potentially ineligible voters, segregate ballots whose citizenship cannot be verified, and warned it will seek emergency relief if they refuse. A DOJ spokesperson said thousands of potential foreign nationals appear on California’s rolls statewide, not only in L.A. County, and that “only American citizens may vote in federal elections.” California Attorney General Rob Bonta pushed back Wednesday, accusing the Trump administration of voter intimidation and denying widespread fraud. Acting Deputy Attorney General R. Trent McCotter’s Tuesday letters demand action within 48 hours ahead of the midterms."
+    },
+    {
+      "n": 2,
+      "headline": "OpenAI bugging suspect booked a one-way flight to Saudi Arabia before his arrest, prosecutors say",
+      "cat": "AI / crime",
+      "source": "Gizmodo",
+      "url": "https://gizmodo.com/openai-bugging-suspect-booked-one-way-flight-to-saudi-arabia-prosecutors-say-2000826061",
+      "image_local": "images/story-1064.jpg",
+      "image_remote": "https://gizmodo.com/app/uploads/2026/10/seeed-bug-openai-1200x675.jpg",
+      "id": "d3315291d3ed5708cf00761ccfe1a5edffeaf011",
+      "summary": "Prosecutors told a San Francisco judge that Abdulrahman Alfozan, the former OpenAI engineer charged with planting a hidden recorder in an executive conference room, had booked one-way tickets for himself, his wife, and a third family member from San Francisco to Saudi Arabia via Istanbul for Oct. 12. The U.S. Attorney’s Office asked to seal the case on Oct. 8 so he would not flee; he was arrested Oct. 9. Alfozan is also a venture partner at Saudi firm Raed Ventures, which lists a Saudi prince as a fellow partner. OpenAI found the USB-powered bug behind a TV around Sept. 30 and said it found no model weights or customer data taken; a former CIA officer called Raed “basically a state organ” while noting prosecutors have not accused the firm of knowing about the bug."
+    },
+    {
+      "n": 3,
+      "headline": "iPhone Duo’s A20 Pro chip posts Geekbench scores in line with the iPhone 18 Pro ahead of Friday pre-orders",
+      "cat": "Apple",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/14/iphone-duo-benchmark/",
+      "image_local": "images/story-1065.jpg",
+      "image_remote": "https://images.macrumors.com/t/CF37ey2cPgDxE7XhXnqyT0kz1_Q=/1920x/article-new/2026/10/iphone-duo-feature.jpg",
+      "id": "4e23efcbf47dbea3a2f4c5df3135372ebe5ee0e2",
+      "summary": "An early Geekbench 7 run for the iPhone Duo (iPhone19,4) on iOS 27.1 scored about 3,986 single-core and 11,067 multi-core, matching recent iPhone 18 Pro / Pro Max results. Both devices use Apple’s 2nm A20 Pro with a 6-core CPU (4.93 GHz) and 7-core GPU; the Duo listing shows 12 GB of RAM. Apple says the A20 Pro is up to 20% faster in CPU and 40% faster in GPU versus the A19 Pro; GPU was not tested in this run. Real-world performance could still differ because of the Duo’s dual screens and thermals. Pre-orders open Oct. 16, with launch on Oct. 23."
+    },
+    {
+      "n": 4,
+      "headline": "Nikki Sixx says Mötley Crüe shows are politics-free zones: “We’re all in this together”",
+      "cat": "Music / 80s rock",
+      "source": "Louder",
+      "url": "https://www.loudersound.com/bands-artists/nikki-sixx-proclaims-motley-crue-shows-to-be-a-politics-free-zone",
+      "image_local": "images/story-1066.jpg",
+      "image_remote": "https://cdn.mos.cms.futurecdn.net/8QiGDySuBFzJvXH4QWYXUT-1280-80.jpg",
+      "id": "0c087ac98f424ed12aac7dfe2049c7811b52a246",
+      "summary": "A fan-shot clip of Nikki Sixx telling a Mötley Crüe crowd that the band does not care if you are a Republican or a Democrat resurfaced after Metallica’s James Hetfield made a similar “no agendas” speech at the Las Vegas Sphere. “It does not matter to Mötley Crüe if you’re a Republican. It does not matter to Mötley Crüe if you’re a Democrat,” Sixx says, adding gay, straight, or “right down the fucking centre” do not matter either because “we’re all in this together.” Crüe’s Return of the Carnival of Sins tour ended in late September, so the clip predates Hetfield’s Oct. 10 remarks. Sixx has long said artists can post opinions online but should keep the concert stage free of politics, even as bandmate Tommy Lee often criticizes Trump on social media."
+    },
+    {
+      "n": 5,
+      "headline": "Orlando man charged with murder in ex-fiancée Michelle Parker’s 2011 disappearance after People’s Court episode",
+      "cat": "Crime / courts",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/michelle-parker-fiancee-orlando-florida-arrest-murder-charge-2011-disappearance-peoples-court/",
+      "image_local": "images/story-1067.jpg",
+      "image_remote": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/14/9e63754b-b47b-45b1-b255-ebb3e0acc9ef/thumbnail/1200x630/b9b49008fc5af5349e7248d54a61b756/arrest.jpg",
+      "id": "275d900ff24134d50e52497ce37208c9d4870401",
+      "summary": "Dale Smith Jr. was arrested Wednesday on a second-degree murder charge in the Nov. 17, 2011, disappearance of Michelle Parker, 33, the same day a People’s Court episode aired showing the couple fighting over an engagement ring. Parker’s SUV was found abandoned the next day; her body has never been recovered. Orlando Police Chief Eric Smith said investigators spent the past year reexamining conflicting statements and using advanced digital forensics, and that “all evidence leads to Dale Smith Jr. as the person responsible.” Det. Phillip McMican said Smith gave different answers to the same questions over years of interviews and that new evidence turned up in the last year. Parker and Smith have two children together."
+    },
+    {
+      "n": 6,
+      "headline": "Trump DOJ opens Second Amendment probe of New Jersey town over alleged firearm-permit delays",
+      "cat": "2A / courts",
+      "source": "Breitbart",
+      "url": "https://www.breitbart.com/2nd-amendment/2026/10/14/trump-doj-investigates-new-jersey-town-for-allegations-of-egregious-unjust-delays-issuing-gun-licenses/",
+      "image_local": "images/story-1068.jpg",
+      "image_remote": "https://media.breitbart.com/media/2026/10/GettyImages1326757134-640x335.jpg",
+      "id": "fefe5271c2d34db817b36614e0f487014f241387",
+      "summary": "The Justice Department’s Civil Rights Division is investigating whether Pennsauken Township, N.J., “deprives citizens of their right to bear arms” through delays in issuing firearm licenses, focusing on the township police permitting system. Citing the Supreme Court’s Bruen decision, DOJ said lengthy wait times can put a permitting process to “abusive ends.” Assistant Attorney General Harmeet Dhillon said the Second Amendment Section will “defend law-abiding citizens from local authorities who infringe on the right to safely carry legal firearms” and will fix unconstitutional delays if the allegations prove true."
+    },
+    {
+      "n": 7,
+      "headline": "Amelia Earhart search team says it may know within days if a Nikumaroro lagoon anomaly is her plane",
+      "cat": "World / history",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/amelia-earhart-plane-search-nikumaroro-expedition/",
+      "image_local": "images/story-1069.jpg",
+      "image_remote": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/14/fe957ce2-cf24-4dad-bf85-fd900317ad7a/thumbnail/1200x630/85b119beebbd1e7c6cf56dfbefbd6fd2/1792021006263.png",
+      "id": "8ad901692afb11e9c8aeab07cd7fbf5634ef078f",
+      "summary": "A 17-member expedition led by Purdue’s Steve Schultz and the Archaeological Legacy Institute’s Richard Pettigrew began searching a lagoon off Nikumaroro in Kiribati for what may be Amelia Earhart’s Lockheed Electra 10-E. They are focused on the “Taraia Object,” a visual anomaly visible in aerial photos since 1938 and flagged in 2020 satellite imagery. The remote site took five days at sea to reach; Pettigrew said the team will dredge sediment and expects to say within days whether they have found the plane. Earhart and navigator Fred Noonan vanished July 2, 1937, while trying to fly around the equator, about 400 miles southeast of Howland Island."
+    },
+    {
+      "n": 8,
       "headline": "Regulator finds nine of the largest U.S. banks “debanked” customers over political and religious views",
       "cat": "Politics / finance",
       "source": "CBS News",
@@ -13,7 +90,7 @@
       "summary": "A new report from the Treasury Department’s Office of the Comptroller of the Currency, ordered under President Trump’s 2025 executive order on fair access to banking, says the nine largest national banks it supervises had policies that let political, religious or business considerations sway account decisions. The OCC reviewed about 100,000 complaints and hundreds of bank decisions from 2020 through September 2025, and also found that businesses in oil and gas, coal mining and firearms were restricted from some services. One example involved WePay, the now-defunct JPMorgan-owned payment processor, which JPMorgan said “did not meet our expectations” and was corrected. The agency noted some banks also turned away Democratic-leaning groups. “Fair access to financial services is not a mantra — it is a mandate,” Comptroller Jonathan Gould said; Citibank and Wells Fargo pointed to a Bank Policy Institute statement backing fair access."
     },
     {
-      "n": 2,
+      "n": 9,
       "headline": "Houthi missile hits Saudi Aramco’s headquarters in Dhahran as Trump weighs joining Saudi strikes",
       "cat": "World",
       "source": "PBS News (AP)",
@@ -24,7 +101,7 @@
       "summary": "Iran-backed Houthi rebels struck the headquarters of Saudi state oil giant Aramco in Dhahran overnight, damaging the building’s top three floors, including the chief executive’s offices, two regional officials told the AP. No one was hurt; the Saudi energy ministry acknowledged only a “limited fire.” The Saudi-led coalition said it also intercepted drones, cruise missiles and ballistic missiles aimed at Riyadh, Dhahran and the military-industrial city of Al-Kharj, and falling debris in Riyadh injured one person. The Houthis call the barrage retaliation for the Saudi-backed offensive in Yemen launched about 10 days ago. Strikes on Riyadh’s King Khalid International Airport have killed at least 18 people in the past week, and President Trump has said he is evaluating whether the U.S. should join Saudi strikes against the Houthis."
     },
     {
-      "n": 3,
+      "n": 10,
       "headline": "Apple closes above a $5 trillion market value for the first time on strong iPhone 18 Pro demand",
       "cat": "Apple",
       "source": "AppleInsider",
@@ -35,7 +112,7 @@
       "summary": "Apple stock finished Wednesday at $342.96, just past the roughly $342.61 needed for a $5 trillion valuation, making it only the second company after Nvidia to close a trading day above that mark. Apple had briefly touched $5 trillion in July before slipping back into the $4 trillion range. AppleInsider credits steady demand for the iPhone 18 Pro, which recovered from a dip tied to production-cut reports; online orders for the iPhone 18 Pro Max now show about a three-week wait. The milestone lands two days before iPhone Duo pre-orders open, and with the base iPhone 18 and other models pushed to spring 2027, Apple is counting on its Pro and foldable lineup to carry the holiday quarter despite the ongoing chip shortage."
     },
     {
-      "n": 4,
+      "n": 11,
       "headline": "On what would have been his 33rd birthday, the White House honors Charlie Kirk as a “Christian martyr” and conservative titan",
       "cat": "Charlie Kirk",
       "source": "Just The News",
@@ -46,7 +123,7 @@
       "summary": "The White House marked the National Day of Remembrance for Charlie Kirk, which President Trump designated for Oct. 14 last year, with a post on X honoring the Turning Point USA co-founder as “a father, husband, Christian martyr, & titan of the conservative movement” and pledging to “always defend our principles of truth, faith, and the open exchange of ideas.” Kirk was assassinated on Sept. 10, 2025, while speaking at Utah Valley University. His widow, Erika Kirk, who now leads Turning Point USA as CEO, posted her own birthday tribute thanking God “for the years He entrusted you to this earth” and for “a once in a lifetime love.”"
     },
     {
-      "n": 5,
+      "n": 12,
       "headline": "Sammy Hagar extends an olive branch to Alex Van Halen: “I would love to bury the hatchet”",
       "cat": "Music / 80s rock",
       "source": "Blabbermouth",
@@ -57,7 +134,7 @@
       "summary": "In a new Billboard interview, Sammy Hagar said he wants peace with Alex Van Halen, months after the drummer called him “a complete idiot” in a Brazilian magazine interview about Van Halen memoirs. “I’ll put out an olive branch right now, and say it again a million times — I would love to bury the hatchet with Alex,” Hagar said. “I would love to be friends again. If we played music, mo’ better,” adding he’s willing to “forget anything and everything” and bring the band’s Roth and Hagar eras together. Hagar tied the feud to his 1977 song “Crack in the World” and called for “unification over separation.” Alex, 73, said earlier this year he had no interest in reading Hagar’s memoir “Red.”"
     },
     {
-      "n": 6,
+      "n": 13,
       "headline": "Cornell’s president admits he never followed up on a 2024 fraternity gang-rape report as faculty debate no confidence",
       "cat": "Campus",
       "source": "PBS News (AP)",
@@ -68,7 +145,7 @@
       "summary": "Cornell President Michael Kotlikoff acknowledged he knew in 2024 that a student reported being gang raped at the Chi Phi fraternity house but never checked back on the criminal or Title IX outcomes, and didn’t learn until recently that she had dropped out or that students had been expelled or suspended. The admission came a day before the Faculty Senate began debating a no-confidence resolution on the administration’s handling of sexual-assault reports; debate continues Oct. 28, followed by an electronic vote. Kotlikoff has banned fraternity parties for the rest of the academic year and plans to give state police a role in investigations. The case, brought by “Jane Doe” against seven Chi Phi members and the university, was reopened by the local DA before Gov. Hochul handed it to Attorney General Letitia James."
     },
     {
-      "n": 7,
+      "n": 14,
       "headline": "Working “Hatfield” Apple I signed by Steve Wozniak sells for a record $1.15 million",
       "cat": "Gadgets / history",
       "source": "AppleInsider",
@@ -79,7 +156,7 @@
       "summary": "The famous “Hatfield” Apple I, No. 48 in the Apple I registry, sold at a Bonhams online auction for $1.15 million, the highest price ever paid for one of Apple’s first computers. The working machine has a motherboard signed by Steve Wozniak and comes with a letter from Steve Jobs encouraging original owner Fred Hatfield to trade it and $400 for an Apple II board. Hatfield paid $666.60 for it in 1976; Breker sold it in 2013 for about $666,150. This time the auction lasted only 28 minutes and came down to two bidders. Bonhams’ Ian Ehling called it “one of the most important milestones in computing history,” sold during Apple’s 50th-anniversary year."
     },
     {
-      "n": 8,
+      "n": 15,
       "headline": "Elon Musk says Trump and the U.S. military set the Starshield speed limits Ukraine says are disrupting drone intercepts",
       "cat": "Elon / World",
       "source": "Fox News",
@@ -90,7 +167,7 @@
       "summary": "After Ukrainian units reported overnight speed caps on Starshield terminals that cut connectivity for drones flying faster than about 100 mph, Elon Musk posted that “any limits on speed or usage are decided by the US military and ultimately POTUS,” stressing that Starshield hardware is owned and controlled by the U.S. government while commercial Starlink is separate. A source told Fox that Kyiv got no advance warning despite a government contract running through May 2027, and forces found out only after calling SpaceX support when missions failed. Musk did not say whether Trump, War Secretary Pete Hegseth or another official personally authorized the change. Zelenskyy has warned that the throttling could cost lives amid Russian strikes."
     },
     {
-      "n": 9,
+      "n": 16,
       "headline": "Grassley: Jack Smith’s Arctic Frost probe scooped up data on 639,000 Republican voters, donors and MAGA-hat buyers",
       "cat": "Politics",
       "source": "Fox News",
@@ -101,7 +178,7 @@
       "summary": "Senate Judiciary Chairman Chuck Grassley’s latest whistleblower memo says former special counsel Jack Smith’s Biden-era Arctic Frost investigation obtained spreadsheets with names, dates of birth, addresses, emails and voter registrations for at least 639,000 Republican voters and supporters — including more than 148,000 small-dollar donors and shipping data on people who bought red MAGA hats and Trump memorabilia. Grassley says the haul goes far beyond what the Jan. 6 mandate required and “aimed to map out the entire Republican Party apparatus,” with some records reaching back years. Smith testified before the committee last month; Democrats have not joined Grassley’s call for more oversight."
     },
     {
-      "n": 10,
+      "n": 17,
       "headline": "Trumbull’s weekend centers on Saturday’s Fall Farm Festival at the Agriscience & Biotechnology Center",
       "cat": "Local / Trumbull CT",
       "source": "Patch",
@@ -112,7 +189,7 @@
       "summary": "Patch’s Trumbull weekend guide highlights the Fall Farm Festival on Saturday, Oct. 17, at 10 a.m. at the Trumbull Agriscience & Biotechnology Center, 536 Daniels Farm Road. The free community event lists food trucks, face painting, games, a raffle table, craft vendors and a chance to visit the farm animals. The guide covers the Thursday–Sunday window of Oct. 15–18; the Halloween Town Hall parade for ages 0–5 remains a separate Oct. 27 registration item."
     },
     {
-      "n": 11,
+      "n": 18,
       "headline": "Jets WR Adonai Mitchell had a hand procedure and remains week-to-week ahead of Sunday at New England",
       "cat": "Jets",
       "source": "New York Jets",
@@ -123,7 +200,7 @@
       "summary": "Head coach Aaron Glenn said Wednesday that third-year wideout Adonai Mitchell underwent a small procedure on the finger injury he suffered in practice before Week 3 and is still week-to-week. “He’s moving his fingers around really, really well,” Glenn said, after Mitchell waited roughly a week and a half to see how it progressed. Mitchell had 9 catches for 123 yards in Weeks 1–2 and could miss a fourth straight game Sunday at the Patriots. RB Breece Hall (quad) and LG Dylan Parham (knee) also did not practice and are week-to-week; Garrett Wilson, Isaiah Williams and Tim Patrick have been carrying the receiver room."
     },
     {
-      "n": 12,
+      "n": 19,
       "headline": "OpenAI turns the tables on Apple, saying an ex-employee took 100+ confidential device files back to Cupertino",
       "cat": "AI / tech",
       "source": "Gizmodo",
@@ -134,7 +211,7 @@
       "summary": "In a new federal filing tied to Apple’s July trade-secrets suit against OpenAI, the AI company alleges a former employee who had worked at Apple, spent six months at OpenAI, then returned to Apple transferred more than 100 confidential files about an unreleased OpenAI device — including detailed images, engineering and manufacturing data, and supplier info — to personal accounts on his last day, June 2. OpenAI also says he presented product plans to Apple’s senior leadership, including the VP of operations in Asia, and worries that information is now “circulating inside Apple” as Cupertino pushes AI-enabled hardware. Apple told Reuters it has procedures against using prior employers’ secrets and found no evidence supporting the claim."
     },
     {
-      "n": 13,
+      "n": 20,
       "headline": "Wyoming grad student from China arrested at LAX after allegedly poisoning a classmate’s tea, then trying to flee",
       "cat": "Crime / courts",
       "source": "CBS News",
@@ -143,83 +220,6 @@
       "image_remote": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/14/b759e897-7236-4adf-834d-5fcf4332f9d2/thumbnail/1200x630g2/6deb0f0c896f2fd5a24a098be6d0dfef/ap26286849574804.jpg",
       "id": "eff593644cbd77bd54ebf9c615cef1339b8dcf21",
       "summary": "University of Wyoming microbiology graduate student Aili Wang, 32, was arrested Oct. 6 at Los Angeles International Airport as she allegedly tried to return to China with laptops, storage devices and documents, prosecutors say. Police allege she poisoned the tea of a Vietnamese classmate, “K.T.,” who had federally funded, patent-pending work on disease-treatment tech similar to research she had done in China, using acrylamide bought on eBay after the victim’s wife found the chemical in a coffee maker. Campus cameras allegedly caught her rummaging through his desk. She was held without bail in Los Angeles; her professor called it one of the worst shocks of his career and said the victim’s recovery is uncertain."
-    },
-    {
-      "n": 14,
-      "headline": "World’s oldest shipwreck found off Turkey’s Kekova Island, dated to roughly 4,400–4,700 years old",
-      "cat": "World",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c6gr80rk1yyko",
-      "image_local": "images/story-1055.jpg",
-      "image_remote": "https://ichef.bbci.co.uk/news/1024/branded_news/19d5/live/72e7aa00-c71d-11f1-a82f-35874a3aae81.jpg",
-      "id": "cbed3a79d29f36bf348fd47c7aa698f224ea4446",
-      "summary": "Archaeologists led by Prof. Hakan Öniz of Akdeniz University say a roughly 33-foot Early Bronze Age trade ship found near Kekova Island off Turkey’s coast dates to about 4,400–4,700 years ago — around the time the Pyramids of Giza were built. The wooden hull is gone, but about 30 clay amphorae (some still with traces of cargo) and three stone anchors survived on the seabed. Öniz called it “a time capsule at the bottom of the sea.” The team first spotted the jars years ago, then matched their two-handled, flat-base form to Egyptian finds from the pyramid era and returned to confirm the Bronze Age date."
-    },
-    {
-      "n": 15,
-      "headline": "Ukraine accuses SpaceX of suddenly throttling Starlink mid-mission as unwarned Russian missiles hit Kyiv",
-      "cat": "Elon / World",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/world/ukraine/ukraine-starlink-restrictions-military-intel-trump-zelenskyy-russia-rcna603412",
-      "image_local": "images/story-1042.jpg",
-      "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261014-kyiv-strike-rs-e69a55.jpg",
-      "id": "95d305764e2dfcbbc17ce08f9939f8083f0fd2cf",
-      "summary": "Ukrainian officials and frontline units say Elon Musk’s SpaceX imposed new speed limits on Starlink terminals overnight without notice, disrupting drone missions that rely on the service for in-flight control. Zelenskyy’s defense-tech adviser Serhii Beskrestnov said “a number of missions” failed and called the timing no coincidence given the political moment, and a Zaporizhzhia air-assault unit said it had to cancel operations. The complaints come as Kyiv reels from two Russian ballistic-missile strikes that arrived without the usual allied warning, amid Trump’s diesel deal with Moscow and pressure on Ukraine to stop hitting Russian refineries. Trump insists the U.S. is still sharing intelligence; SpaceX and the White House did not respond to NBC."
-    },
-    {
-      "n": 16,
-      "headline": "Jamaica takes its first flight of third-country deportees from the U.S. as the Supreme Court fight looms",
-      "cat": "Immigration",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/politics/jamaica-accepts-first-flight-third-country-deportations-us-amid-looming-supreme-court-battle",
-      "image_local": "images/story-1043.jpg",
-      "image_remote": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d1447090-2b9a-4429-9e16-e9e83bfe65c1/4d0df53e-b0b5-460f-9baf-64c9951fa88c/1280x720/match/896/500/image.jpg?ve=1&tl=1",
-      "id": "654f8905fd1159066ed4200365ffa8f9d5bf8655",
-      "summary": "Twenty-two migrants landed at Kingston’s Norman Manley International Airport on Tuesday, the first transfers under a memorandum Jamaica signed with the U.S. in June that caps arrivals at 25 every two weeks. The Trump administration uses third-country removals for migrants who say their home countries are too dangerous to return to. Jamaica’s government called it a transit arrangement, run with the International Organization for Migration to move people on to their home or other receiving countries, and said it won’t pay for it or accept anyone with a criminal record. The Supreme Court let the deportations continue in September and will weigh the policy’s legality in December; Liberia has agreed to take up to 1,200 third-country deportees within a year."
-    },
-    {
-      "n": 17,
-      "headline": "iPhone Duo repair price list is out: up to $1,499 without AppleCare+, $229 for a battery, $49 for the inner cover layer",
-      "cat": "Apple",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/10/14/iphone-duo-repair-fees/",
-      "image_local": "images/story-1044.jpg",
-      "image_remote": "https://images.macrumors.com/t/CF37ey2cPgDxE7XhXnqyT0kz1_Q=/1920x/article-new/2026/10/iphone-duo-feature.jpg",
-      "id": "1f48b04d0db6afe17c5c7a4e4b0b90a49d8b5fea",
-      "summary": "Two days before pre-orders open, Apple has posted its out-of-warranty repair fees for the foldable iPhone Duo, and the top “other damage” charge in the U.S. is $1,499 if you skip AppleCare+. Smaller jobs are more manageable: back glass is $199, a battery replacement is $229, and the removable nano-texture cover layer over the inner display — which Apple’s Kate Bergeron said owners can have swapped — is $49 ($19 with AppleCare+). AppleCare+ for the Duo costs $19.99 a month, $199.99 a year or $399 up front. Pre-orders begin Friday, Oct. 16, and the phone launches Friday, Oct. 23."
-    },
-    {
-      "n": 18,
-      "headline": "Four people who helped “Reckless Ben” in his viral LEGO fight sue American Fork, Utah, and 13 police officers",
-      "cat": "LEGO / courts",
-      "source": "KSL",
-      "url": "https://www.ksl.com/article/51636122/individuals-featured-in-reckless-ben-lego-videos-file-lawsuit-against-american-fork-officers",
-      "image_local": "images/story-1045.jpg",
-      "image_remote": "https://img.ksl.com/slc/3193/319375/31937581.jpeg?filter=kslv2/responsive_story_lg",
-      "id": "b5e2277490ccf69aa7fc52b4ba4c39613e3162b1",
-      "summary": "Four people featured in YouTuber Ben Schneider’s viral videos about the Bricks and Minifigs franchise filed a federal civil-rights suit Wednesday, saying American Fork police detained, searched, handcuffed, arrested and interrogated them without ever charging them. They had helped Schneider try to recover a Star Wars LEGO collection a family said an Oregon store never paid for under a consignment deal; the franchise has since closed and the family settled. The suit claims First and Fourth Amendment violations over traffic stops, phone seizures and warrants, blaming inexperienced, poorly trained officers. Bodycam footage of the encounters was accidentally released on the department’s Dropbox and fueled protests. Schneider himself still faces misdemeanor stalking and residential-picketing charges, with a hearing Dec. 16."
-    },
-    {
-      "n": 19,
-      "headline": "Police say a Pennsylvania mother stabbed her 3-year-old son and husband to death in a Great Wolf Lodge room",
-      "cat": "Crime / courts",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/news/us-news/pennsylvania-woman-stabbed-young-son-husband-death-great-wolf-lodge-wa-rcna603459",
-      "image_local": "images/story-1046.jpg",
-      "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261014-great-wolf-lodge-vl-1016a-22893f.jpg",
-      "id": "2f7845c1fcee33285982321862b6fe6e069ea836",
-      "summary": "Officers rushed to the Great Wolf Lodge water park in the Poconos on Monday afternoon after a woman in Room 2030 called dispatchers saying she needed help taking her own life. Police say 27-year-old Metallica Rose Harrison of Towanda had wounds when they arrived, and officers found her husband, Charles Harrison, and their 3-year-old son dead in the room, both stabbed in the chest. “My husband and son are already gone in the bed in the living room… I’m sorry,” she allegedly told the dispatcher. Pocono Township police call it an isolated domestic tragedy with no threat to the public; a judge ordered her held without bail Tuesday, and the resort says it is cooperating with investigators."
-    },
-    {
-      "n": 20,
-      "headline": "Inflation jumps to 3.7% as gasoline soars 9.1% in a month, in the last CPI report before the midterms",
-      "cat": "Economy",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/business/economy/inflation-jumped-september-gas-diesel-prices-squeezed-consumers-ahead-rcna603202",
-      "image_local": "images/story-1047.jpg",
-      "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261013-supermarket-ch-1136-55ffea.jpg",
-      "id": "67bc8fd0a16822177c0dfdc2a1887cae89345644",
-      "summary": "Consumer prices rose 3.7% from a year earlier in September and 0.6% from August, a bit hotter than the 3.6% economists expected, the Bureau of Labor Statistics said Wednesday. Gasoline jumped 9.1% in the month and drove more than half of the increase, as oil has climbed past $106 a barrel during the Iran war; unleaded gas is up 45% since late February. Housing, clothing and restaurant food also rose, while groceries were among the few categories that fell. Core inflation was 2.6%. Wages are growing about 3% a year, so paychecks haven’t outpaced prices since March. White House economist Kevin Hassett called it “a disappointing number.” The same data set gives Social Security recipients a 3.6% cost-of-living raise for 2027, the largest since 2022."
     }
   ]
 }
