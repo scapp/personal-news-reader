@@ -1196,7 +1196,14 @@
     "3b2a1fd2729d86709a36d29c2c0496a9884fc601",
     "e09f53998f8aea6e9adb5e12055729a9392fe9b7",
     "717505a96f8bb1f315a378df1571d545a9e1dd44",
-    "8644912a2e92103ef894921365b1c51cb915be2e"
+    "8644912a2e92103ef894921365b1c51cb915be2e",
+    "2e2da842251a82f7bb44cc81cb8104264819aebb",
+    "8d9c4d4378e10bd6fce94d666620f7658e1898d3",
+    "6e005cb706f628cc7f019325784f745be73aedf9",
+    "8bdc2d9279d263ff273b99d4c8ada5ee11a1e00a",
+    "2a080a1eebc38896f7e534318abb3c03f785c37b",
+    "9ad6da47ec623956cf5831c771c6337730c0f97b",
+    "1c5c5b899c127c6d6f30c59dfbd973ec2c2b4af2"
   ],
   "stories": {
     "0c2ac7a5e342411678296315c4c59043b1f067cc": {
@@ -14524,7 +14531,77 @@
       "image_remote": "https://petapixel.com/assets/uploads/2026/10/visit-hokkaido.jpg",
       "image_local": "images/story-1084.jpg",
       "id": "8644912a2e92103ef894921365b1c51cb915be2e"
+    },
+    "2e2da842251a82f7bb44cc81cb8104264819aebb": {
+      "headline": "Several killed in Bend, Oregon elementary school shooting; suspect also dead",
+      "cat": "Crime / courts",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/live-updates/oregon-silver-rail-elementary-shooting-bend/",
+      "summary": "Federal law enforcement officials told CBS News several people were killed in a Thursday shooting at Silver Rail Elementary School in Bend, Oregon, and the suspect was shot and killed. Bend Police said at least two people were taken to St. Charles Medical Center and that “the victims include children,” without clarifying whether those hospitalized were among the dead. Officers reached the school within about three minutes of a call reporting a shot into a car just before 1 p.m. local time; communications manager Sheila Miller said it was not yet clear who killed the suspect and that it “may have been a bystander.” The FBI and ATF were assisting local and state police.",
+      "image_remote": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/15/8eba7ee7-e0fa-4f71-9bbd-0c637b069046/thumbnail/1200x630/54a1358a88b6c00dfaf5799f5f75f2d0/the-bend-2.jpg",
+      "image_local": "images/story-1085.jpg",
+      "id": "2e2da842251a82f7bb44cc81cb8104264819aebb"
+    },
+    "8d9c4d4378e10bd6fce94d666620f7658e1898d3": {
+      "headline": "Amazon blocks Musk’s Grok Bot from shopping — and he floats building a rival store",
+      "cat": "AI / Elon",
+      "source": "Teslarati",
+      "url": "https://www.teslarati.com/elon-musk-grok-bot-amazon-shopping/",
+      "summary": "After a user posted Amazon’s error that “unauthorized AI agent” access violates its terms, Elon Musk told followers to have Grok Bot buy elsewhere for a better deal and later wrote, “Maybe we should start a competitor to Amazon.” Hours earlier he promised SpaceX will “make you whole” if Grok Bot botches a purchase or leaks a card — a guarantee he first floated in August. Amazon has been tightening blocks on third-party shopping agents (including Meta’s Muse). Grok Bot already runs in Tesla vehicles and across the Robotaxi fleet, so riders who ask for groceries or coffee depend on retailers that still let the agent in.",
+      "image_remote": "https://www.teslarati.com/wp-content/uploads/2026/10/elon-musk-sunset-amazon-grok-bot-1000x600.jpg",
+      "image_local": "images/story-1086.jpg",
+      "id": "8d9c4d4378e10bd6fce94d666620f7658e1898d3"
+    },
+    "6e005cb706f628cc7f019325784f745be73aedf9": {
+      "headline": "Jets Thursday injury report vs. Patriots: Hall, Mitchell, Ossai, Parham out of practice; Sadiq still limited",
+      "cat": "Jets",
+      "source": "New York Jets",
+      "url": "https://www.newyorkjets.com/news/jets-injury-report-week-6-vs-patriots-thursday-10-15-2026",
+      "summary": "Ahead of Sunday’s Week 6 trip to New England, the Jets listed running back Breece Hall (quad), wide receiver Adonai Mitchell (finger), edge Joseph Ossai (ankle), and offensive lineman Dylan Parham (knee) as did-not-participate Thursday. Rookie tight end Kenyon Sadiq (concussion) and wide receiver Omar Cooper Jr. (ankle) were limited again, with Sadiq still in the NFL’s five-step concussion protocol after last Sunday’s win over Cleveland. Safety Dane Belton (knee) was also limited; linebacker Francisco Mauigoa (quad) practiced fully. On the Patriots side, star wideout A.J. Brown (ankle) was limited as New England opened his return window.",
+      "image_remote": "",
+      "image_local": "",
+      "id": "6e005cb706f628cc7f019325784f745be73aedf9"
+    },
+    "8bdc2d9279d263ff273b99d4c8ada5ee11a1e00a": {
+      "headline": "Company that bolted gas engines into Teslas goes bankrupt owing about $37 million",
+      "cat": "Tesla",
+      "source": "Electrek",
+      "url": "https://electrek.co/2026/10/15/obrist-hyperhybrid-gas-engine-tesla-bankruptcy/",
+      "summary": "Austrian engineering firm Obrist — known for stripping Tesla Model 3 and Model Y battery packs and installing “HyperHybrid” gas or methanol range extenders in the frunk — is insolvent with about €31.8 million (~$37 million) in combined debts across three companies. Feldkirch Regional Court opened bankruptcy for Obrist Powertrain and Obrist Technologies at the end of September; both told the court they would shut down immediately with no restructuring. Founder Frank Obrist blamed high R&D costs, failed investor talks, and Europe’s auto crisis. The firm never shipped a production car despite years of show demos, methanol “aFuel” pitches, and lobbying against the EU’s 2035 combustion ban.",
+      "image_remote": "https://electrek.co/wp-content/uploads/sites/3/2026/10/obrist-Tesla-Model-3-gas-engine.jpeg?quality=82&strip=all&resize=1200,628",
+      "image_local": "images/story-1087.jpg",
+      "id": "8bdc2d9279d263ff273b99d4c8ada5ee11a1e00a"
+    },
+    "2a080a1eebc38896f7e534318abb3c03f785c37b": {
+      "headline": "Naugatuck man arrested on federal complaint for online threats to kill Republicans and a public official",
+      "cat": "Local / Connecticut",
+      "source": "Patch Naugatuck",
+      "url": "https://patch.com/connecticut/naugatuck/naugatuck-man-accused-making-online-threats-against-republican-party-public",
+      "summary": "Scott Dyer, 35, of Naugatuck was arrested on a federal criminal complaint charging him with making interstate threats after allegedly posting YouTube comments on Oct. 8–9 saying he was “prepared to kill Republicans,” had local targets selected, kept “hundreds of people in an excel spreadsheet,” and would “head to the capitol tomorrow to assassinate” an unnamed high-ranking official, U.S. Attorney David Sullivan and FBI New Haven’s P.J. O’Brien said. Other posts allegedly referred to stockpiling guns, ammo, and explosive precursors. He appeared in Bridgeport Wednesday and was released on $100,000 bond into home confinement with electronic monitoring; the charge carries up to five years.",
+      "image_remote": "",
+      "image_local": "",
+      "id": "2a080a1eebc38896f7e534318abb3c03f785c37b"
+    },
+    "9ad6da47ec623956cf5831c771c6337730c0f97b": {
+      "headline": "Porsche unveils Mission S mid-engine supercar as a permanent lineup fixture above the 911",
+      "cat": "Cars",
+      "source": "The Drive",
+      "url": "https://www.thedrive.com/news/porsche-mission-s-revealed-new-mid-engine-supercar-gets-a-permanent-place-in-the-lineup",
+      "summary": "Porsche pulled the sheet off the Mission S on Thursday, a mid-engine performance car it says will sit above the 911 as a lasting model — not a one-off hypercar. The concept borrows GT1-style front cues and 959-ish rear shapes, with a 917-style whirling radiator fan atop the engine. Porsche kept the powertrain secret beyond confirming internal combustion (speculation points at a new flat-eight) and a PDK-style automatic with PRND and paddles. The cabin is aggressively driver-focused — five circular gauges, left-side key, tach that moves closer in some modes — and notably skips a center touchscreen. Pricing isn’t official; German reporting has floated half-million-dollar territory.",
+      "image_remote": "https://www.thedrive.com/wp-content/uploads/2026/10/Mission-S-Hero-1.jpg?quality=85&w=1200",
+      "image_local": "images/story-1088.jpg",
+      "id": "9ad6da47ec623956cf5831c771c6337730c0f97b"
+    },
+    "1c5c5b899c127c6d6f30c59dfbd973ec2c2b4af2": {
+      "headline": "Dave Mustaine’s memoir In My Darkest Hour debuts at No. 4 on the New York Times bestseller list",
+      "cat": "Music / metal",
+      "source": "Blabbermouth",
+      "url": "https://blabbermouth.net/news/megadeth-leader-dave-mustaines-new-memoir-in-my-darkest-hour-is-a-new-york-times-best-seller",
+      "summary": "Megadeth founder Dave Mustaine’s new memoir, In My Darkest Hour (co-written with Joe Layden), debuted at No. 4 on the New York Times Hardcover Nonfiction best sellers list after its Sept. 8 release via Grand Central’s Da Capo imprint. The book covers his 2019 tongue-cancer diagnosis, chemo and radiation, and how he went from treatment rooms straight into sessions for The Sick, The Dying … And The Dead! while leaning on family and faith. Megadeth is closing its career on a high: the self-titled final studio album debuted at No. 1 on the Billboard 200, the band’s biggest chart week yet, with the farewell tour underway.",
+      "image_remote": "https://assets.blabbermouth.net/media/davemustainedarkestbookside2aug2026_638.jpg",
+      "image_local": "images/story-1089.jpg",
+      "id": "1c5c5b899c127c6d6f30c59dfbd973ec2c2b4af2"
     }
   },
-  "updated": "Thursday, October 15, 2026 · 4:08 PM ET"
+  "updated": "Thursday, October 15, 2026 · 6:13 PM ET"
 }
