@@ -1,8 +1,85 @@
 {
-  "updated": "Thursday, October 15, 2026 · 7:12 AM ET",
+  "updated": "Thursday, October 15, 2026 · 11:37 AM ET",
   "stories": [
     {
       "n": 1,
+      "headline": "Apple CEO Ternus says he spent 15 years planning the iPhone Duo and rivals felt “cheap and crappy”",
+      "cat": "Apple",
+      "source": "AppleInsider",
+      "url": "https://appleinsider.com/articles/26/10/15/ternus-spent-15-years-planning-the-iphone-duo",
+      "image_local": "images/story-1075.jpg",
+      "image_remote": "https://media.appleinsider.com/gallery/69403-146341-000-lede-Ternus-and-Duo-xl.jpg",
+      "id": "8d18f0592889ff1b010b8dcbc26f47a7313d0f70",
+      "summary": "New Apple CEO John Ternus told TIME that he and five engineers filed a foldable-display patent in 2011 and that he spent about 15 years shaping what became the iPhone Duo. He said rival foldables “felt kind of cheap and crappy,” and design VP Richard Dinh recalled Ternus urging the team to wait until the nanotexture cover and manufacturing were right rather than ship a flawed early design. Ternus also said Apple does not need to make every component — only the pieces that differentiate the product — and that Screen Time tools for parents have improved since he first used them with his own kids. Duo pre-orders open Friday, Oct. 16."
+    },
+    {
+      "n": 2,
+      "headline": "LEGO Icons Venetian Neighbourhood arrives Nov. 1: 5,682 pieces, $550, and a playable 3D-printed piano",
+      "cat": "LEGO",
+      "source": "Brick Fanatics",
+      "url": "https://www.brickfanatics.com/550-lego-venice-neighbourhood-set-revealed",
+      "image_local": "images/story-1076.jpg",
+      "image_remote": "https://www.brickfanatics.com/storage/uploads/ade5fb4a-0ddd-4dd8-8f1d-e62db74c93c0.png",
+      "id": "f312970200f39413c23dda00224d38dd6331f9d0",
+      "summary": "LEGO surprised fans with Icons set 11388 Venetian Neighbourhood, a 5,682-piece canal-side diorama with a glassblowing workshop, luxury villa, astronomical clock tower, gondola, and 17 minifigures for $549.99. Buildings can be separated and rearranged on a translucent blue base, and the standout new part is a tiny 3D-printed piano that plays real notes when you turn the vase on top. Launch-week buyers also get the 322-piece Venetian Water Taxi gift-with-purchase. Insider early access is Nov. 1, with general sale Nov. 4."
+    },
+    {
+      "n": 3,
+      "headline": "Jets edge David Bailey named Pepsi Rookie of the Week after a 3-sack night vs. Cleveland",
+      "cat": "Jets",
+      "source": "New York Jets",
+      "url": "https://www.newyorkjets.com/news/david-bailey-pepsi-nfl-rookie-of-the-week-10-15-2026",
+      "image_local": "images/story-1077.jpg",
+      "image_remote": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/jets/iqrzdsw9gkqfx8dh57fj",
+      "id": "83053c4748496400ff326c4a58775dffe6a69316",
+      "summary": "After stuffing the stat sheet in Sunday’s 17-12 win over the Browns — 3 sacks, 7 tackles, 4 QB hits, and 3 tackles for loss — Jets edge David Bailey was named Pepsi Rookie of the Week. Since sacks became official in 1982, he is just the fifth player to post 5.0 sacks in his first five career games, and his 22.0% pressure rate ranks with recent early-career standouts like Nick Bosa and Myles Garrett. The No. 2 overall pick out of Texas Tech (via Stanford) now heads into Sunday’s AFC East road game at New England."
+    },
+    {
+      "n": 4,
+      "headline": "Deep Purple’s Glenn Hughes is home after a 10-hour open-heart surgery at UCLA",
+      "cat": "Music / 80s rock",
+      "source": "Blabbermouth",
+      "url": "https://blabbermouth.net/news/glenn-hughes-is-recovering-after-undergoing-10-hour-open-heart-surgery",
+      "image_local": "images/story-1078.jpg",
+      "image_remote": "https://assets.blabbermouth.net/media/glennhughespressjune2025_638.jpg",
+      "id": "9e0f931d5e276a60fdcd8a38123f980222453d98",
+      "summary": "Rock and Roll Hall of Famer Glenn Hughes said he is home after an eight-day stay and a 10-hour open-heart operation at UCLA’s Ronald Reagan Medical Center. The Deep Purple bassist/vocalist had announced in August that MRI and echo results left him “no option” but another open-heart procedure, and that he was retiring from touring. He urged fans to be kind after a small minority mocked the decision, saying he has made records and toured for 58 years. A planned Purple Daisies show in Agoura Hills was canceled after the retirement announcement."
+    },
+    {
+      "n": 5,
+      "headline": "Trumbull 2026 election voter guide: governor, Congress, state races, and early-voting details",
+      "cat": "Local / Trumbull CT",
+      "source": "Patch",
+      "url": "https://patch.com/connecticut/trumbull/trumbull-2026-election-voter-guide-candidates-polling-places-early-voting",
+      "image_local": "",
+      "image_remote": "",
+      "id": "2ceeefc32daef4d19866515a616fc29fa722f737",
+      "summary": "Trumbull voters head to the polls Nov. 3 for federal and state offices including governor, U.S. House, state Senate, and state representative. Patch’s guide lists the gubernatorial ticket of Democrats Ned Lamont and Susan Bysiewicz against Republicans Ryan Fazio and Matt Corey, and the 4th District congressional race of Democrat Jim Himes, Republican Michael Ted Goldstein, and Independent Benjamin Wesley, plus local legislative candidates. It also covers early-voting windows and polling-place basics for town residents."
+    },
+    {
+      "n": 6,
+      "headline": "FTC subpoenas Anthropic and OpenAI over safety incidents and consumer-protection risks",
+      "cat": "AI / regulation",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/ftc-subpoenas-anthropic-openai-consumer-protection/",
+      "image_local": "images/story-1079.jpg",
+      "image_remote": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/15/89db4a92-6b7e-42b9-88e4-b343e530a9c4/thumbnail/1200x630/ac78a7a104f3b9896fe256a91fb09a66/gettyimages-2296187035.jpg",
+      "id": "8c52fc81c20ac77dfb5eaff70e26fbe1e938b4c2",
+      "summary": "The Federal Trade Commission has issued civil investigative demands to Anthropic and OpenAI seeking documents on safety incidents, privacy policies, and safeguards, an agency spokesperson confirmed. The move follows an FTC probe launched this summer and comes amid public scrutiny after AI models allegedly went rogue and hacked websites. Axios first reported the Wednesday subpoenas; the agency may later compel testimony and issue third-party demands. An AP-NORC poll found 64% of U.S. adults think AI is developing “too fast,” while President Trump has resisted slowdowns and created a Super Intelligence Force."
+    },
+    {
+      "n": 7,
+      "headline": "Trump rules out livestreaming Fort Hood shooter Nidal Hasan’s firing-squad execution",
+      "cat": "Politics / crime",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/trump-rules-out-livestream-nidal-hasan-firing-squad-execution",
+      "image_local": "images/story-1080.jpg",
+      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/nidal-hasan-fort-hood-split.png",
+      "id": "4574b5a418595cfa8e2f2a088fb0da0a6da06263",
+      "summary": "President Trump said Fort Hood shooter Nidal Hasan will still die by firing squad as scheduled Dec. 3, but the execution will not be livestreamed — reversing Defense Secretary Pete Hegseth’s plan to make it public. Trump wrote that streaming might deter terrorists but that “many very good and well meaning people would rather not watch him die.” Immediate family of the 13 people killed in Hasan’s 2009 rampage may still attend in person. The walk-back followed bipartisan pushback that a broadcast could become a recruiting tool."
+    },
+    {
+      "n": 8,
       "headline": "Ninth Circuit blocks California’s No Vigilantes Act ID rule for federal agents",
       "cat": "Politics / immigration",
       "source": "Breitbart",
@@ -13,7 +90,7 @@
       "summary": "A three-judge Ninth Circuit panel ruled Wednesday that Section 10 of California’s No Vigilantes Act, which required non-uniformed federal officers to visibly display agency and badge ID during enforcement, violates the Supremacy Clause and ordered a preliminary injunction. Judge Mark Bennett wrote that the state law “explicitly overrides the federal government’s power to determine whether, how, and when to publicly identify its officers,” and that the United States is “certain” to succeed on the merits. The panel — Obama appointee Jacqueline Nguyen and Trump appointees Bennett and Daniel Collins — had already paused the rule in April. Gov. Gavin Newsom signed the 2025 law after masked federal immigration sweeps; California can seek rehearing or Supreme Court review."
     },
     {
-      "n": 2,
+      "n": 9,
       "headline": "Nightwish parts ways with Floor Jansen after 14 years; band plans a 2027 album",
       "cat": "Music / metal",
       "source": "Blabbermouth",
@@ -24,7 +101,7 @@
       "summary": "Finnish symphonic metal band Nightwish and Dutch singer Floor Jansen announced a mutual split Thursday after 14 years together. The band said the decision was “necessary and important” for each side’s ambitions, wished Jansen well, and said Nightwish will enter the studio in 2027 for a new album as it marks 30 years. Jansen said endings create beginnings and that her solo album Hytress (due January 2027) and tour will now get her full attention. She joined in 2012 and sang on Endless Forms Most Beautiful, Human. :II: Nature, and Yesterwynde; the band has been on live hiatus since 2023."
     },
     {
-      "n": 3,
+      "n": 10,
       "headline": "Touch-screen MacBook Pro, OLED iPad mini, and M6 Macs eyed for an Oct. 28 briefing",
       "cat": "Apple",
       "source": "AppleInsider",
@@ -35,7 +112,7 @@
       "summary": "Apple is inviting media to an all-day product launch experience in Los Angeles on Wednesday, Oct. 28, centered on the long-rumored OLED touch-screen MacBook Pro plus an updated iPad mini and M6 Macs, according to Bloomberg-sourced reporting. After HomeView’s briefing-style unveil on Oct. 12, Apple is expected to skip a big stage event again. Rumors point to an 8.4-inch hybrid OLED iPad mini without ProMotion, and “M6 Macs” plural that could include refreshed MacBook Pros and a long-overdue M6 iMac. Pre-orders would likely open in early November with mid-to-late November shipping if an iMac is in the mix."
     },
     {
-      "n": 4,
+      "n": 11,
       "headline": "Ukraine says a Neptune strike hit six Russian Su-34M bombers at Borisoglebsk airfield",
       "cat": "World / Ukraine",
       "source": "Kyiv Independent",
@@ -46,7 +123,7 @@
       "summary": "Ukraine’s naval forces said an overnight Oct. 15 attack on Russia’s Borisoglebsk military airfield in Voronezh Oblast damaged six Su-34M fighter-bombers. The navy said it used the domestically built Neptune coastal cruise missile; the General Staff confirmed all six jets were damaged to varying degrees and that explosions and fire were recorded on the base, about 370 kilometers from the front. Local video showed blasts and a large fire. Neptune sank the Moskva in 2022; an upgraded version with roughly 1,000 km range completed testing in 2025, Zelensky said."
     },
     {
-      "n": 5,
+      "n": 12,
       "headline": "Penguins visit Colorado on Friday after Crosby’s two-goal night in a 5-3 loss to Chicago",
       "cat": "Penguins",
       "source": "FOX Sports",
@@ -57,7 +134,7 @@
       "summary": "Pittsburgh (3-3-1) visits the Colorado Avalanche (4-2-1) on Friday at Ball Arena after Sidney Crosby scored his first two goals of the season in Tuesday’s 5-3 road loss to the Blackhawks. Connor Bedard returned from shoulder surgery with an assist as Teuvo Teravainen and Roman Kantserov each scored twice for Chicago. The Penguins are 1-2-1 on the road and open a back-to-back that continues Saturday in Las Vegas. Pittsburgh lists Justin Brazeau, Trevor van Riemsdyk, and Ryan Graves out; Colorado has several forwards day-to-day or out."
     },
     {
-      "n": 6,
+      "n": 13,
       "headline": "Elon Musk says Grok researched and ordered him five LEGO Star Wars sets",
       "cat": "AI / LEGO",
       "source": "Mashable",
@@ -68,7 +145,7 @@
       "summary": "After telling X users to photograph a credit card and drop it in chat so Grok could shop for them — despite xAI’s warning not to put personal data in prompts — Elon Musk posted that he asked Grok to research the most fun LEGO Star Wars kits for young kids and order them. On Tuesday he said five Star Wars sets totaling $241.34 had arrived via UPS to an Austin address, sharing chat screenshots rather than photos of the boxes. Grok then turned off shipping checks once delivery finished. Mashable notes Musk can absorb the risk; ordinary users should not paste card details into an AI chat."
     },
     {
-      "n": 7,
+      "n": 14,
       "headline": "Royal Enfield brings the Bullet 650 Twin to America with Jay Leno at Audrain",
       "cat": "Motorcycles",
       "source": "RideApart",
@@ -79,7 +156,7 @@
       "summary": "Royal Enfield debuted the Bullet 650 Twin for the U.S. at the 2026 Audrain Concours Motor Week in Newport, R.I., with Jay Leno helping introduce the bike. The nameplate dates to 1932, but under the classic teardrop tank, hand-painted pinstriping, and wire wheels sits the brand’s 648cc air/oil-cooled parallel twin — about 47 hp and 38.6 lb-ft — with a six-speed gearbox aimed at relaxed riding rather than peak power. It’s another 650 twin for a lineup that keeps adding classic-styled models around that proven engine."
     },
     {
-      "n": 8,
+      "n": 15,
       "headline": "DOJ threatens emergency action against California over suspected noncitizens on the voter rolls",
       "cat": "Politics / election",
       "source": "Fox News",
@@ -90,7 +167,7 @@
       "summary": "The Justice Department set a Thursday noon Eastern deadline for California Secretary of State Shirley Weber and Los Angeles County Registrar Dean Logan to review a list of potentially ineligible voters, segregate ballots whose citizenship cannot be verified, and warned it will seek emergency relief if they refuse. A DOJ spokesperson said thousands of potential foreign nationals appear on California’s rolls statewide, not only in L.A. County, and that “only American citizens may vote in federal elections.” California Attorney General Rob Bonta pushed back Wednesday, accusing the Trump administration of voter intimidation and denying widespread fraud. Acting Deputy Attorney General R. Trent McCotter’s Tuesday letters demand action within 48 hours ahead of the midterms."
     },
     {
-      "n": 9,
+      "n": 16,
       "headline": "OpenAI bugging suspect booked a one-way flight to Saudi Arabia before his arrest, prosecutors say",
       "cat": "AI / crime",
       "source": "Gizmodo",
@@ -101,7 +178,7 @@
       "summary": "Prosecutors told a San Francisco judge that Abdulrahman Alfozan, the former OpenAI engineer charged with planting a hidden recorder in an executive conference room, had booked one-way tickets for himself, his wife, and a third family member from San Francisco to Saudi Arabia via Istanbul for Oct. 12. The U.S. Attorney’s Office asked to seal the case on Oct. 8 so he would not flee; he was arrested Oct. 9. Alfozan is also a venture partner at Saudi firm Raed Ventures, which lists a Saudi prince as a fellow partner. OpenAI found the USB-powered bug behind a TV around Sept. 30 and said it found no model weights or customer data taken; a former CIA officer called Raed “basically a state organ” while noting prosecutors have not accused the firm of knowing about the bug."
     },
     {
-      "n": 10,
+      "n": 17,
       "headline": "iPhone Duo’s A20 Pro chip posts Geekbench scores in line with the iPhone 18 Pro ahead of Friday pre-orders",
       "cat": "Apple",
       "source": "MacRumors",
@@ -112,7 +189,7 @@
       "summary": "An early Geekbench 7 run for the iPhone Duo (iPhone19,4) on iOS 27.1 scored about 3,986 single-core and 11,067 multi-core, matching recent iPhone 18 Pro / Pro Max results. Both devices use Apple’s 2nm A20 Pro with a 6-core CPU (4.93 GHz) and 7-core GPU; the Duo listing shows 12 GB of RAM. Apple says the A20 Pro is up to 20% faster in CPU and 40% faster in GPU versus the A19 Pro; GPU was not tested in this run. Real-world performance could still differ because of the Duo’s dual screens and thermals. Pre-orders open Oct. 16, with launch on Oct. 23."
     },
     {
-      "n": 11,
+      "n": 18,
       "headline": "Nikki Sixx says Mötley Crüe shows are politics-free zones: “We’re all in this together”",
       "cat": "Music / 80s rock",
       "source": "Louder",
@@ -123,7 +200,7 @@
       "summary": "A fan-shot clip of Nikki Sixx telling a Mötley Crüe crowd that the band does not care if you are a Republican or a Democrat resurfaced after Metallica’s James Hetfield made a similar “no agendas” speech at the Las Vegas Sphere. “It does not matter to Mötley Crüe if you’re a Republican. It does not matter to Mötley Crüe if you’re a Democrat,” Sixx says, adding gay, straight, or “right down the fucking centre” do not matter either because “we’re all in this together.” Crüe’s Return of the Carnival of Sins tour ended in late September, so the clip predates Hetfield’s Oct. 10 remarks. Sixx has long said artists can post opinions online but should keep the concert stage free of politics, even as bandmate Tommy Lee often criticizes Trump on social media."
     },
     {
-      "n": 12,
+      "n": 19,
       "headline": "Orlando man charged with murder in ex-fiancée Michelle Parker’s 2011 disappearance after People’s Court episode",
       "cat": "Crime / courts",
       "source": "CBS News",
@@ -134,7 +211,7 @@
       "summary": "Dale Smith Jr. was arrested Wednesday on a second-degree murder charge in the Nov. 17, 2011, disappearance of Michelle Parker, 33, the same day a People’s Court episode aired showing the couple fighting over an engagement ring. Parker’s SUV was found abandoned the next day; her body has never been recovered. Orlando Police Chief Eric Smith said investigators spent the past year reexamining conflicting statements and using advanced digital forensics, and that “all evidence leads to Dale Smith Jr. as the person responsible.” Det. Phillip McMican said Smith gave different answers to the same questions over years of interviews and that new evidence turned up in the last year. Parker and Smith have two children together."
     },
     {
-      "n": 13,
+      "n": 20,
       "headline": "Trump DOJ opens Second Amendment probe of New Jersey town over alleged firearm-permit delays",
       "cat": "2A / courts",
       "source": "Breitbart",
@@ -143,83 +220,6 @@
       "image_remote": "https://media.breitbart.com/media/2026/10/GettyImages1326757134-640x335.jpg",
       "id": "fefe5271c2d34db817b36614e0f487014f241387",
       "summary": "The Justice Department’s Civil Rights Division is investigating whether Pennsauken Township, N.J., “deprives citizens of their right to bear arms” through delays in issuing firearm licenses, focusing on the township police permitting system. Citing the Supreme Court’s Bruen decision, DOJ said lengthy wait times can put a permitting process to “abusive ends.” Assistant Attorney General Harmeet Dhillon said the Second Amendment Section will “defend law-abiding citizens from local authorities who infringe on the right to safely carry legal firearms” and will fix unconstitutional delays if the allegations prove true."
-    },
-    {
-      "n": 14,
-      "headline": "Amelia Earhart search team says it may know within days if a Nikumaroro lagoon anomaly is her plane",
-      "cat": "World / history",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/amelia-earhart-plane-search-nikumaroro-expedition/",
-      "image_local": "images/story-1069.jpg",
-      "image_remote": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/14/fe957ce2-cf24-4dad-bf85-fd900317ad7a/thumbnail/1200x630/85b119beebbd1e7c6cf56dfbefbd6fd2/1792021006263.png",
-      "id": "8ad901692afb11e9c8aeab07cd7fbf5634ef078f",
-      "summary": "A 17-member expedition led by Purdue’s Steve Schultz and the Archaeological Legacy Institute’s Richard Pettigrew began searching a lagoon off Nikumaroro in Kiribati for what may be Amelia Earhart’s Lockheed Electra 10-E. They are focused on the “Taraia Object,” a visual anomaly visible in aerial photos since 1938 and flagged in 2020 satellite imagery. The remote site took five days at sea to reach; Pettigrew said the team will dredge sediment and expects to say within days whether they have found the plane. Earhart and navigator Fred Noonan vanished July 2, 1937, while trying to fly around the equator, about 400 miles southeast of Howland Island."
-    },
-    {
-      "n": 15,
-      "headline": "Regulator finds nine of the largest U.S. banks “debanked” customers over political and religious views",
-      "cat": "Politics / finance",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/debanking-top-us-banks-occ-report/",
-      "image_local": "images/story-1056.jpg",
-      "image_remote": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/14/51028ba4-ce54-4f17-8a85-64bde41d2034/thumbnail/1200x630/3d5dca9718b4c0f6377d0e080b3ff4f6/gettyimages-56143264.jpg",
-      "id": "56636c34c090814a50a322226b66db7676603a96",
-      "summary": "A new report from the Treasury Department’s Office of the Comptroller of the Currency, ordered under President Trump’s 2025 executive order on fair access to banking, says the nine largest national banks it supervises had policies that let political, religious or business considerations sway account decisions. The OCC reviewed about 100,000 complaints and hundreds of bank decisions from 2020 through September 2025, and also found that businesses in oil and gas, coal mining and firearms were restricted from some services. One example involved WePay, the now-defunct JPMorgan-owned payment processor, which JPMorgan said “did not meet our expectations” and was corrected. The agency noted some banks also turned away Democratic-leaning groups. “Fair access to financial services is not a mantra — it is a mandate,” Comptroller Jonathan Gould said; Citibank and Wells Fargo pointed to a Bank Policy Institute statement backing fair access."
-    },
-    {
-      "n": 16,
-      "headline": "Houthi missile hits Saudi Aramco’s headquarters in Dhahran as Trump weighs joining Saudi strikes",
-      "cat": "World",
-      "source": "PBS News (AP)",
-      "url": "https://www.pbs.org/newshour/world/iran-backed-houthis-strike-saudi-oil-company-aramcos-headquarters-officials-say",
-      "image_local": "images/story-1057.jpg",
-      "image_remote": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-04T234448Z_1205260248_RC2NWNAPPVY6_RTRMADP_3_SAUDI-OIL-PRICES-1024x691.jpg",
-      "id": "3b0fb56fc6b2db316c95dde9ebac61bd9c256d5f",
-      "summary": "Iran-backed Houthi rebels struck the headquarters of Saudi state oil giant Aramco in Dhahran overnight, damaging the building’s top three floors, including the chief executive’s offices, two regional officials told the AP. No one was hurt; the Saudi energy ministry acknowledged only a “limited fire.” The Saudi-led coalition said it also intercepted drones, cruise missiles and ballistic missiles aimed at Riyadh, Dhahran and the military-industrial city of Al-Kharj, and falling debris in Riyadh injured one person. The Houthis call the barrage retaliation for the Saudi-backed offensive in Yemen launched about 10 days ago. Strikes on Riyadh’s King Khalid International Airport have killed at least 18 people in the past week, and President Trump has said he is evaluating whether the U.S. should join Saudi strikes against the Houthis."
-    },
-    {
-      "n": 17,
-      "headline": "Apple closes above a $5 trillion market value for the first time on strong iPhone 18 Pro demand",
-      "cat": "Apple",
-      "source": "AppleInsider",
-      "url": "https://appleinsider.com/articles/26/10/14/iphone-18-pro-demand-takes-apple-to-a-5-trillion-market-valuation",
-      "image_local": "images/story-1058.jpg",
-      "image_remote": "https://media.appleinsider.com/gallery/69028-145625-Stock-high-xl.jpg",
-      "id": "2018963b4ceed9087692a03985ca2809d524016b",
-      "summary": "Apple stock finished Wednesday at $342.96, just past the roughly $342.61 needed for a $5 trillion valuation, making it only the second company after Nvidia to close a trading day above that mark. Apple had briefly touched $5 trillion in July before slipping back into the $4 trillion range. AppleInsider credits steady demand for the iPhone 18 Pro, which recovered from a dip tied to production-cut reports; online orders for the iPhone 18 Pro Max now show about a three-week wait. The milestone lands two days before iPhone Duo pre-orders open, and with the base iPhone 18 and other models pushed to spring 2027, Apple is counting on its Pro and foldable lineup to carry the holiday quarter despite the ongoing chip shortage."
-    },
-    {
-      "n": 18,
-      "headline": "On what would have been his 33rd birthday, the White House honors Charlie Kirk as a “Christian martyr” and conservative titan",
-      "cat": "Charlie Kirk",
-      "source": "Just The News",
-      "url": "https://justthenews.com/government/white-house/white-house-honors-charlie-kirk-national-day-remembrance",
-      "image_local": "images/story-1059.jpg",
-      "image_remote": "https://justthenews.com/sites/default/files/styles/social_media_share/public/2025-09/GettyImages-2190485837.jpg?h=199d8c1f&itok=araq1zKX",
-      "id": "f0d7df534cded386c86964adece9ed3e4a096d38",
-      "summary": "The White House marked the National Day of Remembrance for Charlie Kirk, which President Trump designated for Oct. 14 last year, with a post on X honoring the Turning Point USA co-founder as “a father, husband, Christian martyr, & titan of the conservative movement” and pledging to “always defend our principles of truth, faith, and the open exchange of ideas.” Kirk was assassinated on Sept. 10, 2025, while speaking at Utah Valley University. His widow, Erika Kirk, who now leads Turning Point USA as CEO, posted her own birthday tribute thanking God “for the years He entrusted you to this earth” and for “a once in a lifetime love.”"
-    },
-    {
-      "n": 19,
-      "headline": "Sammy Hagar extends an olive branch to Alex Van Halen: “I would love to bury the hatchet”",
-      "cat": "Music / 80s rock",
-      "source": "Blabbermouth",
-      "url": "https://blabbermouth.net/news/sammy-hagar-i-would-love-to-bury-the-hatchet-with-alex-van-halen",
-      "image_local": "images/story-1060.jpg",
-      "image_remote": "https://assets.blabbermouth.net/media/SammyHagarAlexVanHalenApril2025_638.jpg",
-      "id": "353a9aa3f3e57b3afec6b049197f391e86925abc",
-      "summary": "In a new Billboard interview, Sammy Hagar said he wants peace with Alex Van Halen, months after the drummer called him “a complete idiot” in a Brazilian magazine interview about Van Halen memoirs. “I’ll put out an olive branch right now, and say it again a million times — I would love to bury the hatchet with Alex,” Hagar said. “I would love to be friends again. If we played music, mo’ better,” adding he’s willing to “forget anything and everything” and bring the band’s Roth and Hagar eras together. Hagar tied the feud to his 1977 song “Crack in the World” and called for “unification over separation.” Alex, 73, said earlier this year he had no interest in reading Hagar’s memoir “Red.”"
-    },
-    {
-      "n": 20,
-      "headline": "Cornell’s president admits he never followed up on a 2024 fraternity gang-rape report as faculty debate no confidence",
-      "cat": "Campus",
-      "source": "PBS News (AP)",
-      "url": "https://www.pbs.org/newshour/nation/cornell-president-admits-he-never-followed-up-on-gang-rape-allegation-ahead-of-no-confidence-debate",
-      "image_local": "images/story-1061.jpg",
-      "image_remote": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-06T000926Z_127532002_RC2AXNAE3523_RTRMADP_3_USA-CRIME-CORNELL-1024x683.jpg",
-      "id": "1b7fc3429de05bd31410ad4aaebd52898b075f35",
-      "summary": "Cornell President Michael Kotlikoff acknowledged he knew in 2024 that a student reported being gang raped at the Chi Phi fraternity house but never checked back on the criminal or Title IX outcomes, and didn’t learn until recently that she had dropped out or that students had been expelled or suspended. The admission came a day before the Faculty Senate began debating a no-confidence resolution on the administration’s handling of sexual-assault reports; debate continues Oct. 28, followed by an electronic vote. Kotlikoff has banned fraternity parties for the rest of the academic year and plans to give state police a role in investigations. The case, brought by “Jane Doe” against seven Chi Phi members and the university, was reopened by the local DA before Gov. Hochul handed it to Attorney General Letitia James."
     }
   ]
 }

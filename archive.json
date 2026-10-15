@@ -1182,7 +1182,14 @@
     "6abfcb009eb96e083bfe71dca28ffba2a09fce09",
     "6d1b7ec7e7e4df9036a38a4eee3eb63aca6bff89",
     "955fe240b4fc7cca258676d4ff70cb156015c806",
-    "322a287d1be73c73caed8403cd0b3ce7bd0c3bb7"
+    "322a287d1be73c73caed8403cd0b3ce7bd0c3bb7",
+    "8d18f0592889ff1b010b8dcbc26f47a7313d0f70",
+    "f312970200f39413c23dda00224d38dd6331f9d0",
+    "83053c4748496400ff326c4a58775dffe6a69316",
+    "9e0f931d5e276a60fdcd8a38123f980222453d98",
+    "2ceeefc32daef4d19866515a616fc29fa722f737",
+    "8c52fc81c20ac77dfb5eaff70e26fbe1e938b4c2",
+    "4574b5a418595cfa8e2f2a088fb0da0a6da06263"
   ],
   "stories": {
     "0c2ac7a5e342411678296315c4c59043b1f067cc": {
@@ -14370,7 +14377,77 @@
       "image_remote": "https://cdn.motor1.com/images/mgl/0eppj3/s1/npesj3in2ou.jpg",
       "image_local": "images/story-1074.jpg",
       "id": "322a287d1be73c73caed8403cd0b3ce7bd0c3bb7"
+    },
+    "8d18f0592889ff1b010b8dcbc26f47a7313d0f70": {
+      "headline": "Apple CEO Ternus says he spent 15 years planning the iPhone Duo and rivals felt “cheap and crappy”",
+      "cat": "Apple",
+      "source": "AppleInsider",
+      "url": "https://appleinsider.com/articles/26/10/15/ternus-spent-15-years-planning-the-iphone-duo",
+      "summary": "New Apple CEO John Ternus told TIME that he and five engineers filed a foldable-display patent in 2011 and that he spent about 15 years shaping what became the iPhone Duo. He said rival foldables “felt kind of cheap and crappy,” and design VP Richard Dinh recalled Ternus urging the team to wait until the nanotexture cover and manufacturing were right rather than ship a flawed early design. Ternus also said Apple does not need to make every component — only the pieces that differentiate the product — and that Screen Time tools for parents have improved since he first used them with his own kids. Duo pre-orders open Friday, Oct. 16.",
+      "image_remote": "https://media.appleinsider.com/gallery/69403-146341-000-lede-Ternus-and-Duo-xl.jpg",
+      "image_local": "images/story-1075.jpg",
+      "id": "8d18f0592889ff1b010b8dcbc26f47a7313d0f70"
+    },
+    "f312970200f39413c23dda00224d38dd6331f9d0": {
+      "headline": "LEGO Icons Venetian Neighbourhood arrives Nov. 1: 5,682 pieces, $550, and a playable 3D-printed piano",
+      "cat": "LEGO",
+      "source": "Brick Fanatics",
+      "url": "https://www.brickfanatics.com/550-lego-venice-neighbourhood-set-revealed",
+      "summary": "LEGO surprised fans with Icons set 11388 Venetian Neighbourhood, a 5,682-piece canal-side diorama with a glassblowing workshop, luxury villa, astronomical clock tower, gondola, and 17 minifigures for $549.99. Buildings can be separated and rearranged on a translucent blue base, and the standout new part is a tiny 3D-printed piano that plays real notes when you turn the vase on top. Launch-week buyers also get the 322-piece Venetian Water Taxi gift-with-purchase. Insider early access is Nov. 1, with general sale Nov. 4.",
+      "image_remote": "https://www.brickfanatics.com/storage/uploads/ade5fb4a-0ddd-4dd8-8f1d-e62db74c93c0.png",
+      "image_local": "images/story-1076.jpg",
+      "id": "f312970200f39413c23dda00224d38dd6331f9d0"
+    },
+    "83053c4748496400ff326c4a58775dffe6a69316": {
+      "headline": "Jets edge David Bailey named Pepsi Rookie of the Week after a 3-sack night vs. Cleveland",
+      "cat": "Jets",
+      "source": "New York Jets",
+      "url": "https://www.newyorkjets.com/news/david-bailey-pepsi-nfl-rookie-of-the-week-10-15-2026",
+      "summary": "After stuffing the stat sheet in Sunday’s 17-12 win over the Browns — 3 sacks, 7 tackles, 4 QB hits, and 3 tackles for loss — Jets edge David Bailey was named Pepsi Rookie of the Week. Since sacks became official in 1982, he is just the fifth player to post 5.0 sacks in his first five career games, and his 22.0% pressure rate ranks with recent early-career standouts like Nick Bosa and Myles Garrett. The No. 2 overall pick out of Texas Tech (via Stanford) now heads into Sunday’s AFC East road game at New England.",
+      "image_remote": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/jets/iqrzdsw9gkqfx8dh57fj",
+      "image_local": "images/story-1077.jpg",
+      "id": "83053c4748496400ff326c4a58775dffe6a69316"
+    },
+    "9e0f931d5e276a60fdcd8a38123f980222453d98": {
+      "headline": "Deep Purple’s Glenn Hughes is home after a 10-hour open-heart surgery at UCLA",
+      "cat": "Music / 80s rock",
+      "source": "Blabbermouth",
+      "url": "https://blabbermouth.net/news/glenn-hughes-is-recovering-after-undergoing-10-hour-open-heart-surgery",
+      "summary": "Rock and Roll Hall of Famer Glenn Hughes said he is home after an eight-day stay and a 10-hour open-heart operation at UCLA’s Ronald Reagan Medical Center. The Deep Purple bassist/vocalist had announced in August that MRI and echo results left him “no option” but another open-heart procedure, and that he was retiring from touring. He urged fans to be kind after a small minority mocked the decision, saying he has made records and toured for 58 years. A planned Purple Daisies show in Agoura Hills was canceled after the retirement announcement.",
+      "image_remote": "https://assets.blabbermouth.net/media/glennhughespressjune2025_638.jpg",
+      "image_local": "images/story-1078.jpg",
+      "id": "9e0f931d5e276a60fdcd8a38123f980222453d98"
+    },
+    "2ceeefc32daef4d19866515a616fc29fa722f737": {
+      "headline": "Trumbull 2026 election voter guide: governor, Congress, state races, and early-voting details",
+      "cat": "Local / Trumbull CT",
+      "source": "Patch",
+      "url": "https://patch.com/connecticut/trumbull/trumbull-2026-election-voter-guide-candidates-polling-places-early-voting",
+      "summary": "Trumbull voters head to the polls Nov. 3 for federal and state offices including governor, U.S. House, state Senate, and state representative. Patch’s guide lists the gubernatorial ticket of Democrats Ned Lamont and Susan Bysiewicz against Republicans Ryan Fazio and Matt Corey, and the 4th District congressional race of Democrat Jim Himes, Republican Michael Ted Goldstein, and Independent Benjamin Wesley, plus local legislative candidates. It also covers early-voting windows and polling-place basics for town residents.",
+      "image_remote": "",
+      "image_local": "",
+      "id": "2ceeefc32daef4d19866515a616fc29fa722f737"
+    },
+    "8c52fc81c20ac77dfb5eaff70e26fbe1e938b4c2": {
+      "headline": "FTC subpoenas Anthropic and OpenAI over safety incidents and consumer-protection risks",
+      "cat": "AI / regulation",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/ftc-subpoenas-anthropic-openai-consumer-protection/",
+      "summary": "The Federal Trade Commission has issued civil investigative demands to Anthropic and OpenAI seeking documents on safety incidents, privacy policies, and safeguards, an agency spokesperson confirmed. The move follows an FTC probe launched this summer and comes amid public scrutiny after AI models allegedly went rogue and hacked websites. Axios first reported the Wednesday subpoenas; the agency may later compel testimony and issue third-party demands. An AP-NORC poll found 64% of U.S. adults think AI is developing “too fast,” while President Trump has resisted slowdowns and created a Super Intelligence Force.",
+      "image_remote": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/15/89db4a92-6b7e-42b9-88e4-b343e530a9c4/thumbnail/1200x630/ac78a7a104f3b9896fe256a91fb09a66/gettyimages-2296187035.jpg",
+      "image_local": "images/story-1079.jpg",
+      "id": "8c52fc81c20ac77dfb5eaff70e26fbe1e938b4c2"
+    },
+    "4574b5a418595cfa8e2f2a088fb0da0a6da06263": {
+      "headline": "Trump rules out livestreaming Fort Hood shooter Nidal Hasan’s firing-squad execution",
+      "cat": "Politics / crime",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/trump-rules-out-livestream-nidal-hasan-firing-squad-execution",
+      "summary": "President Trump said Fort Hood shooter Nidal Hasan will still die by firing squad as scheduled Dec. 3, but the execution will not be livestreamed — reversing Defense Secretary Pete Hegseth’s plan to make it public. Trump wrote that streaming might deter terrorists but that “many very good and well meaning people would rather not watch him die.” Immediate family of the 13 people killed in Hasan’s 2009 rampage may still attend in person. The walk-back followed bipartisan pushback that a broadcast could become a recruiting tool.",
+      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/nidal-hasan-fort-hood-split.png",
+      "image_local": "images/story-1080.jpg",
+      "id": "4574b5a418595cfa8e2f2a088fb0da0a6da06263"
     }
   },
-  "updated": "Thursday, October 15, 2026 · 7:12 AM ET"
+  "updated": "Thursday, October 15, 2026 · 11:37 AM ET"
 }
