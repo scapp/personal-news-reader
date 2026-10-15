@@ -1189,7 +1189,14 @@
     "9e0f931d5e276a60fdcd8a38123f980222453d98",
     "2ceeefc32daef4d19866515a616fc29fa722f737",
     "8c52fc81c20ac77dfb5eaff70e26fbe1e938b4c2",
-    "4574b5a418595cfa8e2f2a088fb0da0a6da06263"
+    "4574b5a418595cfa8e2f2a088fb0da0a6da06263",
+    "72d76533fe9dc14e9647f7dbeeca8665f5115a92",
+    "dfef07c3f5468f0ebc73f6d7b7b97d232c8d5f64",
+    "d7d6cff6c5b0d01fd1a88cf67367e9164987a571",
+    "3b2a1fd2729d86709a36d29c2c0496a9884fc601",
+    "e09f53998f8aea6e9adb5e12055729a9392fe9b7",
+    "717505a96f8bb1f315a378df1571d545a9e1dd44",
+    "8644912a2e92103ef894921365b1c51cb915be2e"
   ],
   "stories": {
     "0c2ac7a5e342411678296315c4c59043b1f067cc": {
@@ -14447,7 +14454,77 @@
       "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/nidal-hasan-fort-hood-split.png",
       "image_local": "images/story-1080.jpg",
       "id": "4574b5a418595cfa8e2f2a088fb0da0a6da06263"
+    },
+    "72d76533fe9dc14e9647f7dbeeca8665f5115a92": {
+      "headline": "Lindsay Clancy holdout juror says every juror had phones as the defense seeks only his records",
+      "cat": "Crime / courts",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/us/lindsay-clancy-holdout-juror-says-everyone-had-phones-defense-seeks-only-his-records",
+      "summary": "In his first televised interview since last month’s mistrial, lone holdout juror Michael Desronvil told Fox News’ Kayleigh McEnany he stands by his refusal to join the 11 jurors who wanted Lindsay Clancy found not criminally responsible for strangling her three children, saying the evidence showed she was “methodical.” Defense attorney Kevin Reddington has asked the judge to preserve records for all 12 jurors and six alternates, but wants only Desronvil’s phone examined for deliberation hours — even though, Desronvil says, everyone had phones. He also described reporters going through his mail and peering into his windows, and urged the public to keep the focus on Dawson, Cora, and baby Callan.",
+      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/desonrvil-interview.png",
+      "image_local": "images/story-1081.jpg",
+      "id": "72d76533fe9dc14e9647f7dbeeca8665f5115a92"
+    },
+    "dfef07c3f5468f0ebc73f6d7b7b97d232c8d5f64": {
+      "headline": "Trump administration sues California to block counting mail ballots from 20,000 alleged noncitizens",
+      "cat": "Politics / election",
+      "source": "PBS NewsHour (AP)",
+      "url": "https://www.pbs.org/newshour/politics/trump-administration-sues-california-to-block-counting-of-alleged-noncitizen-mail-ballots",
+      "summary": "After California let a 48-hour deadline pass, the Justice Department sued state election officials Thursday, asking a federal judge to bar counting mail-in ballots from about 20,000 people the government identifies as “likely” noncitizens until their citizenship is confirmed. The suit says California “made no serious effort” to work with federal officials. Secretary of State Shirley Weber says the DOJ hasn’t backed up the list — delivered on a thumb drive with the password on a sticky note — and Attorney General Rob Bonta says the state will not withhold ballots, arguing federal law bars voter-roll changes within 90 days of an election. Voting is already underway ahead of Nov. 3.",
+      "image_remote": "",
+      "image_local": "",
+      "id": "dfef07c3f5468f0ebc73f6d7b7b97d232c8d5f64"
+    },
+    "d7d6cff6c5b0d01fd1a88cf67367e9164987a571": {
+      "headline": "Roger Waters calls James Hetfield “a complete prick” with “an IQ of about three” over his Sphere speech",
+      "cat": "Music / metal",
+      "source": "Louder (Metal Hammer)",
+      "url": "https://www.loudersound.com/news/roger-waters-pink-floyd-slams-metallica-james-hetfield-apolitical-statement-the-sphere-2026",
+      "summary": "Ex-Pink Floyd bassist Roger Waters, 83, tore into Metallica’s James Hetfield on The Katie Halper Show after Hetfield told a Las Vegas Sphere crowd Saturday that “Metallica is not here, like some other entertainers, to influence you with their bullshit.” Shown Hetfield’s past remarks that “politics drive me crazy” alongside Metallica’s political-sounding lyrics on Disposable Heroes and …And Justice For All, Waters called him “a nobody” with “a few hundred million dollars” and said he is “no musician,” calling an acoustic Metallica performance “appalling.” Hetfield is 63.",
+      "image_remote": "https://cdn.mos.cms.futurecdn.net/Pv88YV9Qtdyh4j9FCo4nEh-1280-80.jpg",
+      "image_local": "images/story-1082.jpg",
+      "id": "d7d6cff6c5b0d01fd1a88cf67367e9164987a571"
+    },
+    "3b2a1fd2729d86709a36d29c2c0496a9884fc601": {
+      "headline": "Meta’s new Muse Spark Open AI model runs on two Mac Studios — and Ternus thanks Zuckerberg",
+      "cat": "AI / Mac",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/15/meta-muse-spark-open-mac-studio/",
+      "summary": "Meta released Muse Spark Open, which it calls the most capable U.S. open-weight AI model yet, and worked with Apple so it runs locally on two 512GB M5 Ultra Mac Studios linked with Apple’s MLX framework. The model has 816 billion total parameters (42 billion active) and a 1 million-token context window, aimed at coding and agent work. Meta says Apple’s unified memory and 1.2 TB/s bandwidth let the pair behave like one machine with a terabyte of memory. Apple CEO John Ternus congratulated Zuckerberg on X. The catch: the 512GB Mac Studio isn’t out until later this month, and the 256GB model already tops $10,000.",
+      "image_remote": "https://images.macrumors.com/t/MyTz3YsXEfhbGqeisTvS0AcCX_I=/2000x/article-new/2026/10/muse-spark-open-zuck.jpg",
+      "image_local": "images/story-1083.jpg",
+      "id": "3b2a1fd2729d86709a36d29c2c0496a9884fc601"
+    },
+    "e09f53998f8aea6e9adb5e12055729a9392fe9b7": {
+      "headline": "Tesla’s remote operators are now five-for-five in crashing the Robotaxis they take over, NHTSA data shows",
+      "cat": "Tesla",
+      "source": "Electrek",
+      "url": "https://electrek.co/2026/10/15/tesla-remote-operators-crashing-robotaxis/",
+      "summary": "Tesla’s latest federal crash filings add two more Robotaxi incidents in which a remote operator — not the self-driving system — was driving: a Model Y that scraped a parked SUV in Dallas at 0.4 mph and another that hit a dumpster in an Austin alley at about 1 mph, both with no passengers. That makes five remote takeovers in the NHTSA data, and every one ended in contact, including a curb-and-fence hit and a construction-barricade crash in Austin. Tesla now has 36 Robotaxi incident reports on file, up from 22 in July. Tesla doesn’t disclose how often operators intervene; rival Waymo says it doesn’t let remote staff steer at all.",
+      "image_remote": "",
+      "image_local": "",
+      "id": "e09f53998f8aea6e9adb5e12055729a9392fe9b7"
+    },
+    "717505a96f8bb1f315a378df1571d545a9e1dd44": {
+      "headline": "White House and Pentagon prepare plans to use the “mother of all bombs” on Iranian military sites",
+      "cat": "World / Iran",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/iran-trump-administration-mother-of-all-bombs/",
+      "summary": "The White House and Pentagon have drawn up plans to hit Iranian military sites with the Massive Ordnance Air Blast bomb if President Trump orders it, sources told CBS News, following a CNN report Thursday. A Pentagon official said the Department of War plans for “a wide range of operational scenarios.” The roughly 30,000-pound MOAB — the largest U.S. non-nuclear weapon — was first used in combat on Trump’s watch in 2017 against an ISIS cave complex in Afghanistan. Last week Trump said the U.S. would not attack Iran before the midterms and touted “productive conversations” with Tehran.",
+      "image_remote": "",
+      "image_local": "",
+      "id": "717505a96f8bb1f315a378df1571d545a9e1dd44"
+    },
+    "8644912a2e92103ef894921365b1c51cb915be2e": {
+      "headline": "Japanese train photographer arrested after chainsawing a tree for a better shot — and dropping it on rail cables",
+      "cat": "Photography",
+      "source": "PetaPixel",
+      "url": "https://petapixel.com/2026/10/15/photographer-arrested-after-taking-chainsaw-to-trees-in-search-of-a-better-train-photo/",
+      "summary": "Hokkaido police arrested 23-year-old Sagamihara taxi driver Kodai Watanabe after he trespassed on JR Senmo Line property in Kushiro with a chainsaw and cut down a tree that landed on a railway communication cable. He told investigators he wanted a clearer shot of the Kushiro Shitsugen Norokko “Sunset Norokko” sightseeing train before it ends service: “The weather was great, and it was my last chance to shoot the train.” He has confessed, and the case has gone to prosecutors on suspicion of endangering railway traffic, which could mean a fine or years in prison. JR East has already pleaded with Japan’s railway fans to stop risky stunts.",
+      "image_remote": "https://petapixel.com/assets/uploads/2026/10/visit-hokkaido.jpg",
+      "image_local": "images/story-1084.jpg",
+      "id": "8644912a2e92103ef894921365b1c51cb915be2e"
     }
   },
-  "updated": "Thursday, October 15, 2026 · 11:37 AM ET"
+  "updated": "Thursday, October 15, 2026 · 4:08 PM ET"
 }
