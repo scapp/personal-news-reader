@@ -1224,7 +1224,14 @@
     "4856f1ba31de4b67dec2ca2c0edb35f4701c1a31",
     "16eb54c0a41ab3cf14fe4d59f9e0341e6049b63d",
     "ec835e14f44af32f75dd438062cdede6b8bcbed9",
-    "784c74e50ab62c188c7664d414236deb033361ed"
+    "784c74e50ab62c188c7664d414236deb033361ed",
+    "052b786e2115be4f8c7a640b981c66b471a92076",
+    "03a7e58902e20e35968259196caef37a29c887c7",
+    "5f628b38899e7874a0c81655a86594e0018cde5a",
+    "e19cb4eb251c41581441810e4a874cea8df47e32",
+    "09b398b021d86fe7783599d7a58e87d83e08d421",
+    "9ba254bc4114b25eec0cd7f97c79f21a2512b26f",
+    "dcc228fba15f20b8f3613e1e22eaba5325f99be7"
   ],
   "stories": {
     "0c2ac7a5e342411678296315c4c59043b1f067cc": {
@@ -14832,7 +14839,77 @@
       "image_remote": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/analogue1.jpg?quality=90&strip=all&w=1200",
       "image_local": "images/story-1106.jpg",
       "id": "784c74e50ab62c188c7664d414236deb033361ed"
+    },
+    "052b786e2115be4f8c7a640b981c66b471a92076": {
+      "headline": "Katie Zacharia is out as White House press secretary after just five days",
+      "cat": "Politics / Trump",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/politics/white-house/white-house-press-secretary-katie-zacharia-out-after-5-days-rcna603912",
+      "summary": "Katie Zacharia is leaving the White House press secretary job five days after starting it, according to a senior administration official, an administration official and a source familiar with the decision; the senior official said she is moving to a new role to be announced later. Her exit follows a widely panned first briefing on Tuesday — under 15 minutes, a handful of questions, and no answer on whether the U.S. had stopped sharing intelligence with Ukraine — and her acknowledgment this week that she had represented herself as a lawyer but never passed the bar. Earlier Friday, President Trump said she had been treated “pretty nastily” by the press, that he told her she didn’t have to keep doing it, and that he would let her decide. The former conservative commentator and Trump Media adviser had succeeded Karoline Leavitt, who left at the end of August; her stint was shorter than Anthony Scaramucci’s, and it leaves the post vacant less than three weeks before the midterms.",
+      "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261013-Katie-Zacharia-mn-0955-6b48bc.jpg",
+      "image_local": "images/story-1107.jpg",
+      "id": "052b786e2115be4f8c7a640b981c66b471a92076"
+    },
+    "03a7e58902e20e35968259196caef37a29c887c7": {
+      "headline": "Man who shot and stopped the Bend school gunman is a dad of two girls at the school",
+      "cat": "Crime / self-defense",
+      "source": "PBS News (AP)",
+      "url": "https://www.pbs.org/newshour/nation/man-who-stopped-the-oregon-elementary-school-shooter-has-2-daughters-at-the-school-his-mom-says",
+      "summary": "The armed bystander who followed the teenage gunman into Silver Rail Elementary in Bend, Oregon, and shot him has been identified by his family as Kaylub Giamanco, a lifelong Bend resident with two daughters at the school. In a statement read by his mother, Kenda Freeman, the family said he “is not seeking recognition” and wants to thank first responders, school staff and the community; they asked for privacy and won’t give interviews. Police still haven’t officially named him or the 16-year-old attacker, who shot through locked doors and killed three children, ages 5, 8 and 11, and a teacher. A law enforcement official told the AP the attacker used a pump-action shotgun bought by his mother (Oregon law lets a minor possess a shotgun provided by a parent), and CBS News sources named him as John Griffin. A kindergarten mom called it “miraculous” that someone stopped him before police got there. All 32 Bend-La Pine schools were closed Friday.",
+      "image_remote": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-16T180749Z_1238352477_RC2D4OAZS3T9_RTRMADP_3_OREGON-SHOOTING-1024x683.jpg",
+      "image_local": "images/story-1108.jpg",
+      "id": "03a7e58902e20e35968259196caef37a29c887c7"
+    },
+    "5f628b38899e7874a0c81655a86594e0018cde5a": {
+      "headline": "Jets expect rookie WR Omar Cooper Jr. back Sunday at New England; Hall, Mitchell, Parham, Ossai out",
+      "cat": "Jets",
+      "source": "NewYorkJets.com",
+      "url": "https://www.newyorkjets.com/news/jets-notebook-omar-cooper-jr-set-to-return-sunday-vs-patriots-10-16-2026",
+      "summary": "Head coach Aaron Glenn said Friday he expects rookie wide receiver Omar Cooper Jr. to be active for Sunday’s AFC East opener at New England. Cooper has been on injured reserve since an ankle injury in Week 1, when he made a big catch against Tennessee, and was designated to return to practice this week. Rookie tight end Kenyon Sadiq (finishing concussion protocol), safety Dane Belton and linebacker Kiko Mauigoa were all full participants Friday. The Jets have ruled out running back Breece Hall (quad), wide receiver Adonai Mitchell (finger), left guard Dylan Parham (knee) and edge rusher Joseph Ossai (ankle). The notebook also has OC Frank Reich revealing that Braelon Allen’s 22-yard game-winning touchdown run against the Browns wasn’t his call: Geno Smith checked out of a pass play at the line on third-and-9.",
+      "image_remote": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/jets/gckjnzvedhortvqnxptd",
+      "image_local": "images/story-1109.jpg",
+      "id": "5f628b38899e7874a0c81655a86594e0018cde5a"
+    },
+    "e19cb4eb251c41581441810e4a874cea8df47e32": {
+      "headline": "Mustaine: Anthrax and Kerry King will open Megadeth’s next farewell-tour run",
+      "cat": "Music / metal",
+      "source": "Blabbermouth",
+      "url": "https://blabbermouth.net/news/dave-mustaine-on-megadeths-touring-plans-anthrax-and-kerry-king-are-going-out-with-us-on-the-next-run",
+      "summary": "On SiriusXM’s Trunk Nation with Eddie Trunk, Dave Mustaine laid out the next stretch of Megadeth’s multi-year farewell tour: New Zealand and Australia in a couple of weeks, Korea for the first time in almost 20 years, more U.S. and European dates, and talk of India and South Africa. “We’ve decided to take out a lot of our friends,” he said. “Anthrax and Kerry King are going out with us on the next run,” followed by Black Label Society and Testament on the 24-date European leg that opens March 9, 2027 in Belfast. Mustaine, who has the degenerative hand condition Dupuytren’s contracture, said he has no final show in mind. He’ll keep going until the shows start to suffer — and says they’re actually getting better as he works with vocal coaches — and only then stop or have hand surgery.",
+      "image_remote": "https://assets.blabbermouth.net/media/megadethaug2026rosshalfin_638.jpg",
+      "image_local": "images/story-1110.jpg",
+      "id": "e19cb4eb251c41581441810e4a874cea8df47e32"
+    },
+    "09b398b021d86fe7783599d7a58e87d83e08d421": {
+      "headline": "Tesla driver says he was asleep on FSD when he plowed into a CHP car at a crash scene",
+      "cat": "Tesla",
+      "source": "Electrek",
+      "url": "https://electrek.co/2026/10/16/tesla-fsd-crash-chp-patrol-car-driver-asleep-fairfield/",
+      "summary": "Two California Highway Patrol officers were seriously injured just before midnight Tuesday when a Tesla went through a four-lane closure lit with flares on eastbound I-80 in Fairfield and hit their patrol car. They were working an earlier fatal crash. The 22-year-old Sacramento driver walked away with minor injuries and told investigators he was asleep with Full Self-Driving engaged; CHP released dashcam video of the impact Thursday. CHP stressed that FSD is a driver-assist feature that does not relieve drivers of responsibility. It hasn’t released the model or software version, and for now the driver’s word is the only evidence FSD was on; Tesla’s logs should settle it. Electrek notes the long history of Teslas hitting emergency scenes, the 2023 recall of more than 2 million cars, and questions about how a sleeping driver got past FSD’s cabin-camera attention monitoring.",
+      "image_remote": "https://electrek.co/wp-content/uploads/sites/3/2026/10/Tesla-FSD-CHP-crash.jpeg?quality=82&strip=all&resize=1200,628",
+      "image_local": "images/story-1111.jpg",
+      "id": "09b398b021d86fe7783599d7a58e87d83e08d421"
+    },
+    "9ba254bc4114b25eec0cd7f97c79f21a2512b26f": {
+      "headline": "Carney says outsiders are trying to “break” Canada ahead of Monday’s Alberta separation vote",
+      "cat": "World",
+      "source": "PBS News (AP)",
+      "url": "https://www.pbs.org/newshour/world/prime-minister-mark-carney-says-u-s-is-trying-to-break-canada-as-alberta-votes-on-separation-path",
+      "summary": "At a “Forever Canadian” rally of about 5,000 people in Calgary, Prime Minister Mark Carney urged oil-rich Alberta to reject Monday’s referendum, which would tell the province to start the legal process toward a future vote on leaving Canada. “Some outside our borders are working to break us so they can own us,” he said. He didn’t name the U.S. in that line but has in past speeches, amid President Trump’s trade war and talk of a 51st state. Carney, who grew up in Alberta, told voters it is “not poker” and that they shouldn’t use the ballot to send Ottawa a message. He also conceded that Albertans’ frustrations with Ottawa over resources and energy are “real.” He pointed to his fast-tracked Pacific Link oil pipeline, which he says will create more than 140,000 jobs. A second rally was set for Edmonton on Friday.",
+      "image_remote": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-16T022552Z_895739172_RC224OAH6V4S_RTRMADP_3_CANADA-ALBERTA-1024x683.jpg",
+      "image_local": "images/story-1112.jpg",
+      "id": "9ba254bc4114b25eec0cd7f97c79f21a2512b26f"
+    },
+    "dcc228fba15f20b8f3613e1e22eaba5325f99be7": {
+      "headline": "Billy Joel doesn’t know if he can perform again — and is auctioning 70-plus motorcycles",
+      "cat": "Music / motorcycles",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/billy-joel-says-doesnt-know-can-perform-stage-due-brain-disorder-rcna603916",
+      "summary": "Billy Joel, 77, says his neurologist has kept him on an extended break from performing while he recovers from brain surgery for hydrocephalus, which was diagnosed in May 2025 and affects his balance, memory, vision and hearing. “Every time you do a show, it’s like you’re getting a concussion,” Joel said his doctor told him in a Hollywood Reporter interview, citing the volume, lights, stress and energy of a show. More tests will decide whether he can go back to the stage, which he says he wants. He insists his health is good and the condition is “not that serious.” The update comes ahead of a Gooding Christie’s auction Nov. 20–21 at the Javits Center, where more than 70 motorcycles from his collection will be sold to benefit the Joel Foundation; he said the condition makes riding and driving difficult.",
+      "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-03/250312-billy-joel-vl-1247p-f23cf4.jpg",
+      "image_local": "images/story-1113.jpg",
+      "id": "dcc228fba15f20b8f3613e1e22eaba5325f99be7"
     }
   },
-  "updated": "Friday, October 16, 2026 · 11:46 AM ET"
+  "updated": "Friday, October 16, 2026 · 4:06 PM ET"
 }
