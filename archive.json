@@ -1203,7 +1203,14 @@
     "8bdc2d9279d263ff273b99d4c8ada5ee11a1e00a",
     "2a080a1eebc38896f7e534318abb3c03f785c37b",
     "9ad6da47ec623956cf5831c771c6337730c0f97b",
-    "1c5c5b899c127c6d6f30c59dfbd973ec2c2b4af2"
+    "1c5c5b899c127c6d6f30c59dfbd973ec2c2b4af2",
+    "d02cc0e84463db2dadcde14c5fc9359069c072c1",
+    "e1a662c081a6c96efaa0847d57cd6401f99aefb2",
+    "681cf968b94ed11e22cb3caaf00a6ceb8205a7f6",
+    "bcd7f0e44ad2a2b647f1a9af87e08481b4599ec0",
+    "23eb7724d69c8ee054eae6ab537e8873ee65dffc",
+    "98712bf3da0654b522ad7dc2bcc8cff2bcbdb162",
+    "f9b848301b47e86681021c20b4f11168ea818603"
   ],
   "stories": {
     "0c2ac7a5e342411678296315c4c59043b1f067cc": {
@@ -14601,7 +14608,77 @@
       "image_remote": "https://assets.blabbermouth.net/media/davemustainedarkestbookside2aug2026_638.jpg",
       "image_local": "images/story-1089.jpg",
       "id": "1c5c5b899c127c6d6f30c59dfbd973ec2c2b4af2"
+    },
+    "d02cc0e84463db2dadcde14c5fc9359069c072c1": {
+      "headline": "Tesla finally reveals the next-gen Roadster — it drove upside down, flew, flipped and landed",
+      "cat": "Tesla",
+      "source": "Teslarati",
+      "url": "https://www.teslarati.com/tesla-roadster-specs-configurations/",
+      "summary": "Nearly nine years after the first tease, Tesla showed the new Roadster Thursday night at an event near SpaceX’s McGregor site outside Waco, Texas. Using fans and cold-gas thrusters, the car drove up a curved ramp until it was upside down, flew off, flipped and landed, then hovered over a Cybercab, Cybertruck, Semi, Model Y and Model 3. “Well, it worked,” Elon Musk said. “Flying cars are real.” Tesla lists three versions: a two-seat road-ready Performance model (0–60 in under 1.6 seconds), a two-seat race-ready Thrust model with rear thrusters (under 0.9 seconds), and an invite-only single-seat Rocket (under 0.59 seconds, 230+ mph top speed, 300+ miles of range). Pricing wasn’t given; reservations reopened in the configurator, and production is planned for Giga Texas in 2027 or 2028.",
+      "image_remote": "https://www.teslarati.com/wp-content/uploads/2026/10/tesla-roadster-elon-stage-event-1000x600.jpg",
+      "image_local": "images/story-1090.jpg",
+      "id": "d02cc0e84463db2dadcde14c5fc9359069c072c1"
+    },
+    "e1a662c081a6c96efaa0847d57cd6401f99aefb2": {
+      "headline": "Trump calls Michigan Senate hopeful Abdul El-Sayed “100% Muslim Brotherhood” and a “con man”",
+      "cat": "Politics / Trump",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/trump-links-michigan-senate-candidate-abdul-el-sayed-muslim-brotherhood-con-man",
+      "summary": "At a White House Rose Garden lunch Thursday, President Trump went after Michigan’s Democratic Senate nominee: “He’s a Muslim Brotherhood guy, 100%. … How about having him be on the Senate Intelligence Committee?” Trump also called him a “fraud” and “con man” and said he would visit Michigan to “expose” him. The attacks follow fresh scrutiny of 2012 posts by El-Sayed’s half-sister, Eman Abdelhadi, saying their mother was active in the Muslim Brotherhood in Egypt in the early 1970s and that “my family has long been MB.” El-Sayed denies any family ties and says his opponent, Republican Mike Rogers, is attacking his name and faith instead of his policies. The clash comes after a tense NBC interview in which he was pressed on the posts.",
+      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/El-Sayed-Trump-Split-Photo-1_001.jpg",
+      "image_local": "images/story-1091.jpg",
+      "id": "e1a662c081a6c96efaa0847d57cd6401f99aefb2"
+    },
+    "681cf968b94ed11e22cb3caaf00a6ceb8205a7f6": {
+      "headline": "Body found in a barrel at Lake Mead in 2022 identified as 1980s murder victim; killer still unknown",
+      "cat": "Crime / courts",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/news/us-news/man-found-barrel-lake-mead-identified-murder-victim-1980s-rcna603634",
+      "summary": "Four years after the bones of a man shot in the head were found in a deteriorated 50-gallon drum as Lake Mead’s waters receded, Clark County Coroner Melanie Rouse on Thursday identified him as Edward Lelburian Jackson, a man in his mid-to-late 50s from Arkansas. Las Vegas police believe he was killed in the early 1980s, based on clothing remnants and family interviews, but don’t know who did it. Despite years of speculation about the mob, homicide Lt. Robert Price said investigators have nothing to support organized-crime theories; Jackson traveled the country, had no known Las Vegas ties or gambling history, and had a Utah record for aggravated arson and fraud conspiracy. Genealogical DNA testing by Oklahoma State University cracked the ID.",
+      "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261015-Lake-Mead-Body-vsb-1925-0d185c.jpg",
+      "image_local": "images/story-1092.jpg",
+      "id": "681cf968b94ed11e22cb3caaf00a6ceb8205a7f6"
+    },
+    "bcd7f0e44ad2a2b647f1a9af87e08481b4599ec0": {
+      "headline": "KK’s Priest re-records Judas Priest’s “Never Satisfied” with Ripper Owens — and fans slam the AI video",
+      "cat": "Music / metal",
+      "source": "Louder",
+      "url": "https://www.loudersound.com/music/tracks-singles/kks-priest-cover-judas-priest-never-satisfied",
+      "summary": "Former Judas Priest guitarist KK Downing’s band KK’s Priest has released a new version of Priest’s 1974 classic “Never Satisfied,” sung by ex-Priest frontman Tim “Ripper” Owens. The video uses AI to recreate a young Downing staring into a guitar-shop window and stepping off a bus with his case before heading for stardom — and many fans aren’t buying it (“Love the song, but goddam I hate the AI slop”). Downing defended it as something “absolutely impossible to create or film today” without the technology, and said of Owens versus Rob Halford on the original: “Two great singers and performers.” Producer JPSR Studio openly bills itself as an AI-native production house.",
+      "image_remote": "https://cdn.mos.cms.futurecdn.net/8bxJaz8shdT2kKEseckFVe-1280-80.jpg",
+      "image_local": "images/story-1093.jpg",
+      "id": "bcd7f0e44ad2a2b647f1a9af87e08481b4599ec0"
+    },
+    "23eb7724d69c8ee054eae6ab537e8873ee65dffc": {
+      "headline": "Drone strikes on tankers in Romanian waters raise fears Russia’s war is spilling into NATO territory",
+      "cat": "World",
+      "source": "PBS NewsHour (AP)",
+      "url": "https://www.pbs.org/newshour/world/drone-strike-on-ship-in-romanian-waters-raises-fear-that-war-in-ukraine-is-spreading",
+      "summary": "Romania launched search-and-rescue operations off its Black Sea coast Thursday after a drone hit the San Marino-flagged chemical tanker Wine Trader about 15 miles southeast of the port of Sulina, setting it ablaze; five crew were rescued and seven are missing. President Nicusor Dan said another ship, the Comoros-flagged Yara J, was struck the night before in Romanian territorial waters, though he didn’t say where the drones came from. Romania’s defense ministry tracked a “group of air targets” near Ukraine’s Snake Island overnight and a drone briefly entered Romanian airspace. It follows Tuesday’s drone strikes on two ships off Bulgaria that left 11 crew missing — a spate of attacks inside the waters of NATO and EU members.",
+      "image_remote": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-15T093816Z_1785387739_RC2L3OAAU9IR_RTRMADP_3_UKRAINE-CRISIS-ROMANIA-1024x550.jpg",
+      "image_local": "images/story-1094.jpg",
+      "id": "23eb7724d69c8ee054eae6ab537e8873ee65dffc"
+    },
+    "98712bf3da0654b522ad7dc2bcc8cff2bcbdb162": {
+      "headline": "Yashica’s tiny 1959-style Y16 pocket camera gets a $119 price and late-November ship date",
+      "cat": "Photography / gadgets",
+      "source": "DPReview (via Yahoo Tech)",
+      "url": "https://tech.yahoo.com/cameras/articles/yashica-1950s-throwback-micro-camera-011440258.html",
+      "summary": "Yashica has fully announced the Y16, a pocket digital camera styled after the original company’s 1959 Y16. It pairs a 12MP sensor with a 27mm-equivalent F12 lens, an optical viewfinder, a 1.45-inch screen and a real xenon flash good to about 6.5 feet, plus a top dial with built-in filter looks. At 93 grams (3.3 oz) and 3.6 × 1.8 × 1.1 inches it fits in any pocket, and it ships with an 8GB microSD card. DPReview warns image quality will trail a typical smartphone — the lo-fi look is the point. Price is $119, pre-orders are open, and shipping is expected in late November. Today’s Yashica brand is licensed from Kyocera to Hong Kong-based 100 Enterprises.",
+      "image_remote": "https://s.yimg.com/lo/mysterio/api/7c393024c65427a43c583c9963c2bbb89607043371c55bd6710bdc1c73aae97b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpreview_articles_177%2F0c07ec60950702230bff27495899c018.jpg",
+      "image_local": "images/story-1095.jpg",
+      "id": "98712bf3da0654b522ad7dc2bcc8cff2bcbdb162"
+    },
+    "f9b848301b47e86681021c20b4f11168ea818603": {
+      "headline": "Apple’s own website leaks an unreleased iPad mini Smart Folio ahead of the expected Oct. 28 launch",
+      "cat": "Apple",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/15/apple-ipad-mini-8-website-reference/",
+      "summary": "An iPad mini Smart Folio with model number A3632 — which doesn’t match any current or past iPad mini case — has appeared on Apple’s French regulatory website, listed alongside the iPhone 18 Pro accessories added in September. The listing has no specs, but a new Smart Folio suggests design changes that may keep current cases from fitting. Rumors point to an iPad mini 8 with an OLED display and better water resistance, expected to be announced Oct. 27 or 28 alongside the OLED MacBook Pro. AppleInsider notes the current A17 Pro iPad mini is model A2993, while this year’s iPhone 17e is A3634 — the closest number to the new case’s A3632.",
+      "image_remote": "",
+      "image_local": "",
+      "id": "f9b848301b47e86681021c20b4f11168ea818603"
     }
   },
-  "updated": "Thursday, October 15, 2026 · 6:13 PM ET"
+  "updated": "Thursday, October 15, 2026 · 10:08 PM ET"
 }
