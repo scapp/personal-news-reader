@@ -1231,7 +1231,13 @@
     "e19cb4eb251c41581441810e4a874cea8df47e32",
     "09b398b021d86fe7783599d7a58e87d83e08d421",
     "9ba254bc4114b25eec0cd7f97c79f21a2512b26f",
-    "dcc228fba15f20b8f3613e1e22eaba5325f99be7"
+    "dcc228fba15f20b8f3613e1e22eaba5325f99be7",
+    "496ec0a79f1d69831418ea39489aa254ebf491e1",
+    "9e65c2f6bcaad0d92c56a3a6211aa958915494f4",
+    "623851b769971ed4adef2eae2f06b986e8e20423",
+    "0f5d6f1ac5c85ef8bbb9b42e475de2072f744df5",
+    "4b209724700786fce8c10654249b101552cd1091",
+    "e7c62d8fc76846ebbe305e8fd581393c421f95bd"
   ],
   "stories": {
     "0c2ac7a5e342411678296315c4c59043b1f067cc": {
@@ -14909,7 +14915,67 @@
       "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-03/250312-billy-joel-vl-1247p-f23cf4.jpg",
       "image_local": "images/story-1113.jpg",
       "id": "dcc228fba15f20b8f3613e1e22eaba5325f99be7"
+    },
+    "496ec0a79f1d69831418ea39489aa254ebf491e1": {
+      "headline": "Bend police name the gunman and two of the four killed at Silver Rail Elementary",
+      "cat": "Crime / courts",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/bend-oregon-elementary-school-shooting-victims/",
+      "summary": "Bend police on Friday identified two of the four people killed in Thursday’s shooting at Silver Rail Elementary: 25-year-old teacher Megan Lambert and 5-year-old Rhoam Summer, whose father wrote that it was “the worst day of my life” and that the family is “broken and lost.” Two other children, ages 8 and 11, were also killed; their families haven’t released their names. A 7-year-old and a 54-year-old teacher remain hospitalized in critical condition. Police Chief Mike Krantz officially named the suspect as Griffin J. John II of Bend, a former Silver Rail student who was shot and killed by a bystander; there’s still no word on a motive. The family of Kaylub Giamanco, the man who came forward as that bystander, said he is “not seeking recognition” and thanked first responders, school staff and the community. Memorials of flowers, balloons and stuffed animals have grown around the school.",
+      "image_remote": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/16/4336063d-2525-4c95-8edd-a5ede0348811/thumbnail/1200x630/5569fbe4a09da7d68e328afbed927f5e/ap26289568047762.jpg",
+      "image_local": "images/story-1114.jpg",
+      "id": "496ec0a79f1d69831418ea39489aa254ebf491e1"
+    },
+    "9e65c2f6bcaad0d92c56a3a6211aa958915494f4": {
+      "headline": "John Lydon calls his old Sex Pistols bandmates “deceitful, lying hyenas” and their Frank Carter tour “karaoke”",
+      "cat": "Music / punk",
+      "source": "Blabbermouth",
+      "url": "https://blabbermouth.net/news/john-lydon-blasts-his-longtime-sex-pistols-bandmates-as-deceitful-lying-hyenas-i-never-want-another-thing-to-do-with-them",
+      "summary": "Asked on ITV’s Good Morning Britain about the Sex Pistols touring with Frank Carter on vocals, John Lydon didn’t soften his earlier “karaoke” jab: “Cheek of them. Going out without me, singing the songs I wrote, the words I wrote, the presentation I created.” When a host suggested he should have joined the reunion, the former Johnny Rotten said he’d worked with them enough already — “They’re deceitful, lying hyenas, and I never want another thing to do with them” — and called the lineup an imitation of him. Steve Jones, Paul Cook and Glen Matlock started playing with Carter (of Gallows and the Rattlesnakes) at three London benefit nights in August 2024 and have since toured Europe, North America, Australia and New Zealand. Lydon has been estranged from the band since losing his bid to block their songs from “Pistol,” the miniseries based on Jones’s memoir.",
+      "image_remote": "https://assets.blabbermouth.net/media/johnnyrottenlydonoct2026_638.jpg",
+      "image_local": "images/story-1115.jpg",
+      "id": "9e65c2f6bcaad0d92c56a3a6211aa958915494f4"
+    },
+    "623851b769971ed4adef2eae2f06b986e8e20423": {
+      "headline": "China moves to restrict or ban exports of 40 technologies, including advanced AI models and agents",
+      "cat": "World / tech",
+      "source": "PBS News (AP)",
+      "url": "https://www.pbs.org/newshour/world/china-says-it-will-curb-tech-exports-including-ai-citing-national-security-risks",
+      "summary": "China’s commerce and science ministries on Friday published a draft update to the country’s export-control catalog that would restrict or ban exports of 40 technologies spanning artificial intelligence, chips and solar power, with national security cited as a main reason. Twenty-three of the listed items are AI technologies, from advanced large models to AI agents; the core technology behind large models trained on sensitive national data would be barred from export outright, as would agents designed for sensitive settings such as national defense and critical infrastructure. The move flips the script on years of U.S.-led curbs that have kept China from buying the most advanced AI chips and chipmaking machines, and it lands even as Washington and Beijing have been making progress on AI-safety talks and a notification channel for AI incidents that could threaten national security.",
+      "image_remote": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-07-18T152522Z_416417339_RC26GMAK9V8F_RTRMADP_3_CHINA-AI-1024x683.jpg",
+      "image_local": "images/story-1116.jpg",
+      "id": "623851b769971ed4adef2eae2f06b986e8e20423"
+    },
+    "0f5d6f1ac5c85ef8bbb9b42e475de2072f744df5": {
+      "headline": "Vance defends ICE but says the administration acts when agents “really screw up”",
+      "cat": "Politics / immigration",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/vance-ice-investigate-agents-screw-up/",
+      "summary": "In a one-hour CBS Evening News town hall with Tony Dokoupil, taped Thursday in Michigan and airing Saturday, Vice President JD Vance defended immigration officers as mostly “amazing people who are patriots” while acknowledging that “sometimes you have some people who really screw up,” and said the administration has a responsibility to investigate and prosecute when they do. Pressed for the biggest ICE mistakes, Vance declined to name any but said there have been cases where officers got more training or were disciplined, adding that the administration doesn’t advertise those outcomes because people deserve to be judged through a normal investigative and court process. ICE and Border Patrol use-of-force practices have drawn criticism as the crackdown has ramped up. The town hall comes as Michigan’s Senate race between Republican Mike Rogers and Democrat Abdul El-Sayed heats up.",
+      "image_remote": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/15/a68d8cc1-5469-4c80-ae71-842f71e69be1/thumbnail/1200x630/d0fc5998a700b240c88ead92ee0b2ce6/cbsn-fusion-vance-talks-economy-inflation-corruption-cbs-news-town-hall-thumbnail.jpg",
+      "image_local": "images/story-1117.jpg",
+      "id": "0f5d6f1ac5c85ef8bbb9b42e475de2072f744df5"
+    },
+    "4b209724700786fce8c10654249b101552cd1091": {
+      "headline": "A 13,800-year-old Alaska base camp links early Americans to people across the Bering Land Bridge",
+      "cat": "Science / history",
+      "source": "Gizmodo",
+      "url": "https://gizmodo.com/thousands-of-artifacts-unearthed-in-alaska-hint-at-an-even-older-human-presence-in-the-americas-2000826892",
+      "summary": "Researchers working for more than a decade at Shég’ Xdaltth’í’, a site near Fairbanks, Alaska, report in Science Advances that its oldest layer — about 13,800 years old, and possibly 14,000 — holds thousands of artifacts packed into less than 11 square feet, along with tools and a wide variety of animal bones. Most striking are diamond-shaped projectile points previously found at only two sites on the Russian side of the Bering Strait, pointing to a cultural connection across the old land bridge. Unlike the short-lived hunting camps known from the same era, the site looks like a longer-term base camp with evidence of daily life, which suggests people may have been in Alaska even earlier than thought. “There’s just so much stuff,” University of Kansas anthropologist Kelly Graf told Gizmodo, explaining the team took its time to do the study right.",
+      "image_remote": "https://gizmodo.com/app/uploads/2026/10/excavation-1200x675.jpg",
+      "image_local": "images/story-1118.jpg",
+      "id": "4b209724700786fce8c10654249b101552cd1091"
+    },
+    "e7c62d8fc76846ebbe305e8fd581393c421f95bd": {
+      "headline": "Lawsuit says ChatGPT played unlicensed doctor and pushed a Washington man into a mental health crisis",
+      "cat": "AI / courts",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/chatgpt-medical-advice-lawsuit/",
+      "summary": "David Rosenthal, a 39-year-old Washington man with a history of ADHD, depression and bipolar episodes, is suing OpenAI, alleging that ChatGPT helped him choose medications, gave him dosing instructions and reassured him when he chose to ignore his doctor’s prescriptions. The complaint, filed in San Francisco, argues the chatbot did this without “any of the license, training, or professional judgment” of a medical professional, violating California’s ban on practicing medicine without a license. Rosenthal says he was hospitalized for several weeks in 2025 — first voluntarily, then involuntarily — soon after he started relying on ChatGPT, and kept using it for medical guidance after he was discharged. The suit claims that, but for ChatGPT’s “repeated encouragement and constant praise” overriding his own reluctance, his condition would not have spiraled.",
+      "image_remote": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/09/17/610919e3-7f44-4756-8217-f290996aea64/thumbnail/1200x630/24b3aab52d6cd27140d630e29cf8fe1e/takeout091726.jpg",
+      "image_local": "images/story-1119.jpg",
+      "id": "e7c62d8fc76846ebbe305e8fd581393c421f95bd"
     }
   },
-  "updated": "Friday, October 16, 2026 · 4:06 PM ET"
+  "updated": "Friday, October 16, 2026 · 6:05 PM ET"
 }
