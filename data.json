@@ -1,8 +1,85 @@
 {
-  "updated": "Thursday, October 15, 2026 · 10:08 PM ET",
+  "updated": "Friday, October 16, 2026 · 7:13 AM ET",
   "stories": [
     {
       "n": 1,
+      "headline": "Bend school shooter was stopped by a community member who chased him into the building, police say",
+      "cat": "Crime / self-defense",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/news/us-news/oregon-school-shooting-elementary-bend-victims-shooter-death-what-know-rcna603793",
+      "image_local": "images/story-1096.jpg",
+      "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261015-Silver-Rail-elementary-school-ew-610p-178e9f.jpg",
+      "id": "88a448e82baea0b973224affa1489ddff430b01f",
+      "summary": "Police now say the 16-year-old who shot his way through the locked doors of Silver Rail Elementary in Bend, Oregon, on Thursday afternoon was shot and killed by a community member who saw him go in, “pursued him into the school and engaged him.” Officers arrived about three minutes after the first 911 call — a driver reporting being shot at by someone with a long gun — and found the suspect already dead. Three children, ages 5, 8 and 11, and a teacher were killed; a 7-year-old and a 54-year-old teacher are in critical condition. Gov. Tina Kotek praised the unnamed bystander who “heroically intervened to stop further loss of life.” Investigators haven’t said how the teen got the gun — the ATF has run an urgent trace — or whether he had ties to the school. All Bend-La Pine schools are closed Friday."
+    },
+    {
+      "n": 2,
+      "headline": "White House declassifies documents it says undercut key claims behind Trump’s 2019 impeachment",
+      "cat": "Politics / Trump",
+      "source": "The Daily Signal",
+      "url": "https://www.dailysignal.com/2026/10/16/documents-question-key-claims-trumps-2019-impeachment/",
+      "image_local": "",
+      "image_remote": "",
+      "id": "61d8d87098d14f57c372c51396a0a15ce52dc0a1",
+      "summary": "The White House released declassified records late Thursday that it says cast doubt on the case House Democrats built for Trump’s first impeachment. An administration official said the papers show Joe Biden’s career staff supported both the $1 billion Ukraine loan guarantee and Prosecutor General Viktor Shokin — who was investigating Burisma — before Biden demanded Shokin’s firing as a condition of the loan. A November 2016 email from diplomat George Kent warned that Hunter Biden’s seat on the Burisma board “undercut the anti-corruption message” the U.S. was pushing in Ukraine, and other emails show Ambassador Marie Yovanovitch, a key impeachment witness, was briefed on Burisma and the Bidens. The official also said the whistleblower who triggered the probe had no firsthand knowledge of Trump’s 2019 call with Zelensky. Trump was impeached in 2019 and acquitted by the Senate in 2020."
+    },
+    {
+      "n": 3,
+      "headline": "Apple Store goes dark as $1,999 iPhone Duo pre-orders open at 8 a.m. ET today",
+      "cat": "Apple",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2288565/apple-iphone-duo-pre-orders-open-today/",
+      "image_local": "images/story-1097.jpg",
+      "image_remote": "https://www.engadget.com/img/gallery/apples-2000-iphone-duo-goes-on-pre-order-today-at-8am-et/l-intro-1792143306.jpg",
+      "id": "d5132a436c7b5b6bf43b0f2446319ab0199d259e",
+      "summary": "Apple’s online store went down early Friday ahead of pre-orders for the iPhone Duo, its first foldable, with a placeholder reading “We love that early energy. … Pre-order begins at 5:00 a.m. PT.” Orders open at 8 a.m. Eastern in more than 70 countries, and with demand expected to be high and supply tight, pre-ordering is likely the best bet; deliveries and in-store sales start Friday, Oct. 23. The Duo starts at $1,999 in Star White or Night Sky, with 256GB up to 2TB of storage. It pairs a 5.4-inch outer screen with a 7.6-inch, nearly creaseless inner OLED that unfolds into a small iPad. Engadget, which called it “Apple’s most exciting device in a decade,” notes the trade-offs: no Face ID, no variable-aperture main camera like the iPhone 18 Pro, and a weaker under-display selfie camera on the inner screen."
+    },
+    {
+      "n": 4,
+      "headline": "Brewers sweep the two-time champion Dodgers to reach their first World Series since 1982",
+      "cat": "Sports / MLB",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/sports/mlb/milwaukee-brewers-los-angeles-dodgers-mlb-nlcs-world-series-rcna603783",
+      "image_local": "images/story-1098.jpg",
+      "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261015-Brewers-Dodgers-Baseball-vsb-2253-b51017.jpg",
+      "id": "0875914d2fd191e303e54ec5c78442aabd2ca33d",
+      "summary": "Milwaukee finished a four-game NLCS sweep of Los Angeles with a 6–4 comeback win Thursday night, ending the Dodgers’ bid to become just the third franchise, after the Yankees and A’s, to win three straight titles. The Dodgers led 4–0 in the second inning after an Andy Pages RBI single and a 428-foot, three-run homer from Shohei Ohtani. Jake Bauers’ two-run double and a David Hamilton RBI single chipped away, a bases-loaded walk tied it, Garrett Mitchell’s solo shot in the sixth put the Brewers ahead, and Hamilton homered in the ninth. “It’s absolutely surreal,” Mitchell said. Milwaukee, which has never won a World Series, will face the winner of Cleveland vs. Tampa Bay."
+    },
+    {
+      "n": 5,
+      "headline": "Reported ship attacks around the Strait of Hormuz hit a record 12 in one week",
+      "cat": "World",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cmde8dpg8g0no",
+      "image_local": "images/story-1099.jpg",
+      "image_remote": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/139a/live/0f24b0c0-c8b3-11f1-bc2e-018d645d8d21.png.webp",
+      "id": "5d22b7474da9c1ee48fea8534f30d0bad3652574",
+      "summary": "Twelve vessels reported being attacked in and around the Strait of Hormuz from Oct. 5 to 11, the most in any week since the U.S.-Israeli war with Iran began, according to a BBC Verify analysis of UK Maritime Trade Operations data. Six were hit on Sunday alone, and four more attacks have been reported this week, including the container ship GFS Pride, which sank Tuesday after its 21 crew were evacuated. Experts say Tehran is striking ships to reassert control of the waterway as U.S. forces escort more tankers through the strait, and it is hitting targets farther afield, such as a tanker set ablaze off Oman more than 150 miles away and another struck north of Qatar. Central Command says escorted commercial traffic is still moving, but the September rebound in Gulf oil shipments has slowed."
+    },
+    {
+      "n": 6,
+      "headline": "Trivium’s Matt Heafy says he walked out and quit the band last year — until his wife talked him back",
+      "cat": "Music / metal",
+      "source": "Louder",
+      "url": "https://www.loudersound.com/bands-artists/interviews/i-stand-up-i-leave-im-like-im-done-with-this-band-i-cant-do-this-anymore-triviums-matt-heafy-reveals-why-he-almost-quit-the-band-last-year-and-who-talked-him-out-of-it",
+      "image_local": "images/story-1100.jpg",
+      "image_remote": "https://cdn.mos.cms.futurecdn.net/ymmTJ9are367TWApntpSna-1280-80.jpg",
+      "id": "7da7a4f4f28987a4184a97324d20281c110db308",
+      "summary": "Trivium frontman Matt Heafy told Metal Hammer that in mid-2025, right after the band’s 20th-anniversary Ascendancy tour, the band’s chemistry was “falling apart” and he hit his breaking point while tracking guitars at their rehearsal hangar. “I stand up. I leave. I call [my wife] Ashley. I’m like, ‘I’m done with this band. I can’t do this anymore,’” he said, describing driving home and switching off his phone. Ashley let the dust settle and told him he couldn’t quit, so he went back. The problems continued, though, and drummer Alex Bent left that October. Heafy won’t air the “dirty laundry,” but he says the change saved the band: without it Trivium “would have been done,” and now “we are tighter live than we’ve ever been.”"
+    },
+    {
+      "n": 7,
+      "headline": "License-plate camera helps Wisconsin police nab Iowa man suspected of stealing $18,000 in LEGO from Walmarts",
+      "cat": "LEGO / crime",
+      "source": "WQOW (WKOW)",
+      "url": "https://www.wqow.com/news/wisconsin/police-arrest-iowa-man-suspected-of-stealing-18k-in-lego-sets-across-wisconsin-and-illinois/article_6836929e-814f-59f0-970b-2cc6cc146f2a.html",
+      "image_local": "",
+      "image_remote": "",
+      "id": "1efb59c5eae01094c41f6ead428c452db5080195",
+      "summary": "Sun Prairie, Wisconsin, police arrested 28-year-old Willie Dean of Iowa City on Wednesday after a Walmart called in an active retail theft. Officers were already nearby because an automatic license-plate reader had flagged a vehicle tied to earlier thefts. Dean ran from the store, but officers caught him in a nearby backyard, where police say he resisted before being taken into custody. Investigators believe he is behind thefts of more than $18,000 worth of LEGO from Walmart stores across Wisconsin and Illinois; about $1,500 worth was recovered. He also had a nationwide extraditable warrant on burglary and theft counts. He was booked on retail theft, resisting an officer, and misdemeanor and felony bail-jumping charges as other agencies work out how far the thefts reach."
+    },
+    {
+      "n": 8,
       "headline": "Tesla finally reveals the next-gen Roadster — it drove upside down, flew, flipped and landed",
       "cat": "Tesla",
       "source": "Teslarati",
@@ -13,7 +90,7 @@
       "summary": "Nearly nine years after the first tease, Tesla showed the new Roadster Thursday night at an event near SpaceX’s McGregor site outside Waco, Texas. Using fans and cold-gas thrusters, the car drove up a curved ramp until it was upside down, flew off, flipped and landed, then hovered over a Cybercab, Cybertruck, Semi, Model Y and Model 3. “Well, it worked,” Elon Musk said. “Flying cars are real.” Tesla lists three versions: a two-seat road-ready Performance model (0–60 in under 1.6 seconds), a two-seat race-ready Thrust model with rear thrusters (under 0.9 seconds), and an invite-only single-seat Rocket (under 0.59 seconds, 230+ mph top speed, 300+ miles of range). Pricing wasn’t given; reservations reopened in the configurator, and production is planned for Giga Texas in 2027 or 2028."
     },
     {
-      "n": 2,
+      "n": 9,
       "headline": "Trump calls Michigan Senate hopeful Abdul El-Sayed “100% Muslim Brotherhood” and a “con man”",
       "cat": "Politics / Trump",
       "source": "Fox News",
@@ -24,7 +101,7 @@
       "summary": "At a White House Rose Garden lunch Thursday, President Trump went after Michigan’s Democratic Senate nominee: “He’s a Muslim Brotherhood guy, 100%. … How about having him be on the Senate Intelligence Committee?” Trump also called him a “fraud” and “con man” and said he would visit Michigan to “expose” him. The attacks follow fresh scrutiny of 2012 posts by El-Sayed’s half-sister, Eman Abdelhadi, saying their mother was active in the Muslim Brotherhood in Egypt in the early 1970s and that “my family has long been MB.” El-Sayed denies any family ties and says his opponent, Republican Mike Rogers, is attacking his name and faith instead of his policies. The clash comes after a tense NBC interview in which he was pressed on the posts."
     },
     {
-      "n": 3,
+      "n": 10,
       "headline": "Body found in a barrel at Lake Mead in 2022 identified as 1980s murder victim; killer still unknown",
       "cat": "Crime / courts",
       "source": "NBC News",
@@ -35,7 +112,7 @@
       "summary": "Four years after the bones of a man shot in the head were found in a deteriorated 50-gallon drum as Lake Mead’s waters receded, Clark County Coroner Melanie Rouse on Thursday identified him as Edward Lelburian Jackson, a man in his mid-to-late 50s from Arkansas. Las Vegas police believe he was killed in the early 1980s, based on clothing remnants and family interviews, but don’t know who did it. Despite years of speculation about the mob, homicide Lt. Robert Price said investigators have nothing to support organized-crime theories; Jackson traveled the country, had no known Las Vegas ties or gambling history, and had a Utah record for aggravated arson and fraud conspiracy. Genealogical DNA testing by Oklahoma State University cracked the ID."
     },
     {
-      "n": 4,
+      "n": 11,
       "headline": "KK’s Priest re-records Judas Priest’s “Never Satisfied” with Ripper Owens — and fans slam the AI video",
       "cat": "Music / metal",
       "source": "Louder",
@@ -46,7 +123,7 @@
       "summary": "Former Judas Priest guitarist KK Downing’s band KK’s Priest has released a new version of Priest’s 1974 classic “Never Satisfied,” sung by ex-Priest frontman Tim “Ripper” Owens. The video uses AI to recreate a young Downing staring into a guitar-shop window and stepping off a bus with his case before heading for stardom — and many fans aren’t buying it (“Love the song, but goddam I hate the AI slop”). Downing defended it as something “absolutely impossible to create or film today” without the technology, and said of Owens versus Rob Halford on the original: “Two great singers and performers.” Producer JPSR Studio openly bills itself as an AI-native production house."
     },
     {
-      "n": 5,
+      "n": 12,
       "headline": "Drone strikes on tankers in Romanian waters raise fears Russia’s war is spilling into NATO territory",
       "cat": "World",
       "source": "PBS NewsHour (AP)",
@@ -57,7 +134,7 @@
       "summary": "Romania launched search-and-rescue operations off its Black Sea coast Thursday after a drone hit the San Marino-flagged chemical tanker Wine Trader about 15 miles southeast of the port of Sulina, setting it ablaze; five crew were rescued and seven are missing. President Nicusor Dan said another ship, the Comoros-flagged Yara J, was struck the night before in Romanian territorial waters, though he didn’t say where the drones came from. Romania’s defense ministry tracked a “group of air targets” near Ukraine’s Snake Island overnight and a drone briefly entered Romanian airspace. It follows Tuesday’s drone strikes on two ships off Bulgaria that left 11 crew missing — a spate of attacks inside the waters of NATO and EU members."
     },
     {
-      "n": 6,
+      "n": 13,
       "headline": "Yashica’s tiny 1959-style Y16 pocket camera gets a $119 price and late-November ship date",
       "cat": "Photography / gadgets",
       "source": "DPReview (via Yahoo Tech)",
@@ -68,7 +145,7 @@
       "summary": "Yashica has fully announced the Y16, a pocket digital camera styled after the original company’s 1959 Y16. It pairs a 12MP sensor with a 27mm-equivalent F12 lens, an optical viewfinder, a 1.45-inch screen and a real xenon flash good to about 6.5 feet, plus a top dial with built-in filter looks. At 93 grams (3.3 oz) and 3.6 × 1.8 × 1.1 inches it fits in any pocket, and it ships with an 8GB microSD card. DPReview warns image quality will trail a typical smartphone — the lo-fi look is the point. Price is $119, pre-orders are open, and shipping is expected in late November. Today’s Yashica brand is licensed from Kyocera to Hong Kong-based 100 Enterprises."
     },
     {
-      "n": 7,
+      "n": 14,
       "headline": "Apple’s own website leaks an unreleased iPad mini Smart Folio ahead of the expected Oct. 28 launch",
       "cat": "Apple",
       "source": "MacRumors",
@@ -79,7 +156,7 @@
       "summary": "An iPad mini Smart Folio with model number A3632 — which doesn’t match any current or past iPad mini case — has appeared on Apple’s French regulatory website, listed alongside the iPhone 18 Pro accessories added in September. The listing has no specs, but a new Smart Folio suggests design changes that may keep current cases from fitting. Rumors point to an iPad mini 8 with an OLED display and better water resistance, expected to be announced Oct. 27 or 28 alongside the OLED MacBook Pro. AppleInsider notes the current A17 Pro iPad mini is model A2993, while this year’s iPhone 17e is A3634 — the closest number to the new case’s A3632."
     },
     {
-      "n": 8,
+      "n": 15,
       "headline": "Several killed in Bend, Oregon elementary school shooting; suspect also dead",
       "cat": "Crime / courts",
       "source": "CBS News",
@@ -90,7 +167,7 @@
       "summary": "Federal law enforcement officials told CBS News several people were killed in a Thursday shooting at Silver Rail Elementary School in Bend, Oregon, and the suspect was shot and killed. Bend Police said at least two people were taken to St. Charles Medical Center and that “the victims include children,” without clarifying whether those hospitalized were among the dead. Officers reached the school within about three minutes of a call reporting a shot into a car just before 1 p.m. local time; communications manager Sheila Miller said it was not yet clear who killed the suspect and that it “may have been a bystander.” The FBI and ATF were assisting local and state police."
     },
     {
-      "n": 9,
+      "n": 16,
       "headline": "Amazon blocks Musk’s Grok Bot from shopping — and he floats building a rival store",
       "cat": "AI / Elon",
       "source": "Teslarati",
@@ -101,7 +178,7 @@
       "summary": "After a user posted Amazon’s error that “unauthorized AI agent” access violates its terms, Elon Musk told followers to have Grok Bot buy elsewhere for a better deal and later wrote, “Maybe we should start a competitor to Amazon.” Hours earlier he promised SpaceX will “make you whole” if Grok Bot botches a purchase or leaks a card — a guarantee he first floated in August. Amazon has been tightening blocks on third-party shopping agents (including Meta’s Muse). Grok Bot already runs in Tesla vehicles and across the Robotaxi fleet, so riders who ask for groceries or coffee depend on retailers that still let the agent in."
     },
     {
-      "n": 10,
+      "n": 17,
       "headline": "Jets Thursday injury report vs. Patriots: Hall, Mitchell, Ossai, Parham out of practice; Sadiq still limited",
       "cat": "Jets",
       "source": "New York Jets",
@@ -112,7 +189,7 @@
       "summary": "Ahead of Sunday’s Week 6 trip to New England, the Jets listed running back Breece Hall (quad), wide receiver Adonai Mitchell (finger), edge Joseph Ossai (ankle), and offensive lineman Dylan Parham (knee) as did-not-participate Thursday. Rookie tight end Kenyon Sadiq (concussion) and wide receiver Omar Cooper Jr. (ankle) were limited again, with Sadiq still in the NFL’s five-step concussion protocol after last Sunday’s win over Cleveland. Safety Dane Belton (knee) was also limited; linebacker Francisco Mauigoa (quad) practiced fully. On the Patriots side, star wideout A.J. Brown (ankle) was limited as New England opened his return window."
     },
     {
-      "n": 11,
+      "n": 18,
       "headline": "Company that bolted gas engines into Teslas goes bankrupt owing about $37 million",
       "cat": "Tesla",
       "source": "Electrek",
@@ -123,7 +200,7 @@
       "summary": "Austrian engineering firm Obrist — known for stripping Tesla Model 3 and Model Y battery packs and installing “HyperHybrid” gas or methanol range extenders in the frunk — is insolvent with about €31.8 million (~$37 million) in combined debts across three companies. Feldkirch Regional Court opened bankruptcy for Obrist Powertrain and Obrist Technologies at the end of September; both told the court they would shut down immediately with no restructuring. Founder Frank Obrist blamed high R&D costs, failed investor talks, and Europe’s auto crisis. The firm never shipped a production car despite years of show demos, methanol “aFuel” pitches, and lobbying against the EU’s 2035 combustion ban."
     },
     {
-      "n": 12,
+      "n": 19,
       "headline": "Naugatuck man arrested on federal complaint for online threats to kill Republicans and a public official",
       "cat": "Local / Connecticut",
       "source": "Patch Naugatuck",
@@ -134,7 +211,7 @@
       "summary": "Scott Dyer, 35, of Naugatuck was arrested on a federal criminal complaint charging him with making interstate threats after allegedly posting YouTube comments on Oct. 8–9 saying he was “prepared to kill Republicans,” had local targets selected, kept “hundreds of people in an excel spreadsheet,” and would “head to the capitol tomorrow to assassinate” an unnamed high-ranking official, U.S. Attorney David Sullivan and FBI New Haven’s P.J. O’Brien said. Other posts allegedly referred to stockpiling guns, ammo, and explosive precursors. He appeared in Bridgeport Wednesday and was released on $100,000 bond into home confinement with electronic monitoring; the charge carries up to five years."
     },
     {
-      "n": 13,
+      "n": 20,
       "headline": "Porsche unveils Mission S mid-engine supercar as a permanent lineup fixture above the 911",
       "cat": "Cars",
       "source": "The Drive",
@@ -143,83 +220,6 @@
       "image_remote": "https://www.thedrive.com/wp-content/uploads/2026/10/Mission-S-Hero-1.jpg?quality=85&w=1200",
       "id": "9ad6da47ec623956cf5831c771c6337730c0f97b",
       "summary": "Porsche pulled the sheet off the Mission S on Thursday, a mid-engine performance car it says will sit above the 911 as a lasting model — not a one-off hypercar. The concept borrows GT1-style front cues and 959-ish rear shapes, with a 917-style whirling radiator fan atop the engine. Porsche kept the powertrain secret beyond confirming internal combustion (speculation points at a new flat-eight) and a PDK-style automatic with PRND and paddles. The cabin is aggressively driver-focused — five circular gauges, left-side key, tach that moves closer in some modes — and notably skips a center touchscreen. Pricing isn’t official; German reporting has floated half-million-dollar territory."
-    },
-    {
-      "n": 14,
-      "headline": "Dave Mustaine’s memoir In My Darkest Hour debuts at No. 4 on the New York Times bestseller list",
-      "cat": "Music / metal",
-      "source": "Blabbermouth",
-      "url": "https://blabbermouth.net/news/megadeth-leader-dave-mustaines-new-memoir-in-my-darkest-hour-is-a-new-york-times-best-seller",
-      "image_local": "images/story-1089.jpg",
-      "image_remote": "https://assets.blabbermouth.net/media/davemustainedarkestbookside2aug2026_638.jpg",
-      "id": "1c5c5b899c127c6d6f30c59dfbd973ec2c2b4af2",
-      "summary": "Megadeth founder Dave Mustaine’s new memoir, In My Darkest Hour (co-written with Joe Layden), debuted at No. 4 on the New York Times Hardcover Nonfiction best sellers list after its Sept. 8 release via Grand Central’s Da Capo imprint. The book covers his 2019 tongue-cancer diagnosis, chemo and radiation, and how he went from treatment rooms straight into sessions for The Sick, The Dying … And The Dead! while leaning on family and faith. Megadeth is closing its career on a high: the self-titled final studio album debuted at No. 1 on the Billboard 200, the band’s biggest chart week yet, with the farewell tour underway."
-    },
-    {
-      "n": 15,
-      "headline": "Lindsay Clancy holdout juror says every juror had phones as the defense seeks only his records",
-      "cat": "Crime / courts",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/us/lindsay-clancy-holdout-juror-says-everyone-had-phones-defense-seeks-only-his-records",
-      "image_local": "images/story-1081.jpg",
-      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/desonrvil-interview.png",
-      "id": "72d76533fe9dc14e9647f7dbeeca8665f5115a92",
-      "summary": "In his first televised interview since last month’s mistrial, lone holdout juror Michael Desronvil told Fox News’ Kayleigh McEnany he stands by his refusal to join the 11 jurors who wanted Lindsay Clancy found not criminally responsible for strangling her three children, saying the evidence showed she was “methodical.” Defense attorney Kevin Reddington has asked the judge to preserve records for all 12 jurors and six alternates, but wants only Desronvil’s phone examined for deliberation hours — even though, Desronvil says, everyone had phones. He also described reporters going through his mail and peering into his windows, and urged the public to keep the focus on Dawson, Cora, and baby Callan."
-    },
-    {
-      "n": 16,
-      "headline": "Trump administration sues California to block counting mail ballots from 20,000 alleged noncitizens",
-      "cat": "Politics / election",
-      "source": "PBS NewsHour (AP)",
-      "url": "https://www.pbs.org/newshour/politics/trump-administration-sues-california-to-block-counting-of-alleged-noncitizen-mail-ballots",
-      "image_local": "",
-      "image_remote": "",
-      "id": "dfef07c3f5468f0ebc73f6d7b7b97d232c8d5f64",
-      "summary": "After California let a 48-hour deadline pass, the Justice Department sued state election officials Thursday, asking a federal judge to bar counting mail-in ballots from about 20,000 people the government identifies as “likely” noncitizens until their citizenship is confirmed. The suit says California “made no serious effort” to work with federal officials. Secretary of State Shirley Weber says the DOJ hasn’t backed up the list — delivered on a thumb drive with the password on a sticky note — and Attorney General Rob Bonta says the state will not withhold ballots, arguing federal law bars voter-roll changes within 90 days of an election. Voting is already underway ahead of Nov. 3."
-    },
-    {
-      "n": 17,
-      "headline": "Roger Waters calls James Hetfield “a complete prick” with “an IQ of about three” over his Sphere speech",
-      "cat": "Music / metal",
-      "source": "Louder (Metal Hammer)",
-      "url": "https://www.loudersound.com/news/roger-waters-pink-floyd-slams-metallica-james-hetfield-apolitical-statement-the-sphere-2026",
-      "image_local": "images/story-1082.jpg",
-      "image_remote": "https://cdn.mos.cms.futurecdn.net/Pv88YV9Qtdyh4j9FCo4nEh-1280-80.jpg",
-      "id": "d7d6cff6c5b0d01fd1a88cf67367e9164987a571",
-      "summary": "Ex-Pink Floyd bassist Roger Waters, 83, tore into Metallica’s James Hetfield on The Katie Halper Show after Hetfield told a Las Vegas Sphere crowd Saturday that “Metallica is not here, like some other entertainers, to influence you with their bullshit.” Shown Hetfield’s past remarks that “politics drive me crazy” alongside Metallica’s political-sounding lyrics on Disposable Heroes and …And Justice For All, Waters called him “a nobody” with “a few hundred million dollars” and said he is “no musician,” calling an acoustic Metallica performance “appalling.” Hetfield is 63."
-    },
-    {
-      "n": 18,
-      "headline": "Meta’s new Muse Spark Open AI model runs on two Mac Studios — and Ternus thanks Zuckerberg",
-      "cat": "AI / Mac",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/10/15/meta-muse-spark-open-mac-studio/",
-      "image_local": "images/story-1083.jpg",
-      "image_remote": "https://images.macrumors.com/t/MyTz3YsXEfhbGqeisTvS0AcCX_I=/2000x/article-new/2026/10/muse-spark-open-zuck.jpg",
-      "id": "3b2a1fd2729d86709a36d29c2c0496a9884fc601",
-      "summary": "Meta released Muse Spark Open, which it calls the most capable U.S. open-weight AI model yet, and worked with Apple so it runs locally on two 512GB M5 Ultra Mac Studios linked with Apple’s MLX framework. The model has 816 billion total parameters (42 billion active) and a 1 million-token context window, aimed at coding and agent work. Meta says Apple’s unified memory and 1.2 TB/s bandwidth let the pair behave like one machine with a terabyte of memory. Apple CEO John Ternus congratulated Zuckerberg on X. The catch: the 512GB Mac Studio isn’t out until later this month, and the 256GB model already tops $10,000."
-    },
-    {
-      "n": 19,
-      "headline": "Tesla’s remote operators are now five-for-five in crashing the Robotaxis they take over, NHTSA data shows",
-      "cat": "Tesla",
-      "source": "Electrek",
-      "url": "https://electrek.co/2026/10/15/tesla-remote-operators-crashing-robotaxis/",
-      "image_local": "",
-      "image_remote": "",
-      "id": "e09f53998f8aea6e9adb5e12055729a9392fe9b7",
-      "summary": "Tesla’s latest federal crash filings add two more Robotaxi incidents in which a remote operator — not the self-driving system — was driving: a Model Y that scraped a parked SUV in Dallas at 0.4 mph and another that hit a dumpster in an Austin alley at about 1 mph, both with no passengers. That makes five remote takeovers in the NHTSA data, and every one ended in contact, including a curb-and-fence hit and a construction-barricade crash in Austin. Tesla now has 36 Robotaxi incident reports on file, up from 22 in July. Tesla doesn’t disclose how often operators intervene; rival Waymo says it doesn’t let remote staff steer at all."
-    },
-    {
-      "n": 20,
-      "headline": "White House and Pentagon prepare plans to use the “mother of all bombs” on Iranian military sites",
-      "cat": "World / Iran",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/iran-trump-administration-mother-of-all-bombs/",
-      "image_local": "",
-      "image_remote": "",
-      "id": "717505a96f8bb1f315a378df1571d545a9e1dd44",
-      "summary": "The White House and Pentagon have drawn up plans to hit Iranian military sites with the Massive Ordnance Air Blast bomb if President Trump orders it, sources told CBS News, following a CNN report Thursday. A Pentagon official said the Department of War plans for “a wide range of operational scenarios.” The roughly 30,000-pound MOAB — the largest U.S. non-nuclear weapon — was first used in combat on Trump’s watch in 2017 against an ISIS cave complex in Afghanistan. Last week Trump said the U.S. would not attack Iran before the midterms and touted “productive conversations” with Tehran."
     }
   ]
 }
