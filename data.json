@@ -1,8 +1,85 @@
 {
-  "updated": "Friday, October 16, 2026 · 10:11 PM ET",
+  "updated": "Saturday, October 17, 2026 · 7:06 AM ET",
   "stories": [
     {
       "n": 1,
+      "headline": "Trump waives the Graham Act’s Russia sanctions and 100% tariffs on Russian-oil buyers two days before they kicked in",
+      "cat": "World / politics",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/trump-waives-sanctions-tariffs-russian-oil-lindsey-graham/",
+      "image_local": "images/story-1127.jpg",
+      "image_remote": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/16/50950249-eaa4-4584-aeda-312d9f37f0f7/thumbnail/1200x630/07ebdb7f22d5d0f0248bd1a0aad90d12/gettyimages-2299378687.jpg",
+      "id": "c9d148501251dccfa4991aeb9cc6ccaba57a219d",
+      "summary": "President Trump signed an executive order late Friday waiving key parts of the Lindsey O. Graham Sanctioning Russia Act, the bipartisan law he signed last month. Starting Sunday it would have put 100% tariffs on the five biggest importers of Russian crude and natural gas, a group that includes China, India and Turkey. Trump also waived the law’s 500% tariffs on Russian goods and paused some other sanctions. He used a provision that lets the president certify to Congress that a waiver is “in the national interests of the United States.” The waivers stay in place until officials decide more action is needed, and agencies are told to keep watching countries that buy Russian energy or dodge sanctions. The move follows last week’s easing on Russian diesel, part of Trump’s push to bring down energy prices that spiked during the Iran war. Putin envoy Kirill Dmitriev called it “truly historic.” Zelenskyy called it “unfortunate” and a “sanctions blackout” that rewards Putin. A bipartisan group of senators had already called the diesel waivers a “betrayal” of Ukraine."
+    },
+    {
+      "n": 2,
+      "headline": "Penguins blow a 2-0 lead as the Avalanche score five straight in a 5-2 loss; Chinakhov has no timeline to return",
+      "cat": "Penguins",
+      "source": "Pittsburgh Hockey Now",
+      "url": "https://pittsburghhockeynow.com/penguins-collapse-mistakes-a-better-team-in-colorado/",
+      "image_local": "images/story-1128.jpg",
+      "image_remote": "https://media.zenfs.com/en/sb_nation_articles_115/28f2711054746060e228c32609e25e0b.jpg",
+      "id": "abb4763c42b6d05020c192b5df490a3b87d46731",
+      "summary": "The Penguins (3-4-1) had their best period in weeks in Denver Friday night. They outshot Colorado 14-5 in the first, and Evgeni Malkin and Bryan Rust scored 29 seconds apart for a 2-0 lead. Then the Avalanche (5-2-1) scored five unanswered goals at Ball Arena. Artturi Lehkonen scored twice, including the tying goal 25 seconds into the second, off a Kaedan Korczak giveaway behind the net. Gabriel Landeskog got a free tap-in, rookie T.J. Hughes scored his first NHL goal, and Nathan MacKinnon added a power-play one-timer, finishing with a goal and three assists. Arturs Silovs stopped MacKinnon on a penalty shot and made 27 saves. Pittsburgh went 0-for-3 on the power play and is now scoreless on its last 20 chances. One bright spot: Sidney Crosby’s assist moved him past Joe Thornton for seventh on the NHL’s all-time assists list, with 1,110. Forward Egor Chinakhov (lower body) missed the game, has no timeline to return and is expected to miss tonight’s game at Vegas and Monday’s at Utah."
+    },
+    {
+      "n": 3,
+      "headline": "St. Joseph girls soccer stays unbeaten, beating Greenwich 3-1 in Trumbull’s No. 1 vs. No. 2 FCIAC showdown",
+      "cat": "Local / Trumbull CT",
+      "source": "Patch (Trumbull Patch AM)",
+      "url": "https://patch.com/connecticut/trumbull/patch-am-how-st-joseph-stayed-unbeaten-trumbull-s-big-fciac-sho-nodx-20261017",
+      "image_local": "",
+      "image_remote": "",
+      "id": "72cf3307b427b2c9e2f360fc86858acb9d4485dd",
+      "summary": "Trumbull’s St. Joseph High School won Friday’s top-ranked girls soccer matchup on its home field. The Cadets beat No. 2 Greenwich 3-1 and handed the Cardinals their first loss of the season. The win keeps St. Joseph unbeaten heading into the end of the regular season and in prime position for the upcoming FCIAC tournament, where Greenwich could get a rematch. Saturday’s Trumbull Patch AM also notes a celebration of life for longtime Connecticut musician Darik Pearson, frontman of Darik and the Funbags. It runs Sunday, Oct. 18, at Abriola Parkview Funeral Home on White Plains Road in Trumbull. Voters are reminded that the Nov. 3 general election is coming up, with early voting starting Monday."
+    },
+    {
+      "n": 4,
+      "headline": "Judge lets Alex Murdaugh’s defense run a ‘high risk’ DNA test that could use up the last samples from Maggie’s phone and fingernails",
+      "cat": "Crime / courts",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/us/alex-murdaugh-defense-high-risk-move-show-dna-proves-didnt-kill-family-prosecutor-says",
+      "image_local": "images/story-1129.jpg",
+      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/Murdaugh-3.jpg",
+      "id": "925e9889520e1faf6dd817b817c2332a06be420d",
+      "summary": "At a pretrial hearing in Lexington, South Carolina, on Friday, Judge Debra McCaslin sided with Alex Murdaugh’s lawyers over prosecutors’ objections. She allowed new DNA testing on swabs from Maggie Murdaugh’s cellphone and on clippings from under her fingernails, even though the testing will likely use up the last usable material. McCaslin said due process requires “a meaningful opportunity to present a full and complete defense.” The defense says all three samples contain unidentified male DNA. It wants the lab Othram to run a Y-STR test, which isolates the Y chromosome, to see whether a single unknown man is the source. Lead prosecutor Creighton Waters called the test “high risk” and said even the defense’s own expert expected little, adding that Othram’s first quantification came back as “goose eggs on the Y chromosome.” Murdaugh was convicted in 2023 of murdering his wife Maggie and son Paul. The South Carolina Supreme Court threw out the verdict because former clerk of court Becky Hill had improperly influenced the jury. His retrial starts April 5, 2027."
+    },
+    {
+      "n": 5,
+      "headline": "Apple rewrites App Store rules to go after AI deepfakes, ‘nudify’ apps and bait-and-switch features added after review",
+      "cat": "Apple / AI",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/16/app-store-rules-deepfakes/",
+      "image_local": "",
+      "image_remote": "",
+      "id": "e50fd39f356ea15d362ff959dd9b2470ea567591",
+      "summary": "Apple on Friday expanded its App Review Guidelines to cover AI-generated nonconsensual intimate imagery. Explicit content was already banned, but the updated rule 1.2 now names AI content-creation apps and requires developers to actively prevent and remove AI deepfakes, or risk being pulled from the App Store. MacRumors notes the rule could apply to apps like xAI’s Grok. Earlier this year Apple threatened to remove Grok over nude deepfakes, and xAI added safeguards before an update was approved. A new guideline, 2.5.19, targets “bait-and-switch” apps that hide features during review and switch them on later, a trick Apple ties to “nudification” apps that make explicit images of real people. Developers caught doing it risk removal from both the App Store and the Apple Developer Program. Apple also extended its ban on apps that facilitate human trafficking or child exploitation to alternative app marketplaces. “We do not hesitate to remove apps, and terminate the developers behind them,” Apple said."
+    },
+    {
+      "n": 6,
+      "headline": "Santa Ana winds drive the Norte Fire through coastal San Clemente and San Juan Capistrano; 16,000 ordered out",
+      "cat": "U.S. / disasters",
+      "source": "NPR (AP)",
+      "url": "https://www.npr.org/2026/10/17/g-s1-148569/coastal-homes-burn-in-california-fires",
+      "image_local": "images/story-1130.jpg",
+      "image_remote": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8640x4860+0+450/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa3%2Fc2%2F7c93157648a897c328e54e703d4c%2Fap26289837988678.jpg",
+      "id": "7a69552850802cc66a92cf89efce45509cd676be",
+      "summary": "A fast-moving fire pushed by dry Santa Ana winds burned at least six homes in Southern California on Friday, engulfing expensive coastal properties in Orange County. The Norte Fire started in San Clemente and was blown into San Juan Capistrano, where firefighters fought blazing homes next to tennis courts and pools under black smoke visible for miles. By Friday night about 16,000 residents were under evacuation orders, the Orange County Fire Authority said. Two firefighters were hospitalized with heat-related injuries, nine schools closed, and the cause is not yet known. The fire was under a square mile as of Friday evening. A separate fire near Camp Pendleton shut part of Interstate 5 for hours, and tens of thousands of Californians had their power cut as a precaution. Fire-weather conditions and a coastal heat advisory last through Saturday night. “Had these winds been a little bit stronger, a little bit different direction, this could have been a whole lot worse,” San Clemente Mayor Rick Loeffler said."
+    },
+    {
+      "n": 7,
+      "headline": "Jets at Patriots preview: win the turnover battle against Drake Maye, keep the pass rush coming and keep running Braelon Allen",
+      "cat": "Jets",
+      "source": "NewYorkJets.com",
+      "url": "https://www.newyorkjets.com/news/what-is-the-recipe-for-a-jets-win-against-new-england-patriots-10-16-2026",
+      "image_local": "images/story-1131.jpg",
+      "image_remote": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/jets/hqoi6schwf2fawf4y9qb",
+      "id": "ccee37db2dbea833a3602693c017efbb6d40b00a",
+      "summary": "Ahead of Sunday’s AFC East opener in Foxborough, the team’s own reporters lay out what the Jets need to win. The biggest gap is turnovers. The Jets are plus-3, tied for sixth in the NFL, and Geno Smith is one of three starting quarterbacks with no interceptions. The Patriots are minus-5, and Drake Maye is tied for the league lead with seven picks. After eight sacks against Cleveland, the Jets face a New England line missing two starters, LT Will Campbell and RG Mike Onwenu. Safety Minkah Fitzpatrick against Maye is the matchup to watch. The Jets’ No. 4 pass defense (175 yards a game) has to contain Maye’s deep shots; he threw two touchdowns of 30-plus yards against the Raiders. CB Azareye’h Thomas leads the team with five pass breakups. On offense, Braelon Allen has carried the run game the past two weeks, and Smith is going for a road win in New England for the third straight season with a third different team. Rookie WR Omar Cooper Jr. returns for the first time since Week 1, while Breece Hall, Adonai Mitchell and Dylan Parham remain out."
+    },
+    {
+      "n": 8,
       "headline": "Ukraine is negotiating with SpaceX and the Pentagon to lift the Starshield speed cap as Trump says “it wasn’t me”",
       "cat": "World / tech",
       "source": "AP (via Yahoo News)",
@@ -13,7 +90,7 @@
       "summary": "Ukraine is in talks with SpaceX, the Pentagon and the U.S. government to lift a speed cap on Starshield, the military version of Starlink, Zelenskyy defense-tech adviser Serhii Beskrestnov told the AP on Friday. The cap, imposed without warning early Thursday, cuts the connection when a terminal moves faster than about 100 mph, which hobbles the interceptor drones Ukraine had just started using to chase down Russia’s jet-powered Shahed drones. Beskrestnov said SpaceX fixed related outages but the limit remains, and Kyiv is weighing a pricier aviation package with no cap; he stressed Starshield isn’t used for the drones hitting Russian refineries. Musk has said the U.S. government controls Starshield and the decision rests with the military and the president. Leaving for Georgia, Trump said, “I don’t know if it was anybody, but it wasn’t me, and I don’t think it was Elon.” Reuters had reported, citing U.S. officials, that the order came from inside the White House. The Pentagon hasn’t responded."
     },
     {
-      "n": 2,
+      "n": 9,
       "headline": "DHS Secretary Mullin on the Charlie Kirk Show: the Ilhan Omar probe is a “strong case” headed for a grand jury",
       "cat": "Politics / immigration",
       "source": "CBS News",
@@ -24,7 +101,7 @@
       "summary": "Homeland Security Secretary Markwayne Mullin told Andrew Kolvet, host of “The Charlie Kirk Show,” on Friday that federal agents served multiple search warrants the same day they searched Rep. Ilhan Omar’s Washington home, that a judge signed off, and that investigators expect to take the case to a grand jury. “We wouldn’t move forward, and President Trump didn’t want to move forward either, unless we knew that it couldn’t be politically driven,” Mullin said, calling it “a strong case.” The investigation, run by Homeland Security Investigations with the Justice Department, concerns immigration paperwork Omar’s late father filed when she was a child; relatives have received grand jury subpoenas and her phone was taken. Speaking hypothetically, Mullin said fraudulent paperwork that brought in others could be treated as a RICO conspiracy, though CBS notes RICO generally carries a five-year statute of limitations. Omar hasn’t been charged and calls the probe political intimidation."
     },
     {
-      "n": 3,
+      "n": 10,
       "headline": "Judge tosses child sex abuse indictment against actor Timothy Busfield, citing prosecutorial misconduct",
       "cat": "Crime / courts",
       "source": "CBS News",
@@ -35,7 +112,7 @@
       "summary": "A New Mexico judge has dismissed the indictment accusing “West Wing” and “Field of Dreams” actor Timothy Busfield of criminal sexual contact with a child, ruling that prosecutors failed to act fairly before the grand jury, including by keeping out witnesses jurors had asked to hear. Busfield’s attorney said those witnesses, people who were on the set of “The Cleaning Lady,” were waiting in the hallway, and that he is “relieved and grateful.” The case came from the parents of twin boys let go from the show, who alleged Busfield touched them inappropriately on the Albuquerque set; his lawyers say the boys initially told police nothing happened and accuse the parents of coaching them after the kids lost their roles. Busfield has called the allegations lies motivated by revenge and testified that he had been “canceled.” Prosecutors say they haven’t decided whether to seek a new indictment."
     },
     {
-      "n": 4,
+      "n": 11,
       "headline": "Verizon will charge $10 a month for iPhone Handoff, the iOS 27 feature that shares one number across two iPhones",
       "cat": "Apple",
       "source": "MacRumors",
@@ -46,7 +123,7 @@
       "summary": "Verizon says it will support iPhone Handoff, the iOS 27 feature that lets one phone number move between two iPhones, for $10 a month, with support “coming soon” on the iPhone Duo and iPhone 18 Pro models. The pricing came with Verizon’s iPhone Duo announcement on Friday. Handoff lets you switch which iPhone is active at any time — say, the pocketable Duo when you’re out and the 18 Pro for work — though the number can only be live on one phone at once. T-Mobile already supports the feature for $5 a month, while AT&T has signaled it has no immediate plans to offer it. Overseas, the U.K.’s EE will include it free on its top plan or charge £5 a month, and Germany’s Deutsche Telekom charges €6.95 unless you’re on its larger MagentaMobil plans."
     },
     {
-      "n": 5,
+      "n": 12,
       "headline": "Metallica release pro-shot Sphere videos of “The Call of Ktulu” and “…And Justice for All”",
       "cat": "Music / metal",
       "source": "Consequence",
@@ -57,7 +134,7 @@
       "summary": "Metallica have posted professionally shot video of two songs from their Oct. 1 opening night at the Las Vegas Sphere. “The Call of Ktulu” gets a new orchestral intro while an enormous Cthulhu rises from the sea on the Sphere’s screen, with Robert Trujillo channeling Cliff Burton’s part and the band closing with a dedication to Burton, who died 40 years ago. “…And Justice for All” recreates the band’s classic 1988–89 tour staging on a giant scale, with the bound Lady Justice statue, “Doris,” projected above the band and torn apart at the song’s climax. The “Life Burns Faster” Sphere residency runs through March 2027, and the band has also announced a new 2027 leg of the M72 tour."
     },
     {
-      "n": 6,
+      "n": 13,
       "headline": "Schwab and JPMorgan are blocking AI agents like Meta’s Muse from moving customers’ money",
       "cat": "AI / finance",
       "source": "Gizmodo",
@@ -68,7 +145,7 @@
       "summary": "Charles Schwab CEO Rick Wurster said Friday the brokerage is actively blocking Meta’s Muse AI agent from moving money in client accounts. “We don’t want someone just giving their password to Muse, and letting Muse come in and take action on that client’s behalf. We can’t control it, the client can’t control it, something could go wrong and who’s liable?” he told Bloomberg TV. Wurster said the weekly count of blocked agent attempts is only in the tens and twenties, a sign people aren’t ready to hand their finances to AI. JPMorgan Chase CEO Jamie Dimon said this week the bank bans outside agents for retail clients because “you don’t want rogue agents, and it could be thousands of them.” Schwab is steering clients to its own assistant, Charley, and plans to allow outside chatbots to view balances and do research through controlled MCP connections — but not to trade or move money."
     },
     {
-      "n": 7,
+      "n": 14,
       "headline": "Barn owls are nesting in Manhattan for the first time on record, drawing nightly crowds on the Upper West Side",
       "cat": "Nature / New York",
       "source": "PBS News (AP)",
@@ -79,7 +156,7 @@
       "summary": "A family of barn owls has nested in a water tower atop a building on West 75th Street near Central Park — the first documented barn owl nest in Manhattan in modern history, according to Cornell Lab of Ornithology migration ecologist Andrew Farnsworth. Birder David Barrett of Manhattan Bird Alert says he has seen at least one adult and five fledglings, plus an adult carrying rodents back to the tower; some photographers claim six young. Photographers and onlookers now gather on the street every night hoping to see them hunt at dusk. Neighbors had been hearing screeching since September — one father said he ran to his kids’ room more than once thinking a child was in pain. New York sits at the northern edge of the barn owl’s range, and the state says the species has declined “at an alarming rate.”"
     },
     {
-      "n": 8,
+      "n": 15,
       "headline": "Bend police name the gunman and two of the four killed at Silver Rail Elementary",
       "cat": "Crime / courts",
       "source": "CBS News",
@@ -90,7 +167,7 @@
       "summary": "Bend police on Friday identified two of the four people killed in Thursday’s shooting at Silver Rail Elementary: 25-year-old teacher Megan Lambert and 5-year-old Rhoam Summer, whose father wrote that it was “the worst day of my life” and that the family is “broken and lost.” Two other children, ages 8 and 11, were also killed; their families haven’t released their names. A 7-year-old and a 54-year-old teacher remain hospitalized in critical condition. Police Chief Mike Krantz officially named the suspect as Griffin J. John II of Bend, a former Silver Rail student who was shot and killed by a bystander; there’s still no word on a motive. The family of Kaylub Giamanco, the man who came forward as that bystander, said he is “not seeking recognition” and thanked first responders, school staff and the community. Memorials of flowers, balloons and stuffed animals have grown around the school."
     },
     {
-      "n": 9,
+      "n": 16,
       "headline": "John Lydon calls his old Sex Pistols bandmates “deceitful, lying hyenas” and their Frank Carter tour “karaoke”",
       "cat": "Music / punk",
       "source": "Blabbermouth",
@@ -101,7 +178,7 @@
       "summary": "Asked on ITV’s Good Morning Britain about the Sex Pistols touring with Frank Carter on vocals, John Lydon didn’t soften his earlier “karaoke” jab: “Cheek of them. Going out without me, singing the songs I wrote, the words I wrote, the presentation I created.” When a host suggested he should have joined the reunion, the former Johnny Rotten said he’d worked with them enough already — “They’re deceitful, lying hyenas, and I never want another thing to do with them” — and called the lineup an imitation of him. Steve Jones, Paul Cook and Glen Matlock started playing with Carter (of Gallows and the Rattlesnakes) at three London benefit nights in August 2024 and have since toured Europe, North America, Australia and New Zealand. Lydon has been estranged from the band since losing his bid to block their songs from “Pistol,” the miniseries based on Jones’s memoir."
     },
     {
-      "n": 10,
+      "n": 17,
       "headline": "China moves to restrict or ban exports of 40 technologies, including advanced AI models and agents",
       "cat": "World / tech",
       "source": "PBS News (AP)",
@@ -112,7 +189,7 @@
       "summary": "China’s commerce and science ministries on Friday published a draft update to the country’s export-control catalog that would restrict or ban exports of 40 technologies spanning artificial intelligence, chips and solar power, with national security cited as a main reason. Twenty-three of the listed items are AI technologies, from advanced large models to AI agents; the core technology behind large models trained on sensitive national data would be barred from export outright, as would agents designed for sensitive settings such as national defense and critical infrastructure. The move flips the script on years of U.S.-led curbs that have kept China from buying the most advanced AI chips and chipmaking machines, and it lands even as Washington and Beijing have been making progress on AI-safety talks and a notification channel for AI incidents that could threaten national security."
     },
     {
-      "n": 11,
+      "n": 18,
       "headline": "Vance defends ICE but says the administration acts when agents “really screw up”",
       "cat": "Politics / immigration",
       "source": "CBS News",
@@ -123,7 +200,7 @@
       "summary": "In a one-hour CBS Evening News town hall with Tony Dokoupil, taped Thursday in Michigan and airing Saturday, Vice President JD Vance defended immigration officers as mostly “amazing people who are patriots” while acknowledging that “sometimes you have some people who really screw up,” and said the administration has a responsibility to investigate and prosecute when they do. Pressed for the biggest ICE mistakes, Vance declined to name any but said there have been cases where officers got more training or were disciplined, adding that the administration doesn’t advertise those outcomes because people deserve to be judged through a normal investigative and court process. ICE and Border Patrol use-of-force practices have drawn criticism as the crackdown has ramped up. The town hall comes as Michigan’s Senate race between Republican Mike Rogers and Democrat Abdul El-Sayed heats up."
     },
     {
-      "n": 12,
+      "n": 19,
       "headline": "A 13,800-year-old Alaska base camp links early Americans to people across the Bering Land Bridge",
       "cat": "Science / history",
       "source": "Gizmodo",
@@ -134,7 +211,7 @@
       "summary": "Researchers working for more than a decade at Shég’ Xdaltth’í’, a site near Fairbanks, Alaska, report in Science Advances that its oldest layer — about 13,800 years old, and possibly 14,000 — holds thousands of artifacts packed into less than 11 square feet, along with tools and a wide variety of animal bones. Most striking are diamond-shaped projectile points previously found at only two sites on the Russian side of the Bering Strait, pointing to a cultural connection across the old land bridge. Unlike the short-lived hunting camps known from the same era, the site looks like a longer-term base camp with evidence of daily life, which suggests people may have been in Alaska even earlier than thought. “There’s just so much stuff,” University of Kansas anthropologist Kelly Graf told Gizmodo, explaining the team took its time to do the study right."
     },
     {
-      "n": 13,
+      "n": 20,
       "headline": "Lawsuit says ChatGPT played unlicensed doctor and pushed a Washington man into a mental health crisis",
       "cat": "AI / courts",
       "source": "CBS News",
@@ -143,83 +220,6 @@
       "image_remote": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/09/17/610919e3-7f44-4756-8217-f290996aea64/thumbnail/1200x630/24b3aab52d6cd27140d630e29cf8fe1e/takeout091726.jpg",
       "id": "e7c62d8fc76846ebbe305e8fd581393c421f95bd",
       "summary": "David Rosenthal, a 39-year-old Washington man with a history of ADHD, depression and bipolar episodes, is suing OpenAI, alleging that ChatGPT helped him choose medications, gave him dosing instructions and reassured him when he chose to ignore his doctor’s prescriptions. The complaint, filed in San Francisco, argues the chatbot did this without “any of the license, training, or professional judgment” of a medical professional, violating California’s ban on practicing medicine without a license. Rosenthal says he was hospitalized for several weeks in 2025 — first voluntarily, then involuntarily — soon after he started relying on ChatGPT, and kept using it for medical guidance after he was discharged. The suit claims that, but for ChatGPT’s “repeated encouragement and constant praise” overriding his own reluctance, his condition would not have spiraled."
-    },
-    {
-      "n": 14,
-      "headline": "Katie Zacharia is out as White House press secretary after just five days",
-      "cat": "Politics / Trump",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/politics/white-house/white-house-press-secretary-katie-zacharia-out-after-5-days-rcna603912",
-      "image_local": "images/story-1107.jpg",
-      "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261013-Katie-Zacharia-mn-0955-6b48bc.jpg",
-      "id": "052b786e2115be4f8c7a640b981c66b471a92076",
-      "summary": "Katie Zacharia is leaving the White House press secretary job five days after starting it, according to a senior administration official, an administration official and a source familiar with the decision; the senior official said she is moving to a new role to be announced later. Her exit follows a widely panned first briefing on Tuesday — under 15 minutes, a handful of questions, and no answer on whether the U.S. had stopped sharing intelligence with Ukraine — and her acknowledgment this week that she had represented herself as a lawyer but never passed the bar. Earlier Friday, President Trump said she had been treated “pretty nastily” by the press, that he told her she didn’t have to keep doing it, and that he would let her decide. The former conservative commentator and Trump Media adviser had succeeded Karoline Leavitt, who left at the end of August; her stint was shorter than Anthony Scaramucci’s, and it leaves the post vacant less than three weeks before the midterms."
-    },
-    {
-      "n": 15,
-      "headline": "Man who shot and stopped the Bend school gunman is a dad of two girls at the school",
-      "cat": "Crime / self-defense",
-      "source": "PBS News (AP)",
-      "url": "https://www.pbs.org/newshour/nation/man-who-stopped-the-oregon-elementary-school-shooter-has-2-daughters-at-the-school-his-mom-says",
-      "image_local": "images/story-1108.jpg",
-      "image_remote": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-16T180749Z_1238352477_RC2D4OAZS3T9_RTRMADP_3_OREGON-SHOOTING-1024x683.jpg",
-      "id": "03a7e58902e20e35968259196caef37a29c887c7",
-      "summary": "The armed bystander who followed the teenage gunman into Silver Rail Elementary in Bend, Oregon, and shot him has been identified by his family as Kaylub Giamanco, a lifelong Bend resident with two daughters at the school. In a statement read by his mother, Kenda Freeman, the family said he “is not seeking recognition” and wants to thank first responders, school staff and the community; they asked for privacy and won’t give interviews. Police still haven’t officially named him or the 16-year-old attacker, who shot through locked doors and killed three children, ages 5, 8 and 11, and a teacher. A law enforcement official told the AP the attacker used a pump-action shotgun bought by his mother (Oregon law lets a minor possess a shotgun provided by a parent), and CBS News sources named him as John Griffin. A kindergarten mom called it “miraculous” that someone stopped him before police got there. All 32 Bend-La Pine schools were closed Friday."
-    },
-    {
-      "n": 16,
-      "headline": "Jets expect rookie WR Omar Cooper Jr. back Sunday at New England; Hall, Mitchell, Parham, Ossai out",
-      "cat": "Jets",
-      "source": "NewYorkJets.com",
-      "url": "https://www.newyorkjets.com/news/jets-notebook-omar-cooper-jr-set-to-return-sunday-vs-patriots-10-16-2026",
-      "image_local": "images/story-1109.jpg",
-      "image_remote": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/jets/gckjnzvedhortvqnxptd",
-      "id": "5f628b38899e7874a0c81655a86594e0018cde5a",
-      "summary": "Head coach Aaron Glenn said Friday he expects rookie wide receiver Omar Cooper Jr. to be active for Sunday’s AFC East opener at New England. Cooper has been on injured reserve since an ankle injury in Week 1, when he made a big catch against Tennessee, and was designated to return to practice this week. Rookie tight end Kenyon Sadiq (finishing concussion protocol), safety Dane Belton and linebacker Kiko Mauigoa were all full participants Friday. The Jets have ruled out running back Breece Hall (quad), wide receiver Adonai Mitchell (finger), left guard Dylan Parham (knee) and edge rusher Joseph Ossai (ankle). The notebook also has OC Frank Reich revealing that Braelon Allen’s 22-yard game-winning touchdown run against the Browns wasn’t his call: Geno Smith checked out of a pass play at the line on third-and-9."
-    },
-    {
-      "n": 17,
-      "headline": "Mustaine: Anthrax and Kerry King will open Megadeth’s next farewell-tour run",
-      "cat": "Music / metal",
-      "source": "Blabbermouth",
-      "url": "https://blabbermouth.net/news/dave-mustaine-on-megadeths-touring-plans-anthrax-and-kerry-king-are-going-out-with-us-on-the-next-run",
-      "image_local": "images/story-1110.jpg",
-      "image_remote": "https://assets.blabbermouth.net/media/megadethaug2026rosshalfin_638.jpg",
-      "id": "e19cb4eb251c41581441810e4a874cea8df47e32",
-      "summary": "On SiriusXM’s Trunk Nation with Eddie Trunk, Dave Mustaine laid out the next stretch of Megadeth’s multi-year farewell tour: New Zealand and Australia in a couple of weeks, Korea for the first time in almost 20 years, more U.S. and European dates, and talk of India and South Africa. “We’ve decided to take out a lot of our friends,” he said. “Anthrax and Kerry King are going out with us on the next run,” followed by Black Label Society and Testament on the 24-date European leg that opens March 9, 2027 in Belfast. Mustaine, who has the degenerative hand condition Dupuytren’s contracture, said he has no final show in mind. He’ll keep going until the shows start to suffer — and says they’re actually getting better as he works with vocal coaches — and only then stop or have hand surgery."
-    },
-    {
-      "n": 18,
-      "headline": "Tesla driver says he was asleep on FSD when he plowed into a CHP car at a crash scene",
-      "cat": "Tesla",
-      "source": "Electrek",
-      "url": "https://electrek.co/2026/10/16/tesla-fsd-crash-chp-patrol-car-driver-asleep-fairfield/",
-      "image_local": "images/story-1111.jpg",
-      "image_remote": "https://electrek.co/wp-content/uploads/sites/3/2026/10/Tesla-FSD-CHP-crash.jpeg?quality=82&strip=all&resize=1200,628",
-      "id": "09b398b021d86fe7783599d7a58e87d83e08d421",
-      "summary": "Two California Highway Patrol officers were seriously injured just before midnight Tuesday when a Tesla went through a four-lane closure lit with flares on eastbound I-80 in Fairfield and hit their patrol car. They were working an earlier fatal crash. The 22-year-old Sacramento driver walked away with minor injuries and told investigators he was asleep with Full Self-Driving engaged; CHP released dashcam video of the impact Thursday. CHP stressed that FSD is a driver-assist feature that does not relieve drivers of responsibility. It hasn’t released the model or software version, and for now the driver’s word is the only evidence FSD was on; Tesla’s logs should settle it. Electrek notes the long history of Teslas hitting emergency scenes, the 2023 recall of more than 2 million cars, and questions about how a sleeping driver got past FSD’s cabin-camera attention monitoring."
-    },
-    {
-      "n": 19,
-      "headline": "Carney says outsiders are trying to “break” Canada ahead of Monday’s Alberta separation vote",
-      "cat": "World",
-      "source": "PBS News (AP)",
-      "url": "https://www.pbs.org/newshour/world/prime-minister-mark-carney-says-u-s-is-trying-to-break-canada-as-alberta-votes-on-separation-path",
-      "image_local": "images/story-1112.jpg",
-      "image_remote": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-16T022552Z_895739172_RC224OAH6V4S_RTRMADP_3_CANADA-ALBERTA-1024x683.jpg",
-      "id": "9ba254bc4114b25eec0cd7f97c79f21a2512b26f",
-      "summary": "At a “Forever Canadian” rally of about 5,000 people in Calgary, Prime Minister Mark Carney urged oil-rich Alberta to reject Monday’s referendum, which would tell the province to start the legal process toward a future vote on leaving Canada. “Some outside our borders are working to break us so they can own us,” he said. He didn’t name the U.S. in that line but has in past speeches, amid President Trump’s trade war and talk of a 51st state. Carney, who grew up in Alberta, told voters it is “not poker” and that they shouldn’t use the ballot to send Ottawa a message. He also conceded that Albertans’ frustrations with Ottawa over resources and energy are “real.” He pointed to his fast-tracked Pacific Link oil pipeline, which he says will create more than 140,000 jobs. A second rally was set for Edmonton on Friday."
-    },
-    {
-      "n": 20,
-      "headline": "Billy Joel doesn’t know if he can perform again — and is auctioning 70-plus motorcycles",
-      "cat": "Music / motorcycles",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/billy-joel-says-doesnt-know-can-perform-stage-due-brain-disorder-rcna603916",
-      "image_local": "images/story-1113.jpg",
-      "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-03/250312-billy-joel-vl-1247p-f23cf4.jpg",
-      "id": "dcc228fba15f20b8f3613e1e22eaba5325f99be7",
-      "summary": "Billy Joel, 77, says his neurologist has kept him on an extended break from performing while he recovers from brain surgery for hydrocephalus, which was diagnosed in May 2025 and affects his balance, memory, vision and hearing. “Every time you do a show, it’s like you’re getting a concussion,” Joel said his doctor told him in a Hollywood Reporter interview, citing the volume, lights, stress and energy of a show. More tests will decide whether he can go back to the stage, which he says he wants. He insists his health is good and the condition is “not that serious.” The update comes ahead of a Gooding Christie’s auction Nov. 20–21 at the Javits Center, where more than 70 motorcycles from his collection will be sold to benefit the Joel Foundation; he said the condition makes riding and driving difficult."
     }
   ]
 }
