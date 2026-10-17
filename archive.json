@@ -1265,7 +1265,13 @@
     "0571e3e4f9c06d9c8ea524626282e46d41387119",
     "97507df5fe505851e288e22b7ca49e6b8b325b32",
     "a1f6f0c3b5fab713af4f2b7186725180dd066638",
-    "8a399bc14862a4a16f1abd63ab7a93edb4a1f81e"
+    "8a399bc14862a4a16f1abd63ab7a93edb4a1f81e",
+    "d0c368d79f021ed71c466f3fd4bb050668dd700c",
+    "6416cdc906e683b4d37e392f8f6b7f26b66670ff",
+    "c08d41d53998146db016d5a8346eff8b6cd544ac",
+    "810c1f69cf47497bfbc90f3b1ae5a4394fba5d80",
+    "27a99e202a6f66fd3ab53723a6b49932d6b45263",
+    "9f9a4127e15510533f5d82f107e6458742b2fd8f"
   ],
   "stories": {
     "0c2ac7a5e342411678296315c4c59043b1f067cc": {
@@ -15283,7 +15289,67 @@
       "image_remote": "https://www.canonrumors.com/wp-content/uploads/2026/10/Is-an-RF-70-200mm-f2L-IS-Coming.jpg",
       "image_local": "images/story-1142.jpg",
       "id": "8a399bc14862a4a16f1abd63ab7a93edb4a1f81e"
+    },
+    "d0c368d79f021ed71c466f3fd4bb050668dd700c": {
+      "headline": "Trump rallies in Northern Kentucky, tells voters to “pretend I’m on the ballot” and promises a $100 million defense investment in the state",
+      "cat": "Politics / midterms",
+      "source": "Kentucky Lantern",
+      "url": "https://kentuckylantern.com/2026/10/17/trump-parachutes-to-ky-to-stump-for-republicans-in-safe-seats-give-gop-nod-in-tight-race/",
+      "summary": "President Trump held a rally of more than an hour and a half Saturday at Northern Kentucky University in Highland Heights, his second trip to the region this year, to push turnout for Republicans in the midterms. He backed U.S. Rep. Andy Barr in the Senate race and Navy SEAL veteran Ed Gallrein in the 4th Congressional District, where Gallrein beat Rep. Thomas Massie in the GOP primary after Trump campaigned for him in March. Trump again promised $5,000 checks to adults if Republicans keep Congress, and announced that the “Department of War will be investing $100 million” in drugmaker Antheia to revive a big manufacturing plant in Winchester, Kentucky. The Pentagon did not respond to the Lantern, and Gov. Andy Beshear’s office said it had no information. Trump urged supporters to “pretend I’m on the ballot,” called Barr’s Democratic opponent Charles Booker “a communist lunatic,” and went after North Carolina’s Roy Cooper and Texas Democrat James Talarico. A protester who interrupted early was booed and removed; Trump said to take the person “back home to mom.” Barr thanked Trump for the Iran campaign, saying “the Ayatollah is dead, and its nuclear infrastructure is under rubble.” Kentucky absentee-ballot requests close Oct. 20 and early voting starts Oct. 29.",
+      "image_remote": "https://kentuckylantern.com/wp-content/uploads/2026/10/20261017TrumpRally1819-2048x1365.jpg",
+      "image_local": "images/story-1143.jpg",
+      "id": "d0c368d79f021ed71c466f3fd4bb050668dd700c"
+    },
+    "6416cdc906e683b4d37e392f8f6b7f26b66670ff": {
+      "headline": "Man shot dead on a Midtown Manhattan subway platform after a dispute; gunman fled on foot",
+      "cat": "Crime / NYC",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/news/us-news/man-fatally-shot-dispute-midtown-manhattan-subway-station-police-say-rcna604061",
+      "summary": "A man was shot and killed Saturday afternoon at the 53rd Street and Seventh Avenue subway station in Manhattan’s Theater District, an area packed with tourists and theatergoers. Police got reports of gunfire around 12:21 p.m., and the victim, described as possibly in his 30s, was pronounced dead at a hospital at 1:06 p.m. The NYPD says a man approached him on the northbound E train platform, shot him once in the chest and ran off. At a briefing, police said an argument between the two men had moved from the platform onto a train and back onto the platform, and that the attack was not random. Investigators were still working out exactly where the shots were fired, and no arrest had been made. The victim had not been named pending notification of his family. “The perpetrator should face maximum consequences from the justice system,” said Michael Kemper, the MTA’s chief security officer.",
+      "image_remote": "",
+      "image_local": "",
+      "id": "6416cdc906e683b4d37e392f8f6b7f26b66670ff"
+    },
+    "c08d41d53998146db016d5a8346eff8b6cd544ac": {
+      "headline": "Apple Store staff told to warn shoppers: don’t expect to walk in and buy an iPhone Duo on launch day",
+      "cat": "Apple / iPhone",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/17/staff-warn-against-iphone-duo-walk-ins/",
+      "summary": "Some Apple Store employees have been told to discourage customers from showing up on Friday, Oct. 23, hoping to buy an iPhone Duo without a pre-order, MacRumors reports. Staff were told there will likely be no Duo stock for walk-in buyers on launch day and that people coming in expecting one will be disappointed. Apple’s online store tells shoppers to check back Saturday, Oct. 24 for pickup availability, though that doesn’t promise stock either, and it’s not clear whether the guidance applies outside the U.S. Pickup reservations briefly appeared when pre-orders opened before Apple turned the option off. Supply problems with the $1,999 foldable have been reported since late August, when production reportedly ran only a few hundred units a day. When pre-orders opened this week, every U.S. configuration slipped to a Jan. 25 ship date within 30 minutes, leaving the Duo effectively sold out online through Christmas. Apple has called demand “nothing short of extraordinary.”",
+      "image_remote": "https://images.macrumors.com/t/vbGLM8QdGttDEsAlergGITENU1A=/1600x/article-new/2026/09/iphone-duo-standby.jpg",
+      "image_local": "images/story-1144.jpg",
+      "id": "c08d41d53998146db016d5a8346eff8b6cd544ac"
+    },
+    "810c1f69cf47497bfbc90f3b1ae5a4394fba5d80": {
+      "headline": "Rush postpones tonight’s San Jose show because drummer Anika Nilles has the flu; makeup date is Dec. 6",
+      "cat": "Music / rock",
+      "source": "Blabbermouth",
+      "url": "https://blabbermouth.net/news/rush-postpones-tonights-concert-in-san-jose-after-drummer-anika-nilles-falls-ill",
+      "summary": "Rush called off Saturday night’s concert at the SAP Center in San Jose, California, because drummer Anika Nilles is sick with the flu. The band said the show is rescheduled for Dec. 6, 2026, and that all tickets will be honored. In a video, guitarist Alex Lifeson said Nilles was already in the early stages of the flu at Thursday’s first San Jose show but “managed to get through the gig,” then got much worse. “So this really sucks,” he said. “It’s flu season.” He expects her to recover in four or five days. The “Fifty Something” tour, which opened June 7 in Los Angeles, is Rush’s first in more than 10 years and its first since drummer Neil Peart died in 2020. Lifeson and Geddy Lee are joined by Nilles, a German drummer who toured with Jeff Beck in 2022, and keyboardist Loren Gold, a touring member of The Who and Chicago. The band plays two sets a night drawn from more than 40 Rush songs.",
+      "image_remote": "https://assets.blabbermouth.net/media/rushaug2026qprimepress2_638.jpg",
+      "image_local": "images/story-1145.jpg",
+      "id": "810c1f69cf47497bfbc90f3b1ae5a4394fba5d80"
+    },
+    "27a99e202a6f66fd3ab53723a6b49932d6b45263": {
+      "headline": "Repeated Houthi strikes on Riyadh’s airport show how much stronger Yemen’s rebels have become despite a decade of air raids",
+      "cat": "World / Middle East",
+      "source": "PBS NewsHour (AP)",
+      "url": "https://www.pbs.org/newshour/world/houthi-strikes-on-saudi-arabia-show-the-yemeni-rebels-growing-strength",
+      "summary": "Yemen’s Iran-backed Houthi rebels have struck Saudi Arabia’s main international airport in Riyadh several times in recent weeks and seized territory near a key shipping chokepoint, the AP reports. Saudi Arabia, the UAE, the U.S., Britain and Israel have all bombed the Houthis at different points over the last decade, and the group has come out stronger each time. A 2024 U.N. experts’ report estimated Houthi fighters had grown to as many as 350,000, up from about 30,000 in 2015. They have ballistic and cruise missiles and drones that can reach every Gulf state and Israel, and a recent report found them trying to buy Chinese parts used in precision-guided missiles with a range of about 1,200 miles. Iran denies arming them. The Houthis mostly sat out the first months of the Iran war but resumed attacks on Saudi Arabia in July and declared a blockade on Saudi shipping. The Saudis have struggled to stop the attacks with high-end U.S. interceptors that are in short supply, the anti-Houthi ground forces in Yemen are divided, and the U.S. appears keen to stay out. A senior Saudi diplomat says Iran is encouraging the escalation.",
+      "image_remote": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-15T212527Z_1085631897_RC2X3OAGPSOC_RTRMADP_3_IRAN-CRISIS-SAUDI-YEMEN-1024x632.jpg",
+      "image_local": "images/story-1146.jpg",
+      "id": "27a99e202a6f66fd3ab53723a6b49932d6b45263"
+    },
+    "9f9a4127e15510533f5d82f107e6458742b2fd8f": {
+      "headline": "The Army is buying drone-killing lasers that cost under $10 a shot in a $464.8 million deal",
+      "cat": "Military / tech",
+      "source": "Daily Caller",
+      "url": "https://dailycaller.com/2026/10/17/army-drone-laser-locust-x3-aerovironment-john-garrity-harbinger-john-harris",
+      "summary": "The Army is moving to field a high-energy laser that shoots down drones for less than $10 a shot. AeroVironment won a $464.8 million contract in September for its LOCUST X3 laser, which the Army calls its first contract to produce a high-energy laser weapon. Army officials said at this month’s AUSA meeting in Washington that the first LOCUST X3 could be ready to counter drones by early 2028. The laser runs on electricity, so its “magazine” regenerates from the power supply. “We’re moving from science fiction to science reality,” said John Garrity, AeroVironment’s vice president of directed energy. He said each shot costs “less than a cup of coffee” in power, compared with the $500,000 to $1 million missiles now often fired at drones that cost a few thousand dollars. “Even though we’re successful in taking those out, we’re still losing,” he said. Garrity said a laser’s upfront cost is about the same as other counter-drone weapons and comes out ahead after a single kill. At the AUSA show, a hybrid truck from California chassis maker Harbinger powered a LOCUST X3 at American Rheinmetall’s booth, showing how the weapon could be run in the field.",
+      "image_remote": "",
+      "image_local": "",
+      "id": "9f9a4127e15510533f5d82f107e6458742b2fd8f"
     }
   },
-  "updated": "Saturday, October 17, 2026 · 4:13 PM ET"
+  "updated": "Saturday, October 17, 2026 · 6:06 PM ET"
 }
