@@ -1,8 +1,85 @@
 {
-  "updated": "Saturday, October 17, 2026 · 7:06 AM ET",
+  "updated": "Saturday, October 17, 2026 · 11:41 AM ET",
   "stories": [
     {
       "n": 1,
+      "headline": "Trump says there’s “zero chance” he replaces Susie Wiles and calls the Politico report a “fake story”",
+      "cat": "Politics / media",
+      "source": "The Daily Caller",
+      "url": "https://dailycaller.com/2026/10/17/trump-denies-firing-susie-wiles",
+      "image_local": "images/story-1132.jpg",
+      "image_remote": "https://cdn01.dailycaller.com/wp-content/uploads/2026/10/GettyImages-2300537658.jpg",
+      "id": "9b523a88856d40201e62f05baffeec917cc4f8c6",
+      "summary": "President Trump shot down reports that he has been thinking about replacing White House Chief of Staff Susie Wiles. Politico’s Playbook newsletter reported Thursday that Trump had been asking allies what they think of Wiles and “musing about replacements,” possibly Deputy Chief of Staff for Policy Stephen Miller. Speaking to reporters Friday, Trump said there was “zero chance” of that. “The Susie Wiles story was a fake story. She’s been incredible,” he said, adding that the administration has had “maybe the most successful two years” in presidential history. He called Wiles “smart” and “tough” and noted that she “just went through a lot with the cancer surgery” and has fully recovered. Trump announced her breast cancer diagnosis in March, and Wiles said in September that she was cancer-free. Trump said the White House had told Politico before publication that the story was “totally wrong.” He added, “The only one that matters is me, because I’m the one that makes the decision,” and said Wiles is “gonna be here for a long time.”"
+    },
+    {
+      "n": 2,
+      "headline": "Pope Leo XIV walks out of Gemelli Hospital and returns to the Vatican four days after lung cancer surgery",
+      "cat": "World / faith",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/10/17/nx-s1-6006762/pope-leo-xiv-leaves-hospital-days-after-lung-cancer-surgery",
+      "image_local": "images/story-1133.jpg",
+      "image_remote": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3792x2133+0+198/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5e%2Fae%2Faa9d542c4b2680f6aa607bf717dc%2Fap26290494298005.jpg",
+      "id": "cbaa3950f4fc114fb1622cf7186bad524b011b57",
+      "summary": "Pope Leo XIV left Rome’s Gemelli Hospital Saturday afternoon and went back to the Vatican, sooner than expected after Tuesday’s surgery. His doctors said blood tests and a chest X-ray that morning showed he was well enough to go home. Video showed the 71-year-old walking out on his own and waving to well-wishers. Before leaving he celebrated Mass in a room on the hospital’s 10th floor. He is expected to lead Sunday’s Angelus prayer from the window of the papal apartment. The Vatican says recovery should take about a week, and his public schedule is cleared until at least Oct. 20. During the 90-minute, minimally invasive operation, surgeons removed the lower lobe of his right lung, more than the “localized nodule” first announced. Tests confirmed lung adenocarcinoma, the most common type of lung cancer, including in nonsmokers. Outside doctors told NPR that choosing surgery first suggests the cancer was caught early. Leo is still scheduled to visit Uruguay, Argentina and Peru in early November."
+    },
+    {
+      "n": 3,
+      "headline": "Three men get more than 158 years each for murdering two Australian surfers and their American friend in Baja",
+      "cat": "Crime / courts",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/australian-us-surfers-mexico-murder-sentence-prison/",
+      "image_local": "images/story-1134.jpg",
+      "image_remote": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/09/08/ed3981db-5b6b-4726-86d8-0f00b5dd1383/thumbnail/1200x630/5966556ec100d4b61273f38aef86b23e/ap24127062868049.jpg",
+      "id": "8967262dd3435cb6992a250ddd51572eb734c645",
+      "summary": "A Mexican judge on Friday sentenced three men to 158 years and nine months in prison each for killing Australian brothers Jake and Callum Robinson, 30 and 33, and their American friend Carter Rhoad, 30. The three were camping on a surfing trip near Ensenada, Baja California, in April 2024 when they were shot in the head during an attempted robbery. Their bodies were found days later in a cliff-top well. Judge Raul Hernandez ruled that the defendants, named only as Jesus Gerardo, Irineo Francisco and Angel Jesus, acted with premeditation. Jesus Gerardo, known as “el Kekas,” already had a criminal record. Prosecutors say the killers saw the group’s pickup and tents and wanted the truck’s tires and parts, then burned the tents and the truck to destroy evidence. His former girlfriend, who admitted pushing him to steal the tires, got 20 years last November. The judge turned down prosecutors’ request for more than $100,000 in damages and said the families would have to sue for that in civil court. “There can never be justice for the loss of a son, but we are grateful that these men will never hurt anyone else,” Rhoad’s mother said."
+    },
+    {
+      "n": 4,
+      "headline": "Tesla’s new Roadster reservation contract says it “cannot guarantee” when — or if — buyers will get a car",
+      "cat": "Tesla",
+      "source": "The Drive",
+      "url": "https://www.thedrive.com/news/tesla-cannot-guarantee-roadster-reservation-holders-will-ever-get-a-car",
+      "image_local": "images/story-1135.jpg",
+      "image_remote": "https://www.thedrive.com/wp-content/uploads/2026/10/Screenshot-2026-10-15-211138.png?quality=85&w=1200",
+      "id": "5c11afdb611084195b7848015059acba6a2cbcb4",
+      "summary": "Two days after Tesla showed off its next-generation Roadster, buyers are reading the fine print. InsideEVs spotted it first, and The Drive reports that the reservation agreement on Tesla’s site says the car “is still under development and so we cannot guarantee when your vehicle will actually be delivered or if it will be delivered.” Tesla is again asking for up to $250,000 up front, the same as for the first-generation Roadster, which took deposits nearly 10 years ago and never reached production. A reservation buys only an “approximate” place in line, not a confirmed build slot. Price, options, features and hardware could all change before customers are invited to configure their cars. Tesla currently estimates production will start in 2028. There is some good news: reservations are fully refundable, and unlike the Cybertruck Foundation Series, there is no no-resale clause, though reservations can’t be transferred. That matters, given Musk’s promises of 0–60 mph in 0.81 seconds and built-in thrusters."
+    },
+    {
+      "n": 5,
+      "headline": "Cody Wilson unveils the WASP, a 3D-printed pistol designed by “GatGPT,” which he calls an AI that can generate guns",
+      "cat": "AI / 2nd Amendment",
+      "source": "Gizmodo",
+      "url": "https://gizmodo.com/notorious-3d-printed-gun-activist-debuts-ai-that-can-generate-guns-2000827013",
+      "image_local": "images/story-1136.jpg",
+      "image_remote": "https://cdn.mos.cms.futurecdn.net/kUvhWUvLbNDuQhdLqEFYuK-1536-80.jpg",
+      "id": "4a7a062f3ba898c6a4ae8c17c808c1a3b9daad12",
+      "summary": "Cody Wilson, the gun-rights activist behind Defense Distributed and the first 3D-printed gun, the Liberator, has unveiled what he calls “the first AI-made gun.” The weapon, called the WASP, was first reported by The Verge. It was designed through a conversation with GatGPT, a custom AI model trained on the gun-file library of DEFCAD, Defense Distributed’s online repository, which can also help builders choose parts. Wilson stresses that he hasn’t just made one AI-designed gun but “an AI that can generate guns.” The WASP is a single-shot, Liberator-style design, basically a pistol barrel attached to a spring-loaded plastic box. It fires real bullets and has no serial number. Experts The Verge spoke with pointed out some odd features: an unfinished trigger guard that leaves the trigger exposed, and a grip that looks inverted. Wilson calls firearm access “a fundamental human right.” He predicts that back-and-forth between users and AI could sharply speed up new 3D-printed designs. Mainstream chatbots refuse to help with this, while states and courts are still fighting over how to regulate homemade guns and parts kits."
+    },
+    {
+      "n": 6,
+      "headline": "Adrian Smith: Iron Maiden is enjoying playing live “as much, if not more than ever” 50 years in",
+      "cat": "Music / metal",
+      "source": "Blabbermouth",
+      "url": "https://blabbermouth.net/news/iron-maidens-adrian-smith-i-think-were-enjoying-playing-live-as-much-if-not-more-than-ever",
+      "image_local": "images/story-1137.jpg",
+      "image_remote": "https://assets.blabbermouth.net/media/adriansmithperuoct2026_638.jpg",
+      "id": "1c6d1fa45cc2645e8b2f8ae608ced33ea0079fd9",
+      "summary": "Iron Maiden guitarist Adrian Smith says the band is still having a blast more than 50 years after Steve Harris founded it in 1975. “We’re still together, we’re still friends, and we’ve had our ups and downs,” he told Peru’s Radio Oxigeno. “I think we’re enjoying playing live as much, if not more than ever,” he added, with “more younger fans, new blood” in the crowd. The “Run For Your Lives” world tour plays a classic-era setlist from the first nine albums, from the 1980 debut through 1992’s Fear Of The Dark. The show opens with “Murders In The Rue Morgue” from Killers and includes first-album songs he didn’t play on. Relearning them was “like riding a bike… It’s in the brain, in the muscle memory,” he said. Smith, who joined in 1980, said he feels “physically better than I probably did in my 20s,” but the band now paces its schedule. His advice to his 24-year-old self: “It’s only rock and roll. Don’t take it so seriously,” though he admits being hard on himself is probably why he’s still doing it."
+    },
+    {
+      "n": 7,
+      "headline": "Stellantis workers in Canada vote this weekend on a strike mandate, with talks stalled over the Brampton plant sale",
+      "cat": "Autos / Jeep",
+      "source": "Mopar Insiders",
+      "url": "https://moparinsiders.com/stellantis-canada-workers-head-toward-strike-vote-today/",
+      "image_local": "",
+      "image_remote": "",
+      "id": "66e24056c353407929616e43dd848d90e7d22eb6",
+      "summary": "Unifor members at Stellantis in Canada are voting Saturday and Sunday on whether to authorize a strike, and results are due Monday, Oct. 19. A yes vote would let the bargaining team call a walkout if needed. Talks opened Sept. 1 and broke off Sept. 11, and the old contract expired Sept. 20. Unifor wants wages and benefits that match its recent deals with Ford and GM, plus clear product commitments for its plants. The union says Stellantis has tied the core money terms to an agreement to close and sell the idled Brampton, Ontario, assembly plant. Stellantis has signed a memorandum of understanding with Canadian armored-vehicle maker Roshel about a possible sale. About 2,200 Brampton workers are on indefinite layoff since the plant stopped in 2023, and Stellantis pulled its next-generation Jeep Compass from the site in 2025, moving it to Illinois. A strike could hit Windsor Assembly, which builds the Dodge Charger and Chrysler minivans. Windsor’s third shift and future work at Etobicoke Casting are also sticking points. Stellantis says it is still willing to negotiate a deal."
+    },
+    {
+      "n": 8,
       "headline": "Trump waives the Graham Act’s Russia sanctions and 100% tariffs on Russian-oil buyers two days before they kicked in",
       "cat": "World / politics",
       "source": "CBS News",
@@ -13,7 +90,7 @@
       "summary": "President Trump signed an executive order late Friday waiving key parts of the Lindsey O. Graham Sanctioning Russia Act, the bipartisan law he signed last month. Starting Sunday it would have put 100% tariffs on the five biggest importers of Russian crude and natural gas, a group that includes China, India and Turkey. Trump also waived the law’s 500% tariffs on Russian goods and paused some other sanctions. He used a provision that lets the president certify to Congress that a waiver is “in the national interests of the United States.” The waivers stay in place until officials decide more action is needed, and agencies are told to keep watching countries that buy Russian energy or dodge sanctions. The move follows last week’s easing on Russian diesel, part of Trump’s push to bring down energy prices that spiked during the Iran war. Putin envoy Kirill Dmitriev called it “truly historic.” Zelenskyy called it “unfortunate” and a “sanctions blackout” that rewards Putin. A bipartisan group of senators had already called the diesel waivers a “betrayal” of Ukraine."
     },
     {
-      "n": 2,
+      "n": 9,
       "headline": "Penguins blow a 2-0 lead as the Avalanche score five straight in a 5-2 loss; Chinakhov has no timeline to return",
       "cat": "Penguins",
       "source": "Pittsburgh Hockey Now",
@@ -24,7 +101,7 @@
       "summary": "The Penguins (3-4-1) had their best period in weeks in Denver Friday night. They outshot Colorado 14-5 in the first, and Evgeni Malkin and Bryan Rust scored 29 seconds apart for a 2-0 lead. Then the Avalanche (5-2-1) scored five unanswered goals at Ball Arena. Artturi Lehkonen scored twice, including the tying goal 25 seconds into the second, off a Kaedan Korczak giveaway behind the net. Gabriel Landeskog got a free tap-in, rookie T.J. Hughes scored his first NHL goal, and Nathan MacKinnon added a power-play one-timer, finishing with a goal and three assists. Arturs Silovs stopped MacKinnon on a penalty shot and made 27 saves. Pittsburgh went 0-for-3 on the power play and is now scoreless on its last 20 chances. One bright spot: Sidney Crosby’s assist moved him past Joe Thornton for seventh on the NHL’s all-time assists list, with 1,110. Forward Egor Chinakhov (lower body) missed the game, has no timeline to return and is expected to miss tonight’s game at Vegas and Monday’s at Utah."
     },
     {
-      "n": 3,
+      "n": 10,
       "headline": "St. Joseph girls soccer stays unbeaten, beating Greenwich 3-1 in Trumbull’s No. 1 vs. No. 2 FCIAC showdown",
       "cat": "Local / Trumbull CT",
       "source": "Patch (Trumbull Patch AM)",
@@ -35,7 +112,7 @@
       "summary": "Trumbull’s St. Joseph High School won Friday’s top-ranked girls soccer matchup on its home field. The Cadets beat No. 2 Greenwich 3-1 and handed the Cardinals their first loss of the season. The win keeps St. Joseph unbeaten heading into the end of the regular season and in prime position for the upcoming FCIAC tournament, where Greenwich could get a rematch. Saturday’s Trumbull Patch AM also notes a celebration of life for longtime Connecticut musician Darik Pearson, frontman of Darik and the Funbags. It runs Sunday, Oct. 18, at Abriola Parkview Funeral Home on White Plains Road in Trumbull. Voters are reminded that the Nov. 3 general election is coming up, with early voting starting Monday."
     },
     {
-      "n": 4,
+      "n": 11,
       "headline": "Judge lets Alex Murdaugh’s defense run a ‘high risk’ DNA test that could use up the last samples from Maggie’s phone and fingernails",
       "cat": "Crime / courts",
       "source": "Fox News",
@@ -46,7 +123,7 @@
       "summary": "At a pretrial hearing in Lexington, South Carolina, on Friday, Judge Debra McCaslin sided with Alex Murdaugh’s lawyers over prosecutors’ objections. She allowed new DNA testing on swabs from Maggie Murdaugh’s cellphone and on clippings from under her fingernails, even though the testing will likely use up the last usable material. McCaslin said due process requires “a meaningful opportunity to present a full and complete defense.” The defense says all three samples contain unidentified male DNA. It wants the lab Othram to run a Y-STR test, which isolates the Y chromosome, to see whether a single unknown man is the source. Lead prosecutor Creighton Waters called the test “high risk” and said even the defense’s own expert expected little, adding that Othram’s first quantification came back as “goose eggs on the Y chromosome.” Murdaugh was convicted in 2023 of murdering his wife Maggie and son Paul. The South Carolina Supreme Court threw out the verdict because former clerk of court Becky Hill had improperly influenced the jury. His retrial starts April 5, 2027."
     },
     {
-      "n": 5,
+      "n": 12,
       "headline": "Apple rewrites App Store rules to go after AI deepfakes, ‘nudify’ apps and bait-and-switch features added after review",
       "cat": "Apple / AI",
       "source": "MacRumors",
@@ -57,7 +134,7 @@
       "summary": "Apple on Friday expanded its App Review Guidelines to cover AI-generated nonconsensual intimate imagery. Explicit content was already banned, but the updated rule 1.2 now names AI content-creation apps and requires developers to actively prevent and remove AI deepfakes, or risk being pulled from the App Store. MacRumors notes the rule could apply to apps like xAI’s Grok. Earlier this year Apple threatened to remove Grok over nude deepfakes, and xAI added safeguards before an update was approved. A new guideline, 2.5.19, targets “bait-and-switch” apps that hide features during review and switch them on later, a trick Apple ties to “nudification” apps that make explicit images of real people. Developers caught doing it risk removal from both the App Store and the Apple Developer Program. Apple also extended its ban on apps that facilitate human trafficking or child exploitation to alternative app marketplaces. “We do not hesitate to remove apps, and terminate the developers behind them,” Apple said."
     },
     {
-      "n": 6,
+      "n": 13,
       "headline": "Santa Ana winds drive the Norte Fire through coastal San Clemente and San Juan Capistrano; 16,000 ordered out",
       "cat": "U.S. / disasters",
       "source": "NPR (AP)",
@@ -68,7 +145,7 @@
       "summary": "A fast-moving fire pushed by dry Santa Ana winds burned at least six homes in Southern California on Friday, engulfing expensive coastal properties in Orange County. The Norte Fire started in San Clemente and was blown into San Juan Capistrano, where firefighters fought blazing homes next to tennis courts and pools under black smoke visible for miles. By Friday night about 16,000 residents were under evacuation orders, the Orange County Fire Authority said. Two firefighters were hospitalized with heat-related injuries, nine schools closed, and the cause is not yet known. The fire was under a square mile as of Friday evening. A separate fire near Camp Pendleton shut part of Interstate 5 for hours, and tens of thousands of Californians had their power cut as a precaution. Fire-weather conditions and a coastal heat advisory last through Saturday night. “Had these winds been a little bit stronger, a little bit different direction, this could have been a whole lot worse,” San Clemente Mayor Rick Loeffler said."
     },
     {
-      "n": 7,
+      "n": 14,
       "headline": "Jets at Patriots preview: win the turnover battle against Drake Maye, keep the pass rush coming and keep running Braelon Allen",
       "cat": "Jets",
       "source": "NewYorkJets.com",
@@ -79,7 +156,7 @@
       "summary": "Ahead of Sunday’s AFC East opener in Foxborough, the team’s own reporters lay out what the Jets need to win. The biggest gap is turnovers. The Jets are plus-3, tied for sixth in the NFL, and Geno Smith is one of three starting quarterbacks with no interceptions. The Patriots are minus-5, and Drake Maye is tied for the league lead with seven picks. After eight sacks against Cleveland, the Jets face a New England line missing two starters, LT Will Campbell and RG Mike Onwenu. Safety Minkah Fitzpatrick against Maye is the matchup to watch. The Jets’ No. 4 pass defense (175 yards a game) has to contain Maye’s deep shots; he threw two touchdowns of 30-plus yards against the Raiders. CB Azareye’h Thomas leads the team with five pass breakups. On offense, Braelon Allen has carried the run game the past two weeks, and Smith is going for a road win in New England for the third straight season with a third different team. Rookie WR Omar Cooper Jr. returns for the first time since Week 1, while Breece Hall, Adonai Mitchell and Dylan Parham remain out."
     },
     {
-      "n": 8,
+      "n": 15,
       "headline": "Ukraine is negotiating with SpaceX and the Pentagon to lift the Starshield speed cap as Trump says “it wasn’t me”",
       "cat": "World / tech",
       "source": "AP (via Yahoo News)",
@@ -90,7 +167,7 @@
       "summary": "Ukraine is in talks with SpaceX, the Pentagon and the U.S. government to lift a speed cap on Starshield, the military version of Starlink, Zelenskyy defense-tech adviser Serhii Beskrestnov told the AP on Friday. The cap, imposed without warning early Thursday, cuts the connection when a terminal moves faster than about 100 mph, which hobbles the interceptor drones Ukraine had just started using to chase down Russia’s jet-powered Shahed drones. Beskrestnov said SpaceX fixed related outages but the limit remains, and Kyiv is weighing a pricier aviation package with no cap; he stressed Starshield isn’t used for the drones hitting Russian refineries. Musk has said the U.S. government controls Starshield and the decision rests with the military and the president. Leaving for Georgia, Trump said, “I don’t know if it was anybody, but it wasn’t me, and I don’t think it was Elon.” Reuters had reported, citing U.S. officials, that the order came from inside the White House. The Pentagon hasn’t responded."
     },
     {
-      "n": 9,
+      "n": 16,
       "headline": "DHS Secretary Mullin on the Charlie Kirk Show: the Ilhan Omar probe is a “strong case” headed for a grand jury",
       "cat": "Politics / immigration",
       "source": "CBS News",
@@ -101,7 +178,7 @@
       "summary": "Homeland Security Secretary Markwayne Mullin told Andrew Kolvet, host of “The Charlie Kirk Show,” on Friday that federal agents served multiple search warrants the same day they searched Rep. Ilhan Omar’s Washington home, that a judge signed off, and that investigators expect to take the case to a grand jury. “We wouldn’t move forward, and President Trump didn’t want to move forward either, unless we knew that it couldn’t be politically driven,” Mullin said, calling it “a strong case.” The investigation, run by Homeland Security Investigations with the Justice Department, concerns immigration paperwork Omar’s late father filed when she was a child; relatives have received grand jury subpoenas and her phone was taken. Speaking hypothetically, Mullin said fraudulent paperwork that brought in others could be treated as a RICO conspiracy, though CBS notes RICO generally carries a five-year statute of limitations. Omar hasn’t been charged and calls the probe political intimidation."
     },
     {
-      "n": 10,
+      "n": 17,
       "headline": "Judge tosses child sex abuse indictment against actor Timothy Busfield, citing prosecutorial misconduct",
       "cat": "Crime / courts",
       "source": "CBS News",
@@ -112,7 +189,7 @@
       "summary": "A New Mexico judge has dismissed the indictment accusing “West Wing” and “Field of Dreams” actor Timothy Busfield of criminal sexual contact with a child, ruling that prosecutors failed to act fairly before the grand jury, including by keeping out witnesses jurors had asked to hear. Busfield’s attorney said those witnesses, people who were on the set of “The Cleaning Lady,” were waiting in the hallway, and that he is “relieved and grateful.” The case came from the parents of twin boys let go from the show, who alleged Busfield touched them inappropriately on the Albuquerque set; his lawyers say the boys initially told police nothing happened and accuse the parents of coaching them after the kids lost their roles. Busfield has called the allegations lies motivated by revenge and testified that he had been “canceled.” Prosecutors say they haven’t decided whether to seek a new indictment."
     },
     {
-      "n": 11,
+      "n": 18,
       "headline": "Verizon will charge $10 a month for iPhone Handoff, the iOS 27 feature that shares one number across two iPhones",
       "cat": "Apple",
       "source": "MacRumors",
@@ -123,7 +200,7 @@
       "summary": "Verizon says it will support iPhone Handoff, the iOS 27 feature that lets one phone number move between two iPhones, for $10 a month, with support “coming soon” on the iPhone Duo and iPhone 18 Pro models. The pricing came with Verizon’s iPhone Duo announcement on Friday. Handoff lets you switch which iPhone is active at any time — say, the pocketable Duo when you’re out and the 18 Pro for work — though the number can only be live on one phone at once. T-Mobile already supports the feature for $5 a month, while AT&T has signaled it has no immediate plans to offer it. Overseas, the U.K.’s EE will include it free on its top plan or charge £5 a month, and Germany’s Deutsche Telekom charges €6.95 unless you’re on its larger MagentaMobil plans."
     },
     {
-      "n": 12,
+      "n": 19,
       "headline": "Metallica release pro-shot Sphere videos of “The Call of Ktulu” and “…And Justice for All”",
       "cat": "Music / metal",
       "source": "Consequence",
@@ -134,7 +211,7 @@
       "summary": "Metallica have posted professionally shot video of two songs from their Oct. 1 opening night at the Las Vegas Sphere. “The Call of Ktulu” gets a new orchestral intro while an enormous Cthulhu rises from the sea on the Sphere’s screen, with Robert Trujillo channeling Cliff Burton’s part and the band closing with a dedication to Burton, who died 40 years ago. “…And Justice for All” recreates the band’s classic 1988–89 tour staging on a giant scale, with the bound Lady Justice statue, “Doris,” projected above the band and torn apart at the song’s climax. The “Life Burns Faster” Sphere residency runs through March 2027, and the band has also announced a new 2027 leg of the M72 tour."
     },
     {
-      "n": 13,
+      "n": 20,
       "headline": "Schwab and JPMorgan are blocking AI agents like Meta’s Muse from moving customers’ money",
       "cat": "AI / finance",
       "source": "Gizmodo",
@@ -143,83 +220,6 @@
       "image_remote": "https://gizmodo.com/app/uploads/2026/10/FrowningMuse-1200x675.jpg",
       "id": "5aa75fe81388faba646d1284753f0d66b0bc49a6",
       "summary": "Charles Schwab CEO Rick Wurster said Friday the brokerage is actively blocking Meta’s Muse AI agent from moving money in client accounts. “We don’t want someone just giving their password to Muse, and letting Muse come in and take action on that client’s behalf. We can’t control it, the client can’t control it, something could go wrong and who’s liable?” he told Bloomberg TV. Wurster said the weekly count of blocked agent attempts is only in the tens and twenties, a sign people aren’t ready to hand their finances to AI. JPMorgan Chase CEO Jamie Dimon said this week the bank bans outside agents for retail clients because “you don’t want rogue agents, and it could be thousands of them.” Schwab is steering clients to its own assistant, Charley, and plans to allow outside chatbots to view balances and do research through controlled MCP connections — but not to trade or move money."
-    },
-    {
-      "n": 14,
-      "headline": "Barn owls are nesting in Manhattan for the first time on record, drawing nightly crowds on the Upper West Side",
-      "cat": "Nature / New York",
-      "source": "PBS News (AP)",
-      "url": "https://www.pbs.org/newshour/nation/a-rare-family-of-barn-owls-moved-into-manhattans-upper-west-side-captivating-new-yorkers",
-      "image_local": "images/story-1126.jpg",
-      "image_remote": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-15T021029Z_980854247_RC2C3OAH8B5F_RTRMADP_3_NEW-YORK-OWL-1024x683.jpg",
-      "id": "60cbfcdd15d7a9bc315ea3cf51f747dadab97e50",
-      "summary": "A family of barn owls has nested in a water tower atop a building on West 75th Street near Central Park — the first documented barn owl nest in Manhattan in modern history, according to Cornell Lab of Ornithology migration ecologist Andrew Farnsworth. Birder David Barrett of Manhattan Bird Alert says he has seen at least one adult and five fledglings, plus an adult carrying rodents back to the tower; some photographers claim six young. Photographers and onlookers now gather on the street every night hoping to see them hunt at dusk. Neighbors had been hearing screeching since September — one father said he ran to his kids’ room more than once thinking a child was in pain. New York sits at the northern edge of the barn owl’s range, and the state says the species has declined “at an alarming rate.”"
-    },
-    {
-      "n": 15,
-      "headline": "Bend police name the gunman and two of the four killed at Silver Rail Elementary",
-      "cat": "Crime / courts",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/bend-oregon-elementary-school-shooting-victims/",
-      "image_local": "images/story-1114.jpg",
-      "image_remote": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/16/4336063d-2525-4c95-8edd-a5ede0348811/thumbnail/1200x630/5569fbe4a09da7d68e328afbed927f5e/ap26289568047762.jpg",
-      "id": "496ec0a79f1d69831418ea39489aa254ebf491e1",
-      "summary": "Bend police on Friday identified two of the four people killed in Thursday’s shooting at Silver Rail Elementary: 25-year-old teacher Megan Lambert and 5-year-old Rhoam Summer, whose father wrote that it was “the worst day of my life” and that the family is “broken and lost.” Two other children, ages 8 and 11, were also killed; their families haven’t released their names. A 7-year-old and a 54-year-old teacher remain hospitalized in critical condition. Police Chief Mike Krantz officially named the suspect as Griffin J. John II of Bend, a former Silver Rail student who was shot and killed by a bystander; there’s still no word on a motive. The family of Kaylub Giamanco, the man who came forward as that bystander, said he is “not seeking recognition” and thanked first responders, school staff and the community. Memorials of flowers, balloons and stuffed animals have grown around the school."
-    },
-    {
-      "n": 16,
-      "headline": "John Lydon calls his old Sex Pistols bandmates “deceitful, lying hyenas” and their Frank Carter tour “karaoke”",
-      "cat": "Music / punk",
-      "source": "Blabbermouth",
-      "url": "https://blabbermouth.net/news/john-lydon-blasts-his-longtime-sex-pistols-bandmates-as-deceitful-lying-hyenas-i-never-want-another-thing-to-do-with-them",
-      "image_local": "images/story-1115.jpg",
-      "image_remote": "https://assets.blabbermouth.net/media/johnnyrottenlydonoct2026_638.jpg",
-      "id": "9e65c2f6bcaad0d92c56a3a6211aa958915494f4",
-      "summary": "Asked on ITV’s Good Morning Britain about the Sex Pistols touring with Frank Carter on vocals, John Lydon didn’t soften his earlier “karaoke” jab: “Cheek of them. Going out without me, singing the songs I wrote, the words I wrote, the presentation I created.” When a host suggested he should have joined the reunion, the former Johnny Rotten said he’d worked with them enough already — “They’re deceitful, lying hyenas, and I never want another thing to do with them” — and called the lineup an imitation of him. Steve Jones, Paul Cook and Glen Matlock started playing with Carter (of Gallows and the Rattlesnakes) at three London benefit nights in August 2024 and have since toured Europe, North America, Australia and New Zealand. Lydon has been estranged from the band since losing his bid to block their songs from “Pistol,” the miniseries based on Jones’s memoir."
-    },
-    {
-      "n": 17,
-      "headline": "China moves to restrict or ban exports of 40 technologies, including advanced AI models and agents",
-      "cat": "World / tech",
-      "source": "PBS News (AP)",
-      "url": "https://www.pbs.org/newshour/world/china-says-it-will-curb-tech-exports-including-ai-citing-national-security-risks",
-      "image_local": "images/story-1116.jpg",
-      "image_remote": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-07-18T152522Z_416417339_RC26GMAK9V8F_RTRMADP_3_CHINA-AI-1024x683.jpg",
-      "id": "623851b769971ed4adef2eae2f06b986e8e20423",
-      "summary": "China’s commerce and science ministries on Friday published a draft update to the country’s export-control catalog that would restrict or ban exports of 40 technologies spanning artificial intelligence, chips and solar power, with national security cited as a main reason. Twenty-three of the listed items are AI technologies, from advanced large models to AI agents; the core technology behind large models trained on sensitive national data would be barred from export outright, as would agents designed for sensitive settings such as national defense and critical infrastructure. The move flips the script on years of U.S.-led curbs that have kept China from buying the most advanced AI chips and chipmaking machines, and it lands even as Washington and Beijing have been making progress on AI-safety talks and a notification channel for AI incidents that could threaten national security."
-    },
-    {
-      "n": 18,
-      "headline": "Vance defends ICE but says the administration acts when agents “really screw up”",
-      "cat": "Politics / immigration",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/vance-ice-investigate-agents-screw-up/",
-      "image_local": "images/story-1117.jpg",
-      "image_remote": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/15/a68d8cc1-5469-4c80-ae71-842f71e69be1/thumbnail/1200x630/d0fc5998a700b240c88ead92ee0b2ce6/cbsn-fusion-vance-talks-economy-inflation-corruption-cbs-news-town-hall-thumbnail.jpg",
-      "id": "0f5d6f1ac5c85ef8bbb9b42e475de2072f744df5",
-      "summary": "In a one-hour CBS Evening News town hall with Tony Dokoupil, taped Thursday in Michigan and airing Saturday, Vice President JD Vance defended immigration officers as mostly “amazing people who are patriots” while acknowledging that “sometimes you have some people who really screw up,” and said the administration has a responsibility to investigate and prosecute when they do. Pressed for the biggest ICE mistakes, Vance declined to name any but said there have been cases where officers got more training or were disciplined, adding that the administration doesn’t advertise those outcomes because people deserve to be judged through a normal investigative and court process. ICE and Border Patrol use-of-force practices have drawn criticism as the crackdown has ramped up. The town hall comes as Michigan’s Senate race between Republican Mike Rogers and Democrat Abdul El-Sayed heats up."
-    },
-    {
-      "n": 19,
-      "headline": "A 13,800-year-old Alaska base camp links early Americans to people across the Bering Land Bridge",
-      "cat": "Science / history",
-      "source": "Gizmodo",
-      "url": "https://gizmodo.com/thousands-of-artifacts-unearthed-in-alaska-hint-at-an-even-older-human-presence-in-the-americas-2000826892",
-      "image_local": "images/story-1118.jpg",
-      "image_remote": "https://gizmodo.com/app/uploads/2026/10/excavation-1200x675.jpg",
-      "id": "4b209724700786fce8c10654249b101552cd1091",
-      "summary": "Researchers working for more than a decade at Shég’ Xdaltth’í’, a site near Fairbanks, Alaska, report in Science Advances that its oldest layer — about 13,800 years old, and possibly 14,000 — holds thousands of artifacts packed into less than 11 square feet, along with tools and a wide variety of animal bones. Most striking are diamond-shaped projectile points previously found at only two sites on the Russian side of the Bering Strait, pointing to a cultural connection across the old land bridge. Unlike the short-lived hunting camps known from the same era, the site looks like a longer-term base camp with evidence of daily life, which suggests people may have been in Alaska even earlier than thought. “There’s just so much stuff,” University of Kansas anthropologist Kelly Graf told Gizmodo, explaining the team took its time to do the study right."
-    },
-    {
-      "n": 20,
-      "headline": "Lawsuit says ChatGPT played unlicensed doctor and pushed a Washington man into a mental health crisis",
-      "cat": "AI / courts",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/chatgpt-medical-advice-lawsuit/",
-      "image_local": "images/story-1119.jpg",
-      "image_remote": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/09/17/610919e3-7f44-4756-8217-f290996aea64/thumbnail/1200x630/24b3aab52d6cd27140d630e29cf8fe1e/takeout091726.jpg",
-      "id": "e7c62d8fc76846ebbe305e8fd581393c421f95bd",
-      "summary": "David Rosenthal, a 39-year-old Washington man with a history of ADHD, depression and bipolar episodes, is suing OpenAI, alleging that ChatGPT helped him choose medications, gave him dosing instructions and reassured him when he chose to ignore his doctor’s prescriptions. The complaint, filed in San Francisco, argues the chatbot did this without “any of the license, training, or professional judgment” of a medical professional, violating California’s ban on practicing medicine without a license. Rosenthal says he was hospitalized for several weeks in 2025 — first voluntarily, then involuntarily — soon after he started relying on ChatGPT, and kept using it for medical guidance after he was discharged. The suit claims that, but for ChatGPT’s “repeated encouragement and constant praise” overriding his own reluctance, his condition would not have spiraled."
     }
   ]
 }
