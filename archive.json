@@ -1258,7 +1258,14 @@
     "5c11afdb611084195b7848015059acba6a2cbcb4",
     "4a7a062f3ba898c6a4ae8c17c808c1a3b9daad12",
     "1c6d1fa45cc2645e8b2f8ae608ced33ea0079fd9",
-    "66e24056c353407929616e43dd848d90e7d22eb6"
+    "66e24056c353407929616e43dd848d90e7d22eb6",
+    "a01caf8bc49766f875bbc1d6b6201aafe611b87f",
+    "676d8136277adf32ff9eaf5ca95017e4165177e5",
+    "87dada6394a23a8ea29f9c1ff97a0b46d3f9039f",
+    "0571e3e4f9c06d9c8ea524626282e46d41387119",
+    "97507df5fe505851e288e22b7ca49e6b8b325b32",
+    "a1f6f0c3b5fab713af4f2b7186725180dd066638",
+    "8a399bc14862a4a16f1abd63ab7a93edb4a1f81e"
   ],
   "stories": {
     "0c2ac7a5e342411678296315c4c59043b1f067cc": {
@@ -15206,7 +15213,77 @@
       "image_remote": "",
       "image_local": "",
       "id": "66e24056c353407929616e43dd848d90e7d22eb6"
+    },
+    "a01caf8bc49766f875bbc1d6b6201aafe611b87f": {
+      "headline": "Connecticut’s Secretary of the State was one of the targets of the suspicious powder letters sent to election offices nationwide",
+      "cat": "U.S. / Connecticut",
+      "source": "Connecticut Secretary of the State (CT.gov)",
+      "url": "https://portal.ct.gov/sots/press-releases/2026-press-releases/secretary-thomas-responds-to-suspicious-letters-sent-to-election-offices",
+      "summary": "Connecticut’s Secretary of the State says her Hartford office was the intended target of one of the suspicious letters the FBI and U.S. Postal Inspection Service are investigating around the country. Federal authorities intercepted the Connecticut letter before it arrived. Some of the mailings to election offices held a powdery substance, but preliminary tests in several states found nothing hazardous. Election offices in Louisiana and Oklahoma were evacuated Tuesday after workers opened envelopes with white powder. Before learning Connecticut had been targeted, the office reminded town election officials of safe mail-handling procedures. “I’m relieved that the substances tested so far have not been hazardous, but these incidents are still deplorable,” Secretary Stephanie Thomas said. “No one should have to fear for their safety simply because they’re doing their jobs.” Thomas also joined the National Association of Secretaries of State and the state election directors’ group in a joint statement condemning the mailings. Her office says it remains in close contact with the FBI and other law enforcement agencies, less than three weeks before Election Day.",
+      "image_remote": "",
+      "image_local": "",
+      "id": "a01caf8bc49766f875bbc1d6b6201aafe611b87f"
+    },
+    "676d8136277adf32ff9eaf5ca95017e4165177e5": {
+      "headline": "Jets activate rookie WR Omar Cooper Jr. off injured reserve and elevate LB Jaden Keller for Sunday at New England",
+      "cat": "Jets",
+      "source": "New York Jets",
+      "url": "https://www.newyorkjets.com/news/omar-cooper-jets-active-roster-from-injured-reserve-10-17-2026",
+      "summary": "The Jets moved first-round rookie wide receiver Omar Cooper Jr. from injured reserve to the 53-man roster Saturday, so he will play Sunday against the Patriots in Foxborough. They also elevated linebacker Jaden Keller from the practice squad. Cooper hurt his ankle in the Week 1 win over Tennessee after only five snaps. One of those snaps was a 30-yard catch-and-run that set up the opening-drive touchdown. He has missed the four games since. Sunday will be only his second NFL game. He had 69 catches for 937 yards and 13 touchdowns at Indiana last season. Keller, an undrafted rookie from Virginia Tech, has played 38 special-teams snaps over the last two games. Sunday will be his third straight game for the Jets. He had 10 tackles in the preseason after joining the practice squad Aug. 31.",
+      "image_remote": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/jets/cgsvkj1hk4bdu0ieea9f",
+      "image_local": "images/story-1138.jpg",
+      "id": "676d8136277adf32ff9eaf5ca95017e4165177e5"
+    },
+    "87dada6394a23a8ea29f9c1ff97a0b46d3f9039f": {
+      "headline": "Former U.S. ambassador Morse Tan is stuck in South Korea and on trial for defamation over a speech he gave in Washington",
+      "cat": "World / free speech",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/world/former-us-ambassador-says-south-korea-prosecuted-him-over-speech-made-american-soil",
+      "summary": "Morse Tan, who served as ambassador-at-large for global criminal justice in President Trump’s first term, appeared in a Seoul court Friday on criminal defamation charges brought on behalf of South Korean President Lee Jae Myung. The case stems from a June 2025 talk at the National Press Club in Washington on alleged fraud in South Korea’s presidential election. Answering a question there, Tan repeated old allegations that Lee was involved in a violent crime as a teenager and spent time in juvenile detention. South Korean prosecutors say those claims are false. A second charge covers remarks Tan made in South Korea in July 2025. He has been barred from leaving the country since he arrived in May. Tan is a constitutional-law professor and former dean of Liberty University’s law school. He pleaded not guilty, calls the case “political lawfare” and says criminal defamation “does not exist in the U.S.” South Korea’s embassy says the case follows due process. The State Department declined to discuss specifics. Tan could face prison if convicted.",
+      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/south-korea-president-amb.tan-split.jpg",
+      "image_local": "images/story-1139.jpg",
+      "id": "87dada6394a23a8ea29f9c1ff97a0b46d3f9039f"
+    },
+    "0571e3e4f9c06d9c8ea524626282e46d41387119": {
+      "headline": "TikTok permanently bans the account for Alex Gibney’s “Musk” documentary, citing political-policy violations",
+      "cat": "Elon Musk / media",
+      "source": "Gizmodo",
+      "url": "https://gizmodo.com/tiktok-permabans-musk-film-account-2000827320",
+      "summary": "TikTok has permanently suspended the promotional account for “Musk,” Alex Gibney’s unflattering documentary about Elon Musk, which runs three hours and 52 minutes. According to The Hollywood Reporter, distributor Bleecker Street was told Friday that the ban was coming because of the “level of severity with political-policy violations,” and that “some violations trigger immediate suspension.” TikTok has not said which rule the account broke. The film opened nationwide Friday after a limited preview. Last month YouTube, Meta, X and TikTok all turned down ads for it. Google and Meta later reversed course, calling it an error, but TikTok and X did not. X has also refused to take Bleecker Street ads for its other films. Gizmodo points out that Oracle, controlled by Larry Ellison, owns about 15% of the consortium that runs TikTok’s U.S. business, and Ellison’s ties to Musk come up in the film. Gizmodo also notes that political content is everywhere on TikTok, and that the platform’s special rules for “political accounts” cover governments, politicians and parties, not films.",
+      "image_remote": "https://gizmodo.com/app/uploads/2025/03/Elon-Musk-chainsaw-GettyImages-2200061572-1200x675.jpg",
+      "image_local": "images/story-1140.jpg",
+      "id": "0571e3e4f9c06d9c8ea524626282e46d41387119"
+    },
+    "97507df5fe505851e288e22b7ca49e6b8b325b32": {
+      "headline": "Nearly 12-foot alligator drags a 71-year-old fisherman into a Florida pond and kills him",
+      "cat": "U.S. / Florida",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/alligator-kills-man-fishing-at-pond-winter-garden-florida/",
+      "summary": "A 71-year-old man fishing at a park in Winter Garden, Florida, was pulled into the water and killed by a nearly 12-foot alligator Friday evening, according to the Florida Fish and Wildlife Conservation Commission. Wildlife officials identified him as Steve Hamilton. The attack happened around 5 p.m. at Dr. Bradford Memorial Park, west of Orlando. The park has several small ponds that connect to Lake Apopka and is so well known for alligators that it has a crossing called Gator Bridge. Police said Hamilton was standing on shore when the alligator grabbed him. Trappers removed an 11-foot, 8-inch alligator from the scene. “Lake Apopka has tons of alligators in it,” Winter Garden Police Capt. Michael Mason said. “It looks like it’s docile… but it can be dangerous.” Hamilton is the second person killed by an alligator in Florida this year. Florida usually sees about a dozen attacks a year, and the FWC has counted 32 fatal attacks since 1948, never more than three in a single year.",
+      "image_remote": "",
+      "image_local": "",
+      "id": "97507df5fe505851e288e22b7ca49e6b8b325b32"
+    },
+    "a1f6f0c3b5fab713af4f2b7186725180dd066638": {
+      "headline": "Al Jourgensen says Ministry “has run its course” as the final album lands Oct. 30 and a goodbye tour hits 2027",
+      "cat": "Music / metal",
+      "source": "Blabbermouth",
+      "url": "https://blabbermouth.net/news/al-jourgensen-i-think-that-ministry-has-run-its-course",
+      "summary": "Ministry founder Al Jourgensen says the industrial-metal band is done after one last album and farewell tour. “I just think that Ministry has run its course,” he told Hit Parader. “I’m glad it was here when it was here.” Ministry’s 17th and final studio album, “Hate To Go (Take Out Or Delivery),” comes out Oct. 30 on Cleopatra Records. Jourgensen, 68, called it “a culmination of 40 years of the same elements” and “a good one to go out on.” He said he is “not enthused about continuing to keep doing this kind of music or music in general.” Jourgensen says he only ever wanted to teach history and that Ministry “kept dragging me in,” comparing himself to Michael Corleone in “The Godfather Part III.” The album closes with “We’re Still Here,” a final collaboration with former member Paul Barker. The “Goodbye Europe” tour with Die Krupps starts in April 2027, and a full U.S. run follows. Ministry started in Chicago in 1981 and hit its peak with “The Land Of Rape And Honey,” “The Mind Is A Terrible Thing To Taste” and 1992’s Grammy-nominated “Psalm 69.”",
+      "image_remote": "https://assets.blabbermouth.net/media/aljourgensenoct2026live_638.jpg",
+      "image_local": "images/story-1141.jpg",
+      "id": "a1f6f0c3b5fab713af4f2b7186725180dd066638"
+    },
+    "8a399bc14862a4a16f1abd63ab7a93edb4a1f81e": {
+      "headline": "A new Canon patent includes an RF 70-200mm f/2L IS design, a full stop faster than any 70-200 Canon sells",
+      "cat": "Photography / Canon",
+      "source": "Canon Rumors",
+      "url": "https://www.canonrumors.com/is-an-rf-70-200mm-f-2l-is-coming-canons-latest-patent-points-to-a-dream-zoom/",
+      "summary": "A Japanese patent application from Canon (JP 2026-168807) contains about a dozen optical designs for fast zooms, and one of them is an RF 70-200mm f/2L IS. That would be a full stop brighter than Canon’s f/2.8 versions and a natural partner for the RF 28-70mm f/2L. Canon Rumors says the design uses 23 elements in 8 groups, including 6 aspheric surfaces, and appears to zoom and focus internally. Its optical length is about 220mm before adding the flange distance. The EF 200mm f/2L prime was 210mm long as a complete lens. The patent’s real focus is a three-group focusing system. One main group does most of the work, and two lighter groups move only slightly to correct field curvature, which keeps the motors small and the lens compact. Other designs in the filing include zooms faster than f/2, such as a 50-85mm f/1.4. Canon Rumors cautions that patents often never become products. It says there is “a very small chance” a 70-200 f/2 reaches stores and guesses one would cost $6,000 to $8,000.",
+      "image_remote": "https://www.canonrumors.com/wp-content/uploads/2026/10/Is-an-RF-70-200mm-f2L-IS-Coming.jpg",
+      "image_local": "images/story-1142.jpg",
+      "id": "8a399bc14862a4a16f1abd63ab7a93edb4a1f81e"
     }
   },
-  "updated": "Saturday, October 17, 2026 · 11:41 AM ET"
+  "updated": "Saturday, October 17, 2026 · 4:13 PM ET"
 }
