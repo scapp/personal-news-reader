@@ -1237,7 +1237,14 @@
     "623851b769971ed4adef2eae2f06b986e8e20423",
     "0f5d6f1ac5c85ef8bbb9b42e475de2072f744df5",
     "4b209724700786fce8c10654249b101552cd1091",
-    "e7c62d8fc76846ebbe305e8fd581393c421f95bd"
+    "e7c62d8fc76846ebbe305e8fd581393c421f95bd",
+    "e9100c9398393430d8b9feb8f774684b1cf0016e",
+    "eee2fc12020f0b79981a9d14edff699b9626c765",
+    "70db157132299f6f63c837652f1adce96f833753",
+    "a84e2756c147744c111ea2e18a22d2aba2d5daec",
+    "32ae1c3266e76cbc4c853942edb406e6ed2a867e",
+    "5aa75fe81388faba646d1284753f0d66b0bc49a6",
+    "60cbfcdd15d7a9bc315ea3cf51f747dadab97e50"
   ],
   "stories": {
     "0c2ac7a5e342411678296315c4c59043b1f067cc": {
@@ -14975,7 +14982,77 @@
       "image_remote": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/09/17/610919e3-7f44-4756-8217-f290996aea64/thumbnail/1200x630/24b3aab52d6cd27140d630e29cf8fe1e/takeout091726.jpg",
       "image_local": "images/story-1119.jpg",
       "id": "e7c62d8fc76846ebbe305e8fd581393c421f95bd"
+    },
+    "e9100c9398393430d8b9feb8f774684b1cf0016e": {
+      "headline": "Ukraine is negotiating with SpaceX and the Pentagon to lift the Starshield speed cap as Trump says “it wasn’t me”",
+      "cat": "World / tech",
+      "source": "AP (via Yahoo News)",
+      "url": "https://www.yahoo.com/news/us/articles/presidential-adviser-says-ukraine-talks-192640345.html",
+      "summary": "Ukraine is in talks with SpaceX, the Pentagon and the U.S. government to lift a speed cap on Starshield, the military version of Starlink, Zelenskyy defense-tech adviser Serhii Beskrestnov told the AP on Friday. The cap, imposed without warning early Thursday, cuts the connection when a terminal moves faster than about 100 mph, which hobbles the interceptor drones Ukraine had just started using to chase down Russia’s jet-powered Shahed drones. Beskrestnov said SpaceX fixed related outages but the limit remains, and Kyiv is weighing a pricier aviation package with no cap; he stressed Starshield isn’t used for the drones hitting Russian refineries. Musk has said the U.S. government controls Starshield and the decision rests with the military and the president. Leaving for Georgia, Trump said, “I don’t know if it was anybody, but it wasn’t me, and I don’t think it was Elon.” Reuters had reported, citing U.S. officials, that the order came from inside the White House. The Pentagon hasn’t responded.",
+      "image_remote": "https://media.zenfs.com/en/ap.org/cd6764c356c70a5ad348e6fe9f1cf0cc.jpg",
+      "image_local": "images/story-1120.jpg",
+      "id": "e9100c9398393430d8b9feb8f774684b1cf0016e"
+    },
+    "eee2fc12020f0b79981a9d14edff699b9626c765": {
+      "headline": "DHS Secretary Mullin on the Charlie Kirk Show: the Ilhan Omar probe is a “strong case” headed for a grand jury",
+      "cat": "Politics / immigration",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/dhs-markwayne-mullin-ilhan-omar-strong-case/",
+      "summary": "Homeland Security Secretary Markwayne Mullin told Andrew Kolvet, host of “The Charlie Kirk Show,” on Friday that federal agents served multiple search warrants the same day they searched Rep. Ilhan Omar’s Washington home, that a judge signed off, and that investigators expect to take the case to a grand jury. “We wouldn’t move forward, and President Trump didn’t want to move forward either, unless we knew that it couldn’t be politically driven,” Mullin said, calling it “a strong case.” The investigation, run by Homeland Security Investigations with the Justice Department, concerns immigration paperwork Omar’s late father filed when she was a child; relatives have received grand jury subpoenas and her phone was taken. Speaking hypothetically, Mullin said fraudulent paperwork that brought in others could be treated as a RICO conspiracy, though CBS notes RICO generally carries a five-year statute of limitations. Omar hasn’t been charged and calls the probe political intimidation.",
+      "image_remote": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/04/13/ca3475fc-f53c-4b4a-bddb-b5745943bb5d/thumbnail/1200x630/4651f73a3fb45642af844f30f48b162b/gettyimages-2267901375.jpg",
+      "image_local": "images/story-1121.jpg",
+      "id": "eee2fc12020f0b79981a9d14edff699b9626c765"
+    },
+    "70db157132299f6f63c837652f1adce96f833753": {
+      "headline": "Judge tosses child sex abuse indictment against actor Timothy Busfield, citing prosecutorial misconduct",
+      "cat": "Crime / courts",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/timothy-busfield-judge-dismisses-child-sex-abuse-charges/",
+      "summary": "A New Mexico judge has dismissed the indictment accusing “West Wing” and “Field of Dreams” actor Timothy Busfield of criminal sexual contact with a child, ruling that prosecutors failed to act fairly before the grand jury, including by keeping out witnesses jurors had asked to hear. Busfield’s attorney said those witnesses, people who were on the set of “The Cleaning Lady,” were waiting in the hallway, and that he is “relieved and grateful.” The case came from the parents of twin boys let go from the show, who alleged Busfield touched them inappropriately on the Albuquerque set; his lawyers say the boys initially told police nothing happened and accuse the parents of coaching them after the kids lost their roles. Busfield has called the allegations lies motivated by revenge and testified that he had been “canceled.” Prosecutors say they haven’t decided whether to seek a new indictment.",
+      "image_remote": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/01/21/63e0acca-0bf5-41a2-b75b-85597cbeba18/thumbnail/1200x630/d5dd0368ce238a9bd1795b437962839d/ap26020796710406.jpg",
+      "image_local": "images/story-1122.jpg",
+      "id": "70db157132299f6f63c837652f1adce96f833753"
+    },
+    "a84e2756c147744c111ea2e18a22d2aba2d5daec": {
+      "headline": "Verizon will charge $10 a month for iPhone Handoff, the iOS 27 feature that shares one number across two iPhones",
+      "cat": "Apple",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/16/verizon-iphone-handoff-cost/",
+      "summary": "Verizon says it will support iPhone Handoff, the iOS 27 feature that lets one phone number move between two iPhones, for $10 a month, with support “coming soon” on the iPhone Duo and iPhone 18 Pro models. The pricing came with Verizon’s iPhone Duo announcement on Friday. Handoff lets you switch which iPhone is active at any time — say, the pocketable Duo when you’re out and the 18 Pro for work — though the number can only be live on one phone at once. T-Mobile already supports the feature for $5 a month, while AT&T has signaled it has no immediate plans to offer it. Overseas, the U.K.’s EE will include it free on its top plan or charge £5 a month, and Germany’s Deutsche Telekom charges €6.95 unless you’re on its larger MagentaMobil plans.",
+      "image_remote": "https://images.macrumors.com/t/jG4b-VKd9y8S2sNqme6nXQKRHkY=/1672x/article-new/2026/09/iPhone-Handoff-Feature.jpeg",
+      "image_local": "images/story-1123.jpg",
+      "id": "a84e2756c147744c111ea2e18a22d2aba2d5daec"
+    },
+    "32ae1c3266e76cbc4c853942edb406e6ed2a867e": {
+      "headline": "Metallica release pro-shot Sphere videos of “The Call of Ktulu” and “…And Justice for All”",
+      "cat": "Music / metal",
+      "source": "Consequence",
+      "url": "https://consequence.net/2026/10/metallica-pro-shot-videos-sphere/",
+      "summary": "Metallica have posted professionally shot video of two songs from their Oct. 1 opening night at the Las Vegas Sphere. “The Call of Ktulu” gets a new orchestral intro while an enormous Cthulhu rises from the sea on the Sphere’s screen, with Robert Trujillo channeling Cliff Burton’s part and the band closing with a dedication to Burton, who died 40 years ago. “…And Justice for All” recreates the band’s classic 1988–89 tour staging on a giant scale, with the bound Lady Justice statue, “Doris,” projected above the band and torn apart at the song’s climax. The “Life Burns Faster” Sphere residency runs through March 2027, and the band has also announced a new 2027 leg of the M72 tour.",
+      "image_remote": "https://consequence.net/wp-content/uploads/2026/10/Metallica-sphere.jpg",
+      "image_local": "images/story-1124.jpg",
+      "id": "32ae1c3266e76cbc4c853942edb406e6ed2a867e"
+    },
+    "5aa75fe81388faba646d1284753f0d66b0bc49a6": {
+      "headline": "Schwab and JPMorgan are blocking AI agents like Meta’s Muse from moving customers’ money",
+      "cat": "AI / finance",
+      "source": "Gizmodo",
+      "url": "https://gizmodo.com/after-muse-launch-u-s-banks-are-saying-hell-no-to-ai-agents-moving-money-2000827221",
+      "summary": "Charles Schwab CEO Rick Wurster said Friday the brokerage is actively blocking Meta’s Muse AI agent from moving money in client accounts. “We don’t want someone just giving their password to Muse, and letting Muse come in and take action on that client’s behalf. We can’t control it, the client can’t control it, something could go wrong and who’s liable?” he told Bloomberg TV. Wurster said the weekly count of blocked agent attempts is only in the tens and twenties, a sign people aren’t ready to hand their finances to AI. JPMorgan Chase CEO Jamie Dimon said this week the bank bans outside agents for retail clients because “you don’t want rogue agents, and it could be thousands of them.” Schwab is steering clients to its own assistant, Charley, and plans to allow outside chatbots to view balances and do research through controlled MCP connections — but not to trade or move money.",
+      "image_remote": "https://gizmodo.com/app/uploads/2026/10/FrowningMuse-1200x675.jpg",
+      "image_local": "images/story-1125.jpg",
+      "id": "5aa75fe81388faba646d1284753f0d66b0bc49a6"
+    },
+    "60cbfcdd15d7a9bc315ea3cf51f747dadab97e50": {
+      "headline": "Barn owls are nesting in Manhattan for the first time on record, drawing nightly crowds on the Upper West Side",
+      "cat": "Nature / New York",
+      "source": "PBS News (AP)",
+      "url": "https://www.pbs.org/newshour/nation/a-rare-family-of-barn-owls-moved-into-manhattans-upper-west-side-captivating-new-yorkers",
+      "summary": "A family of barn owls has nested in a water tower atop a building on West 75th Street near Central Park — the first documented barn owl nest in Manhattan in modern history, according to Cornell Lab of Ornithology migration ecologist Andrew Farnsworth. Birder David Barrett of Manhattan Bird Alert says he has seen at least one adult and five fledglings, plus an adult carrying rodents back to the tower; some photographers claim six young. Photographers and onlookers now gather on the street every night hoping to see them hunt at dusk. Neighbors had been hearing screeching since September — one father said he ran to his kids’ room more than once thinking a child was in pain. New York sits at the northern edge of the barn owl’s range, and the state says the species has declined “at an alarming rate.”",
+      "image_remote": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-15T021029Z_980854247_RC2C3OAH8B5F_RTRMADP_3_NEW-YORK-OWL-1024x683.jpg",
+      "image_local": "images/story-1126.jpg",
+      "id": "60cbfcdd15d7a9bc315ea3cf51f747dadab97e50"
     }
   },
-  "updated": "Friday, October 16, 2026 · 6:05 PM ET"
+  "updated": "Friday, October 16, 2026 · 10:11 PM ET"
 }
