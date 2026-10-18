@@ -1284,7 +1284,14 @@
     "088fe001decaf36766a79f5ad72c4df5d787d88e",
     "a635d57f3366a5aaf4d40f5b684ea0a03173dd78",
     "9321dd1deeb5f00cf32d035afc184ec826479dab",
-    "6163ebd2325e429d3908c4692b0d8aa4738ed366"
+    "6163ebd2325e429d3908c4692b0d8aa4738ed366",
+    "57e3656fe4974792bc1110754fc568cefb128364",
+    "6566c721a6b150c09eaeed72707c00d5e40cacdf",
+    "5748676fab4d15d05a6e2ae9464c32fec4f89bdb",
+    "e65ad44b959aa6397d0ce21ea43cf5fb2f7a2e82",
+    "d3b9abc4b9e20082d7a511b8b73d44e1c96b09a7",
+    "251d3bde6341b7f962dbca95530eedb2020b0e45",
+    "c3ec3e79bbb12177623d87b5aa71e3d71a9e1086"
   ],
   "stories": {
     "0c2ac7a5e342411678296315c4c59043b1f067cc": {
@@ -15492,7 +15499,77 @@
       "image_remote": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/10/18/2026-10-18-angelus/1792318515278.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.1500.844.jpeg",
       "image_local": "images/story-1159.jpg",
       "id": "6163ebd2325e429d3908c4692b0d8aa4738ed366"
+    },
+    "57e3656fe4974792bc1110754fc568cefb128364": {
+      "headline": "Abdul El-Sayed admits his sister-in-law was on the federal terrorist watchlist under Obama, days before Obama campaigns with him in Michigan",
+      "cat": "Politics / Michigan Senate",
+      "source": "Breitbart",
+      "url": "https://www.breitbart.com/politics/2026/10/18/33932272watch-el-sayed-admits-his-sister-in-law-was-on-terrorist-watch-list-during-obama-administration/",
+      "summary": "Michigan Democratic Senate candidate Abdul El-Sayed acknowledged Saturday night that his sister-in-law, Mariam Jukaku, had been on the federal terrorist watchlist during the Obama administration, but said she was removed in 2016. Fox News correspondent Mike Tobin confronted him in a hallway about court papers naming Jukaku as a plaintiff in a 2016 lawsuit challenging her placement in the Terrorist Screening Dataset; the suit says she went through extensive airport screening in 2012 without ever being told she had been flagged. “She did nothing wrong and was captured on that and then sued and got off,” El-Sayed said, blaming a system where people are “guilty until proven innocent because they’ve got different kinds of names” and the “infrastructure that people like Mike Rogers set up,” referring to his Republican opponent. The record is murkier than his answer: a federal appeals court overturned the ruling that had favored Jukaku and the other plaintiffs in 2021, and a separate damages suit was dismissed in 2017. The government says it neither confirms nor denies anyone’s inclusion on the list, and Fox notes the lawsuit does not establish wrongdoing by Jukaku or El-Sayed. The admission is awkward timing, since Barack Obama is scheduled to campaign with El-Sayed in Michigan on Oct. 24, and it comes after weeks of attacks over alleged family ties to the Muslim Brotherhood, which his campaign calls racist and untrue.",
+      "image_remote": "https://media.breitbart.com/media/2026/10/oct8-2026-Michigan-debate-Abdul-El-Sayed-ap.jpg",
+      "image_local": "images/story-1160.jpg",
+      "id": "57e3656fe4974792bc1110754fc568cefb128364"
+    },
+    "6566c721a6b150c09eaeed72707c00d5e40cacdf": {
+      "headline": "A mob-linked friend of O.J. Simpson came home with blood on his hands the night of the 1994 murders, his brother now claims",
+      "cat": "Crime / courts",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/us/brother-possible-oj-simpson-accomplice-claims-returned-bloody-hands-night-murders-report",
+      "summary": "A New York Times investigation, summarized by Fox News, raises the possibility that a mob-connected drug trafficker helped O.J. Simpson cover up the 1994 murders of Nicole Brown Simpson and Ronald Goldman. Sam Ippolito told the paper that his brother, Joseph “Joey” Ippolito, an associate of Simpson and his friend Al Cowlings, came back to a Los Angeles apartment around midnight on June 12, 1994, with what looked like blood on his hands and a bag holding a heavy object. Sam says Joey stuffed his clothes into the bag, told him to get rid of it while he showered, and that he tossed it into a dumpster near a construction site on Doheny Drive; he also says he overheard Joey telling Cowlings he had been “helping” Simpson that night. Joey Ippolito, who had escaped from a Florida prison weeks earlier, became a federal informant after his 1995 arrest, and a 1996 prosecution memo unsealed at the Times’ request says he had information about Simpson’s alleged disposal of the never-found murder weapon. The account comes with big caveats: the prosecutor who wrote that memo says he does not believe Joey was involved, Marcia Clark says she never heard of him, and Sam later sought money from the Times and tried to retract his statements. Joey died in 2006. Simpson, acquitted in 1995 but found liable in civil court, died in 2024, and the LAPD says the case remains open.",
+      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2025/11/oj-simpson-looking-on-at-murder-trial.jpg",
+      "image_local": "images/story-1161.jpg",
+      "id": "6566c721a6b150c09eaeed72707c00d5e40cacdf"
+    },
+    "5748676fab4d15d05a6e2ae9464c32fec4f89bdb": {
+      "headline": "Jets at Patriots: Breece Hall is among six inactives, while WR Omar Cooper Jr. is in the lineup for the 1 p.m. kickoff",
+      "cat": "Jets",
+      "source": "New York Jets",
+      "url": "https://www.newyorkjets.com/news/jets-vs-patriots-game-inactives-10-18-2026",
+      "summary": "The Jets have listed six players as inactive for Sunday’s 1 p.m. game against the New England Patriots at Gillette Stadium: running back Breece Hall, wide receiver Adonai Mitchell, defensive back Nahshon Wright, edge rusher Joseph Ossai, offensive lineman Dylan Parham and defensive tackle Jack Heflin. Hall had already been ruled out with a quad injury, so the Jets will lean on their other backs against New England. On the plus side, wide receiver Omar Cooper Jr. is back in the lineup after being moved to the active 53-man roster on Saturday, and linebacker Jaden Keller was elevated from the practice squad for the game. A win would get the Jets to 3-3 on the season. The Patriots, meanwhile, get a boost on offense, with A.J. Brown, Will Campbell and TreVeyon Henderson all active for the division matchup.",
+      "image_remote": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/jets/snazilfqpqjt6d1wx5qe",
+      "image_local": "images/story-1162.jpg",
+      "id": "5748676fab4d15d05a6e2ae9464c32fec4f89bdb"
+    },
+    "e65ad44b959aa6397d0ce21ea43cf5fb2f7a2e82": {
+      "headline": "An Air Force combat specialist dies after falling while rappelling from the Alamodome roof before UTSA’s Salute to Armed Forces game",
+      "cat": "U.S. / military",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/us-air-force-member-dies-injury-ut-san-antonio-football-stadium/",
+      "summary": "A U.S. Air Force service member died Saturday after falling while rappelling from the ceiling of the Alamodome in San Antonio during a pregame ceremony for the University of Texas at San Antonio’s annual Salute to Armed Forces and Veterans game against Navy. CBS affiliate KENS reported that he landed near the middle of the field, and video posted online shows him, in combat fatigues, dropping quickly feet first with fans in the stands and a band on the field nearby. He was treated on the field for several minutes and taken away on a gurney, and Nellis Air Force Base said he died at a local hospital. He was assigned to the 6th Combat Training Squadron, Detachment 2, and was one of four service members scheduled for the demonstration; they belong to a team of specialists who embed with Army and Marine units to direct air and artillery strikes, and who train to drop by rope from helicopters 100 feet or more up. His name has not been released. The game went on after a roughly 10-minute delay, and UTSA won 38-34. Coach Jeff Traylor called the accident “heartbreaking” and “tragic,” saying the crowd of more than 23,000 was hit hard: “You could tell the energy was just gone. It just really puts things in perspective.”",
+      "image_remote": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/18/cbf88b47-84a2-40e2-ace1-5b8b7c88e391/thumbnail/1200x630/20127c61e26f892ac21b19844725b3ed/gettyimages-2299297033.jpg",
+      "image_local": "images/story-1163.jpg",
+      "id": "e65ad44b959aa6397d0ce21ea43cf5fb2f7a2e82"
+    },
+    "d3b9abc4b9e20082d7a511b8b73d44e1c96b09a7": {
+      "headline": "Apple Stores are reportedly planning a Nov. 6 “reset,” a strong hint that the touchscreen OLED MacBook Pro and OLED iPad mini go on sale that day",
+      "cat": "Apple / Mac",
+      "source": "AppleInsider",
+      "url": "https://appleinsider.com/articles/26/10/18/retail-reset-set-for-november-6-as-oled-macbook-pro-looms",
+      "summary": "Apple is planning to reset its retail stores overnight from Thursday, Nov. 5, into Friday, Nov. 6, according to Bloomberg’s Mark Gurman, a move that usually means new signage and new products on the tables. AppleInsider says that points to Nov. 6 as the on-sale date for the Macs and iPads expected at Apple’s rumored second October event on Oct. 27. The headliners are a redesigned MacBook Pro with a touchscreen OLED display, which is expected to be lighter and may swap the notch for a Dynamic Island, and an OLED iPad mini with the FaceTime camera moved to the landscape edge. Gurman has reported that macOS will add touch-specific touches, like a menu that pops up around your finger when you tap a control and menu-bar items that enlarge for easier tapping. Other Macs could show up too, including an updated iMac. If the timing holds, Apple will have launches four Fridays in a row: the iPhone Duo on Oct. 23, the HomePod mini 2 on Oct. 30, the new Macs and iPads on Nov. 6, and the HomeView and Apple TV 4K on Nov. 13.",
+      "image_remote": "https://media.appleinsider.com/gallery/69434-146386-64228-133776-61074-126018-60212-123651-58596-119421-000-lead-OLED-MBP-xl-xl-xl-xl-xl.jpg",
+      "image_local": "images/story-1164.jpg",
+      "id": "d3b9abc4b9e20082d7a511b8b73d44e1c96b09a7"
+    },
+    "251d3bde6341b7f962dbca95530eedb2020b0e45": {
+      "headline": "Metallica play “Harvester of Sorrow” for the first time at the Sphere, but fans aren’t sold on the giant goose on the screen",
+      "cat": "Music / metal",
+      "source": "Loudwire",
+      "url": "https://loudwire.com/metallica-debut-another-classic-song-latest-sphere-show-setlist-video/",
+      "summary": "Metallica kept up their habit of debuting a song at nearly every Las Vegas Sphere show, adding “Harvester of Sorrow” from 1988’s …And Justice for All to their sixth residency night on Saturday, Oct. 17. It came sixth in the set, between “72 Seasons” and “The Day That Never Comes,” and James Hetfield closed it with, “From …And Justice for All. ‘Harvester of Sorrow’ for you, Las Vegas. Thank you.” Not everyone loved the visuals: fans on Reddit grumbled that the Sphere’s huge screen spent the whole song showing a man and a goose, with one writing that it was “a waste” and another saying they heard Hetfield “looked completely confused by the goose.” The rest of the night leaned on Justice too, opening with “Blackened” and playing “One” as the second-to-last song, alongside “The Unforgiven,” “For Whom the Bell Tolls,” “Leper Messiah,” “Hardwired” and “Enter Sandman.” Loudwire notes the set was otherwise nearly identical to the Oct. 3 and Oct. 10 shows, the latter of which brought “Until It Sleeps” to the Sphere for the first time.",
+      "image_remote": "https://townsquare.media/site/366/files/2026/10/attachment-metallica_debut_another_classic_song_latest_sphere_show-1.jpg?w=1200&q=75&format=natural",
+      "image_local": "images/story-1165.jpg",
+      "id": "251d3bde6341b7f962dbca95530eedb2020b0e45"
+    },
+    "c3ec3e79bbb12177623d87b5aa71e3d71a9e1086": {
+      "headline": "A 2,000-piece LEGO Ideas Cessna 172 hits 10,000 votes, putting the classic trainer plane in line to become an official set",
+      "cat": "LEGO",
+      "source": "Brick Fanatics",
+      "url": "https://www.brickfanatics.com/popular-aircraft-could-become-official-lego-set",
+      "summary": "A fan-designed LEGO Cessna 172 has passed 10,000 supporters on LEGO Ideas, which means the LEGO Group will formally review it for possible release as an official set. Built by Mike_the_Brickanic, the model uses roughly 2,000 pieces to recreate one of the world’s most popular training aircraft and is big: about 85 centimeters long, 60 centimeters wide and 23 centimeters deep. It is mostly white with dark blue and yellow accents and includes a detailed cockpit with adjustable pilot seats, a spinning propeller and working wheels, so it can be played with as well as displayed. Brick Fanatics says the Cessna is the 33rd project to reach 10,000 votes in the third LEGO Ideas review of 2026, which wraps up in January. Past fan projects that made the jump to store shelves include the Downton Abbey and River Steamboat sets.",
+      "image_remote": "https://www.brickfanatics.com/storage/uploads/2318c2d4-8cc8-4a25-9607-ef4190c578aa.png",
+      "image_local": "images/story-1166.jpg",
+      "id": "c3ec3e79bbb12177623d87b5aa71e3d71a9e1086"
     }
   },
-  "updated": "Sunday, October 18, 2026 · 7:11 AM ET"
+  "updated": "Sunday, October 18, 2026 · 11:44 AM ET"
 }
