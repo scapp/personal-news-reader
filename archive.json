@@ -1299,7 +1299,12 @@
     "3d11b5d828104f23b9ce5c0d9b1a11be06172edb",
     "bf68ff4ecc40de28a3230fbf8f5f3d0d6fd73975",
     "95adc0d18b6322506493c765bf84792fb940fae1",
-    "86f38f3a1d9594b57c78d486f06ac6f7725900ac"
+    "86f38f3a1d9594b57c78d486f06ac6f7725900ac",
+    "7934fa9882e493427bda2080e63f81970c5438ba",
+    "ad71a18634dc68574b9ce87ba79767dc1f6ea3aa",
+    "86376305d57c330cde05cc2cf3c8779d7abab438",
+    "dbbc7c74a92a0680249b5b10a9a6873a9f9cb0d8",
+    "2ac2d63a6511c8dd8798ec7b922c7985ad5e7143"
   ],
   "stories": {
     "0c2ac7a5e342411678296315c4c59043b1f067cc": {
@@ -15657,7 +15662,57 @@
       "image_remote": "https://assets.blabbermouth.net/media/judaspriesttheearlyyearsoct2026_638.jpg",
       "image_local": "images/story-1173.jpg",
       "id": "86f38f3a1d9594b57c78d486f06ac6f7725900ac"
+    },
+    "7934fa9882e493427bda2080e63f81970c5438ba": {
+      "headline": "Macron addresses France after Saturday’s riots, blames far-left extremists and “criminals,” and asks “How can French people do this to France?”",
+      "cat": "World / France",
+      "source": "Breitbart",
+      "url": "https://www.breitbart.com/europe/2026/10/18/macron-addresses-nation-refuses-blame-ignores-immigration-role/",
+      "summary": "In his first address to the nation since the youth protest movement began nearly a month ago, French President Emmanuel Macron on Sunday evening blamed “extremists from far-left groups” and “criminals” for Saturday’s nationwide riots, which torched historic buildings, saw thousands of shops looted and injured hundreds of police officers, gendarmes and firefighters. “Why burn down the town hall in Limoges, the tourist office in Lyon, storm the town hall in Marseille, or attack the prefect’s residence in Bordeaux?” he asked. “Nothing justifies it, nothing explains it, nothing excuses it.” Macron said the hundreds of thousands who marched over the cost of living and fuel prices had legitimate concerns, tied Europe’s energy crunch to the U.S.–Iran conflict, and said he will travel to the Gulf on Monday to secure fuel supplies. He has ordered his interior and justice ministers to review the response, and Prime Minister Sébastien Lecornu will chair a crisis meeting Monday on aid for business owners, with some costs to be recovered from convicted rioters. Breitbart notes he did not address immigration. Marine Le Pen said millions of angry French people “are not breaking anything,” Jordan Bardella called it a “lamentable speech,” and Éric Zemmour blamed the arrival of “500,000 foreigners a year for the past 10 years.”",
+      "image_remote": "https://media.breitbart.com/media/2026/10/GettyImages-2300354832-2-640x335.jpg",
+      "image_local": "images/story-1174.jpg",
+      "id": "7934fa9882e493427bda2080e63f81970c5438ba"
+    },
+    "ad71a18634dc68574b9ce87ba79767dc1f6ea3aa": {
+      "headline": "A priest in Ecuador is killed when a large wooden crucifix falls on him as he prepares Communion during a livestreamed Mass",
+      "cat": "Faith / World",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/world/priest-killed-falling-crucifix-livestreamed-mass-worshippers-rush-help",
+      "summary": "Father Patricio Alfredo Sánchez Molinari was standing at the altar of Nuestra Señora del Perpetuo Socorro Church in Guayaquil, Ecuador, preparing Communion on Saturday when the large wooden crucifix behind him suddenly fell forward and struck him, Fox News reports. The Mass was being livestreamed on social media, and the video captures screams as worshippers rushed to his side, with a woman heard shouting, “Father, Father … call an ambulance.” The Archdiocese of Guayaquil confirmed his death in a Facebook statement, identifying him as the parish priest of Perpetuo Socorro in its Central Vicariate; the day before, the archdiocese had congratulated him on the anniversary of his ordination, according to the Ecuadorian outlet Primicias. Sánchez Molinari was a member of the Redemptorists and previously spent several years as parish priest at San Lorenzo in Vinces, in Los Ríos province, where his former parish posted a tribute. Church officials had not explained what caused the crucifix to fall as of Sunday.",
+      "image_remote": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/1200/675/father-patricio-sanchez-molinari-celebrating-mass-ecuador.png",
+      "image_local": "images/story-1175.jpg",
+      "id": "ad71a18634dc68574b9ce87ba79767dc1f6ea3aa"
+    },
+    "86376305d57c330cde05cc2cf3c8779d7abab438": {
+      "headline": "Trump defends his Russia sanctions waiver and diesel deal on Truth Social and tears into Zelensky: “I WANT THIS WAR END!”",
+      "cat": "World / Ukraine",
+      "source": "Kyiv Independent",
+      "url": "https://kyivindependent.com/i-want-this-war-end-trump-defends-pro-russian-policies-in-scathing-diatribe-against-zelensky-2/",
+      "summary": "President Trump used a Truth Social post on Sunday to defend his recent moves on Russia, including waiving sanctions, a deal for Russia to release diesel onto world markets and pressure on Ukraine to stop striking Russian oil refineries. “My decision on Russia is a very simple one,” he wrote. “I am in the process of negotiating Peace in the war between Russia and Ukraine, and don’t want to do anything that will drive, foolishly, Russia away from the bargaining table,” adding that “great progress is being made,” including on hostage negotiations. Trump argued that Russia is doing “very little, if anything” to help Iran in its war with the U.S. and is instead “sending, at a low price, millions of barrels of diesel to the World,” and he accused Zelensky of targeting Russian diesel refineries “knowing that these attacks are seriously hurting the world diesel markets, including those in the United States.” He went on to say Zelensky could have made a better deal two years ago: “His country is in shambles, a large portion of his land is lost, his oceans and seas are gone, and his male population is low, wounded, and/or dead.” The Kyiv Independent notes that the moves have alarmed Kyiv as Russian strikes continue, and that Treasury Secretary Scott Bessent has insisted the sanctions were only waived, not lifted.",
+      "image_remote": "https://assets.kyivindependent.com/content/images/2026/10/GettyImages-2299380238_20261013-031224.jpg",
+      "image_local": "images/story-1176.jpg",
+      "id": "86376305d57c330cde05cc2cf3c8779d7abab438"
+    },
+    "dbbc7c74a92a0680249b5b10a9a6873a9f9cb0d8": {
+      "headline": "A cattle truck plunges off a Kansas City overpass, killing up to 60 cows and sending dozens more wandering the city’s highways",
+      "cat": "U.S. / odd news",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/kansas-city-missouri-cows-overturned-trailer/",
+      "summary": "A semitrailer hauling 120 to 130 head of cattle overturned on the westbound I-70 curve in downtown Kansas City, Missouri, shortly before 3 a.m. Sunday and fell onto southbound I-35, landing on a car, CBS News reports. Both drivers had minor injuries and were treated at local hospitals. Kansas City police Sgt. Phil DiMartino said between 45 and 60 of the cattle were killed, while dozens of others fled the scene, causing more crashes and a flood of calls to police; some walked several miles before they were caught. The city launched drones to track the animals until a private company working with the trucking firm arrived with workers on horseback to round them up, and by Sunday afternoon police said all the cows were believed to be accounted for. Fire Battalion Chief Michael Hopkins said recovering the animals that didn’t survive had been the harder job. The crash came on the day the Chiefs hosted the Chargers at Arrowhead, though officials did not expect major game-day traffic problems.",
+      "image_remote": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/18/73f0ee79-666e-470d-a83d-e8bd53c609ba/thumbnail/1200x630/8eb8cc96a41f6fedee35f6923d702ef8/videoframe-13783.png",
+      "image_local": "images/story-1177.jpg",
+      "id": "dbbc7c74a92a0680249b5b10a9a6873a9f9cb0d8"
+    },
+    "2ac2d63a6511c8dd8798ec7b922c7985ad5e7143": {
+      "headline": "A London councillor wants Marilyn Manson pulled from Slipknot’s Wembley Stadium show, and Jim Root says booking support acts isn’t his call",
+      "cat": "Music / metal",
+      "source": "Louder",
+      "url": "https://www.loudersound.com/bands-artists/politician-calls-for-marilyn-mansons-removal-from-slipknot-show-over-sexual-misconduct-allegations",
+      "summary": "Marilyn Manson is booked to support Slipknot at Wembley Stadium on July 3, 2027, the opening night of their (sic)est stadium tour, on a bill with Lorna Shore and Hatebreed, but Brent Council Liberal Democrat leader Anton Georgiou has called on the venue to reconsider because of sexual misconduct allegations against the singer, which Manson denies. “The allegations against Marilyn Manson are serious, and while he denies wrongdoing, Wembley Stadium needs to explain what consideration was given to them before this booking was confirmed,” Georgiou said. Brent Council replied that bookings are a matter for the venue and promoters, not the council, and Wembley said support acts are chosen by the promoter and headliner and that it is in talks with Live Nation about the performance. Slipknot guitarist Jim Root posted that the decision had nothing to do with him: “I concentrate on writing and being a guitarist, so forgive my ignorance about who we do shows with.” Manson, who is also slated for four South American dates on the tour, is scheduled to stand trial in November 2027 in a sexual assault and battery lawsuit brought by his former assistant Ashley Walters, Louder reports.",
+      "image_remote": "https://cdn.mos.cms.futurecdn.net/mNkMroECf9TWxfjsvPBxh9-1280-80.jpg",
+      "image_local": "images/story-1178.jpg",
+      "id": "2ac2d63a6511c8dd8798ec7b922c7985ad5e7143"
     }
   },
-  "updated": "Sunday, October 18, 2026 · 4:29 PM ET"
+  "updated": "Sunday, October 18, 2026 · 6:06 PM ET"
 }
