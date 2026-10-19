@@ -1311,7 +1311,13 @@
     "a2dd36a0b220ddbe22141ce356bec0bb15b63507",
     "4a00b8de1165c1a3331fc8533efb21d61bbc5670",
     "d1d68945a73ad30b95f935e07b73724e81c51e48",
-    "9b38a63071dbc5fd83c58cec0f1f64ad3b3c2248"
+    "9b38a63071dbc5fd83c58cec0f1f64ad3b3c2248",
+    "93a06648aa32e909a4ee74288f01d8e3b64a0a4b",
+    "787a5ac8c247278f171ddc116581a6bc6c939a81",
+    "507f2b5f3b99558914ed2d6480aec76723996830",
+    "612f2cdfe05e5d7a569a66a75c994fa730258915",
+    "2a0781626edd31878c2443cddf9cb43860153367",
+    "68769ee924b1c6b5b4be402c5170fedfd28d7290"
   ],
   "stories": {
     "0c2ac7a5e342411678296315c4c59043b1f067cc": {
@@ -15789,7 +15795,67 @@
       "image_remote": "https://media.breitbart.com/media/2026/04/Laken-Snelling--640x335.png",
       "image_local": "images/story-1183.jpg",
       "id": "9b38a63071dbc5fd83c58cec0f1f64ad3b3c2248"
+    },
+    "93a06648aa32e909a4ee74288f01d8e3b64a0a4b": {
+      "headline": "A National Guard member is shot in the leg on Capitol Hill after Guard troops jump out of their van to break up a fight, and three of them return fire",
+      "cat": "Crime / D.C.",
+      "source": "WJLA 7News",
+      "url": "https://wjla.com/news/local/washington-dc-national-guard-member-suspect-shooting-southeast-eighth-street-se-fight-gunfire-jeffery-carroll-metropolitan-police-department-christian-flores-wounded-leg-abdomen-arrest-investigation-internal-affairs-capitol-hill-eastern-market",
+      "summary": "A National Guard member and a gunman were both wounded late Sunday in Washington’s Eastern Market neighborhood after Guard members tried to break up a fight, interim Metropolitan Police Chief Jeffery Carroll said early Monday. Around 11:10 p.m., seven or eight Guard members sitting in a van on the 400 block of 8th Street SE saw a fight on the sidewalk and got out to intervene. One person in the fight pulled a gun and started shooting. “The National Guard members told the individual to drop the firearm. He discharged a round at the National Guard members who returned fire at that suspect,” Carroll said. The confrontation moved into an alley, where the suspect fired again, and three Guard members fired their weapons. The Guard member was hit in the leg and the suspect in the abdomen; both are expected to survive, and the suspect is hospitalized in custody. Police say the fight involved people who had been at a nearby establishment. No charges have been announced, and MPD’s Internal Affairs and Criminal Investigations divisions are investigating.",
+      "image_remote": "https://wjla.com/resources/media2/16x9/768/1320/center/90/38a9a697-85a5-4424-adaf-70ef266e43d1-frame.png",
+      "image_local": "images/story-1184.jpg",
+      "id": "93a06648aa32e909a4ee74288f01d8e3b64a0a4b"
+    },
+    "787a5ac8c247278f171ddc116581a6bc6c939a81": {
+      "headline": "Florida gets a no-bond state arrest warrant for Raúl Castro, charging him with conspiracy to murder in the 1996 Brothers to the Rescue shootdown",
+      "cat": "Courts / Cuba",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/us/florida-attorney-general-james-uthmeier-secures-state-arrest-warrant-raul-castro",
+      "summary": "Florida has obtained a state arrest warrant for former Cuban leader Raúl Castro, 95, on a no-bond charge of conspiracy to commit first-degree murder over the Feb. 24, 1996, shootdown of two unarmed Brothers to the Rescue planes, Fox News Digital reports. Attorney General James Uthmeier, whose office reopened the state investigation, was expected to announce it with Gov. Ron DeSantis on Monday morning. The Miami-Dade warrant says a judge found probable cause that Castro conspired to kill Carlos Costa, Pablo Morales, Mario de la Peña and Armando Alejandre Jr., and that the plan went up the chain of command with Raúl and Fidel Castro as the final decision-makers. It quotes a recorded statement in which Raúl Castro recalled telling generals, “Fine, shoot them down at sea when they show up, and those who have the authority are not to consult anyone.” The Miami group flew unarmed planes searching for Cuban rafters lost at sea. Castro already faces a separate federal prosecution over the shootdown, and the state’s Office of Statewide Prosecution will handle the Florida case.",
+      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/06/raul-castro-havana-appearance.jpeg",
+      "image_local": "images/story-1185.jpg",
+      "id": "787a5ac8c247278f171ddc116581a6bc6c939a81"
+    },
+    "507f2b5f3b99558914ed2d6480aec76723996830": {
+      "headline": "Musk says he’ll give one of his SpaceX shares to every kid in America next year — about $10.5 billion at Friday’s price — and calls it “the first of many”",
+      "cat": "Elon Musk / SpaceX",
+      "source": "Business Insider (via AOL)",
+      "url": "https://www.aol.com/articles/elon-musk-says-hell-every-084306000.html",
+      "summary": "“Next year, I will give one of my SpaceX shares to every kid in America. This will be the first of many,” Elon Musk posted on X early Monday. With about 72 million U.S. children and SpaceX stock closing at $146 on Friday, the gift would be worth roughly $10.5 billion, Business Insider calculates, and would cut his 4.77 billion-share stake by about 1.5%. Musk gave no details on eligibility, timing, or whether the shares would go into the Trump Accounts the administration launched this summer, which give children born between 2025 and 2028 a $1,000 federal seed deposit. Michael and Susan Dell recently put $250 into 25 million children’s Trump Accounts, and SpaceX President Gwynne Shotwell pledged SpaceX shares to more than 2 million kids in July. Musk floated the idea in reply to Anthropic’s pledge of 5% of its shares to a public-benefit fund (“I recommend giving shares directly to the public”), and when one user called it the start of universal basic income, he corrected it to “universal high income.”",
+      "image_remote": "https://hermes.media.static.aol.com/media/2026/10/19/5d3c63de-7d54-3014-959b-2ee947c9b410/c933e36f-3d31-47c6-b49d-c0549ec26611.jpg",
+      "image_local": "images/story-1186.jpg",
+      "id": "507f2b5f3b99558914ed2d6480aec76723996830"
+    },
+    "612f2cdfe05e5d7a569a66a75c994fa730258915": {
+      "headline": "Garrett Wilson saw the ball just twice before the fourth quarter in the Jets’ 26-19 loss in Foxborough, and says he’s “waiting for that moment”",
+      "cat": "Jets",
+      "source": "ClutchPoints (via Yahoo Sports)",
+      "url": "https://sports.yahoo.com/articles/jets-garrett-wilson-reasons-stunningly-054950959.html",
+      "summary": "One big reason the Jets couldn’t climb out of a 17-3 halftime hole in New England was how little the offense went to Garrett Wilson. The Pro Bowl receiver was targeted just twice before the fourth quarter and finished with four catches for 44 yards on six targets as the Jets fell 26-19 and dropped to 2-4. “I try and reason it in my head because we’ve got a whole nother fourth quarter and I know that the game can change at any moment. Just try and keep playing my role, waiting for that moment that they want to call on me,” Wilson said after the game, via SNY. An Omar Cooper Jr. touchdown and a field goal cut the lead to four entering the fourth, but New England pushed it back to 10 and the Jets managed only field goals the rest of the way. Next up is the winless Miami Dolphins on Oct. 25.",
+      "image_remote": "https://s.yimg.com/lo/mysterio/api/6bb1df7abccf1e1003b532ce8648813fd4ece277c5389cca469aecb48092a59f/lightyear_networkapi/resizefill_w1200_h672%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fclutchpoints_articles_939%2F27456df4e9a4d9daf9cbbc342d9edb62.jpg",
+      "image_local": "images/story-1187.jpg",
+      "id": "612f2cdfe05e5d7a569a66a75c994fa730258915"
+    },
+    "2a0781626edd31878c2443cddf9cb43860153367": {
+      "headline": "Four Google Gemini 4 agents beat Minecraft’s Ender Dragon on their own in 27 hours, dying 605 times and writing 2,783 programs along the way",
+      "cat": "AI / tech",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2289944/google-gemini-4-agents-just-beat-minecraft-with-no-human-intervention/",
+      "summary": "Google researchers say four Gemini 4 Argon agents beat Minecraft, defeating the Ender Dragon in a randomized survival world with no human help and no assigned roles, strategies or game-specific tools. Each agent ran a player through the open-source Mineflayer library and coordinated with the others through in-game chat and shared memory. They quickly split up the work: one made tools, one gathered food and supplies, one lit a key portal, and one built Enderman shelters and landed the final blow. They also warned each other about threats, shared coordinates and recovered items from dead teammates. The run took 27.23 hours, most of it spent on the dragon fight, and the agents “wrote and ran 2,783 programs, exchanged 229 messages and died 605 times along the way.” A fifth “Observer” agent watched for cheating. The agents used 1.35 billion input tokens, costing $810 at Gemini’s list price. The team calls it the first end-to-end autonomous completion of Minecraft by AI agents, a feat that used to require custom game-playing AI.",
+      "image_remote": "https://www.engadget.com/img/gallery/google-gemini-4-agents-just-beat-minecraft-with-no-human-intervention/l-intro-1792401444.jpg",
+      "image_local": "images/story-1188.jpg",
+      "id": "2a0781626edd31878c2443cddf9cb43860153367"
+    },
+    "68769ee924b1c6b5b4be402c5170fedfd28d7290": {
+      "headline": "FDNY keeps a four-alarm Staten Island warehouse fire from reaching the church seen in The Godfather’s baptism scene",
+      "cat": "NYC / history",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/us/firefighters-save-historic-godfather-church-raging-nyc-warehouse-blaze",
+      "summary": "More than 200 firefighters and EMS personnel rushed to Mount Loretto on Staten Island on Saturday evening when a four-alarm fire broke out around 5:45 p.m. in a warehouse at 6581 Hylan Boulevard that had been vacant for five years. One firefighter was hurt. “There is heavy, heavy damage to this structure, the roof did collapse,” FDNY Chief of Operations Kevin Woods said. Crews fought it defensively with tower ladders and hose lines and stopped it from spreading to nearby buildings on the grounds, including two schools and the Old Church of St. Joachim and St. Anne, whose exterior appears in the baptism scene of the 1972 film The Godfather. “It’s very windy out here tonight. Our units did a great job with many of the flying embers,” Woods said. The fire was under control by about 8:30 p.m. The church was largely destroyed by fire in 1973, a year after the film came out; its façade survived and it was rebuilt three years later. The cause is under investigation by the fire marshal.",
+      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/fdny-crew-fire-historic-building-saved-hose.png",
+      "image_local": "images/story-1189.jpg",
+      "id": "68769ee924b1c6b5b4be402c5170fedfd28d7290"
     }
   },
-  "updated": "Sunday, October 18, 2026 · 10:07 PM ET"
+  "updated": "Monday, October 19, 2026 · 7:08 AM ET"
 }
