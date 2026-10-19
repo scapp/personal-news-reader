@@ -1,8 +1,96 @@
 {
-  "updated": "Monday, October 19, 2026 · 4:07 PM ET",
+  "updated": "Monday, October 19, 2026 · 6:09 PM ET",
   "stories": [
     {
       "n": 1,
+      "headline": "Police say the deadly shooting near a Columbus, Ohio, mosque was not an attack on the mosque but happened in a neighboring apartment-complex parking lot",
+      "cat": "Crime / Ohio",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/shooting-mosque-columbus-ohio/",
+      "image_local": "images/story-1204.jpg",
+      "image_remote": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/19/204a4968-e588-43c0-b074-7f49cf266cb2/thumbnail/1200x630/2efb2269fbb67ac359dd46aa5b6cb0c2/mosque-fnnccuhd.jpg",
+      "id": "fd96ce99d19da79a055302e922ba99745e564243",
+      "summary": "One person was killed and another was hurt in a shooting near a mosque on Columbus, Ohio’s Northeast Side on Monday afternoon, but police say the shooting had nothing to do with the mosque or the people inside it, CBS News reports. Officers got several calls of shots fired just after 2 p.m. in the 2200 block of Albert Avenue. The ATF first posted on social media that its agents were responding to a shooting at the mosque, and a spokesperson said people were leaving a funeral there at the time. At a news conference near the scene, though, Columbus police Sgt. James Fuqua said, “We want to make it clear this was not an attack on the mosque.” According to the department, the shooting happened in the parking lot of an apartment complex next to the mosque, and it was not a targeted attack and did not take place at the mosque. Police are still in the early stages of the investigation and have not said who fired or why. CAIR’s Ohio chapter thanked law enforcement for responding quickly and for confirming there was no threat to the community."
+    },
+    {
+      "n": 2,
+      "headline": "The Trump administration orders federal civilian agencies to rip out China’s DeepSeek AI and any third-party services that run on its models",
+      "cat": "AI / national security",
+      "source": "Gizmodo",
+      "url": "https://gizmodo.com/trump-admin-bans-deepseek-from-federal-agencies-2000827670",
+      "image_local": "images/story-1205.jpg",
+      "image_remote": "https://gizmodo.com/app/uploads/2026/10/GettyImages-2297876071-1200x675.jpg",
+      "id": "6fe6d2b8340c7cd8537939ecb7f4d7244fda7cbc",
+      "summary": "The Department of Homeland Security has banned DeepSeek’s technology across most of the federal government, Gizmodo reports. A notice posted Monday orders civilian agencies such as the State Department to remove all products from the Chinese AI lab, along with any third-party services built on DeepSeek models. “DeepSeek’s account generation process collects personally identifiable information (PII) and may also track and digitally fingerprint users,” Homeland Security Secretary Markwayne Mullin wrote in a July note that was released only Monday. He also warned that the models themselves can contain malware, and the administration fears the data could end up with the Chinese government. The Navy and the Commerce Department had already told personnel not to use DeepSeek after its low-cost R1 model shook the U.S. AI industry early last year. Last month the NSA, CISA and the FBI also named DeepSeek in a joint letter accusing Chinese AI firms of “industrial-scale” distillation, meaning training their models on the outputs of American ones, and Treasury Secretary Scott Bessent has threatened sanctions over what he calls “IP theft.”"
+    },
+    {
+      "n": 3,
+      "headline": "Haitian gangs blow up and burn an armored vehicle carrying Salvadoran troops, leaving four soldiers missing in the biggest attack yet on the foreign force",
+      "cat": "World / Haiti",
+      "source": "PBS NewsHour (AP)",
+      "url": "https://www.pbs.org/newshour/world/haitian-gangs-target-foreign-troops-in-biggest-attack-since-force-began-operations",
+      "image_local": "images/story-1206.jpg",
+      "image_remote": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/AP26272703781906-1024x683.jpg",
+      "id": "1dc9f4397a0d2874961ab0393d59c8589f5dcee0",
+      "summary": "Gangs in Haiti attacked an armored vehicle with explosives and set it on fire on Sunday, and four soldiers from El Salvador are now unaccounted for, the Associated Press reports. It is the first major attack since the international gang suppression force began operating in the country. El Salvador’s military said the four aviation technicians were heading back to camp in Croix-des-Bouquets, a gang-controlled community in Port-au-Prince, and escaped the burning vehicle. Helicopters sent to the area also came under fire, and “multiple attempts to approach by land and air” have been hampered by the intensity of the fighting. At the U.N. Security Council, U.S. Ambassador Mike Waltz said the gangs hit the vehicle with “hundreds of bullets and explosives” and that the four men are believed to have survived. “To the gangs and gang leaders who carried out this cowardly attack, if you think you’re going to intimidate this coalition into retreat, you have made a terrible mistake,” he said. The area is held by gangs including Kraze Barye and 400 Mawozo, whose leaders are under U.N. and U.S. sanctions. Gang violence has displaced a record 1.5 million Haitians, and more than 5,700 people were killed or injured between January and mid-September."
+    },
+    {
+      "n": 4,
+      "headline": "Japan launches its $350 million MMX probe to drop a bouncing rover on Mars’ moon Phobos and bring soil samples back to Earth by 2031",
+      "cat": "Science / space",
+      "source": "CBS News (AP)",
+      "url": "https://www.cbsnews.com/news/japan-launches-ambitious-robotic-mission-to-land-on-martian-moon-phobos-return-samples-to-earth/",
+      "image_local": "images/story-1207.jpg",
+      "image_remote": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/19/e378c106-dcba-4d2b-a243-258f00b811e6/thumbnail/1200x630/fbe69fc5574347e9886c61564e070a0c/ap26287294542272.jpg",
+      "id": "d2839cd5df90415de774cbb1c8843c1798dee488",
+      "summary": "Japan launched a $350 million mission to Mars’ two small moons on Monday, CBS News reports. An H3 rocket lifted off from JAXA’s Tanegashima Space Center at 3:41 p.m. EDT, and the 9,900-pound Martian Moons Exploration (MMX) probe separated from the upper stage 71 minutes later. The main scientific question is whether Phobos and Deimos are debris from a giant impact on Mars early in the solar system’s history or captured asteroids. Phobos is only 17 miles across at its widest. If all goes well, MMX will reach Mars orbit in September 2027 and circle the planet in step with Phobos for three years. In early 2029 it will drop a 55-pound rover built by the German and French space agencies, which has no braking rockets and is expected to bounce to a stop in the moon’s weak gravity, about one-thousandth of Earth’s. Around 2030 the mothership itself will touch down to scoop up soil, and the samples are due back on Earth in 2031. Two NASA instruments are on board."
+    },
+    {
+      "n": 5,
+      "headline": "The Supreme Court agrees to hear a challenge to a Maryland magnet-school admissions policy said to shut out Asian American kids, plus a case on the federal ban on home distilling",
+      "cat": "Courts / education",
+      "source": "The Federalist",
+      "url": "https://thefederalist.com/2026/10/19/scotus-takes-up-cases-on-race-and-school-admissions-federal-at-home-distilling-ban/",
+      "image_local": "",
+      "image_remote": "",
+      "id": "c2f9420d4f01d318dde70307c7d45b52b4c9e40d",
+      "summary": "The Supreme Court on Monday added two closely watched cases to its docket, The Federalist reports. The first, Association for Education Fairness v. Montgomery County Board of Education, challenges admissions to competitive middle-school magnet programs in Montgomery County, Maryland. The Pacific Legal Foundation, which represents the parents, says the district hired a consultant to fix a “perceived racial imbalance” and then adopted new “equitable” criteria that “effectively den[ied] admission to the highest-scoring Asian American children.” The justices asked the parties to address whether plaintiffs challenging a race-neutral admissions policy must show the targeted group suffered an overall disparate impact relative to its share of the applicant pool. The case follows the court’s 2023 Students for Fair Admissions ruling, which struck down affirmative action in college admissions. The second case, Department of Justice v. McNutt, asks whether a Reconstruction-era federal ban on distilling spirits at home is a valid use of Congress’s power to tax. Neither case has been scheduled for argument yet."
+    },
+    {
+      "n": 6,
+      "headline": "The Jets’ press-conference feed cuts to black just as Aaron Glenn is asked about his viral “we get the ball” halftime gaffe in New England",
+      "cat": "NFL / Jets",
+      "source": "Awful Announcing",
+      "url": "https://awfulannouncing.com/nfl/aaron-glenn-press-conference-goes-dark-viral-halftime-interview-question.html",
+      "image_local": "images/story-1208.jpg",
+      "image_remote": "https://cdn1.thecomeback.com/wp-content/uploads/sites/94/2025/11/USATSI_27584008-scaled-e1763922741230.jpg",
+      "id": "a1030d13957bad9cd684cfd9240e45106af855c8",
+      "summary": "Jets coach Aaron Glenn went viral after Sunday’s 26-19 loss at New England for telling CBS sideline reporter Aditi Kinkhabwala at halftime, “The good thing is, we get the ball… We get a chance to go move it and finish,” when the Patriots actually received the second-half kickoff, Awful Announcing reports. At Monday’s press conference, ESPN’s Rich Cimini asked Glenn to clarify what he meant, and in what the site called “complete New York Jets fashion,” the live feed went black right as the question was asked. When the feed came back, Glenn was finishing his answer. He explained that he and Kinkhabwala had been talking about the offense’s first-half struggles, so “get the ball” meant whenever the Jets next had possession. To his credit, the Jets shut out New England in the third quarter and scored 10 points to pull within four before falling short. The 2-4 Jets face the Dolphins on Sunday."
+    },
+    {
+      "n": 7,
+      "headline": "Tony Iommi says his first solo album in 21 years, “From The Dark,” out Friday, came together with “no pressure” in his home studio with singer Jorn Lande",
+      "cat": "Music / heavy metal",
+      "source": "Blabbermouth",
+      "url": "https://blabbermouth.net/news/tony-iommi-on-making-of-his-new-solo-album-from-the-dark-it-was-all-very-casual",
+      "image_local": "images/story-1209.jpg",
+      "image_remote": "https://assets.blabbermouth.net/media/tonyiommiwmmroct2026_638.jpg",
+      "id": "85dff58db79afff008b037bb33a9dc848e92edfe",
+      "summary": "Black Sabbath guitarist Tony Iommi told Philadelphia rock station 93.3 WMMR that making his new solo album, From The Dark, was “all very casual,” Blabbermouth reports. The record is out Friday, Oct. 23, on BMG. “It’s been 21 years,” Iommi said with a laugh. With a Sabbath album, he explained, there is always a set time to write, record and then tour, “In this case, there’s no pressure. I’ve been able to do it when I want. I’ve got my own studio here.” Norwegian singer Jorn Lande, who shares writing credits on every song, wrote all the lyrics and came up with a title that fit “the mood of it,” and bassist Becky Baldwin and drummer Karl Brazil round out the band. Iommi said he first worked with Lande at the London tribute concert for Ronnie James Dio, where Lande sang a few Sabbath songs alongside Glenn Hughes. “I like Jorn’s voice. He’s a nice guy as well… It sort of goes with what I play,” he said. The album was co-produced with his longtime partner Mike Exeter."
+    },
+    {
+      "n": 8,
+      "headline": "A Minneapolis restaurant that took the prices off its menu and promised to feed anyone, paying or not, is closing after drugs, theft and overdoses drove neighbors away",
+      "cat": "Culture / Minneapolis",
+      "source": "Not the Bee",
+      "url": "https://notthebee.com/article/minneapolis-restaurant-that-had-no-prices-closes-after-years-of-trying-to-prove-that-communism-works/",
+      "image_local": "images/story-1210.jpg",
+      "image_remote": "https://media.notthebee.com/articles/6ad67c25cb30e6ad67c25cb30f.jpg",
+      "id": "0595953ff156fe25f298c2bd7383fc3780490755",
+      "summary": "A Minneapolis restaurant that tried to run on pay-what-you-can is closing, Not the Bee reports, citing the Star Tribune. When immigration enforcement ramped up in the city earlier this year, owner Dylan Alverson rebranded the place as “Post Modern Times,” took the prices off the menu, and said he would feed anyone who came in whether they could pay or not. The stunt made national news, and donations poured in from around the world. Over six months, though, neighbors found themselves crowded out by people who couldn’t pay and stayed all day, and complaints piled up about open drug use, theft, needles discarded in the alley and overdoses on the sidewalk. After a series of contentious community meetings, Alverson closed the restaurant for a few weeks in July and reopened in August with prices back on the menu. The restaurant had been struggling financially for years and will now shut for good. Not the Bee’s verdict: “It ends in bankruptcy every time!”"
+    },
+    {
+      "n": 9,
       "headline": "Federal agents arrest more than two dozen green-card holders across California in “Operation Protect the Vote,” charging them with illegally registering and voting",
       "cat": "Elections / immigration",
       "source": "PBS NewsHour (AP)",
@@ -13,7 +101,7 @@
       "summary": "Federal authorities arrested more than two dozen foreign nationals in California on Monday who they say illegally registered and voted in U.S. elections, the Associated Press reports. The Justice Department said everyone swept up in the statewide operation, dubbed Operation Protect the Vote, is a lawful permanent resident but not a citizen, and the charges include making false statements on naturalization applications and submitting fraudulent voter registrations. The arrests escalate a fight between the administration and California ahead of the Nov. 3 midterms: last week the department sued to stop the state from counting mail ballots from 20,000 people it identified as likely noncitizens until their status can be confirmed, after state officials missed a 48-hour deadline to review the list, and on Friday it warned local election workers that knowingly processing such ballots could bring investigation and prosecution. “Noncitizen voting in a federal election is a federal crime — and knowingly facilitating such conduct is equally unlawful,” acting Deputy Attorney General Trent McCotter wrote. Before Monday, the department had charged about 90 people with election misconduct this year, including 50 accused of voting as noncitizens; California’s secretary of state says the administration has offered no evidence for its 20,000-name list."
     },
     {
-      "n": 2,
+      "n": 10,
       "headline": "Prosecutors say the ex-OpenAI engineer accused of bugging an executive conference room was in close contact with a Saudi royal and preparing to leave for Riyadh",
       "cat": "National security / AI",
       "source": "CBS News",
@@ -24,7 +112,7 @@
       "summary": "A former OpenAI engineer accused of hiding a listening device in an executive conference room was in frequent WhatsApp contact with a member of the Saudi royal family and was planning to leave the U.S. for Riyadh when he was arrested, federal prosecutors said in a court filing Sunday, CBS News reports. Prosecutors allege that Saudi national Abdulrahman Alfozan, who earned $385,000 a year at OpenAI and got a $2.2 million equity grant when he joined in July 2025, used AI tools to help build encrypted recording devices and to identify rooms where executives met with government officials and business partners. On Sept. 28, they say, he plugged a modified recorder into a USB port on the back of a TV in an executive conference room, where it stayed for days, and OpenAI executives met with government officials in that room around that time. His phone held photos of at least one other hidden recorder and of equipment in other meeting rooms. The Saudi royal repeatedly urged him to come home and join a new Saudi AI initiative (“Saudi needs you more than [sic] the US!”), and his wife and infant son flew to Saudi Arabia this month on business-class tickets bought by a Saudi military official, prosecutors allege."
     },
     {
-      "n": 3,
+      "n": 11,
       "headline": "Kenyan preacher Paul Mackenzie and 29 others are found guilty of murdering 190 children and one adult in the Shakahola starvation cult",
       "cat": "World / Africa",
       "source": "CBS News",
@@ -35,7 +123,7 @@
       "summary": "A court in Mombasa, Kenya, on Monday found self-proclaimed preacher Paul Mackenzie and his associates guilty of murdering 191 people, all but one of them children, in the starvation cult that became known as the Shakahola Forest Massacre, CBS News reports. “I am satisfied that the prosecution has proved the case against all the 29 accused persons for the murder of 190 children and one adult,” the judge said. Mackenzie is accused of urging his followers to starve themselves to death in order to “meet Jesus”; hundreds of bodies have been found since 2023 at the cult’s base inland from the beach resort of Malindi, and the total has since passed 400. He pleaded not guilty to the murder counts in 2024 and also denies manslaughter and terrorism charges in separate cases. Kenya’s chief prosecutor, Renson Ingonga, called the verdict “momentous.” Relatives of victims travelled from rural coastal communities for the ruling, including Francis Wanje, 62, who lost eight family members, among them his daughter and two grandchildren."
     },
     {
-      "n": 4,
+      "n": 12,
       "headline": "Apple sets a second October event, “Pro and tell,” for Oct. 28 in Los Angeles, where the first touchscreen OLED MacBook Pro is expected",
       "cat": "Apple / Mac",
       "source": "9to5Mac",
@@ -46,7 +134,7 @@
       "summary": "Apple on Monday announced another product event for next Wednesday, Oct. 28, at 10 a.m. Pacific in Los Angeles, under the tagline “Pro and tell,” 9to5Mac reports. It is the company’s second event this month, after the Oct. 13 “Welcome home” launch in New York that introduced the HomeView smart display, the HomePod mini 2 and a new Apple TV 4K. Marketing chief Greg Joswiak posted the invite artwork, a glowing outlined Apple logo, on social media. According to Bloomberg’s Mark Gurman, the headliner is expected to be Apple’s first MacBook Pro with a touchscreen and an OLED display, and AppleInsider says the name all but confirms MacBook Pro changes. It adds that an OLED iPad mini, likely with an A20 chip, is also expected, and that a planned Nov. 6 store refresh hints at when new products could go on sale."
     },
     {
-      "n": 5,
+      "n": 13,
       "headline": "Eagles quarterback Jalen Hurts is expected to miss the rest of the season after a blood clot from his leg traveled to his lungs",
       "cat": "NFL",
       "source": "PBS NewsHour (AP)",
@@ -57,7 +145,7 @@
       "summary": "Philadelphia Eagles quarterback Jalen Hurts is expected to miss the rest of the season because of blood clots in his lungs, a person familiar with the situation told the Associated Press on Monday. The team and Hurts’ agent said he has deep vein thrombosis and bilateral pulmonary emboli, meaning a clot traveled from his legs to his lungs; he is on blood thinners and can’t do any football activities until he’s off them, though he is “clinically stable and has no significant functional limitations.” The Eagles say Hurts took a cleat to the calf on Oct. 4 against the Rams, told the medical staff after practice on Oct. 8, and was first diagnosed by specialists in London with a superficial vein clot before the Jacksonville game. He went on injured reserve Saturday and missed Sunday’s 25-14 loss to Carolina, in which backup quarterback McKee threw for 215 yards; the 2-4 Eagles have now lost four straight for the first time since 2020. Hurts, the Super Bowl 59 MVP, had eight touchdown passes, three interceptions and 933 yards this season."
     },
     {
-      "n": 6,
+      "n": 14,
       "headline": "A Washington state prosecutor drops a murder hold on a Prosser man after concluding he likely fired in self-defense at his half-brother",
       "cat": "Crime / self-defense",
       "source": "Daily Caller",
@@ -68,7 +156,7 @@
       "summary": "The Benton County, Washington, prosecutor’s office says a Prosser man jailed after a fatal Oct. 12 confrontation with his half-brother likely acted in self-defense and will not be held any longer, the Daily Caller reports, citing Yakima-area station NBCRightNow. Jose Cruz Escobar first told deputies that his half-brother, Alejandro Salazar, had been hit in a drive-by shooting, a story the sheriff’s investigation later disproved, and he was booked on a felony investigation hold. Investigators then found that Salazar threw a rock that damaged the optical sight on Escobar’s gun, and that during a confrontation outside, Escobar fired several warning shots into the ground before firing the shot that killed Salazar. “Following additional investigation and meetings between the investigators and assigned prosecutors, the Benton County Prosecutor’s Office has determined that there is insufficient evidence to continue to detain Jose Cruz Escobar,” the office said in a Facebook post, adding that the evidence indicates he “likely acted in self-defense.”"
     },
     {
-      "n": 7,
+      "n": 15,
       "headline": "Richard Riehle, who played “people skills” product manager Tom Smykowski in Office Space, has died at 78",
       "cat": "Movies / obituary",
       "source": "Consequence",
@@ -79,7 +167,7 @@
       "summary": "Character actor Richard Riehle, best known as Tom Smykowski in Mike Judge’s 1999 workplace comedy Office Space, has died at 78, Consequence reports. According to TMZ, he died Oct. 15 of natural causes. In Office Space, Riehle played the Initech product manager whose job is deemed redundant despite his insistence that he has “people skills.” Over a long career his film credits also included The Fugitive, Jury Duty, The Man from Earth and Deuce Bigalow: Male Gigolo, and on television he turned up in Buffy the Vampire Slayer, The West Wing, Grounded for Life, The Legend of Korra and Barry."
     },
     {
-      "n": 8,
+      "n": 16,
       "headline": "Peter Jackson buys a rare, nearly complete moa egg at a Colorado auction and sends it home to New Zealand",
       "cat": "Science / history",
       "source": "Gizmodo",
@@ -90,7 +178,7 @@
       "summary": "Lord of the Rings director Peter Jackson, working with de-extinction startup Colossal Biosciences, has acquired an extremely rare, nearly complete egg of the extinct moa, New Zealand’s giant flightless bird, after it surfaced at a public auction in Colorado in June, Gizmodo reports. Only about three dozen moa eggs have ever been found; as many as 2.5 million of the birds once roamed the country before Polynesian settlers arrived around 1300 CE. The 8.75-inch-tall egg, partly reassembled with many fragments still to reattach, was presented Monday to Ngāi Tahu leader and historian Te Maire Tau at an avian palaeontology conference in Christchurch and will be entrusted to the Ngāi Tahu people. “After expert restoration, it will very likely become only the ninth known nearly intact moa egg — probably one of the five best-preserved examples,” Jackson said, adding that the partnership would also “advance research into the Moa.”"
     },
     {
-      "n": 9,
+      "n": 17,
       "headline": "Obama says the Trump administration is “selectively targeting” Ilhan Omar, and conservatives fire back with the IRS Tea Party scandal and Crossfire Hurricane",
       "cat": "Politics / media",
       "source": "Fox News",
@@ -101,7 +189,7 @@
       "summary": "Former President Barack Obama posted a long defense of Rep. Ilhan Omar on Sunday as she faces two federal investigations, one into her immigration history and one into her finances, following a raid on her home. “It is a basic principle of American democracy that the government can’t selectively target individuals simply because of their political beliefs or what they say,” Obama wrote. “But that’s exactly what the Trump Administration is doing to Congresswoman Ilhan Omar of Minnesota.” He called the situation “appalling” and said “the full weight of the federal government is being brought down on a law-abiding elected official because she has dared to criticize the president.” The post drew more than 5 million views and an immediate backlash from conservatives, Fox News Digital reports, many of whom pointed to the IRS targeting of Tea Party groups under his administration and the Crossfire Hurricane investigation of Donald Trump’s 2016 campaign. “This petty tyrant lecturing us about ‘American democracy’ is like being lectured by a screaming five-year-old about self-control,” former FBI Deputy Director Dan Bongino wrote on X."
     },
     {
-      "n": 10,
+      "n": 18,
       "headline": "The Supreme Court turns away 9/11 mastermind Khalid Sheikh Mohammed’s bid to revive the plea deal that would have spared him the death penalty",
       "cat": "Courts / terrorism",
       "source": "CBS News",
@@ -112,29 +200,7 @@
       "summary": "The Supreme Court on Monday rejected a bid by accused Sept. 11 mastermind Khalid Sheikh Mohammed and two alleged accomplices, Mustafa al Hawsawi and Walid bin ’Atash, to revive plea agreements they reached with military prosecutors in 2024. In an unsigned order, the justices left in place a D.C. Circuit ruling that then-Defense Secretary Lloyd Austin “indisputably” had the authority to withdraw the deals, under which the three would have pleaded guilty and served life sentences instead of facing the death penalty. Justice Brett Kavanaugh did not take part. The men were captured in 2003, held at secret CIA prisons where they were subjected to “enhanced interrogation techniques,” moved to Guantanamo Bay in 2006 and formally charged in 2008. Their military commission case has been stuck for years in fights over whether evidence from those interrogations can be used. A military judge ruled in 2024 that Austin’s move was unlawful, and a military appeals court agreed, before the D.C. Circuit sided with the government. In August, the judge overseeing the case set a trial date of June 2028, contingent on the parties meeting their deadlines."
     },
     {
-      "n": 11,
-      "headline": "Christiane Amanpour will leave CNN next June after 43 years, weeks after Paramount Skydance took over the network’s parent company",
-      "cat": "Media",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/business/media/cnns-christiane-amanpour-depart-network-43-years-rcna604365",
-      "image_local": "images/story-1192.jpg",
-      "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2022-09/220922-christiane-amanpour-mjf-1319-da00d1.jpg",
-      "id": "3de8d2ea06b43a61d6718d7903034f2c50d79c00",
-      "summary": "Christiane Amanpour, CNN’s chief international anchor and one of the network’s best-known faces for more than four decades, plans to leave the company next June, CNN chief executive Mark Thompson told staff in a letter obtained by NBC News. Amanpour, 68, will cut her CNN International show back to once a week early in 2027; the program will end in May, and she will leave at the end of June. “I’m very sorry to see her go, but l’ve come to accept that this is the right time for her, both personally and professionally,” Thompson wrote. Amanpour covered the fall of the Berlin Wall, the Bosnian and Gulf wars, Iraq and Afghanistan, the Arab Spring, Ukraine and Gaza, and interviewed leaders from Bill Clinton and Tony Blair to Moammar Gadhafi and Iran’s Mahmoud Ahmadinejad. In a statement she said her teams “battled to seek the facts, the evidence and the humanity, so that CNN could always broadcast the truth about the world and to the world, without fear nor favor.” Her exit comes just weeks after David Ellison’s Paramount Skydance formally took over Warner Bros. Discovery, CNN’s parent; Thompson stays on and now reports to Skydance co-CEOs Ellison and Ynon Kreiz."
-    },
-    {
-      "n": 12,
-      "headline": "Next door to Trumbull, Stratford drops a proposed ban on guns on all town property after gun owners pack the council meeting",
-      "cat": "Connecticut / Second Amendment",
-      "source": "CT Mirror",
-      "url": "https://ctmirror.org/2026/10/19/stratford-rejects-anti-gun-ordinance-amid-public-outcry/",
-      "image_local": "images/story-1193.jpg",
-      "image_remote": "https://ctmirror.org/wp-content/uploads/2025/10/stratford-town-hall.png",
-      "id": "82c59800f93912f9882b71d70f701286f8b95123",
-      "summary": "Stratford’s Town Council will not try to bring back a proposed ordinance that would have banned guns on all town-owned property, council chair Anthony Afriye said, after the council unanimously rejected it at its Oct. 13 meeting amid fierce pushback from gun-rights advocates, CT Mirror reports. Mayor David Chess said in a Facebook video Monday that the measure seemed like a logical extension of the town’s existing bans at police stations and schools, and that “the whole idea again is to protect our community, there is no other motive here.” Opponents called it government overreach that would punish law-abiding gun owners, even though it exempted people holding a valid concealed carry permit. “We should be able to protect ourselves in Stratford, not you guys trying to take our rights away from us,” said Lorenzo Whilby, owner of Stratford Guns and Ammo. Connecticut lets towns pass firearm ordinances that don’t conflict with state law; Woodbridge, Mansfield, Stamford and Bloomfield have adopted versions, while similar efforts failed in other towns, including Newtown."
-    },
-    {
-      "n": 13,
+      "n": 19,
       "headline": "Trumbull’s free Kids Pumpkin Fest is Sunday, Oct. 25 on the Town Hall Green, with touch-a-truck from Long Hill Fire and the Trumbull Police motorcycles",
       "cat": "Local / Trumbull CT",
       "source": "Town of Trumbull",
@@ -143,72 +209,6 @@
       "image_remote": "https://www.trumbull-ct.gov/ImageRepository/Document?documentID=10447",
       "id": "4501f6dcc8449c9ea0422227350f6eba41dde95f",
       "summary": "Trumbull Parks & Recreation’s annual Kids Pumpkin Fest returns Sunday, Oct. 25, from 10 a.m. to 1 p.m. on the Town Hall Green and gazebo at 5866 Main Street, the town announced Monday. Entry is free and the event runs rain or shine. Planned activities include pumpkin decorating, lawn games, face painting, crafts with the Trumbull Nature & Arts Center, a Long Hill Fire Department touch-a-truck, a Trumbull Police motorcycle encounter, a photo booth by Kait Snook Art & Design, a live DJ, and pastries and coffee from the Brewberry Café truck. Pumpkins and craft supplies are available while they last. Details are on the town’s Kids Pumpkin Fest page."
-    },
-    {
-      "n": 14,
-      "headline": "One hacker used an army of mostly autonomous AI agents to break into more than 100 websites, including sites tied to John Deere, SharkNinja and Cummins",
-      "cat": "AI / cybersecurity",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
-      "image_local": "",
-      "image_remote": "",
-      "id": "72f398965877575c14d77657785b29aee713c513",
-      "summary": "A single hacker broke into more than 100 websites using AI agents that largely ran on their own, according to findings from AI security firm Norforge, The Verge reports. Reuters reported that the victims included John Deere, SharkNinja and Cummins, at companies in the US, Canada, Australia and Japan. Norforge found the attacks through exposed instances of Cairn, an open-source platform that bills itself as a “general-purpose problem-solving engine,” where users set a start and end point and the agents log their progress. The most active attacker laid out “preferred intrusion tactics” in fewer than 100 Chinese characters, and successful breaches took about 23 hours. Norforge identified more than 20 exposed Cairn instances it considers likely malicious and is working to get them taken down. John Deere told Reuters there was “no indication that sensitive information was accessed,” SharkNinja said a standalone product-support site was hit and the threat contained, and Cummins said it is investigating a possible attack on a site run by a third-party vendor. Cairn’s creator said the platform “was never a ‘hacking tool’” and that “misuse is a human decision, not a feature of the engine.”"
-    },
-    {
-      "n": 15,
-      "headline": "Mötley Crüe books a fourth Las Vegas residency, eight “Carnival of Sins” shows at Caesars Palace next spring with a fan-voted setlist",
-      "cat": "Music / rock",
-      "source": "Blabbermouth",
-      "url": "https://blabbermouth.net/news/motley-crue-announces-march-april-2027-las-vegas-residency",
-      "image_local": "images/story-1195.jpg",
-      "image_remote": "https://assets.blabbermouth.net/media/motleycrueoct2026_638.jpg",
-      "id": "0f173ee171375a2d04944e8848dd25ff7e5be549",
-      "summary": "Mötley Crüe will return to Las Vegas for “Carnival Of Sins In Sin City,” an eight-show run at The Colosseum at Caesars Palace from March 19 through April 3, 2027, Blabbermouth reports. It is the band’s fourth Vegas residency, after “Mötley Crüe Takes On Sin City” in 2012, “Evening In Hell” in 2013 and “The Las Vegas Residency” in 2025. The shows bring the “Carnival Of Sins” tour indoors with big production and a fan-voted setlist that includes songs returning to the stage for the first time in decades. The band’s S.I.N. Club presale opens Tuesday, Oct. 20 at 10 a.m. PT, followed by Citi, Caesars Rewards and Live Nation presales; public tickets go on sale Friday, Oct. 23 at 10 a.m. PT, and all shows start at 8 p.m. Part of the proceeds will go to Nevada Partnership for Homeless Youth. Separately, on Oct. 30 the band releases a 45th-anniversary box set of its 1981 debut “Too Fast For Love,” with the original Leathür Records version, the 1982 Elektra version, 1982 Perkins Palace live recordings and never-released demos from its first studio sessions."
-    },
-    {
-      "n": 16,
-      "headline": "Lonnie Mack’s 1958 Flying V and Magnatone amp sell for $550,000, and a pristine 1959 Les Paul ’Burst sets a $781,250 record",
-      "cat": "Guitar",
-      "source": "Guitar World",
-      "url": "https://www.guitarworld.com/gear/electric-guitars/lonnie-mack-flying-v-sells-at-auction",
-      "image_local": "images/story-1196.jpg",
-      "image_remote": "https://cdn.mos.cms.futurecdn.net/57wF5PQH9AnArAqEMZKnhd-2000-80.jpg",
-      "id": "5746c2a5af950b0521d6c47272c08e8a44297239",
-      "summary": "Bluesman Lonnie Mack’s workhorse 1958 korina Gibson Flying V, just the seventh guitar off that production line, sold with his 1962 Magnatone Custom 440 combo amp for $550,000 at Heritage Auctions’ vintage guitar sale over the weekend, Guitar World reports. Mack, whose blend of blues, rock and country made him a key influence on Stevie Ray Vaughan, rarely put the V down; SRV later helped revive his career and produced his 1985 comeback album “Strike Like Lightning,” cut with that guitar. The same auction set a record for the most expensive 1959 Gibson Les Paul Standard without celebrity provenance: serial No. 9 0640, with its original humbuckers and untouched solder joints, went for $781,250, topping the previous non-celebrity record of $611,000 for a 1958/63 Explorer. The two guitars brought in a combined $1.3 million of the sale’s $2.16 million across 188 lots. Heritage’s Aaron Piscopo said Mack’s V “helped shape the sound of modern electric guitar.”"
-    },
-    {
-      "n": 17,
-      "headline": "A National Guard member is shot in the leg on Capitol Hill after Guard troops jump out of their van to break up a fight, and three of them return fire",
-      "cat": "Crime / D.C.",
-      "source": "WJLA 7News",
-      "url": "https://wjla.com/news/local/washington-dc-national-guard-member-suspect-shooting-southeast-eighth-street-se-fight-gunfire-jeffery-carroll-metropolitan-police-department-christian-flores-wounded-leg-abdomen-arrest-investigation-internal-affairs-capitol-hill-eastern-market",
-      "image_local": "images/story-1184.jpg",
-      "image_remote": "https://wjla.com/resources/media2/16x9/768/1320/center/90/38a9a697-85a5-4424-adaf-70ef266e43d1-frame.png",
-      "id": "93a06648aa32e909a4ee74288f01d8e3b64a0a4b",
-      "summary": "A National Guard member and a gunman were both wounded late Sunday in Washington’s Eastern Market neighborhood after Guard members tried to break up a fight, interim Metropolitan Police Chief Jeffery Carroll said early Monday. Around 11:10 p.m., seven or eight Guard members sitting in a van on the 400 block of 8th Street SE saw a fight on the sidewalk and got out to intervene. One person in the fight pulled a gun and started shooting. “The National Guard members told the individual to drop the firearm. He discharged a round at the National Guard members who returned fire at that suspect,” Carroll said. The confrontation moved into an alley, where the suspect fired again, and three Guard members fired their weapons. The Guard member was hit in the leg and the suspect in the abdomen; both are expected to survive, and the suspect is hospitalized in custody. Police say the fight involved people who had been at a nearby establishment. No charges have been announced, and MPD’s Internal Affairs and Criminal Investigations divisions are investigating."
-    },
-    {
-      "n": 18,
-      "headline": "Florida gets a no-bond state arrest warrant for Raúl Castro, charging him with conspiracy to murder in the 1996 Brothers to the Rescue shootdown",
-      "cat": "Courts / Cuba",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/us/florida-attorney-general-james-uthmeier-secures-state-arrest-warrant-raul-castro",
-      "image_local": "images/story-1185.jpg",
-      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/06/raul-castro-havana-appearance.jpeg",
-      "id": "787a5ac8c247278f171ddc116581a6bc6c939a81",
-      "summary": "Florida has obtained a state arrest warrant for former Cuban leader Raúl Castro, 95, on a no-bond charge of conspiracy to commit first-degree murder over the Feb. 24, 1996, shootdown of two unarmed Brothers to the Rescue planes, Fox News Digital reports. Attorney General James Uthmeier, whose office reopened the state investigation, was expected to announce it with Gov. Ron DeSantis on Monday morning. The Miami-Dade warrant says a judge found probable cause that Castro conspired to kill Carlos Costa, Pablo Morales, Mario de la Peña and Armando Alejandre Jr., and that the plan went up the chain of command with Raúl and Fidel Castro as the final decision-makers. It quotes a recorded statement in which Raúl Castro recalled telling generals, “Fine, shoot them down at sea when they show up, and those who have the authority are not to consult anyone.” The Miami group flew unarmed planes searching for Cuban rafters lost at sea. Castro already faces a separate federal prosecution over the shootdown, and the state’s Office of Statewide Prosecution will handle the Florida case."
-    },
-    {
-      "n": 19,
-      "headline": "Musk says he’ll give one of his SpaceX shares to every kid in America next year — about $10.5 billion at Friday’s price — and calls it “the first of many”",
-      "cat": "Elon Musk / SpaceX",
-      "source": "Business Insider (via AOL)",
-      "url": "https://www.aol.com/articles/elon-musk-says-hell-every-084306000.html",
-      "image_local": "images/story-1186.jpg",
-      "image_remote": "https://hermes.media.static.aol.com/media/2026/10/19/5d3c63de-7d54-3014-959b-2ee947c9b410/c933e36f-3d31-47c6-b49d-c0549ec26611.jpg",
-      "id": "507f2b5f3b99558914ed2d6480aec76723996830",
-      "summary": "“Next year, I will give one of my SpaceX shares to every kid in America. This will be the first of many,” Elon Musk posted on X early Monday. With about 72 million U.S. children and SpaceX stock closing at $146 on Friday, the gift would be worth roughly $10.5 billion, Business Insider calculates, and would cut his 4.77 billion-share stake by about 1.5%. Musk gave no details on eligibility, timing, or whether the shares would go into the Trump Accounts the administration launched this summer, which give children born between 2025 and 2028 a $1,000 federal seed deposit. Michael and Susan Dell recently put $250 into 25 million children’s Trump Accounts, and SpaceX President Gwynne Shotwell pledged SpaceX shares to more than 2 million kids in July. Musk floated the idea in reply to Anthropic’s pledge of 5% of its shares to a public-benefit fund (“I recommend giving shares directly to the public”), and when one user called it the start of universal basic income, he corrected it to “universal high income.”"
     },
     {
       "n": 20,

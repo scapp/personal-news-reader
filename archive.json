@@ -1333,7 +1333,15 @@
     "0e0b5b208fa4f6a19c4ec46737aacaddb24120a2",
     "f842338e1a4dcb8862b67f98d8b7b40a08acbec3",
     "7f699f74c1743c3e04d86cdb4e948d6b1c794f30",
-    "7cb9ffc334dc8b145178dd2215df1049363ae959"
+    "7cb9ffc334dc8b145178dd2215df1049363ae959",
+    "fd96ce99d19da79a055302e922ba99745e564243",
+    "6fe6d2b8340c7cd8537939ecb7f4d7244fda7cbc",
+    "1dc9f4397a0d2874961ab0393d59c8589f5dcee0",
+    "d2839cd5df90415de774cbb1c8843c1798dee488",
+    "c2f9420d4f01d318dde70307c7d45b52b4c9e40d",
+    "a1030d13957bad9cd684cfd9240e45106af855c8",
+    "85dff58db79afff008b037bb33a9dc848e92edfe",
+    "0595953ff156fe25f298c2bd7383fc3780490755"
   ],
   "stories": {
     "0c2ac7a5e342411678296315c4c59043b1f067cc": {
@@ -16031,7 +16039,87 @@
       "image_remote": "https://gizmodo.com/app/uploads/2026/10/colossal-peter-jackson-moa-egg-1200x675.jpg",
       "image_local": "images/story-1203.jpg",
       "id": "7cb9ffc334dc8b145178dd2215df1049363ae959"
+    },
+    "fd96ce99d19da79a055302e922ba99745e564243": {
+      "headline": "Police say the deadly shooting near a Columbus, Ohio, mosque was not an attack on the mosque but happened in a neighboring apartment-complex parking lot",
+      "cat": "Crime / Ohio",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/shooting-mosque-columbus-ohio/",
+      "summary": "One person was killed and another was hurt in a shooting near a mosque on Columbus, Ohio’s Northeast Side on Monday afternoon, but police say the shooting had nothing to do with the mosque or the people inside it, CBS News reports. Officers got several calls of shots fired just after 2 p.m. in the 2200 block of Albert Avenue. The ATF first posted on social media that its agents were responding to a shooting at the mosque, and a spokesperson said people were leaving a funeral there at the time. At a news conference near the scene, though, Columbus police Sgt. James Fuqua said, “We want to make it clear this was not an attack on the mosque.” According to the department, the shooting happened in the parking lot of an apartment complex next to the mosque, and it was not a targeted attack and did not take place at the mosque. Police are still in the early stages of the investigation and have not said who fired or why. CAIR’s Ohio chapter thanked law enforcement for responding quickly and for confirming there was no threat to the community.",
+      "image_remote": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/19/204a4968-e588-43c0-b074-7f49cf266cb2/thumbnail/1200x630/2efb2269fbb67ac359dd46aa5b6cb0c2/mosque-fnnccuhd.jpg",
+      "image_local": "images/story-1204.jpg",
+      "id": "fd96ce99d19da79a055302e922ba99745e564243"
+    },
+    "6fe6d2b8340c7cd8537939ecb7f4d7244fda7cbc": {
+      "headline": "The Trump administration orders federal civilian agencies to rip out China’s DeepSeek AI and any third-party services that run on its models",
+      "cat": "AI / national security",
+      "source": "Gizmodo",
+      "url": "https://gizmodo.com/trump-admin-bans-deepseek-from-federal-agencies-2000827670",
+      "summary": "The Department of Homeland Security has banned DeepSeek’s technology across most of the federal government, Gizmodo reports. A notice posted Monday orders civilian agencies such as the State Department to remove all products from the Chinese AI lab, along with any third-party services built on DeepSeek models. “DeepSeek’s account generation process collects personally identifiable information (PII) and may also track and digitally fingerprint users,” Homeland Security Secretary Markwayne Mullin wrote in a July note that was released only Monday. He also warned that the models themselves can contain malware, and the administration fears the data could end up with the Chinese government. The Navy and the Commerce Department had already told personnel not to use DeepSeek after its low-cost R1 model shook the U.S. AI industry early last year. Last month the NSA, CISA and the FBI also named DeepSeek in a joint letter accusing Chinese AI firms of “industrial-scale” distillation, meaning training their models on the outputs of American ones, and Treasury Secretary Scott Bessent has threatened sanctions over what he calls “IP theft.”",
+      "image_remote": "https://gizmodo.com/app/uploads/2026/10/GettyImages-2297876071-1200x675.jpg",
+      "image_local": "images/story-1205.jpg",
+      "id": "6fe6d2b8340c7cd8537939ecb7f4d7244fda7cbc"
+    },
+    "1dc9f4397a0d2874961ab0393d59c8589f5dcee0": {
+      "headline": "Haitian gangs blow up and burn an armored vehicle carrying Salvadoran troops, leaving four soldiers missing in the biggest attack yet on the foreign force",
+      "cat": "World / Haiti",
+      "source": "PBS NewsHour (AP)",
+      "url": "https://www.pbs.org/newshour/world/haitian-gangs-target-foreign-troops-in-biggest-attack-since-force-began-operations",
+      "summary": "Gangs in Haiti attacked an armored vehicle with explosives and set it on fire on Sunday, and four soldiers from El Salvador are now unaccounted for, the Associated Press reports. It is the first major attack since the international gang suppression force began operating in the country. El Salvador’s military said the four aviation technicians were heading back to camp in Croix-des-Bouquets, a gang-controlled community in Port-au-Prince, and escaped the burning vehicle. Helicopters sent to the area also came under fire, and “multiple attempts to approach by land and air” have been hampered by the intensity of the fighting. At the U.N. Security Council, U.S. Ambassador Mike Waltz said the gangs hit the vehicle with “hundreds of bullets and explosives” and that the four men are believed to have survived. “To the gangs and gang leaders who carried out this cowardly attack, if you think you’re going to intimidate this coalition into retreat, you have made a terrible mistake,” he said. The area is held by gangs including Kraze Barye and 400 Mawozo, whose leaders are under U.N. and U.S. sanctions. Gang violence has displaced a record 1.5 million Haitians, and more than 5,700 people were killed or injured between January and mid-September.",
+      "image_remote": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/AP26272703781906-1024x683.jpg",
+      "image_local": "images/story-1206.jpg",
+      "id": "1dc9f4397a0d2874961ab0393d59c8589f5dcee0"
+    },
+    "d2839cd5df90415de774cbb1c8843c1798dee488": {
+      "headline": "Japan launches its $350 million MMX probe to drop a bouncing rover on Mars’ moon Phobos and bring soil samples back to Earth by 2031",
+      "cat": "Science / space",
+      "source": "CBS News (AP)",
+      "url": "https://www.cbsnews.com/news/japan-launches-ambitious-robotic-mission-to-land-on-martian-moon-phobos-return-samples-to-earth/",
+      "summary": "Japan launched a $350 million mission to Mars’ two small moons on Monday, CBS News reports. An H3 rocket lifted off from JAXA’s Tanegashima Space Center at 3:41 p.m. EDT, and the 9,900-pound Martian Moons Exploration (MMX) probe separated from the upper stage 71 minutes later. The main scientific question is whether Phobos and Deimos are debris from a giant impact on Mars early in the solar system’s history or captured asteroids. Phobos is only 17 miles across at its widest. If all goes well, MMX will reach Mars orbit in September 2027 and circle the planet in step with Phobos for three years. In early 2029 it will drop a 55-pound rover built by the German and French space agencies, which has no braking rockets and is expected to bounce to a stop in the moon’s weak gravity, about one-thousandth of Earth’s. Around 2030 the mothership itself will touch down to scoop up soil, and the samples are due back on Earth in 2031. Two NASA instruments are on board.",
+      "image_remote": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/19/e378c106-dcba-4d2b-a243-258f00b811e6/thumbnail/1200x630/fbe69fc5574347e9886c61564e070a0c/ap26287294542272.jpg",
+      "image_local": "images/story-1207.jpg",
+      "id": "d2839cd5df90415de774cbb1c8843c1798dee488"
+    },
+    "c2f9420d4f01d318dde70307c7d45b52b4c9e40d": {
+      "headline": "The Supreme Court agrees to hear a challenge to a Maryland magnet-school admissions policy said to shut out Asian American kids, plus a case on the federal ban on home distilling",
+      "cat": "Courts / education",
+      "source": "The Federalist",
+      "url": "https://thefederalist.com/2026/10/19/scotus-takes-up-cases-on-race-and-school-admissions-federal-at-home-distilling-ban/",
+      "summary": "The Supreme Court on Monday added two closely watched cases to its docket, The Federalist reports. The first, Association for Education Fairness v. Montgomery County Board of Education, challenges admissions to competitive middle-school magnet programs in Montgomery County, Maryland. The Pacific Legal Foundation, which represents the parents, says the district hired a consultant to fix a “perceived racial imbalance” and then adopted new “equitable” criteria that “effectively den[ied] admission to the highest-scoring Asian American children.” The justices asked the parties to address whether plaintiffs challenging a race-neutral admissions policy must show the targeted group suffered an overall disparate impact relative to its share of the applicant pool. The case follows the court’s 2023 Students for Fair Admissions ruling, which struck down affirmative action in college admissions. The second case, Department of Justice v. McNutt, asks whether a Reconstruction-era federal ban on distilling spirits at home is a valid use of Congress’s power to tax. Neither case has been scheduled for argument yet.",
+      "image_remote": "",
+      "image_local": "",
+      "id": "c2f9420d4f01d318dde70307c7d45b52b4c9e40d"
+    },
+    "a1030d13957bad9cd684cfd9240e45106af855c8": {
+      "headline": "The Jets’ press-conference feed cuts to black just as Aaron Glenn is asked about his viral “we get the ball” halftime gaffe in New England",
+      "cat": "NFL / Jets",
+      "source": "Awful Announcing",
+      "url": "https://awfulannouncing.com/nfl/aaron-glenn-press-conference-goes-dark-viral-halftime-interview-question.html",
+      "summary": "Jets coach Aaron Glenn went viral after Sunday’s 26-19 loss at New England for telling CBS sideline reporter Aditi Kinkhabwala at halftime, “The good thing is, we get the ball… We get a chance to go move it and finish,” when the Patriots actually received the second-half kickoff, Awful Announcing reports. At Monday’s press conference, ESPN’s Rich Cimini asked Glenn to clarify what he meant, and in what the site called “complete New York Jets fashion,” the live feed went black right as the question was asked. When the feed came back, Glenn was finishing his answer. He explained that he and Kinkhabwala had been talking about the offense’s first-half struggles, so “get the ball” meant whenever the Jets next had possession. To his credit, the Jets shut out New England in the third quarter and scored 10 points to pull within four before falling short. The 2-4 Jets face the Dolphins on Sunday.",
+      "image_remote": "https://cdn1.thecomeback.com/wp-content/uploads/sites/94/2025/11/USATSI_27584008-scaled-e1763922741230.jpg",
+      "image_local": "images/story-1208.jpg",
+      "id": "a1030d13957bad9cd684cfd9240e45106af855c8"
+    },
+    "85dff58db79afff008b037bb33a9dc848e92edfe": {
+      "headline": "Tony Iommi says his first solo album in 21 years, “From The Dark,” out Friday, came together with “no pressure” in his home studio with singer Jorn Lande",
+      "cat": "Music / heavy metal",
+      "source": "Blabbermouth",
+      "url": "https://blabbermouth.net/news/tony-iommi-on-making-of-his-new-solo-album-from-the-dark-it-was-all-very-casual",
+      "summary": "Black Sabbath guitarist Tony Iommi told Philadelphia rock station 93.3 WMMR that making his new solo album, From The Dark, was “all very casual,” Blabbermouth reports. The record is out Friday, Oct. 23, on BMG. “It’s been 21 years,” Iommi said with a laugh. With a Sabbath album, he explained, there is always a set time to write, record and then tour, “In this case, there’s no pressure. I’ve been able to do it when I want. I’ve got my own studio here.” Norwegian singer Jorn Lande, who shares writing credits on every song, wrote all the lyrics and came up with a title that fit “the mood of it,” and bassist Becky Baldwin and drummer Karl Brazil round out the band. Iommi said he first worked with Lande at the London tribute concert for Ronnie James Dio, where Lande sang a few Sabbath songs alongside Glenn Hughes. “I like Jorn’s voice. He’s a nice guy as well… It sort of goes with what I play,” he said. The album was co-produced with his longtime partner Mike Exeter.",
+      "image_remote": "https://assets.blabbermouth.net/media/tonyiommiwmmroct2026_638.jpg",
+      "image_local": "images/story-1209.jpg",
+      "id": "85dff58db79afff008b037bb33a9dc848e92edfe"
+    },
+    "0595953ff156fe25f298c2bd7383fc3780490755": {
+      "headline": "A Minneapolis restaurant that took the prices off its menu and promised to feed anyone, paying or not, is closing after drugs, theft and overdoses drove neighbors away",
+      "cat": "Culture / Minneapolis",
+      "source": "Not the Bee",
+      "url": "https://notthebee.com/article/minneapolis-restaurant-that-had-no-prices-closes-after-years-of-trying-to-prove-that-communism-works/",
+      "summary": "A Minneapolis restaurant that tried to run on pay-what-you-can is closing, Not the Bee reports, citing the Star Tribune. When immigration enforcement ramped up in the city earlier this year, owner Dylan Alverson rebranded the place as “Post Modern Times,” took the prices off the menu, and said he would feed anyone who came in whether they could pay or not. The stunt made national news, and donations poured in from around the world. Over six months, though, neighbors found themselves crowded out by people who couldn’t pay and stayed all day, and complaints piled up about open drug use, theft, needles discarded in the alley and overdoses on the sidewalk. After a series of contentious community meetings, Alverson closed the restaurant for a few weeks in July and reopened in August with prices back on the menu. The restaurant had been struggling financially for years and will now shut for good. Not the Bee’s verdict: “It ends in bankruptcy every time!”",
+      "image_remote": "https://media.notthebee.com/articles/6ad67c25cb30e6ad67c25cb30f.jpg",
+      "image_local": "images/story-1210.jpg",
+      "id": "0595953ff156fe25f298c2bd7383fc3780490755"
     }
   },
-  "updated": "Monday, October 19, 2026 · 4:07 PM ET"
+  "updated": "Monday, October 19, 2026 · 6:09 PM ET"
 }
