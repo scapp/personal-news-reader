@@ -1,8 +1,96 @@
 {
-  "updated": "Monday, October 19, 2026 · 12:02 PM ET",
+  "updated": "Monday, October 19, 2026 · 4:07 PM ET",
   "stories": [
     {
       "n": 1,
+      "headline": "Federal agents arrest more than two dozen green-card holders across California in “Operation Protect the Vote,” charging them with illegally registering and voting",
+      "cat": "Elections / immigration",
+      "source": "PBS NewsHour (AP)",
+      "url": "https://www.pbs.org/newshour/politics/justice-department-charges-more-than-2-dozen-foreign-nationals-in-california-sweep-targeting-noncitizen-voters",
+      "image_local": "images/story-1197.jpg",
+      "image_remote": "https://d3i6fh83elv35t.cloudfront.net/static/2026/08/2026-06-02T163412Z_528496057_RC2RLLANXMDE_RTRMADP_3_USA-ELECTION-CALIFORNIA-1024x683.jpg",
+      "id": "e065ad76b6eb4a8d238c27c23cdd9e26554375ce",
+      "summary": "Federal authorities arrested more than two dozen foreign nationals in California on Monday who they say illegally registered and voted in U.S. elections, the Associated Press reports. The Justice Department said everyone swept up in the statewide operation, dubbed Operation Protect the Vote, is a lawful permanent resident but not a citizen, and the charges include making false statements on naturalization applications and submitting fraudulent voter registrations. The arrests escalate a fight between the administration and California ahead of the Nov. 3 midterms: last week the department sued to stop the state from counting mail ballots from 20,000 people it identified as likely noncitizens until their status can be confirmed, after state officials missed a 48-hour deadline to review the list, and on Friday it warned local election workers that knowingly processing such ballots could bring investigation and prosecution. “Noncitizen voting in a federal election is a federal crime — and knowingly facilitating such conduct is equally unlawful,” acting Deputy Attorney General Trent McCotter wrote. Before Monday, the department had charged about 90 people with election misconduct this year, including 50 accused of voting as noncitizens; California’s secretary of state says the administration has offered no evidence for its 20,000-name list."
+    },
+    {
+      "n": 2,
+      "headline": "Prosecutors say the ex-OpenAI engineer accused of bugging an executive conference room was in close contact with a Saudi royal and preparing to leave for Riyadh",
+      "cat": "National security / AI",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/ex-openai-engineer-recording-device-saudi-royal-family/",
+      "image_local": "images/story-1198.jpg",
+      "image_remote": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/19/2bc483f3-4e81-48d0-9d84-1817175a377e/thumbnail/1200x630g6/5f41b8455fa82f1202f3c83ffdf8876a/image003-8.png",
+      "id": "5f965c5862cf25993ede13cedfb077c9027022a4",
+      "summary": "A former OpenAI engineer accused of hiding a listening device in an executive conference room was in frequent WhatsApp contact with a member of the Saudi royal family and was planning to leave the U.S. for Riyadh when he was arrested, federal prosecutors said in a court filing Sunday, CBS News reports. Prosecutors allege that Saudi national Abdulrahman Alfozan, who earned $385,000 a year at OpenAI and got a $2.2 million equity grant when he joined in July 2025, used AI tools to help build encrypted recording devices and to identify rooms where executives met with government officials and business partners. On Sept. 28, they say, he plugged a modified recorder into a USB port on the back of a TV in an executive conference room, where it stayed for days, and OpenAI executives met with government officials in that room around that time. His phone held photos of at least one other hidden recorder and of equipment in other meeting rooms. The Saudi royal repeatedly urged him to come home and join a new Saudi AI initiative (“Saudi needs you more than [sic] the US!”), and his wife and infant son flew to Saudi Arabia this month on business-class tickets bought by a Saudi military official, prosecutors allege."
+    },
+    {
+      "n": 3,
+      "headline": "Kenyan preacher Paul Mackenzie and 29 others are found guilty of murdering 190 children and one adult in the Shakahola starvation cult",
+      "cat": "World / Africa",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/kenya-starvation-cult-leader-paul-mackenzie-guilty/",
+      "image_local": "images/story-1199.jpg",
+      "image_remote": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/19/83f97352-fafc-4969-930e-a4fb49bc9f77/thumbnail/1200x630g2/401bfd99e5522714f73e0d12819a89ff/gettyimages-2300418982.jpg",
+      "id": "960e417aab7d99a7cc40901463ac7f33797f4792",
+      "summary": "A court in Mombasa, Kenya, on Monday found self-proclaimed preacher Paul Mackenzie and his associates guilty of murdering 191 people, all but one of them children, in the starvation cult that became known as the Shakahola Forest Massacre, CBS News reports. “I am satisfied that the prosecution has proved the case against all the 29 accused persons for the murder of 190 children and one adult,” the judge said. Mackenzie is accused of urging his followers to starve themselves to death in order to “meet Jesus”; hundreds of bodies have been found since 2023 at the cult’s base inland from the beach resort of Malindi, and the total has since passed 400. He pleaded not guilty to the murder counts in 2024 and also denies manslaughter and terrorism charges in separate cases. Kenya’s chief prosecutor, Renson Ingonga, called the verdict “momentous.” Relatives of victims travelled from rural coastal communities for the ruling, including Francis Wanje, 62, who lost eight family members, among them his daughter and two grandchildren."
+    },
+    {
+      "n": 4,
+      "headline": "Apple sets a second October event, “Pro and tell,” for Oct. 28 in Los Angeles, where the first touchscreen OLED MacBook Pro is expected",
+      "cat": "Apple / Mac",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/10/19/apple-announces-special-event-for-october-28/",
+      "image_local": "images/story-1200.jpg",
+      "image_remote": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/pro-and-tell.jpg?quality=82&strip=all&resize=1200,628",
+      "id": "d54f704de445f993cc9faec0ec791e1490f204e6",
+      "summary": "Apple on Monday announced another product event for next Wednesday, Oct. 28, at 10 a.m. Pacific in Los Angeles, under the tagline “Pro and tell,” 9to5Mac reports. It is the company’s second event this month, after the Oct. 13 “Welcome home” launch in New York that introduced the HomeView smart display, the HomePod mini 2 and a new Apple TV 4K. Marketing chief Greg Joswiak posted the invite artwork, a glowing outlined Apple logo, on social media. According to Bloomberg’s Mark Gurman, the headliner is expected to be Apple’s first MacBook Pro with a touchscreen and an OLED display, and AppleInsider says the name all but confirms MacBook Pro changes. It adds that an OLED iPad mini, likely with an A20 chip, is also expected, and that a planned Nov. 6 store refresh hints at when new products could go on sale."
+    },
+    {
+      "n": 5,
+      "headline": "Eagles quarterback Jalen Hurts is expected to miss the rest of the season after a blood clot from his leg traveled to his lungs",
+      "cat": "NFL",
+      "source": "PBS NewsHour (AP)",
+      "url": "https://www.pbs.org/newshour/nation/ap-source-eagles-qb-jalen-hurts-expected-to-miss-rest-of-season-after-blood-clots-found-in-lungs-and-leg",
+      "image_local": "images/story-1201.jpg",
+      "image_remote": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/AP26284594629980-1024x683.jpg",
+      "id": "0e0b5b208fa4f6a19c4ec46737aacaddb24120a2",
+      "summary": "Philadelphia Eagles quarterback Jalen Hurts is expected to miss the rest of the season because of blood clots in his lungs, a person familiar with the situation told the Associated Press on Monday. The team and Hurts’ agent said he has deep vein thrombosis and bilateral pulmonary emboli, meaning a clot traveled from his legs to his lungs; he is on blood thinners and can’t do any football activities until he’s off them, though he is “clinically stable and has no significant functional limitations.” The Eagles say Hurts took a cleat to the calf on Oct. 4 against the Rams, told the medical staff after practice on Oct. 8, and was first diagnosed by specialists in London with a superficial vein clot before the Jacksonville game. He went on injured reserve Saturday and missed Sunday’s 25-14 loss to Carolina, in which backup quarterback McKee threw for 215 yards; the 2-4 Eagles have now lost four straight for the first time since 2020. Hurts, the Super Bowl 59 MVP, had eight touchdown passes, three interceptions and 933 yards this season."
+    },
+    {
+      "n": 6,
+      "headline": "A Washington state prosecutor drops a murder hold on a Prosser man after concluding he likely fired in self-defense at his half-brother",
+      "cat": "Crime / self-defense",
+      "source": "Daily Caller",
+      "url": "https://dailycaller.com/2026/10/19/blue-state-prosecutor-admits-man-arrested-for-murder-actually-acted-in-self-defense/",
+      "image_local": "",
+      "image_remote": "",
+      "id": "f842338e1a4dcb8862b67f98d8b7b40a08acbec3",
+      "summary": "The Benton County, Washington, prosecutor’s office says a Prosser man jailed after a fatal Oct. 12 confrontation with his half-brother likely acted in self-defense and will not be held any longer, the Daily Caller reports, citing Yakima-area station NBCRightNow. Jose Cruz Escobar first told deputies that his half-brother, Alejandro Salazar, had been hit in a drive-by shooting, a story the sheriff’s investigation later disproved, and he was booked on a felony investigation hold. Investigators then found that Salazar threw a rock that damaged the optical sight on Escobar’s gun, and that during a confrontation outside, Escobar fired several warning shots into the ground before firing the shot that killed Salazar. “Following additional investigation and meetings between the investigators and assigned prosecutors, the Benton County Prosecutor’s Office has determined that there is insufficient evidence to continue to detain Jose Cruz Escobar,” the office said in a Facebook post, adding that the evidence indicates he “likely acted in self-defense.”"
+    },
+    {
+      "n": 7,
+      "headline": "Richard Riehle, who played “people skills” product manager Tom Smykowski in Office Space, has died at 78",
+      "cat": "Movies / obituary",
+      "source": "Consequence",
+      "url": "https://consequence.net/2026/10/richard-riehle-office-spaces-tom-smykowski-dead-at-78/",
+      "image_local": "images/story-1202.jpg",
+      "image_remote": "https://consequence.net/wp-content/uploads/2026/10/Richard-Riehle-in-Office-Space.jpeg",
+      "id": "7f699f74c1743c3e04d86cdb4e948d6b1c794f30",
+      "summary": "Character actor Richard Riehle, best known as Tom Smykowski in Mike Judge’s 1999 workplace comedy Office Space, has died at 78, Consequence reports. According to TMZ, he died Oct. 15 of natural causes. In Office Space, Riehle played the Initech product manager whose job is deemed redundant despite his insistence that he has “people skills.” Over a long career his film credits also included The Fugitive, Jury Duty, The Man from Earth and Deuce Bigalow: Male Gigolo, and on television he turned up in Buffy the Vampire Slayer, The West Wing, Grounded for Life, The Legend of Korra and Barry."
+    },
+    {
+      "n": 8,
+      "headline": "Peter Jackson buys a rare, nearly complete moa egg at a Colorado auction and sends it home to New Zealand",
+      "cat": "Science / history",
+      "source": "Gizmodo",
+      "url": "https://gizmodo.com/peter-jackson-just-got-an-ultra-rare-extinct-moa-egg-back-to-new-zealand-2000827741",
+      "image_local": "images/story-1203.jpg",
+      "image_remote": "https://gizmodo.com/app/uploads/2026/10/colossal-peter-jackson-moa-egg-1200x675.jpg",
+      "id": "7cb9ffc334dc8b145178dd2215df1049363ae959",
+      "summary": "Lord of the Rings director Peter Jackson, working with de-extinction startup Colossal Biosciences, has acquired an extremely rare, nearly complete egg of the extinct moa, New Zealand’s giant flightless bird, after it surfaced at a public auction in Colorado in June, Gizmodo reports. Only about three dozen moa eggs have ever been found; as many as 2.5 million of the birds once roamed the country before Polynesian settlers arrived around 1300 CE. The 8.75-inch-tall egg, partly reassembled with many fragments still to reattach, was presented Monday to Ngāi Tahu leader and historian Te Maire Tau at an avian palaeontology conference in Christchurch and will be entrusted to the Ngāi Tahu people. “After expert restoration, it will very likely become only the ninth known nearly intact moa egg — probably one of the five best-preserved examples,” Jackson said, adding that the partnership would also “advance research into the Moa.”"
+    },
+    {
+      "n": 9,
       "headline": "Obama says the Trump administration is “selectively targeting” Ilhan Omar, and conservatives fire back with the IRS Tea Party scandal and Crossfire Hurricane",
       "cat": "Politics / media",
       "source": "Fox News",
@@ -13,7 +101,7 @@
       "summary": "Former President Barack Obama posted a long defense of Rep. Ilhan Omar on Sunday as she faces two federal investigations, one into her immigration history and one into her finances, following a raid on her home. “It is a basic principle of American democracy that the government can’t selectively target individuals simply because of their political beliefs or what they say,” Obama wrote. “But that’s exactly what the Trump Administration is doing to Congresswoman Ilhan Omar of Minnesota.” He called the situation “appalling” and said “the full weight of the federal government is being brought down on a law-abiding elected official because she has dared to criticize the president.” The post drew more than 5 million views and an immediate backlash from conservatives, Fox News Digital reports, many of whom pointed to the IRS targeting of Tea Party groups under his administration and the Crossfire Hurricane investigation of Donald Trump’s 2016 campaign. “This petty tyrant lecturing us about ‘American democracy’ is like being lectured by a screaming five-year-old about self-control,” former FBI Deputy Director Dan Bongino wrote on X."
     },
     {
-      "n": 2,
+      "n": 10,
       "headline": "The Supreme Court turns away 9/11 mastermind Khalid Sheikh Mohammed’s bid to revive the plea deal that would have spared him the death penalty",
       "cat": "Courts / terrorism",
       "source": "CBS News",
@@ -24,7 +112,7 @@
       "summary": "The Supreme Court on Monday rejected a bid by accused Sept. 11 mastermind Khalid Sheikh Mohammed and two alleged accomplices, Mustafa al Hawsawi and Walid bin ’Atash, to revive plea agreements they reached with military prosecutors in 2024. In an unsigned order, the justices left in place a D.C. Circuit ruling that then-Defense Secretary Lloyd Austin “indisputably” had the authority to withdraw the deals, under which the three would have pleaded guilty and served life sentences instead of facing the death penalty. Justice Brett Kavanaugh did not take part. The men were captured in 2003, held at secret CIA prisons where they were subjected to “enhanced interrogation techniques,” moved to Guantanamo Bay in 2006 and formally charged in 2008. Their military commission case has been stuck for years in fights over whether evidence from those interrogations can be used. A military judge ruled in 2024 that Austin’s move was unlawful, and a military appeals court agreed, before the D.C. Circuit sided with the government. In August, the judge overseeing the case set a trial date of June 2028, contingent on the parties meeting their deadlines."
     },
     {
-      "n": 3,
+      "n": 11,
       "headline": "Christiane Amanpour will leave CNN next June after 43 years, weeks after Paramount Skydance took over the network’s parent company",
       "cat": "Media",
       "source": "NBC News",
@@ -35,7 +123,7 @@
       "summary": "Christiane Amanpour, CNN’s chief international anchor and one of the network’s best-known faces for more than four decades, plans to leave the company next June, CNN chief executive Mark Thompson told staff in a letter obtained by NBC News. Amanpour, 68, will cut her CNN International show back to once a week early in 2027; the program will end in May, and she will leave at the end of June. “I’m very sorry to see her go, but l’ve come to accept that this is the right time for her, both personally and professionally,” Thompson wrote. Amanpour covered the fall of the Berlin Wall, the Bosnian and Gulf wars, Iraq and Afghanistan, the Arab Spring, Ukraine and Gaza, and interviewed leaders from Bill Clinton and Tony Blair to Moammar Gadhafi and Iran’s Mahmoud Ahmadinejad. In a statement she said her teams “battled to seek the facts, the evidence and the humanity, so that CNN could always broadcast the truth about the world and to the world, without fear nor favor.” Her exit comes just weeks after David Ellison’s Paramount Skydance formally took over Warner Bros. Discovery, CNN’s parent; Thompson stays on and now reports to Skydance co-CEOs Ellison and Ynon Kreiz."
     },
     {
-      "n": 4,
+      "n": 12,
       "headline": "Next door to Trumbull, Stratford drops a proposed ban on guns on all town property after gun owners pack the council meeting",
       "cat": "Connecticut / Second Amendment",
       "source": "CT Mirror",
@@ -46,7 +134,7 @@
       "summary": "Stratford’s Town Council will not try to bring back a proposed ordinance that would have banned guns on all town-owned property, council chair Anthony Afriye said, after the council unanimously rejected it at its Oct. 13 meeting amid fierce pushback from gun-rights advocates, CT Mirror reports. Mayor David Chess said in a Facebook video Monday that the measure seemed like a logical extension of the town’s existing bans at police stations and schools, and that “the whole idea again is to protect our community, there is no other motive here.” Opponents called it government overreach that would punish law-abiding gun owners, even though it exempted people holding a valid concealed carry permit. “We should be able to protect ourselves in Stratford, not you guys trying to take our rights away from us,” said Lorenzo Whilby, owner of Stratford Guns and Ammo. Connecticut lets towns pass firearm ordinances that don’t conflict with state law; Woodbridge, Mansfield, Stamford and Bloomfield have adopted versions, while similar efforts failed in other towns, including Newtown."
     },
     {
-      "n": 5,
+      "n": 13,
       "headline": "Trumbull’s free Kids Pumpkin Fest is Sunday, Oct. 25 on the Town Hall Green, with touch-a-truck from Long Hill Fire and the Trumbull Police motorcycles",
       "cat": "Local / Trumbull CT",
       "source": "Town of Trumbull",
@@ -57,7 +145,7 @@
       "summary": "Trumbull Parks & Recreation’s annual Kids Pumpkin Fest returns Sunday, Oct. 25, from 10 a.m. to 1 p.m. on the Town Hall Green and gazebo at 5866 Main Street, the town announced Monday. Entry is free and the event runs rain or shine. Planned activities include pumpkin decorating, lawn games, face painting, crafts with the Trumbull Nature & Arts Center, a Long Hill Fire Department touch-a-truck, a Trumbull Police motorcycle encounter, a photo booth by Kait Snook Art & Design, a live DJ, and pastries and coffee from the Brewberry Café truck. Pumpkins and craft supplies are available while they last. Details are on the town’s Kids Pumpkin Fest page."
     },
     {
-      "n": 6,
+      "n": 14,
       "headline": "One hacker used an army of mostly autonomous AI agents to break into more than 100 websites, including sites tied to John Deere, SharkNinja and Cummins",
       "cat": "AI / cybersecurity",
       "source": "The Verge",
@@ -68,7 +156,7 @@
       "summary": "A single hacker broke into more than 100 websites using AI agents that largely ran on their own, according to findings from AI security firm Norforge, The Verge reports. Reuters reported that the victims included John Deere, SharkNinja and Cummins, at companies in the US, Canada, Australia and Japan. Norforge found the attacks through exposed instances of Cairn, an open-source platform that bills itself as a “general-purpose problem-solving engine,” where users set a start and end point and the agents log their progress. The most active attacker laid out “preferred intrusion tactics” in fewer than 100 Chinese characters, and successful breaches took about 23 hours. Norforge identified more than 20 exposed Cairn instances it considers likely malicious and is working to get them taken down. John Deere told Reuters there was “no indication that sensitive information was accessed,” SharkNinja said a standalone product-support site was hit and the threat contained, and Cummins said it is investigating a possible attack on a site run by a third-party vendor. Cairn’s creator said the platform “was never a ‘hacking tool’” and that “misuse is a human decision, not a feature of the engine.”"
     },
     {
-      "n": 7,
+      "n": 15,
       "headline": "Mötley Crüe books a fourth Las Vegas residency, eight “Carnival of Sins” shows at Caesars Palace next spring with a fan-voted setlist",
       "cat": "Music / rock",
       "source": "Blabbermouth",
@@ -79,7 +167,7 @@
       "summary": "Mötley Crüe will return to Las Vegas for “Carnival Of Sins In Sin City,” an eight-show run at The Colosseum at Caesars Palace from March 19 through April 3, 2027, Blabbermouth reports. It is the band’s fourth Vegas residency, after “Mötley Crüe Takes On Sin City” in 2012, “Evening In Hell” in 2013 and “The Las Vegas Residency” in 2025. The shows bring the “Carnival Of Sins” tour indoors with big production and a fan-voted setlist that includes songs returning to the stage for the first time in decades. The band’s S.I.N. Club presale opens Tuesday, Oct. 20 at 10 a.m. PT, followed by Citi, Caesars Rewards and Live Nation presales; public tickets go on sale Friday, Oct. 23 at 10 a.m. PT, and all shows start at 8 p.m. Part of the proceeds will go to Nevada Partnership for Homeless Youth. Separately, on Oct. 30 the band releases a 45th-anniversary box set of its 1981 debut “Too Fast For Love,” with the original Leathür Records version, the 1982 Elektra version, 1982 Perkins Palace live recordings and never-released demos from its first studio sessions."
     },
     {
-      "n": 8,
+      "n": 16,
       "headline": "Lonnie Mack’s 1958 Flying V and Magnatone amp sell for $550,000, and a pristine 1959 Les Paul ’Burst sets a $781,250 record",
       "cat": "Guitar",
       "source": "Guitar World",
@@ -90,7 +178,7 @@
       "summary": "Bluesman Lonnie Mack’s workhorse 1958 korina Gibson Flying V, just the seventh guitar off that production line, sold with his 1962 Magnatone Custom 440 combo amp for $550,000 at Heritage Auctions’ vintage guitar sale over the weekend, Guitar World reports. Mack, whose blend of blues, rock and country made him a key influence on Stevie Ray Vaughan, rarely put the V down; SRV later helped revive his career and produced his 1985 comeback album “Strike Like Lightning,” cut with that guitar. The same auction set a record for the most expensive 1959 Gibson Les Paul Standard without celebrity provenance: serial No. 9 0640, with its original humbuckers and untouched solder joints, went for $781,250, topping the previous non-celebrity record of $611,000 for a 1958/63 Explorer. The two guitars brought in a combined $1.3 million of the sale’s $2.16 million across 188 lots. Heritage’s Aaron Piscopo said Mack’s V “helped shape the sound of modern electric guitar.”"
     },
     {
-      "n": 9,
+      "n": 17,
       "headline": "A National Guard member is shot in the leg on Capitol Hill after Guard troops jump out of their van to break up a fight, and three of them return fire",
       "cat": "Crime / D.C.",
       "source": "WJLA 7News",
@@ -101,7 +189,7 @@
       "summary": "A National Guard member and a gunman were both wounded late Sunday in Washington’s Eastern Market neighborhood after Guard members tried to break up a fight, interim Metropolitan Police Chief Jeffery Carroll said early Monday. Around 11:10 p.m., seven or eight Guard members sitting in a van on the 400 block of 8th Street SE saw a fight on the sidewalk and got out to intervene. One person in the fight pulled a gun and started shooting. “The National Guard members told the individual to drop the firearm. He discharged a round at the National Guard members who returned fire at that suspect,” Carroll said. The confrontation moved into an alley, where the suspect fired again, and three Guard members fired their weapons. The Guard member was hit in the leg and the suspect in the abdomen; both are expected to survive, and the suspect is hospitalized in custody. Police say the fight involved people who had been at a nearby establishment. No charges have been announced, and MPD’s Internal Affairs and Criminal Investigations divisions are investigating."
     },
     {
-      "n": 10,
+      "n": 18,
       "headline": "Florida gets a no-bond state arrest warrant for Raúl Castro, charging him with conspiracy to murder in the 1996 Brothers to the Rescue shootdown",
       "cat": "Courts / Cuba",
       "source": "Fox News",
@@ -112,7 +200,7 @@
       "summary": "Florida has obtained a state arrest warrant for former Cuban leader Raúl Castro, 95, on a no-bond charge of conspiracy to commit first-degree murder over the Feb. 24, 1996, shootdown of two unarmed Brothers to the Rescue planes, Fox News Digital reports. Attorney General James Uthmeier, whose office reopened the state investigation, was expected to announce it with Gov. Ron DeSantis on Monday morning. The Miami-Dade warrant says a judge found probable cause that Castro conspired to kill Carlos Costa, Pablo Morales, Mario de la Peña and Armando Alejandre Jr., and that the plan went up the chain of command with Raúl and Fidel Castro as the final decision-makers. It quotes a recorded statement in which Raúl Castro recalled telling generals, “Fine, shoot them down at sea when they show up, and those who have the authority are not to consult anyone.” The Miami group flew unarmed planes searching for Cuban rafters lost at sea. Castro already faces a separate federal prosecution over the shootdown, and the state’s Office of Statewide Prosecution will handle the Florida case."
     },
     {
-      "n": 11,
+      "n": 19,
       "headline": "Musk says he’ll give one of his SpaceX shares to every kid in America next year — about $10.5 billion at Friday’s price — and calls it “the first of many”",
       "cat": "Elon Musk / SpaceX",
       "source": "Business Insider (via AOL)",
@@ -121,94 +209,6 @@
       "image_remote": "https://hermes.media.static.aol.com/media/2026/10/19/5d3c63de-7d54-3014-959b-2ee947c9b410/c933e36f-3d31-47c6-b49d-c0549ec26611.jpg",
       "id": "507f2b5f3b99558914ed2d6480aec76723996830",
       "summary": "“Next year, I will give one of my SpaceX shares to every kid in America. This will be the first of many,” Elon Musk posted on X early Monday. With about 72 million U.S. children and SpaceX stock closing at $146 on Friday, the gift would be worth roughly $10.5 billion, Business Insider calculates, and would cut his 4.77 billion-share stake by about 1.5%. Musk gave no details on eligibility, timing, or whether the shares would go into the Trump Accounts the administration launched this summer, which give children born between 2025 and 2028 a $1,000 federal seed deposit. Michael and Susan Dell recently put $250 into 25 million children’s Trump Accounts, and SpaceX President Gwynne Shotwell pledged SpaceX shares to more than 2 million kids in July. Musk floated the idea in reply to Anthropic’s pledge of 5% of its shares to a public-benefit fund (“I recommend giving shares directly to the public”), and when one user called it the start of universal basic income, he corrected it to “universal high income.”"
-    },
-    {
-      "n": 12,
-      "headline": "Garrett Wilson saw the ball just twice before the fourth quarter in the Jets’ 26-19 loss in Foxborough, and says he’s “waiting for that moment”",
-      "cat": "Jets",
-      "source": "ClutchPoints (via Yahoo Sports)",
-      "url": "https://sports.yahoo.com/articles/jets-garrett-wilson-reasons-stunningly-054950959.html",
-      "image_local": "images/story-1187.jpg",
-      "image_remote": "https://s.yimg.com/lo/mysterio/api/6bb1df7abccf1e1003b532ce8648813fd4ece277c5389cca469aecb48092a59f/lightyear_networkapi/resizefill_w1200_h672%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fclutchpoints_articles_939%2F27456df4e9a4d9daf9cbbc342d9edb62.jpg",
-      "id": "612f2cdfe05e5d7a569a66a75c994fa730258915",
-      "summary": "One big reason the Jets couldn’t climb out of a 17-3 halftime hole in New England was how little the offense went to Garrett Wilson. The Pro Bowl receiver was targeted just twice before the fourth quarter and finished with four catches for 44 yards on six targets as the Jets fell 26-19 and dropped to 2-4. “I try and reason it in my head because we’ve got a whole nother fourth quarter and I know that the game can change at any moment. Just try and keep playing my role, waiting for that moment that they want to call on me,” Wilson said after the game, via SNY. An Omar Cooper Jr. touchdown and a field goal cut the lead to four entering the fourth, but New England pushed it back to 10 and the Jets managed only field goals the rest of the way. Next up is the winless Miami Dolphins on Oct. 25."
-    },
-    {
-      "n": 13,
-      "headline": "Four Google Gemini 4 agents beat Minecraft’s Ender Dragon on their own in 27 hours, dying 605 times and writing 2,783 programs along the way",
-      "cat": "AI / tech",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2289944/google-gemini-4-agents-just-beat-minecraft-with-no-human-intervention/",
-      "image_local": "images/story-1188.jpg",
-      "image_remote": "https://www.engadget.com/img/gallery/google-gemini-4-agents-just-beat-minecraft-with-no-human-intervention/l-intro-1792401444.jpg",
-      "id": "2a0781626edd31878c2443cddf9cb43860153367",
-      "summary": "Google researchers say four Gemini 4 Argon agents beat Minecraft, defeating the Ender Dragon in a randomized survival world with no human help and no assigned roles, strategies or game-specific tools. Each agent ran a player through the open-source Mineflayer library and coordinated with the others through in-game chat and shared memory. They quickly split up the work: one made tools, one gathered food and supplies, one lit a key portal, and one built Enderman shelters and landed the final blow. They also warned each other about threats, shared coordinates and recovered items from dead teammates. The run took 27.23 hours, most of it spent on the dragon fight, and the agents “wrote and ran 2,783 programs, exchanged 229 messages and died 605 times along the way.” A fifth “Observer” agent watched for cheating. The agents used 1.35 billion input tokens, costing $810 at Gemini’s list price. The team calls it the first end-to-end autonomous completion of Minecraft by AI agents, a feat that used to require custom game-playing AI."
-    },
-    {
-      "n": 14,
-      "headline": "FDNY keeps a four-alarm Staten Island warehouse fire from reaching the church seen in The Godfather’s baptism scene",
-      "cat": "NYC / history",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/us/firefighters-save-historic-godfather-church-raging-nyc-warehouse-blaze",
-      "image_local": "images/story-1189.jpg",
-      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/fdny-crew-fire-historic-building-saved-hose.png",
-      "id": "68769ee924b1c6b5b4be402c5170fedfd28d7290",
-      "summary": "More than 200 firefighters and EMS personnel rushed to Mount Loretto on Staten Island on Saturday evening when a four-alarm fire broke out around 5:45 p.m. in a warehouse at 6581 Hylan Boulevard that had been vacant for five years. One firefighter was hurt. “There is heavy, heavy damage to this structure, the roof did collapse,” FDNY Chief of Operations Kevin Woods said. Crews fought it defensively with tower ladders and hose lines and stopped it from spreading to nearby buildings on the grounds, including two schools and the Old Church of St. Joachim and St. Anne, whose exterior appears in the baptism scene of the 1972 film The Godfather. “It’s very windy out here tonight. Our units did a great job with many of the flying embers,” Woods said. The fire was under control by about 8:30 p.m. The church was largely destroyed by fire in 1973, a year after the film came out; its façade survived and it was rebuilt three years later. The cause is under investigation by the fire marshal."
-    },
-    {
-      "n": 15,
-      "headline": "Canada’s military names the four soldiers killed in the CFB Wainwright fire, which began as a grass fire during live-fire combat training",
-      "cat": "World / Canada",
-      "source": "Global News",
-      "url": "https://globalnews.ca/news/12107164/cfb-wainwright-fire-victims/",
-      "image_local": "images/story-1179.jpg",
-      "image_remote": "https://globalnews.ca/wp-content/uploads/2026/10/wainwright-sign.jpg?quality=65&strip=all&w=1200",
-      "id": "f06aea8ab5790838238eae65ae9dc6976e080277",
-      "summary": "The Canadian Armed Forces on Sunday identified the four service members killed in Saturday’s fire at CFB Wainwright in Alberta: Sgt. Morgan Wong of Edmonton, Pte. Shaun Farrell of Prince Albert, Sask., Pte. Aidan Goulding of North Vancouver, B.C., and Pte. Hayden Lykkemark of Langley, B.C. All four served with the 3rd Battalion, Princess Patricia’s Canadian Light Infantry out of CFB Edmonton. Maj.-Gen. Wade Rutland said the unit was doing “high intensity combat training with live munitions” to prepare as a global response task force and for a deployment to Latvia next spring when a grass fire ignited in the training area. Uncommonly strong winds, with gusts up to 100 km/h across the province, drove it rapidly toward the range’s administrative area; the cause is under investigation. Alberta Premier Danielle Smith said 39 people remain in hospital, at least 19 in critical condition. “It is with heavy hearts that we share the news that our son, Shaun Farrell, has passed away,” his mother wrote on Facebook."
-    },
-    {
-      "n": 16,
-      "headline": "Mexico charges Chihuahua’s former attorney general with treason for working with U.S. agencies, including the CIA, against the cartels",
-      "cat": "World / Mexico",
-      "source": "Breitbart",
-      "url": "https://www.breitbart.com/border/2026/10/18/mexicos-government-prosecutes-border-state-ag-for-working-with-u-s-to-fight-cartels/",
-      "image_local": "",
-      "image_remote": "",
-      "id": "f219e9ed68c3162887b5db79b97f94170edc1da3",
-      "summary": "Mexico’s federal Attorney General’s Office has arrested Cesar Jauregui, the former attorney general of the border state of Chihuahua, and Attorney General Ernestina Godoy says he is charged with treason in matters of national security. The case isn’t about corruption or cartel ties. It centers on Chihuahua working directly with U.S. agencies, chiefly the CIA, without federal approval, an effort that led to the discovery in April of one of the largest clandestine drug labs in Mexico’s history. Two U.S. agents and top Chihuahua law enforcement officials later died in a crash while returning from the lab site, which prompted President Claudia Sheinbaum to insist only the federal government may coordinate with foreign officials and to call for an investigation. Jauregui resigned in April and took the blame, partly shielding the state’s National Action Party governor. Breitbart Texas notes the contrast with Sheinbaum’s defense of Morena politicians the U.S. has accused of cartel ties."
-    },
-    {
-      "n": 17,
-      "headline": "An Irvine real estate agent is indicted as an unregistered Chinese agent, accused of surveilling the Taiwanese president’s son outside his Seattle-area home",
-      "cat": "Crime / national security",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/news/us-news/california-woman-indicted-charges-spying-china-rcna604242",
-      "image_local": "images/story-1180.jpg",
-      "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261007-China-Spying-Arrest-vsb-2047-c87f3c.jpg",
-      "id": "2cb59c312ac4575037c7cc2febd6ed4931addc1b",
-      "summary": "Wanying “Heather” Zhang, 34, of Irvine, California, has been indicted in federal court in Los Angeles on charges of conspiracy and acting as an unregistered agent of China. Prosecutors say that between roughly June and September 2025, at the direction of a Chinese government official who was her former classmate at the University of International Relations, a school an FBI investigator called “closely affiliated with China’s intelligence apparatus,” she flew to the Seattle area to watch a son of Taiwan’s president outside his home, sending photos, video and license plate details back to her handler. She also allegedly traveled to China in August 2025 to meet an official. Her lawyer has called the government’s sleeper-agent theory unsupported, describing her as a real estate agent raising two young daughters. A judge ordered her held as a flight risk; she is due for arraignment Friday and faces up to 15 years in prison."
-    },
-    {
-      "n": 18,
-      "headline": "The Amelia Earhart expedition to Nikumaroro comes up empty: the “Taraia Object” in the lagoon was most likely a pile of washed-up trees",
-      "cat": "History / mysteries",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/amelia-earhart-missing-plane-not-found-nikumaroro-expedition/",
-      "image_local": "images/story-1181.jpg",
-      "image_remote": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/16/ff42b3e3-a495-4b1b-baa2-5da717909439/thumbnail/1200x630/bc08ab3932d6e3847c6916b0f63566b5/cbsn-fusion-expedition-to-locate-amelia-earharts-plane-facing-severe-weather-challenges-thumbnail.jpg",
-      "id": "a2dd36a0b220ddbe22141ce356bec0bb15b63507",
-      "summary": "A Purdue-backed expedition that sailed five days to the remote Pacific island of Nikumaroro to examine a satellite anomaly that some hoped was Amelia Earhart’s Lockheed Electra announced Sunday that it was not the plane. “Evidence gathered at the Taraia Peninsula on Nikumaroro confirmed that the visual anomaly first seen in satellite imagery in 2020 was likely a collection of large trees deposited along the peninsula’s sandspit,” the researchers said; by the time they arrived, most of the debris had broken up and washed away, leaving a single Y-shaped segment. The 17-member team, led by Purdue’s Steve Schultz and the Archaeological Legacy Institute’s Richard Pettigrew, launched Oct. 14, but severe weather kept them aboard ship for three of their five days and limited fuel kept them from staying longer. The team had earlier called the evidence “very strong.” Earhart and navigator Fred Noonan vanished on July 2, 1937, and the latest letdown follows a 2024 sonar “plane” that turned out to be a rock formation."
-    },
-    {
-      "n": 19,
-      "headline": "An EU filing reveals the iPhone Duo’s battery: 4,883mAh across two cells, right between the iPhone 18 Pro and Pro Max",
-      "cat": "Apple / iPhone",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/10/18/iphone-duo-battery-capacity-comparison/",
-      "image_local": "images/story-1182.jpg",
-      "image_remote": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-7.jpeg?quality=82&strip=all&resize=1200,628",
-      "id": "4a00b8de1165c1a3331fc8533efb21d61bbc5670",
-      "summary": "With iPhone Duo pre-orders open, Apple has posted an EU regulatory document that finally reveals the foldable’s true battery capacity: 4,883mAh, split between a 2,962mAh cell and a 1,921mAh cell. That lands almost exactly between the iPhone 18 Pro (4,288mAh) and the iPhone 18 Pro Max (5,567mAh), 9to5Mac reports, making it one of the largest batteries Apple has ever put in an iPhone; only the two most recent Pro Max models beat it. The site cautions that capacity is not the same as battery life, since heavy use of the Duo’s larger inner display will drain it faster than a conventional slab phone."
     },
     {
       "n": 20,

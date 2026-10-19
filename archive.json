@@ -1325,7 +1325,15 @@
     "4501f6dcc8449c9ea0422227350f6eba41dde95f",
     "72f398965877575c14d77657785b29aee713c513",
     "0f173ee171375a2d04944e8848dd25ff7e5be549",
-    "5746c2a5af950b0521d6c47272c08e8a44297239"
+    "5746c2a5af950b0521d6c47272c08e8a44297239",
+    "e065ad76b6eb4a8d238c27c23cdd9e26554375ce",
+    "5f965c5862cf25993ede13cedfb077c9027022a4",
+    "960e417aab7d99a7cc40901463ac7f33797f4792",
+    "d54f704de445f993cc9faec0ec791e1490f204e6",
+    "0e0b5b208fa4f6a19c4ec46737aacaddb24120a2",
+    "f842338e1a4dcb8862b67f98d8b7b40a08acbec3",
+    "7f699f74c1743c3e04d86cdb4e948d6b1c794f30",
+    "7cb9ffc334dc8b145178dd2215df1049363ae959"
   ],
   "stories": {
     "0c2ac7a5e342411678296315c4c59043b1f067cc": {
@@ -15943,7 +15951,87 @@
       "image_remote": "https://cdn.mos.cms.futurecdn.net/57wF5PQH9AnArAqEMZKnhd-2000-80.jpg",
       "image_local": "images/story-1196.jpg",
       "id": "5746c2a5af950b0521d6c47272c08e8a44297239"
+    },
+    "e065ad76b6eb4a8d238c27c23cdd9e26554375ce": {
+      "headline": "Federal agents arrest more than two dozen green-card holders across California in “Operation Protect the Vote,” charging them with illegally registering and voting",
+      "cat": "Elections / immigration",
+      "source": "PBS NewsHour (AP)",
+      "url": "https://www.pbs.org/newshour/politics/justice-department-charges-more-than-2-dozen-foreign-nationals-in-california-sweep-targeting-noncitizen-voters",
+      "summary": "Federal authorities arrested more than two dozen foreign nationals in California on Monday who they say illegally registered and voted in U.S. elections, the Associated Press reports. The Justice Department said everyone swept up in the statewide operation, dubbed Operation Protect the Vote, is a lawful permanent resident but not a citizen, and the charges include making false statements on naturalization applications and submitting fraudulent voter registrations. The arrests escalate a fight between the administration and California ahead of the Nov. 3 midterms: last week the department sued to stop the state from counting mail ballots from 20,000 people it identified as likely noncitizens until their status can be confirmed, after state officials missed a 48-hour deadline to review the list, and on Friday it warned local election workers that knowingly processing such ballots could bring investigation and prosecution. “Noncitizen voting in a federal election is a federal crime — and knowingly facilitating such conduct is equally unlawful,” acting Deputy Attorney General Trent McCotter wrote. Before Monday, the department had charged about 90 people with election misconduct this year, including 50 accused of voting as noncitizens; California’s secretary of state says the administration has offered no evidence for its 20,000-name list.",
+      "image_remote": "https://d3i6fh83elv35t.cloudfront.net/static/2026/08/2026-06-02T163412Z_528496057_RC2RLLANXMDE_RTRMADP_3_USA-ELECTION-CALIFORNIA-1024x683.jpg",
+      "image_local": "images/story-1197.jpg",
+      "id": "e065ad76b6eb4a8d238c27c23cdd9e26554375ce"
+    },
+    "5f965c5862cf25993ede13cedfb077c9027022a4": {
+      "headline": "Prosecutors say the ex-OpenAI engineer accused of bugging an executive conference room was in close contact with a Saudi royal and preparing to leave for Riyadh",
+      "cat": "National security / AI",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/ex-openai-engineer-recording-device-saudi-royal-family/",
+      "summary": "A former OpenAI engineer accused of hiding a listening device in an executive conference room was in frequent WhatsApp contact with a member of the Saudi royal family and was planning to leave the U.S. for Riyadh when he was arrested, federal prosecutors said in a court filing Sunday, CBS News reports. Prosecutors allege that Saudi national Abdulrahman Alfozan, who earned $385,000 a year at OpenAI and got a $2.2 million equity grant when he joined in July 2025, used AI tools to help build encrypted recording devices and to identify rooms where executives met with government officials and business partners. On Sept. 28, they say, he plugged a modified recorder into a USB port on the back of a TV in an executive conference room, where it stayed for days, and OpenAI executives met with government officials in that room around that time. His phone held photos of at least one other hidden recorder and of equipment in other meeting rooms. The Saudi royal repeatedly urged him to come home and join a new Saudi AI initiative (“Saudi needs you more than [sic] the US!”), and his wife and infant son flew to Saudi Arabia this month on business-class tickets bought by a Saudi military official, prosecutors allege.",
+      "image_remote": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/19/2bc483f3-4e81-48d0-9d84-1817175a377e/thumbnail/1200x630g6/5f41b8455fa82f1202f3c83ffdf8876a/image003-8.png",
+      "image_local": "images/story-1198.jpg",
+      "id": "5f965c5862cf25993ede13cedfb077c9027022a4"
+    },
+    "960e417aab7d99a7cc40901463ac7f33797f4792": {
+      "headline": "Kenyan preacher Paul Mackenzie and 29 others are found guilty of murdering 190 children and one adult in the Shakahola starvation cult",
+      "cat": "World / Africa",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/kenya-starvation-cult-leader-paul-mackenzie-guilty/",
+      "summary": "A court in Mombasa, Kenya, on Monday found self-proclaimed preacher Paul Mackenzie and his associates guilty of murdering 191 people, all but one of them children, in the starvation cult that became known as the Shakahola Forest Massacre, CBS News reports. “I am satisfied that the prosecution has proved the case against all the 29 accused persons for the murder of 190 children and one adult,” the judge said. Mackenzie is accused of urging his followers to starve themselves to death in order to “meet Jesus”; hundreds of bodies have been found since 2023 at the cult’s base inland from the beach resort of Malindi, and the total has since passed 400. He pleaded not guilty to the murder counts in 2024 and also denies manslaughter and terrorism charges in separate cases. Kenya’s chief prosecutor, Renson Ingonga, called the verdict “momentous.” Relatives of victims travelled from rural coastal communities for the ruling, including Francis Wanje, 62, who lost eight family members, among them his daughter and two grandchildren.",
+      "image_remote": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/19/83f97352-fafc-4969-930e-a4fb49bc9f77/thumbnail/1200x630g2/401bfd99e5522714f73e0d12819a89ff/gettyimages-2300418982.jpg",
+      "image_local": "images/story-1199.jpg",
+      "id": "960e417aab7d99a7cc40901463ac7f33797f4792"
+    },
+    "d54f704de445f993cc9faec0ec791e1490f204e6": {
+      "headline": "Apple sets a second October event, “Pro and tell,” for Oct. 28 in Los Angeles, where the first touchscreen OLED MacBook Pro is expected",
+      "cat": "Apple / Mac",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/10/19/apple-announces-special-event-for-october-28/",
+      "summary": "Apple on Monday announced another product event for next Wednesday, Oct. 28, at 10 a.m. Pacific in Los Angeles, under the tagline “Pro and tell,” 9to5Mac reports. It is the company’s second event this month, after the Oct. 13 “Welcome home” launch in New York that introduced the HomeView smart display, the HomePod mini 2 and a new Apple TV 4K. Marketing chief Greg Joswiak posted the invite artwork, a glowing outlined Apple logo, on social media. According to Bloomberg’s Mark Gurman, the headliner is expected to be Apple’s first MacBook Pro with a touchscreen and an OLED display, and AppleInsider says the name all but confirms MacBook Pro changes. It adds that an OLED iPad mini, likely with an A20 chip, is also expected, and that a planned Nov. 6 store refresh hints at when new products could go on sale.",
+      "image_remote": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/pro-and-tell.jpg?quality=82&strip=all&resize=1200,628",
+      "image_local": "images/story-1200.jpg",
+      "id": "d54f704de445f993cc9faec0ec791e1490f204e6"
+    },
+    "0e0b5b208fa4f6a19c4ec46737aacaddb24120a2": {
+      "headline": "Eagles quarterback Jalen Hurts is expected to miss the rest of the season after a blood clot from his leg traveled to his lungs",
+      "cat": "NFL",
+      "source": "PBS NewsHour (AP)",
+      "url": "https://www.pbs.org/newshour/nation/ap-source-eagles-qb-jalen-hurts-expected-to-miss-rest-of-season-after-blood-clots-found-in-lungs-and-leg",
+      "summary": "Philadelphia Eagles quarterback Jalen Hurts is expected to miss the rest of the season because of blood clots in his lungs, a person familiar with the situation told the Associated Press on Monday. The team and Hurts’ agent said he has deep vein thrombosis and bilateral pulmonary emboli, meaning a clot traveled from his legs to his lungs; he is on blood thinners and can’t do any football activities until he’s off them, though he is “clinically stable and has no significant functional limitations.” The Eagles say Hurts took a cleat to the calf on Oct. 4 against the Rams, told the medical staff after practice on Oct. 8, and was first diagnosed by specialists in London with a superficial vein clot before the Jacksonville game. He went on injured reserve Saturday and missed Sunday’s 25-14 loss to Carolina, in which backup quarterback McKee threw for 215 yards; the 2-4 Eagles have now lost four straight for the first time since 2020. Hurts, the Super Bowl 59 MVP, had eight touchdown passes, three interceptions and 933 yards this season.",
+      "image_remote": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/AP26284594629980-1024x683.jpg",
+      "image_local": "images/story-1201.jpg",
+      "id": "0e0b5b208fa4f6a19c4ec46737aacaddb24120a2"
+    },
+    "f842338e1a4dcb8862b67f98d8b7b40a08acbec3": {
+      "headline": "A Washington state prosecutor drops a murder hold on a Prosser man after concluding he likely fired in self-defense at his half-brother",
+      "cat": "Crime / self-defense",
+      "source": "Daily Caller",
+      "url": "https://dailycaller.com/2026/10/19/blue-state-prosecutor-admits-man-arrested-for-murder-actually-acted-in-self-defense/",
+      "summary": "The Benton County, Washington, prosecutor’s office says a Prosser man jailed after a fatal Oct. 12 confrontation with his half-brother likely acted in self-defense and will not be held any longer, the Daily Caller reports, citing Yakima-area station NBCRightNow. Jose Cruz Escobar first told deputies that his half-brother, Alejandro Salazar, had been hit in a drive-by shooting, a story the sheriff’s investigation later disproved, and he was booked on a felony investigation hold. Investigators then found that Salazar threw a rock that damaged the optical sight on Escobar’s gun, and that during a confrontation outside, Escobar fired several warning shots into the ground before firing the shot that killed Salazar. “Following additional investigation and meetings between the investigators and assigned prosecutors, the Benton County Prosecutor’s Office has determined that there is insufficient evidence to continue to detain Jose Cruz Escobar,” the office said in a Facebook post, adding that the evidence indicates he “likely acted in self-defense.”",
+      "image_remote": "",
+      "image_local": "",
+      "id": "f842338e1a4dcb8862b67f98d8b7b40a08acbec3"
+    },
+    "7f699f74c1743c3e04d86cdb4e948d6b1c794f30": {
+      "headline": "Richard Riehle, who played “people skills” product manager Tom Smykowski in Office Space, has died at 78",
+      "cat": "Movies / obituary",
+      "source": "Consequence",
+      "url": "https://consequence.net/2026/10/richard-riehle-office-spaces-tom-smykowski-dead-at-78/",
+      "summary": "Character actor Richard Riehle, best known as Tom Smykowski in Mike Judge’s 1999 workplace comedy Office Space, has died at 78, Consequence reports. According to TMZ, he died Oct. 15 of natural causes. In Office Space, Riehle played the Initech product manager whose job is deemed redundant despite his insistence that he has “people skills.” Over a long career his film credits also included The Fugitive, Jury Duty, The Man from Earth and Deuce Bigalow: Male Gigolo, and on television he turned up in Buffy the Vampire Slayer, The West Wing, Grounded for Life, The Legend of Korra and Barry.",
+      "image_remote": "https://consequence.net/wp-content/uploads/2026/10/Richard-Riehle-in-Office-Space.jpeg",
+      "image_local": "images/story-1202.jpg",
+      "id": "7f699f74c1743c3e04d86cdb4e948d6b1c794f30"
+    },
+    "7cb9ffc334dc8b145178dd2215df1049363ae959": {
+      "headline": "Peter Jackson buys a rare, nearly complete moa egg at a Colorado auction and sends it home to New Zealand",
+      "cat": "Science / history",
+      "source": "Gizmodo",
+      "url": "https://gizmodo.com/peter-jackson-just-got-an-ultra-rare-extinct-moa-egg-back-to-new-zealand-2000827741",
+      "summary": "Lord of the Rings director Peter Jackson, working with de-extinction startup Colossal Biosciences, has acquired an extremely rare, nearly complete egg of the extinct moa, New Zealand’s giant flightless bird, after it surfaced at a public auction in Colorado in June, Gizmodo reports. Only about three dozen moa eggs have ever been found; as many as 2.5 million of the birds once roamed the country before Polynesian settlers arrived around 1300 CE. The 8.75-inch-tall egg, partly reassembled with many fragments still to reattach, was presented Monday to Ngāi Tahu leader and historian Te Maire Tau at an avian palaeontology conference in Christchurch and will be entrusted to the Ngāi Tahu people. “After expert restoration, it will very likely become only the ninth known nearly intact moa egg — probably one of the five best-preserved examples,” Jackson said, adding that the partnership would also “advance research into the Moa.”",
+      "image_remote": "https://gizmodo.com/app/uploads/2026/10/colossal-peter-jackson-moa-egg-1200x675.jpg",
+      "image_local": "images/story-1203.jpg",
+      "id": "7cb9ffc334dc8b145178dd2215df1049363ae959"
     }
   },
-  "updated": "Monday, October 19, 2026 · 12:02 PM ET"
+  "updated": "Monday, October 19, 2026 · 4:07 PM ET"
 }
