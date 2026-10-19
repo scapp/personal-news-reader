@@ -1304,7 +1304,14 @@
     "ad71a18634dc68574b9ce87ba79767dc1f6ea3aa",
     "86376305d57c330cde05cc2cf3c8779d7abab438",
     "dbbc7c74a92a0680249b5b10a9a6873a9f9cb0d8",
-    "2ac2d63a6511c8dd8798ec7b922c7985ad5e7143"
+    "2ac2d63a6511c8dd8798ec7b922c7985ad5e7143",
+    "f06aea8ab5790838238eae65ae9dc6976e080277",
+    "f219e9ed68c3162887b5db79b97f94170edc1da3",
+    "2cb59c312ac4575037c7cc2febd6ed4931addc1b",
+    "a2dd36a0b220ddbe22141ce356bec0bb15b63507",
+    "4a00b8de1165c1a3331fc8533efb21d61bbc5670",
+    "d1d68945a73ad30b95f935e07b73724e81c51e48",
+    "9b38a63071dbc5fd83c58cec0f1f64ad3b3c2248"
   ],
   "stories": {
     "0c2ac7a5e342411678296315c4c59043b1f067cc": {
@@ -15712,7 +15719,77 @@
       "image_remote": "https://cdn.mos.cms.futurecdn.net/mNkMroECf9TWxfjsvPBxh9-1280-80.jpg",
       "image_local": "images/story-1178.jpg",
       "id": "2ac2d63a6511c8dd8798ec7b922c7985ad5e7143"
+    },
+    "f06aea8ab5790838238eae65ae9dc6976e080277": {
+      "headline": "Canada’s military names the four soldiers killed in the CFB Wainwright fire, which began as a grass fire during live-fire combat training",
+      "cat": "World / Canada",
+      "source": "Global News",
+      "url": "https://globalnews.ca/news/12107164/cfb-wainwright-fire-victims/",
+      "summary": "The Canadian Armed Forces on Sunday identified the four service members killed in Saturday’s fire at CFB Wainwright in Alberta: Sgt. Morgan Wong of Edmonton, Pte. Shaun Farrell of Prince Albert, Sask., Pte. Aidan Goulding of North Vancouver, B.C., and Pte. Hayden Lykkemark of Langley, B.C. All four served with the 3rd Battalion, Princess Patricia’s Canadian Light Infantry out of CFB Edmonton. Maj.-Gen. Wade Rutland said the unit was doing “high intensity combat training with live munitions” to prepare as a global response task force and for a deployment to Latvia next spring when a grass fire ignited in the training area. Uncommonly strong winds, with gusts up to 100 km/h across the province, drove it rapidly toward the range’s administrative area; the cause is under investigation. Alberta Premier Danielle Smith said 39 people remain in hospital, at least 19 in critical condition. “It is with heavy hearts that we share the news that our son, Shaun Farrell, has passed away,” his mother wrote on Facebook.",
+      "image_remote": "https://globalnews.ca/wp-content/uploads/2026/10/wainwright-sign.jpg?quality=65&strip=all&w=1200",
+      "image_local": "images/story-1179.jpg",
+      "id": "f06aea8ab5790838238eae65ae9dc6976e080277"
+    },
+    "f219e9ed68c3162887b5db79b97f94170edc1da3": {
+      "headline": "Mexico charges Chihuahua’s former attorney general with treason for working with U.S. agencies, including the CIA, against the cartels",
+      "cat": "World / Mexico",
+      "source": "Breitbart",
+      "url": "https://www.breitbart.com/border/2026/10/18/mexicos-government-prosecutes-border-state-ag-for-working-with-u-s-to-fight-cartels/",
+      "summary": "Mexico’s federal Attorney General’s Office has arrested Cesar Jauregui, the former attorney general of the border state of Chihuahua, and Attorney General Ernestina Godoy says he is charged with treason in matters of national security. The case isn’t about corruption or cartel ties. It centers on Chihuahua working directly with U.S. agencies, chiefly the CIA, without federal approval, an effort that led to the discovery in April of one of the largest clandestine drug labs in Mexico’s history. Two U.S. agents and top Chihuahua law enforcement officials later died in a crash while returning from the lab site, which prompted President Claudia Sheinbaum to insist only the federal government may coordinate with foreign officials and to call for an investigation. Jauregui resigned in April and took the blame, partly shielding the state’s National Action Party governor. Breitbart Texas notes the contrast with Sheinbaum’s defense of Morena politicians the U.S. has accused of cartel ties.",
+      "image_remote": "",
+      "image_local": "",
+      "id": "f219e9ed68c3162887b5db79b97f94170edc1da3"
+    },
+    "2cb59c312ac4575037c7cc2febd6ed4931addc1b": {
+      "headline": "An Irvine real estate agent is indicted as an unregistered Chinese agent, accused of surveilling the Taiwanese president’s son outside his Seattle-area home",
+      "cat": "Crime / national security",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/news/us-news/california-woman-indicted-charges-spying-china-rcna604242",
+      "summary": "Wanying “Heather” Zhang, 34, of Irvine, California, has been indicted in federal court in Los Angeles on charges of conspiracy and acting as an unregistered agent of China. Prosecutors say that between roughly June and September 2025, at the direction of a Chinese government official who was her former classmate at the University of International Relations, a school an FBI investigator called “closely affiliated with China’s intelligence apparatus,” she flew to the Seattle area to watch a son of Taiwan’s president outside his home, sending photos, video and license plate details back to her handler. She also allegedly traveled to China in August 2025 to meet an official. Her lawyer has called the government’s sleeper-agent theory unsupported, describing her as a real estate agent raising two young daughters. A judge ordered her held as a flight risk; she is due for arraignment Friday and faces up to 15 years in prison.",
+      "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261007-China-Spying-Arrest-vsb-2047-c87f3c.jpg",
+      "image_local": "images/story-1180.jpg",
+      "id": "2cb59c312ac4575037c7cc2febd6ed4931addc1b"
+    },
+    "a2dd36a0b220ddbe22141ce356bec0bb15b63507": {
+      "headline": "The Amelia Earhart expedition to Nikumaroro comes up empty: the “Taraia Object” in the lagoon was most likely a pile of washed-up trees",
+      "cat": "History / mysteries",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/amelia-earhart-missing-plane-not-found-nikumaroro-expedition/",
+      "summary": "A Purdue-backed expedition that sailed five days to the remote Pacific island of Nikumaroro to examine a satellite anomaly that some hoped was Amelia Earhart’s Lockheed Electra announced Sunday that it was not the plane. “Evidence gathered at the Taraia Peninsula on Nikumaroro confirmed that the visual anomaly first seen in satellite imagery in 2020 was likely a collection of large trees deposited along the peninsula’s sandspit,” the researchers said; by the time they arrived, most of the debris had broken up and washed away, leaving a single Y-shaped segment. The 17-member team, led by Purdue’s Steve Schultz and the Archaeological Legacy Institute’s Richard Pettigrew, launched Oct. 14, but severe weather kept them aboard ship for three of their five days and limited fuel kept them from staying longer. The team had earlier called the evidence “very strong.” Earhart and navigator Fred Noonan vanished on July 2, 1937, and the latest letdown follows a 2024 sonar “plane” that turned out to be a rock formation.",
+      "image_remote": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/16/ff42b3e3-a495-4b1b-baa2-5da717909439/thumbnail/1200x630/bc08ab3932d6e3847c6916b0f63566b5/cbsn-fusion-expedition-to-locate-amelia-earharts-plane-facing-severe-weather-challenges-thumbnail.jpg",
+      "image_local": "images/story-1181.jpg",
+      "id": "a2dd36a0b220ddbe22141ce356bec0bb15b63507"
+    },
+    "4a00b8de1165c1a3331fc8533efb21d61bbc5670": {
+      "headline": "An EU filing reveals the iPhone Duo’s battery: 4,883mAh across two cells, right between the iPhone 18 Pro and Pro Max",
+      "cat": "Apple / iPhone",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/10/18/iphone-duo-battery-capacity-comparison/",
+      "summary": "With iPhone Duo pre-orders open, Apple has posted an EU regulatory document that finally reveals the foldable’s true battery capacity: 4,883mAh, split between a 2,962mAh cell and a 1,921mAh cell. That lands almost exactly between the iPhone 18 Pro (4,288mAh) and the iPhone 18 Pro Max (5,567mAh), 9to5Mac reports, making it one of the largest batteries Apple has ever put in an iPhone; only the two most recent Pro Max models beat it. The site cautions that capacity is not the same as battery life, since heavy use of the Duo’s larger inner display will drain it faster than a conventional slab phone.",
+      "image_remote": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-7.jpeg?quality=82&strip=all&resize=1200,628",
+      "image_local": "images/story-1182.jpg",
+      "id": "4a00b8de1165c1a3331fc8533efb21d61bbc5670"
+    },
+    "d1d68945a73ad30b95f935e07b73724e81c51e48": {
+      "headline": "Penguins close their road trip Monday in Utah after a 6-2 rout in Vegas, with three straight losses and five-plus goals allowed in each",
+      "cat": "Penguins",
+      "source": "WJOX (Field Level Media)",
+      "url": "https://www.joxfm.com/2026/10/18/penguins-mammoth-look-to-rebound-from-blowout-losses/",
+      "summary": "The Penguins wrap up a four-game road trip Monday night in Salt Lake City against the Utah Mammoth, with both teams coming off identical 6-2 losses on Saturday, Pittsburgh in Las Vegas and Utah at home to Edmonton. The loss to Vegas was Pittsburgh’s third straight and its sixth in seven games (1-5-1) after a 2-0 start, and the Penguins have given up at least five goals in each of the first three games of the trip. “We can’t be feeling bad for ourselves. It’s on all of us, myself included,” coach Dan Muse said. “There’s a lot coming off of (Saturday) night that we have to clean up from a structural standpoint.” The Golden Knights scored three even-strength goals in the first period before Sidney Crosby’s power-play goal made it 3-1. Ahead of the game the Penguins recalled defenseman Ilya Solovyov from Wilkes-Barre/Scranton and sent Ryan Johnson down. The teams meet again Oct. 29 in Pittsburgh.",
+      "image_remote": "",
+      "image_local": "",
+      "id": "d1d68945a73ad30b95f935e07b73724e81c51e48"
+    },
+    "9b38a63071dbc5fd83c58cec0f1f64ad3b3c2248": {
+      "headline": "Ex-Kentucky cheerleader Laken Snelling gets 10 years for killing her newborn son and hiding him in a trash bag in her closet",
+      "cat": "Crime / courts",
+      "source": "Breitbart",
+      "url": "https://www.breitbart.com/politics/2026/10/18/cheerleader-laken-snelling-sentenced-to-10-years-for-killing-newborn-baby-stuffing-him-in-trash-bag/",
+      "summary": "Former University of Kentucky cheerleader Laken Snelling, 22, was sentenced to ten years in prison for killing her newborn son, after pleading guilty in August to first-degree manslaughter, concealing the birth of an infant, tampering with physical evidence and abuse of a corpse. She will have to serve 85 percent of the sentence before parole eligibility and cannot get probation. At sentencing the court heard the baby had been named McCoy Cade Hall; one relative said the family had looked forward to “first words, kisses, and all the little moments,” and that “for Cade, those possibilities were taken away.” Snelling had admitted in court, “Instead of helping him I ended his life and afterwards I cleaned up and didn’t tell anyone.” Lexington police found the baby on Aug. 27, 2025, wrapped in a towel inside a trash bag in a closet of her off-campus home after roommates called 911. The medical examiner ruled he was born alive and died of asphyxia, and police said she had deleted photos taken during labor to hide the birth.",
+      "image_remote": "https://media.breitbart.com/media/2026/04/Laken-Snelling--640x335.png",
+      "image_local": "images/story-1183.jpg",
+      "id": "9b38a63071dbc5fd83c58cec0f1f64ad3b3c2248"
     }
   },
-  "updated": "Sunday, October 18, 2026 · 6:06 PM ET"
+  "updated": "Sunday, October 18, 2026 · 10:07 PM ET"
 }

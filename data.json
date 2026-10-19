@@ -1,8 +1,85 @@
 {
-  "updated": "Sunday, October 18, 2026 · 6:06 PM ET",
+  "updated": "Sunday, October 18, 2026 · 10:07 PM ET",
   "stories": [
     {
       "n": 1,
+      "headline": "Canada’s military names the four soldiers killed in the CFB Wainwright fire, which began as a grass fire during live-fire combat training",
+      "cat": "World / Canada",
+      "source": "Global News",
+      "url": "https://globalnews.ca/news/12107164/cfb-wainwright-fire-victims/",
+      "image_local": "images/story-1179.jpg",
+      "image_remote": "https://globalnews.ca/wp-content/uploads/2026/10/wainwright-sign.jpg?quality=65&strip=all&w=1200",
+      "id": "f06aea8ab5790838238eae65ae9dc6976e080277",
+      "summary": "The Canadian Armed Forces on Sunday identified the four service members killed in Saturday’s fire at CFB Wainwright in Alberta: Sgt. Morgan Wong of Edmonton, Pte. Shaun Farrell of Prince Albert, Sask., Pte. Aidan Goulding of North Vancouver, B.C., and Pte. Hayden Lykkemark of Langley, B.C. All four served with the 3rd Battalion, Princess Patricia’s Canadian Light Infantry out of CFB Edmonton. Maj.-Gen. Wade Rutland said the unit was doing “high intensity combat training with live munitions” to prepare as a global response task force and for a deployment to Latvia next spring when a grass fire ignited in the training area. Uncommonly strong winds, with gusts up to 100 km/h across the province, drove it rapidly toward the range’s administrative area; the cause is under investigation. Alberta Premier Danielle Smith said 39 people remain in hospital, at least 19 in critical condition. “It is with heavy hearts that we share the news that our son, Shaun Farrell, has passed away,” his mother wrote on Facebook."
+    },
+    {
+      "n": 2,
+      "headline": "Mexico charges Chihuahua’s former attorney general with treason for working with U.S. agencies, including the CIA, against the cartels",
+      "cat": "World / Mexico",
+      "source": "Breitbart",
+      "url": "https://www.breitbart.com/border/2026/10/18/mexicos-government-prosecutes-border-state-ag-for-working-with-u-s-to-fight-cartels/",
+      "image_local": "",
+      "image_remote": "",
+      "id": "f219e9ed68c3162887b5db79b97f94170edc1da3",
+      "summary": "Mexico’s federal Attorney General’s Office has arrested Cesar Jauregui, the former attorney general of the border state of Chihuahua, and Attorney General Ernestina Godoy says he is charged with treason in matters of national security. The case isn’t about corruption or cartel ties. It centers on Chihuahua working directly with U.S. agencies, chiefly the CIA, without federal approval, an effort that led to the discovery in April of one of the largest clandestine drug labs in Mexico’s history. Two U.S. agents and top Chihuahua law enforcement officials later died in a crash while returning from the lab site, which prompted President Claudia Sheinbaum to insist only the federal government may coordinate with foreign officials and to call for an investigation. Jauregui resigned in April and took the blame, partly shielding the state’s National Action Party governor. Breitbart Texas notes the contrast with Sheinbaum’s defense of Morena politicians the U.S. has accused of cartel ties."
+    },
+    {
+      "n": 3,
+      "headline": "An Irvine real estate agent is indicted as an unregistered Chinese agent, accused of surveilling the Taiwanese president’s son outside his Seattle-area home",
+      "cat": "Crime / national security",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/news/us-news/california-woman-indicted-charges-spying-china-rcna604242",
+      "image_local": "images/story-1180.jpg",
+      "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261007-China-Spying-Arrest-vsb-2047-c87f3c.jpg",
+      "id": "2cb59c312ac4575037c7cc2febd6ed4931addc1b",
+      "summary": "Wanying “Heather” Zhang, 34, of Irvine, California, has been indicted in federal court in Los Angeles on charges of conspiracy and acting as an unregistered agent of China. Prosecutors say that between roughly June and September 2025, at the direction of a Chinese government official who was her former classmate at the University of International Relations, a school an FBI investigator called “closely affiliated with China’s intelligence apparatus,” she flew to the Seattle area to watch a son of Taiwan’s president outside his home, sending photos, video and license plate details back to her handler. She also allegedly traveled to China in August 2025 to meet an official. Her lawyer has called the government’s sleeper-agent theory unsupported, describing her as a real estate agent raising two young daughters. A judge ordered her held as a flight risk; she is due for arraignment Friday and faces up to 15 years in prison."
+    },
+    {
+      "n": 4,
+      "headline": "The Amelia Earhart expedition to Nikumaroro comes up empty: the “Taraia Object” in the lagoon was most likely a pile of washed-up trees",
+      "cat": "History / mysteries",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/amelia-earhart-missing-plane-not-found-nikumaroro-expedition/",
+      "image_local": "images/story-1181.jpg",
+      "image_remote": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/16/ff42b3e3-a495-4b1b-baa2-5da717909439/thumbnail/1200x630/bc08ab3932d6e3847c6916b0f63566b5/cbsn-fusion-expedition-to-locate-amelia-earharts-plane-facing-severe-weather-challenges-thumbnail.jpg",
+      "id": "a2dd36a0b220ddbe22141ce356bec0bb15b63507",
+      "summary": "A Purdue-backed expedition that sailed five days to the remote Pacific island of Nikumaroro to examine a satellite anomaly that some hoped was Amelia Earhart’s Lockheed Electra announced Sunday that it was not the plane. “Evidence gathered at the Taraia Peninsula on Nikumaroro confirmed that the visual anomaly first seen in satellite imagery in 2020 was likely a collection of large trees deposited along the peninsula’s sandspit,” the researchers said; by the time they arrived, most of the debris had broken up and washed away, leaving a single Y-shaped segment. The 17-member team, led by Purdue’s Steve Schultz and the Archaeological Legacy Institute’s Richard Pettigrew, launched Oct. 14, but severe weather kept them aboard ship for three of their five days and limited fuel kept them from staying longer. The team had earlier called the evidence “very strong.” Earhart and navigator Fred Noonan vanished on July 2, 1937, and the latest letdown follows a 2024 sonar “plane” that turned out to be a rock formation."
+    },
+    {
+      "n": 5,
+      "headline": "An EU filing reveals the iPhone Duo’s battery: 4,883mAh across two cells, right between the iPhone 18 Pro and Pro Max",
+      "cat": "Apple / iPhone",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/10/18/iphone-duo-battery-capacity-comparison/",
+      "image_local": "images/story-1182.jpg",
+      "image_remote": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-7.jpeg?quality=82&strip=all&resize=1200,628",
+      "id": "4a00b8de1165c1a3331fc8533efb21d61bbc5670",
+      "summary": "With iPhone Duo pre-orders open, Apple has posted an EU regulatory document that finally reveals the foldable’s true battery capacity: 4,883mAh, split between a 2,962mAh cell and a 1,921mAh cell. That lands almost exactly between the iPhone 18 Pro (4,288mAh) and the iPhone 18 Pro Max (5,567mAh), 9to5Mac reports, making it one of the largest batteries Apple has ever put in an iPhone; only the two most recent Pro Max models beat it. The site cautions that capacity is not the same as battery life, since heavy use of the Duo’s larger inner display will drain it faster than a conventional slab phone."
+    },
+    {
+      "n": 6,
+      "headline": "Penguins close their road trip Monday in Utah after a 6-2 rout in Vegas, with three straight losses and five-plus goals allowed in each",
+      "cat": "Penguins",
+      "source": "WJOX (Field Level Media)",
+      "url": "https://www.joxfm.com/2026/10/18/penguins-mammoth-look-to-rebound-from-blowout-losses/",
+      "image_local": "",
+      "image_remote": "",
+      "id": "d1d68945a73ad30b95f935e07b73724e81c51e48",
+      "summary": "The Penguins wrap up a four-game road trip Monday night in Salt Lake City against the Utah Mammoth, with both teams coming off identical 6-2 losses on Saturday, Pittsburgh in Las Vegas and Utah at home to Edmonton. The loss to Vegas was Pittsburgh’s third straight and its sixth in seven games (1-5-1) after a 2-0 start, and the Penguins have given up at least five goals in each of the first three games of the trip. “We can’t be feeling bad for ourselves. It’s on all of us, myself included,” coach Dan Muse said. “There’s a lot coming off of (Saturday) night that we have to clean up from a structural standpoint.” The Golden Knights scored three even-strength goals in the first period before Sidney Crosby’s power-play goal made it 3-1. Ahead of the game the Penguins recalled defenseman Ilya Solovyov from Wilkes-Barre/Scranton and sent Ryan Johnson down. The teams meet again Oct. 29 in Pittsburgh."
+    },
+    {
+      "n": 7,
+      "headline": "Ex-Kentucky cheerleader Laken Snelling gets 10 years for killing her newborn son and hiding him in a trash bag in her closet",
+      "cat": "Crime / courts",
+      "source": "Breitbart",
+      "url": "https://www.breitbart.com/politics/2026/10/18/cheerleader-laken-snelling-sentenced-to-10-years-for-killing-newborn-baby-stuffing-him-in-trash-bag/",
+      "image_local": "images/story-1183.jpg",
+      "image_remote": "https://media.breitbart.com/media/2026/04/Laken-Snelling--640x335.png",
+      "id": "9b38a63071dbc5fd83c58cec0f1f64ad3b3c2248",
+      "summary": "Former University of Kentucky cheerleader Laken Snelling, 22, was sentenced to ten years in prison for killing her newborn son, after pleading guilty in August to first-degree manslaughter, concealing the birth of an infant, tampering with physical evidence and abuse of a corpse. She will have to serve 85 percent of the sentence before parole eligibility and cannot get probation. At sentencing the court heard the baby had been named McCoy Cade Hall; one relative said the family had looked forward to “first words, kisses, and all the little moments,” and that “for Cade, those possibilities were taken away.” Snelling had admitted in court, “Instead of helping him I ended his life and afterwards I cleaned up and didn’t tell anyone.” Lexington police found the baby on Aug. 27, 2025, wrapped in a towel inside a trash bag in a closet of her off-campus home after roommates called 911. The medical examiner ruled he was born alive and died of asphyxia, and police said she had deleted photos taken during labor to hide the birth."
+    },
+    {
+      "n": 8,
       "headline": "Macron addresses France after Saturday’s riots, blames far-left extremists and “criminals,” and asks “How can French people do this to France?”",
       "cat": "World / France",
       "source": "Breitbart",
@@ -13,7 +90,7 @@
       "summary": "In his first address to the nation since the youth protest movement began nearly a month ago, French President Emmanuel Macron on Sunday evening blamed “extremists from far-left groups” and “criminals” for Saturday’s nationwide riots, which torched historic buildings, saw thousands of shops looted and injured hundreds of police officers, gendarmes and firefighters. “Why burn down the town hall in Limoges, the tourist office in Lyon, storm the town hall in Marseille, or attack the prefect’s residence in Bordeaux?” he asked. “Nothing justifies it, nothing explains it, nothing excuses it.” Macron said the hundreds of thousands who marched over the cost of living and fuel prices had legitimate concerns, tied Europe’s energy crunch to the U.S.–Iran conflict, and said he will travel to the Gulf on Monday to secure fuel supplies. He has ordered his interior and justice ministers to review the response, and Prime Minister Sébastien Lecornu will chair a crisis meeting Monday on aid for business owners, with some costs to be recovered from convicted rioters. Breitbart notes he did not address immigration. Marine Le Pen said millions of angry French people “are not breaking anything,” Jordan Bardella called it a “lamentable speech,” and Éric Zemmour blamed the arrival of “500,000 foreigners a year for the past 10 years.”"
     },
     {
-      "n": 2,
+      "n": 9,
       "headline": "A priest in Ecuador is killed when a large wooden crucifix falls on him as he prepares Communion during a livestreamed Mass",
       "cat": "Faith / World",
       "source": "Fox News",
@@ -24,7 +101,7 @@
       "summary": "Father Patricio Alfredo Sánchez Molinari was standing at the altar of Nuestra Señora del Perpetuo Socorro Church in Guayaquil, Ecuador, preparing Communion on Saturday when the large wooden crucifix behind him suddenly fell forward and struck him, Fox News reports. The Mass was being livestreamed on social media, and the video captures screams as worshippers rushed to his side, with a woman heard shouting, “Father, Father … call an ambulance.” The Archdiocese of Guayaquil confirmed his death in a Facebook statement, identifying him as the parish priest of Perpetuo Socorro in its Central Vicariate; the day before, the archdiocese had congratulated him on the anniversary of his ordination, according to the Ecuadorian outlet Primicias. Sánchez Molinari was a member of the Redemptorists and previously spent several years as parish priest at San Lorenzo in Vinces, in Los Ríos province, where his former parish posted a tribute. Church officials had not explained what caused the crucifix to fall as of Sunday."
     },
     {
-      "n": 3,
+      "n": 10,
       "headline": "Trump defends his Russia sanctions waiver and diesel deal on Truth Social and tears into Zelensky: “I WANT THIS WAR END!”",
       "cat": "World / Ukraine",
       "source": "Kyiv Independent",
@@ -35,7 +112,7 @@
       "summary": "President Trump used a Truth Social post on Sunday to defend his recent moves on Russia, including waiving sanctions, a deal for Russia to release diesel onto world markets and pressure on Ukraine to stop striking Russian oil refineries. “My decision on Russia is a very simple one,” he wrote. “I am in the process of negotiating Peace in the war between Russia and Ukraine, and don’t want to do anything that will drive, foolishly, Russia away from the bargaining table,” adding that “great progress is being made,” including on hostage negotiations. Trump argued that Russia is doing “very little, if anything” to help Iran in its war with the U.S. and is instead “sending, at a low price, millions of barrels of diesel to the World,” and he accused Zelensky of targeting Russian diesel refineries “knowing that these attacks are seriously hurting the world diesel markets, including those in the United States.” He went on to say Zelensky could have made a better deal two years ago: “His country is in shambles, a large portion of his land is lost, his oceans and seas are gone, and his male population is low, wounded, and/or dead.” The Kyiv Independent notes that the moves have alarmed Kyiv as Russian strikes continue, and that Treasury Secretary Scott Bessent has insisted the sanctions were only waived, not lifted."
     },
     {
-      "n": 4,
+      "n": 11,
       "headline": "A cattle truck plunges off a Kansas City overpass, killing up to 60 cows and sending dozens more wandering the city’s highways",
       "cat": "U.S. / odd news",
       "source": "CBS News",
@@ -46,7 +123,7 @@
       "summary": "A semitrailer hauling 120 to 130 head of cattle overturned on the westbound I-70 curve in downtown Kansas City, Missouri, shortly before 3 a.m. Sunday and fell onto southbound I-35, landing on a car, CBS News reports. Both drivers had minor injuries and were treated at local hospitals. Kansas City police Sgt. Phil DiMartino said between 45 and 60 of the cattle were killed, while dozens of others fled the scene, causing more crashes and a flood of calls to police; some walked several miles before they were caught. The city launched drones to track the animals until a private company working with the trucking firm arrived with workers on horseback to round them up, and by Sunday afternoon police said all the cows were believed to be accounted for. Fire Battalion Chief Michael Hopkins said recovering the animals that didn’t survive had been the harder job. The crash came on the day the Chiefs hosted the Chargers at Arrowhead, though officials did not expect major game-day traffic problems."
     },
     {
-      "n": 5,
+      "n": 12,
       "headline": "A London councillor wants Marilyn Manson pulled from Slipknot’s Wembley Stadium show, and Jim Root says booking support acts isn’t his call",
       "cat": "Music / metal",
       "source": "Louder",
@@ -57,7 +134,7 @@
       "summary": "Marilyn Manson is booked to support Slipknot at Wembley Stadium on July 3, 2027, the opening night of their (sic)est stadium tour, on a bill with Lorna Shore and Hatebreed, but Brent Council Liberal Democrat leader Anton Georgiou has called on the venue to reconsider because of sexual misconduct allegations against the singer, which Manson denies. “The allegations against Marilyn Manson are serious, and while he denies wrongdoing, Wembley Stadium needs to explain what consideration was given to them before this booking was confirmed,” Georgiou said. Brent Council replied that bookings are a matter for the venue and promoters, not the council, and Wembley said support acts are chosen by the promoter and headliner and that it is in talks with Live Nation about the performance. Slipknot guitarist Jim Root posted that the decision had nothing to do with him: “I concentrate on writing and being a guitarist, so forgive my ignorance about who we do shows with.” Manson, who is also slated for four South American dates on the tour, is scheduled to stand trial in November 2027 in a sexual assault and battery lawsuit brought by his former assistant Ashley Walters, Louder reports."
     },
     {
-      "n": 6,
+      "n": 13,
       "headline": "Trump gives Netanyahu his “Complete and Total Endorsement” ahead of Israel’s Oct. 27 election, warning that anyone else would leave America to do the work on Iran",
       "cat": "Politics / Israel",
       "source": "Fox News",
@@ -68,18 +145,7 @@
       "summary": "President Trump publicly endorsed Israeli Prime Minister Benjamin Netanyahu and his Likud Party on Sunday ahead of Israel’s Oct. 27 Knesset elections, calling him a “great warrior” and America’s partner amid the multi-front war against Iran. “I have watched Bibi under the most trying of times,” Trump wrote. “Normal men or women in such situations would have wilted under the pressure — But Bibi did not wilt, he actually got stronger.” He called the post a letter of “Complete and Total Endorsement” and added a warning: “If Israel has the wrong leader, which would be anyone other than Bibi, America will have to do this work ourselves, and I am not inclined to do so.” Netanyahu replied on X shortly after: “Thank you, President Trump, for the tremendous support and the joint work. Together, we will complete the mission.” Israelis vote for party lists, and the next prime minister needs the backing of at least 61 of the Knesset’s 120 members. Fox says current forecasts have Likud winning roughly 18 to 22 seats and Netanyahu’s right-religious bloc about 49 to 51, short of a majority, which would leave smaller parties holding the balance of power."
     },
     {
-      "n": 7,
-      "headline": "Carney confirms four Canadian soldiers were killed and dozens badly hurt in the CFB Wainwright fire, one of the country’s worst peacetime military tragedies at home",
-      "cat": "World / Canada",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/world/canadian-pm-carney-4-service-members-killed-dozens-injured-military-base-fire",
-      "image_local": "images/story-1168.jpg",
-      "image_remote": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/1344/756/mark-carney-parliament-hill-statement.jpg",
-      "id": "4e6ec6cc8563d77241ea14016476e6e2b913e224",
-      "summary": "Prime Minister Mark Carney said Sunday that four Canadian Armed Forces members were killed and dozens more seriously injured in the fire that broke out during training at Canadian Forces Base Wainwright in Alberta on Saturday, calling it one of the worst peacetime military tragedies on Canadian soil. Early reports citing military sources had put the death toll at seven or more; Carney said the families of the four had been notified and that the situation was still evolving. Those affected included reservists and soldiers from Princess Patricia’s Canadian Light Infantry, with personnel from bases across the country in Wainwright for exercises. The RCMP says the fire started in a training area shortly after 4 p.m. Saturday, and gusts of up to 62 mph pushed flames beyond the base into surrounding rural land before local officials said it was being held. Military officials said there was no indication of terrorism, but the cause is still under investigation. The wounded were treated in Wainwright, Edmonton, Red Deer and Calgary, where several hospitals declared a Code Orange. Carney ordered flags on federal buildings lowered to half-staff. The military has not released the names of those killed, but a Prince Albert, Saskatchewan, family has publicly identified one of them as their son, Shaun Farrell, Saskatoon radio station CKOM reports."
-    },
-    {
-      "n": 8,
+      "n": 14,
       "headline": "Trumbull this week: a hearing on a one-year data center moratorium, early voting opens Monday at the library, and a Town Hall Halloween parade",
       "cat": "Local / Trumbull CT",
       "source": "Trumbull Patch",
@@ -90,7 +156,7 @@
       "summary": "Trumbull’s Planning and Zoning Commission will hold a public hearing Wednesday on a proposed text amendment that would define data centers as their own principal use in the town’s zoning rules and put a one-year moratorium on them, according to the meeting agenda, Patch reports in its weekly look at what’s coming up in town. Early voting for the Nov. 3 election runs Monday, Oct. 19, through Sunday, Nov. 1, at the Trumbull Library, from 10 a.m. to 6 p.m., with longer 8 a.m. to 8 p.m. hours on Oct. 27 and Oct. 29, according to the town clerk. Patch also points to First Selectman Vicki Tesoro’s statement on the proposed high-density housing development at 1, 7 and 15 Main St. in Monroe, near the Coventry Lane area of Trumbull; no application is pending in Trumbull, and residents can send comments to the Monroe Planning and Zoning Commission. The Commission on Aging will hear an update on fraud prevention and a Senior Center report, and preschoolers can trick-or-treat through Town Hall in the annual Halloween parade, which has two sessions of 20 children each and requires registration."
     },
     {
-      "n": 9,
+      "n": 15,
       "headline": "Jets fall 26-19 in Foxborough as stalled drives and Geno Smith’s first interception waste Omar Cooper Jr.’s 48-yard touchdown",
       "cat": "Jets",
       "source": "New York Post",
@@ -101,7 +167,7 @@
       "summary": "The Jets hung around at Gillette Stadium on Sunday but lost 26-19 to the Patriots, their 15th loss in their last 16 games in Foxborough and fourth in five games overall, dropping Aaron Glenn’s team to 2-4 while New England moved to 4-2. Playing without Breece Hall, the Jets opened with a 13-play drive that ended in a 42-yard Jason Sanders field goal after an 11-yard Smith touchdown pass to Omar Cooper Jr. was wiped out by an offensive pass interference call on Tim Patrick. From there the offense stalled: back-to-back sacks set up a 42-yard Drake Maye touchdown pass to Romeo Doubs, and two straight drives died on fourth down, with Braelon Allen, who had 65 rushing yards by halftime, stopped on fourth-and-2 and Smith stuffed on fourth-and-1, as New England built a 17-3 halftime lead. The Jets rallied in the third quarter when Smith hit a wide-open Cooper for a 48-yard touchdown, David Bailey forced a TreVeyon Henderson fumble that Jamien Sherwood recovered, and Sanders added a field goal to make it 17-13. But Maye found Hunter Henry for his third touchdown pass, Smith threw his first interception of the season early in the fourth, and after a Sherwood forced fumble led to another field goal, a 13-play Patriots drive ended in a field goal with 1:12 left. A fourth Jets field goal made it 26-19 with 32 seconds to go, but New England recovered the onside kick."
     },
     {
-      "n": 10,
+      "n": 16,
       "headline": "Wichita police name the boy and man killed on the soccer field and release the driver without charges while they wait on toxicology tests",
       "cat": "Crime / Kansas",
       "source": "KCUR",
@@ -112,7 +178,7 @@
       "summary": "Wichita police on Sunday identified the two people killed when a pickup truck drove onto a youth soccer field at the Stryker Sports Complex on Saturday afternoon as 6-year-old Cole Adrian and 35-year-old Nicholas Schafer. Both were from McPherson, Kansas, but were not related. The driver, a 34-year-old woman from Garden City, was questioned and has been released with no charges filed for now, pending the results of a toxicology report and an inspection of the truck. Police say a preliminary investigation shows she had been parked in a space near the fields before driving onto one of them and hitting multiple people. Two of her children were in the pickup and were also interviewed, and another of her children was playing on a different field at the complex. Ten people, ages 5 to 68 and including two 5-year-olds, two 8-year-olds and a 9-year-old, were hospitalized with injuries described as noncritical; an 11th person, a 61-year-old woman, was taken to the hospital with unrelated medical complications. “What should have been a day of children playing soccer and families spending time together ended in tragedy,” Police Chief Joe Sullivan said. All events at the complex are canceled until further notice, and police are asking anyone with video or photos to share them."
     },
     {
-      "n": 11,
+      "n": 17,
       "headline": "NATO jets scramble as a likely drone explodes over northern Lithuania, hours after a foiled arson attempt on a Starlink site that Lithuania calls Russian sabotage",
       "cat": "World / NATO",
       "source": "Kyiv Independent",
@@ -123,7 +189,7 @@
       "summary": "An unidentified flying object, likely a drone, entered Lithuanian airspace and exploded on Sunday, sending residents to shelters and damaging a civilian vehicle, Lithuanian President Gitanas Nauseda said. NATO fighter jets were scrambled but could not identify the object in cloudy weather and did not try to shoot it down; it later dropped off radar, and officials examined what appeared to be drone debris near the village of Juodzionys in northern Lithuania. No one was hurt. Lithuania’s defense minister said the drone came in from Poland, though Poland’s defense ministry said its radar did not confirm it crossing the border, according to Reuters. A Ukrainian Foreign Ministry spokesman said Russian electronic warfare may have diverted Ukrainian drones off course and apologized for “any disruption, risks, and concern.” Earlier Sunday, Lithuanian authorities foiled an overnight attempt to set fire to a company storing Starlink satellite equipment. Prime Minister Mindaugas Sinkevicius said he believes Russian actors commissioned it, and the head of Lithuania’s crisis management center called it sabotage tied to earlier Starlink arsons in Bulgaria and Poland and aimed at Ukraine. The day before, Romanian jets shot down two Shahed-style drones in Romanian airspace."
     },
     {
-      "n": 12,
+      "n": 18,
       "headline": "William Shatner, 95, fronts a heavy metal band and is making an album with 50-plus metal musicians, including a Brian May guitar solo",
       "cat": "Music / metal",
       "source": "Fox News",
@@ -134,7 +200,7 @@
       "summary": "William Shatner says his reaction when his label, Cleopatra Records, pitched him a heavy metal album earlier this year became its title: “What the F Is Heavy Metal.” The 95-year-old “Star Trek” star told Fox News Digital he wrote six original songs with longtime collaborator Robert Sharenow and that more than 50 metal musicians volunteered to play on the record, including Queen’s Brian May, who contributed a guitar solo to “Rage,” a track built around Dylan Thomas’ line “Rage, rage against the dying of the light.” A title track is due out this winter. Shatner’s band, The *uckers, debuted in Chicago on Sept. 19 and played Riot Fest the next day, mixing originals like “Rage,” “Sky” and “One Fear” with covers of “Crazy Train,” “Ace of Spades” and “Enter Sandman.” He says the Riot Fest reception “proved to me the viability” of the project, and that his take on “Enter Sandman” is “a total reinterpretation” focused on the song’s darker side. His answer to his own question now: heavy metal “is the beat of life.” Shatner, who has tinnitus that he traces to a “Star Trek” explosion scene, says the loud music can temporarily make the ringing worse."
     },
     {
-      "n": 13,
+      "n": 19,
       "headline": "Judas Priest open “The Early Years,” an interactive online scrapbook of the Rocka Rolla and Sad Wings of Destiny era",
       "cat": "Music / metal",
       "source": "Blabbermouth",
@@ -145,7 +211,7 @@
       "summary": "Exciter Records has launched “The Early Years,” an interactive online Judas Priest scrapbook covering the band’s formative period around 1974’s “Rocka Rolla” and 1976’s “Sad Wings of Destiny,” with early photos, videos and memorabilia. The site doubles as the hub for this year’s 50th-anniversary editions of “Sad Wings,” the album that gave fans “Victim of Changes,” “The Ripper,” “Tyrant” and “Dreamer Deceiver.” Exciter and its publishing affiliate Reach Music, working with the band, acquired the album’s master rights, returning control of it to Priest and its partners. There are two versions, both restoring the band’s intended track order opening with “Prelude”: “Original 1976 Masters,” remastered from the original analog tapes, which came out Oct. 2 on streaming and Oct. 9 on CD and vinyl and adds the original 1976 recording of “Diamonds and Rust,” and a new “Remixed & Remastered” edition produced by Tom Allom with the same team that remixed “Rocka Rolla,” which is streaming now and arrives as a half-speed-mastered double LP and CD on Nov. 27. “ ‘Sad Wings of Destiny’ was a defining moment for us as a band,” Priest said in a statement. Rob Halford has called it his personal favorite Priest album."
     },
     {
-      "n": 14,
+      "n": 20,
       "headline": "Abdul El-Sayed admits his sister-in-law was on the federal terrorist watchlist under Obama, days before Obama campaigns with him in Michigan",
       "cat": "Politics / Michigan Senate",
       "source": "Breitbart",
@@ -154,72 +220,6 @@
       "image_remote": "https://media.breitbart.com/media/2026/10/oct8-2026-Michigan-debate-Abdul-El-Sayed-ap.jpg",
       "id": "57e3656fe4974792bc1110754fc568cefb128364",
       "summary": "Michigan Democratic Senate candidate Abdul El-Sayed acknowledged Saturday night that his sister-in-law, Mariam Jukaku, had been on the federal terrorist watchlist during the Obama administration, but said she was removed in 2016. Fox News correspondent Mike Tobin confronted him in a hallway about court papers naming Jukaku as a plaintiff in a 2016 lawsuit challenging her placement in the Terrorist Screening Dataset; the suit says she went through extensive airport screening in 2012 without ever being told she had been flagged. “She did nothing wrong and was captured on that and then sued and got off,” El-Sayed said, blaming a system where people are “guilty until proven innocent because they’ve got different kinds of names” and the “infrastructure that people like Mike Rogers set up,” referring to his Republican opponent. The record is murkier than his answer: a federal appeals court overturned the ruling that had favored Jukaku and the other plaintiffs in 2021, and a separate damages suit was dismissed in 2017. The government says it neither confirms nor denies anyone’s inclusion on the list, and Fox notes the lawsuit does not establish wrongdoing by Jukaku or El-Sayed. The admission is awkward timing, since Barack Obama is scheduled to campaign with El-Sayed in Michigan on Oct. 24, and it comes after weeks of attacks over alleged family ties to the Muslim Brotherhood, which his campaign calls racist and untrue."
-    },
-    {
-      "n": 15,
-      "headline": "A mob-linked friend of O.J. Simpson came home with blood on his hands the night of the 1994 murders, his brother now claims",
-      "cat": "Crime / courts",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/us/brother-possible-oj-simpson-accomplice-claims-returned-bloody-hands-night-murders-report",
-      "image_local": "images/story-1161.jpg",
-      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2025/11/oj-simpson-looking-on-at-murder-trial.jpg",
-      "id": "6566c721a6b150c09eaeed72707c00d5e40cacdf",
-      "summary": "A New York Times investigation, summarized by Fox News, raises the possibility that a mob-connected drug trafficker helped O.J. Simpson cover up the 1994 murders of Nicole Brown Simpson and Ronald Goldman. Sam Ippolito told the paper that his brother, Joseph “Joey” Ippolito, an associate of Simpson and his friend Al Cowlings, came back to a Los Angeles apartment around midnight on June 12, 1994, with what looked like blood on his hands and a bag holding a heavy object. Sam says Joey stuffed his clothes into the bag, told him to get rid of it while he showered, and that he tossed it into a dumpster near a construction site on Doheny Drive; he also says he overheard Joey telling Cowlings he had been “helping” Simpson that night. Joey Ippolito, who had escaped from a Florida prison weeks earlier, became a federal informant after his 1995 arrest, and a 1996 prosecution memo unsealed at the Times’ request says he had information about Simpson’s alleged disposal of the never-found murder weapon. The account comes with big caveats: the prosecutor who wrote that memo says he does not believe Joey was involved, Marcia Clark says she never heard of him, and Sam later sought money from the Times and tried to retract his statements. Joey died in 2006. Simpson, acquitted in 1995 but found liable in civil court, died in 2024, and the LAPD says the case remains open."
-    },
-    {
-      "n": 16,
-      "headline": "Jets at Patriots: Breece Hall is among six inactives, while WR Omar Cooper Jr. is in the lineup for the 1 p.m. kickoff",
-      "cat": "Jets",
-      "source": "New York Jets",
-      "url": "https://www.newyorkjets.com/news/jets-vs-patriots-game-inactives-10-18-2026",
-      "image_local": "images/story-1162.jpg",
-      "image_remote": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/jets/snazilfqpqjt6d1wx5qe",
-      "id": "5748676fab4d15d05a6e2ae9464c32fec4f89bdb",
-      "summary": "The Jets have listed six players as inactive for Sunday’s 1 p.m. game against the New England Patriots at Gillette Stadium: running back Breece Hall, wide receiver Adonai Mitchell, defensive back Nahshon Wright, edge rusher Joseph Ossai, offensive lineman Dylan Parham and defensive tackle Jack Heflin. Hall had already been ruled out with a quad injury, so the Jets will lean on their other backs against New England. On the plus side, wide receiver Omar Cooper Jr. is back in the lineup after being moved to the active 53-man roster on Saturday, and linebacker Jaden Keller was elevated from the practice squad for the game. A win would get the Jets to 3-3 on the season. The Patriots, meanwhile, get a boost on offense, with A.J. Brown, Will Campbell and TreVeyon Henderson all active for the division matchup."
-    },
-    {
-      "n": 17,
-      "headline": "An Air Force combat specialist dies after falling while rappelling from the Alamodome roof before UTSA’s Salute to Armed Forces game",
-      "cat": "U.S. / military",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/us-air-force-member-dies-injury-ut-san-antonio-football-stadium/",
-      "image_local": "images/story-1163.jpg",
-      "image_remote": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/18/cbf88b47-84a2-40e2-ace1-5b8b7c88e391/thumbnail/1200x630/20127c61e26f892ac21b19844725b3ed/gettyimages-2299297033.jpg",
-      "id": "e65ad44b959aa6397d0ce21ea43cf5fb2f7a2e82",
-      "summary": "A U.S. Air Force service member died Saturday after falling while rappelling from the ceiling of the Alamodome in San Antonio during a pregame ceremony for the University of Texas at San Antonio’s annual Salute to Armed Forces and Veterans game against Navy. CBS affiliate KENS reported that he landed near the middle of the field, and video posted online shows him, in combat fatigues, dropping quickly feet first with fans in the stands and a band on the field nearby. He was treated on the field for several minutes and taken away on a gurney, and Nellis Air Force Base said he died at a local hospital. He was assigned to the 6th Combat Training Squadron, Detachment 2, and was one of four service members scheduled for the demonstration; they belong to a team of specialists who embed with Army and Marine units to direct air and artillery strikes, and who train to drop by rope from helicopters 100 feet or more up. His name has not been released. The game went on after a roughly 10-minute delay, and UTSA won 38-34. Coach Jeff Traylor called the accident “heartbreaking” and “tragic,” saying the crowd of more than 23,000 was hit hard: “You could tell the energy was just gone. It just really puts things in perspective.”"
-    },
-    {
-      "n": 18,
-      "headline": "Apple Stores are reportedly planning a Nov. 6 “reset,” a strong hint that the touchscreen OLED MacBook Pro and OLED iPad mini go on sale that day",
-      "cat": "Apple / Mac",
-      "source": "AppleInsider",
-      "url": "https://appleinsider.com/articles/26/10/18/retail-reset-set-for-november-6-as-oled-macbook-pro-looms",
-      "image_local": "images/story-1164.jpg",
-      "image_remote": "https://media.appleinsider.com/gallery/69434-146386-64228-133776-61074-126018-60212-123651-58596-119421-000-lead-OLED-MBP-xl-xl-xl-xl-xl.jpg",
-      "id": "d3b9abc4b9e20082d7a511b8b73d44e1c96b09a7",
-      "summary": "Apple is planning to reset its retail stores overnight from Thursday, Nov. 5, into Friday, Nov. 6, according to Bloomberg’s Mark Gurman, a move that usually means new signage and new products on the tables. AppleInsider says that points to Nov. 6 as the on-sale date for the Macs and iPads expected at Apple’s rumored second October event on Oct. 27. The headliners are a redesigned MacBook Pro with a touchscreen OLED display, which is expected to be lighter and may swap the notch for a Dynamic Island, and an OLED iPad mini with the FaceTime camera moved to the landscape edge. Gurman has reported that macOS will add touch-specific touches, like a menu that pops up around your finger when you tap a control and menu-bar items that enlarge for easier tapping. Other Macs could show up too, including an updated iMac. If the timing holds, Apple will have launches four Fridays in a row: the iPhone Duo on Oct. 23, the HomePod mini 2 on Oct. 30, the new Macs and iPads on Nov. 6, and the HomeView and Apple TV 4K on Nov. 13."
-    },
-    {
-      "n": 19,
-      "headline": "Metallica play “Harvester of Sorrow” for the first time at the Sphere, but fans aren’t sold on the giant goose on the screen",
-      "cat": "Music / metal",
-      "source": "Loudwire",
-      "url": "https://loudwire.com/metallica-debut-another-classic-song-latest-sphere-show-setlist-video/",
-      "image_local": "images/story-1165.jpg",
-      "image_remote": "https://townsquare.media/site/366/files/2026/10/attachment-metallica_debut_another_classic_song_latest_sphere_show-1.jpg?w=1200&q=75&format=natural",
-      "id": "251d3bde6341b7f962dbca95530eedb2020b0e45",
-      "summary": "Metallica kept up their habit of debuting a song at nearly every Las Vegas Sphere show, adding “Harvester of Sorrow” from 1988’s …And Justice for All to their sixth residency night on Saturday, Oct. 17. It came sixth in the set, between “72 Seasons” and “The Day That Never Comes,” and James Hetfield closed it with, “From …And Justice for All. ‘Harvester of Sorrow’ for you, Las Vegas. Thank you.” Not everyone loved the visuals: fans on Reddit grumbled that the Sphere’s huge screen spent the whole song showing a man and a goose, with one writing that it was “a waste” and another saying they heard Hetfield “looked completely confused by the goose.” The rest of the night leaned on Justice too, opening with “Blackened” and playing “One” as the second-to-last song, alongside “The Unforgiven,” “For Whom the Bell Tolls,” “Leper Messiah,” “Hardwired” and “Enter Sandman.” Loudwire notes the set was otherwise nearly identical to the Oct. 3 and Oct. 10 shows, the latter of which brought “Until It Sleeps” to the Sphere for the first time."
-    },
-    {
-      "n": 20,
-      "headline": "A 2,000-piece LEGO Ideas Cessna 172 hits 10,000 votes, putting the classic trainer plane in line to become an official set",
-      "cat": "LEGO",
-      "source": "Brick Fanatics",
-      "url": "https://www.brickfanatics.com/popular-aircraft-could-become-official-lego-set",
-      "image_local": "images/story-1166.jpg",
-      "image_remote": "https://www.brickfanatics.com/storage/uploads/2318c2d4-8cc8-4a25-9607-ef4190c578aa.png",
-      "id": "c3ec3e79bbb12177623d87b5aa71e3d71a9e1086",
-      "summary": "A fan-designed LEGO Cessna 172 has passed 10,000 supporters on LEGO Ideas, which means the LEGO Group will formally review it for possible release as an official set. Built by Mike_the_Brickanic, the model uses roughly 2,000 pieces to recreate one of the world’s most popular training aircraft and is big: about 85 centimeters long, 60 centimeters wide and 23 centimeters deep. It is mostly white with dark blue and yellow accents and includes a detailed cockpit with adjustable pilot seats, a spinning propeller and working wheels, so it can be played with as well as displayed. Brick Fanatics says the Cessna is the 33rd project to reach 10,000 votes in the third LEGO Ideas review of 2026, which wraps up in January. Past fan projects that made the jump to store shelves include the Downton Abbey and River Steamboat sets."
     }
   ]
 }
