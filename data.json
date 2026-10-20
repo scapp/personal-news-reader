@@ -1,8 +1,96 @@
 {
-  "updated": "Monday, October 19, 2026 · 6:09 PM ET",
+  "updated": "Monday, October 19, 2026 · 10:10 PM ET",
   "stories": [
     {
       "n": 1,
+      "headline": "A Kansas man is charged with threatening to shoot Trump after allegedly posting that he had “already mapped out roofs” around the president’s Wichita rally site",
+      "cat": "Crime / Trump security",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/us/kansas-man-mapped-rooftops-near-trump-speech-site-threatened-shoot-president-doj",
+      "image_local": "images/story-1211.jpg",
+      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/trump-points-at-rally.png",
+      "id": "a1cee8d34f4207b965e09c5953b41ceb303066bd",
+      "summary": "A 24-year-old Clearwater, Kansas, man was arrested and charged Saturday with making threats against President Trump, two days before Monday’s rally near Wichita, Fox News reports, citing the U.S. Attorney’s Office for the District of Kansas. The investigation began Oct. 15, when a Crime Stoppers tip flagged comments under a KAKE News Facebook post about the president’s trip. “Let’s shoot Trump honestly, where’s our shooter?” Jaden J. Read allegedly wrote, following up with a claim that he had ammunition. Under a separate KWCH 12 News post, prosecutors say he wrote, “Can we shoot him in Kansas please I will myself,” and a minute later claimed to know where Trump would speak: “IK where your speech will be. Already mapped out roofs around.” Read is in federal custody pending a detention hearing. “Political violence and threats of political violence will not be tolerated,” U.S. Attorney Ryan A. Kriegshauser said, adding that the First Amendment “allows for robust disagreement but there are constraints.” Trump went ahead with Monday’s rally for Sen. Roger Marshall."
+    },
+    {
+      "n": 2,
+      "headline": "Italy’s Meloni government moves to send 500 soldiers into Milan after a weekend of French-style youth riots, looting near the Duomo and 200-plus injured police",
+      "cat": "World / Europe unrest",
+      "source": "Breitbart",
+      "url": "https://www.breitbart.com/europe/2026/10/19/meloni-government-to-deploy-500-soldiers-to-support-milan-police-against-french-style-youth-rioters/",
+      "image_local": "images/story-1212.jpg",
+      "image_remote": "https://media.breitbart.com/media/2026/10/GettyImages-2300110414-2-640x335.jpg",
+      "id": "2de6a0b8e75c1f7983b775a384815db258034404",
+      "summary": "Italian Defense Minister Guido Crosetto signed off Monday on deploying 500 soldiers to Milan to back up police after two days of rioting spread from France, Breitbart reports, citing Corriere della Sera. The Council of Ministers still has to approve the decree on Tuesday; Deputy Prime Minister Matteo Salvini called it a “victory” for his League party: “From words to deeds!” Central Milan saw what locals described as “guerrilla war” on Saturday and Sunday as youths, many from migrant communities in the suburbs, clashed with police and looted luxury shops near the Duomo during what were billed as cost-of-living protests. More than 200 officers were hurt, and police say over 270 people, including 220 minors, were detained; 11 face possible sentences of up to 15 years. Chanel, Hermès, Gucci, Prada, Versace and other shops closed early Monday. Speaking outside the White House, President Trump said Italy faces the same problem as France because of immigration: “they came in by the millions, and honestly they are different countries than they were 10 years ago.”"
+    },
+    {
+      "n": 3,
+      "headline": "CNN quietly scrubs gushing praise of Qatar from the agenda for its for-profit Doha forum starring Wolf Blitzer and Christiane Amanpour",
+      "cat": "Media",
+      "source": "Washington Free Beacon",
+      "url": "https://freebeacon.com/media/cnn-is-caught-quietly-deleting-sycophantic-language-about-hamas-loving-qatar-ahead-of-networks-for-profit-global-forum-with-wolf-blitzer-christiane-amanpour/",
+      "image_local": "images/story-1213.jpg",
+      "image_remote": "https://freebeacon.com/wp-content/uploads/2026/10/Screenshot-2026-10-19-174220.png",
+      "id": "99644e00eb5f2e8d6368eeacfb5668537db8a89c",
+      "summary": "CNN was caught this weekend revising the online agenda for “Global Perspectives in Doha,” a commercial live-event series set to open Oct. 29 at the Rosewood Doha, the Washington Free Beacon reports. Open-source researcher Eitan Fischberger posted screenshots on X showing that one session, “The Gulf: What Comes Next,” originally said “Qatar has built something rare — a small country with an outsized role in how the world works” and praised the country’s “achievements in diplomacy, energy, culture, and sport.” Another, “State of Influence,” asked how Qatar could position itself “at the center of global affairs.” Those lines have disappeared from the live page, though traces remain in Bing’s search index, and one panel was renamed “Power in the Middle,” apparently a half-finished edit. The event features Blitzer, Amanpour, CNN chief executive Mark Thompson and Richard Quest, and CNN has not said how it makes money from it. The Free Beacon notes Qatar’s record of buying influence and hosting Hamas leaders. Amanpour announced Monday she will leave CNN in June."
+    },
+    {
+      "n": 4,
+      "headline": "Mississippi’s attorney general rules a Senatobia officer was justified in firing into a car during a Walmart shoplifting call, a shot that killed 1-year-old Kohen Wiley",
+      "cat": "Courts / policing",
+      "source": "PBS NewsHour (AP)",
+      "url": "https://www.pbs.org/newshour/nation/mississippi-attorney-general-says-officers-force-was-justified-in-death-of-1-year-old-kohen-wiley",
+      "image_local": "images/story-1214.jpg",
+      "image_remote": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/AP26292692866767-1024x683.jpg",
+      "id": "ef289f19eb877911f4cd32592d56295b94e6edc1",
+      "summary": "Mississippi’s attorney general has concluded that a Senatobia police officer was justified in using force in June when he fired at a moving vehicle that investigators said was driving toward officers, killing 1-year-old Kohen Wiley, the Associated Press reports. Officers had responded to a shoplifting call at a Walmart about 40 miles south of Memphis, where they believed Kohen’s mother and a friend had taken diapers and baby clothes; neither woman has been charged with any crime, and the mother denies stealing anything. The shot also badly wounded the friend, who was driving. The officer’s lawyer, Martin Zummach, says the driver “tried to kill” his client. Civil rights attorney Ben Crump, who represents the family, says an independent autopsy shows Kohen was shot from the side, not the front, and is demanding the body-camera video: “If the footage supports the state’s decision, release it.” Two use-of-force experts told the AP that photos of the car suggest the officer fired from the side, and one said that “you don’t shoot vehicles.”"
+    },
+    {
+      "n": 5,
+      "headline": "Apple quietly bought AI music-editing startup Samplab, whose stem-splitting and polyphonic note-editing tools could land in Logic Pro and GarageBand",
+      "cat": "Apple / AI tools",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/19/apple-samplab-acquisition/",
+      "image_local": "images/story-1215.jpg",
+      "image_remote": "https://images.macrumors.com/t/-KdiDumrxPvy-zZFG9WATawjeGI=/1600x/article-new/2026/10/samplab.jpg",
+      "id": "020e35fa92251894bac064749661f026de1873f8",
+      "summary": "Apple acquired assets of the AI audio-editing company Samplab in June, according to a European Commission notice published Monday, MacRumors reports. Samplab made a desktop app and plug-ins that convert audio to MIDI, detect and edit chords, split a song into separate stems and edit individual notes inside polyphonic audio without changing the original tone. The filing says Apple took “certain assets” and hired “certain Samplab employees”; because Apple is a designated “gatekeeper” under the EU’s Digital Markets Act, it has to report deals involving core platform services, digital services or data collection. Samplab shut down on Sept. 17, and its website now redirects to Apple.com. Logic Pro already offers Stem Splitter and Chord ID, so the new piece would be editing single notes within chords and full mixes. Apple has not said how it will use the technology."
+    },
+    {
+      "n": 6,
+      "headline": "Microsoft pulls out of funding a supercomputer at what was to be Britain’s biggest AI data center after the site was told it won’t get grid power until the 2030s",
+      "cat": "Tech / AI infrastructure",
+      "source": "Daily Caller",
+      "url": "https://dailycaller.com/2026/10/19/microsoft-ai-data-center-nscale-england-uk",
+      "image_local": "images/story-1216.jpg",
+      "image_remote": "https://images.dailycaller.com/image/width=1280,height=549,fit=cover,format=webp,f=auto/https://cdn01.dailycaller.com/wp-content/uploads/2026/10/GettyImages-2297745231(1).jpg",
+      "id": "8c2cf150e5e96e173d07bfe3da36f1be2dd06f83",
+      "summary": "Microsoft has dropped its plan to fund a supercomputer at Nscale’s roughly $2.7 billion AI data center in Loughton, England, which was billed as the largest in the U.K., the Daily Caller reports, citing the BBC. The Telegraph reported that Nscale was told the site will not be connected to the power grid until the 2030s. The machine was supposed to hold more than 23,000 Nvidia chips arriving in early 2027, and Microsoft announced it in September 2025 as part of a $30 billion AI investment in Britain, with Brad Smith crediting the government’s work to “grow electricity capacity.” Microsoft says it remains committed to its partnership with Nscale and that “this decision relates to a single site.” Nscale, which is backed by Nvidia, says it is exploring alternative power sources for Loughton and that its other projects with Microsoft in the U.S., Norway and Portugal are unaffected. The pullback is the latest sign that electricity, not chips, is the bottleneck for AI build-outs; in the U.S., projects seeking to connect to the PJM grid now take more than eight years on average to come online, according to the Rocky Mountain Institute."
+    },
+    {
+      "n": 7,
+      "headline": "The Pretty Reckless bring in Foo Fighters’ Dave Grohl and Pat Smear for a new bonus version and video of “About You”",
+      "cat": "Music / rock",
+      "source": "Louder",
+      "url": "https://www.loudersound.com/music/tracks-singles/theres-nothing-better-than-jamming-with-friends-the-pretty-reckless-launch-video-for-new-version-of-about-you-with-foo-fighters-dave-grohl-and-pat-smear",
+      "image_local": "images/story-1217.jpg",
+      "image_remote": "https://cdn.mos.cms.futurecdn.net/A69sEqA4LLC78D5WxYGRtT-1280-80.jpg",
+      "id": "7cf30f52bcfd2c1e3092f70850db6228510592b9",
+      "summary": "The Pretty Reckless have released a video for “About You (Bonus Version),” a reworked take on a song from this year’s Dear God album featuring Foo Fighters frontman Dave Grohl and guitarist Pat Smear, Louder reports. “About You is one of my favourite songs on the record, so I wanted to do something special,” singer Taylor Momsen said. “I called Dave and Pat and asked them if they’d lend their magic to it… there’s nothing better than jamming with friends.” It caps a busy stretch for the band, which opened for AC/DC on the North American leg of the Power Up tour, while Momsen sang with Soundgarden at halftime of the Seahawks–Patriots game last month and played Tom Morello’s Power to the People Festival in Maryland earlier in October. The European leg of the Dear God tour starts Nov. 9 in Madrid and runs through Barcelona, Milan, Prague, Berlin, Cologne, Amsterdam and Paris before UK dates in Bristol, Wolverhampton, Manchester, London’s O2 Academy Brixton and Glasgow’s Barrowland on Dec. 3."
+    },
+    {
+      "n": 8,
+      "headline": "Thieves grab nearly $1 million in graded sports and Pokémon cards off a FedEx truck outside card grader PSA’s California headquarters",
+      "cat": "Crime / collectibles",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/news/us-news/sports-pokemon-cards-stolen-fedex-truck-california-rcna604482",
+      "image_local": "",
+      "image_remote": "",
+      "id": "649f41ae7ce2832a6a41e48ed33a91bc703ffaf5",
+      "summary": "Thieves stole an estimated $963,000 worth of sports, Pokémon and other trading cards from a FedEx truck at Professional Sports Authenticator’s headquarters in Santa Ana, California, last Tuesday, police said Monday, NBC News reports. Two pallets of cards were taken and a third was “disrupted,” according to Santa Ana police spokesperson Natalie Garcia, who said the total could still rise. Collector Nick Andrews, the “Boston Card Hunter,” has been compiling a list of claimed losses that reached 383 cards Monday evening, including a 1995 Upper Deck 23K Gold Michael Jordan card, and says one victim lost $500,000 worth; he believes it could be one of the biggest heists in trading-card history. A Michigan trader known as Sky-B said 104 cards he had built up over two years were on their way back to him after grading, insured for $156,000, below their market value. “I will never see [them] again,” he said. PSA says it will refund grading fees and pay fair market value, and it has deactivated the stolen cards’ certificates and alerted marketplaces. FedEx says it is working with police."
+    },
+    {
+      "n": 9,
       "headline": "Police say the deadly shooting near a Columbus, Ohio, mosque was not an attack on the mosque but happened in a neighboring apartment-complex parking lot",
       "cat": "Crime / Ohio",
       "source": "CBS News",
@@ -13,7 +101,7 @@
       "summary": "One person was killed and another was hurt in a shooting near a mosque on Columbus, Ohio’s Northeast Side on Monday afternoon, but police say the shooting had nothing to do with the mosque or the people inside it, CBS News reports. Officers got several calls of shots fired just after 2 p.m. in the 2200 block of Albert Avenue. The ATF first posted on social media that its agents were responding to a shooting at the mosque, and a spokesperson said people were leaving a funeral there at the time. At a news conference near the scene, though, Columbus police Sgt. James Fuqua said, “We want to make it clear this was not an attack on the mosque.” According to the department, the shooting happened in the parking lot of an apartment complex next to the mosque, and it was not a targeted attack and did not take place at the mosque. Police are still in the early stages of the investigation and have not said who fired or why. CAIR’s Ohio chapter thanked law enforcement for responding quickly and for confirming there was no threat to the community."
     },
     {
-      "n": 2,
+      "n": 10,
       "headline": "The Trump administration orders federal civilian agencies to rip out China’s DeepSeek AI and any third-party services that run on its models",
       "cat": "AI / national security",
       "source": "Gizmodo",
@@ -24,7 +112,7 @@
       "summary": "The Department of Homeland Security has banned DeepSeek’s technology across most of the federal government, Gizmodo reports. A notice posted Monday orders civilian agencies such as the State Department to remove all products from the Chinese AI lab, along with any third-party services built on DeepSeek models. “DeepSeek’s account generation process collects personally identifiable information (PII) and may also track and digitally fingerprint users,” Homeland Security Secretary Markwayne Mullin wrote in a July note that was released only Monday. He also warned that the models themselves can contain malware, and the administration fears the data could end up with the Chinese government. The Navy and the Commerce Department had already told personnel not to use DeepSeek after its low-cost R1 model shook the U.S. AI industry early last year. Last month the NSA, CISA and the FBI also named DeepSeek in a joint letter accusing Chinese AI firms of “industrial-scale” distillation, meaning training their models on the outputs of American ones, and Treasury Secretary Scott Bessent has threatened sanctions over what he calls “IP theft.”"
     },
     {
-      "n": 3,
+      "n": 11,
       "headline": "Haitian gangs blow up and burn an armored vehicle carrying Salvadoran troops, leaving four soldiers missing in the biggest attack yet on the foreign force",
       "cat": "World / Haiti",
       "source": "PBS NewsHour (AP)",
@@ -35,7 +123,7 @@
       "summary": "Gangs in Haiti attacked an armored vehicle with explosives and set it on fire on Sunday, and four soldiers from El Salvador are now unaccounted for, the Associated Press reports. It is the first major attack since the international gang suppression force began operating in the country. El Salvador’s military said the four aviation technicians were heading back to camp in Croix-des-Bouquets, a gang-controlled community in Port-au-Prince, and escaped the burning vehicle. Helicopters sent to the area also came under fire, and “multiple attempts to approach by land and air” have been hampered by the intensity of the fighting. At the U.N. Security Council, U.S. Ambassador Mike Waltz said the gangs hit the vehicle with “hundreds of bullets and explosives” and that the four men are believed to have survived. “To the gangs and gang leaders who carried out this cowardly attack, if you think you’re going to intimidate this coalition into retreat, you have made a terrible mistake,” he said. The area is held by gangs including Kraze Barye and 400 Mawozo, whose leaders are under U.N. and U.S. sanctions. Gang violence has displaced a record 1.5 million Haitians, and more than 5,700 people were killed or injured between January and mid-September."
     },
     {
-      "n": 4,
+      "n": 12,
       "headline": "Japan launches its $350 million MMX probe to drop a bouncing rover on Mars’ moon Phobos and bring soil samples back to Earth by 2031",
       "cat": "Science / space",
       "source": "CBS News (AP)",
@@ -46,7 +134,7 @@
       "summary": "Japan launched a $350 million mission to Mars’ two small moons on Monday, CBS News reports. An H3 rocket lifted off from JAXA’s Tanegashima Space Center at 3:41 p.m. EDT, and the 9,900-pound Martian Moons Exploration (MMX) probe separated from the upper stage 71 minutes later. The main scientific question is whether Phobos and Deimos are debris from a giant impact on Mars early in the solar system’s history or captured asteroids. Phobos is only 17 miles across at its widest. If all goes well, MMX will reach Mars orbit in September 2027 and circle the planet in step with Phobos for three years. In early 2029 it will drop a 55-pound rover built by the German and French space agencies, which has no braking rockets and is expected to bounce to a stop in the moon’s weak gravity, about one-thousandth of Earth’s. Around 2030 the mothership itself will touch down to scoop up soil, and the samples are due back on Earth in 2031. Two NASA instruments are on board."
     },
     {
-      "n": 5,
+      "n": 13,
       "headline": "The Supreme Court agrees to hear a challenge to a Maryland magnet-school admissions policy said to shut out Asian American kids, plus a case on the federal ban on home distilling",
       "cat": "Courts / education",
       "source": "The Federalist",
@@ -57,7 +145,7 @@
       "summary": "The Supreme Court on Monday added two closely watched cases to its docket, The Federalist reports. The first, Association for Education Fairness v. Montgomery County Board of Education, challenges admissions to competitive middle-school magnet programs in Montgomery County, Maryland. The Pacific Legal Foundation, which represents the parents, says the district hired a consultant to fix a “perceived racial imbalance” and then adopted new “equitable” criteria that “effectively den[ied] admission to the highest-scoring Asian American children.” The justices asked the parties to address whether plaintiffs challenging a race-neutral admissions policy must show the targeted group suffered an overall disparate impact relative to its share of the applicant pool. The case follows the court’s 2023 Students for Fair Admissions ruling, which struck down affirmative action in college admissions. The second case, Department of Justice v. McNutt, asks whether a Reconstruction-era federal ban on distilling spirits at home is a valid use of Congress’s power to tax. Neither case has been scheduled for argument yet."
     },
     {
-      "n": 6,
+      "n": 14,
       "headline": "The Jets’ press-conference feed cuts to black just as Aaron Glenn is asked about his viral “we get the ball” halftime gaffe in New England",
       "cat": "NFL / Jets",
       "source": "Awful Announcing",
@@ -68,7 +156,7 @@
       "summary": "Jets coach Aaron Glenn went viral after Sunday’s 26-19 loss at New England for telling CBS sideline reporter Aditi Kinkhabwala at halftime, “The good thing is, we get the ball… We get a chance to go move it and finish,” when the Patriots actually received the second-half kickoff, Awful Announcing reports. At Monday’s press conference, ESPN’s Rich Cimini asked Glenn to clarify what he meant, and in what the site called “complete New York Jets fashion,” the live feed went black right as the question was asked. When the feed came back, Glenn was finishing his answer. He explained that he and Kinkhabwala had been talking about the offense’s first-half struggles, so “get the ball” meant whenever the Jets next had possession. To his credit, the Jets shut out New England in the third quarter and scored 10 points to pull within four before falling short. The 2-4 Jets face the Dolphins on Sunday."
     },
     {
-      "n": 7,
+      "n": 15,
       "headline": "Tony Iommi says his first solo album in 21 years, “From The Dark,” out Friday, came together with “no pressure” in his home studio with singer Jorn Lande",
       "cat": "Music / heavy metal",
       "source": "Blabbermouth",
@@ -79,7 +167,7 @@
       "summary": "Black Sabbath guitarist Tony Iommi told Philadelphia rock station 93.3 WMMR that making his new solo album, From The Dark, was “all very casual,” Blabbermouth reports. The record is out Friday, Oct. 23, on BMG. “It’s been 21 years,” Iommi said with a laugh. With a Sabbath album, he explained, there is always a set time to write, record and then tour, “In this case, there’s no pressure. I’ve been able to do it when I want. I’ve got my own studio here.” Norwegian singer Jorn Lande, who shares writing credits on every song, wrote all the lyrics and came up with a title that fit “the mood of it,” and bassist Becky Baldwin and drummer Karl Brazil round out the band. Iommi said he first worked with Lande at the London tribute concert for Ronnie James Dio, where Lande sang a few Sabbath songs alongside Glenn Hughes. “I like Jorn’s voice. He’s a nice guy as well… It sort of goes with what I play,” he said. The album was co-produced with his longtime partner Mike Exeter."
     },
     {
-      "n": 8,
+      "n": 16,
       "headline": "A Minneapolis restaurant that took the prices off its menu and promised to feed anyone, paying or not, is closing after drugs, theft and overdoses drove neighbors away",
       "cat": "Culture / Minneapolis",
       "source": "Not the Bee",
@@ -90,7 +178,7 @@
       "summary": "A Minneapolis restaurant that tried to run on pay-what-you-can is closing, Not the Bee reports, citing the Star Tribune. When immigration enforcement ramped up in the city earlier this year, owner Dylan Alverson rebranded the place as “Post Modern Times,” took the prices off the menu, and said he would feed anyone who came in whether they could pay or not. The stunt made national news, and donations poured in from around the world. Over six months, though, neighbors found themselves crowded out by people who couldn’t pay and stayed all day, and complaints piled up about open drug use, theft, needles discarded in the alley and overdoses on the sidewalk. After a series of contentious community meetings, Alverson closed the restaurant for a few weeks in July and reopened in August with prices back on the menu. The restaurant had been struggling financially for years and will now shut for good. Not the Bee’s verdict: “It ends in bankruptcy every time!”"
     },
     {
-      "n": 9,
+      "n": 17,
       "headline": "Federal agents arrest more than two dozen green-card holders across California in “Operation Protect the Vote,” charging them with illegally registering and voting",
       "cat": "Elections / immigration",
       "source": "PBS NewsHour (AP)",
@@ -101,7 +189,7 @@
       "summary": "Federal authorities arrested more than two dozen foreign nationals in California on Monday who they say illegally registered and voted in U.S. elections, the Associated Press reports. The Justice Department said everyone swept up in the statewide operation, dubbed Operation Protect the Vote, is a lawful permanent resident but not a citizen, and the charges include making false statements on naturalization applications and submitting fraudulent voter registrations. The arrests escalate a fight between the administration and California ahead of the Nov. 3 midterms: last week the department sued to stop the state from counting mail ballots from 20,000 people it identified as likely noncitizens until their status can be confirmed, after state officials missed a 48-hour deadline to review the list, and on Friday it warned local election workers that knowingly processing such ballots could bring investigation and prosecution. “Noncitizen voting in a federal election is a federal crime — and knowingly facilitating such conduct is equally unlawful,” acting Deputy Attorney General Trent McCotter wrote. Before Monday, the department had charged about 90 people with election misconduct this year, including 50 accused of voting as noncitizens; California’s secretary of state says the administration has offered no evidence for its 20,000-name list."
     },
     {
-      "n": 10,
+      "n": 18,
       "headline": "Prosecutors say the ex-OpenAI engineer accused of bugging an executive conference room was in close contact with a Saudi royal and preparing to leave for Riyadh",
       "cat": "National security / AI",
       "source": "CBS News",
@@ -110,94 +198,6 @@
       "image_remote": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/19/2bc483f3-4e81-48d0-9d84-1817175a377e/thumbnail/1200x630g6/5f41b8455fa82f1202f3c83ffdf8876a/image003-8.png",
       "id": "5f965c5862cf25993ede13cedfb077c9027022a4",
       "summary": "A former OpenAI engineer accused of hiding a listening device in an executive conference room was in frequent WhatsApp contact with a member of the Saudi royal family and was planning to leave the U.S. for Riyadh when he was arrested, federal prosecutors said in a court filing Sunday, CBS News reports. Prosecutors allege that Saudi national Abdulrahman Alfozan, who earned $385,000 a year at OpenAI and got a $2.2 million equity grant when he joined in July 2025, used AI tools to help build encrypted recording devices and to identify rooms where executives met with government officials and business partners. On Sept. 28, they say, he plugged a modified recorder into a USB port on the back of a TV in an executive conference room, where it stayed for days, and OpenAI executives met with government officials in that room around that time. His phone held photos of at least one other hidden recorder and of equipment in other meeting rooms. The Saudi royal repeatedly urged him to come home and join a new Saudi AI initiative (“Saudi needs you more than [sic] the US!”), and his wife and infant son flew to Saudi Arabia this month on business-class tickets bought by a Saudi military official, prosecutors allege."
-    },
-    {
-      "n": 11,
-      "headline": "Kenyan preacher Paul Mackenzie and 29 others are found guilty of murdering 190 children and one adult in the Shakahola starvation cult",
-      "cat": "World / Africa",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/kenya-starvation-cult-leader-paul-mackenzie-guilty/",
-      "image_local": "images/story-1199.jpg",
-      "image_remote": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/19/83f97352-fafc-4969-930e-a4fb49bc9f77/thumbnail/1200x630g2/401bfd99e5522714f73e0d12819a89ff/gettyimages-2300418982.jpg",
-      "id": "960e417aab7d99a7cc40901463ac7f33797f4792",
-      "summary": "A court in Mombasa, Kenya, on Monday found self-proclaimed preacher Paul Mackenzie and his associates guilty of murdering 191 people, all but one of them children, in the starvation cult that became known as the Shakahola Forest Massacre, CBS News reports. “I am satisfied that the prosecution has proved the case against all the 29 accused persons for the murder of 190 children and one adult,” the judge said. Mackenzie is accused of urging his followers to starve themselves to death in order to “meet Jesus”; hundreds of bodies have been found since 2023 at the cult’s base inland from the beach resort of Malindi, and the total has since passed 400. He pleaded not guilty to the murder counts in 2024 and also denies manslaughter and terrorism charges in separate cases. Kenya’s chief prosecutor, Renson Ingonga, called the verdict “momentous.” Relatives of victims travelled from rural coastal communities for the ruling, including Francis Wanje, 62, who lost eight family members, among them his daughter and two grandchildren."
-    },
-    {
-      "n": 12,
-      "headline": "Apple sets a second October event, “Pro and tell,” for Oct. 28 in Los Angeles, where the first touchscreen OLED MacBook Pro is expected",
-      "cat": "Apple / Mac",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/10/19/apple-announces-special-event-for-october-28/",
-      "image_local": "images/story-1200.jpg",
-      "image_remote": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/pro-and-tell.jpg?quality=82&strip=all&resize=1200,628",
-      "id": "d54f704de445f993cc9faec0ec791e1490f204e6",
-      "summary": "Apple on Monday announced another product event for next Wednesday, Oct. 28, at 10 a.m. Pacific in Los Angeles, under the tagline “Pro and tell,” 9to5Mac reports. It is the company’s second event this month, after the Oct. 13 “Welcome home” launch in New York that introduced the HomeView smart display, the HomePod mini 2 and a new Apple TV 4K. Marketing chief Greg Joswiak posted the invite artwork, a glowing outlined Apple logo, on social media. According to Bloomberg’s Mark Gurman, the headliner is expected to be Apple’s first MacBook Pro with a touchscreen and an OLED display, and AppleInsider says the name all but confirms MacBook Pro changes. It adds that an OLED iPad mini, likely with an A20 chip, is also expected, and that a planned Nov. 6 store refresh hints at when new products could go on sale."
-    },
-    {
-      "n": 13,
-      "headline": "Eagles quarterback Jalen Hurts is expected to miss the rest of the season after a blood clot from his leg traveled to his lungs",
-      "cat": "NFL",
-      "source": "PBS NewsHour (AP)",
-      "url": "https://www.pbs.org/newshour/nation/ap-source-eagles-qb-jalen-hurts-expected-to-miss-rest-of-season-after-blood-clots-found-in-lungs-and-leg",
-      "image_local": "images/story-1201.jpg",
-      "image_remote": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/AP26284594629980-1024x683.jpg",
-      "id": "0e0b5b208fa4f6a19c4ec46737aacaddb24120a2",
-      "summary": "Philadelphia Eagles quarterback Jalen Hurts is expected to miss the rest of the season because of blood clots in his lungs, a person familiar with the situation told the Associated Press on Monday. The team and Hurts’ agent said he has deep vein thrombosis and bilateral pulmonary emboli, meaning a clot traveled from his legs to his lungs; he is on blood thinners and can’t do any football activities until he’s off them, though he is “clinically stable and has no significant functional limitations.” The Eagles say Hurts took a cleat to the calf on Oct. 4 against the Rams, told the medical staff after practice on Oct. 8, and was first diagnosed by specialists in London with a superficial vein clot before the Jacksonville game. He went on injured reserve Saturday and missed Sunday’s 25-14 loss to Carolina, in which backup quarterback McKee threw for 215 yards; the 2-4 Eagles have now lost four straight for the first time since 2020. Hurts, the Super Bowl 59 MVP, had eight touchdown passes, three interceptions and 933 yards this season."
-    },
-    {
-      "n": 14,
-      "headline": "A Washington state prosecutor drops a murder hold on a Prosser man after concluding he likely fired in self-defense at his half-brother",
-      "cat": "Crime / self-defense",
-      "source": "Daily Caller",
-      "url": "https://dailycaller.com/2026/10/19/blue-state-prosecutor-admits-man-arrested-for-murder-actually-acted-in-self-defense/",
-      "image_local": "",
-      "image_remote": "",
-      "id": "f842338e1a4dcb8862b67f98d8b7b40a08acbec3",
-      "summary": "The Benton County, Washington, prosecutor’s office says a Prosser man jailed after a fatal Oct. 12 confrontation with his half-brother likely acted in self-defense and will not be held any longer, the Daily Caller reports, citing Yakima-area station NBCRightNow. Jose Cruz Escobar first told deputies that his half-brother, Alejandro Salazar, had been hit in a drive-by shooting, a story the sheriff’s investigation later disproved, and he was booked on a felony investigation hold. Investigators then found that Salazar threw a rock that damaged the optical sight on Escobar’s gun, and that during a confrontation outside, Escobar fired several warning shots into the ground before firing the shot that killed Salazar. “Following additional investigation and meetings between the investigators and assigned prosecutors, the Benton County Prosecutor’s Office has determined that there is insufficient evidence to continue to detain Jose Cruz Escobar,” the office said in a Facebook post, adding that the evidence indicates he “likely acted in self-defense.”"
-    },
-    {
-      "n": 15,
-      "headline": "Richard Riehle, who played “people skills” product manager Tom Smykowski in Office Space, has died at 78",
-      "cat": "Movies / obituary",
-      "source": "Consequence",
-      "url": "https://consequence.net/2026/10/richard-riehle-office-spaces-tom-smykowski-dead-at-78/",
-      "image_local": "images/story-1202.jpg",
-      "image_remote": "https://consequence.net/wp-content/uploads/2026/10/Richard-Riehle-in-Office-Space.jpeg",
-      "id": "7f699f74c1743c3e04d86cdb4e948d6b1c794f30",
-      "summary": "Character actor Richard Riehle, best known as Tom Smykowski in Mike Judge’s 1999 workplace comedy Office Space, has died at 78, Consequence reports. According to TMZ, he died Oct. 15 of natural causes. In Office Space, Riehle played the Initech product manager whose job is deemed redundant despite his insistence that he has “people skills.” Over a long career his film credits also included The Fugitive, Jury Duty, The Man from Earth and Deuce Bigalow: Male Gigolo, and on television he turned up in Buffy the Vampire Slayer, The West Wing, Grounded for Life, The Legend of Korra and Barry."
-    },
-    {
-      "n": 16,
-      "headline": "Peter Jackson buys a rare, nearly complete moa egg at a Colorado auction and sends it home to New Zealand",
-      "cat": "Science / history",
-      "source": "Gizmodo",
-      "url": "https://gizmodo.com/peter-jackson-just-got-an-ultra-rare-extinct-moa-egg-back-to-new-zealand-2000827741",
-      "image_local": "images/story-1203.jpg",
-      "image_remote": "https://gizmodo.com/app/uploads/2026/10/colossal-peter-jackson-moa-egg-1200x675.jpg",
-      "id": "7cb9ffc334dc8b145178dd2215df1049363ae959",
-      "summary": "Lord of the Rings director Peter Jackson, working with de-extinction startup Colossal Biosciences, has acquired an extremely rare, nearly complete egg of the extinct moa, New Zealand’s giant flightless bird, after it surfaced at a public auction in Colorado in June, Gizmodo reports. Only about three dozen moa eggs have ever been found; as many as 2.5 million of the birds once roamed the country before Polynesian settlers arrived around 1300 CE. The 8.75-inch-tall egg, partly reassembled with many fragments still to reattach, was presented Monday to Ngāi Tahu leader and historian Te Maire Tau at an avian palaeontology conference in Christchurch and will be entrusted to the Ngāi Tahu people. “After expert restoration, it will very likely become only the ninth known nearly intact moa egg — probably one of the five best-preserved examples,” Jackson said, adding that the partnership would also “advance research into the Moa.”"
-    },
-    {
-      "n": 17,
-      "headline": "Obama says the Trump administration is “selectively targeting” Ilhan Omar, and conservatives fire back with the IRS Tea Party scandal and Crossfire Hurricane",
-      "cat": "Politics / media",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/politics/obamas-lengthy-reaction-omar-investigation-triggers-instant-backlash-spare-me",
-      "image_local": "images/story-1190.jpg",
-      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/Obama-Omar.jpg",
-      "id": "14cf6b6bfca11a6fe60be2292fdf8aa3a42d2f79",
-      "summary": "Former President Barack Obama posted a long defense of Rep. Ilhan Omar on Sunday as she faces two federal investigations, one into her immigration history and one into her finances, following a raid on her home. “It is a basic principle of American democracy that the government can’t selectively target individuals simply because of their political beliefs or what they say,” Obama wrote. “But that’s exactly what the Trump Administration is doing to Congresswoman Ilhan Omar of Minnesota.” He called the situation “appalling” and said “the full weight of the federal government is being brought down on a law-abiding elected official because she has dared to criticize the president.” The post drew more than 5 million views and an immediate backlash from conservatives, Fox News Digital reports, many of whom pointed to the IRS targeting of Tea Party groups under his administration and the Crossfire Hurricane investigation of Donald Trump’s 2016 campaign. “This petty tyrant lecturing us about ‘American democracy’ is like being lectured by a screaming five-year-old about self-control,” former FBI Deputy Director Dan Bongino wrote on X."
-    },
-    {
-      "n": 18,
-      "headline": "The Supreme Court turns away 9/11 mastermind Khalid Sheikh Mohammed’s bid to revive the plea deal that would have spared him the death penalty",
-      "cat": "Courts / terrorism",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/supreme-court-khalid-sheikh-mohammed-911-appeal/",
-      "image_local": "images/story-1191.jpg",
-      "image_remote": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/08/07/f7dedf97-d7ce-4af5-9109-898deaf10ccc/thumbnail/1200x630g2/f3f6c7ace52763304d55aca79bd32cee/gettyimages-1247831819.jpg",
-      "id": "1e9315c65b61b6c6bb4ef762bbdc9b62ce2afa59",
-      "summary": "The Supreme Court on Monday rejected a bid by accused Sept. 11 mastermind Khalid Sheikh Mohammed and two alleged accomplices, Mustafa al Hawsawi and Walid bin ’Atash, to revive plea agreements they reached with military prosecutors in 2024. In an unsigned order, the justices left in place a D.C. Circuit ruling that then-Defense Secretary Lloyd Austin “indisputably” had the authority to withdraw the deals, under which the three would have pleaded guilty and served life sentences instead of facing the death penalty. Justice Brett Kavanaugh did not take part. The men were captured in 2003, held at secret CIA prisons where they were subjected to “enhanced interrogation techniques,” moved to Guantanamo Bay in 2006 and formally charged in 2008. Their military commission case has been stuck for years in fights over whether evidence from those interrogations can be used. A military judge ruled in 2024 that Austin’s move was unlawful, and a military appeals court agreed, before the D.C. Circuit sided with the government. In August, the judge overseeing the case set a trial date of June 2028, contingent on the parties meeting their deadlines."
     },
     {
       "n": 19,

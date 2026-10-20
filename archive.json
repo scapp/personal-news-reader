@@ -1341,7 +1341,15 @@
     "c2f9420d4f01d318dde70307c7d45b52b4c9e40d",
     "a1030d13957bad9cd684cfd9240e45106af855c8",
     "85dff58db79afff008b037bb33a9dc848e92edfe",
-    "0595953ff156fe25f298c2bd7383fc3780490755"
+    "0595953ff156fe25f298c2bd7383fc3780490755",
+    "a1cee8d34f4207b965e09c5953b41ceb303066bd",
+    "2de6a0b8e75c1f7983b775a384815db258034404",
+    "99644e00eb5f2e8d6368eeacfb5668537db8a89c",
+    "ef289f19eb877911f4cd32592d56295b94e6edc1",
+    "020e35fa92251894bac064749661f026de1873f8",
+    "8c2cf150e5e96e173d07bfe3da36f1be2dd06f83",
+    "7cf30f52bcfd2c1e3092f70850db6228510592b9",
+    "649f41ae7ce2832a6a41e48ed33a91bc703ffaf5"
   ],
   "stories": {
     "0c2ac7a5e342411678296315c4c59043b1f067cc": {
@@ -16119,7 +16127,87 @@
       "image_remote": "https://media.notthebee.com/articles/6ad67c25cb30e6ad67c25cb30f.jpg",
       "image_local": "images/story-1210.jpg",
       "id": "0595953ff156fe25f298c2bd7383fc3780490755"
+    },
+    "a1cee8d34f4207b965e09c5953b41ceb303066bd": {
+      "headline": "A Kansas man is charged with threatening to shoot Trump after allegedly posting that he had “already mapped out roofs” around the president’s Wichita rally site",
+      "cat": "Crime / Trump security",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/us/kansas-man-mapped-rooftops-near-trump-speech-site-threatened-shoot-president-doj",
+      "summary": "A 24-year-old Clearwater, Kansas, man was arrested and charged Saturday with making threats against President Trump, two days before Monday’s rally near Wichita, Fox News reports, citing the U.S. Attorney’s Office for the District of Kansas. The investigation began Oct. 15, when a Crime Stoppers tip flagged comments under a KAKE News Facebook post about the president’s trip. “Let’s shoot Trump honestly, where’s our shooter?” Jaden J. Read allegedly wrote, following up with a claim that he had ammunition. Under a separate KWCH 12 News post, prosecutors say he wrote, “Can we shoot him in Kansas please I will myself,” and a minute later claimed to know where Trump would speak: “IK where your speech will be. Already mapped out roofs around.” Read is in federal custody pending a detention hearing. “Political violence and threats of political violence will not be tolerated,” U.S. Attorney Ryan A. Kriegshauser said, adding that the First Amendment “allows for robust disagreement but there are constraints.” Trump went ahead with Monday’s rally for Sen. Roger Marshall.",
+      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/trump-points-at-rally.png",
+      "image_local": "images/story-1211.jpg",
+      "id": "a1cee8d34f4207b965e09c5953b41ceb303066bd"
+    },
+    "2de6a0b8e75c1f7983b775a384815db258034404": {
+      "headline": "Italy’s Meloni government moves to send 500 soldiers into Milan after a weekend of French-style youth riots, looting near the Duomo and 200-plus injured police",
+      "cat": "World / Europe unrest",
+      "source": "Breitbart",
+      "url": "https://www.breitbart.com/europe/2026/10/19/meloni-government-to-deploy-500-soldiers-to-support-milan-police-against-french-style-youth-rioters/",
+      "summary": "Italian Defense Minister Guido Crosetto signed off Monday on deploying 500 soldiers to Milan to back up police after two days of rioting spread from France, Breitbart reports, citing Corriere della Sera. The Council of Ministers still has to approve the decree on Tuesday; Deputy Prime Minister Matteo Salvini called it a “victory” for his League party: “From words to deeds!” Central Milan saw what locals described as “guerrilla war” on Saturday and Sunday as youths, many from migrant communities in the suburbs, clashed with police and looted luxury shops near the Duomo during what were billed as cost-of-living protests. More than 200 officers were hurt, and police say over 270 people, including 220 minors, were detained; 11 face possible sentences of up to 15 years. Chanel, Hermès, Gucci, Prada, Versace and other shops closed early Monday. Speaking outside the White House, President Trump said Italy faces the same problem as France because of immigration: “they came in by the millions, and honestly they are different countries than they were 10 years ago.”",
+      "image_remote": "https://media.breitbart.com/media/2026/10/GettyImages-2300110414-2-640x335.jpg",
+      "image_local": "images/story-1212.jpg",
+      "id": "2de6a0b8e75c1f7983b775a384815db258034404"
+    },
+    "99644e00eb5f2e8d6368eeacfb5668537db8a89c": {
+      "headline": "CNN quietly scrubs gushing praise of Qatar from the agenda for its for-profit Doha forum starring Wolf Blitzer and Christiane Amanpour",
+      "cat": "Media",
+      "source": "Washington Free Beacon",
+      "url": "https://freebeacon.com/media/cnn-is-caught-quietly-deleting-sycophantic-language-about-hamas-loving-qatar-ahead-of-networks-for-profit-global-forum-with-wolf-blitzer-christiane-amanpour/",
+      "summary": "CNN was caught this weekend revising the online agenda for “Global Perspectives in Doha,” a commercial live-event series set to open Oct. 29 at the Rosewood Doha, the Washington Free Beacon reports. Open-source researcher Eitan Fischberger posted screenshots on X showing that one session, “The Gulf: What Comes Next,” originally said “Qatar has built something rare — a small country with an outsized role in how the world works” and praised the country’s “achievements in diplomacy, energy, culture, and sport.” Another, “State of Influence,” asked how Qatar could position itself “at the center of global affairs.” Those lines have disappeared from the live page, though traces remain in Bing’s search index, and one panel was renamed “Power in the Middle,” apparently a half-finished edit. The event features Blitzer, Amanpour, CNN chief executive Mark Thompson and Richard Quest, and CNN has not said how it makes money from it. The Free Beacon notes Qatar’s record of buying influence and hosting Hamas leaders. Amanpour announced Monday she will leave CNN in June.",
+      "image_remote": "https://freebeacon.com/wp-content/uploads/2026/10/Screenshot-2026-10-19-174220.png",
+      "image_local": "images/story-1213.jpg",
+      "id": "99644e00eb5f2e8d6368eeacfb5668537db8a89c"
+    },
+    "ef289f19eb877911f4cd32592d56295b94e6edc1": {
+      "headline": "Mississippi’s attorney general rules a Senatobia officer was justified in firing into a car during a Walmart shoplifting call, a shot that killed 1-year-old Kohen Wiley",
+      "cat": "Courts / policing",
+      "source": "PBS NewsHour (AP)",
+      "url": "https://www.pbs.org/newshour/nation/mississippi-attorney-general-says-officers-force-was-justified-in-death-of-1-year-old-kohen-wiley",
+      "summary": "Mississippi’s attorney general has concluded that a Senatobia police officer was justified in using force in June when he fired at a moving vehicle that investigators said was driving toward officers, killing 1-year-old Kohen Wiley, the Associated Press reports. Officers had responded to a shoplifting call at a Walmart about 40 miles south of Memphis, where they believed Kohen’s mother and a friend had taken diapers and baby clothes; neither woman has been charged with any crime, and the mother denies stealing anything. The shot also badly wounded the friend, who was driving. The officer’s lawyer, Martin Zummach, says the driver “tried to kill” his client. Civil rights attorney Ben Crump, who represents the family, says an independent autopsy shows Kohen was shot from the side, not the front, and is demanding the body-camera video: “If the footage supports the state’s decision, release it.” Two use-of-force experts told the AP that photos of the car suggest the officer fired from the side, and one said that “you don’t shoot vehicles.”",
+      "image_remote": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/AP26292692866767-1024x683.jpg",
+      "image_local": "images/story-1214.jpg",
+      "id": "ef289f19eb877911f4cd32592d56295b94e6edc1"
+    },
+    "020e35fa92251894bac064749661f026de1873f8": {
+      "headline": "Apple quietly bought AI music-editing startup Samplab, whose stem-splitting and polyphonic note-editing tools could land in Logic Pro and GarageBand",
+      "cat": "Apple / AI tools",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/19/apple-samplab-acquisition/",
+      "summary": "Apple acquired assets of the AI audio-editing company Samplab in June, according to a European Commission notice published Monday, MacRumors reports. Samplab made a desktop app and plug-ins that convert audio to MIDI, detect and edit chords, split a song into separate stems and edit individual notes inside polyphonic audio without changing the original tone. The filing says Apple took “certain assets” and hired “certain Samplab employees”; because Apple is a designated “gatekeeper” under the EU’s Digital Markets Act, it has to report deals involving core platform services, digital services or data collection. Samplab shut down on Sept. 17, and its website now redirects to Apple.com. Logic Pro already offers Stem Splitter and Chord ID, so the new piece would be editing single notes within chords and full mixes. Apple has not said how it will use the technology.",
+      "image_remote": "https://images.macrumors.com/t/-KdiDumrxPvy-zZFG9WATawjeGI=/1600x/article-new/2026/10/samplab.jpg",
+      "image_local": "images/story-1215.jpg",
+      "id": "020e35fa92251894bac064749661f026de1873f8"
+    },
+    "8c2cf150e5e96e173d07bfe3da36f1be2dd06f83": {
+      "headline": "Microsoft pulls out of funding a supercomputer at what was to be Britain’s biggest AI data center after the site was told it won’t get grid power until the 2030s",
+      "cat": "Tech / AI infrastructure",
+      "source": "Daily Caller",
+      "url": "https://dailycaller.com/2026/10/19/microsoft-ai-data-center-nscale-england-uk",
+      "summary": "Microsoft has dropped its plan to fund a supercomputer at Nscale’s roughly $2.7 billion AI data center in Loughton, England, which was billed as the largest in the U.K., the Daily Caller reports, citing the BBC. The Telegraph reported that Nscale was told the site will not be connected to the power grid until the 2030s. The machine was supposed to hold more than 23,000 Nvidia chips arriving in early 2027, and Microsoft announced it in September 2025 as part of a $30 billion AI investment in Britain, with Brad Smith crediting the government’s work to “grow electricity capacity.” Microsoft says it remains committed to its partnership with Nscale and that “this decision relates to a single site.” Nscale, which is backed by Nvidia, says it is exploring alternative power sources for Loughton and that its other projects with Microsoft in the U.S., Norway and Portugal are unaffected. The pullback is the latest sign that electricity, not chips, is the bottleneck for AI build-outs; in the U.S., projects seeking to connect to the PJM grid now take more than eight years on average to come online, according to the Rocky Mountain Institute.",
+      "image_remote": "https://images.dailycaller.com/image/width=1280,height=549,fit=cover,format=webp,f=auto/https://cdn01.dailycaller.com/wp-content/uploads/2026/10/GettyImages-2297745231(1).jpg",
+      "image_local": "images/story-1216.jpg",
+      "id": "8c2cf150e5e96e173d07bfe3da36f1be2dd06f83"
+    },
+    "7cf30f52bcfd2c1e3092f70850db6228510592b9": {
+      "headline": "The Pretty Reckless bring in Foo Fighters’ Dave Grohl and Pat Smear for a new bonus version and video of “About You”",
+      "cat": "Music / rock",
+      "source": "Louder",
+      "url": "https://www.loudersound.com/music/tracks-singles/theres-nothing-better-than-jamming-with-friends-the-pretty-reckless-launch-video-for-new-version-of-about-you-with-foo-fighters-dave-grohl-and-pat-smear",
+      "summary": "The Pretty Reckless have released a video for “About You (Bonus Version),” a reworked take on a song from this year’s Dear God album featuring Foo Fighters frontman Dave Grohl and guitarist Pat Smear, Louder reports. “About You is one of my favourite songs on the record, so I wanted to do something special,” singer Taylor Momsen said. “I called Dave and Pat and asked them if they’d lend their magic to it… there’s nothing better than jamming with friends.” It caps a busy stretch for the band, which opened for AC/DC on the North American leg of the Power Up tour, while Momsen sang with Soundgarden at halftime of the Seahawks–Patriots game last month and played Tom Morello’s Power to the People Festival in Maryland earlier in October. The European leg of the Dear God tour starts Nov. 9 in Madrid and runs through Barcelona, Milan, Prague, Berlin, Cologne, Amsterdam and Paris before UK dates in Bristol, Wolverhampton, Manchester, London’s O2 Academy Brixton and Glasgow’s Barrowland on Dec. 3.",
+      "image_remote": "https://cdn.mos.cms.futurecdn.net/A69sEqA4LLC78D5WxYGRtT-1280-80.jpg",
+      "image_local": "images/story-1217.jpg",
+      "id": "7cf30f52bcfd2c1e3092f70850db6228510592b9"
+    },
+    "649f41ae7ce2832a6a41e48ed33a91bc703ffaf5": {
+      "headline": "Thieves grab nearly $1 million in graded sports and Pokémon cards off a FedEx truck outside card grader PSA’s California headquarters",
+      "cat": "Crime / collectibles",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/news/us-news/sports-pokemon-cards-stolen-fedex-truck-california-rcna604482",
+      "summary": "Thieves stole an estimated $963,000 worth of sports, Pokémon and other trading cards from a FedEx truck at Professional Sports Authenticator’s headquarters in Santa Ana, California, last Tuesday, police said Monday, NBC News reports. Two pallets of cards were taken and a third was “disrupted,” according to Santa Ana police spokesperson Natalie Garcia, who said the total could still rise. Collector Nick Andrews, the “Boston Card Hunter,” has been compiling a list of claimed losses that reached 383 cards Monday evening, including a 1995 Upper Deck 23K Gold Michael Jordan card, and says one victim lost $500,000 worth; he believes it could be one of the biggest heists in trading-card history. A Michigan trader known as Sky-B said 104 cards he had built up over two years were on their way back to him after grading, insured for $156,000, below their market value. “I will never see [them] again,” he said. PSA says it will refund grading fees and pay fair market value, and it has deactivated the stolen cards’ certificates and alerted marketplaces. FedEx says it is working with police.",
+      "image_remote": "",
+      "image_local": "",
+      "id": "649f41ae7ce2832a6a41e48ed33a91bc703ffaf5"
     }
   },
-  "updated": "Monday, October 19, 2026 · 6:09 PM ET"
+  "updated": "Monday, October 19, 2026 · 10:10 PM ET"
 }
