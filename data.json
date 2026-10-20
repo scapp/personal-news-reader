@@ -1,8 +1,96 @@
 {
-  "updated": "Tuesday, October 20, 2026 · 11:47 AM ET",
+  "updated": "Tuesday, October 20, 2026 · 4:04 PM ET",
   "stories": [
     {
       "n": 1,
+      "headline": "House Judiciary report says Fairfax County, Virginia ignored at least 1,670 ICE detainers in two years and released criminal illegal immigrants",
+      "cat": "Immigration / Sanctuary",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/virginia-sanctuary-county-ignores-1670-detainer-requests-2-years-house-judiciary-committee-finds",
+      "image_local": "images/story-1236.jpg",
+      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/Descano-and-Kincaid-in-Congress.jpg",
+      "id": "d79e031ebe0c9007352bd41a6ea6614a5f7ec892",
+      "summary": "The Fairfax County Sheriff’s Office ignored at least 1,670 immigration detainers from ICE between 2023 and 2025, releasing criminal illegal immigrants back into the community instead of transferring them to federal custody, according to an interim staff report from the House Judiciary Committee’s immigration subcommittee obtained by Fox News before its Tuesday release. The report, issued under Chairman Jim Jordan and subcommittee chair Tom McClintock, also accuses Commonwealth’s Attorney Steve Descano of treating illegal-immigrant defendants differently from citizens to limit their immigration consequences. A review of more than 1,100 criminal cases found more than 100 previously unreported illegal immigrants who benefited from his office’s decisions, which the committee says rarely pursued charges for DUI, felony drug possession, grand larceny, fraud and assaulting an officer; most went on to reoffend, some escalating to violent crimes and murder. The report also alleges Descano misled Congress about the scope of his policy, which he told the committee in May was written with legal permanent residents in mind for minor crimes."
+    },
+    {
+      "n": 2,
+      "headline": "Driver accused of killing NHL star Johnny Gaudreau and his brother concedes he was over the limit, but rejects a 28-year plea deal; trial set for January",
+      "cat": "Crime / Courts",
+      "source": "Breitbart",
+      "url": "https://www.breitbart.com/pre-viral/2026/10/20/alleged-drunken-new-jersey-driver-accused-of-killing-hockey-star-johnny-gaudreau-makes-stunning-admission/",
+      "image_local": "images/story-1237.jpg",
+      "image_remote": "https://media.breitbart.com/media/2026/10/Sean-Higgins-640x335.png",
+      "id": "ba02a12527916f2a869fa63470d7ba5bf9bb17ea",
+      "summary": "Lawyers for Sean Higgins, 45, the New Jersey driver accused of killing NHL star Johnny Gaudreau and his brother Matthew in August 2024, conceded Monday that he was over the legal alcohol limit at the time of the crash. The defense had argued his blood-alcohol content was .075 and that investigators botched the test; it now says an untainted sample came back at .08, versus the prosecution’s .087. Higgins, an Army veteran, still turned down the state’s final offer to plead guilty to two counts of aggravated manslaughter and a first DWI in exchange for 28 years in prison. Salem County Judge Michael Silvanio warned that if convicted at trial he faces up to 91.5 years and would not be parole-eligible for 68 years. The brothers, both married fathers, were riding bicycles in Oldmans Township on Aug. 29, 2024, the night before their sister’s wedding. Jury selection begins Dec. 1 and the trial is set for Jan. 4."
+    },
+    {
+      "n": 3,
+      "headline": "Perplexity’s Computer agent can now run entirely on your own Mac, offline and private, if you have an Apple Silicon machine with 36GB of RAM",
+      "cat": "AI tools / Mac",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2291754/perplexity-makes-it-easier-to-run-ai-workflows-entirely-on-your-mac/",
+      "image_local": "images/story-1238.jpg",
+      "image_remote": "https://www.engadget.com/img/gallery/perplexity-makes-it-easier-to-run-entire-ai-workflows-entirely-on-your-own-mac/l-intro-1792510842.jpg",
+      "id": "266ecf3886cd8b2b49d34c11f579da19ed5e8ca0",
+      "summary": "Perplexity now lets its Computer app run completely on a user’s own machine, including the harness and orchestrator, provided it is a recent Apple Silicon Mac with at least 36GB of RAM, Engadget reports. The move builds on September’s Hybrid Compute update, which split workloads between frontier cloud models and local ones. Perplexity pitches local mode as cheaper and more private: for example, Computer could read your Notes and Mail to build a priority to-do list without any of that data leaving the Mac. Users can pick one of two local models, Qwen 3.6 or PPLX Pro, a version of Qwen 3.6 that Perplexity post-trained for Computer use, and can still authorize a call out to more than 15 frontier models when a task needs it. Code and tool execution happens in an isolated sandbox. Pro, Max and Enterprise subscribers can start using it today by updating the Perplexity Mac app and following the in-app steps to download a local model."
+    },
+    {
+      "n": 4,
+      "headline": "A Russian military satellite spent days stalking a U.S.-operated commercial radar satellite believed to help Ukraine, in what trackers call a first",
+      "cat": "World / Space",
+      "source": "Gizmodo",
+      "url": "https://gizmodo.com/russian-military-satellite-plays-risky-cat-and-mouse-game-with-commercial-spacecraft-2000828229",
+      "image_local": "images/story-1239.jpg",
+      "image_remote": "https://gizmodo.com/app/uploads/2026/10/ICEYE_Satellite-1200x675.jpg",
+      "id": "00f5f6cd482ac3495ce3d1c1723816bdc873effc",
+      "summary": "Russia’s Cosmos 2612 carried out a series of close-proximity maneuvers toward ICEYE-X36, a U.S.-registered commercial radar-imaging satellite, between Oct. 15 and 19, according to space-tracking firm LeoLabs, Gizmodo reports. The Russian craft spent two days within about 3 miles of the satellite, at times coming within roughly 500 meters and shifting between positions ahead of and behind it, before backing off to about 62 miles. ICEYE-X36, run by ICEYE’s U.S. arm and launched from Vandenberg in 2024, is believed to supply synthetic aperture radar imagery to Ukraine. Astrophysicist Jonathan McDowell called it, to his knowledge, the first low-Earth-orbit rendezvous of two active satellites without the other owner’s approval, and Dutch tracker Marco Langbroek said the maneuvers were clearly designed to synchronize the two orbits and could point to an anti-satellite weapon. Cosmos 2612 launched in April as one of six military satellites, four of which had already adjusted orbits to align with the ICEYE craft."
+    },
+    {
+      "n": 5,
+      "headline": "Waymo reportedly plans to grow its robotaxi fleet fivefold to 20,000 by the end of 2027, leaning on Chinese-built Zeekr vehicles",
+      "cat": "Tech / Robotaxis",
+      "source": "Gizmodo",
+      "url": "https://gizmodo.com/waymo-reportedly-plans-to-put-20000-robotaxis-on-the-road-by-the-end-of-2027-2000828211",
+      "image_local": "images/story-1240.jpg",
+      "image_remote": "https://gizmodo.com/app/uploads/2026/02/Waymo-Ojai-1200x675.jpg",
+      "id": "1f07d7f3d25c06f47bf680f125fa16e8d5b6c618",
+      "summary": "Waymo plans to use its new funding to grow its driverless fleet from roughly 4,000 vehicles today to 20,000 by the end of 2027, Semafor reported, with a goal of about 8,000 by the end of this year, according to Gizmodo. The push follows a $5 billion loan less than two weeks ago, Waymo’s first debt financing, on top of $16 billion raised from investors earlier this year. The Alphabet-owned company operates in 15 U.S. cities including Atlanta, Los Angeles, Miami and the Bay Area, just opened service to everyone in San Antonio, San Diego and Tampa, and on Tuesday said it is headed to Madrid in 2027 after earlier announcing London and Tokyo. Much of the growth depends on the Ojai, Waymo’s next-generation robotaxi built on an electric vehicle from Geely-owned Chinese automaker Zeekr; research firm MoffettNathanson estimates Waymo is on pace to import about 5,100 of them by year’s end."
+    },
+    {
+      "n": 6,
+      "headline": "PRS launches the Tekton line, its first purpose-built modern metal guitars, with stainless frets, thin necks and pickups voiced for digital modelers",
+      "cat": "Music / Guitar",
+      "source": "Guitar World",
+      "url": "https://www.guitarworld.com/gear/electric-guitars/prs-tekton",
+      "image_local": "images/story-1241.jpg",
+      "image_remote": "https://cdn.mos.cms.futurecdn.net/oefNF29jSEepXBMVup7ij3-2000-80.jpg",
+      "id": "d9a693e69071b865700b8f915210d88ef2ad9543",
+      "summary": "PRS has introduced the Tekton family, four guitars built from the ground up for technical modern metal players, Guitar World reports. The lineup includes the hardtail Tekton, the two-point-trem Tekton T, the Floyd Rose-equipped Tekton Floyd and the seven-string Tekton SVN, all on a new body shape that sits between the Custom 24 and Vela with a huge belly carve, sculpted heel and the thinnest body PRS has ever made. The bolt-on maple necks are also PRS’s thinnest in standard production, with a 16-inch-radius ebony board, the company’s first stainless steel frets, offset dots in place of bird inlays and Silver Sky-style string spacing. New coil-split Stylus humbuckers use alnico 5 magnets and a flatter output designed to keep amp and modeler tones intact. The Floyd has an all-alder body; the others pair mahogany backs with flamed mango tops. The Tekton and Tekton T list at $2,899 and the Floyd and SVN at $2,999."
+    },
+    {
+      "n": 7,
+      "headline": "U.S. Marshals will auction a convicted Texas fraudster’s car collection, including Lamborghinis, Ferraris, three Maserati MC20s and military Humvees",
+      "cat": "Cars / Crime",
+      "source": "The Drive",
+      "url": "https://www.thedrive.com/news/fraudster-bought-90-cars-with-dirty-money-now-the-feds-are-selling-them-off",
+      "image_local": "images/story-1242.jpg",
+      "image_remote": "https://www.thedrive.com/wp-content/uploads/2026/10/car-collection-us-marshals-auction.jpg?w=1200",
+      "id": "3d96ea503e3e01f2f1d517ce6a3f14d1123c09d3",
+      "summary": "North Texas businessman Clayton Lloyd Iley has been sentenced to more than 13 years in federal prison for wire fraud and aggravated identity theft, and as part of his plea deal gave up more than 90 collector vehicles, The Drive reports. U.S. Attorney Ryan Raybould said Iley illegally obtained credit cards and duped victims into phony loan programs. Some of the cars were returned to banks, while the rest are headed to a U.S. Marshals auction: among them a 1968 Pontiac Firebird, two 2012 Lamborghini Aventadors, two 2015 Huracáns, two Ferrari 488s, three 2022 Maserati MC20s, a 2014 Dodge SRT Viper, a 2021 Porsche Taycan, a 2023 Jeep Gladiator, two AM General Humvees and a BMY five-ton military truck. The sale has not been formally scheduled, but Apple Auctioneering Company has a U.S. Marshals auction listed for Oct. 27 through Nov. 3 that could include the collection once its inventory is posted."
+    },
+    {
+      "n": 8,
+      "headline": "iOS 27 adds an iPhone scam-prevention setting called Impersonation Risk Detection, but it is off by default; here is how to turn it on",
+      "cat": "Apple / Security",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/10/20/ios-27-adds-scam-prevention-feature-to-iphone-heres-how-to-enable-it/",
+      "image_local": "",
+      "image_remote": "",
+      "id": "10b68f20fb4118640124fef84377e5456bdcd286",
+      "summary": "iOS 27 includes a new security feature, Impersonation Risk Detection, aimed at social-engineering scams where someone posing as a bank, government agency or trusted contact pressures you into sending money or changing account details, 9to5Mac reports. Because the victim takes the action themselves, tools like two-factor authentication often can’t stop those scams. The feature analyzes information about your device and Apple Account for signs of an active scam and passes only a risk level, not the underlying data, to supported apps, which can then ask you to verify your identity, add a delay or show a warning. It is off by default: turn it on in Settings, Privacy & Security, Impersonation Risk Detection, then toggle on Share with App Developers. It only works in supported apps, and Apple has not yet published a list of which ones."
+    },
+    {
+      "n": 9,
       "headline": "The Justice Department sends grand jury subpoenas to Philadelphia DA Larry Krasner’s office after a federal judge referred him for possible obstruction",
       "cat": "Politics / Courts",
       "source": "Fox News",
@@ -13,7 +101,7 @@
       "summary": "The Justice Department has sent grand jury subpoenas to the office of Philadelphia’s Democratic District Attorney Larry Krasner in recent days, Fox News reports, citing two sources who said they concern potential obstruction of justice in the handling of cases before federal judges. The subpoenas follow a referral more than a month ago by U.S. District Judge Paul Diamond, who sent Krasner and his top deputy, Matthew Stiegler, to the DOJ, writing that evidence in a murder-conviction case could amount to false statements, perjury, obstruction and conspiracy. “I have thus reluctantly concluded that Philadelphia’s highest law enforcement official and one of his top assistants may have violated the law,” Diamond wrote. The judge alleged the two pressured prosecutors to present a false narrative to the court and that Krasner warned of “consequences” if staff told the court about an internal conflict; he disqualified both from the case, which involves Dennis Johnson, convicted in 2009 of killing Kenyatta Smith. Krasner’s office did not respond to a request for comment, and the DOJ declined to comment."
     },
     {
-      "n": 2,
+      "n": 10,
       "headline": "Boardwalk Rock returns to Ocean City in May 2027 with Iron Maiden and Judas Priest on the same Sunday bill, plus Korn and Bad Omens",
       "cat": "Music / metal",
       "source": "Loudwire",
@@ -24,7 +112,7 @@
       "summary": "After canceling last year, the Boardwalk Rock festival is coming back to Ocean City, Maryland, May 14–16, 2027, Loudwire reports, with Korn headlining Friday, Bad Omens Saturday and Iron Maiden closing the weekend Sunday. The Sunday bill also includes Alice in Chains, Judas Priest, Down, The Pretty Reckless, Apocalyptica, GWAR, The Warning and Mac Sabbath. Friday brings Breaking Benjamin, The Prodigy, Cypress Hill, Slash featuring Myles Kennedy and the Conspirators, Clutch, Sevendust and Corrosion of Conformity, while Saturday features Good Charlotte, Marilyn Manson, Motionless in White, Bullet for My Valentine, Poppy, Tesla, Buckcherry and Drowning Pool. A presale with the lowest-price GA tickets opens Thursday, Oct. 22, at 10 a.m. ET for one hour, followed by the general on-sale at 11 a.m. One-day and three-day GA, GA+, VIP and Platinum tickets are offered."
     },
     {
-      "n": 3,
+      "n": 11,
       "headline": "Jets open as 5.5-point favorites over the winless Dolphins, and Aaron Glenn is still chasing his first AFC East win",
       "cat": "Sports / Jets",
       "source": "Gang Green Nation",
@@ -35,7 +123,7 @@
       "summary": "The 2-4 Jets host the 0-5 Miami Dolphins at MetLife in Week 7, and Gang Green Nation says it is a lose-lose spot for head coach Aaron Glenn. New York opened as a 5.5-point favorite, and Glenn — the only full-time head coach in franchise history to start 0-7 against the division — is still looking for his first AFC East victory. “If the Jets win this game, they will get absolutely zero credit for doing so,” the site writes; lose to “the garbage Dolphins,” and fans will be calling for his head. The matchup comes after Sunday’s 26-19 loss in New England, with Glenn publicly backing offensive coordinator Frank Reich despite the team’s scoring struggles, and with the Jets holding three first-round picks in the 2027 draft — their own, Indianapolis’ and the higher of Dallas’ and Green Bay’s."
     },
     {
-      "n": 4,
+      "n": 12,
       "headline": "Apple says U.S. companies now make nearly 100 parts in the iPhone Duo and iPhone 18 Pro, and commits $100 million to a Pennsylvania titanium maker",
       "cat": "Apple / Made in USA",
       "source": "MacRumors",
@@ -46,7 +134,7 @@
       "summary": "Apple announced new and expanded partnerships with two U.S. suppliers for its newest iPhones, MacRumors reports. Through its American Manufacturing Program, Apple will commit up to $100 million over three years to Pennsylvania-based Perryman, which produces the titanium used in iPhone Duo enclosures, and Delaware-based Qnity Electronics will make “advanced films” for the variable-aperture camera in the iPhone 18 Pro. Apple said U.S. companies produce nearly 100 components in the iPhone Duo and iPhone 18 Pro, and that by the end of 2026 all cover glass for every iPhone and Apple Watch sold worldwide will come from Corning in Kentucky. “American ingenuity is vital to all our products,” operations chief Sabih Khan said. The commitments are part of Apple’s pledge to invest $600 billion in U.S. manufacturing by the end of 2029, and Apple reiterated that Foxconn will begin assembling Mac minis in Houston later this year, mainly for U.S. customers."
     },
     {
-      "n": 5,
+      "n": 13,
       "headline": "Italy agrees to send back the Texas man accused of killing his pregnant wife — but only on a reduced murder charge",
       "cat": "Crime / Courts",
       "source": "Fox News",
@@ -57,7 +145,7 @@
       "summary": "Italy has granted Texas murder suspect Lee Gilley “partial extradition,” Fox News Digital confirmed, but only if he faces a reduced first-degree murder charge for killing his wife, Christa Bauer Gilley, and not for their unborn child. Gilley, 39, is accused of killing Christa, who was nine weeks pregnant, in their Houston home in October 2024. He was supposed to stand trial in Harris County earlier this year but cut off his ankle monitor and fled to Italy — reportedly leaving home on a bicycle and boarding a private jet in Memphis, leading authorities to suspect he had help. Italian courts had refused to extradite him on capital murder, citing the possible death penalty or life without parole. Under the reduced charge he would face 5 to 99 years if convicted. The return isn’t automatic: defense attorney Dick DeGeurin said an appeal is likely in the coming days and gave no timeline for when Gilley might be back on U.S. soil."
     },
     {
-      "n": 6,
+      "n": 14,
       "headline": "Trumbull Health Department holds walk-in flu clinics this week, including Wednesday evening 6–8 p.m. at 335 White Plains Road",
       "cat": "Local / Trumbull CT",
       "source": "Town of Trumbull",
@@ -68,7 +156,7 @@
       "summary": "The Trumbull Health Department is running walk-in flu clinics this week at 335 White Plains Road, the town announced Tuesday. Sessions are today, Tuesday, Oct. 20, from 10 a.m. to noon and 2 to 4 p.m., and Wednesday, Oct. 21, from 6 to 8 p.m. No appointment is required. The department is offering pediatric nasal and standard flu vaccines for children 3 and older, along with adult and senior doses, while supplies last."
     },
     {
-      "n": 7,
+      "n": 15,
       "headline": "Gibson honors Tom Petty and the Heartbreakers with a 250-piece 50th-anniversary Flying V in five finishes",
       "cat": "Music / Guitar",
       "source": "Guitar World",
@@ -79,7 +167,7 @@
       "summary": "Gibson is marking five decades of Tom Petty and the Heartbreakers with a limited 50th Anniversary Flying V inspired by the band’s logo on its self-titled 1976 debut, Guitar World reports. Dubbed the “Flying Five,” it comes in five gloss nitrocellulose finishes — Gainesville Gold, Graphite Metallic, Heartbreaker Red, Pearl White Metallic and Pelham Blue — with only 50 made in each, 250 worldwide. The guitar has a mahogany body and neck, a SlimTaper profile, a rosewood fretboard with 22 medium-jumbo frets, a pair of ’70s Tribute humbuckers, an Orange Drop tone capacitor, gold hardware, a Heartbreaker 50th truss-rod cover and a reproduction of Petty’s signature on the back of the headstock. “The V was an essential part of the imagery onstage for my dad as well as the band rose to fame in the 1970s,” said his daughter, Adria Petty. The guitars and matching apparel are on sale now at Gibson Garage locations and online."
     },
     {
-      "n": 8,
+      "n": 16,
       "headline": "Insta360’s Antigravity cuts the price of entry for its 360-degree A1 drone to $799 with a watch-and-ring “Follow Me” kit",
       "cat": "Gadgets / Insta360 drone",
       "source": "Engadget",
@@ -90,7 +178,7 @@
       "summary": "Antigravity, the drone brand from Insta360, has launched a Follow Me bundle for its A1 360-degree drone that swaps the FPV goggles and motion controller for a wrist remote and a ring remote, Engadget reports. It sells as a complete kit with the drone for $799 — roughly half the old $1,599 full set — or as a $340 accessory pack, with existing A1 owners paying $272. The watch combines visual tracking with its own built-in GNSS to lock onto a moving subject, so the drone can launch from your hand and automatically follow and film you while you walk, bike or ride. Holding the ring’s button lets you steer with “drag-to-fly” gestures: point at the drone and move your hand to shift it, or rotate your wrist to bring it closer or send it farther away. Engadget found the tracking accurate but the gestures sometimes frustrating, and called the touchscreen watch chunky — like “an Apple Watch knock-off from about 10 years ago” — with about five hours of battery life."
     },
     {
-      "n": 9,
+      "n": 17,
       "headline": "Harley-Davidson officially recognizes Kegel Harley-Davidson in Rockford, Illinois, as the world’s oldest dealership, dating to 1909",
       "cat": "Harley-Davidson",
       "source": "Motorcycle & Powersports News",
@@ -101,7 +189,7 @@
       "summary": "Harley-Davidson Motor Company has officially recognized Kegel Harley-Davidson in Rockford, Illinois, as the world’s oldest Harley-Davidson dealership, with an official start date of Aug. 9, 1909, Motorcycle & Powersports News reports. Kegel had long been called the oldest family-owned Harley dealer, dating to 1912, but the family believed its history went back further. Decades of digging through newspaper archives and local microfilm turned up three 1909 Freeport, Illinois, newspaper items: a June article naming bicycle dealer Joseph Redlinger as the regional Harley agent, his July ad putting the business up for sale, and an Aug. 9 report that it had been sold to Joseph Kegel. The research was checked by an independent party, the company and the Harley-Davidson Museum. Kegel moved the shop to Rockford in 1923, and it is now run by third-generation owner Mark Kegel and his daughter, Katrina Kegel-Mather. “Outside of the Davidsons, our family is the oldest Harley-Davidson family,” Mark Kegel said."
     },
     {
-      "n": 10,
+      "n": 18,
       "headline": "Spotify says it has pulled more than 50 million AI “slop” and spam tracks out of its recommendations",
       "cat": "Music / AI",
       "source": "The A.V. Club",
@@ -110,94 +198,6 @@
       "image_remote": "",
       "id": "f1bb1b6bf773ae02b376b43e594a93c721777e34",
       "summary": "Spotify says it has removed more than 50 million “slop and spam tracks” from its recommendations so it can surface more music made by “authentic, human artists,” The A.V. Club reports, citing the company’s For the Record blog. The tracks are still on the service — listeners just have to go looking for them — while another 75 million tracks were taken down for serious or repeated rule violations. Spotify said it studied the songs listeners were skipping, ignoring or flagging and found “a clear pattern”: they were consistently ones identified as slop or spam. It has also changed royalties so low-effort AI tracks can’t siphon money from real artists, added an “AI Credits” disclosure tool, and introduced an “AI Persona” label for artists whose identity is believed to be AI-generated; those personas are excluded from editorial and algorithmic recommendations by default. Spotify says it is the only major streamer that labels AI-generated artist identities, and that “this work isn’t finished.”"
-    },
-    {
-      "n": 11,
-      "headline": "LEGO builds a 30-metre wave out of 380,000 brick-built flowers spilling from a former oil tank in Shanghai",
-      "cat": "LEGO",
-      "source": "Brick Fanatics",
-      "url": "https://www.brickfanatics.com/lego-creates-30-metre-wave-from-380-000-flowers",
-      "image_local": "images/story-1235.jpg",
-      "image_remote": "https://www.brickfanatics.com/storage/uploads/f177f376-ef04-43fe-9c4a-62901c1c5efb.png",
-      "id": "5e523f06c64e0cdbb9f92c2ce62a4e10e1fb0c9d",
-      "summary": "The LEGO Group has unveiled a giant LEGO Botanicals installation at TANK Shanghai, where more than 380,000 individually built flowers form a 30-metre “Botanical Wave” pouring out of and around a former oil tank, Brick Fanatics reports. The blooms are inspired by sets in the Botanicals line, including 10328 Bouquet of Roses, 10342 Pretty Pink Flower Bouquet and 11501 Tulip Bouquet, and the outdoor piece alone used millions of bricks. The wave is part of the LEGO Bloom Exhibition, running through Oct. 29, with 18 installations by artists and LEGO designers, a gallery of Botanicals arrangements and a build-your-own station where visitors can scan a flower and watch it join a digital garden on a giant screen. Separately, the former gift-with-purchase 40916 Floral Picture Frame is back for a week in the UK and Europe with qualifying purchases of £135 or €150."
-    },
-    {
-      "n": 12,
-      "headline": "Alberta voters decisively reject starting down the road to separation from Canada, with about 76% choosing to stay",
-      "cat": "World / Canada",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/canada-alberta-referendum-vote-separation-independence/",
-      "image_local": "images/story-1218.jpg",
-      "image_remote": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/20/70b61b4d-5c93-4109-afae-0d5f0bd7c778/thumbnail/1200x630/0bfcc6ab17d5b45aa564955349593042/gettyimages-2300535927.jpg",
-      "id": "69ad7fd8ebbb332616e9a810df34d878d898d1c1",
-      "summary": "Voters in oil-rich Alberta rejected a proposal to begin a legal process that could have led to a second vote on independence, CBS News reports, handing a win to Prime Minister Mark Carney and the Canadian-unity side amid President Trump’s trade war and annexation talk. With more than 1 million votes counted early Tuesday, about 76% backed remaining in Canada and 23% supported starting the separation process. Results were delayed after late openings forced more than 100 polling stations to stay open longer Monday; more than 1.35 million Albertans, 43% of eligible voters, had already cast advance or special ballots. “We are a solid country that’s united from coast to coast to coast,” said Thomas Lukaszuk, the former deputy premier who led the Forever Canadian campaign. Resentment of Ottawa still runs deep in the conservative province — one Wainwright voter said Alberta has “essentially been treated as, you know, a colony” — and separatist leaders say they have turned a fringe cause into a movement that won’t go away."
-    },
-    {
-      "n": 13,
-      "headline": "The Rays beat Cleveland 7-3 to win the ALCS and will face the Brewers in a World Series that guarantees a first-time champion",
-      "cat": "Sports / MLB",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/sports/mlb/tampa-bay-rays-world-series-milwaukee-brewers-result-guardians-rcna604268",
-      "image_local": "images/story-1219.jpg",
-      "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261019-Junior-Caminero-vsb-2232-710694.jpg",
-      "id": "069695ab5661006b082fa9d545f16edd53ff4ee9",
-      "summary": "Tampa Bay closed out the American League Championship Series with a 7-3 Game 6 win over the Guardians on Monday, NBC News reports, after falling behind 2-1 in the series. Richie Palacios’ two-run double and a Jonny DeLuca sacrifice fly built a 3-0 lead, Junior Caminero answered Cleveland’s first run with a two-run homer in the seventh, and Yandy Díaz added another two-run shot after the Guardians pulled within 5-3. It is the Rays’ third World Series trip after 2008 and 2020, and they are still chasing their first title; Milwaukee, back for the first time since 1982, has never won one either. The matchup pits the teams with the best records in each league — the Brewers won an MLB-high 103 games, the Rays 98 — and two small-market clubs, with Tampa running the third-lowest payroll. Pitcher Drew Rasmussen has allowed three earned runs in three postseason appearances. Game 1 is Friday."
-    },
-    {
-      "n": 14,
-      "headline": "Australian lawmaker Helen Haines is in critical condition after a driver deliberately rammed her outside her office, police say",
-      "cat": "World / Crime",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/world/asia/australia-lawmaker-car-ramming-attack-helen-haines-leg-driver-charged-rcna604526",
-      "image_local": "images/story-1220.jpg",
-      "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261020-helen-haines-rs-8024b5.jpg",
-      "id": "8c157b356af0ac2aee6db057e28b920618558c11",
-      "summary": "Helen Haines, a 65-year-old independent member of Australia’s Parliament, was struck Monday by a white Toyota Land Cruiser outside her electoral office in Wangaratta, Victoria, NBC News reports. She was airlifted to Melbourne for overnight surgery and was in critical but stable condition Tuesday; local media reported one of her legs had been amputated. Police charged a 43-year-old local man with intentionally causing serious injury, dangerous driving causing serious injury and causing harm to a federal official. Prime Minister Anthony Albanese said witnesses described the driver passing Haines, making a U-turn and hitting her as she stood by her car — “This wasn’t an accident” — and Home Affairs Minister Tony Burke said witnesses saw the driver reverse and hit her a second time. The motive is not yet clear. Political violence is rare in Australia, where lawmakers often move around with little security, but federal police logged 1,067 threat and harassment incidents against officeholders in 2025-26."
-    },
-    {
-      "n": 15,
-      "headline": "An 81-year-old Mississippi man is killed with his own pistol fighting off a 4 a.m. intruder; the sheriff is weighing a possible anti-Christian motive",
-      "cat": "Crime / Home invasion",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/us/elderly-miss-man-killed-own-gun-random-home-invasion-sheriff-questions-possible-religious-motive",
-      "image_local": "images/story-1221.jpg",
-      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/McGill-Basco.jpg",
-      "id": "6a6b3518439591b9be4ebd6afc3e8c18b92f0d2f",
-      "summary": "Union County, Mississippi, Sheriff Jimmy Edwards told Fox News Digital that Eric Basco broke into Bobby McGill’s home around 4 a.m. Thursday while McGill, 81, and his wife Peggy were asleep. McGill kept a pistol in a chest at the foot of the bed; investigators believe he went for it, the two fought, and Basco got the gun and shot him multiple times. Peggy escaped and called 911. Basco then went into a bathroom and shot himself, and later died at a hospital. Edwards said the likely motive was burglary, but deputies obtained video from the night before showing Basco on a road about 1.5 miles away, throwing his hands in the air and screaming what sounds like “God is dead.” McGill had a cross and a “Jesus is Lord” sign in his yard. “So did that help lure him to that house? I don’t know,” the sheriff said, adding that investigators aren’t 100% sure what Basco was yelling."
-    },
-    {
-      "n": 16,
-      "headline": "UNC-Chapel Hill settles 18 Trump administration probes, agreeing to color-blind admissions, a mask ban and antisemitism training",
-      "cat": "Campus / Civil rights",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/us/unc-settles-trump-admin-probes-alleged-campus-antisemitism-race-based-admissions",
-      "image_local": "images/story-1222.jpg",
-      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2025/09/unc-students-walking.jpg",
-      "id": "e7838c99428021608ede190a935953823f22f79b",
-      "summary": "The University of North Carolina at Chapel Hill reached a voluntary settlement with the Trump administration that closes 18 active federal investigations and a separate Justice Department compliance review over alleged antisemitism and race discrimination, Fox News reports. UNC pays no money and admits no wrongdoing, and it keeps its eligibility for federal funding; the deal runs through the end of 2028. The university will adopt what the Justice Department calls a “color-blind admissions system,” barring the use of race to shape its student body, though applicants’ personal adversity can still be considered. UNC will also require antisemitism training for students, faculty and staff, prohibit face masks used to conceal identity with some exceptions, and discipline student groups for antisemitic discriminatory conduct. A compliance official, Elizabeth Hall, will serve as both “Merit & Civil Rights Administrator” and Title VI coordinator. Chancellor Lee H. Roberts said the agreement “protects our mission and affirms the civil rights of everyone in our community.”"
-    },
-    {
-      "n": 17,
-      "headline": "Penguins rally from 5-2 down but fall 5-4 in Utah, finishing their Western road trip 0-4 and losing Bryan Rust mid-game",
-      "cat": "Sports / Penguins",
-      "source": "PensBurgh",
-      "url": "https://www.pensburgh.com/game-recaps/82090/penguins-mammoth-recap-comeback-effort-falls-short-pens-lose-5-4",
-      "image_local": "images/story-1223.jpg",
-      "image_remote": "https://platform.pensburgh.com/wp-content/uploads/sites/123/2026/10/gettyimages-2300562394.jpg?quality=90&strip=all&w=1200",
-      "id": "fb33584acbf7accb5f248fcd63526f451aef07b2",
-      "summary": "Pittsburgh’s comeback came up a goal short Monday night as the Utah Mammoth held on for a 5-4 win behind rookie goalie Sebastian Cossa, PensBurgh reports. The Penguins scored twice on the power play — Erik Karlsson’s shot-pass deflected in 19 seconds into the game, and Rickard Rakell got his first goal of the season — but Utah went up 4-2 on goals by Clayton Keller, Kevin Stenlund, Nate Schmidt and Kailer Yamamoto. Bryan Rust did not return for the third period, and Nick Schmaltz made it 5-2 on a power play. Egor Chinakhov, back from injury on the top line, scored his first goal since opening night and Declan Carlile pulled Pittsburgh within one with 5:05 left, but Ben Kindel was stopped in front seconds before the buzzer. Sidney Crosby went to the box after a cross-checking and elbow exchange with Andrew Peeke. The loss completes a winless four-game trip, without even an overtime point, sending the Pens home in what the recap calls “a major funk.”"
-    },
-    {
-      "n": 18,
-      "headline": "TikTok staff repeatedly warned about child sexual content and age loopholes, and court records show executives failed to act",
-      "cat": "Tech / Kids online",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/10/20/nx-s1-6005809/tiktok-child-safety-money-laundering",
-      "image_local": "images/story-1224.jpg",
-      "image_remote": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4896x2754+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F22%2F26%2Fe544d725449598514b51dd7221db%2Fgettyimages-2298297976.jpg",
-      "id": "c5bc9241388ce4bf1a97313b1a0781d8bb305550",
-      "summary": "Previously unreported depositions filed in federal court in March show TikTok employees raised alarms internally about risks to children, including sexual exploitation and exposure to suicide content, and were frustrated by leadership’s response, NPR reports. Staffers flagged minors appearing in sexual content that viewers could pay to access, with TikTok profiting — a potential financial crime — and warned that under-18 users were using loopholes to get past age restrictions and block parents from seeing their activity. The records also show TikTok held off on surveys to assess users’ ages because it worried it would have to hand the results to the Federal Trade Commission. “I have been fighting about fixing this for months with people who didn’t think the harms are severe enough,” one executive wrote. TikTok declined to give NPR a statement. It is a defendant, alongside Meta, Google and Snap, in multi-district litigation over youth harm and has already settled several cases, including $100 million with Alabama in September."
     },
     {
       "n": 19,

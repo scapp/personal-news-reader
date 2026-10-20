@@ -1368,7 +1368,15 @@
     "fa337665e86f0b61c33fcd7a5f13bc4e94230037",
     "03729fbd10b27275fa66d96a4fca826aaa0f8b55",
     "f1bb1b6bf773ae02b376b43e594a93c721777e34",
-    "5e523f06c64e0cdbb9f92c2ce62a4e10e1fb0c9d"
+    "5e523f06c64e0cdbb9f92c2ce62a4e10e1fb0c9d",
+    "d79e031ebe0c9007352bd41a6ea6614a5f7ec892",
+    "ba02a12527916f2a869fa63470d7ba5bf9bb17ea",
+    "266ecf3886cd8b2b49d34c11f579da19ed5e8ca0",
+    "00f5f6cd482ac3495ce3d1c1723816bdc873effc",
+    "1f07d7f3d25c06f47bf680f125fa16e8d5b6c618",
+    "d9a693e69071b865700b8f915210d88ef2ad9543",
+    "3d96ea503e3e01f2f1d517ce6a3f14d1123c09d3",
+    "10b68f20fb4118640124fef84377e5456bdcd286"
   ],
   "stories": {
     "0c2ac7a5e342411678296315c4c59043b1f067cc": {
@@ -16416,7 +16424,87 @@
       "image_remote": "https://www.brickfanatics.com/storage/uploads/f177f376-ef04-43fe-9c4a-62901c1c5efb.png",
       "image_local": "images/story-1235.jpg",
       "id": "5e523f06c64e0cdbb9f92c2ce62a4e10e1fb0c9d"
+    },
+    "d79e031ebe0c9007352bd41a6ea6614a5f7ec892": {
+      "headline": "House Judiciary report says Fairfax County, Virginia ignored at least 1,670 ICE detainers in two years and released criminal illegal immigrants",
+      "cat": "Immigration / Sanctuary",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/virginia-sanctuary-county-ignores-1670-detainer-requests-2-years-house-judiciary-committee-finds",
+      "summary": "The Fairfax County Sheriff’s Office ignored at least 1,670 immigration detainers from ICE between 2023 and 2025, releasing criminal illegal immigrants back into the community instead of transferring them to federal custody, according to an interim staff report from the House Judiciary Committee’s immigration subcommittee obtained by Fox News before its Tuesday release. The report, issued under Chairman Jim Jordan and subcommittee chair Tom McClintock, also accuses Commonwealth’s Attorney Steve Descano of treating illegal-immigrant defendants differently from citizens to limit their immigration consequences. A review of more than 1,100 criminal cases found more than 100 previously unreported illegal immigrants who benefited from his office’s decisions, which the committee says rarely pursued charges for DUI, felony drug possession, grand larceny, fraud and assaulting an officer; most went on to reoffend, some escalating to violent crimes and murder. The report also alleges Descano misled Congress about the scope of his policy, which he told the committee in May was written with legal permanent residents in mind for minor crimes.",
+      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/Descano-and-Kincaid-in-Congress.jpg",
+      "image_local": "images/story-1236.jpg",
+      "id": "d79e031ebe0c9007352bd41a6ea6614a5f7ec892"
+    },
+    "ba02a12527916f2a869fa63470d7ba5bf9bb17ea": {
+      "headline": "Driver accused of killing NHL star Johnny Gaudreau and his brother concedes he was over the limit, but rejects a 28-year plea deal; trial set for January",
+      "cat": "Crime / Courts",
+      "source": "Breitbart",
+      "url": "https://www.breitbart.com/pre-viral/2026/10/20/alleged-drunken-new-jersey-driver-accused-of-killing-hockey-star-johnny-gaudreau-makes-stunning-admission/",
+      "summary": "Lawyers for Sean Higgins, 45, the New Jersey driver accused of killing NHL star Johnny Gaudreau and his brother Matthew in August 2024, conceded Monday that he was over the legal alcohol limit at the time of the crash. The defense had argued his blood-alcohol content was .075 and that investigators botched the test; it now says an untainted sample came back at .08, versus the prosecution’s .087. Higgins, an Army veteran, still turned down the state’s final offer to plead guilty to two counts of aggravated manslaughter and a first DWI in exchange for 28 years in prison. Salem County Judge Michael Silvanio warned that if convicted at trial he faces up to 91.5 years and would not be parole-eligible for 68 years. The brothers, both married fathers, were riding bicycles in Oldmans Township on Aug. 29, 2024, the night before their sister’s wedding. Jury selection begins Dec. 1 and the trial is set for Jan. 4.",
+      "image_remote": "https://media.breitbart.com/media/2026/10/Sean-Higgins-640x335.png",
+      "image_local": "images/story-1237.jpg",
+      "id": "ba02a12527916f2a869fa63470d7ba5bf9bb17ea"
+    },
+    "266ecf3886cd8b2b49d34c11f579da19ed5e8ca0": {
+      "headline": "Perplexity’s Computer agent can now run entirely on your own Mac, offline and private, if you have an Apple Silicon machine with 36GB of RAM",
+      "cat": "AI tools / Mac",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2291754/perplexity-makes-it-easier-to-run-ai-workflows-entirely-on-your-mac/",
+      "summary": "Perplexity now lets its Computer app run completely on a user’s own machine, including the harness and orchestrator, provided it is a recent Apple Silicon Mac with at least 36GB of RAM, Engadget reports. The move builds on September’s Hybrid Compute update, which split workloads between frontier cloud models and local ones. Perplexity pitches local mode as cheaper and more private: for example, Computer could read your Notes and Mail to build a priority to-do list without any of that data leaving the Mac. Users can pick one of two local models, Qwen 3.6 or PPLX Pro, a version of Qwen 3.6 that Perplexity post-trained for Computer use, and can still authorize a call out to more than 15 frontier models when a task needs it. Code and tool execution happens in an isolated sandbox. Pro, Max and Enterprise subscribers can start using it today by updating the Perplexity Mac app and following the in-app steps to download a local model.",
+      "image_remote": "https://www.engadget.com/img/gallery/perplexity-makes-it-easier-to-run-entire-ai-workflows-entirely-on-your-own-mac/l-intro-1792510842.jpg",
+      "image_local": "images/story-1238.jpg",
+      "id": "266ecf3886cd8b2b49d34c11f579da19ed5e8ca0"
+    },
+    "00f5f6cd482ac3495ce3d1c1723816bdc873effc": {
+      "headline": "A Russian military satellite spent days stalking a U.S.-operated commercial radar satellite believed to help Ukraine, in what trackers call a first",
+      "cat": "World / Space",
+      "source": "Gizmodo",
+      "url": "https://gizmodo.com/russian-military-satellite-plays-risky-cat-and-mouse-game-with-commercial-spacecraft-2000828229",
+      "summary": "Russia’s Cosmos 2612 carried out a series of close-proximity maneuvers toward ICEYE-X36, a U.S.-registered commercial radar-imaging satellite, between Oct. 15 and 19, according to space-tracking firm LeoLabs, Gizmodo reports. The Russian craft spent two days within about 3 miles of the satellite, at times coming within roughly 500 meters and shifting between positions ahead of and behind it, before backing off to about 62 miles. ICEYE-X36, run by ICEYE’s U.S. arm and launched from Vandenberg in 2024, is believed to supply synthetic aperture radar imagery to Ukraine. Astrophysicist Jonathan McDowell called it, to his knowledge, the first low-Earth-orbit rendezvous of two active satellites without the other owner’s approval, and Dutch tracker Marco Langbroek said the maneuvers were clearly designed to synchronize the two orbits and could point to an anti-satellite weapon. Cosmos 2612 launched in April as one of six military satellites, four of which had already adjusted orbits to align with the ICEYE craft.",
+      "image_remote": "https://gizmodo.com/app/uploads/2026/10/ICEYE_Satellite-1200x675.jpg",
+      "image_local": "images/story-1239.jpg",
+      "id": "00f5f6cd482ac3495ce3d1c1723816bdc873effc"
+    },
+    "1f07d7f3d25c06f47bf680f125fa16e8d5b6c618": {
+      "headline": "Waymo reportedly plans to grow its robotaxi fleet fivefold to 20,000 by the end of 2027, leaning on Chinese-built Zeekr vehicles",
+      "cat": "Tech / Robotaxis",
+      "source": "Gizmodo",
+      "url": "https://gizmodo.com/waymo-reportedly-plans-to-put-20000-robotaxis-on-the-road-by-the-end-of-2027-2000828211",
+      "summary": "Waymo plans to use its new funding to grow its driverless fleet from roughly 4,000 vehicles today to 20,000 by the end of 2027, Semafor reported, with a goal of about 8,000 by the end of this year, according to Gizmodo. The push follows a $5 billion loan less than two weeks ago, Waymo’s first debt financing, on top of $16 billion raised from investors earlier this year. The Alphabet-owned company operates in 15 U.S. cities including Atlanta, Los Angeles, Miami and the Bay Area, just opened service to everyone in San Antonio, San Diego and Tampa, and on Tuesday said it is headed to Madrid in 2027 after earlier announcing London and Tokyo. Much of the growth depends on the Ojai, Waymo’s next-generation robotaxi built on an electric vehicle from Geely-owned Chinese automaker Zeekr; research firm MoffettNathanson estimates Waymo is on pace to import about 5,100 of them by year’s end.",
+      "image_remote": "https://gizmodo.com/app/uploads/2026/02/Waymo-Ojai-1200x675.jpg",
+      "image_local": "images/story-1240.jpg",
+      "id": "1f07d7f3d25c06f47bf680f125fa16e8d5b6c618"
+    },
+    "d9a693e69071b865700b8f915210d88ef2ad9543": {
+      "headline": "PRS launches the Tekton line, its first purpose-built modern metal guitars, with stainless frets, thin necks and pickups voiced for digital modelers",
+      "cat": "Music / Guitar",
+      "source": "Guitar World",
+      "url": "https://www.guitarworld.com/gear/electric-guitars/prs-tekton",
+      "summary": "PRS has introduced the Tekton family, four guitars built from the ground up for technical modern metal players, Guitar World reports. The lineup includes the hardtail Tekton, the two-point-trem Tekton T, the Floyd Rose-equipped Tekton Floyd and the seven-string Tekton SVN, all on a new body shape that sits between the Custom 24 and Vela with a huge belly carve, sculpted heel and the thinnest body PRS has ever made. The bolt-on maple necks are also PRS’s thinnest in standard production, with a 16-inch-radius ebony board, the company’s first stainless steel frets, offset dots in place of bird inlays and Silver Sky-style string spacing. New coil-split Stylus humbuckers use alnico 5 magnets and a flatter output designed to keep amp and modeler tones intact. The Floyd has an all-alder body; the others pair mahogany backs with flamed mango tops. The Tekton and Tekton T list at $2,899 and the Floyd and SVN at $2,999.",
+      "image_remote": "https://cdn.mos.cms.futurecdn.net/oefNF29jSEepXBMVup7ij3-2000-80.jpg",
+      "image_local": "images/story-1241.jpg",
+      "id": "d9a693e69071b865700b8f915210d88ef2ad9543"
+    },
+    "3d96ea503e3e01f2f1d517ce6a3f14d1123c09d3": {
+      "headline": "U.S. Marshals will auction a convicted Texas fraudster’s car collection, including Lamborghinis, Ferraris, three Maserati MC20s and military Humvees",
+      "cat": "Cars / Crime",
+      "source": "The Drive",
+      "url": "https://www.thedrive.com/news/fraudster-bought-90-cars-with-dirty-money-now-the-feds-are-selling-them-off",
+      "summary": "North Texas businessman Clayton Lloyd Iley has been sentenced to more than 13 years in federal prison for wire fraud and aggravated identity theft, and as part of his plea deal gave up more than 90 collector vehicles, The Drive reports. U.S. Attorney Ryan Raybould said Iley illegally obtained credit cards and duped victims into phony loan programs. Some of the cars were returned to banks, while the rest are headed to a U.S. Marshals auction: among them a 1968 Pontiac Firebird, two 2012 Lamborghini Aventadors, two 2015 Huracáns, two Ferrari 488s, three 2022 Maserati MC20s, a 2014 Dodge SRT Viper, a 2021 Porsche Taycan, a 2023 Jeep Gladiator, two AM General Humvees and a BMY five-ton military truck. The sale has not been formally scheduled, but Apple Auctioneering Company has a U.S. Marshals auction listed for Oct. 27 through Nov. 3 that could include the collection once its inventory is posted.",
+      "image_remote": "https://www.thedrive.com/wp-content/uploads/2026/10/car-collection-us-marshals-auction.jpg?w=1200",
+      "image_local": "images/story-1242.jpg",
+      "id": "3d96ea503e3e01f2f1d517ce6a3f14d1123c09d3"
+    },
+    "10b68f20fb4118640124fef84377e5456bdcd286": {
+      "headline": "iOS 27 adds an iPhone scam-prevention setting called Impersonation Risk Detection, but it is off by default; here is how to turn it on",
+      "cat": "Apple / Security",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/10/20/ios-27-adds-scam-prevention-feature-to-iphone-heres-how-to-enable-it/",
+      "summary": "iOS 27 includes a new security feature, Impersonation Risk Detection, aimed at social-engineering scams where someone posing as a bank, government agency or trusted contact pressures you into sending money or changing account details, 9to5Mac reports. Because the victim takes the action themselves, tools like two-factor authentication often can’t stop those scams. The feature analyzes information about your device and Apple Account for signs of an active scam and passes only a risk level, not the underlying data, to supported apps, which can then ask you to verify your identity, add a delay or show a warning. It is off by default: turn it on in Settings, Privacy & Security, Impersonation Risk Detection, then toggle on Share with App Developers. It only works in supported apps, and Apple has not yet published a list of which ones.",
+      "image_remote": "",
+      "image_local": "",
+      "id": "10b68f20fb4118640124fef84377e5456bdcd286"
     }
   },
-  "updated": "Tuesday, October 20, 2026 · 11:47 AM ET"
+  "updated": "Tuesday, October 20, 2026 · 4:04 PM ET"
 }
