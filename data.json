@@ -1,8 +1,107 @@
 {
-  "updated": "Tuesday, October 20, 2026 · 4:04 PM ET",
+  "updated": "Tuesday, October 20, 2026 · 6:08 PM ET",
   "stories": [
     {
       "n": 1,
+      "headline": "Trump says Ilhan Omar could go to jail, not just be deported, as the federal citizenship-fraud probe into the congresswoman continues",
+      "cat": "Politics / Immigration",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/trump-says-ilhan-omar-could-go-jail-deported-calls-her-a-disgrace-our-country",
+      "image_local": "images/story-1243.jpg",
+      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/05/omar-trump-2.jpg",
+      "id": "4f90b66b684494fa37dbb445082594f6533ad8bf",
+      "summary": "President Trump said Tuesday that Rep. Ilhan Omar could face jail as well as deportation, calling the Minnesota Democrat “a disgrace to our country” and “a very dishonest person,” Fox News reports. Asked in the Oval Office by FOX Business correspondent Edward Lawrence whether a problem with Omar’s age could lead to her deportation, Trump said, “Well, she could be. She could also go to jail,” adding that it was “just my opinion.” He did not name a specific charge or present new evidence. Border czar Tom Homan said over the weekend that Omar could lose her citizenship and be deported if investigators prove immigration fraud; federal agents searched her Washington, D.C., home on Oct. 12 and seized her cellphone. The investigation centers on whether Omar or her father misstated her birth year on immigration paperwork, which would determine whether she was still a minor when he became a citizen in 2000 and could derive citizenship through him. Omar denies wrongdoing, and she and Democrats including Hakeem Jeffries call the probe political persecution ahead of the midterms."
+    },
+    {
+      "n": 2,
+      "headline": "SpaceX posts a blowout third quarter: $14.58 billion in revenue, $4.4 billion profit, and its AI unit is now bigger than Starlink",
+      "cat": "Elon / SpaceX",
+      "source": "Teslarati",
+      "url": "https://www.teslarati.com/spacex-spcx-delivers-blockbuster-q3-results-super-intelligence-booms/",
+      "image_local": "images/story-1244.jpg",
+      "image_remote": "https://www.teslarati.com/wp-content/uploads/2026/07/spacex-starship-flight-13-launch-1000x600.jpg",
+      "id": "bf048f42125d3b6069275b0e77537b9738feee6a",
+      "summary": "SpaceX reported third-quarter revenue of $14.58 billion on Tuesday, up 161% from a year earlier and well above Wall Street estimates of about $12.7 billion to $12.9 billion, along with GAAP net income of $4.4 billion, its first solidly profitable quarter since going public, Teslarati reports. The Super Intelligence segment, formerly AI, brought in $7.56 billion, up 830%, and became the company’s largest business for the first time, driven by cloud contracts, the integration of Cursor and growing use of Grok; Elon Musk called Grok Bot the “fastest-growing product I’ve ever seen” on the earnings call. Starlink revenue rose 69% to $5.25 billion, with consumer subscribers up 89% to 13.6 million and the service now on more than 3,800 aircraft. The Space segment added $1.77 billion, highlighted by the first revenue-generating Starship mission, Flight 14, which deployed 26 V3 Starlink satellites. Capital spending hit $19.6 billion, mostly on AI infrastructure including the Colossus facilities, and SpaceX ended the quarter with about $90 billion in cash and securities."
+    },
+    {
+      "n": 3,
+      "headline": "Penguins’ team plane turns back to Salt Lake City after 19-year-old forward Ben Kindel suffers a medical emergency; he is alert and stable",
+      "cat": "Sports / Penguins",
+      "source": "Pittsburgh Hockey Now",
+      "url": "https://pittsburghhockeynow.com/pittsburgh-penguins-ben-kindel-medical-emergency/",
+      "image_local": "",
+      "image_remote": "",
+      "id": "a72a90c874eea635aa65da9d95b7b4b2fea1f756",
+      "summary": "The Pittsburgh Penguins’ charter flight home from Salt Lake City returned to the airport shortly after takeoff Tuesday when 19-year-old forward Ben Kindel had a medical episode, the team said, Pittsburgh Hockey Now reports. Team physician Dr. Dharmesh Vyas of UPMC and the club’s medical staff treated him on board, and an ambulance took him to University of Utah Hospital for evaluation; the team says he is conscious, alert and in stable condition and has not released details about what happened. Kindel surprisingly made the team out of camp a year ago and had 17 goals and 35 points in 77 games as a rookie, and he has two goals and four points in nine games this season. He played 18:53 without a point in Monday’s loss to the Mammoth, the Penguins’ fourth straight defeat on their Western road trip. The team had a travel day Tuesday and is scheduled to practice Wednesday in Cranberry."
+    },
+    {
+      "n": 4,
+      "headline": "After talks with Trump envoy Witkoff in Oslo, Zelensky says U.S. ballistic-missile early warnings for Ukraine are working again",
+      "cat": "World / Ukraine",
+      "source": "Kyiv Independent",
+      "url": "https://kyivindependent.com/zelensky-confirms-ballistic-missile-early-warning-systems-operational-after-skipped-alerts/",
+      "image_local": "images/story-1245.jpg",
+      "image_remote": "https://assets.kyivindependent.com/content/images/2026/10/GettyImages-2300638532_20261020-212923_20261020-212958.jpg",
+      "id": "4a92ff511e35b49b057b08b7ff04d70e927a709a",
+      "summary": "Ukrainian President Volodymyr Zelensky said Tuesday that Ukraine’s early-warning alerts for incoming Russian ballistic missiles, which rely on U.S. intelligence, are operational again after recent instances when Kyiv did not receive them, the Kyiv Independent reports. “This morning began with positive signals from the American side,” he said at a press conference in Oslo with Norwegian Prime Minister Jonas Gahr Støre and Finnish President Alexander Stubb. The leaders met there with U.S. special envoy Steve Witkoff, who is next headed to Russia, and Zelensky described a “constructive dialogue” because “we all want peace — Ukraine, Europe, and the United States.” White House officials had blamed earlier outages on bad weather, while Marco Rubio cited a software malfunction. President Trump has recently criticized Ukraine’s strikes on Russian energy facilities over their effect on diesel prices; Zelensky said Kyiv has offered to stop hitting sensitive parts of Russia’s energy sector if Russia stops hitting Ukraine’s, but that Putin said no."
+    },
+    {
+      "n": 5,
+      "headline": "China sends naval forces to shadow a U.S. warship near a disputed South China Sea shoal as Taiwan confronts a Chinese Coast Guard ship",
+      "cat": "World / China",
+      "source": "Daily Caller",
+      "url": "https://dailycaller.com/2026/10/20/china-sends-navy-after-us-warship-taiwan-maritime-standoff/",
+      "image_local": "",
+      "image_remote": "",
+      "id": "c2aa57011eb78175c46465455bed62b5b5191229",
+      "summary": "China dispatched naval forces Tuesday to track the USS Charleston, an Independence-class littoral combat ship, after it entered waters near Sabina Shoal in the disputed Spratly Islands, while Taiwan separately confronted a Chinese Coast Guard vessel accused of entering restricted waters with its tracking system switched off, the Daily Caller reports. The PLA’s Southern Theater Command accused the American ship of entering Chinese territory without permission. Naval War College strategist James R. Holmes said Taiwan has finally been fielding capabilities designed to deny an invasion or blockade fleet access across the strait, and that Beijing’s behavior has united the countries of the first island chain against it. Heritage Foundation fellow Brent Sadler noted China has kept a significant naval and coast guard presence in the Philippine Sea, giving crews real-world experience in waters where they could operate in a crisis, as steps toward Xi Jinping’s 2027 military goals. Professor Christopher Sharman said routine China Coast Guard patrols east of Taiwan are the newest tool in Beijing’s campaign of military coercion."
+    },
+    {
+      "n": 6,
+      "headline": "NRA and other gun-rights groups sue New Mexico for still enforcing a 7-day gun waiting period a federal appeals court called “obviously unconstitutional”",
+      "cat": "Courts / Second Amendment",
+      "source": "Daily Caller",
+      "url": "https://dailycaller.com/2026/10/20/blue-state-sued-after-defying-ruling-striking-down-waiting-period/",
+      "image_local": "",
+      "image_remote": "",
+      "id": "93bc0f100d2796596e7cb25c963518a8d39a0150",
+      "summary": "The National Shooting Sports Foundation, National Rifle Association, Second Amendment Foundation and New Mexico Shooting Sports Association sued New Mexico on Monday, accusing the state of defying court rulings that its seven-day waiting period for gun purchases is unconstitutional, the Daily Caller reports. The Tenth Circuit struck down the waiting period in August 2025, overruling a district judge, and the trial court granted summary judgment on Aug. 28. But because the only plaintiffs in that case, the Ortega case, were two individuals, Attorney General Raúl Torrez’s office and Gov. Michelle Lujan Grisham’s administration have said the ruling covers only those two people and that the law remains in effect for everyone else. “New Mexico does not seem to get the message,” the groups wrote, asking the court to again declare the law, HB129, unconstitutional for buyers who pass the federal background check and to bar the state from enforcing it against them, their customers and their members."
+    },
+    {
+      "n": 7,
+      "headline": "UC Berkeley’s law review is set to vote on deleting all application records after editors were reported pledging to pick members based on race",
+      "cat": "Campus / Higher Ed",
+      "source": "Washington Free Beacon",
+      "url": "https://freebeacon.com/campus/uc-berkeley-law-review-poised-to-delete-all-application-records-after-editors-pledged-to-select-applicants-based-on-race/",
+      "image_local": "images/story-1246.jpg",
+      "image_remote": "https://freebeacon.com/wp-content/uploads/2026/10/MixCollage-20-Oct-2026-05-31-PM-8066-scaled.jpg",
+      "id": "44ad6cfb0ec818ec30287d79ad291f885e59acd5",
+      "summary": "The California Law Review, Berkeley’s flagship law journal, will vote Wednesday on a document retention policy requiring it to delete all write-on application materials after each year’s selection, along with records tied to electing its Holistic Review Committee, the Washington Free Beacon reports. Members of that eight-person committee, which grades applicants’ personal statements, had pledged in writing to “uplift Native voices,” weigh “diverse life experience” against editing ability and “integrate anti-racist sentiment” into selections, the Free Beacon reported in August. The draft policy would also password-protect application files, bar keeping recordings of election forums and require editors to delete law review documents. At least one editor warned in an email that the move could look like destroying evidence and expose students to criminal liability, noting that the Justice Department sent the Harvard Law Review a cease-and-desist letter last year after it ordered a student to delete documents shared with the Free Beacon, which led to a federal discrimination probe."
+    },
+    {
+      "n": 8,
+      "headline": "The 2027 Jeep Cherokee brings back the Trailhawk with low-range 4x4 and red tow hooks, plus two blacked-out Altitude trims, from $37,125",
+      "cat": "Jeep",
+      "source": "Mopar Insiders",
+      "url": "https://moparinsiders.com/2027-jeep-cherokee-adds-three-new-trims/",
+      "image_local": "images/story-1247.jpg",
+      "image_remote": "https://moparinsiders.com/wp-content/uploads/2026/09/JP027_CH005.jpeg",
+      "id": "ce1b21de0bc2daab52ad1988ef0f1a3f73355ac8",
+      "summary": "Jeep is adding three trims to the 2027 Cherokee, Mopar Insiders reports, led by the return of the Trailhawk with low-range four-wheel drive. The Trailhawk uses Active Drive II with a two-speed power transfer unit, a 2.92:1 low range and a 37.5:1 crawl ratio, plus a dedicated Rock mode, an off-road suspension, skid plates, all-terrain tires on 17-inch wheels, its own bumpers for more clearance and the familiar red tow hooks; Jeep claims class-best approach, breakover and departure angles. New Laredo Altitude and Limited Altitude models add 18-inch gloss-black wheels, black accents and badges, with Capri leatherette and suede seats on the Laredo Altitude and a gloss-black roof on the Limited Altitude. Every Cherokee keeps the turbocharged 1.6-liter hybrid four-cylinder, which needs no plug-in and is rated up to 37 mpg combined and 39 city with more than 500 miles of range, making it Jeep’s most fuel-efficient non-plug-in vehicle. Pricing starts at $37,125 including destination."
+    },
+    {
+      "n": 9,
+      "headline": "Fear Factory’s Dino Cazares says the band’s first album with singer Milo Silvestro is “diverse” but still unmistakably Fear Factory",
+      "cat": "Music / Metal",
+      "source": "Blabbermouth",
+      "url": "https://blabbermouth.net/news/dino-cazares-says-fear-factorys-upcoming-album-is-diverse-it-goes-into-different-elements",
+      "image_local": "images/story-1248.jpg",
+      "image_remote": "https://assets.blabbermouth.net/media/dinocazaresgrimmoct2026_638.jpg",
+      "id": "992c990b1e975ba9a5651a4f8835600920f8daf9",
+      "summary": "Fear Factory guitarist Dino Cazares says the band’s upcoming full-length is “diverse” and “goes into different elements,” Blabbermouth reports from his interview with GRIMM Gent. The album follows “Roboticist,” released in late August on Nuclear Blast, the first music with singer Milo Silvestro and drummer Pete Webber, who have toured with the band for more than three and a half years. Cazares said he wrote the instrumental three years ago to demo his Toneforge Disruptor plugin, showing clean, lo-fi and distorted tones and a lower low-E tuning, then knew it had to be released once Silvestro sang the hook. Answering fans who say the song sounds too much, or not enough, like classic Fear Factory and compare Silvestro to original singer Burton C. Bell, he said, “Fear Factory is my style, pretty much… you can’t win, so you put it out and hope for the best.” The record keeps the band’s formula, he said, while Silvestro brings different vocal styles, and the next single will be “a little different too.”"
+    },
+    {
+      "n": 10,
       "headline": "House Judiciary report says Fairfax County, Virginia ignored at least 1,670 ICE detainers in two years and released criminal illegal immigrants",
       "cat": "Immigration / Sanctuary",
       "source": "Fox News",
@@ -13,7 +112,7 @@
       "summary": "The Fairfax County Sheriff’s Office ignored at least 1,670 immigration detainers from ICE between 2023 and 2025, releasing criminal illegal immigrants back into the community instead of transferring them to federal custody, according to an interim staff report from the House Judiciary Committee’s immigration subcommittee obtained by Fox News before its Tuesday release. The report, issued under Chairman Jim Jordan and subcommittee chair Tom McClintock, also accuses Commonwealth’s Attorney Steve Descano of treating illegal-immigrant defendants differently from citizens to limit their immigration consequences. A review of more than 1,100 criminal cases found more than 100 previously unreported illegal immigrants who benefited from his office’s decisions, which the committee says rarely pursued charges for DUI, felony drug possession, grand larceny, fraud and assaulting an officer; most went on to reoffend, some escalating to violent crimes and murder. The report also alleges Descano misled Congress about the scope of his policy, which he told the committee in May was written with legal permanent residents in mind for minor crimes."
     },
     {
-      "n": 2,
+      "n": 11,
       "headline": "Driver accused of killing NHL star Johnny Gaudreau and his brother concedes he was over the limit, but rejects a 28-year plea deal; trial set for January",
       "cat": "Crime / Courts",
       "source": "Breitbart",
@@ -24,7 +123,7 @@
       "summary": "Lawyers for Sean Higgins, 45, the New Jersey driver accused of killing NHL star Johnny Gaudreau and his brother Matthew in August 2024, conceded Monday that he was over the legal alcohol limit at the time of the crash. The defense had argued his blood-alcohol content was .075 and that investigators botched the test; it now says an untainted sample came back at .08, versus the prosecution’s .087. Higgins, an Army veteran, still turned down the state’s final offer to plead guilty to two counts of aggravated manslaughter and a first DWI in exchange for 28 years in prison. Salem County Judge Michael Silvanio warned that if convicted at trial he faces up to 91.5 years and would not be parole-eligible for 68 years. The brothers, both married fathers, were riding bicycles in Oldmans Township on Aug. 29, 2024, the night before their sister’s wedding. Jury selection begins Dec. 1 and the trial is set for Jan. 4."
     },
     {
-      "n": 3,
+      "n": 12,
       "headline": "Perplexity’s Computer agent can now run entirely on your own Mac, offline and private, if you have an Apple Silicon machine with 36GB of RAM",
       "cat": "AI tools / Mac",
       "source": "Engadget",
@@ -35,7 +134,7 @@
       "summary": "Perplexity now lets its Computer app run completely on a user’s own machine, including the harness and orchestrator, provided it is a recent Apple Silicon Mac with at least 36GB of RAM, Engadget reports. The move builds on September’s Hybrid Compute update, which split workloads between frontier cloud models and local ones. Perplexity pitches local mode as cheaper and more private: for example, Computer could read your Notes and Mail to build a priority to-do list without any of that data leaving the Mac. Users can pick one of two local models, Qwen 3.6 or PPLX Pro, a version of Qwen 3.6 that Perplexity post-trained for Computer use, and can still authorize a call out to more than 15 frontier models when a task needs it. Code and tool execution happens in an isolated sandbox. Pro, Max and Enterprise subscribers can start using it today by updating the Perplexity Mac app and following the in-app steps to download a local model."
     },
     {
-      "n": 4,
+      "n": 13,
       "headline": "A Russian military satellite spent days stalking a U.S.-operated commercial radar satellite believed to help Ukraine, in what trackers call a first",
       "cat": "World / Space",
       "source": "Gizmodo",
@@ -46,7 +145,7 @@
       "summary": "Russia’s Cosmos 2612 carried out a series of close-proximity maneuvers toward ICEYE-X36, a U.S.-registered commercial radar-imaging satellite, between Oct. 15 and 19, according to space-tracking firm LeoLabs, Gizmodo reports. The Russian craft spent two days within about 3 miles of the satellite, at times coming within roughly 500 meters and shifting between positions ahead of and behind it, before backing off to about 62 miles. ICEYE-X36, run by ICEYE’s U.S. arm and launched from Vandenberg in 2024, is believed to supply synthetic aperture radar imagery to Ukraine. Astrophysicist Jonathan McDowell called it, to his knowledge, the first low-Earth-orbit rendezvous of two active satellites without the other owner’s approval, and Dutch tracker Marco Langbroek said the maneuvers were clearly designed to synchronize the two orbits and could point to an anti-satellite weapon. Cosmos 2612 launched in April as one of six military satellites, four of which had already adjusted orbits to align with the ICEYE craft."
     },
     {
-      "n": 5,
+      "n": 14,
       "headline": "Waymo reportedly plans to grow its robotaxi fleet fivefold to 20,000 by the end of 2027, leaning on Chinese-built Zeekr vehicles",
       "cat": "Tech / Robotaxis",
       "source": "Gizmodo",
@@ -57,7 +156,7 @@
       "summary": "Waymo plans to use its new funding to grow its driverless fleet from roughly 4,000 vehicles today to 20,000 by the end of 2027, Semafor reported, with a goal of about 8,000 by the end of this year, according to Gizmodo. The push follows a $5 billion loan less than two weeks ago, Waymo’s first debt financing, on top of $16 billion raised from investors earlier this year. The Alphabet-owned company operates in 15 U.S. cities including Atlanta, Los Angeles, Miami and the Bay Area, just opened service to everyone in San Antonio, San Diego and Tampa, and on Tuesday said it is headed to Madrid in 2027 after earlier announcing London and Tokyo. Much of the growth depends on the Ojai, Waymo’s next-generation robotaxi built on an electric vehicle from Geely-owned Chinese automaker Zeekr; research firm MoffettNathanson estimates Waymo is on pace to import about 5,100 of them by year’s end."
     },
     {
-      "n": 6,
+      "n": 15,
       "headline": "PRS launches the Tekton line, its first purpose-built modern metal guitars, with stainless frets, thin necks and pickups voiced for digital modelers",
       "cat": "Music / Guitar",
       "source": "Guitar World",
@@ -68,7 +167,7 @@
       "summary": "PRS has introduced the Tekton family, four guitars built from the ground up for technical modern metal players, Guitar World reports. The lineup includes the hardtail Tekton, the two-point-trem Tekton T, the Floyd Rose-equipped Tekton Floyd and the seven-string Tekton SVN, all on a new body shape that sits between the Custom 24 and Vela with a huge belly carve, sculpted heel and the thinnest body PRS has ever made. The bolt-on maple necks are also PRS’s thinnest in standard production, with a 16-inch-radius ebony board, the company’s first stainless steel frets, offset dots in place of bird inlays and Silver Sky-style string spacing. New coil-split Stylus humbuckers use alnico 5 magnets and a flatter output designed to keep amp and modeler tones intact. The Floyd has an all-alder body; the others pair mahogany backs with flamed mango tops. The Tekton and Tekton T list at $2,899 and the Floyd and SVN at $2,999."
     },
     {
-      "n": 7,
+      "n": 16,
       "headline": "U.S. Marshals will auction a convicted Texas fraudster’s car collection, including Lamborghinis, Ferraris, three Maserati MC20s and military Humvees",
       "cat": "Cars / Crime",
       "source": "The Drive",
@@ -79,7 +178,7 @@
       "summary": "North Texas businessman Clayton Lloyd Iley has been sentenced to more than 13 years in federal prison for wire fraud and aggravated identity theft, and as part of his plea deal gave up more than 90 collector vehicles, The Drive reports. U.S. Attorney Ryan Raybould said Iley illegally obtained credit cards and duped victims into phony loan programs. Some of the cars were returned to banks, while the rest are headed to a U.S. Marshals auction: among them a 1968 Pontiac Firebird, two 2012 Lamborghini Aventadors, two 2015 Huracáns, two Ferrari 488s, three 2022 Maserati MC20s, a 2014 Dodge SRT Viper, a 2021 Porsche Taycan, a 2023 Jeep Gladiator, two AM General Humvees and a BMY five-ton military truck. The sale has not been formally scheduled, but Apple Auctioneering Company has a U.S. Marshals auction listed for Oct. 27 through Nov. 3 that could include the collection once its inventory is posted."
     },
     {
-      "n": 8,
+      "n": 17,
       "headline": "iOS 27 adds an iPhone scam-prevention setting called Impersonation Risk Detection, but it is off by default; here is how to turn it on",
       "cat": "Apple / Security",
       "source": "9to5Mac",
@@ -90,62 +189,7 @@
       "summary": "iOS 27 includes a new security feature, Impersonation Risk Detection, aimed at social-engineering scams where someone posing as a bank, government agency or trusted contact pressures you into sending money or changing account details, 9to5Mac reports. Because the victim takes the action themselves, tools like two-factor authentication often can’t stop those scams. The feature analyzes information about your device and Apple Account for signs of an active scam and passes only a risk level, not the underlying data, to supported apps, which can then ask you to verify your identity, add a delay or show a warning. It is off by default: turn it on in Settings, Privacy & Security, Impersonation Risk Detection, then toggle on Share with App Developers. It only works in supported apps, and Apple has not yet published a list of which ones."
     },
     {
-      "n": 9,
-      "headline": "The Justice Department sends grand jury subpoenas to Philadelphia DA Larry Krasner’s office after a federal judge referred him for possible obstruction",
-      "cat": "Politics / Courts",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/politics/doj-sends-grand-jury-subpoenas-philadelphia-da-krasner-after-judges-referral-sources-say",
-      "image_local": "images/story-1226.jpg",
-      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/03/GettyImages-1191069244.jpg",
-      "id": "48df0c01e94a8b21fcb6e9eff1c37645710053a2",
-      "summary": "The Justice Department has sent grand jury subpoenas to the office of Philadelphia’s Democratic District Attorney Larry Krasner in recent days, Fox News reports, citing two sources who said they concern potential obstruction of justice in the handling of cases before federal judges. The subpoenas follow a referral more than a month ago by U.S. District Judge Paul Diamond, who sent Krasner and his top deputy, Matthew Stiegler, to the DOJ, writing that evidence in a murder-conviction case could amount to false statements, perjury, obstruction and conspiracy. “I have thus reluctantly concluded that Philadelphia’s highest law enforcement official and one of his top assistants may have violated the law,” Diamond wrote. The judge alleged the two pressured prosecutors to present a false narrative to the court and that Krasner warned of “consequences” if staff told the court about an internal conflict; he disqualified both from the case, which involves Dennis Johnson, convicted in 2009 of killing Kenyatta Smith. Krasner’s office did not respond to a request for comment, and the DOJ declined to comment."
-    },
-    {
-      "n": 10,
-      "headline": "Boardwalk Rock returns to Ocean City in May 2027 with Iron Maiden and Judas Priest on the same Sunday bill, plus Korn and Bad Omens",
-      "cat": "Music / metal",
-      "source": "Loudwire",
-      "url": "https://loudwire.com/boardwalk-rock-festival-2027-iron-maiden-korn-bad-omens-more/",
-      "image_local": "images/story-1227.jpg",
-      "image_remote": "https://townsquare.media/site/366/files/2026/10/attachment-social-image-366-2026-10-20-11-01-00.jpg?w=1200&q=75&format=natural",
-      "id": "2958fef9152508b988c7ed19cab43774a39cc82a",
-      "summary": "After canceling last year, the Boardwalk Rock festival is coming back to Ocean City, Maryland, May 14–16, 2027, Loudwire reports, with Korn headlining Friday, Bad Omens Saturday and Iron Maiden closing the weekend Sunday. The Sunday bill also includes Alice in Chains, Judas Priest, Down, The Pretty Reckless, Apocalyptica, GWAR, The Warning and Mac Sabbath. Friday brings Breaking Benjamin, The Prodigy, Cypress Hill, Slash featuring Myles Kennedy and the Conspirators, Clutch, Sevendust and Corrosion of Conformity, while Saturday features Good Charlotte, Marilyn Manson, Motionless in White, Bullet for My Valentine, Poppy, Tesla, Buckcherry and Drowning Pool. A presale with the lowest-price GA tickets opens Thursday, Oct. 22, at 10 a.m. ET for one hour, followed by the general on-sale at 11 a.m. One-day and three-day GA, GA+, VIP and Platinum tickets are offered."
-    },
-    {
-      "n": 11,
-      "headline": "Jets open as 5.5-point favorites over the winless Dolphins, and Aaron Glenn is still chasing his first AFC East win",
-      "cat": "Sports / Jets",
-      "source": "Gang Green Nation",
-      "url": "https://www.ganggreennation.com/new-york-jets-news/97769/team-faces-a-lose-lose-scenario-in-dolphins-game",
-      "image_local": "images/story-1228.jpg",
-      "image_remote": "https://platform.ganggreennation.com/wp-content/uploads/sites/86/2026/10/reuters-tagreuters.com2025newsml_MT1USATODAY27767257956953674.jpg?quality=90&strip=all&w=1200",
-      "id": "d29e82456d8ed97a9509e3aa6a436a5ed64c5efb",
-      "summary": "The 2-4 Jets host the 0-5 Miami Dolphins at MetLife in Week 7, and Gang Green Nation says it is a lose-lose spot for head coach Aaron Glenn. New York opened as a 5.5-point favorite, and Glenn — the only full-time head coach in franchise history to start 0-7 against the division — is still looking for his first AFC East victory. “If the Jets win this game, they will get absolutely zero credit for doing so,” the site writes; lose to “the garbage Dolphins,” and fans will be calling for his head. The matchup comes after Sunday’s 26-19 loss in New England, with Glenn publicly backing offensive coordinator Frank Reich despite the team’s scoring struggles, and with the Jets holding three first-round picks in the 2027 draft — their own, Indianapolis’ and the higher of Dallas’ and Green Bay’s."
-    },
-    {
-      "n": 12,
-      "headline": "Apple says U.S. companies now make nearly 100 parts in the iPhone Duo and iPhone 18 Pro, and commits $100 million to a Pennsylvania titanium maker",
-      "cat": "Apple / Made in USA",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/10/20/apple-touts-iphone-duo-18-pro-parts-made-in-usa/",
-      "image_local": "images/story-1229.jpg",
-      "image_remote": "https://images.macrumors.com/t/-9dwhtlDE6PLwNd1oeUseHLhI0Q=/1886x/article-new/2026/10/iPhone-Duo-Hinge-Feature-4.jpg",
-      "id": "a293b4aa4d0360e87961032da59a439c7b4abe87",
-      "summary": "Apple announced new and expanded partnerships with two U.S. suppliers for its newest iPhones, MacRumors reports. Through its American Manufacturing Program, Apple will commit up to $100 million over three years to Pennsylvania-based Perryman, which produces the titanium used in iPhone Duo enclosures, and Delaware-based Qnity Electronics will make “advanced films” for the variable-aperture camera in the iPhone 18 Pro. Apple said U.S. companies produce nearly 100 components in the iPhone Duo and iPhone 18 Pro, and that by the end of 2026 all cover glass for every iPhone and Apple Watch sold worldwide will come from Corning in Kentucky. “American ingenuity is vital to all our products,” operations chief Sabih Khan said. The commitments are part of Apple’s pledge to invest $600 billion in U.S. manufacturing by the end of 2029, and Apple reiterated that Foxconn will begin assembling Mac minis in Houston later this year, mainly for U.S. customers."
-    },
-    {
-      "n": 13,
-      "headline": "Italy agrees to send back the Texas man accused of killing his pregnant wife — but only on a reduced murder charge",
-      "cat": "Crime / Courts",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/us/american-fled-us-allegedly-killing-pregnant-wife-could-return-within-days-murder-charge-dropped",
-      "image_local": "images/story-1230.jpg",
-      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/05/lee-mongerson-gilley-houston-murder-fox-news-002.jpeg",
-      "id": "b2365b10e77d0f3304b6dfaebbf56030e038b8e3",
-      "summary": "Italy has granted Texas murder suspect Lee Gilley “partial extradition,” Fox News Digital confirmed, but only if he faces a reduced first-degree murder charge for killing his wife, Christa Bauer Gilley, and not for their unborn child. Gilley, 39, is accused of killing Christa, who was nine weeks pregnant, in their Houston home in October 2024. He was supposed to stand trial in Harris County earlier this year but cut off his ankle monitor and fled to Italy — reportedly leaving home on a bicycle and boarding a private jet in Memphis, leading authorities to suspect he had help. Italian courts had refused to extradite him on capital murder, citing the possible death penalty or life without parole. Under the reduced charge he would face 5 to 99 years if convicted. The return isn’t automatic: defense attorney Dick DeGeurin said an appeal is likely in the coming days and gave no timeline for when Gilley might be back on U.S. soil."
-    },
-    {
-      "n": 14,
+      "n": 18,
       "headline": "Trumbull Health Department holds walk-in flu clinics this week, including Wednesday evening 6–8 p.m. at 335 White Plains Road",
       "cat": "Local / Trumbull CT",
       "source": "Town of Trumbull",
@@ -154,50 +198,6 @@
       "image_remote": "https://www.trumbull-ct.gov/ImageRepository/Document?documentID=1651",
       "id": "46d5087788faff92312dfd4acefbdab324a2c3cc",
       "summary": "The Trumbull Health Department is running walk-in flu clinics this week at 335 White Plains Road, the town announced Tuesday. Sessions are today, Tuesday, Oct. 20, from 10 a.m. to noon and 2 to 4 p.m., and Wednesday, Oct. 21, from 6 to 8 p.m. No appointment is required. The department is offering pediatric nasal and standard flu vaccines for children 3 and older, along with adult and senior doses, while supplies last."
-    },
-    {
-      "n": 15,
-      "headline": "Gibson honors Tom Petty and the Heartbreakers with a 250-piece 50th-anniversary Flying V in five finishes",
-      "cat": "Music / Guitar",
-      "source": "Guitar World",
-      "url": "https://www.guitarworld.com/gear/electric-guitars/gibson-tom-petty-and-the-heartbreakers-50th-anniversary-flying-v",
-      "image_local": "images/story-1232.jpg",
-      "image_remote": "https://cdn.mos.cms.futurecdn.net/7Uk6h9jyD8jy7fMTfpxrUM-1200-80.jpg",
-      "id": "4c9f364d94be9fe06a5b1bee189c46b0d7b9c673",
-      "summary": "Gibson is marking five decades of Tom Petty and the Heartbreakers with a limited 50th Anniversary Flying V inspired by the band’s logo on its self-titled 1976 debut, Guitar World reports. Dubbed the “Flying Five,” it comes in five gloss nitrocellulose finishes — Gainesville Gold, Graphite Metallic, Heartbreaker Red, Pearl White Metallic and Pelham Blue — with only 50 made in each, 250 worldwide. The guitar has a mahogany body and neck, a SlimTaper profile, a rosewood fretboard with 22 medium-jumbo frets, a pair of ’70s Tribute humbuckers, an Orange Drop tone capacitor, gold hardware, a Heartbreaker 50th truss-rod cover and a reproduction of Petty’s signature on the back of the headstock. “The V was an essential part of the imagery onstage for my dad as well as the band rose to fame in the 1970s,” said his daughter, Adria Petty. The guitars and matching apparel are on sale now at Gibson Garage locations and online."
-    },
-    {
-      "n": 16,
-      "headline": "Insta360’s Antigravity cuts the price of entry for its 360-degree A1 drone to $799 with a watch-and-ring “Follow Me” kit",
-      "cat": "Gadgets / Insta360 drone",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2289029/antigravity-a1-drone-follow-me-bundle-hands-on/",
-      "image_local": "images/story-1233.jpg",
-      "image_remote": "https://www.engadget.com/img/gallery/antigravitys-follow-me-bundle-adds-accurate-tracking-and-gesture-controls-to-its-a1-drone/l-intro-1792172648.jpg",
-      "id": "fa337665e86f0b61c33fcd7a5f13bc4e94230037",
-      "summary": "Antigravity, the drone brand from Insta360, has launched a Follow Me bundle for its A1 360-degree drone that swaps the FPV goggles and motion controller for a wrist remote and a ring remote, Engadget reports. It sells as a complete kit with the drone for $799 — roughly half the old $1,599 full set — or as a $340 accessory pack, with existing A1 owners paying $272. The watch combines visual tracking with its own built-in GNSS to lock onto a moving subject, so the drone can launch from your hand and automatically follow and film you while you walk, bike or ride. Holding the ring’s button lets you steer with “drag-to-fly” gestures: point at the drone and move your hand to shift it, or rotate your wrist to bring it closer or send it farther away. Engadget found the tracking accurate but the gestures sometimes frustrating, and called the touchscreen watch chunky — like “an Apple Watch knock-off from about 10 years ago” — with about five hours of battery life."
-    },
-    {
-      "n": 17,
-      "headline": "Harley-Davidson officially recognizes Kegel Harley-Davidson in Rockford, Illinois, as the world’s oldest dealership, dating to 1909",
-      "cat": "Harley-Davidson",
-      "source": "Motorcycle & Powersports News",
-      "url": "https://www.motorcyclepowersportsnews.com/kegel-harley-davidson-worlds-oldest-harley-davidson-dealership/",
-      "image_local": "images/story-1234.jpg",
-      "image_remote": "https://s18390.pcdn.co/wp-content/uploads/2026/10/kegel-harley-davidson-logo.jpg",
-      "id": "03729fbd10b27275fa66d96a4fca826aaa0f8b55",
-      "summary": "Harley-Davidson Motor Company has officially recognized Kegel Harley-Davidson in Rockford, Illinois, as the world’s oldest Harley-Davidson dealership, with an official start date of Aug. 9, 1909, Motorcycle & Powersports News reports. Kegel had long been called the oldest family-owned Harley dealer, dating to 1912, but the family believed its history went back further. Decades of digging through newspaper archives and local microfilm turned up three 1909 Freeport, Illinois, newspaper items: a June article naming bicycle dealer Joseph Redlinger as the regional Harley agent, his July ad putting the business up for sale, and an Aug. 9 report that it had been sold to Joseph Kegel. The research was checked by an independent party, the company and the Harley-Davidson Museum. Kegel moved the shop to Rockford in 1923, and it is now run by third-generation owner Mark Kegel and his daughter, Katrina Kegel-Mather. “Outside of the Davidsons, our family is the oldest Harley-Davidson family,” Mark Kegel said."
-    },
-    {
-      "n": 18,
-      "headline": "Spotify says it has pulled more than 50 million AI “slop” and spam tracks out of its recommendations",
-      "cat": "Music / AI",
-      "source": "The A.V. Club",
-      "url": "https://www.avclub.com/spotify-removes-50-million-ai-generated-tracks",
-      "image_local": "",
-      "image_remote": "",
-      "id": "f1bb1b6bf773ae02b376b43e594a93c721777e34",
-      "summary": "Spotify says it has removed more than 50 million “slop and spam tracks” from its recommendations so it can surface more music made by “authentic, human artists,” The A.V. Club reports, citing the company’s For the Record blog. The tracks are still on the service — listeners just have to go looking for them — while another 75 million tracks were taken down for serious or repeated rule violations. Spotify said it studied the songs listeners were skipping, ignoring or flagging and found “a clear pattern”: they were consistently ones identified as slop or spam. It has also changed royalties so low-effort AI tracks can’t siphon money from real artists, added an “AI Credits” disclosure tool, and introduced an “AI Persona” label for artists whose identity is believed to be AI-generated; those personas are excluded from editorial and algorithmic recommendations by default. Spotify says it is the only major streamer that labels AI-generated artist identities, and that “this work isn’t finished.”"
     },
     {
       "n": 19,

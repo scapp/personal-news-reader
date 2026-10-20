@@ -1376,7 +1376,16 @@
     "1f07d7f3d25c06f47bf680f125fa16e8d5b6c618",
     "d9a693e69071b865700b8f915210d88ef2ad9543",
     "3d96ea503e3e01f2f1d517ce6a3f14d1123c09d3",
-    "10b68f20fb4118640124fef84377e5456bdcd286"
+    "10b68f20fb4118640124fef84377e5456bdcd286",
+    "4f90b66b684494fa37dbb445082594f6533ad8bf",
+    "bf048f42125d3b6069275b0e77537b9738feee6a",
+    "a72a90c874eea635aa65da9d95b7b4b2fea1f756",
+    "4a92ff511e35b49b057b08b7ff04d70e927a709a",
+    "c2aa57011eb78175c46465455bed62b5b5191229",
+    "93bc0f100d2796596e7cb25c963518a8d39a0150",
+    "44ad6cfb0ec818ec30287d79ad291f885e59acd5",
+    "ce1b21de0bc2daab52ad1988ef0f1a3f73355ac8",
+    "992c990b1e975ba9a5651a4f8835600920f8daf9"
   ],
   "stories": {
     "0c2ac7a5e342411678296315c4c59043b1f067cc": {
@@ -16504,7 +16513,97 @@
       "image_remote": "",
       "image_local": "",
       "id": "10b68f20fb4118640124fef84377e5456bdcd286"
+    },
+    "4f90b66b684494fa37dbb445082594f6533ad8bf": {
+      "headline": "Trump says Ilhan Omar could go to jail, not just be deported, as the federal citizenship-fraud probe into the congresswoman continues",
+      "cat": "Politics / Immigration",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/trump-says-ilhan-omar-could-go-jail-deported-calls-her-a-disgrace-our-country",
+      "summary": "President Trump said Tuesday that Rep. Ilhan Omar could face jail as well as deportation, calling the Minnesota Democrat “a disgrace to our country” and “a very dishonest person,” Fox News reports. Asked in the Oval Office by FOX Business correspondent Edward Lawrence whether a problem with Omar’s age could lead to her deportation, Trump said, “Well, she could be. She could also go to jail,” adding that it was “just my opinion.” He did not name a specific charge or present new evidence. Border czar Tom Homan said over the weekend that Omar could lose her citizenship and be deported if investigators prove immigration fraud; federal agents searched her Washington, D.C., home on Oct. 12 and seized her cellphone. The investigation centers on whether Omar or her father misstated her birth year on immigration paperwork, which would determine whether she was still a minor when he became a citizen in 2000 and could derive citizenship through him. Omar denies wrongdoing, and she and Democrats including Hakeem Jeffries call the probe political persecution ahead of the midterms.",
+      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/05/omar-trump-2.jpg",
+      "image_local": "images/story-1243.jpg",
+      "id": "4f90b66b684494fa37dbb445082594f6533ad8bf"
+    },
+    "bf048f42125d3b6069275b0e77537b9738feee6a": {
+      "headline": "SpaceX posts a blowout third quarter: $14.58 billion in revenue, $4.4 billion profit, and its AI unit is now bigger than Starlink",
+      "cat": "Elon / SpaceX",
+      "source": "Teslarati",
+      "url": "https://www.teslarati.com/spacex-spcx-delivers-blockbuster-q3-results-super-intelligence-booms/",
+      "summary": "SpaceX reported third-quarter revenue of $14.58 billion on Tuesday, up 161% from a year earlier and well above Wall Street estimates of about $12.7 billion to $12.9 billion, along with GAAP net income of $4.4 billion, its first solidly profitable quarter since going public, Teslarati reports. The Super Intelligence segment, formerly AI, brought in $7.56 billion, up 830%, and became the company’s largest business for the first time, driven by cloud contracts, the integration of Cursor and growing use of Grok; Elon Musk called Grok Bot the “fastest-growing product I’ve ever seen” on the earnings call. Starlink revenue rose 69% to $5.25 billion, with consumer subscribers up 89% to 13.6 million and the service now on more than 3,800 aircraft. The Space segment added $1.77 billion, highlighted by the first revenue-generating Starship mission, Flight 14, which deployed 26 V3 Starlink satellites. Capital spending hit $19.6 billion, mostly on AI infrastructure including the Colossus facilities, and SpaceX ended the quarter with about $90 billion in cash and securities.",
+      "image_remote": "https://www.teslarati.com/wp-content/uploads/2026/07/spacex-starship-flight-13-launch-1000x600.jpg",
+      "image_local": "images/story-1244.jpg",
+      "id": "bf048f42125d3b6069275b0e77537b9738feee6a"
+    },
+    "a72a90c874eea635aa65da9d95b7b4b2fea1f756": {
+      "headline": "Penguins’ team plane turns back to Salt Lake City after 19-year-old forward Ben Kindel suffers a medical emergency; he is alert and stable",
+      "cat": "Sports / Penguins",
+      "source": "Pittsburgh Hockey Now",
+      "url": "https://pittsburghhockeynow.com/pittsburgh-penguins-ben-kindel-medical-emergency/",
+      "summary": "The Pittsburgh Penguins’ charter flight home from Salt Lake City returned to the airport shortly after takeoff Tuesday when 19-year-old forward Ben Kindel had a medical episode, the team said, Pittsburgh Hockey Now reports. Team physician Dr. Dharmesh Vyas of UPMC and the club’s medical staff treated him on board, and an ambulance took him to University of Utah Hospital for evaluation; the team says he is conscious, alert and in stable condition and has not released details about what happened. Kindel surprisingly made the team out of camp a year ago and had 17 goals and 35 points in 77 games as a rookie, and he has two goals and four points in nine games this season. He played 18:53 without a point in Monday’s loss to the Mammoth, the Penguins’ fourth straight defeat on their Western road trip. The team had a travel day Tuesday and is scheduled to practice Wednesday in Cranberry.",
+      "image_remote": "",
+      "image_local": "",
+      "id": "a72a90c874eea635aa65da9d95b7b4b2fea1f756"
+    },
+    "4a92ff511e35b49b057b08b7ff04d70e927a709a": {
+      "headline": "After talks with Trump envoy Witkoff in Oslo, Zelensky says U.S. ballistic-missile early warnings for Ukraine are working again",
+      "cat": "World / Ukraine",
+      "source": "Kyiv Independent",
+      "url": "https://kyivindependent.com/zelensky-confirms-ballistic-missile-early-warning-systems-operational-after-skipped-alerts/",
+      "summary": "Ukrainian President Volodymyr Zelensky said Tuesday that Ukraine’s early-warning alerts for incoming Russian ballistic missiles, which rely on U.S. intelligence, are operational again after recent instances when Kyiv did not receive them, the Kyiv Independent reports. “This morning began with positive signals from the American side,” he said at a press conference in Oslo with Norwegian Prime Minister Jonas Gahr Støre and Finnish President Alexander Stubb. The leaders met there with U.S. special envoy Steve Witkoff, who is next headed to Russia, and Zelensky described a “constructive dialogue” because “we all want peace — Ukraine, Europe, and the United States.” White House officials had blamed earlier outages on bad weather, while Marco Rubio cited a software malfunction. President Trump has recently criticized Ukraine’s strikes on Russian energy facilities over their effect on diesel prices; Zelensky said Kyiv has offered to stop hitting sensitive parts of Russia’s energy sector if Russia stops hitting Ukraine’s, but that Putin said no.",
+      "image_remote": "https://assets.kyivindependent.com/content/images/2026/10/GettyImages-2300638532_20261020-212923_20261020-212958.jpg",
+      "image_local": "images/story-1245.jpg",
+      "id": "4a92ff511e35b49b057b08b7ff04d70e927a709a"
+    },
+    "c2aa57011eb78175c46465455bed62b5b5191229": {
+      "headline": "China sends naval forces to shadow a U.S. warship near a disputed South China Sea shoal as Taiwan confronts a Chinese Coast Guard ship",
+      "cat": "World / China",
+      "source": "Daily Caller",
+      "url": "https://dailycaller.com/2026/10/20/china-sends-navy-after-us-warship-taiwan-maritime-standoff/",
+      "summary": "China dispatched naval forces Tuesday to track the USS Charleston, an Independence-class littoral combat ship, after it entered waters near Sabina Shoal in the disputed Spratly Islands, while Taiwan separately confronted a Chinese Coast Guard vessel accused of entering restricted waters with its tracking system switched off, the Daily Caller reports. The PLA’s Southern Theater Command accused the American ship of entering Chinese territory without permission. Naval War College strategist James R. Holmes said Taiwan has finally been fielding capabilities designed to deny an invasion or blockade fleet access across the strait, and that Beijing’s behavior has united the countries of the first island chain against it. Heritage Foundation fellow Brent Sadler noted China has kept a significant naval and coast guard presence in the Philippine Sea, giving crews real-world experience in waters where they could operate in a crisis, as steps toward Xi Jinping’s 2027 military goals. Professor Christopher Sharman said routine China Coast Guard patrols east of Taiwan are the newest tool in Beijing’s campaign of military coercion.",
+      "image_remote": "",
+      "image_local": "",
+      "id": "c2aa57011eb78175c46465455bed62b5b5191229"
+    },
+    "93bc0f100d2796596e7cb25c963518a8d39a0150": {
+      "headline": "NRA and other gun-rights groups sue New Mexico for still enforcing a 7-day gun waiting period a federal appeals court called “obviously unconstitutional”",
+      "cat": "Courts / Second Amendment",
+      "source": "Daily Caller",
+      "url": "https://dailycaller.com/2026/10/20/blue-state-sued-after-defying-ruling-striking-down-waiting-period/",
+      "summary": "The National Shooting Sports Foundation, National Rifle Association, Second Amendment Foundation and New Mexico Shooting Sports Association sued New Mexico on Monday, accusing the state of defying court rulings that its seven-day waiting period for gun purchases is unconstitutional, the Daily Caller reports. The Tenth Circuit struck down the waiting period in August 2025, overruling a district judge, and the trial court granted summary judgment on Aug. 28. But because the only plaintiffs in that case, the Ortega case, were two individuals, Attorney General Raúl Torrez’s office and Gov. Michelle Lujan Grisham’s administration have said the ruling covers only those two people and that the law remains in effect for everyone else. “New Mexico does not seem to get the message,” the groups wrote, asking the court to again declare the law, HB129, unconstitutional for buyers who pass the federal background check and to bar the state from enforcing it against them, their customers and their members.",
+      "image_remote": "",
+      "image_local": "",
+      "id": "93bc0f100d2796596e7cb25c963518a8d39a0150"
+    },
+    "44ad6cfb0ec818ec30287d79ad291f885e59acd5": {
+      "headline": "UC Berkeley’s law review is set to vote on deleting all application records after editors were reported pledging to pick members based on race",
+      "cat": "Campus / Higher Ed",
+      "source": "Washington Free Beacon",
+      "url": "https://freebeacon.com/campus/uc-berkeley-law-review-poised-to-delete-all-application-records-after-editors-pledged-to-select-applicants-based-on-race/",
+      "summary": "The California Law Review, Berkeley’s flagship law journal, will vote Wednesday on a document retention policy requiring it to delete all write-on application materials after each year’s selection, along with records tied to electing its Holistic Review Committee, the Washington Free Beacon reports. Members of that eight-person committee, which grades applicants’ personal statements, had pledged in writing to “uplift Native voices,” weigh “diverse life experience” against editing ability and “integrate anti-racist sentiment” into selections, the Free Beacon reported in August. The draft policy would also password-protect application files, bar keeping recordings of election forums and require editors to delete law review documents. At least one editor warned in an email that the move could look like destroying evidence and expose students to criminal liability, noting that the Justice Department sent the Harvard Law Review a cease-and-desist letter last year after it ordered a student to delete documents shared with the Free Beacon, which led to a federal discrimination probe.",
+      "image_remote": "https://freebeacon.com/wp-content/uploads/2026/10/MixCollage-20-Oct-2026-05-31-PM-8066-scaled.jpg",
+      "image_local": "images/story-1246.jpg",
+      "id": "44ad6cfb0ec818ec30287d79ad291f885e59acd5"
+    },
+    "ce1b21de0bc2daab52ad1988ef0f1a3f73355ac8": {
+      "headline": "The 2027 Jeep Cherokee brings back the Trailhawk with low-range 4x4 and red tow hooks, plus two blacked-out Altitude trims, from $37,125",
+      "cat": "Jeep",
+      "source": "Mopar Insiders",
+      "url": "https://moparinsiders.com/2027-jeep-cherokee-adds-three-new-trims/",
+      "summary": "Jeep is adding three trims to the 2027 Cherokee, Mopar Insiders reports, led by the return of the Trailhawk with low-range four-wheel drive. The Trailhawk uses Active Drive II with a two-speed power transfer unit, a 2.92:1 low range and a 37.5:1 crawl ratio, plus a dedicated Rock mode, an off-road suspension, skid plates, all-terrain tires on 17-inch wheels, its own bumpers for more clearance and the familiar red tow hooks; Jeep claims class-best approach, breakover and departure angles. New Laredo Altitude and Limited Altitude models add 18-inch gloss-black wheels, black accents and badges, with Capri leatherette and suede seats on the Laredo Altitude and a gloss-black roof on the Limited Altitude. Every Cherokee keeps the turbocharged 1.6-liter hybrid four-cylinder, which needs no plug-in and is rated up to 37 mpg combined and 39 city with more than 500 miles of range, making it Jeep’s most fuel-efficient non-plug-in vehicle. Pricing starts at $37,125 including destination.",
+      "image_remote": "https://moparinsiders.com/wp-content/uploads/2026/09/JP027_CH005.jpeg",
+      "image_local": "images/story-1247.jpg",
+      "id": "ce1b21de0bc2daab52ad1988ef0f1a3f73355ac8"
+    },
+    "992c990b1e975ba9a5651a4f8835600920f8daf9": {
+      "headline": "Fear Factory’s Dino Cazares says the band’s first album with singer Milo Silvestro is “diverse” but still unmistakably Fear Factory",
+      "cat": "Music / Metal",
+      "source": "Blabbermouth",
+      "url": "https://blabbermouth.net/news/dino-cazares-says-fear-factorys-upcoming-album-is-diverse-it-goes-into-different-elements",
+      "summary": "Fear Factory guitarist Dino Cazares says the band’s upcoming full-length is “diverse” and “goes into different elements,” Blabbermouth reports from his interview with GRIMM Gent. The album follows “Roboticist,” released in late August on Nuclear Blast, the first music with singer Milo Silvestro and drummer Pete Webber, who have toured with the band for more than three and a half years. Cazares said he wrote the instrumental three years ago to demo his Toneforge Disruptor plugin, showing clean, lo-fi and distorted tones and a lower low-E tuning, then knew it had to be released once Silvestro sang the hook. Answering fans who say the song sounds too much, or not enough, like classic Fear Factory and compare Silvestro to original singer Burton C. Bell, he said, “Fear Factory is my style, pretty much… you can’t win, so you put it out and hope for the best.” The record keeps the band’s formula, he said, while Silvestro brings different vocal styles, and the next single will be “a little different too.”",
+      "image_remote": "https://assets.blabbermouth.net/media/dinocazaresgrimmoct2026_638.jpg",
+      "image_local": "images/story-1248.jpg",
+      "id": "992c990b1e975ba9a5651a4f8835600920f8daf9"
     }
   },
-  "updated": "Tuesday, October 20, 2026 · 4:04 PM ET"
+  "updated": "Tuesday, October 20, 2026 · 6:08 PM ET"
 }
