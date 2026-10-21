@@ -1,8 +1,107 @@
 {
-  "updated": "Wednesday, October 21, 2026 · 4:09 PM ET",
+  "updated": "Wednesday, October 21, 2026 · 6:08 PM ET",
   "stories": [
     {
       "n": 1,
+      "headline": "Trump administration asks the Supreme Court to let border wall construction resume in Texas’s Big Bend region",
+      "cat": "Immigration / Courts",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/justice-department-supreme-court-border-wall-big-bend-region/",
+      "image_local": "images/story-1277.jpg",
+      "image_remote": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/20/70d15ef3-844f-4d88-b506-85d06db6c3c8/thumbnail/1200x630/12bb7c361b249c8597b8ebebf0e51f03/dsc01583.jpg",
+      "id": "a96b9e9b67ce578b9b2f0203f84046a59781a732",
+      "summary": "The Justice Department on Wednesday asked the Supreme Court to lift a lower-court injunction that has temporarily blocked the Department of Homeland Security from building a border wall and related infrastructure in the Big Bend Sector, which covers more than 500 miles of the U.S.-Mexico border and 77 Texas counties, CBS News reports. “The district court’s injunction significantly frustrates the government’s ability to stop the flow of illegal aliens and drugs across the southern border,” Solicitor General D. John Sauer wrote, saying the project areas were chosen because of high rates of illegal crossings and drug smuggling. The plan calls for 30-foot bollard walls from Fort Quitman to Closed Canyon in Big Bend Ranch State Park, with walls and roads spanning more than 300 miles; construction of a 47-mile stretch began last month and five barrier contracts have been awarded. The project drew bipartisan pushback, along with objections from ranchers and local law enforcement, after bulldozers appeared at Big Bend National Park. CBP says the wall itself won’t cut through the national park, though patrol roads, detection technology and about 17 miles of vehicle barriers would. The administration invoked a 1996 law letting the DHS secretary waive environmental and preservation requirements for border barriers."
+    },
+    {
+      "n": 2,
+      "headline": "Tesla’s Q3: revenue in line at $28 billion, a slight EPS beat, surprise positive cash flow, and Cybercab joins the Austin Robotaxi fleet",
+      "cat": "Tesla",
+      "source": "Teslarati",
+      "url": "https://www.teslarati.com/tesla-tsla-q3-2026-earnings-results/",
+      "image_local": "images/story-1278.jpg",
+      "image_remote": "https://www.teslarati.com/wp-content/uploads/2026/10/Roadster_58-1000x600.jpg",
+      "id": "17a4a720aba87a45f52c4c27d3dedc96a7b1b92c",
+      "summary": "Tesla reported third-quarter 2026 revenue of $28.05 billion, just under the $28.34 billion expected, and non-GAAP earnings of 48 cents a share, ahead of the 45-cent estimate, Teslarati reports. Operating margin came in at 2.6% on $718 million of operating income, and free cash flow was a positive $1.53 billion against expectations of a large negative number. In its shareholder letter, Tesla said FSD (Supervised) is now attached to more than 75% of new vehicle deliveries in North America, up nearly 20 points from last quarter, and that it has begun volume production of the Tesla Semi, whose top version can go 500 miles fully loaded. Tesla also said it has started deploying Cybercab into its Robotaxi fleet in Austin, where the service has logged nearly two million cumulative unsupervised miles and now runs 6 a.m. to midnight, and that Grok is available in Cybercab. The company plans to reach 400 MW of AI training compute by year-end for vehicle and Optimus autonomy and to begin commissioning equipment at its Austin chip fab in 2027. Net profit still fell sharply from a year ago as spending on AI and Optimus climbed."
+    },
+    {
+      "n": 3,
+      "headline": "U.S. orders non-emergency embassy staff and families out of Saudi Arabia as Houthi attacks on the kingdom escalate",
+      "cat": "World / Middle East",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/us-saudi-arabia-ordered-departure-houthis/",
+      "image_local": "",
+      "image_remote": "",
+      "id": "9a03bedff640107387b636c9ac05a30c4a3168f2",
+      "summary": "The State Department has ordered non-emergency U.S. government employees and their families to leave Saudi Arabia after a surge in attacks on the kingdom by Iran-backed Houthi militants, CBS News reports. Spokesperson Tommy Pigott said the ordered departure applies “in Saudi Arabia only,” pushing back on a report that it could extend to other Gulf states, though several other embassies have shifted to “restricted operations” staffing. The Houthis have fired drones and missiles at Saudi airports and oil facilities in recent weeks, including an Oct. 10 strike on Riyadh’s King Khalid International Airport that killed 12 people, one of them an American, and injured more than 300. Saudi air defenses blocked a drone attack on the Shaybah oil field Tuesday, with two people killed by falling debris. The fighting raises fears for shipping through the Bab al-Mandab Strait, which has grown more important as the U.S.-Iran war disrupts the Strait of Hormuz. The U.K. has offered Saudi Arabia defensive air support; it is not clear whether the Trump administration will help, though the president has not ruled out strikes on the Houthis."
+    },
+    {
+      "n": 4,
+      "headline": "No charges for a Michigan woman with a concealed carry permit who shot a man attacking her boyfriend in a Dearborn store",
+      "cat": "Crime / Self-Defense",
+      "source": "Daily Caller",
+      "url": "https://dailycaller.com/2026/10/21/woman-with-carry-permit-turns-tables-on-thug-beating-up-her-boyfriend",
+      "image_local": "images/story-1279.jpg",
+      "image_remote": "https://images.dailycaller.com/image/width=1280,height=549,fit=cover,format=webp,f=auto/https://cdn01.dailycaller.com/wp-content/uploads/2026/10/DCNF%20-%20CCW%20Dearborn%20Woman%20Boyfriend%20-%20Featured.jpg",
+      "id": "5650fa7c6fe02925fcd6f1e7dc2fca81e6626018",
+      "summary": "Prosecutors in Wayne County, Michigan, say they will not charge a 30-year-old woman with a concealed carry permit who shot and critically wounded a man attacking her boyfriend inside a Dearborn sneaker store, the Daily Caller reports, citing Detroit station WXYZ. Surveillance video from the White House Kicks store on Saturday appears to show the 36-year-old boyfriend greeting a customer before another man attacks him. “They started fighting, then — lady pulls out her gun and then protects her boyfriend,” a witness said, estimating she fired three or four shots. Dearborn Police Chief Issa Shahin said the men appeared to know each other and that the charging decision belonged to Prosecutor Kym Worthy, adding that charges may yet be filed against the people who started the fight. The wounded man was shot in the back."
+    },
+    {
+      "n": 5,
+      "headline": "Jets get WR Adonai Mitchell and LG Dylan Parham back at practice before the Dolphins game, but Breece Hall still sits",
+      "cat": "Sports / Jets",
+      "source": "New York Jets",
+      "url": "https://www.newyorkjets.com/news/adonai-mitchell-dylan-parham-return-to-practice-for-jets-10-21-2026",
+      "image_local": "images/story-1280.jpg",
+      "image_remote": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/jets/lvzkqqmcoy0lhyg5k4ka",
+      "id": "09e3858cb2042b7861169c042cc66664a5e0d51f",
+      "summary": "Wide receiver Adonai Mitchell and left guard Dylan Parham returned to practice on a limited basis Wednesday as the Jets began preparing for Sunday’s home AFC East matchup with Miami, the team reports. Mitchell has missed four games after injuring his finger before Week 3 and having a hand procedure; if he plays, the Jets would have their full set of pass catchers for the first time since their season-opening win in Nashville. Parham, who started the first three games, hurt his knee in the loss at Detroit, and Jordan Meredith has started in his place since. Running back Breece Hall (quad) did not practice, though coach Aaron Glenn said, “I love his progression.” Braelon Allen has filled in well, with 220 scrimmage yards over the last two games, ninth-most in the league. Glenn said edge Joseph Ossai (ankle) and linebacker Kiko Mauigoa (thigh) are week-to-week, while DT T’Vondre Sweat and edge Will McDonald IV were limited."
+    },
+    {
+      "n": 6,
+      "headline": "A reviewer’s machine folded the iPhone Duo more than 32,000 times, and the hinge came out feeling the same, even a bit stiffer",
+      "cat": "Apple / iPhone",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/21/iphone-duo-fold-test-hinge/",
+      "image_local": "images/story-1281.jpg",
+      "image_remote": "https://images.macrumors.com/t/8yz_RbDSIOInfvzgfALDsbhOvRc=/1800x/article-new/2026/10/joanna-stern-fold-test.jpg",
+      "id": "3ffbf88b48037ca766592d5d37d02b0253245620",
+      "summary": "Apple hasn’t published hinge-durability numbers for the iPhone Duo the way Samsung does, so tech reviewer Joanna Stern built a custom machine that folded her review unit more than 32,000 times over four nights, MacRumors reports. Stern said the hinge sometimes seemed to be loosening as the count went up, but a calibrated push-pull gauge showed it was actually slightly stiffer afterward. “After 32,000 folds, it felt pretty much the same as day one, which is pretty darn impressive,” she said. She didn’t say whether the crease became more visible, and the test was done with a case on and without fully closing the phone each time. For comparison, Samsung Display says the Galaxy Z Fold7’s screen passed a 500,000-fold test in 2025. MacRumors expects more unofficial stress tests ahead of the Duo’s release."
+    },
+    {
+      "n": 7,
+      "headline": "Anthropic launches Claude Duet, a proactive AI agent that checks your apps, briefs you each morning and does tasks on its own",
+      "cat": "AI / Tools",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/21/anthropic-claude-duet/",
+      "image_local": "images/story-1282.jpg",
+      "image_remote": "https://images.macrumors.com/t/5v3SEszlh4H0v29GfpQnHJvImds=/3840x/article-new/2026/10/claude-duet.jpg",
+      "id": "6f2ed72bc11e50d5ffe344689422a5bc1d9255ff",
+      "summary": "Anthropic on Wednesday introduced Claude Duet, a proactive AI agent meant to rival Meta’s Muse and OpenAI’s Dots, MacRumors reports. Duet connects to a user’s apps, sends a short brief each morning on important items, checks in every few hours, and alerts the user when something needs attention. It runs in the cloud on its own virtual machine with a browser, so it can finish tasks without access to the user’s computer, from simple admin chores to building web apps. Anthropic says it will ask for approval before sending a message, making a payment, signing a document or deleting a file, and that it does not see passwords or logins for connected accounts. Built on Opus 5.5, Duet uses the memory, skills and connected apps already in a Claude account and keeps everything in one ongoing thread. It is a research preview by waitlist for Pro and Max subscribers in the U.S., on the web and in a standalone iOS app, and counts against existing plan limits."
+    },
+    {
+      "n": 8,
+      "headline": "Sharon Osbourne says she never told Black Sabbath that doctors warned the farewell show could kill Ozzy",
+      "cat": "Music / Metal",
+      "source": "Louder",
+      "url": "https://www.loudersound.com/bands-artists/sharon-osbourne-kept-black-sabbath-in-the-dark-about-doctors-warnings-that-their-back-to-the-beginning-farewell-show-could-kill-ozzy-osbourne",
+      "image_local": "images/story-1283.jpg",
+      "image_remote": "https://cdn.mos.cms.futurecdn.net/7dL9TgSCVMdVoNW7D5q9dU-1280-80.jpg",
+      "id": "7f060b7a7e2d39b6c1f9c6706cf6afe08018b91a",
+      "summary": "Sharon Osbourne says she kept doctors’ warnings about Ozzy Osbourne’s health from Tony Iommi, Geezer Butler and Bill Ward ahead of Black Sabbath’s Back To The Beginning farewell show, Louder reports. Speaking at a London screening of the upcoming documentary Monday night, she said, “The guys didn’t know how sick Ozzy was. Nobody knew,” adding that even their children weren’t told. She had earlier told Rolling Stone that doctors in England strongly advised against the July 5, 2025, show at Villa Park in Birmingham, saying it could kill him, but that Ozzy insisted: “I know I’m dying… This is what I want.” The show near his childhood home in Aston featured Metallica, Slayer, Guns N’ Roses, Tool, Anthrax and others and raised money for local charities. Sharon said Ozzy was “flying high” afterward, “laughing, telling jokes again,” until the day he died. Ozzy & Black Sabbath: Back To The Beginning opens in cinemas worldwide Oct. 28."
+    },
+    {
+      "n": 9,
+      "headline": "Fairfield police recover every dollar of $7,000 a resident handed over in a fake-arrest bail scam",
+      "cat": "Local / Connecticut",
+      "source": "Patch Fairfield",
+      "url": "https://patch.com/connecticut/fairfield/fairfield-police-recover-7-000-stolen-resident-phone-bail-scam",
+      "image_local": "",
+      "image_remote": "",
+      "id": "2fbdb796922a0b66ab2631ca1022a5c2459e41cb",
+      "summary": "Fairfield police have recovered $7,000 stolen from a resident who was tricked into believing her son had been arrested after a car accident and needed bail money, Patch reports. A caller posing as her son and a second caller pretending to be an attorney told her to withdraw cash and arrange a pickup, and she handed the money to a driver. Officers tracked down the driver, who turned out to be a rideshare driver hired without knowing about the scam, and returned the full amount. “Recovering money lost to financial scams is uncommon,” the department said, urging residents to report fraud quickly. Police reminded residents that they never send messengers to collect bail or take bail payments by phone or credit card, and that anyone who gets a call saying a relative has been arrested should check by calling the police department at an independently found number."
+    },
+    {
+      "n": 10,
       "headline": "Armed federal agents are knocking on doors in several states to track down possible noncitizen voters before the midterms",
       "cat": "Politics / Elections",
       "source": "CBS News",
@@ -13,7 +112,7 @@
       "summary": "Armed, uniformed Homeland Security Investigations agents have been knocking on doors in several states to ask residents about their immigration status and whether they have registered to vote or voted in past elections, a CBS News investigation found. The visits ramped up in September and continued over the past weekend as part of a push to root out noncitizen voters before the midterms. DHS has said as many as 250,000 people could be illegally registered, a figure election experts dispute; the Justice Department says 156 people have been charged with voting-fraud offenses since the start of the Trump administration, out of 227 million registered voters. On Monday the Justice Department announced that HSI agents in California had arrested more than 20 green card holders accused of illegally registering or voting, including a 72-year-old man from Belize accused of voting in the past four elections. “HSI is actively rooting out and investigating election fraud wherever it can be found,” a DHS spokesperson said, adding that only American citizens should be electing American leaders. Protect Democracy, a left-leaning group suing over the campaign, says the armed visits could scare lawful voters."
     },
     {
-      "n": 2,
+      "n": 11,
       "headline": "Sources say it was Elon Musk’s decision that throttled Ukraine’s access to SpaceX’s Starshield network, not an order from Trump or the Pentagon",
       "cat": "Elon / SpaceX",
       "source": "CBS News",
@@ -24,7 +123,7 @@
       "summary": "A decision by Elon Musk led to last week’s restrictions on Ukraine’s use of SpaceX’s Starshield satellite network, people familiar with the matter told CBS News. Musk held several conversations with administration officials beforehand, wanting clarity on President Trump’s thinking, and has expressed distaste for his company being seen as profiting from the war. Last week Musk wrote on X that “any limits on speed or usage are decided by the US military and ultimately POTUS,” but the restrictions surprised some officials, who said neither Trump nor the Pentagon ordered limits meant to disrupt drone operations. Trump said Monday he was seeking details on who ordered the slowdown, and Defense Secretary Pete Hegseth said Tuesday, “We haven’t pulled anything back,” adding that Starlink has the option to make those decisions under its terms of service. Starshield, the military-grade version of Starlink that the U.S. government pays for, normally has no speed cap, but Ukrainian units reported link drops at speeds as low as 90 km/h, grounding the long-range strike drones that cruise at 160 km/h or more. Zelenskyy’s office said Wednesday the service was still throttled. Musk did not respond to a request for comment."
     },
     {
-      "n": 3,
+      "n": 12,
       "headline": "Judge orders Meta to pay New Mexico $25 billion, its biggest fine ever, for deceiving Facebook users about privacy in the Cambridge Analytica scandal",
       "cat": "Tech / Courts",
       "source": "PBS NewsHour",
@@ -35,7 +134,7 @@
       "summary": "A New Mexico judge on Wednesday ordered Meta to pay the state $25 billion after a jury found the company liable for deceiving users about privacy, the largest penalty ever against Facebook’s owner, PBS NewsHour reports. Jurors in September found Meta committed more than 43 million violations of state consumer protection laws when the political consulting firm Cambridge Analytica harvested Facebook user data to target political ads in the 2016 election. “Facebook promised users that they (the users) controlled their data. This was false,” Judge Francis J. Matthew wrote. The state had sought $35 billion to $40 billion; Meta argued for no more than $3.4 billion and has said it will appeal. Attorney General Raúl Torrez called the ruling “an unambiguous message, to Silicon Valley,” noting that under the state constitution the money goes to education: “We may have paid for the construction of schools for the next 100 years.” The fine dwarfs the $5 billion the FTC imposed in 2019. Meta shares were up about 2% ahead of its quarterly earnings report Wednesday afternoon."
     },
     {
-      "n": 4,
+      "n": 13,
       "headline": "Pope Leo XIV will not need any further treatment after his lung cancer surgery, his doctors say",
       "cat": "World / Vatican",
       "source": "NBC News",
@@ -46,7 +145,7 @@
       "summary": "Pope Leo XIV will not need further treatment after surgery for lung cancer, his doctors said Wednesday in an update released by the Vatican press office, NBC News reports. Final analysis of the tissue removed during the operation confirmed “a pulmonary adenocarcinoma and that the disease was localized,” Dr. Luigi Carbone and Prof. Stefano Margaritora said, and “a subsequent oncological evaluation has confirmed that no further therapy is required.” The 71-year-old pope had surgery earlier this month at Rome’s Gemelli Hospital to remove a nodule found during routine tests at what he called “a very early stage.” He was discharged Saturday and returned to public duties Sunday with a prayer from the papal apartment window. “This experience has made me feel particularly close to all those who are experiencing illness and a condition of frailty,” he said, adding that he would “gradually resume my activities, always with God’s help and your prayers.”"
     },
     {
-      "n": 5,
+      "n": 14,
       "headline": "A Florida police officer who found a man dead on a welfare check allegedly moved into his house, renovated it and posed as him for years",
       "cat": "Crime / Courts",
       "source": "NBC News",
@@ -57,7 +156,7 @@
       "summary": "A Lauderhill, Florida, police officer who helped find a 71-year-old man dead in his home during a 2022 welfare check allegedly moved into the house weeks later and spent years impersonating him, NBC News reports. Brian Louis Sguros, 35, was arrested Tuesday on felony charges including official misconduct and criminal use of a deceased person’s identification. The Broward Sheriff’s Office says Dennis West died of natural causes in July 2022, and that Sguros took possession of the home that August, told the medical examiner’s office he was West’s friend, though there is no sign he knew him, and falsely said West had no living family. Investigators say Sguros paid taxes and utilities in West’s name, used law enforcement databases to look up information about him, and forged West’s signature to get a city permit for repairs. He was ordered held on $25,000 bond Wednesday and has been placed on unpaid administrative leave."
     },
     {
-      "n": 6,
+      "n": 15,
       "headline": "Titans cut defensive lineman Jordan Elliott for bringing a gun to the team facility, but Robert Saleh tells other teams to call him",
       "cat": "Sports / NFL",
       "source": "NBC News",
@@ -68,7 +167,7 @@
       "summary": "The Tennessee Titans released defensive lineman Jordan Elliott on Wednesday after he brought a gun to the team’s Nashville training facility on Oct. 15, NBC News reports. Coach Robert Saleh called it “a terrible lapse in judgment that I recognize as a call for help more than a criminal act” and said Elliott is “a good man” who deserves another chance, just not in Tennessee. “Unfortunately rules are rules with regards to guns on (team) property,” Saleh said, adding a message to the league’s other 31 teams: if they need “a hell of a run-stopping D tackle” for a playoff run, “give me a call.” The NFL said its policy bars firearms at team facilities, stadiums, hotels, planes and buses and that the matter is under review. Nashville police were not called. Elliott, in his seventh season after stints with Cleveland and San Francisco, played in Tennessee’s first five games before being listed inactive Sunday for personal reasons."
     },
     {
-      "n": 7,
+      "n": 16,
       "headline": "Westport police charge a New York man with kidnapping after he allegedly beat an ex in his car, crashed near I-95 and tried to run them over",
       "cat": "Local / Connecticut",
       "source": "Patch",
@@ -79,7 +178,7 @@
       "summary": "Westport police have charged a Port Chester, New York, man with first-degree kidnapping and attempted first-degree assault after an Oct. 15 incident in which he allegedly assaulted a former partner and tried to run them over, Patch reports. Police say the victim had recently ended the relationship with Vanderval Ferreira, who then made repeated calls and sent texts that included “threats to kill the victim.” The victim agreed to meet him and got into his car; police say he drove erratically around Westport and struck and restrained the victim when they tried to get out. The car hit a guardrail and spun out while entering I-95 at Exit 17, letting the victim escape, and Ferreira allegedly then drove at them as they ran. Ferreira, already jailed on an unrelated matter, was served the warrant Tuesday at Stamford Superior Court, is held on $500,000 bail and is due back in court Dec. 15."
     },
     {
-      "n": 8,
+      "n": 17,
       "headline": "LEGO and Daft Punk tease a mystery collaboration, with clues pointing to a reveal as soon as Thursday",
       "cat": "LEGO",
       "source": "Brick Fanatics",
@@ -88,105 +187,6 @@
       "image_remote": "https://www.brickfanatics.com/storage/uploads/2cdb28cc-4d0a-47d3-ba27-203a9a2b2199.jpg",
       "id": "65514f139e4afd8c7df7bbf4419e1f8ccf18b440",
       "summary": "The LEGO Group and Daft Punk have teased an upcoming collaboration, Brick Fanatics reports. The hint came in the electronic duo’s latest WDPK RADIO LIVE YouTube broadcast: about a minute in, a room full of computers shows a box marked “Confidential,” and one of Daft Punk’s metallic gloved hands flips a switch that lights up a red LEGO brick outline with the codes “GM08,” “2007” and “22.10,” the last possibly pointing to a fuller reveal on Oct. 22. No details have been announced. Brick Fanatics speculates it may be tied to “Daft Punk Concert,” a fan-designed LEGO Ideas project by RobotRock that has been awaiting a decision since qualifying for review in 2025. That roughly 2,000-piece build recreates the duo’s Alive 2007 tour stage, with a motorized, lit pyramid of transparent bricks."
-    },
-    {
-      "n": 9,
-      "headline": "Satire: Baptist baseball fans torn between rooting for the team named after the devil or the team named after beer",
-      "cat": "Satire",
-      "source": "The Babylon Bee",
-      "url": "https://babylonbee.com/news/baptist-baseball-fans-torn-between-rooting-for-team-named-after-devil-or-team-named-after-beer/",
-      "image_local": "images/story-1276.jpg",
-      "image_remote": "https://media.babylonbee.com/articles/6ad8ffa151b316ad8ffa151b32.jpg",
-      "id": "a762b044f713b3830517fe97c5796839a6725af3",
-      "summary": "In a Babylon Bee satire piece, a Baptist and part-time baseball fan in Alpharetta, Georgia, is struggling ahead of the World Series between the Milwaukee Brewers and the Tampa Bay Devil Rays because rooting for either team would violate his conscience. “I guess devils are at least kind of spiritual, and we are supposed to believe in them. But cheer for them? I can’t do that. But on the other hand — beer! Oh, this is hard!” says the fictional Rob Milton of Second Baptist Church. Members of his men’s prayer group feel the same way, and one wonders, “Is it too much to ask for a good, clean game between the Guardians and the Diamondbacks?” Milton ends up planning an anti-World Series party with lemonade and a screening of Left Behind."
-    },
-    {
-      "n": 10,
-      "headline": "Trump weighs moving the White House press corps out of the building, and his team says “all options remain on the table”",
-      "cat": "Media / White House",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/trump-white-house-press-corps/",
-      "image_local": "images/story-1265.jpg",
-      "image_remote": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/21/98472c1f-c8b6-4578-bb27-c0c2827fdb44/thumbnail/1200x630/ec60f8014095e5b28b75125f4d66a1fa/gettyimages-2299469295.jpg",
-      "id": "738df674dc3a689bfa7cac2f77c8ad4ef4364d8e",
-      "summary": "President Trump has discussed moving the White House press corps out of the building, according to two people close to the president, CBS News reports. One source said outside allies, including former strategist Steve Bannon, have pushed the idea in recent weeks. Communications director Steven Cheung said in a statement that “America is rightly distrustful of the fake news media because they fabricate stories based off lies,” adding, “All options remain on the table, and we will make an announcement when appropriate.” Reporters have had workspaces in the White House for more than a century, and the current briefing room was built during the Nixon administration over FDR’s swimming pool. Late last month Trump posted a before-and-after image suggesting the room could become a pool again. Officials floated a similar move before his first term but dropped it after, as Trump put it, “the press went crazy.” The idea comes after more than a year of fights over access, including last month’s attempted ban on CNN, MS NOW and Politico, which a federal judge blocked."
-    },
-    {
-      "n": 11,
-      "headline": "The first iPhone Duo reviews are in: Apple’s foldable is fast, fun and expensive, but full of first-generation compromises",
-      "cat": "Apple / iPhone",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/review/iphone-duo/",
-      "image_local": "images/story-1266.jpg",
-      "image_remote": "https://images.macrumors.com/t/QEcLJAnrVzxsgfh9rDuGVcnJkpE=/1920x/article-new/2026/10/iPhone-Duo-Reviews-Feature.jpg",
-      "id": "9a2c51746e2d51c0a27f6ca0e637e4f9efdb212d",
-      "summary": "The first reviews of Apple’s iPhone Duo foldable landed Wednesday ahead of Friday’s launch, and MacRumors’ roundup finds them mostly positive but mixed. The Verge called it “expensive, full of compromises” and at times “incredibly frustrating,” yet fun in the way the best early-adopter devices are, comparing it to the first MacBook Air. Gizmodo found no slowdown versus the iPhone 18 Pro, since the Duo shares the same A20 Pro chip and adds a vapor chamber, and its Geekbench scores beat Samsung’s Galaxy Z Fold 8, especially on graphics. WIRED said many third-party apps still need updates to fill the 7.6-inch inner display, and apps that haven’t been updated show black bars on the sides, so buyers may want to wait a few months. CNET said the 5.4-inch cover screen doesn’t feel cramped and praised the matte inner display for reading. 9to5Mac found the switch from Face ID back to Touch ID the hardest adjustment, though Apple Watch unlock helps. Apple also says walk-in stock will be very limited on Friday."
-    },
-    {
-      "n": 12,
-      "headline": "Critical flaws in PHP, the code behind about 69% of websites, send sites offline and admins rushing to patch, and OpenAI says its AI found them",
-      "cat": "Tech / Security",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/tech/security/critical-vulnerabilities-php-update-systems-rcna604751",
-      "image_local": "",
-      "image_remote": "",
-      "id": "90d181f03d89c6115bc1573f3d82ae11dee68b39",
-      "summary": "Critical vulnerabilities in PHP, the programming language that powers how much of the web’s servers process code, are severe enough that European and British authorities advised websites to temporarily go offline until they are fixed, NBC News reports. PHP’s security team released patches around 10 a.m. ET Wednesday, but several sites were already down as a precaution, including the bookmarking site Pinboard, parts of Wikipedia, the forums 4chan and Something Awful, and some Japanese services. PHP runs on 69% of all websites, according to W3Techs. OpenAI said it helped discover the flaws through its program that gives cybersecurity firms access to models skilled at finding software bugs, calling it “one of the most impactful security issues in recent memory” and warning that the same AI capabilities can help attackers build exploits. Patchstack said it had received reports of active exploitation, and Cloudflare’s chief technology officer said the company was “seeing early attacks emerging.” The NSA and other agencies have also issued warnings."
-    },
-    {
-      "n": 13,
-      "headline": "A cartel-linked mother wanted for nearly 30 years in the torture and killing of her 3-year-old daughter in Arizona is captured in Mexico",
-      "cat": "Crime / Courts",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/anna-marlene-somoza-fugitive-arrested-mexico-us-marshals/",
-      "image_local": "images/story-1267.jpg",
-      "image_remote": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/21/fa687bac-3a5e-4816-8e8c-41ac6f41a2d7/thumbnail/1200x630g2/56c672a5860a0338341bcac7ac90eedb/fugitive-screenshot-2026-10-21-091341.png",
-      "id": "a93d06836609310ee53d598c6711f6915a3b391b",
-      "summary": "Anna Marlene Somoza, who is accused of torturing and murdering her daughter in Arizona in 1997, has been captured in Mexico and is awaiting extradition to face first-degree murder charges, CBS News reports. The U.S. Marshals Service said Somoza was tied to a “major transnational drug trafficking network” along the Arizona border and had become a confidential informant after a 1993 marijuana arrest. She and her daughter, Crystal Reyes, moved in with narcotics detective Avelino Tamala, with whom she had an “improper romantic relationship.” Marshals say the girl suffered severe abuse, including being bound and gagged in a dog kennel for weeks, and suffocated inside a sealed cardboard box on Jan. 30, 1997. Bone fragments found in 1998 went unidentified until cold-case detectives found the girl’s father, a U.S. law enforcement officer, in 2014 and matched his DNA. Somoza and Tamala were indicted that December. Tamala was arrested the same day, but Somoza had disappeared and stayed on the run until her capture this week."
-    },
-    {
-      "n": 14,
-      "headline": "Australian lawmaker Helen Haines loses both legs after a targeted car attack, as the accused driver makes his first court appearance",
-      "cat": "World / Australia",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/australian-politician-intentionally-hit-by-car-loses-both-legs/",
-      "image_local": "images/story-1268.jpg",
-      "image_remote": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/21/10527f0d-6dc2-497b-8f9d-70f8ba60078f/thumbnail/1200x630/b710c23a1994f2aed7d0387d6df58f6c/ap26294242313813.jpg",
-      "id": "ec4b675325dabf3eb4934eaf3f88f474445851c2",
-      "summary": "Helen Haines, the Australian independent lawmaker struck by a car outside her office in Wangaratta on Monday, has had both legs amputated, her husband said Wednesday, CBS News reports. Haines, 65, is now stable at a Melbourne hospital after days in intensive care. “The good news in all this is Helen is alive and she’s stable,” Phil Haines said, adding, “Helen’s road to recovery will be long and difficult, but we know she is a fighter.” The accused driver, 43-year-old Brendan Nugent, appeared in a Wangaratta court for the first time Wednesday. He is charged with dangerous driving causing serious injury, intentionally causing serious injury, and the federal crime of harming a public official, which carries up to 10 years in prison, along with cannabis charges. Police have called it a targeted attack. Prime Minister Anthony Albanese led tributes to Haines, an anti-corruption campaigner, in a country where political violence is rare but threats against elected officials have been rising."
-    },
-    {
-      "n": 15,
-      "headline": "Penguins cancel Wednesday practice after Ben Kindel’s medical scare on the team plane, and Kyle Dubas will speak before Thursday’s game",
-      "cat": "Sports / Penguins",
-      "source": "Pittsburgh Hockey Now",
-      "url": "https://pittsburghhockeynow.com/pittsburgh-penguins-cancel-practice-ben-kindel/",
-      "image_local": "",
-      "image_remote": "",
-      "id": "2228f027d041d5ea361d2cb309a7f7d39e1e407c",
-      "summary": "The Penguins canceled practice Wednesday after the team’s flight home from Salt Lake City was turned back when 19-year-old center Ben Kindel had a medical episode shortly after takeoff, Pittsburgh Hockey Now reports. Kindel was taken to a Salt Lake City hospital, where he remains in stable condition, and the team called off practice because of that and the extended travel that followed. President of hockey operations and general manager Kyle Dubas will speak to reporters before Thursday’s morning skate. Pittsburgh, which finished its Western road trip 0-4, hosts the Florida Panthers on Thursday night."
-    },
-    {
-      "n": 16,
-      "headline": "The Offspring guitarist Noodles steps away from live shows to deal with a “sudden and fairly serious health issue”",
-      "cat": "Music / Punk",
-      "source": "Consequence",
-      "url": "https://consequence.net/2026/10/the-offspring-noodles-serious-health-issue/",
-      "image_local": "images/story-1269.jpg",
-      "image_remote": "https://consequence.net/wp-content/uploads/2026/10/Noodles.jpg",
-      "id": "d5f2dd6288d83e2fe0e0e88763e5d9f685f70e39",
-      "summary": "Kevin “Noodles” Wasserman, lead guitarist of The Offspring, is stepping away from live performances for now to deal with what he called “a sudden and fairly serious health issue,” Consequence reports. “It is with deep sadness that I have to announce that I need to step away from live performances for a while,” he wrote in a statement on the band’s social media. “The rest of the band has my back, is super supportive, and will keep rocking you all in my absence. I hope to be back on stage sooner rather than later. Until then, I will miss all of you with all of my heart.” He did not say what the health issue is."
-    },
-    {
-      "n": 17,
-      "headline": "Ovation revives its cult mid-’70s Viper electric, once played by Jeff Buckley, in two 60-piece runs for its 60th birthday",
-      "cat": "Music / Guitar",
-      "source": "Guitar World",
-      "url": "https://www.guitarworld.com/gear/electric-guitars/ovation-viper-2026",
-      "image_local": "images/story-1270.jpg",
-      "image_remote": "https://cdn.mos.cms.futurecdn.net/xGjMUdh9eHkLHQHDra7uC7-1200-80.jpg",
-      "id": "bed139e646f0a452cf696b7859bfa3544d9bc39e",
-      "summary": "Ovation is marking its 60th anniversary by bringing back the Viper, the odd, lightweight electric guitar it first released in the mid-1970s, Guitar World reports. Jeff Buckley was a fan of the guitar. The company, founded by aerospace engineer Charles Kaman, was known for its roundback acoustics and made the axe-shaped guitar Ace Frehley used on Kiss’s 1974 debut. The new Viper comes in two versions, each limited to 60 pieces: the Viper IV-DTD-G, with a basswood body, maple veneer and Babicz hardtail bridge in Blue Burst, and the Viper IV-1-G, with an alder body and Babicz tremolo in Honey Burst. Both have U.S.-made Lace Sensor Hot Gold Dually humbuckers with push-pull coil splits, a 25.5-inch scale, bolt-on maple necks, Java rosewood fingerboards and 24 frets. “Ovation has always been at its strongest when we dared to be different,” product manager Thomas Neuhierl said. Each costs €1,194 (about $1,122) and comes with a gig bag."
     },
     {
       "n": 18,

@@ -1419,7 +1419,16 @@
     "9c0b134f3a4aea45e7fb14cbde84acbbb4899766",
     "4832c58bf9220fc8a9f4238457c7db3f248dbf9f",
     "65514f139e4afd8c7df7bbf4419e1f8ccf18b440",
-    "a762b044f713b3830517fe97c5796839a6725af3"
+    "a762b044f713b3830517fe97c5796839a6725af3",
+    "a96b9e9b67ce578b9b2f0203f84046a59781a732",
+    "17a4a720aba87a45f52c4c27d3dedc96a7b1b92c",
+    "9a03bedff640107387b636c9ac05a30c4a3168f2",
+    "5650fa7c6fe02925fcd6f1e7dc2fca81e6626018",
+    "09e3858cb2042b7861169c042cc66664a5e0d51f",
+    "3ffbf88b48037ca766592d5d37d02b0253245620",
+    "6f2ed72bc11e50d5ffe344689422a5bc1d9255ff",
+    "7f060b7a7e2d39b6c1f9c6706cf6afe08018b91a",
+    "2fbdb796922a0b66ab2631ca1022a5c2459e41cb"
   ],
   "stories": {
     "0c2ac7a5e342411678296315c4c59043b1f067cc": {
@@ -16977,7 +16986,97 @@
       "image_remote": "https://media.babylonbee.com/articles/6ad8ffa151b316ad8ffa151b32.jpg",
       "image_local": "images/story-1276.jpg",
       "id": "a762b044f713b3830517fe97c5796839a6725af3"
+    },
+    "a96b9e9b67ce578b9b2f0203f84046a59781a732": {
+      "headline": "Trump administration asks the Supreme Court to let border wall construction resume in Texas’s Big Bend region",
+      "cat": "Immigration / Courts",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/justice-department-supreme-court-border-wall-big-bend-region/",
+      "summary": "The Justice Department on Wednesday asked the Supreme Court to lift a lower-court injunction that has temporarily blocked the Department of Homeland Security from building a border wall and related infrastructure in the Big Bend Sector, which covers more than 500 miles of the U.S.-Mexico border and 77 Texas counties, CBS News reports. “The district court’s injunction significantly frustrates the government’s ability to stop the flow of illegal aliens and drugs across the southern border,” Solicitor General D. John Sauer wrote, saying the project areas were chosen because of high rates of illegal crossings and drug smuggling. The plan calls for 30-foot bollard walls from Fort Quitman to Closed Canyon in Big Bend Ranch State Park, with walls and roads spanning more than 300 miles; construction of a 47-mile stretch began last month and five barrier contracts have been awarded. The project drew bipartisan pushback, along with objections from ranchers and local law enforcement, after bulldozers appeared at Big Bend National Park. CBP says the wall itself won’t cut through the national park, though patrol roads, detection technology and about 17 miles of vehicle barriers would. The administration invoked a 1996 law letting the DHS secretary waive environmental and preservation requirements for border barriers.",
+      "image_remote": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/20/70d15ef3-844f-4d88-b506-85d06db6c3c8/thumbnail/1200x630/12bb7c361b249c8597b8ebebf0e51f03/dsc01583.jpg",
+      "image_local": "images/story-1277.jpg",
+      "id": "a96b9e9b67ce578b9b2f0203f84046a59781a732"
+    },
+    "17a4a720aba87a45f52c4c27d3dedc96a7b1b92c": {
+      "headline": "Tesla’s Q3: revenue in line at $28 billion, a slight EPS beat, surprise positive cash flow, and Cybercab joins the Austin Robotaxi fleet",
+      "cat": "Tesla",
+      "source": "Teslarati",
+      "url": "https://www.teslarati.com/tesla-tsla-q3-2026-earnings-results/",
+      "summary": "Tesla reported third-quarter 2026 revenue of $28.05 billion, just under the $28.34 billion expected, and non-GAAP earnings of 48 cents a share, ahead of the 45-cent estimate, Teslarati reports. Operating margin came in at 2.6% on $718 million of operating income, and free cash flow was a positive $1.53 billion against expectations of a large negative number. In its shareholder letter, Tesla said FSD (Supervised) is now attached to more than 75% of new vehicle deliveries in North America, up nearly 20 points from last quarter, and that it has begun volume production of the Tesla Semi, whose top version can go 500 miles fully loaded. Tesla also said it has started deploying Cybercab into its Robotaxi fleet in Austin, where the service has logged nearly two million cumulative unsupervised miles and now runs 6 a.m. to midnight, and that Grok is available in Cybercab. The company plans to reach 400 MW of AI training compute by year-end for vehicle and Optimus autonomy and to begin commissioning equipment at its Austin chip fab in 2027. Net profit still fell sharply from a year ago as spending on AI and Optimus climbed.",
+      "image_remote": "https://www.teslarati.com/wp-content/uploads/2026/10/Roadster_58-1000x600.jpg",
+      "image_local": "images/story-1278.jpg",
+      "id": "17a4a720aba87a45f52c4c27d3dedc96a7b1b92c"
+    },
+    "9a03bedff640107387b636c9ac05a30c4a3168f2": {
+      "headline": "U.S. orders non-emergency embassy staff and families out of Saudi Arabia as Houthi attacks on the kingdom escalate",
+      "cat": "World / Middle East",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/us-saudi-arabia-ordered-departure-houthis/",
+      "summary": "The State Department has ordered non-emergency U.S. government employees and their families to leave Saudi Arabia after a surge in attacks on the kingdom by Iran-backed Houthi militants, CBS News reports. Spokesperson Tommy Pigott said the ordered departure applies “in Saudi Arabia only,” pushing back on a report that it could extend to other Gulf states, though several other embassies have shifted to “restricted operations” staffing. The Houthis have fired drones and missiles at Saudi airports and oil facilities in recent weeks, including an Oct. 10 strike on Riyadh’s King Khalid International Airport that killed 12 people, one of them an American, and injured more than 300. Saudi air defenses blocked a drone attack on the Shaybah oil field Tuesday, with two people killed by falling debris. The fighting raises fears for shipping through the Bab al-Mandab Strait, which has grown more important as the U.S.-Iran war disrupts the Strait of Hormuz. The U.K. has offered Saudi Arabia defensive air support; it is not clear whether the Trump administration will help, though the president has not ruled out strikes on the Houthis.",
+      "image_remote": "",
+      "image_local": "",
+      "id": "9a03bedff640107387b636c9ac05a30c4a3168f2"
+    },
+    "5650fa7c6fe02925fcd6f1e7dc2fca81e6626018": {
+      "headline": "No charges for a Michigan woman with a concealed carry permit who shot a man attacking her boyfriend in a Dearborn store",
+      "cat": "Crime / Self-Defense",
+      "source": "Daily Caller",
+      "url": "https://dailycaller.com/2026/10/21/woman-with-carry-permit-turns-tables-on-thug-beating-up-her-boyfriend",
+      "summary": "Prosecutors in Wayne County, Michigan, say they will not charge a 30-year-old woman with a concealed carry permit who shot and critically wounded a man attacking her boyfriend inside a Dearborn sneaker store, the Daily Caller reports, citing Detroit station WXYZ. Surveillance video from the White House Kicks store on Saturday appears to show the 36-year-old boyfriend greeting a customer before another man attacks him. “They started fighting, then — lady pulls out her gun and then protects her boyfriend,” a witness said, estimating she fired three or four shots. Dearborn Police Chief Issa Shahin said the men appeared to know each other and that the charging decision belonged to Prosecutor Kym Worthy, adding that charges may yet be filed against the people who started the fight. The wounded man was shot in the back.",
+      "image_remote": "https://images.dailycaller.com/image/width=1280,height=549,fit=cover,format=webp,f=auto/https://cdn01.dailycaller.com/wp-content/uploads/2026/10/DCNF%20-%20CCW%20Dearborn%20Woman%20Boyfriend%20-%20Featured.jpg",
+      "image_local": "images/story-1279.jpg",
+      "id": "5650fa7c6fe02925fcd6f1e7dc2fca81e6626018"
+    },
+    "09e3858cb2042b7861169c042cc66664a5e0d51f": {
+      "headline": "Jets get WR Adonai Mitchell and LG Dylan Parham back at practice before the Dolphins game, but Breece Hall still sits",
+      "cat": "Sports / Jets",
+      "source": "New York Jets",
+      "url": "https://www.newyorkjets.com/news/adonai-mitchell-dylan-parham-return-to-practice-for-jets-10-21-2026",
+      "summary": "Wide receiver Adonai Mitchell and left guard Dylan Parham returned to practice on a limited basis Wednesday as the Jets began preparing for Sunday’s home AFC East matchup with Miami, the team reports. Mitchell has missed four games after injuring his finger before Week 3 and having a hand procedure; if he plays, the Jets would have their full set of pass catchers for the first time since their season-opening win in Nashville. Parham, who started the first three games, hurt his knee in the loss at Detroit, and Jordan Meredith has started in his place since. Running back Breece Hall (quad) did not practice, though coach Aaron Glenn said, “I love his progression.” Braelon Allen has filled in well, with 220 scrimmage yards over the last two games, ninth-most in the league. Glenn said edge Joseph Ossai (ankle) and linebacker Kiko Mauigoa (thigh) are week-to-week, while DT T’Vondre Sweat and edge Will McDonald IV were limited.",
+      "image_remote": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/jets/lvzkqqmcoy0lhyg5k4ka",
+      "image_local": "images/story-1280.jpg",
+      "id": "09e3858cb2042b7861169c042cc66664a5e0d51f"
+    },
+    "3ffbf88b48037ca766592d5d37d02b0253245620": {
+      "headline": "A reviewer’s machine folded the iPhone Duo more than 32,000 times, and the hinge came out feeling the same, even a bit stiffer",
+      "cat": "Apple / iPhone",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/21/iphone-duo-fold-test-hinge/",
+      "summary": "Apple hasn’t published hinge-durability numbers for the iPhone Duo the way Samsung does, so tech reviewer Joanna Stern built a custom machine that folded her review unit more than 32,000 times over four nights, MacRumors reports. Stern said the hinge sometimes seemed to be loosening as the count went up, but a calibrated push-pull gauge showed it was actually slightly stiffer afterward. “After 32,000 folds, it felt pretty much the same as day one, which is pretty darn impressive,” she said. She didn’t say whether the crease became more visible, and the test was done with a case on and without fully closing the phone each time. For comparison, Samsung Display says the Galaxy Z Fold7’s screen passed a 500,000-fold test in 2025. MacRumors expects more unofficial stress tests ahead of the Duo’s release.",
+      "image_remote": "https://images.macrumors.com/t/8yz_RbDSIOInfvzgfALDsbhOvRc=/1800x/article-new/2026/10/joanna-stern-fold-test.jpg",
+      "image_local": "images/story-1281.jpg",
+      "id": "3ffbf88b48037ca766592d5d37d02b0253245620"
+    },
+    "6f2ed72bc11e50d5ffe344689422a5bc1d9255ff": {
+      "headline": "Anthropic launches Claude Duet, a proactive AI agent that checks your apps, briefs you each morning and does tasks on its own",
+      "cat": "AI / Tools",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/21/anthropic-claude-duet/",
+      "summary": "Anthropic on Wednesday introduced Claude Duet, a proactive AI agent meant to rival Meta’s Muse and OpenAI’s Dots, MacRumors reports. Duet connects to a user’s apps, sends a short brief each morning on important items, checks in every few hours, and alerts the user when something needs attention. It runs in the cloud on its own virtual machine with a browser, so it can finish tasks without access to the user’s computer, from simple admin chores to building web apps. Anthropic says it will ask for approval before sending a message, making a payment, signing a document or deleting a file, and that it does not see passwords or logins for connected accounts. Built on Opus 5.5, Duet uses the memory, skills and connected apps already in a Claude account and keeps everything in one ongoing thread. It is a research preview by waitlist for Pro and Max subscribers in the U.S., on the web and in a standalone iOS app, and counts against existing plan limits.",
+      "image_remote": "https://images.macrumors.com/t/5v3SEszlh4H0v29GfpQnHJvImds=/3840x/article-new/2026/10/claude-duet.jpg",
+      "image_local": "images/story-1282.jpg",
+      "id": "6f2ed72bc11e50d5ffe344689422a5bc1d9255ff"
+    },
+    "7f060b7a7e2d39b6c1f9c6706cf6afe08018b91a": {
+      "headline": "Sharon Osbourne says she never told Black Sabbath that doctors warned the farewell show could kill Ozzy",
+      "cat": "Music / Metal",
+      "source": "Louder",
+      "url": "https://www.loudersound.com/bands-artists/sharon-osbourne-kept-black-sabbath-in-the-dark-about-doctors-warnings-that-their-back-to-the-beginning-farewell-show-could-kill-ozzy-osbourne",
+      "summary": "Sharon Osbourne says she kept doctors’ warnings about Ozzy Osbourne’s health from Tony Iommi, Geezer Butler and Bill Ward ahead of Black Sabbath’s Back To The Beginning farewell show, Louder reports. Speaking at a London screening of the upcoming documentary Monday night, she said, “The guys didn’t know how sick Ozzy was. Nobody knew,” adding that even their children weren’t told. She had earlier told Rolling Stone that doctors in England strongly advised against the July 5, 2025, show at Villa Park in Birmingham, saying it could kill him, but that Ozzy insisted: “I know I’m dying… This is what I want.” The show near his childhood home in Aston featured Metallica, Slayer, Guns N’ Roses, Tool, Anthrax and others and raised money for local charities. Sharon said Ozzy was “flying high” afterward, “laughing, telling jokes again,” until the day he died. Ozzy & Black Sabbath: Back To The Beginning opens in cinemas worldwide Oct. 28.",
+      "image_remote": "https://cdn.mos.cms.futurecdn.net/7dL9TgSCVMdVoNW7D5q9dU-1280-80.jpg",
+      "image_local": "images/story-1283.jpg",
+      "id": "7f060b7a7e2d39b6c1f9c6706cf6afe08018b91a"
+    },
+    "2fbdb796922a0b66ab2631ca1022a5c2459e41cb": {
+      "headline": "Fairfield police recover every dollar of $7,000 a resident handed over in a fake-arrest bail scam",
+      "cat": "Local / Connecticut",
+      "source": "Patch Fairfield",
+      "url": "https://patch.com/connecticut/fairfield/fairfield-police-recover-7-000-stolen-resident-phone-bail-scam",
+      "summary": "Fairfield police have recovered $7,000 stolen from a resident who was tricked into believing her son had been arrested after a car accident and needed bail money, Patch reports. A caller posing as her son and a second caller pretending to be an attorney told her to withdraw cash and arrange a pickup, and she handed the money to a driver. Officers tracked down the driver, who turned out to be a rideshare driver hired without knowing about the scam, and returned the full amount. “Recovering money lost to financial scams is uncommon,” the department said, urging residents to report fraud quickly. Police reminded residents that they never send messengers to collect bail or take bail payments by phone or credit card, and that anyone who gets a call saying a relative has been arrested should check by calling the police department at an independently found number.",
+      "image_remote": "",
+      "image_local": "",
+      "id": "2fbdb796922a0b66ab2631ca1022a5c2459e41cb"
     }
   },
-  "updated": "Wednesday, October 21, 2026 · 4:09 PM ET"
+  "updated": "Wednesday, October 21, 2026 · 6:08 PM ET"
 }
