@@ -1402,7 +1402,15 @@
     "7d828ac2d785a6f5dbaf8aa6f759e240ab479166",
     "759c43656e38fdeed8e7b886cada33865b819f1c",
     "b35c24d790147acfef57b6dad4b1037441212db1",
-    "5544703a5644714d70b7c9716afd44a0a350f93d"
+    "5544703a5644714d70b7c9716afd44a0a350f93d",
+    "738df674dc3a689bfa7cac2f77c8ad4ef4364d8e",
+    "9a2c51746e2d51c0a27f6ca0e637e4f9efdb212d",
+    "90d181f03d89c6115bc1573f3d82ae11dee68b39",
+    "a93d06836609310ee53d598c6711f6915a3b391b",
+    "ec4b675325dabf3eb4934eaf3f88f474445851c2",
+    "2228f027d041d5ea361d2cb309a7f7d39e1e407c",
+    "d5f2dd6288d83e2fe0e0e88763e5d9f685f70e39",
+    "bed139e646f0a452cf696b7859bfa3544d9bc39e"
   ],
   "stories": {
     "0c2ac7a5e342411678296315c4c59043b1f067cc": {
@@ -16790,7 +16798,87 @@
       "image_remote": "",
       "image_local": "",
       "id": "5544703a5644714d70b7c9716afd44a0a350f93d"
+    },
+    "738df674dc3a689bfa7cac2f77c8ad4ef4364d8e": {
+      "headline": "Trump weighs moving the White House press corps out of the building, and his team says “all options remain on the table”",
+      "cat": "Media / White House",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/trump-white-house-press-corps/",
+      "summary": "President Trump has discussed moving the White House press corps out of the building, according to two people close to the president, CBS News reports. One source said outside allies, including former strategist Steve Bannon, have pushed the idea in recent weeks. Communications director Steven Cheung said in a statement that “America is rightly distrustful of the fake news media because they fabricate stories based off lies,” adding, “All options remain on the table, and we will make an announcement when appropriate.” Reporters have had workspaces in the White House for more than a century, and the current briefing room was built during the Nixon administration over FDR’s swimming pool. Late last month Trump posted a before-and-after image suggesting the room could become a pool again. Officials floated a similar move before his first term but dropped it after, as Trump put it, “the press went crazy.” The idea comes after more than a year of fights over access, including last month’s attempted ban on CNN, MS NOW and Politico, which a federal judge blocked.",
+      "image_remote": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/21/98472c1f-c8b6-4578-bb27-c0c2827fdb44/thumbnail/1200x630/ec60f8014095e5b28b75125f4d66a1fa/gettyimages-2299469295.jpg",
+      "image_local": "images/story-1265.jpg",
+      "id": "738df674dc3a689bfa7cac2f77c8ad4ef4364d8e"
+    },
+    "9a2c51746e2d51c0a27f6ca0e637e4f9efdb212d": {
+      "headline": "The first iPhone Duo reviews are in: Apple’s foldable is fast, fun and expensive, but full of first-generation compromises",
+      "cat": "Apple / iPhone",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/review/iphone-duo/",
+      "summary": "The first reviews of Apple’s iPhone Duo foldable landed Wednesday ahead of Friday’s launch, and MacRumors’ roundup finds them mostly positive but mixed. The Verge called it “expensive, full of compromises” and at times “incredibly frustrating,” yet fun in the way the best early-adopter devices are, comparing it to the first MacBook Air. Gizmodo found no slowdown versus the iPhone 18 Pro, since the Duo shares the same A20 Pro chip and adds a vapor chamber, and its Geekbench scores beat Samsung’s Galaxy Z Fold 8, especially on graphics. WIRED said many third-party apps still need updates to fill the 7.6-inch inner display, and apps that haven’t been updated show black bars on the sides, so buyers may want to wait a few months. CNET said the 5.4-inch cover screen doesn’t feel cramped and praised the matte inner display for reading. 9to5Mac found the switch from Face ID back to Touch ID the hardest adjustment, though Apple Watch unlock helps. Apple also says walk-in stock will be very limited on Friday.",
+      "image_remote": "https://images.macrumors.com/t/QEcLJAnrVzxsgfh9rDuGVcnJkpE=/1920x/article-new/2026/10/iPhone-Duo-Reviews-Feature.jpg",
+      "image_local": "images/story-1266.jpg",
+      "id": "9a2c51746e2d51c0a27f6ca0e637e4f9efdb212d"
+    },
+    "90d181f03d89c6115bc1573f3d82ae11dee68b39": {
+      "headline": "Critical flaws in PHP, the code behind about 69% of websites, send sites offline and admins rushing to patch, and OpenAI says its AI found them",
+      "cat": "Tech / Security",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/tech/security/critical-vulnerabilities-php-update-systems-rcna604751",
+      "summary": "Critical vulnerabilities in PHP, the programming language that powers how much of the web’s servers process code, are severe enough that European and British authorities advised websites to temporarily go offline until they are fixed, NBC News reports. PHP’s security team released patches around 10 a.m. ET Wednesday, but several sites were already down as a precaution, including the bookmarking site Pinboard, parts of Wikipedia, the forums 4chan and Something Awful, and some Japanese services. PHP runs on 69% of all websites, according to W3Techs. OpenAI said it helped discover the flaws through its program that gives cybersecurity firms access to models skilled at finding software bugs, calling it “one of the most impactful security issues in recent memory” and warning that the same AI capabilities can help attackers build exploits. Patchstack said it had received reports of active exploitation, and Cloudflare’s chief technology officer said the company was “seeing early attacks emerging.” The NSA and other agencies have also issued warnings.",
+      "image_remote": "",
+      "image_local": "",
+      "id": "90d181f03d89c6115bc1573f3d82ae11dee68b39"
+    },
+    "a93d06836609310ee53d598c6711f6915a3b391b": {
+      "headline": "A cartel-linked mother wanted for nearly 30 years in the torture and killing of her 3-year-old daughter in Arizona is captured in Mexico",
+      "cat": "Crime / Courts",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/anna-marlene-somoza-fugitive-arrested-mexico-us-marshals/",
+      "summary": "Anna Marlene Somoza, who is accused of torturing and murdering her daughter in Arizona in 1997, has been captured in Mexico and is awaiting extradition to face first-degree murder charges, CBS News reports. The U.S. Marshals Service said Somoza was tied to a “major transnational drug trafficking network” along the Arizona border and had become a confidential informant after a 1993 marijuana arrest. She and her daughter, Crystal Reyes, moved in with narcotics detective Avelino Tamala, with whom she had an “improper romantic relationship.” Marshals say the girl suffered severe abuse, including being bound and gagged in a dog kennel for weeks, and suffocated inside a sealed cardboard box on Jan. 30, 1997. Bone fragments found in 1998 went unidentified until cold-case detectives found the girl’s father, a U.S. law enforcement officer, in 2014 and matched his DNA. Somoza and Tamala were indicted that December. Tamala was arrested the same day, but Somoza had disappeared and stayed on the run until her capture this week.",
+      "image_remote": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/21/fa687bac-3a5e-4816-8e8c-41ac6f41a2d7/thumbnail/1200x630g2/56c672a5860a0338341bcac7ac90eedb/fugitive-screenshot-2026-10-21-091341.png",
+      "image_local": "images/story-1267.jpg",
+      "id": "a93d06836609310ee53d598c6711f6915a3b391b"
+    },
+    "ec4b675325dabf3eb4934eaf3f88f474445851c2": {
+      "headline": "Australian lawmaker Helen Haines loses both legs after a targeted car attack, as the accused driver makes his first court appearance",
+      "cat": "World / Australia",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/australian-politician-intentionally-hit-by-car-loses-both-legs/",
+      "summary": "Helen Haines, the Australian independent lawmaker struck by a car outside her office in Wangaratta on Monday, has had both legs amputated, her husband said Wednesday, CBS News reports. Haines, 65, is now stable at a Melbourne hospital after days in intensive care. “The good news in all this is Helen is alive and she’s stable,” Phil Haines said, adding, “Helen’s road to recovery will be long and difficult, but we know she is a fighter.” The accused driver, 43-year-old Brendan Nugent, appeared in a Wangaratta court for the first time Wednesday. He is charged with dangerous driving causing serious injury, intentionally causing serious injury, and the federal crime of harming a public official, which carries up to 10 years in prison, along with cannabis charges. Police have called it a targeted attack. Prime Minister Anthony Albanese led tributes to Haines, an anti-corruption campaigner, in a country where political violence is rare but threats against elected officials have been rising.",
+      "image_remote": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/21/10527f0d-6dc2-497b-8f9d-70f8ba60078f/thumbnail/1200x630/b710c23a1994f2aed7d0387d6df58f6c/ap26294242313813.jpg",
+      "image_local": "images/story-1268.jpg",
+      "id": "ec4b675325dabf3eb4934eaf3f88f474445851c2"
+    },
+    "2228f027d041d5ea361d2cb309a7f7d39e1e407c": {
+      "headline": "Penguins cancel Wednesday practice after Ben Kindel’s medical scare on the team plane, and Kyle Dubas will speak before Thursday’s game",
+      "cat": "Sports / Penguins",
+      "source": "Pittsburgh Hockey Now",
+      "url": "https://pittsburghhockeynow.com/pittsburgh-penguins-cancel-practice-ben-kindel/",
+      "summary": "The Penguins canceled practice Wednesday after the team’s flight home from Salt Lake City was turned back when 19-year-old center Ben Kindel had a medical episode shortly after takeoff, Pittsburgh Hockey Now reports. Kindel was taken to a Salt Lake City hospital, where he remains in stable condition, and the team called off practice because of that and the extended travel that followed. President of hockey operations and general manager Kyle Dubas will speak to reporters before Thursday’s morning skate. Pittsburgh, which finished its Western road trip 0-4, hosts the Florida Panthers on Thursday night.",
+      "image_remote": "",
+      "image_local": "",
+      "id": "2228f027d041d5ea361d2cb309a7f7d39e1e407c"
+    },
+    "d5f2dd6288d83e2fe0e0e88763e5d9f685f70e39": {
+      "headline": "The Offspring guitarist Noodles steps away from live shows to deal with a “sudden and fairly serious health issue”",
+      "cat": "Music / Punk",
+      "source": "Consequence",
+      "url": "https://consequence.net/2026/10/the-offspring-noodles-serious-health-issue/",
+      "summary": "Kevin “Noodles” Wasserman, lead guitarist of The Offspring, is stepping away from live performances for now to deal with what he called “a sudden and fairly serious health issue,” Consequence reports. “It is with deep sadness that I have to announce that I need to step away from live performances for a while,” he wrote in a statement on the band’s social media. “The rest of the band has my back, is super supportive, and will keep rocking you all in my absence. I hope to be back on stage sooner rather than later. Until then, I will miss all of you with all of my heart.” He did not say what the health issue is.",
+      "image_remote": "https://consequence.net/wp-content/uploads/2026/10/Noodles.jpg",
+      "image_local": "images/story-1269.jpg",
+      "id": "d5f2dd6288d83e2fe0e0e88763e5d9f685f70e39"
+    },
+    "bed139e646f0a452cf696b7859bfa3544d9bc39e": {
+      "headline": "Ovation revives its cult mid-’70s Viper electric, once played by Jeff Buckley, in two 60-piece runs for its 60th birthday",
+      "cat": "Music / Guitar",
+      "source": "Guitar World",
+      "url": "https://www.guitarworld.com/gear/electric-guitars/ovation-viper-2026",
+      "summary": "Ovation is marking its 60th anniversary by bringing back the Viper, the odd, lightweight electric guitar it first released in the mid-1970s, Guitar World reports. Jeff Buckley was a fan of the guitar. The company, founded by aerospace engineer Charles Kaman, was known for its roundback acoustics and made the axe-shaped guitar Ace Frehley used on Kiss’s 1974 debut. The new Viper comes in two versions, each limited to 60 pieces: the Viper IV-DTD-G, with a basswood body, maple veneer and Babicz hardtail bridge in Blue Burst, and the Viper IV-1-G, with an alder body and Babicz tremolo in Honey Burst. Both have U.S.-made Lace Sensor Hot Gold Dually humbuckers with push-pull coil splits, a 25.5-inch scale, bolt-on maple necks, Java rosewood fingerboards and 24 frets. “Ovation has always been at its strongest when we dared to be different,” product manager Thomas Neuhierl said. Each costs €1,194 (about $1,122) and comes with a gig bag.",
+      "image_remote": "https://cdn.mos.cms.futurecdn.net/xGjMUdh9eHkLHQHDra7uC7-1200-80.jpg",
+      "image_local": "images/story-1270.jpg",
+      "id": "bed139e646f0a452cf696b7859bfa3544d9bc39e"
     }
   },
-  "updated": "Wednesday, October 21, 2026 · 7:11 AM ET"
+  "updated": "Wednesday, October 21, 2026 · 11:37 AM ET"
 }
