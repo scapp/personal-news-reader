@@ -1,8 +1,96 @@
 {
-  "updated": "Tuesday, October 20, 2026 · 6:08 PM ET",
+  "updated": "Tuesday, October 20, 2026 · 10:12 PM ET",
   "stories": [
     {
       "n": 1,
+      "headline": "Musk says SpaceX and Tesla boards have formed special committees to study a merger, but warns it is far from a done deal",
+      "cat": "Elon / Tesla / SpaceX",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/business/business-news/elon-musk-spacex-tesla-merger-rcna604685",
+      "image_local": "images/story-1249.jpg",
+      "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261009-elon-musk-ew-1205p-ec2af5.jpg",
+      "id": "b7952e167e59e71f2a25ff40bd41e5f5c3084f99",
+      "summary": "Elon Musk said Tuesday that the boards of SpaceX and Tesla have each formed special committees to discuss a possible merger of his two biggest companies, NBC News reports. Speaking on SpaceX’s quarterly earnings call, Musk said the committees, made up of each board’s independent directors, have not reached any agreement and there is no guarantee they will, and that a deal would need the support of both sets of shareholders. “I think some people out there assume that a SpaceX and Tesla merger is a certainty, and I think that would be overstating it,” he said. Because he is a conflicted party under securities rules, Musk said he is not on either committee or involved in the talks, calling the process “an odd Kabuki dance.” Still, he said he sees “a lot of merit” in combining the companies, pointing to overlap in AI software, chip design and robotics. Musk has already folded X into xAI, which SpaceX then acquired in February and renamed SpaceXSI, and Tesla invested about $2 billion in the AI unit in January."
+    },
+    {
+      "n": 2,
+      "headline": "France extends curfews and promises a “massive” police deployment after rioters torched buildings and looted thousands of businesses",
+      "cat": "World / France",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/france-extends-curfews-riots-sweep-country/",
+      "image_local": "images/story-1250.jpg",
+      "image_remote": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/20/32272848-8843-41db-868b-806bdc8ad4ad/thumbnail/1200x630/82cd5dd3c0bb13ce24bb81fd90598572/gettyimages-2300664458.jpg",
+      "id": "a874918a75ce7181c4de537338324a3407d1bcba",
+      "summary": "French authorities are extending overnight curfews and boosting the police presence in public spaces as President Emmanuel Macron’s government tries to regain control after a weekend of rioting, CBS News reports. Prime Minister Sébastien Lecornu promised a “massive” police deployment ahead of the next demonstrations on Oct. 24, after Interior Minister Laurent Nuñez acknowledged that authorities underestimated the unrest and lost control in some cities on Saturday. More than 2,500 people were in police custody by Monday evening, according to Justice Minister Gérald Darmanin, after violence that included the burning of Limoges’ historic town hall. Curfews now cover Paris’ Place de la République and Les Halles district, Lyon and other cities, and Paris and Lyon reported no major incidents Monday night. Macron has blamed “radical far-left groups” and “criminals” for hijacking protests that began in mid-September over overcrowded schools and living costs. With public debt near 3.6 trillion euros, Macron’s approval is at 15% in an Ipsos poll, while Marine Le Pen leads early presidential matchups with 33% to 35%."
+    },
+    {
+      "n": 3,
+      "headline": "Florida executes 77-year-old William Reaves for the 1986 murder of a deputy, its 18th execution this year under DeSantis",
+      "cat": "Crime / Courts",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/us/florida-puts-77-year-old-man-death-deputy-murder-state-closes-execution-record",
+      "image_local": "images/story-1251.jpg",
+      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/florida-execution-18-reaves.png",
+      "id": "3abab60bd7ee7bc2538e8e696d1bdb2c84d51706",
+      "summary": "Florida executed William Reaves, 77, on Tuesday for the 1986 killing of Indian River County sheriff’s deputy Richard Raczkoski, the state’s 18th execution of the year as Gov. Ron DeSantis keeps up a record pace, Fox News reports. Reaves was pronounced dead at 6:12 p.m. at Florida State Prison near Starke after a three-drug injection, shortly after the U.S. Supreme Court denied his request for a stay without comment. According to court records, Raczkoski answered a 911 call Reaves had made from a Vero Beach convenience-store payphone on Sept. 23, 1986; a gun fell from Reaves’ pants, the two struggled for it, and Reaves shot the deputy four times as he tried to run. Reaves was convicted and sentenced to death a year later, won a new trial over a prosecutor’s conflict of interest, and was convicted and sentenced to death again. The deputy’s brother said his brother finally received justice, while Sheriff Eric Flowers called it closure rather than justice: “Would we all be so lucky to be 77 years old and to die so peacefully.” Florida set a record of 19 executions last year and could tie it next month."
+    },
+    {
+      "n": 4,
+      "headline": "The first iPhone Duo unboxing video surfaces ahead of Friday’s launch, showing the foldable ships flat in an ordinary iPhone box",
+      "cat": "Apple / iPhone",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/20/iphone-duo-unboxing-video/",
+      "image_local": "images/story-1252.jpg",
+      "image_remote": "https://images.macrumors.com/t/CyGdNbVv8jZwO-HTOZrHs9IFbWY=/1886x/article-new/2026/10/iPhone-Duo-Hinge-Feature-3.jpg",
+      "id": "e6943a70ae76eb1d5a44507b301dd6c753af4641",
+      "summary": "With the iPhone Duo set to launch Friday, Oct. 23, the first unboxing video has appeared online from someone outside the press who got a device early, MacRumors reports. The video, of a 1TB Night Sky model, shows the foldable iPhone ships flat rather than folded and is otherwise packaged like any other iPhone. Members of the media have already posted hands-on impressions, and full reviews are expected as soon as Wednesday. Supply is tight: new orders from Apple’s online store will not arrive until Jan. 25, Apple’s site tells shoppers to check back for in-store stock on Oct. 24, and some retail employees have reportedly been told to warn customers there likely won’t be launch-day stock. In Japan, South Korea and the United Arab Emirates, Apple says launch sales are limited to customers with a pickup reservation."
+    },
+    {
+      "n": 5,
+      "headline": "Feds charge a Honduran man in the U.S. illegally with swinging a hammer at ICE officers during a New Jersey traffic stop",
+      "cat": "Immigration / Crime",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/us/honduran-illegal-immigrant-charged-assaulting-ice-officers-hammer-new-jersey-traffic-stop",
+      "image_local": "images/story-1253.jpg",
+      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/new-jersey-ice-traffic-stop-hammer-confrontation.jpg",
+      "id": "a9e390fed1cbaeec37fb6041dc44ad3d923a797f",
+      "summary": "Federal prosecutors have charged Reinieri De Jesus Licona Amador, 27, a Honduran national they say is in the country illegally, with assaulting federal officers after he allegedly swung a hammer at ICE officers during an Oct. 4 traffic stop in Gibbsboro, New Jersey, Fox News reports. According to the criminal complaint, officers on a targeted operation ran the plate on his truck, found he lacked lawful status and pulled him over; as they approached, he reached into a tool container in the back seat and grabbed a hammer, refused orders to stop, and pulled away when they tried to remove him. Prosecutors say he then climbed onto the truck’s passenger-side door and repeatedly swung the hammer at officers before being pepper-sprayed. He appeared Monday before a magistrate judge in Camden federal court. “When an individual responds to a traffic stop by attacking an officer with a hammer, that conduct threatens not only the officer’s safety but the rule of law itself,” U.S. Attorney Robert Frazer said."
+    },
+    {
+      "n": 6,
+      "headline": "Nirvana’s Nevermind edges past AC/DC’s Back in Black by about 1,000 units to become the sixth best-selling album ever",
+      "cat": "Music / Rock",
+      "source": "Louder",
+      "url": "https://www.loudersound.com/music/albums/nirvanas-nevermind-passes-acdcs-back-in-black-to-become-the-sixth-best-selling-album-of-all-time",
+      "image_local": "images/story-1254.jpg",
+      "image_remote": "https://cdn.mos.cms.futurecdn.net/bXHUJRTJAT8e6b7U3Bxcc4-1280-80.jpg",
+      "id": "d73952354f7d1e4e6316fe53cb629cbdd215d03a",
+      "summary": "Nirvana’s 1991 album Nevermind has overtaken AC/DC’s Back in Black to become the sixth best-selling album of all time, and it has also passed Pink Floyd’s The Dark Side of the Moon, Louder reports. The ranking comes from Chartmasters, which calculates “Equivalent Album Sales” by combining physical copies, digital downloads, streams and sales of the albums’ songs on singles and compilations. Back in Black still leads in physical copies, 37 million to 30 million, but the other categories put Nevermind ahead by a hair: 66,832,000 equivalent units to 66,831,000. The Dark Side of the Moon sits at 63,623,000, and only two rock albums, the Eagles’ Hotel California and Fleetwood Mac’s Rumours, rank higher than Nevermind. Kurt Cobain once said he took guitar lessons in eighth grade just long enough to learn the Back in Black title track."
+    },
+    {
+      "n": 7,
+      "headline": "Satire: Swept out of the playoffs by Milwaukee, the Dodgers simply announce they have bought the Brewers",
+      "cat": "Satire / Baseball",
+      "source": "The Babylon Bee",
+      "url": "https://babylonbee.com/news/dodgers-announce-purchase-of-milwaukee-brewers",
+      "image_local": "images/story-1255.jpg",
+      "image_remote": "https://media.babylonbee.com/articles/6ad26813353c66ad26813353c7.jpg",
+      "id": "094f93029daf17095ea1c30768fb7a09dcb5d8fd",
+      "summary": "In a satirical piece from The Babylon Bee, the Los Angeles Dodgers respond to being swept by the Milwaukee Brewers in the NLCS by announcing that they have purchased the Brewers for $3 billion. The joke riffs on the Dodgers’ huge payroll and their bid for a third straight title: baseball fans celebrate that “you can’t just buy a championship” until the Brewers players start getting issued Dodgers jerseys, and an anonymous Dodgers owner explains, “If you beat us, congrats, we’ll buy your team.” By publishing time, the fictional Dodgers had also acquired the Cleveland Guardians and the Tampa Bay Rays, the Brewers’ real World Series opponent, with Game 1 set for Friday in Milwaukee. This is satire, not news."
+    },
+    {
+      "n": 8,
+      "headline": "LEGO Stores host a free Halloween Make & Take this weekend where kids build a little Ghost Street figure, plus a scavenger hunt",
+      "cat": "LEGO",
+      "source": "The Brick Fan",
+      "url": "https://www.thebrickfan.com/lego-halloween-ghost-street-make-take-october-25/",
+      "image_local": "images/story-1256.jpg",
+      "image_remote": "https://www.thebrickfan.com/wp-content/uploads/2026/10/LEGO-Ghost-Street-Make-Take.jpg",
+      "id": "729ffccd4c13bf07d6fe40315fa4c34dee6c1785",
+      "summary": "LEGO Brand Stores will hold a free Halloween Make & Take this weekend where visitors can build a small Ghost Street model, a ghost under a lamppost with a pumpkin, The Brick Fan reports. The standard session runs from noon to 2 p.m. local time on Saturday, first come, first served, though some stores have their own times: the LEGO Store at Garden State Plaza in Paramus, New Jersey, runs noon to 2 p.m. Saturday, Oct. 24, Crocker Park runs noon to 3 p.m., and University Place and NorthPark Center host it Friday, Oct. 23, from 5 to 8 p.m. The Toronto Eaton Centre store is skipping it for its grand opening. Stores are also running a scavenger hunt from Oct. 24 to 31, where kids who find the hidden scary-creature builds get a treat while supplies last. Check with your local store before you go."
+    },
+    {
+      "n": 9,
       "headline": "Trump says Ilhan Omar could go to jail, not just be deported, as the federal citizenship-fraud probe into the congresswoman continues",
       "cat": "Politics / Immigration",
       "source": "Fox News",
@@ -13,7 +101,7 @@
       "summary": "President Trump said Tuesday that Rep. Ilhan Omar could face jail as well as deportation, calling the Minnesota Democrat “a disgrace to our country” and “a very dishonest person,” Fox News reports. Asked in the Oval Office by FOX Business correspondent Edward Lawrence whether a problem with Omar’s age could lead to her deportation, Trump said, “Well, she could be. She could also go to jail,” adding that it was “just my opinion.” He did not name a specific charge or present new evidence. Border czar Tom Homan said over the weekend that Omar could lose her citizenship and be deported if investigators prove immigration fraud; federal agents searched her Washington, D.C., home on Oct. 12 and seized her cellphone. The investigation centers on whether Omar or her father misstated her birth year on immigration paperwork, which would determine whether she was still a minor when he became a citizen in 2000 and could derive citizenship through him. Omar denies wrongdoing, and she and Democrats including Hakeem Jeffries call the probe political persecution ahead of the midterms."
     },
     {
-      "n": 2,
+      "n": 10,
       "headline": "SpaceX posts a blowout third quarter: $14.58 billion in revenue, $4.4 billion profit, and its AI unit is now bigger than Starlink",
       "cat": "Elon / SpaceX",
       "source": "Teslarati",
@@ -24,7 +112,7 @@
       "summary": "SpaceX reported third-quarter revenue of $14.58 billion on Tuesday, up 161% from a year earlier and well above Wall Street estimates of about $12.7 billion to $12.9 billion, along with GAAP net income of $4.4 billion, its first solidly profitable quarter since going public, Teslarati reports. The Super Intelligence segment, formerly AI, brought in $7.56 billion, up 830%, and became the company’s largest business for the first time, driven by cloud contracts, the integration of Cursor and growing use of Grok; Elon Musk called Grok Bot the “fastest-growing product I’ve ever seen” on the earnings call. Starlink revenue rose 69% to $5.25 billion, with consumer subscribers up 89% to 13.6 million and the service now on more than 3,800 aircraft. The Space segment added $1.77 billion, highlighted by the first revenue-generating Starship mission, Flight 14, which deployed 26 V3 Starlink satellites. Capital spending hit $19.6 billion, mostly on AI infrastructure including the Colossus facilities, and SpaceX ended the quarter with about $90 billion in cash and securities."
     },
     {
-      "n": 3,
+      "n": 11,
       "headline": "Penguins’ team plane turns back to Salt Lake City after 19-year-old forward Ben Kindel suffers a medical emergency; he is alert and stable",
       "cat": "Sports / Penguins",
       "source": "Pittsburgh Hockey Now",
@@ -35,7 +123,7 @@
       "summary": "The Pittsburgh Penguins’ charter flight home from Salt Lake City returned to the airport shortly after takeoff Tuesday when 19-year-old forward Ben Kindel had a medical episode, the team said, Pittsburgh Hockey Now reports. Team physician Dr. Dharmesh Vyas of UPMC and the club’s medical staff treated him on board, and an ambulance took him to University of Utah Hospital for evaluation; the team says he is conscious, alert and in stable condition and has not released details about what happened. Kindel surprisingly made the team out of camp a year ago and had 17 goals and 35 points in 77 games as a rookie, and he has two goals and four points in nine games this season. He played 18:53 without a point in Monday’s loss to the Mammoth, the Penguins’ fourth straight defeat on their Western road trip. The team had a travel day Tuesday and is scheduled to practice Wednesday in Cranberry."
     },
     {
-      "n": 4,
+      "n": 12,
       "headline": "After talks with Trump envoy Witkoff in Oslo, Zelensky says U.S. ballistic-missile early warnings for Ukraine are working again",
       "cat": "World / Ukraine",
       "source": "Kyiv Independent",
@@ -46,7 +134,7 @@
       "summary": "Ukrainian President Volodymyr Zelensky said Tuesday that Ukraine’s early-warning alerts for incoming Russian ballistic missiles, which rely on U.S. intelligence, are operational again after recent instances when Kyiv did not receive them, the Kyiv Independent reports. “This morning began with positive signals from the American side,” he said at a press conference in Oslo with Norwegian Prime Minister Jonas Gahr Støre and Finnish President Alexander Stubb. The leaders met there with U.S. special envoy Steve Witkoff, who is next headed to Russia, and Zelensky described a “constructive dialogue” because “we all want peace — Ukraine, Europe, and the United States.” White House officials had blamed earlier outages on bad weather, while Marco Rubio cited a software malfunction. President Trump has recently criticized Ukraine’s strikes on Russian energy facilities over their effect on diesel prices; Zelensky said Kyiv has offered to stop hitting sensitive parts of Russia’s energy sector if Russia stops hitting Ukraine’s, but that Putin said no."
     },
     {
-      "n": 5,
+      "n": 13,
       "headline": "China sends naval forces to shadow a U.S. warship near a disputed South China Sea shoal as Taiwan confronts a Chinese Coast Guard ship",
       "cat": "World / China",
       "source": "Daily Caller",
@@ -57,7 +145,7 @@
       "summary": "China dispatched naval forces Tuesday to track the USS Charleston, an Independence-class littoral combat ship, after it entered waters near Sabina Shoal in the disputed Spratly Islands, while Taiwan separately confronted a Chinese Coast Guard vessel accused of entering restricted waters with its tracking system switched off, the Daily Caller reports. The PLA’s Southern Theater Command accused the American ship of entering Chinese territory without permission. Naval War College strategist James R. Holmes said Taiwan has finally been fielding capabilities designed to deny an invasion or blockade fleet access across the strait, and that Beijing’s behavior has united the countries of the first island chain against it. Heritage Foundation fellow Brent Sadler noted China has kept a significant naval and coast guard presence in the Philippine Sea, giving crews real-world experience in waters where they could operate in a crisis, as steps toward Xi Jinping’s 2027 military goals. Professor Christopher Sharman said routine China Coast Guard patrols east of Taiwan are the newest tool in Beijing’s campaign of military coercion."
     },
     {
-      "n": 6,
+      "n": 14,
       "headline": "NRA and other gun-rights groups sue New Mexico for still enforcing a 7-day gun waiting period a federal appeals court called “obviously unconstitutional”",
       "cat": "Courts / Second Amendment",
       "source": "Daily Caller",
@@ -68,7 +156,7 @@
       "summary": "The National Shooting Sports Foundation, National Rifle Association, Second Amendment Foundation and New Mexico Shooting Sports Association sued New Mexico on Monday, accusing the state of defying court rulings that its seven-day waiting period for gun purchases is unconstitutional, the Daily Caller reports. The Tenth Circuit struck down the waiting period in August 2025, overruling a district judge, and the trial court granted summary judgment on Aug. 28. But because the only plaintiffs in that case, the Ortega case, were two individuals, Attorney General Raúl Torrez’s office and Gov. Michelle Lujan Grisham’s administration have said the ruling covers only those two people and that the law remains in effect for everyone else. “New Mexico does not seem to get the message,” the groups wrote, asking the court to again declare the law, HB129, unconstitutional for buyers who pass the federal background check and to bar the state from enforcing it against them, their customers and their members."
     },
     {
-      "n": 7,
+      "n": 15,
       "headline": "UC Berkeley’s law review is set to vote on deleting all application records after editors were reported pledging to pick members based on race",
       "cat": "Campus / Higher Ed",
       "source": "Washington Free Beacon",
@@ -79,7 +167,7 @@
       "summary": "The California Law Review, Berkeley’s flagship law journal, will vote Wednesday on a document retention policy requiring it to delete all write-on application materials after each year’s selection, along with records tied to electing its Holistic Review Committee, the Washington Free Beacon reports. Members of that eight-person committee, which grades applicants’ personal statements, had pledged in writing to “uplift Native voices,” weigh “diverse life experience” against editing ability and “integrate anti-racist sentiment” into selections, the Free Beacon reported in August. The draft policy would also password-protect application files, bar keeping recordings of election forums and require editors to delete law review documents. At least one editor warned in an email that the move could look like destroying evidence and expose students to criminal liability, noting that the Justice Department sent the Harvard Law Review a cease-and-desist letter last year after it ordered a student to delete documents shared with the Free Beacon, which led to a federal discrimination probe."
     },
     {
-      "n": 8,
+      "n": 16,
       "headline": "The 2027 Jeep Cherokee brings back the Trailhawk with low-range 4x4 and red tow hooks, plus two blacked-out Altitude trims, from $37,125",
       "cat": "Jeep",
       "source": "Mopar Insiders",
@@ -90,7 +178,7 @@
       "summary": "Jeep is adding three trims to the 2027 Cherokee, Mopar Insiders reports, led by the return of the Trailhawk with low-range four-wheel drive. The Trailhawk uses Active Drive II with a two-speed power transfer unit, a 2.92:1 low range and a 37.5:1 crawl ratio, plus a dedicated Rock mode, an off-road suspension, skid plates, all-terrain tires on 17-inch wheels, its own bumpers for more clearance and the familiar red tow hooks; Jeep claims class-best approach, breakover and departure angles. New Laredo Altitude and Limited Altitude models add 18-inch gloss-black wheels, black accents and badges, with Capri leatherette and suede seats on the Laredo Altitude and a gloss-black roof on the Limited Altitude. Every Cherokee keeps the turbocharged 1.6-liter hybrid four-cylinder, which needs no plug-in and is rated up to 37 mpg combined and 39 city with more than 500 miles of range, making it Jeep’s most fuel-efficient non-plug-in vehicle. Pricing starts at $37,125 including destination."
     },
     {
-      "n": 9,
+      "n": 17,
       "headline": "Fear Factory’s Dino Cazares says the band’s first album with singer Milo Silvestro is “diverse” but still unmistakably Fear Factory",
       "cat": "Music / Metal",
       "source": "Blabbermouth",
@@ -99,94 +187,6 @@
       "image_remote": "https://assets.blabbermouth.net/media/dinocazaresgrimmoct2026_638.jpg",
       "id": "992c990b1e975ba9a5651a4f8835600920f8daf9",
       "summary": "Fear Factory guitarist Dino Cazares says the band’s upcoming full-length is “diverse” and “goes into different elements,” Blabbermouth reports from his interview with GRIMM Gent. The album follows “Roboticist,” released in late August on Nuclear Blast, the first music with singer Milo Silvestro and drummer Pete Webber, who have toured with the band for more than three and a half years. Cazares said he wrote the instrumental three years ago to demo his Toneforge Disruptor plugin, showing clean, lo-fi and distorted tones and a lower low-E tuning, then knew it had to be released once Silvestro sang the hook. Answering fans who say the song sounds too much, or not enough, like classic Fear Factory and compare Silvestro to original singer Burton C. Bell, he said, “Fear Factory is my style, pretty much… you can’t win, so you put it out and hope for the best.” The record keeps the band’s formula, he said, while Silvestro brings different vocal styles, and the next single will be “a little different too.”"
-    },
-    {
-      "n": 10,
-      "headline": "House Judiciary report says Fairfax County, Virginia ignored at least 1,670 ICE detainers in two years and released criminal illegal immigrants",
-      "cat": "Immigration / Sanctuary",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/politics/virginia-sanctuary-county-ignores-1670-detainer-requests-2-years-house-judiciary-committee-finds",
-      "image_local": "images/story-1236.jpg",
-      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/Descano-and-Kincaid-in-Congress.jpg",
-      "id": "d79e031ebe0c9007352bd41a6ea6614a5f7ec892",
-      "summary": "The Fairfax County Sheriff’s Office ignored at least 1,670 immigration detainers from ICE between 2023 and 2025, releasing criminal illegal immigrants back into the community instead of transferring them to federal custody, according to an interim staff report from the House Judiciary Committee’s immigration subcommittee obtained by Fox News before its Tuesday release. The report, issued under Chairman Jim Jordan and subcommittee chair Tom McClintock, also accuses Commonwealth’s Attorney Steve Descano of treating illegal-immigrant defendants differently from citizens to limit their immigration consequences. A review of more than 1,100 criminal cases found more than 100 previously unreported illegal immigrants who benefited from his office’s decisions, which the committee says rarely pursued charges for DUI, felony drug possession, grand larceny, fraud and assaulting an officer; most went on to reoffend, some escalating to violent crimes and murder. The report also alleges Descano misled Congress about the scope of his policy, which he told the committee in May was written with legal permanent residents in mind for minor crimes."
-    },
-    {
-      "n": 11,
-      "headline": "Driver accused of killing NHL star Johnny Gaudreau and his brother concedes he was over the limit, but rejects a 28-year plea deal; trial set for January",
-      "cat": "Crime / Courts",
-      "source": "Breitbart",
-      "url": "https://www.breitbart.com/pre-viral/2026/10/20/alleged-drunken-new-jersey-driver-accused-of-killing-hockey-star-johnny-gaudreau-makes-stunning-admission/",
-      "image_local": "images/story-1237.jpg",
-      "image_remote": "https://media.breitbart.com/media/2026/10/Sean-Higgins-640x335.png",
-      "id": "ba02a12527916f2a869fa63470d7ba5bf9bb17ea",
-      "summary": "Lawyers for Sean Higgins, 45, the New Jersey driver accused of killing NHL star Johnny Gaudreau and his brother Matthew in August 2024, conceded Monday that he was over the legal alcohol limit at the time of the crash. The defense had argued his blood-alcohol content was .075 and that investigators botched the test; it now says an untainted sample came back at .08, versus the prosecution’s .087. Higgins, an Army veteran, still turned down the state’s final offer to plead guilty to two counts of aggravated manslaughter and a first DWI in exchange for 28 years in prison. Salem County Judge Michael Silvanio warned that if convicted at trial he faces up to 91.5 years and would not be parole-eligible for 68 years. The brothers, both married fathers, were riding bicycles in Oldmans Township on Aug. 29, 2024, the night before their sister’s wedding. Jury selection begins Dec. 1 and the trial is set for Jan. 4."
-    },
-    {
-      "n": 12,
-      "headline": "Perplexity’s Computer agent can now run entirely on your own Mac, offline and private, if you have an Apple Silicon machine with 36GB of RAM",
-      "cat": "AI tools / Mac",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2291754/perplexity-makes-it-easier-to-run-ai-workflows-entirely-on-your-mac/",
-      "image_local": "images/story-1238.jpg",
-      "image_remote": "https://www.engadget.com/img/gallery/perplexity-makes-it-easier-to-run-entire-ai-workflows-entirely-on-your-own-mac/l-intro-1792510842.jpg",
-      "id": "266ecf3886cd8b2b49d34c11f579da19ed5e8ca0",
-      "summary": "Perplexity now lets its Computer app run completely on a user’s own machine, including the harness and orchestrator, provided it is a recent Apple Silicon Mac with at least 36GB of RAM, Engadget reports. The move builds on September’s Hybrid Compute update, which split workloads between frontier cloud models and local ones. Perplexity pitches local mode as cheaper and more private: for example, Computer could read your Notes and Mail to build a priority to-do list without any of that data leaving the Mac. Users can pick one of two local models, Qwen 3.6 or PPLX Pro, a version of Qwen 3.6 that Perplexity post-trained for Computer use, and can still authorize a call out to more than 15 frontier models when a task needs it. Code and tool execution happens in an isolated sandbox. Pro, Max and Enterprise subscribers can start using it today by updating the Perplexity Mac app and following the in-app steps to download a local model."
-    },
-    {
-      "n": 13,
-      "headline": "A Russian military satellite spent days stalking a U.S.-operated commercial radar satellite believed to help Ukraine, in what trackers call a first",
-      "cat": "World / Space",
-      "source": "Gizmodo",
-      "url": "https://gizmodo.com/russian-military-satellite-plays-risky-cat-and-mouse-game-with-commercial-spacecraft-2000828229",
-      "image_local": "images/story-1239.jpg",
-      "image_remote": "https://gizmodo.com/app/uploads/2026/10/ICEYE_Satellite-1200x675.jpg",
-      "id": "00f5f6cd482ac3495ce3d1c1723816bdc873effc",
-      "summary": "Russia’s Cosmos 2612 carried out a series of close-proximity maneuvers toward ICEYE-X36, a U.S.-registered commercial radar-imaging satellite, between Oct. 15 and 19, according to space-tracking firm LeoLabs, Gizmodo reports. The Russian craft spent two days within about 3 miles of the satellite, at times coming within roughly 500 meters and shifting between positions ahead of and behind it, before backing off to about 62 miles. ICEYE-X36, run by ICEYE’s U.S. arm and launched from Vandenberg in 2024, is believed to supply synthetic aperture radar imagery to Ukraine. Astrophysicist Jonathan McDowell called it, to his knowledge, the first low-Earth-orbit rendezvous of two active satellites without the other owner’s approval, and Dutch tracker Marco Langbroek said the maneuvers were clearly designed to synchronize the two orbits and could point to an anti-satellite weapon. Cosmos 2612 launched in April as one of six military satellites, four of which had already adjusted orbits to align with the ICEYE craft."
-    },
-    {
-      "n": 14,
-      "headline": "Waymo reportedly plans to grow its robotaxi fleet fivefold to 20,000 by the end of 2027, leaning on Chinese-built Zeekr vehicles",
-      "cat": "Tech / Robotaxis",
-      "source": "Gizmodo",
-      "url": "https://gizmodo.com/waymo-reportedly-plans-to-put-20000-robotaxis-on-the-road-by-the-end-of-2027-2000828211",
-      "image_local": "images/story-1240.jpg",
-      "image_remote": "https://gizmodo.com/app/uploads/2026/02/Waymo-Ojai-1200x675.jpg",
-      "id": "1f07d7f3d25c06f47bf680f125fa16e8d5b6c618",
-      "summary": "Waymo plans to use its new funding to grow its driverless fleet from roughly 4,000 vehicles today to 20,000 by the end of 2027, Semafor reported, with a goal of about 8,000 by the end of this year, according to Gizmodo. The push follows a $5 billion loan less than two weeks ago, Waymo’s first debt financing, on top of $16 billion raised from investors earlier this year. The Alphabet-owned company operates in 15 U.S. cities including Atlanta, Los Angeles, Miami and the Bay Area, just opened service to everyone in San Antonio, San Diego and Tampa, and on Tuesday said it is headed to Madrid in 2027 after earlier announcing London and Tokyo. Much of the growth depends on the Ojai, Waymo’s next-generation robotaxi built on an electric vehicle from Geely-owned Chinese automaker Zeekr; research firm MoffettNathanson estimates Waymo is on pace to import about 5,100 of them by year’s end."
-    },
-    {
-      "n": 15,
-      "headline": "PRS launches the Tekton line, its first purpose-built modern metal guitars, with stainless frets, thin necks and pickups voiced for digital modelers",
-      "cat": "Music / Guitar",
-      "source": "Guitar World",
-      "url": "https://www.guitarworld.com/gear/electric-guitars/prs-tekton",
-      "image_local": "images/story-1241.jpg",
-      "image_remote": "https://cdn.mos.cms.futurecdn.net/oefNF29jSEepXBMVup7ij3-2000-80.jpg",
-      "id": "d9a693e69071b865700b8f915210d88ef2ad9543",
-      "summary": "PRS has introduced the Tekton family, four guitars built from the ground up for technical modern metal players, Guitar World reports. The lineup includes the hardtail Tekton, the two-point-trem Tekton T, the Floyd Rose-equipped Tekton Floyd and the seven-string Tekton SVN, all on a new body shape that sits between the Custom 24 and Vela with a huge belly carve, sculpted heel and the thinnest body PRS has ever made. The bolt-on maple necks are also PRS’s thinnest in standard production, with a 16-inch-radius ebony board, the company’s first stainless steel frets, offset dots in place of bird inlays and Silver Sky-style string spacing. New coil-split Stylus humbuckers use alnico 5 magnets and a flatter output designed to keep amp and modeler tones intact. The Floyd has an all-alder body; the others pair mahogany backs with flamed mango tops. The Tekton and Tekton T list at $2,899 and the Floyd and SVN at $2,999."
-    },
-    {
-      "n": 16,
-      "headline": "U.S. Marshals will auction a convicted Texas fraudster’s car collection, including Lamborghinis, Ferraris, three Maserati MC20s and military Humvees",
-      "cat": "Cars / Crime",
-      "source": "The Drive",
-      "url": "https://www.thedrive.com/news/fraudster-bought-90-cars-with-dirty-money-now-the-feds-are-selling-them-off",
-      "image_local": "images/story-1242.jpg",
-      "image_remote": "https://www.thedrive.com/wp-content/uploads/2026/10/car-collection-us-marshals-auction.jpg?w=1200",
-      "id": "3d96ea503e3e01f2f1d517ce6a3f14d1123c09d3",
-      "summary": "North Texas businessman Clayton Lloyd Iley has been sentenced to more than 13 years in federal prison for wire fraud and aggravated identity theft, and as part of his plea deal gave up more than 90 collector vehicles, The Drive reports. U.S. Attorney Ryan Raybould said Iley illegally obtained credit cards and duped victims into phony loan programs. Some of the cars were returned to banks, while the rest are headed to a U.S. Marshals auction: among them a 1968 Pontiac Firebird, two 2012 Lamborghini Aventadors, two 2015 Huracáns, two Ferrari 488s, three 2022 Maserati MC20s, a 2014 Dodge SRT Viper, a 2021 Porsche Taycan, a 2023 Jeep Gladiator, two AM General Humvees and a BMY five-ton military truck. The sale has not been formally scheduled, but Apple Auctioneering Company has a U.S. Marshals auction listed for Oct. 27 through Nov. 3 that could include the collection once its inventory is posted."
-    },
-    {
-      "n": 17,
-      "headline": "iOS 27 adds an iPhone scam-prevention setting called Impersonation Risk Detection, but it is off by default; here is how to turn it on",
-      "cat": "Apple / Security",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/10/20/ios-27-adds-scam-prevention-feature-to-iphone-heres-how-to-enable-it/",
-      "image_local": "",
-      "image_remote": "",
-      "id": "10b68f20fb4118640124fef84377e5456bdcd286",
-      "summary": "iOS 27 includes a new security feature, Impersonation Risk Detection, aimed at social-engineering scams where someone posing as a bank, government agency or trusted contact pressures you into sending money or changing account details, 9to5Mac reports. Because the victim takes the action themselves, tools like two-factor authentication often can’t stop those scams. The feature analyzes information about your device and Apple Account for signs of an active scam and passes only a risk level, not the underlying data, to supported apps, which can then ask you to verify your identity, add a delay or show a warning. It is off by default: turn it on in Settings, Privacy & Security, Impersonation Risk Detection, then toggle on Share with App Developers. It only works in supported apps, and Apple has not yet published a list of which ones."
     },
     {
       "n": 18,

@@ -1385,7 +1385,15 @@
     "93bc0f100d2796596e7cb25c963518a8d39a0150",
     "44ad6cfb0ec818ec30287d79ad291f885e59acd5",
     "ce1b21de0bc2daab52ad1988ef0f1a3f73355ac8",
-    "992c990b1e975ba9a5651a4f8835600920f8daf9"
+    "992c990b1e975ba9a5651a4f8835600920f8daf9",
+    "b7952e167e59e71f2a25ff40bd41e5f5c3084f99",
+    "a874918a75ce7181c4de537338324a3407d1bcba",
+    "3abab60bd7ee7bc2538e8e696d1bdb2c84d51706",
+    "e6943a70ae76eb1d5a44507b301dd6c753af4641",
+    "a9e390fed1cbaeec37fb6041dc44ad3d923a797f",
+    "d73952354f7d1e4e6316fe53cb629cbdd215d03a",
+    "094f93029daf17095ea1c30768fb7a09dcb5d8fd",
+    "729ffccd4c13bf07d6fe40315fa4c34dee6c1785"
   ],
   "stories": {
     "0c2ac7a5e342411678296315c4c59043b1f067cc": {
@@ -16603,7 +16611,87 @@
       "image_remote": "https://assets.blabbermouth.net/media/dinocazaresgrimmoct2026_638.jpg",
       "image_local": "images/story-1248.jpg",
       "id": "992c990b1e975ba9a5651a4f8835600920f8daf9"
+    },
+    "b7952e167e59e71f2a25ff40bd41e5f5c3084f99": {
+      "headline": "Musk says SpaceX and Tesla boards have formed special committees to study a merger, but warns it is far from a done deal",
+      "cat": "Elon / Tesla / SpaceX",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/business/business-news/elon-musk-spacex-tesla-merger-rcna604685",
+      "summary": "Elon Musk said Tuesday that the boards of SpaceX and Tesla have each formed special committees to discuss a possible merger of his two biggest companies, NBC News reports. Speaking on SpaceX’s quarterly earnings call, Musk said the committees, made up of each board’s independent directors, have not reached any agreement and there is no guarantee they will, and that a deal would need the support of both sets of shareholders. “I think some people out there assume that a SpaceX and Tesla merger is a certainty, and I think that would be overstating it,” he said. Because he is a conflicted party under securities rules, Musk said he is not on either committee or involved in the talks, calling the process “an odd Kabuki dance.” Still, he said he sees “a lot of merit” in combining the companies, pointing to overlap in AI software, chip design and robotics. Musk has already folded X into xAI, which SpaceX then acquired in February and renamed SpaceXSI, and Tesla invested about $2 billion in the AI unit in January.",
+      "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261009-elon-musk-ew-1205p-ec2af5.jpg",
+      "image_local": "images/story-1249.jpg",
+      "id": "b7952e167e59e71f2a25ff40bd41e5f5c3084f99"
+    },
+    "a874918a75ce7181c4de537338324a3407d1bcba": {
+      "headline": "France extends curfews and promises a “massive” police deployment after rioters torched buildings and looted thousands of businesses",
+      "cat": "World / France",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/france-extends-curfews-riots-sweep-country/",
+      "summary": "French authorities are extending overnight curfews and boosting the police presence in public spaces as President Emmanuel Macron’s government tries to regain control after a weekend of rioting, CBS News reports. Prime Minister Sébastien Lecornu promised a “massive” police deployment ahead of the next demonstrations on Oct. 24, after Interior Minister Laurent Nuñez acknowledged that authorities underestimated the unrest and lost control in some cities on Saturday. More than 2,500 people were in police custody by Monday evening, according to Justice Minister Gérald Darmanin, after violence that included the burning of Limoges’ historic town hall. Curfews now cover Paris’ Place de la République and Les Halles district, Lyon and other cities, and Paris and Lyon reported no major incidents Monday night. Macron has blamed “radical far-left groups” and “criminals” for hijacking protests that began in mid-September over overcrowded schools and living costs. With public debt near 3.6 trillion euros, Macron’s approval is at 15% in an Ipsos poll, while Marine Le Pen leads early presidential matchups with 33% to 35%.",
+      "image_remote": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/20/32272848-8843-41db-868b-806bdc8ad4ad/thumbnail/1200x630/82cd5dd3c0bb13ce24bb81fd90598572/gettyimages-2300664458.jpg",
+      "image_local": "images/story-1250.jpg",
+      "id": "a874918a75ce7181c4de537338324a3407d1bcba"
+    },
+    "3abab60bd7ee7bc2538e8e696d1bdb2c84d51706": {
+      "headline": "Florida executes 77-year-old William Reaves for the 1986 murder of a deputy, its 18th execution this year under DeSantis",
+      "cat": "Crime / Courts",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/us/florida-puts-77-year-old-man-death-deputy-murder-state-closes-execution-record",
+      "summary": "Florida executed William Reaves, 77, on Tuesday for the 1986 killing of Indian River County sheriff’s deputy Richard Raczkoski, the state’s 18th execution of the year as Gov. Ron DeSantis keeps up a record pace, Fox News reports. Reaves was pronounced dead at 6:12 p.m. at Florida State Prison near Starke after a three-drug injection, shortly after the U.S. Supreme Court denied his request for a stay without comment. According to court records, Raczkoski answered a 911 call Reaves had made from a Vero Beach convenience-store payphone on Sept. 23, 1986; a gun fell from Reaves’ pants, the two struggled for it, and Reaves shot the deputy four times as he tried to run. Reaves was convicted and sentenced to death a year later, won a new trial over a prosecutor’s conflict of interest, and was convicted and sentenced to death again. The deputy’s brother said his brother finally received justice, while Sheriff Eric Flowers called it closure rather than justice: “Would we all be so lucky to be 77 years old and to die so peacefully.” Florida set a record of 19 executions last year and could tie it next month.",
+      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/florida-execution-18-reaves.png",
+      "image_local": "images/story-1251.jpg",
+      "id": "3abab60bd7ee7bc2538e8e696d1bdb2c84d51706"
+    },
+    "e6943a70ae76eb1d5a44507b301dd6c753af4641": {
+      "headline": "The first iPhone Duo unboxing video surfaces ahead of Friday’s launch, showing the foldable ships flat in an ordinary iPhone box",
+      "cat": "Apple / iPhone",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/20/iphone-duo-unboxing-video/",
+      "summary": "With the iPhone Duo set to launch Friday, Oct. 23, the first unboxing video has appeared online from someone outside the press who got a device early, MacRumors reports. The video, of a 1TB Night Sky model, shows the foldable iPhone ships flat rather than folded and is otherwise packaged like any other iPhone. Members of the media have already posted hands-on impressions, and full reviews are expected as soon as Wednesday. Supply is tight: new orders from Apple’s online store will not arrive until Jan. 25, Apple’s site tells shoppers to check back for in-store stock on Oct. 24, and some retail employees have reportedly been told to warn customers there likely won’t be launch-day stock. In Japan, South Korea and the United Arab Emirates, Apple says launch sales are limited to customers with a pickup reservation.",
+      "image_remote": "https://images.macrumors.com/t/CyGdNbVv8jZwO-HTOZrHs9IFbWY=/1886x/article-new/2026/10/iPhone-Duo-Hinge-Feature-3.jpg",
+      "image_local": "images/story-1252.jpg",
+      "id": "e6943a70ae76eb1d5a44507b301dd6c753af4641"
+    },
+    "a9e390fed1cbaeec37fb6041dc44ad3d923a797f": {
+      "headline": "Feds charge a Honduran man in the U.S. illegally with swinging a hammer at ICE officers during a New Jersey traffic stop",
+      "cat": "Immigration / Crime",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/us/honduran-illegal-immigrant-charged-assaulting-ice-officers-hammer-new-jersey-traffic-stop",
+      "summary": "Federal prosecutors have charged Reinieri De Jesus Licona Amador, 27, a Honduran national they say is in the country illegally, with assaulting federal officers after he allegedly swung a hammer at ICE officers during an Oct. 4 traffic stop in Gibbsboro, New Jersey, Fox News reports. According to the criminal complaint, officers on a targeted operation ran the plate on his truck, found he lacked lawful status and pulled him over; as they approached, he reached into a tool container in the back seat and grabbed a hammer, refused orders to stop, and pulled away when they tried to remove him. Prosecutors say he then climbed onto the truck’s passenger-side door and repeatedly swung the hammer at officers before being pepper-sprayed. He appeared Monday before a magistrate judge in Camden federal court. “When an individual responds to a traffic stop by attacking an officer with a hammer, that conduct threatens not only the officer’s safety but the rule of law itself,” U.S. Attorney Robert Frazer said.",
+      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/new-jersey-ice-traffic-stop-hammer-confrontation.jpg",
+      "image_local": "images/story-1253.jpg",
+      "id": "a9e390fed1cbaeec37fb6041dc44ad3d923a797f"
+    },
+    "d73952354f7d1e4e6316fe53cb629cbdd215d03a": {
+      "headline": "Nirvana’s Nevermind edges past AC/DC’s Back in Black by about 1,000 units to become the sixth best-selling album ever",
+      "cat": "Music / Rock",
+      "source": "Louder",
+      "url": "https://www.loudersound.com/music/albums/nirvanas-nevermind-passes-acdcs-back-in-black-to-become-the-sixth-best-selling-album-of-all-time",
+      "summary": "Nirvana’s 1991 album Nevermind has overtaken AC/DC’s Back in Black to become the sixth best-selling album of all time, and it has also passed Pink Floyd’s The Dark Side of the Moon, Louder reports. The ranking comes from Chartmasters, which calculates “Equivalent Album Sales” by combining physical copies, digital downloads, streams and sales of the albums’ songs on singles and compilations. Back in Black still leads in physical copies, 37 million to 30 million, but the other categories put Nevermind ahead by a hair: 66,832,000 equivalent units to 66,831,000. The Dark Side of the Moon sits at 63,623,000, and only two rock albums, the Eagles’ Hotel California and Fleetwood Mac’s Rumours, rank higher than Nevermind. Kurt Cobain once said he took guitar lessons in eighth grade just long enough to learn the Back in Black title track.",
+      "image_remote": "https://cdn.mos.cms.futurecdn.net/bXHUJRTJAT8e6b7U3Bxcc4-1280-80.jpg",
+      "image_local": "images/story-1254.jpg",
+      "id": "d73952354f7d1e4e6316fe53cb629cbdd215d03a"
+    },
+    "094f93029daf17095ea1c30768fb7a09dcb5d8fd": {
+      "headline": "Satire: Swept out of the playoffs by Milwaukee, the Dodgers simply announce they have bought the Brewers",
+      "cat": "Satire / Baseball",
+      "source": "The Babylon Bee",
+      "url": "https://babylonbee.com/news/dodgers-announce-purchase-of-milwaukee-brewers",
+      "summary": "In a satirical piece from The Babylon Bee, the Los Angeles Dodgers respond to being swept by the Milwaukee Brewers in the NLCS by announcing that they have purchased the Brewers for $3 billion. The joke riffs on the Dodgers’ huge payroll and their bid for a third straight title: baseball fans celebrate that “you can’t just buy a championship” until the Brewers players start getting issued Dodgers jerseys, and an anonymous Dodgers owner explains, “If you beat us, congrats, we’ll buy your team.” By publishing time, the fictional Dodgers had also acquired the Cleveland Guardians and the Tampa Bay Rays, the Brewers’ real World Series opponent, with Game 1 set for Friday in Milwaukee. This is satire, not news.",
+      "image_remote": "https://media.babylonbee.com/articles/6ad26813353c66ad26813353c7.jpg",
+      "image_local": "images/story-1255.jpg",
+      "id": "094f93029daf17095ea1c30768fb7a09dcb5d8fd"
+    },
+    "729ffccd4c13bf07d6fe40315fa4c34dee6c1785": {
+      "headline": "LEGO Stores host a free Halloween Make & Take this weekend where kids build a little Ghost Street figure, plus a scavenger hunt",
+      "cat": "LEGO",
+      "source": "The Brick Fan",
+      "url": "https://www.thebrickfan.com/lego-halloween-ghost-street-make-take-october-25/",
+      "summary": "LEGO Brand Stores will hold a free Halloween Make & Take this weekend where visitors can build a small Ghost Street model, a ghost under a lamppost with a pumpkin, The Brick Fan reports. The standard session runs from noon to 2 p.m. local time on Saturday, first come, first served, though some stores have their own times: the LEGO Store at Garden State Plaza in Paramus, New Jersey, runs noon to 2 p.m. Saturday, Oct. 24, Crocker Park runs noon to 3 p.m., and University Place and NorthPark Center host it Friday, Oct. 23, from 5 to 8 p.m. The Toronto Eaton Centre store is skipping it for its grand opening. Stores are also running a scavenger hunt from Oct. 24 to 31, where kids who find the hidden scary-creature builds get a treat while supplies last. Check with your local store before you go.",
+      "image_remote": "https://www.thebrickfan.com/wp-content/uploads/2026/10/LEGO-Ghost-Street-Make-Take.jpg",
+      "image_local": "images/story-1256.jpg",
+      "id": "729ffccd4c13bf07d6fe40315fa4c34dee6c1785"
     }
   },
-  "updated": "Tuesday, October 20, 2026 · 6:08 PM ET"
+  "updated": "Tuesday, October 20, 2026 · 10:12 PM ET"
 }
