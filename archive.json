@@ -1410,7 +1410,16 @@
     "ec4b675325dabf3eb4934eaf3f88f474445851c2",
     "2228f027d041d5ea361d2cb309a7f7d39e1e407c",
     "d5f2dd6288d83e2fe0e0e88763e5d9f685f70e39",
-    "bed139e646f0a452cf696b7859bfa3544d9bc39e"
+    "bed139e646f0a452cf696b7859bfa3544d9bc39e",
+    "814cf2bfdb7ae5137d7170d30c4bb9b61148c742",
+    "5ff4b019ea630e5a7a204bbec16bf49ec2b35e65",
+    "8e19404345db2317404f9cdcb1ed71dd79bbb6e6",
+    "6dced7384d5f5b503e760772a18d573bde14f42a",
+    "40cef2a2ad0a9d4aa6a58c6525a40113e8339920",
+    "9c0b134f3a4aea45e7fb14cbde84acbbb4899766",
+    "4832c58bf9220fc8a9f4238457c7db3f248dbf9f",
+    "65514f139e4afd8c7df7bbf4419e1f8ccf18b440",
+    "a762b044f713b3830517fe97c5796839a6725af3"
   ],
   "stories": {
     "0c2ac7a5e342411678296315c4c59043b1f067cc": {
@@ -16878,7 +16887,97 @@
       "image_remote": "https://cdn.mos.cms.futurecdn.net/xGjMUdh9eHkLHQHDra7uC7-1200-80.jpg",
       "image_local": "images/story-1270.jpg",
       "id": "bed139e646f0a452cf696b7859bfa3544d9bc39e"
+    },
+    "814cf2bfdb7ae5137d7170d30c4bb9b61148c742": {
+      "headline": "Armed federal agents are knocking on doors in several states to track down possible noncitizen voters before the midterms",
+      "cat": "Politics / Elections",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/federal-agents-seek-noncitizen-voters/",
+      "summary": "Armed, uniformed Homeland Security Investigations agents have been knocking on doors in several states to ask residents about their immigration status and whether they have registered to vote or voted in past elections, a CBS News investigation found. The visits ramped up in September and continued over the past weekend as part of a push to root out noncitizen voters before the midterms. DHS has said as many as 250,000 people could be illegally registered, a figure election experts dispute; the Justice Department says 156 people have been charged with voting-fraud offenses since the start of the Trump administration, out of 227 million registered voters. On Monday the Justice Department announced that HSI agents in California had arrested more than 20 green card holders accused of illegally registering or voting, including a 72-year-old man from Belize accused of voting in the past four elections. “HSI is actively rooting out and investigating election fraud wherever it can be found,” a DHS spokesperson said, adding that only American citizens should be electing American leaders. Protect Democracy, a left-leaning group suing over the campaign, says the armed visits could scare lawful voters.",
+      "image_remote": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/21/0cbaafb8-6eae-4fd8-8048-7909be346222/thumbnail/1200x630/69f277677c10ebe4d6551c044bd380f3/kc-hsi.jpg",
+      "image_local": "images/story-1271.jpg",
+      "id": "814cf2bfdb7ae5137d7170d30c4bb9b61148c742"
+    },
+    "5ff4b019ea630e5a7a204bbec16bf49ec2b35e65": {
+      "headline": "Sources say it was Elon Musk’s decision that throttled Ukraine’s access to SpaceX’s Starshield network, not an order from Trump or the Pentagon",
+      "cat": "Elon / SpaceX",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/elon-musk-ukraine-spacex-starshield-trump-administration/",
+      "summary": "A decision by Elon Musk led to last week’s restrictions on Ukraine’s use of SpaceX’s Starshield satellite network, people familiar with the matter told CBS News. Musk held several conversations with administration officials beforehand, wanting clarity on President Trump’s thinking, and has expressed distaste for his company being seen as profiting from the war. Last week Musk wrote on X that “any limits on speed or usage are decided by the US military and ultimately POTUS,” but the restrictions surprised some officials, who said neither Trump nor the Pentagon ordered limits meant to disrupt drone operations. Trump said Monday he was seeking details on who ordered the slowdown, and Defense Secretary Pete Hegseth said Tuesday, “We haven’t pulled anything back,” adding that Starlink has the option to make those decisions under its terms of service. Starshield, the military-grade version of Starlink that the U.S. government pays for, normally has no speed cap, but Ukrainian units reported link drops at speeds as low as 90 km/h, grounding the long-range strike drones that cruise at 160 km/h or more. Zelenskyy’s office said Wednesday the service was still throttled. Musk did not respond to a request for comment.",
+      "image_remote": "",
+      "image_local": "",
+      "id": "5ff4b019ea630e5a7a204bbec16bf49ec2b35e65"
+    },
+    "8e19404345db2317404f9cdcb1ed71dd79bbb6e6": {
+      "headline": "Judge orders Meta to pay New Mexico $25 billion, its biggest fine ever, for deceiving Facebook users about privacy in the Cambridge Analytica scandal",
+      "cat": "Tech / Courts",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/nation/meta-must-pay-new-mexico-25-billion-its-biggest-fine-ever-for-deceiving-users-about-facebook-privacy",
+      "summary": "A New Mexico judge on Wednesday ordered Meta to pay the state $25 billion after a jury found the company liable for deceiving users about privacy, the largest penalty ever against Facebook’s owner, PBS NewsHour reports. Jurors in September found Meta committed more than 43 million violations of state consumer protection laws when the political consulting firm Cambridge Analytica harvested Facebook user data to target political ads in the 2016 election. “Facebook promised users that they (the users) controlled their data. This was false,” Judge Francis J. Matthew wrote. The state had sought $35 billion to $40 billion; Meta argued for no more than $3.4 billion and has said it will appeal. Attorney General Raúl Torrez called the ruling “an unambiguous message, to Silicon Valley,” noting that under the state constitution the money goes to education: “We may have paid for the construction of schools for the next 100 years.” The fine dwarfs the $5 billion the FTC imposed in 2019. Meta shares were up about 2% ahead of its quarterly earnings report Wednesday afternoon.",
+      "image_remote": "",
+      "image_local": "",
+      "id": "8e19404345db2317404f9cdcb1ed71dd79bbb6e6"
+    },
+    "6dced7384d5f5b503e760772a18d573bde14f42a": {
+      "headline": "Pope Leo XIV will not need any further treatment after his lung cancer surgery, his doctors say",
+      "cat": "World / Vatican",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/world/pope-leo-xiv/pope-treatment-lung-cancer-rcna604869",
+      "summary": "Pope Leo XIV will not need further treatment after surgery for lung cancer, his doctors said Wednesday in an update released by the Vatican press office, NBC News reports. Final analysis of the tissue removed during the operation confirmed “a pulmonary adenocarcinoma and that the disease was localized,” Dr. Luigi Carbone and Prof. Stefano Margaritora said, and “a subsequent oncological evaluation has confirmed that no further therapy is required.” The 71-year-old pope had surgery earlier this month at Rome’s Gemelli Hospital to remove a nodule found during routine tests at what he called “a very early stage.” He was discharged Saturday and returned to public duties Sunday with a prayer from the papal apartment window. “This experience has made me feel particularly close to all those who are experiencing illness and a condition of frailty,” he said, adding that he would “gradually resume my activities, always with God’s help and your prayers.”",
+      "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261021-pope-leo-ch-1541-6915f8.jpg",
+      "image_local": "images/story-1272.jpg",
+      "id": "6dced7384d5f5b503e760772a18d573bde14f42a"
+    },
+    "40cef2a2ad0a9d4aa6a58c6525a40113e8339920": {
+      "headline": "A Florida police officer who found a man dead on a welfare check allegedly moved into his house, renovated it and posed as him for years",
+      "cat": "Crime / Courts",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/news/us-news/officer-impersonates-dead-florida-man-moved-into-home-rcna604844",
+      "summary": "A Lauderhill, Florida, police officer who helped find a 71-year-old man dead in his home during a 2022 welfare check allegedly moved into the house weeks later and spent years impersonating him, NBC News reports. Brian Louis Sguros, 35, was arrested Tuesday on felony charges including official misconduct and criminal use of a deceased person’s identification. The Broward Sheriff’s Office says Dennis West died of natural causes in July 2022, and that Sguros took possession of the home that August, told the medical examiner’s office he was West’s friend, though there is no sign he knew him, and falsely said West had no living family. Investigators say Sguros paid taxes and utilities in West’s name, used law enforcement databases to look up information about him, and forged West’s signature to get a city permit for repairs. He was ordered held on $25,000 bond Wednesday and has been placed on unpaid administrative leave.",
+      "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261021-dennis-west-home-mn-1500-769050.jpg",
+      "image_local": "images/story-1273.jpg",
+      "id": "40cef2a2ad0a9d4aa6a58c6525a40113e8339920"
+    },
+    "9c0b134f3a4aea45e7fb14cbde84acbbb4899766": {
+      "headline": "Titans cut defensive lineman Jordan Elliott for bringing a gun to the team facility, but Robert Saleh tells other teams to call him",
+      "cat": "Sports / NFL",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/news/us-news/tennessee-titans-cut-jordan-elliott-brought-gun-team-facility-rcna604794",
+      "summary": "The Tennessee Titans released defensive lineman Jordan Elliott on Wednesday after he brought a gun to the team’s Nashville training facility on Oct. 15, NBC News reports. Coach Robert Saleh called it “a terrible lapse in judgment that I recognize as a call for help more than a criminal act” and said Elliott is “a good man” who deserves another chance, just not in Tennessee. “Unfortunately rules are rules with regards to guns on (team) property,” Saleh said, adding a message to the league’s other 31 teams: if they need “a hell of a run-stopping D tackle” for a playoff run, “give me a call.” The NFL said its policy bars firearms at team facilities, stadiums, hotels, planes and buses and that the matter is under review. Nashville police were not called. Elliott, in his seventh season after stints with Cleveland and San Francisco, played in Tennessee’s first five games before being listed inactive Sunday for personal reasons.",
+      "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261021-Jordan-Elliott-vl-1116a-4678f4.jpg",
+      "image_local": "images/story-1274.jpg",
+      "id": "9c0b134f3a4aea45e7fb14cbde84acbbb4899766"
+    },
+    "4832c58bf9220fc8a9f4238457c7db3f248dbf9f": {
+      "headline": "Westport police charge a New York man with kidnapping after he allegedly beat an ex in his car, crashed near I-95 and tried to run them over",
+      "cat": "Local / Connecticut",
+      "source": "Patch",
+      "url": "https://patch.com/connecticut/westport/suspect-accused-kidnapping-attempted-assault-after-alleged-domestic-incident",
+      "summary": "Westport police have charged a Port Chester, New York, man with first-degree kidnapping and attempted first-degree assault after an Oct. 15 incident in which he allegedly assaulted a former partner and tried to run them over, Patch reports. Police say the victim had recently ended the relationship with Vanderval Ferreira, who then made repeated calls and sent texts that included “threats to kill the victim.” The victim agreed to meet him and got into his car; police say he drove erratically around Westport and struck and restrained the victim when they tried to get out. The car hit a guardrail and spun out while entering I-95 at Exit 17, letting the victim escape, and Ferreira allegedly then drove at them as they ran. Ferreira, already jailed on an unrelated matter, was served the warrant Tuesday at Stamford Superior Court, is held on $500,000 bail and is due back in court Dec. 15.",
+      "image_remote": "",
+      "image_local": "",
+      "id": "4832c58bf9220fc8a9f4238457c7db3f248dbf9f"
+    },
+    "65514f139e4afd8c7df7bbf4419e1f8ccf18b440": {
+      "headline": "LEGO and Daft Punk tease a mystery collaboration, with clues pointing to a reveal as soon as Thursday",
+      "cat": "LEGO",
+      "source": "Brick Fanatics",
+      "url": "https://www.brickfanatics.com/lego-and-daft-punk-just-teased-an-upcoming-mystery-collaboration",
+      "summary": "The LEGO Group and Daft Punk have teased an upcoming collaboration, Brick Fanatics reports. The hint came in the electronic duo’s latest WDPK RADIO LIVE YouTube broadcast: about a minute in, a room full of computers shows a box marked “Confidential,” and one of Daft Punk’s metallic gloved hands flips a switch that lights up a red LEGO brick outline with the codes “GM08,” “2007” and “22.10,” the last possibly pointing to a fuller reveal on Oct. 22. No details have been announced. Brick Fanatics speculates it may be tied to “Daft Punk Concert,” a fan-designed LEGO Ideas project by RobotRock that has been awaiting a decision since qualifying for review in 2025. That roughly 2,000-piece build recreates the duo’s Alive 2007 tour stage, with a motorized, lit pyramid of transparent bricks.",
+      "image_remote": "https://www.brickfanatics.com/storage/uploads/2cdb28cc-4d0a-47d3-ba27-203a9a2b2199.jpg",
+      "image_local": "images/story-1275.jpg",
+      "id": "65514f139e4afd8c7df7bbf4419e1f8ccf18b440"
+    },
+    "a762b044f713b3830517fe97c5796839a6725af3": {
+      "headline": "Satire: Baptist baseball fans torn between rooting for the team named after the devil or the team named after beer",
+      "cat": "Satire",
+      "source": "The Babylon Bee",
+      "url": "https://babylonbee.com/news/baptist-baseball-fans-torn-between-rooting-for-team-named-after-devil-or-team-named-after-beer/",
+      "summary": "In a Babylon Bee satire piece, a Baptist and part-time baseball fan in Alpharetta, Georgia, is struggling ahead of the World Series between the Milwaukee Brewers and the Tampa Bay Devil Rays because rooting for either team would violate his conscience. “I guess devils are at least kind of spiritual, and we are supposed to believe in them. But cheer for them? I can’t do that. But on the other hand — beer! Oh, this is hard!” says the fictional Rob Milton of Second Baptist Church. Members of his men’s prayer group feel the same way, and one wonders, “Is it too much to ask for a good, clean game between the Guardians and the Diamondbacks?” Milton ends up planning an anti-World Series party with lemonade and a screening of Left Behind.",
+      "image_remote": "https://media.babylonbee.com/articles/6ad8ffa151b316ad8ffa151b32.jpg",
+      "image_local": "images/story-1276.jpg",
+      "id": "a762b044f713b3830517fe97c5796839a6725af3"
     }
   },
-  "updated": "Wednesday, October 21, 2026 · 11:37 AM ET"
+  "updated": "Wednesday, October 21, 2026 · 4:09 PM ET"
 }
