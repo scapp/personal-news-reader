@@ -1,8 +1,107 @@
 {
-  "updated": "Thursday, October 22, 2026 · 11:41 AM ET",
+  "updated": "Thursday, October 22, 2026 · 4:13 PM ET",
   "stories": [
     {
       "n": 1,
+      "headline": "Federal investigators say Ilhan Omar’s real name is Ilhan Nur Said Elmi, as Jeanine Pirro fights to keep the raid warrant sealed",
+      "cat": "Politics / Immigration",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/ilhan-omar-not-minnesota-congresswoman-real-name-sources",
+      "image_local": "images/story-1310.jpg",
+      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/Minnesota-state-capitol-Ilhan-Omar.jpg",
+      "id": "52395954be4908e89ab2070bbf993723b8c4084f",
+      "summary": "Ilhan Omar is not the Minnesota congresswoman’s birth name, according to two people familiar with the federal investigation into her immigration paperwork, including a law enforcement source, Fox News Digital reports. A motion filed Wednesday by U.S. Attorney for D.C. Jeanine Pirro, opposing media requests to unseal the search warrant for Omar’s Washington home, refers to “Congresswoman Ilhan Nur Said Elmi, a/k/a Ilhan Abdullahi Omar,” and says agents are not yet finished executing the warrant. Investigators are probing whether Omar or her father committed fraud on her immigration forms; they took her DNA and seized her phone and passport in the October 12 pre-dawn raid, and her sister was questioned last week. A former federal immigration judge told Fox that if it is proven she lived under an alias, every form she ever filed could be called into question. Omar has said she has no birth certificate and has denied wrongdoing."
+    },
+    {
+      "n": 2,
+      "headline": "Elon Musk puts about $1 billion into David Ellison’s Skydance, the new owner of Paramount, Warner Bros., CBS and CNN",
+      "cat": "Elon Musk / Media",
+      "source": "Semafor",
+      "url": "https://www.semafor.com/article/10/22/2026/elon-musk-makes-1-billion-investment-in-ellisons-skydance",
+      "image_local": "images/story-1311.jpg",
+      "image_remote": "https://img.semafor.com/383232238153ecbf7b31c0c3dfcca69e1b9b3cba-4893x3262.jpg?rect=0,347,4893,2569&w=1200&h=630&q=75&auto=format",
+      "id": "27d8da623066bc9941f89cfc889f8e86e881aa75",
+      "summary": "Elon Musk has invested roughly $1 billion in Skydance, the media giant formed when David Ellison’s Paramount closed its takeover of Warner Bros. Discovery on October 6, Semafor reports, citing people familiar with the matter. The money arrived alongside other equity investments, including one from board member Laurene Powell Jobs, as Skydance tries to cut costs, prop up its stock and manage close to $80 billion in debt. Musk has publicly praised the Ellisons, and cable billionaire John Malone predicted this week that a bigger Musk deal was coming, noting that Larry Ellison put $1 billion into Musk’s Twitter purchase and once sat on Tesla’s board. The stake gives Musk a piece of the company that now controls CBS News, CNN and HBO, which is scheduled to air Alex Gibney’s critical documentary “Musk” next year. Musk and Paramount did not comment."
+    },
+    {
+      "n": 3,
+      "headline": "Tom Skerritt, Tom Cruise’s flight instructor in “Top Gun” and Captain Dallas in “Alien,” dies at 93",
+      "cat": "Entertainment / Obituary",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/tom-skerritt-star-alien-top-gun-dies-93-rcna605077",
+      "image_local": "images/story-1312.jpg",
+      "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261022-Tom-Skerritt-ew-317p-3793bb.jpg",
+      "id": "be38e262ccc63cc03548c94b06cf1d432435d920",
+      "summary": "Actor Tom Skerritt, best known to moviegoers as the no-nonsense instructor Viper in “Top Gun” and the doomed Captain Dallas in “Alien,” has died at 93, his family told NBC News. He died Wednesday of natural causes. Born in Detroit in 1933, Skerritt served four years in the U.S. Air Force before heading to Hollywood, where his breakthrough came as Captain Duke Forrest in Robert Altman’s 1970 film “M*A*S*H.” He went on to roles in “The Turning Point,” “Up in Smoke,” “The Dead Zone” and “Steel Magnolias,” and won an Emmy as the small-town sheriff on the TV series “Picket Fences.” His family said he cared deeply about storytelling, service, veterans and the natural world."
+    },
+    {
+      "n": 4,
+      "headline": "Musk now targets late 2027 for the first Optimus robot deliveries to outside customers, saying the hands are still the hardest problem",
+      "cat": "Tesla / Robots",
+      "source": "Electrek",
+      "url": "https://electrek.co/2026/10/22/tesla-optimus-delivery-late-2027-hands-ai-problems/",
+      "image_local": "images/story-1313.jpg",
+      "image_remote": "https://electrek.co/wp-content/uploads/sites/3/2026/01/Tesla-Optimus-Hyundai-atlas.png?w=1600",
+      "id": "d6440cc5e616c160e829118d6c17f5a6470d8a0b",
+      "summary": "Tesla will start delivering its Optimus humanoid robot to outside customers around the end of 2027, Elon Musk said on the company’s third-quarter earnings call, Electrek reports. Musk said early production has begun on a high-volume line in Fremont, in space that once built the Model S and Model X, but reaching the line’s planned rate of about 20,000 robots a week will take at least a year because parts of the design are still changing. He listed the AI, the electromechanical design and long-term reliability as the remaining hurdles, and agreed with a Tesla engineer that the hand is the toughest piece. Tesla plans to build 10,000 to 20,000 robots to practice tasks in an “Optimus Academy,” add its AI5 chip around April 2027, and release a video within a couple of months showing unscripted tasks. Electrek notes the timeline has slipped repeatedly and that rivals XPeng and Boston Dynamics look at least as far along."
+    },
+    {
+      "n": 5,
+      "headline": "Ukrainian troops crawled about 9 miles through gas pipelines to get behind Russian lines near Kupiansk, capturing more than 30 soldiers",
+      "cat": "World / Ukraine",
+      "source": "Kyiv Independent",
+      "url": "https://kyivindependent.com/ukraine-war-latest-ukrainian-troops-infiltrate-russian-rear-near-kupiansk-through-15-kilometers-of-gas-pipelines/",
+      "image_local": "images/story-1314.jpg",
+      "image_remote": "https://assets.kyivindependent.com/content/images/2026/10/photo_2026-10-22_20-37-19_20261022-173729.jpg",
+      "id": "544f23426053b828629008586bc2f64f3c017707",
+      "summary": "Ukrainian troops slipped into the Russian rear near Kupiansk in Kharkiv Oblast by moving roughly 15 kilometers (about 9 miles) through underground gas pipelines, the National Guard’s 2nd Khartiia Corps said Thursday, according to the Kyiv Independent. The operation, code-named “Veles,” combined the underground advance with attacks above ground, including drone strikes, and the corps says more than 30 Russian soldiers were captured and over 100 became casualties; the Kyiv Independent could not verify those numbers. Commander Brig. Gen. Ihor Obolienskyi said Ukraine had studied how Russian forces used the same pipelines to sneak troops forward and decided to “go underground ourselves.” Russia has used the pipes several times in the Kupiansk sector, including a roughly 50-man assault stopped in January, and Khartiia says retreating Russian troops recently forced civilians, including children, into a pipeline as human shields."
+    },
+    {
+      "n": 6,
+      "headline": "Geno Smith says the 2-4 Jets are “right at the cusp” ahead of Sunday’s home game against the winless Dolphins",
+      "cat": "Sports / Jets",
+      "source": "New York Jets",
+      "url": "https://www.newyorkjets.com/news/jets-vs-dolphins-game-preview-geno-smith-malik-willis-week-7-nfl-10-25-2026",
+      "image_local": "images/story-1315.jpg",
+      "image_remote": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/jets/v7zcefy8h2ewnjy5xvod",
+      "id": "351f23b424d8381a3be89509957f0e1ec11b2b61",
+      "summary": "The Jets (2-4) host the winless Dolphins (0-5) Sunday at 1 p.m. at MetLife Stadium, and quarterback Geno Smith says the team is moving in the right direction despite a string of early injuries on offense, the team’s game preview reports. Smith, in his 13th season, is completing 69% of his passes for 1,226 yards with seven touchdowns and one interception, has led scoring drives on the opening possession two weeks running, and hit rookie Omar Cooper Jr. for a 48-yard touchdown in last week’s 26-19 loss at New England. Comparing the moment to his early Seattle years, Smith said, “I think we’re right at the cusp of it.” The Jets could get receiver Adonai Mitchell, who has missed four games, plus left guard Dylan Parham and running back Breece Hall back in the lineup."
+    },
+    {
+      "n": 7,
+      "headline": "Slayer plays all of “Reign in Blood” for its 40th anniversary at a packed Mexico City arena",
+      "cat": "Music / Metal",
+      "source": "Blabbermouth",
+      "url": "https://blabbermouth.net/news/watch-slayer-celebrates-40th-anniversary-of-reign-in-blood-in-mexico-city",
+      "image_local": "images/story-1316.jpg",
+      "image_remote": "https://assets.blabbermouth.net/media/slayermexicooct2026_638.jpg",
+      "id": "36da30d5c8d7ab774fa4a9bf90ecfadc86734b1d",
+      "summary": "Thrash legends Slayer marked the 40th anniversary of their 1986 classic “Reign in Blood” by playing the album in full on Wednesday night at Palacio de los Deportes in Mexico City, with Power Trip opening, Blabbermouth reports. The 23-song set opened with “South of Heaven,” “Mandatory Suicide” and “War Ensemble” before running straight through the album from “Angel of Death” to “Raining Blood.” It was the third “Reign in Blood” anniversary show after September dates in Minnesota and at Rocklahoma, and the reunited lineup of Tom Araya, Kerry King, Gary Holt and Paul Bostaph plays Sick New World in Fort Worth on Saturday, two nights at the Kia Forum in November, and South American dates in December. The Rick Rubin-produced record was once called “the heaviest album of all time” by Kerrang!"
+    },
+    {
+      "n": 8,
+      "headline": "Apple adds an AI “Intelligent Assistant” to Pages, Numbers and Keynote, plus quiet iPhone Duo support",
+      "cat": "Apple / AI",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/22/iwork-apps-intelligent-assistant/",
+      "image_local": "images/story-1317.jpg",
+      "image_remote": "https://images.macrumors.com/t/NcQycJ35J_cxoKadmpDrjlkGt9s=/2500x/article-new/2026/10/iphone-duo-keynote.jpg",
+      "id": "50bc47c9e5ab284736f293c765a6af43200d82a0",
+      "summary": "Apple on Thursday added an “Intelligent Assistant” to Keynote, Numbers and Pages, available in beta to Apple Creator Studio subscribers, MacRumors reports. In Numbers it can build formulas from plain-language requests, generate tables and visualize data; in Pages it can start a first draft, rewrite sections and adjust tone; and in Keynote it can build and refine slides, add animations and write presenter notes. In all three it can look up information on the web and drop it into a document, and generate images and shapes. The update briefly pulled the apps from the App Store before they returned, and although the release notes don’t mention it, all three now support the iPhone Duo ahead of Friday’s launch. The apps remain free; Creator Studio costs $12.99 a month."
+    },
+    {
+      "n": 9,
+      "headline": "Fairfield police arrest two Brooklyn men in a string of high-end jewelry burglaries in Greenfield Hill",
+      "cat": "Local / Connecticut",
+      "source": "Patch",
+      "url": "https://patch.com/connecticut/fairfield/2-suspects-arrested-connection-high-end-burglaries-fairfield-police",
+      "image_local": "images/story-1318.jpg",
+      "image_remote": "https://patch.com/img/cdn20/users/21821499/20261022/033334/styles/patch_image/public/patch-lead-image-canvas-blank-2___22152015640.jpg",
+      "id": "fe71fb020f7bcc7a9de6451ecbd9e7575e6b01c6",
+      "summary": "Fairfield police have arrested two Brooklyn, New York, men in connection with a series of burglaries in the town’s Greenfield Hill neighborhood, Patch reports. Levan Aleksidze, 40, and Mamuka Chaganava, 47, are each charged with conspiracy to commit first-degree burglary and are held on $100,000 bond. Police said several unoccupied homes had been hit in similar fashion, with the burglars going after high-end jewelry. Detectives used Fairfield’s license plate reader system to identify a suspect vehicle, and on September 24, working with the Bridgeport Police Auto Theft Task Force, they spotted it apparently scouting for another target and stopped it before another break-in could happen. Chief Michael Paris said residents “deserve to feel safe in their homes.” The investigation, which also involved the Brooklyn district attorney’s office, is continuing."
+    },
+    {
+      "n": 10,
       "headline": "Virginia state Sen. Louise Lucas, one of the state’s most powerful Democrats, is charged with racketeering in a cannabis-business corruption case",
       "cat": "Crime / Corruption",
       "source": "NBC News",
@@ -13,7 +112,7 @@
       "summary": "Federal authorities on Thursday charged Virginia state Sen. L. Louise Lucas, 82, with racketeering, a money-laundering conspiracy and conspiracy to distribute marijuana in an alleged public corruption scheme tied to a cannabis business she co-owns, NBC News reports. Lucas, a frequent Trump critic and one of the most powerful Democrats in Virginia, surrendered to authorities, and about half a dozen others, including her daughters, were also taken into custody. Attorney General Todd Blanche and FBI Director Kash Patel flew to Norfolk to announce the charges, with Blanche saying Lucas put her own financial interests ahead of the people of Portsmouth and Chesapeake. NBC notes the investigation predates the Trump administration but that charging a political figure 12 days before a midterm election is unusual; Lucas is not on the ballot this year. In a statement she said she would not be intimidated, calling the case the full weight of the federal government \"wielded against an 82-year-old great-grandmother.\""
     },
     {
-      "n": 2,
+      "n": 11,
       "headline": "iPhone Duo buyers are already lining up outside Apple Stores days before Friday’s launch, and the first preorders have shipped",
       "cat": "Apple / iPhone",
       "source": "AppleInsider",
@@ -24,7 +123,7 @@
       "summary": "With Apple’s first foldable iPhone going on sale Friday, buyers are already camping out at Apple Stores around the world, AppleInsider reports. Hundreds of people were lined up at Apple Galaxy in Macau a full 48 hours before launch, and a small walk-in line had formed at Apple Fifth Avenue in New York about 30 hours out, where staff were finishing giant iPhone Duo displays on the storefront. Apple has warned that retail stock will be limited on launch day, so many of those waiting may leave empty-handed. Meanwhile, preorder customers are starting to get shipping notices, with some orders already marked shipped for Friday, October 23 delivery. The iPhone Duo starts at $1,999 and sold out within minutes when preorders opened after Apple’s September 9 event."
     },
     {
-      "n": 3,
+      "n": 12,
       "headline": "Kyle Dubas says Ben Kindel collapsed 10 minutes into the Penguins’ flight but is home and could be back on the ice within days",
       "cat": "Sports / Penguins",
       "source": "Pittsburgh Hockey Now",
@@ -35,7 +134,7 @@
       "summary": "Penguins GM Kyle Dubas gave a fuller account Thursday morning of 19-year-old center Ben Kindel’s medical scare on the team plane out of Salt Lake City, Pittsburgh Hockey Now reports. Dubas said Kindel collapsed about 10 minutes into the flight; team doctor Dr. Vyas gave him oxygen, he quickly regained consciousness, and he was taken by ambulance to the University of Utah Medical Center after the plane returned. Kindel has since been cleared and is back in Pittsburgh, and Dubas said he has no history of such an episode. The plan is more testing and medical clearance before a gradual return to training and practice, possibly with a short skate as soon as Sunday, though Dubas said the young forward was still “very clearly shaken.” Pittsburgh placed Kindel and Bryan Rust on injured reserve and recalled Rutger McGroarty and Chase Pietila ahead of tonight’s game against Florida."
     },
     {
-      "n": 4,
+      "n": 13,
       "headline": "LEGO and Daft Punk announce a full partnership, starting with a set of the duo’s “Alive 2007” pyramid stage",
       "cat": "LEGO / Music",
       "source": "Consequence",
@@ -46,7 +145,7 @@
       "summary": "LEGO and Daft Punk officially announced a wide-ranging partnership on Thursday, and the first product confirmed is a set based on the French electronic duo’s famous “Alive 2007” tour pyramid stage, Consequence reports. The set began as a fan design by Patrick Harboun, known as RobotRock, and his young son, built during lockdown for a LEGO music contest and later backed by more than 10,000 supporters on LEGO Ideas before sitting in limbo for months. It turns out the holdup was a bigger deal: the collaboration will span products, content and brand experiences, with more announcements promised for 2027. The reveal, teased Wednesday on Daft Punk’s WDPK 83.7 broadcast, came with a short film set to “Voyager” and “Human After All” showing Daft Punk minifigures. No price, piece count or release date has been announced yet."
     },
     {
-      "n": 5,
+      "n": 14,
       "headline": "1Password opens its vault to AI agents including Grok, letting them log in for you without ever seeing your passwords",
       "cat": "AI / Grok",
       "source": "Engadget",
@@ -57,7 +156,7 @@
       "summary": "1Password has launched “1Password for Agents,” a system that lets AI assistants, including Grok, ChatGPT, Claude, Meta’s Muse and OpenAI’s Dots, use your stored logins to finish tasks like booking restaurants or buying gifts without the model ever seeing your username, password or vault, Engadget reports. When an agent hits a sign-in, it verifies itself to 1Password with a special key; 1Password then tells you which agent wants access and why, and if you approve, fills in the credentials and any one-time codes through its own secure channel. Access is granted per session, limited to specific approved items, and not carried over. Engadget cautions that while the agents can’t leak your passwords, they can still make mistakes like ordering the wrong item or booking a nonrefundable trip. Pricing and availability details haven’t been announced."
     },
     {
-      "n": 6,
+      "n": 15,
       "headline": "Macron says “illegitimate” protests will be banned after France’s worst riots in years, blaming “seditious” ultra-left groups",
       "cat": "World / France",
       "source": "NBC News",
@@ -68,7 +167,7 @@
       "summary": "French President Emmanuel Macron said Thursday that “illegitimate” protests will be banned in the coming days, blaming “seditious” ultra-left groups and vandals for last weekend’s riots and looting, NBC News reports. Speaking after a meeting with intelligence chiefs and senior ministers, Macron said union-organized marches could still go ahead but may be rerouted to protect businesses. Paris, Lyon, Lille and Grenoble had already banned demonstrations planned for Thursday, and Paris’s ban covers the Élysée Palace, both houses of parliament, main train stations and the downtown areas hit hardest by looting; night curfews are in place in parts of the capital. Authorities are bracing for a much bigger demonstration Saturday, when “yellow vest” activists are expected to join, and Prime Minister Sébastien Lecornu promised a “massive” security operation. Student groups say they will keep mobilizing despite the bans."
     },
     {
-      "n": 7,
+      "n": 16,
       "headline": "A Minnesota farmer found an 11-foot metal ring in his cornfield; it appears to be the upper stage of a Chinese rocket",
       "cat": "Science / Space",
       "source": "Gizmodo",
@@ -79,7 +178,7 @@
       "summary": "A farmer in rural Stevens County, Minnesota, discovered a circular metal object about 11 feet wide in his cornfield, and it likely fell from space, Gizmodo reports. The piece matches the upper stage of a Zhuque-2E rocket built by Chinese company LandSpace, which launched September 15 from northwest China, delivered 10 satellites, and then made an uncontrolled reentry over the upper Midwest, where people reported fiery debris; the object had probably been sitting in the field for about six weeks. The sheriff’s office said it poses no danger. Half a world away, a car-sized, roughly 30-foot aluminum plate suspected to be from another Chinese rocket turned up on a palm oil plantation in Indonesia after residents heard a loud bang. Gizmodo says the cases add to concerns about China’s careless handling of falling rocket stages."
     },
     {
-      "n": 8,
+      "n": 17,
       "headline": "Ms. Rachel gives $3,000 to a GoFundMe for a Darien toddler whose library puppet-show video went viral",
       "cat": "Local / Connecticut",
       "source": "NBC Connecticut",
@@ -90,7 +189,7 @@
       "summary": "Children’s YouTube star Ms. Rachel has donated $3,000 to a GoFundMe for a 16-month-old boy whose visit to a Darien Library children’s event went viral, NBC Connecticut reports. A TikTok video showing the boy repeatedly trying to interact with a green puppet operated by a library employee, who appeared to ignore him and put the puppet away as the family left, has more than 6 million views. The family believes he was treated differently because of his skin color. Darien Library apologized, scheduled a call with the family, and said it is taking their concerns “incredibly seriously” and reviewing what happened. The fundraiser, started by the boy’s father, Micah Whitaker, aims to turn the experience into a happy memory with a family trip to Disney World; Ms. Rachel’s donation is its largest."
     },
     {
-      "n": 9,
+      "n": 18,
       "headline": "Satire: “Trump Aides Desperately Try To Explain Approval Rating Not Like Golf Score”",
       "cat": "Satire",
       "source": "The Babylon Bee",
@@ -99,105 +198,6 @@
       "image_remote": "https://media.babylonbee.com/articles/6ada2dc7311466ada2dc731147.jpg",
       "id": "ffed96cd037ee99838558176bce339fd6baa2b91",
       "summary": "In this Babylon Bee satire, President Trump proudly boasts about a 36% approval rating, prompting aides to pull him aside with charts and explain that, unlike golf, a lower number is not better in politics. The fictional president insists it sounds like fake news, asks who hired the aide (he did), and decides a glass 36% full of Diet Coke still beats none. By the end of the piece, he has ordered staff to just scratch out the 36 and write in a better number, “like we do in golf.” This is satire, not a news report."
-    },
-    {
-      "n": 10,
-      "headline": "Hours after Witkoff’s talks with Putin, Russia fires three waves of ballistic missiles at Kyiv",
-      "cat": "World / Ukraine",
-      "source": "ABC News",
-      "url": "https://abcnews.com/International/russia-fires-3-waves-ballistic-missiles-kyiv-after/story?id=137469151",
-      "image_local": "images/story-1292.jpg",
-      "image_remote": "https://i.abcnewsfe.com/a/0399fc28-0fab-4254-b3ae-3cc866edd1c0/Kyiv-fire-DB-261022_1792662335508_hpMain_16x9.jpg?w=1600",
-      "id": "3bdee00d78c74e32060e88ba2009ec89af6c72cb",
-      "summary": "Russia hit Kyiv with an intense overnight missile and drone barrage just hours after President Trump’s envoy Steve Witkoff met Vladimir Putin in St. Petersburg, ABC News reports. President Zelensky said Russia fired 21 ballistic missiles at the capital in three waves, striking homes, energy infrastructure, a railway station, the metro, shopping centers and even a monastery; at least two people were killed and 34 injured in and around Kyiv. Ukraine’s air force said none of the missiles were intercepted, while 181 of 210 drones were downed, and another Russian strike on a market in the Kharkiv region killed two more. Witkoff called his talks “constructive” and said trilateral technical-level talks will continue, but Zelensky called the strikes “demonstrative,” said they show “no real changes” in Moscow’s attitude, and jabbed at Witkoff’s description of Putin as a “humanitarian.” Ukraine answered with one of its largest drone attacks of the year on Moscow, which forced temporary closures at all four of the city’s international airports."
-    },
-    {
-      "n": 11,
-      "headline": "Judge refuses Lindsay Clancy’s lawyers’ bid to question the holdout juror who forced her mistrial",
-      "cat": "Crime / Courts",
-      "source": "ABC11 / ABC News",
-      "url": "https://abc11.com/story/lindsay-clancy-murder-trial-judge-denies-request-question-holdout-juror/19966001/",
-      "image_local": "images/story-1293.jpg",
-      "image_remote": "https://cdn.abcotvs.com/dip/images/19966020_clancy-file.png?w=1600",
-      "id": "bc722e7dff72e2d6ee738cf70fe8b06e89ae5369",
-      "summary": "A Massachusetts judge has denied a request from Lindsay Clancy’s defense team to question the lone holdout juror who forced a mistrial in her triple-murder case, ABC News reports. Judge William Sullivan wrote that “any further judicial inquiry is inappropriate” because the court must not delve into a juror’s reasoning, views or relationships with other jurors, or into the jury’s deliberations. The jury split 11-1 in favor of finding Clancy not guilty by reason of insanity after a seven-week trial this summer. Her lawyers want the indictment dismissed, arguing the judge didn’t properly look into the holdout before declaring a mistrial, and had sought an evidentiary hearing on whether he lied on his questionnaire or used his phone during deliberations; Sullivan found they hadn’t shown they were entitled to one. Clancy, the former nurse charged in the 2023 deaths of her three children in Duxbury, is due back in court Nov. 2."
-    },
-    {
-      "n": 12,
-      "headline": "Apple reportedly boosts iPhone Duo orders by 44% to 14 million on the eve of Friday’s launch",
-      "cat": "Apple / iPhone",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/10/22/apple-boosts-iphone-duo-orders/",
-      "image_local": "images/story-1294.jpg",
-      "image_remote": "https://images.macrumors.com/t/tkgAfj-OUpbVmWLeFk2rwQNa--Y=/1886x/article-new/2026/10/iPhone-Duo-Hinge-Feature-1.jpg",
-      "id": "2df3ae2b7e22a02a9ddec91a2831f9e361b20592",
-      "summary": "Strong pre-orders have reportedly pushed Apple to order millions more iPhone Duo units from suppliers, MacRumors reports, citing DigiTimes. Supply-chain sources said Foxconn and component makers received instructions reflecting a roughly 44% increase, from 9.7 million to 14 million devices over a full 12-month period. Apple has called demand “nothing short of extraordinary,” and within 30 minutes of pre-orders opening Oct. 16, U.S. shipping estimates had slipped to Jan. 25 across every configuration. Hitting the higher target could still be hard: DigiTimes said output depends on assembly progress after earlier reports of trouble with assembly, displays and hinges. The $1,999 foldable launches Friday, Oct. 23."
-    },
-    {
-      "n": 13,
-      "headline": "Musk says his Terafab chip plant will make its first test chip by mid-2027, with real production in late 2028",
-      "cat": "Elon Musk / Tech",
-      "source": "Gizmodo",
-      "url": "https://gizmodo.com/elon-musk-claims-his-terafab-will-produce-its-first-chip-by-mid-2027-2000829167",
-      "image_local": "images/story-1295.jpg",
-      "image_remote": "https://gizmodo.com/app/uploads/2026/10/GettyImages-2299248528-1200x675.jpg",
-      "id": "51a14c81ac15fd8ceed4acd833bc0ca0727ddfa7",
-      "summary": "Elon Musk said on Tesla’s earnings call that Terafab, the giant chip factory he announced in Austin in March, is “progressing quickly,” Gizmodo reports. “We’ll begin commissioning machinery in the first half of next year, and hopefully if things go well, we’ll make our first test chip, just to see if we can make any chip at all, around May or June,” he said, adding that “real production would be late ’28, which is lightning fast by fab standards.” Terafab is a joint venture between SpaceX and Tesla, which are also discussing a merger, and Musk said the two still have to work out who pays for what — “not going to be less than tens of billions in capital equipment through early 2028, and then it will probably be north of 100 billion long term.” Gizmodo notes chip fabs are notoriously slow and costly to build in the U.S., and that Musk has a history of optimistic timelines."
-    },
-    {
-      "n": 14,
-      "headline": "Jeep Wrangler production halted in Toledo after a nearby chemical leak forces evacuations",
-      "cat": "Jeep / Autos",
-      "source": "CBT News",
-      "url": "https://www.cbtnews.com/stellantis-halts-wrangler-production/",
-      "image_local": "images/story-1296.jpg",
-      "image_remote": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2026/10/Stellantis-fire.webp",
-      "id": "2e5d3412f78ce4b270d4ebfe9af2ff1e9f0fda1f",
-      "summary": "Stellantis halted production at the north plant of its Toledo Assembly Complex, which builds the Jeep Wrangler, after a hazardous chemical release about a mile away, CBT News reports. Workers were sent home Tuesday night and the first and second shifts were canceled Wednesday. The leak at the MC Tank Transport terminal on Progress Avenue involved glycidyl methacrylate, an industrial chemical used in plastics, paints and coatings that can irritate the eyes, nose, mouth and skin. Toledo Fire & Rescue ordered everyone within a mile to evacuate and those within three miles to shelter in place; by Wednesday evening the evacuation zone was cut to a half-mile and the shelter order lifted. City officials said tap water was not contaminated, and no serious injuries were reported."
-    },
-    {
-      "n": 15,
-      "headline": "Review: Tony Iommi keeps the Black Sabbath flame burning on his first solo album in 21 years, “From The Dark”",
-      "cat": "Music / Metal",
-      "source": "Louder",
-      "url": "https://www.loudersound.com/music/albums/tony-iommi-from-the-dark",
-      "image_local": "images/story-1297.jpg",
-      "image_remote": "https://cdn.mos.cms.futurecdn.net/oadbDXRg2JRdNori2sD58M-1280-80.jpg",
-      "id": "e94b1aacbc9816b1c4ef1d6f530662636b426875",
-      "summary": "With Ozzy gone and Geezer Butler and Bill Ward all but retired, it falls to Tony Iommi to keep Black Sabbath’s fire going, and Louder’s review says he does on “From The Dark,” his first solo album in 21 years, out Friday. Teamed with Norwegian singer Jørn Lande, who co-wrote all eight songs and sometimes sounds uncannily like David Coverdale, Iommi works in the style of the Dio-fronted Sabbath and Heaven & Hell, backed by bassist Becky Baldwin and drummer Karl Brazil. Highlights include the hammer-to-the-anvil opener “Over The Violent Sun,” the “brutal boogie” of first single “World Alone,” “Stormwatcher,” and “Death Wake,” which features a lead break from Brian May. The reviewer saves the most praise for closer “Legacy,” calling it “absolute killer, gold-standard Iommi.”"
-    },
-    {
-      "n": 16,
-      "headline": "Nikon’s Small World microscope-photo contest is won by a frozen-in-midair look at an inkjet printer laying ink on paper",
-      "cat": "Photography",
-      "source": "DPReview (via Yahoo)",
-      "url": "https://www.yahoo.com/lifestyle/articles/winner-nikon-small-world-competition-054709335.html",
-      "image_local": "images/story-1298.jpg",
-      "image_remote": "https://media.zenfs.com/en/dpreview_articles_177/05dbbfed81fb14cae5311fe6fe437a70.jpg",
-      "id": "a6125999437823d4c2e304d65ba4491756f4ff0c",
-      "summary": "Nikon has named the winners of its 52nd Small World Photomicrography Competition, which drew more than 1,800 entries from 69 countries, and first place went to an image of what happens inside a printer as it puts ink on paper, DPReview reports. German photographer Ole Bielfeldt, who creates under the name macrofying, built his own imaging rig around a microscope objective. His first tries failed because the printhead moved too fast to keep in focus and the droplets outran his shutter, so he reverse-engineered the printer to move the paper under a stationary printhead, then worked in a dark room and used a flash to freeze the droplets midair. “It turned out I already had everything I needed,” he said. The top 20 images also include views inside a pen and a pencil and plenty of cells."
-    },
-    {
-      "n": 17,
-      "headline": "Federal judge orders DHS to stop door-to-door noncitizen voter checks in nine states until Election Day",
-      "cat": "Immigration / Elections",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/judge-dhs-noncitizen-voters-ruling/",
-      "image_local": "images/story-1299.jpg",
-      "image_remote": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/21/1abddba8-37c2-42be-9b6f-9307c8b7d7ac/thumbnail/1200x630/27078c641fe36ee0e8f2ab156c42758c/cbsn-fusion-armed-dhs-agents-knock-on-doors-in-search-for-possible-noncitizen-voters-thumbnail.jpg",
-      "id": "405840861fd5346ca94eab925958e83798aaa6d2",
-      "summary": "A federal judge ruled late Wednesday that the Department of Homeland Security’s practice of knocking on doors to ask people about their immigration status and recent voting likely violates the Voting Rights Act, CBS News reports. U.S. District Judge Araceli Martinez-Olguin ordered immigration authorities to stop “elections-related field operations and field interviews” in nine states, including California and New York, when they are likely to involve people officials know or should suspect are U.S. citizens. The order lasts until polls close on Election Day but is stayed until 5 p.m. Friday so the administration can appeal. The Trump administration says the operation is part of its crackdown on noncitizen voting. The judge wrote that investigating unlawful voting is not itself illegal but cited a “high likelihood of error” in how DHS built its target lists from agency and commercial data. The suit was brought by groups including the California Nurses Association and National Nurses United."
-    },
-    {
-      "n": 18,
-      "headline": "Garrett Wilson, targeted just twice before the fourth quarter in New England, says wanting the ball “ain’t disruptive” ahead of Dolphins week",
-      "cat": "Sports / Jets",
-      "source": "Heavy",
-      "url": "https://heavy.com/sports/nfl/new-york-jets/garrett-wilson-blunt-frustration-offense/",
-      "image_local": "images/story-1300.jpg",
-      "image_remote": "https://heavy.com/wp-content/uploads/2026/10/new-york-jets-v-chicago-bears-chicago-illinois-october-04-garrett-2-e1792649115227.jpg?quality=65&strip=all",
-      "id": "aca4a8bb1d8a988e942e3a408d48c6bbb154ff50",
-      "summary": "Jets receiver Garrett Wilson is walking a fine line on his role in the offense, Heavy reports. After a 100-yard, touchdown game, he caught just four passes for 44 yards in Sunday’s loss to the Patriots and drew only two targets before the fourth quarter. Asked Wednesday by the AP how he can push for more targets without seeming like a malcontent, Wilson said, “it usually ain’t disruptive, like, let’s do it, you know, and that’s the mentality that all of us have being competitors,” adding, “For me, it’s kind of just getting my feet wet early and then, you know, let’s ride, I’m ready to go.” Heavy reads it as the team’s highest-paid player saying the right things while making clear he wants to be involved early. The Jets host the winless Dolphins on Sunday."
     },
     {
       "n": 19,

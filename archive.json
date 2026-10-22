@@ -1455,7 +1455,16 @@
     "bb6cd5fedd4e9ba89973ad65297e41b014395f93",
     "d4da62a47ecd343df44ea73ea25e299d52f40ee8",
     "38e290bb3a339b4d428762a22f6d5c1022f9ca6a",
-    "ffed96cd037ee99838558176bce339fd6baa2b91"
+    "ffed96cd037ee99838558176bce339fd6baa2b91",
+    "52395954be4908e89ab2070bbf993723b8c4084f",
+    "27d8da623066bc9941f89cfc889f8e86e881aa75",
+    "be38e262ccc63cc03548c94b06cf1d432435d920",
+    "d6440cc5e616c160e829118d6c17f5a6470d8a0b",
+    "544f23426053b828629008586bc2f64f3c017707",
+    "351f23b424d8381a3be89509957f0e1ec11b2b61",
+    "36da30d5c8d7ab774fa4a9bf90ecfadc86734b1d",
+    "50bc47c9e5ab284736f293c765a6af43200d82a0",
+    "fe71fb020f7bcc7a9de6451ecbd9e7575e6b01c6"
   ],
   "stories": {
     "0c2ac7a5e342411678296315c4c59043b1f067cc": {
@@ -17373,7 +17382,97 @@
       "image_remote": "https://media.babylonbee.com/articles/6ada2dc7311466ada2dc731147.jpg",
       "image_local": "images/story-1309.jpg",
       "id": "ffed96cd037ee99838558176bce339fd6baa2b91"
+    },
+    "52395954be4908e89ab2070bbf993723b8c4084f": {
+      "headline": "Federal investigators say Ilhan Omar’s real name is Ilhan Nur Said Elmi, as Jeanine Pirro fights to keep the raid warrant sealed",
+      "cat": "Politics / Immigration",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/ilhan-omar-not-minnesota-congresswoman-real-name-sources",
+      "summary": "Ilhan Omar is not the Minnesota congresswoman’s birth name, according to two people familiar with the federal investigation into her immigration paperwork, including a law enforcement source, Fox News Digital reports. A motion filed Wednesday by U.S. Attorney for D.C. Jeanine Pirro, opposing media requests to unseal the search warrant for Omar’s Washington home, refers to “Congresswoman Ilhan Nur Said Elmi, a/k/a Ilhan Abdullahi Omar,” and says agents are not yet finished executing the warrant. Investigators are probing whether Omar or her father committed fraud on her immigration forms; they took her DNA and seized her phone and passport in the October 12 pre-dawn raid, and her sister was questioned last week. A former federal immigration judge told Fox that if it is proven she lived under an alias, every form she ever filed could be called into question. Omar has said she has no birth certificate and has denied wrongdoing.",
+      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/Minnesota-state-capitol-Ilhan-Omar.jpg",
+      "image_local": "images/story-1310.jpg",
+      "id": "52395954be4908e89ab2070bbf993723b8c4084f"
+    },
+    "27d8da623066bc9941f89cfc889f8e86e881aa75": {
+      "headline": "Elon Musk puts about $1 billion into David Ellison’s Skydance, the new owner of Paramount, Warner Bros., CBS and CNN",
+      "cat": "Elon Musk / Media",
+      "source": "Semafor",
+      "url": "https://www.semafor.com/article/10/22/2026/elon-musk-makes-1-billion-investment-in-ellisons-skydance",
+      "summary": "Elon Musk has invested roughly $1 billion in Skydance, the media giant formed when David Ellison’s Paramount closed its takeover of Warner Bros. Discovery on October 6, Semafor reports, citing people familiar with the matter. The money arrived alongside other equity investments, including one from board member Laurene Powell Jobs, as Skydance tries to cut costs, prop up its stock and manage close to $80 billion in debt. Musk has publicly praised the Ellisons, and cable billionaire John Malone predicted this week that a bigger Musk deal was coming, noting that Larry Ellison put $1 billion into Musk’s Twitter purchase and once sat on Tesla’s board. The stake gives Musk a piece of the company that now controls CBS News, CNN and HBO, which is scheduled to air Alex Gibney’s critical documentary “Musk” next year. Musk and Paramount did not comment.",
+      "image_remote": "https://img.semafor.com/383232238153ecbf7b31c0c3dfcca69e1b9b3cba-4893x3262.jpg?rect=0,347,4893,2569&w=1200&h=630&q=75&auto=format",
+      "image_local": "images/story-1311.jpg",
+      "id": "27d8da623066bc9941f89cfc889f8e86e881aa75"
+    },
+    "be38e262ccc63cc03548c94b06cf1d432435d920": {
+      "headline": "Tom Skerritt, Tom Cruise’s flight instructor in “Top Gun” and Captain Dallas in “Alien,” dies at 93",
+      "cat": "Entertainment / Obituary",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/tom-skerritt-star-alien-top-gun-dies-93-rcna605077",
+      "summary": "Actor Tom Skerritt, best known to moviegoers as the no-nonsense instructor Viper in “Top Gun” and the doomed Captain Dallas in “Alien,” has died at 93, his family told NBC News. He died Wednesday of natural causes. Born in Detroit in 1933, Skerritt served four years in the U.S. Air Force before heading to Hollywood, where his breakthrough came as Captain Duke Forrest in Robert Altman’s 1970 film “M*A*S*H.” He went on to roles in “The Turning Point,” “Up in Smoke,” “The Dead Zone” and “Steel Magnolias,” and won an Emmy as the small-town sheriff on the TV series “Picket Fences.” His family said he cared deeply about storytelling, service, veterans and the natural world.",
+      "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261022-Tom-Skerritt-ew-317p-3793bb.jpg",
+      "image_local": "images/story-1312.jpg",
+      "id": "be38e262ccc63cc03548c94b06cf1d432435d920"
+    },
+    "d6440cc5e616c160e829118d6c17f5a6470d8a0b": {
+      "headline": "Musk now targets late 2027 for the first Optimus robot deliveries to outside customers, saying the hands are still the hardest problem",
+      "cat": "Tesla / Robots",
+      "source": "Electrek",
+      "url": "https://electrek.co/2026/10/22/tesla-optimus-delivery-late-2027-hands-ai-problems/",
+      "summary": "Tesla will start delivering its Optimus humanoid robot to outside customers around the end of 2027, Elon Musk said on the company’s third-quarter earnings call, Electrek reports. Musk said early production has begun on a high-volume line in Fremont, in space that once built the Model S and Model X, but reaching the line’s planned rate of about 20,000 robots a week will take at least a year because parts of the design are still changing. He listed the AI, the electromechanical design and long-term reliability as the remaining hurdles, and agreed with a Tesla engineer that the hand is the toughest piece. Tesla plans to build 10,000 to 20,000 robots to practice tasks in an “Optimus Academy,” add its AI5 chip around April 2027, and release a video within a couple of months showing unscripted tasks. Electrek notes the timeline has slipped repeatedly and that rivals XPeng and Boston Dynamics look at least as far along.",
+      "image_remote": "https://electrek.co/wp-content/uploads/sites/3/2026/01/Tesla-Optimus-Hyundai-atlas.png?w=1600",
+      "image_local": "images/story-1313.jpg",
+      "id": "d6440cc5e616c160e829118d6c17f5a6470d8a0b"
+    },
+    "544f23426053b828629008586bc2f64f3c017707": {
+      "headline": "Ukrainian troops crawled about 9 miles through gas pipelines to get behind Russian lines near Kupiansk, capturing more than 30 soldiers",
+      "cat": "World / Ukraine",
+      "source": "Kyiv Independent",
+      "url": "https://kyivindependent.com/ukraine-war-latest-ukrainian-troops-infiltrate-russian-rear-near-kupiansk-through-15-kilometers-of-gas-pipelines/",
+      "summary": "Ukrainian troops slipped into the Russian rear near Kupiansk in Kharkiv Oblast by moving roughly 15 kilometers (about 9 miles) through underground gas pipelines, the National Guard’s 2nd Khartiia Corps said Thursday, according to the Kyiv Independent. The operation, code-named “Veles,” combined the underground advance with attacks above ground, including drone strikes, and the corps says more than 30 Russian soldiers were captured and over 100 became casualties; the Kyiv Independent could not verify those numbers. Commander Brig. Gen. Ihor Obolienskyi said Ukraine had studied how Russian forces used the same pipelines to sneak troops forward and decided to “go underground ourselves.” Russia has used the pipes several times in the Kupiansk sector, including a roughly 50-man assault stopped in January, and Khartiia says retreating Russian troops recently forced civilians, including children, into a pipeline as human shields.",
+      "image_remote": "https://assets.kyivindependent.com/content/images/2026/10/photo_2026-10-22_20-37-19_20261022-173729.jpg",
+      "image_local": "images/story-1314.jpg",
+      "id": "544f23426053b828629008586bc2f64f3c017707"
+    },
+    "351f23b424d8381a3be89509957f0e1ec11b2b61": {
+      "headline": "Geno Smith says the 2-4 Jets are “right at the cusp” ahead of Sunday’s home game against the winless Dolphins",
+      "cat": "Sports / Jets",
+      "source": "New York Jets",
+      "url": "https://www.newyorkjets.com/news/jets-vs-dolphins-game-preview-geno-smith-malik-willis-week-7-nfl-10-25-2026",
+      "summary": "The Jets (2-4) host the winless Dolphins (0-5) Sunday at 1 p.m. at MetLife Stadium, and quarterback Geno Smith says the team is moving in the right direction despite a string of early injuries on offense, the team’s game preview reports. Smith, in his 13th season, is completing 69% of his passes for 1,226 yards with seven touchdowns and one interception, has led scoring drives on the opening possession two weeks running, and hit rookie Omar Cooper Jr. for a 48-yard touchdown in last week’s 26-19 loss at New England. Comparing the moment to his early Seattle years, Smith said, “I think we’re right at the cusp of it.” The Jets could get receiver Adonai Mitchell, who has missed four games, plus left guard Dylan Parham and running back Breece Hall back in the lineup.",
+      "image_remote": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/jets/v7zcefy8h2ewnjy5xvod",
+      "image_local": "images/story-1315.jpg",
+      "id": "351f23b424d8381a3be89509957f0e1ec11b2b61"
+    },
+    "36da30d5c8d7ab774fa4a9bf90ecfadc86734b1d": {
+      "headline": "Slayer plays all of “Reign in Blood” for its 40th anniversary at a packed Mexico City arena",
+      "cat": "Music / Metal",
+      "source": "Blabbermouth",
+      "url": "https://blabbermouth.net/news/watch-slayer-celebrates-40th-anniversary-of-reign-in-blood-in-mexico-city",
+      "summary": "Thrash legends Slayer marked the 40th anniversary of their 1986 classic “Reign in Blood” by playing the album in full on Wednesday night at Palacio de los Deportes in Mexico City, with Power Trip opening, Blabbermouth reports. The 23-song set opened with “South of Heaven,” “Mandatory Suicide” and “War Ensemble” before running straight through the album from “Angel of Death” to “Raining Blood.” It was the third “Reign in Blood” anniversary show after September dates in Minnesota and at Rocklahoma, and the reunited lineup of Tom Araya, Kerry King, Gary Holt and Paul Bostaph plays Sick New World in Fort Worth on Saturday, two nights at the Kia Forum in November, and South American dates in December. The Rick Rubin-produced record was once called “the heaviest album of all time” by Kerrang!",
+      "image_remote": "https://assets.blabbermouth.net/media/slayermexicooct2026_638.jpg",
+      "image_local": "images/story-1316.jpg",
+      "id": "36da30d5c8d7ab774fa4a9bf90ecfadc86734b1d"
+    },
+    "50bc47c9e5ab284736f293c765a6af43200d82a0": {
+      "headline": "Apple adds an AI “Intelligent Assistant” to Pages, Numbers and Keynote, plus quiet iPhone Duo support",
+      "cat": "Apple / AI",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/22/iwork-apps-intelligent-assistant/",
+      "summary": "Apple on Thursday added an “Intelligent Assistant” to Keynote, Numbers and Pages, available in beta to Apple Creator Studio subscribers, MacRumors reports. In Numbers it can build formulas from plain-language requests, generate tables and visualize data; in Pages it can start a first draft, rewrite sections and adjust tone; and in Keynote it can build and refine slides, add animations and write presenter notes. In all three it can look up information on the web and drop it into a document, and generate images and shapes. The update briefly pulled the apps from the App Store before they returned, and although the release notes don’t mention it, all three now support the iPhone Duo ahead of Friday’s launch. The apps remain free; Creator Studio costs $12.99 a month.",
+      "image_remote": "https://images.macrumors.com/t/NcQycJ35J_cxoKadmpDrjlkGt9s=/2500x/article-new/2026/10/iphone-duo-keynote.jpg",
+      "image_local": "images/story-1317.jpg",
+      "id": "50bc47c9e5ab284736f293c765a6af43200d82a0"
+    },
+    "fe71fb020f7bcc7a9de6451ecbd9e7575e6b01c6": {
+      "headline": "Fairfield police arrest two Brooklyn men in a string of high-end jewelry burglaries in Greenfield Hill",
+      "cat": "Local / Connecticut",
+      "source": "Patch",
+      "url": "https://patch.com/connecticut/fairfield/2-suspects-arrested-connection-high-end-burglaries-fairfield-police",
+      "summary": "Fairfield police have arrested two Brooklyn, New York, men in connection with a series of burglaries in the town’s Greenfield Hill neighborhood, Patch reports. Levan Aleksidze, 40, and Mamuka Chaganava, 47, are each charged with conspiracy to commit first-degree burglary and are held on $100,000 bond. Police said several unoccupied homes had been hit in similar fashion, with the burglars going after high-end jewelry. Detectives used Fairfield’s license plate reader system to identify a suspect vehicle, and on September 24, working with the Bridgeport Police Auto Theft Task Force, they spotted it apparently scouting for another target and stopped it before another break-in could happen. Chief Michael Paris said residents “deserve to feel safe in their homes.” The investigation, which also involved the Brooklyn district attorney’s office, is continuing.",
+      "image_remote": "https://patch.com/img/cdn20/users/21821499/20261022/033334/styles/patch_image/public/patch-lead-image-canvas-blank-2___22152015640.jpg",
+      "image_local": "images/story-1318.jpg",
+      "id": "fe71fb020f7bcc7a9de6451ecbd9e7575e6b01c6"
     }
   },
-  "updated": "Thursday, October 22, 2026 · 11:41 AM ET"
+  "updated": "Thursday, October 22, 2026 · 4:13 PM ET"
 }
