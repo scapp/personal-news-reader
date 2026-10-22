@@ -1464,7 +1464,16 @@
     "351f23b424d8381a3be89509957f0e1ec11b2b61",
     "36da30d5c8d7ab774fa4a9bf90ecfadc86734b1d",
     "50bc47c9e5ab284736f293c765a6af43200d82a0",
-    "fe71fb020f7bcc7a9de6451ecbd9e7575e6b01c6"
+    "fe71fb020f7bcc7a9de6451ecbd9e7575e6b01c6",
+    "b2416beb64078f5b56944f3812cc0a1129197299",
+    "015f772761a2070bc9ec0cf75fc9abf2bd8d81de",
+    "fc67beb6e8a00daa37bda5527827077669520166",
+    "5cb31fd4816e453d2c0ce89647501e20124b3880",
+    "4ced217d88b86d03a3ceffcce6fcac987f584ffa",
+    "a8f2132df5b8b6a637186053babbba1fbbcf730b",
+    "8746dfdf8f34f61a953a9e68a1e56e34a5d48525",
+    "162ffe07628bc19383cc4829d6e5451f213513d9",
+    "95de562e812385f55b3c25d65240902029b31209"
   ],
   "stories": {
     "0c2ac7a5e342411678296315c4c59043b1f067cc": {
@@ -17472,7 +17481,97 @@
       "image_remote": "https://patch.com/img/cdn20/users/21821499/20261022/033334/styles/patch_image/public/patch-lead-image-canvas-blank-2___22152015640.jpg",
       "image_local": "images/story-1318.jpg",
       "id": "fe71fb020f7bcc7a9de6451ecbd9e7575e6b01c6"
+    },
+    "b2416beb64078f5b56944f3812cc0a1129197299": {
+      "headline": "Man accused of knocking the head off a Marine on the Iwo Jima statue near Quantico with a sledgehammer",
+      "cat": "Crime / Military",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/us/man-accused-decapitating-iwo-jima-statue-sledgehammer-near-quantico",
+      "summary": "A Virginia man was arrested after police say he used a sledgehammer to knock the head off one of the Marines on the limestone Iwo Jima flag-raising statue near Marine Corps Base Quantico, causing hundreds of thousands of dollars in damage. Prince William County officers answered a vandalism call around 10:13 p.m. Wednesday at Richmond Highway and Fuller Road and say they found 27-year-old Miguel Alonso Maldonado Soriano of Stafford still striking the monument. The figure farthest to the right lost its head, another Marine has gouges across his helmet and face, and a third had the bayonet on his rifle damaged. Maldonado Soriano faces three charges, including felony destruction of property.",
+      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/iwo-jima-statue-marine-corps-base-quantico.jpg",
+      "image_local": "images/story-1319.jpg",
+      "id": "b2416beb64078f5b56944f3812cc0a1129197299"
+    },
+    "015f772761a2070bc9ec0cf75fc9abf2bd8d81de": {
+      "headline": "Supreme Court says student IDs can’t be used to vote in New Hampshire this November, a win for Republicans",
+      "cat": "Politics / Elections",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/politics/supreme-court/new-hampshire-student-ids-cannot-used-vote-november-midterm-elections-rcna604570",
+      "summary": "The Supreme Court on Thursday granted New Hampshire’s emergency request, backed by the Republican National Committee, and ruled that student IDs cannot be used at the polls in the Nov. 3 midterms. A state law passed in April already removed student IDs from the list of accepted primary identification, and Secretary of State David Scanlan, a Republican, told officials they could not be used for any purpose. U.S. District Judge Joseph Laplante blocked that guidance on Oct. 2, but the justices’ unsigned order said a federal judge should not change voting rules so close to an election, so student IDs cannot be used even as backup proof of identity. The ruling lands ahead of a closely watched Senate race between Republican John E. Sununu and Democratic Rep. Chris Pappas for retiring Sen. Jeanne Shaheen’s seat.",
+      "image_remote": "",
+      "image_local": "",
+      "id": "015f772761a2070bc9ec0cf75fc9abf2bd8d81de"
+    },
+    "fc67beb6e8a00daa37bda5527827077669520166": {
+      "headline": "A magnitude 7.0 earthquake in northern Tibet kills at least 16 people and topples more than 300 homes",
+      "cat": "World / Disaster",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/powerful-earthquake-tibet-china/",
+      "summary": "A magnitude 7.0 earthquake struck China’s Tibet region at 10:33 p.m. local time Thursday, killing at least 16 people and injuring 32, according to China’s state news agency Xinhua, citing local officials. More than 300 homes collapsed. The U.S. Geological Survey placed the epicenter about 119 miles east-northeast of Nagqu, in a sparsely populated, high-altitude part of northern Tibet, at a depth of about 11 miles. State broadcaster CCTV called it the region’s biggest quake in five years. It comes less than two months after a glacier collapse set off flash flooding along the Nepal-Tibet border that killed hundreds of people.",
+      "image_remote": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/22/dc274e6b-c1e2-4f3f-a48c-77310d210057/thumbnail/1200x630/96ede6e3318b047406f4c1144a98e819/tibet-quaike.jpg",
+      "image_local": "images/story-1320.jpg",
+      "id": "fc67beb6e8a00daa37bda5527827077669520166"
+    },
+    "5cb31fd4816e453d2c0ce89647501e20124b3880": {
+      "headline": "Tesla is building its own AI maps for FSD navigation, with voice routing, in time for v15",
+      "cat": "Tesla / FSD",
+      "source": "Teslarati",
+      "url": "https://www.teslarati.com/tesla-building-its-own-maps-fix-navigation-issues/",
+      "summary": "On Tesla’s Q3 earnings call, AI chief Ashok Elluswamy answered an owner question about FSD navigation problems such as speed limits, parking and odd routing by saying Tesla “shouldn’t be depending on external people’s maps” and is building its own. He described an all-new, AI-based mapping and navigation system that owners can talk to, ask for different routes, and that learns personal and fleet-wide preferences. He said it should be ready by the time FSD v15 starts reaching customers and will take over navigation, parking and destination handling over the next several months. Tesla currently relies on Google for map data, and routing remains one of owners’ most common FSD complaints. Electrek noted the shift comes after years of Musk calling map-dependent self-driving brittle.",
+      "image_remote": "https://www.teslarati.com/wp-content/uploads/2025/07/tesla-interior-navigation-fsd-1000x600.jpeg",
+      "image_local": "images/story-1321.jpg",
+      "id": "5cb31fd4816e453d2c0ce89647501e20124b3880"
+    },
+    "4ced217d88b86d03a3ceffcce6fcac987f584ffa": {
+      "headline": "iPhone Duo, 24 hours in: great multitasking and a sturdy inner screen, but no telephoto, weaker selfies and a slower Touch ID",
+      "cat": "Apple / iPhone",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/22/iphone-duo-24-hours-hands-on/",
+      "summary": "MacRumors videographer Dan Barbera got his iPhone Duo a day before Friday’s launch and answered readers’ most common questions. Some apps already have special modes for the foldable, such as a Netflix half-fold view, while unupdated apps run with thick black bars, a problem he expects to shrink as updates arrive starting Friday. Side-by-side multitasking is genuinely useful, and the inner screen feels durable, like an iPad nano-texture display, though it picks up fingerprints. The trade-offs: the camera is roughly iPhone 17 level with no telephoto, the under-display selfie camera is only fine for casual FaceTime, Touch ID has a deliberate touch-and-hold pause that is slower than Face ID, and the phone is heavy and harder to use left-handed. It starts at $1,999.",
+      "image_remote": "https://images.macrumors.com/t/9fn3b1A-snnD-OLwukmFhwoEMck=/1772x/article-new/2026/10/iPhone-QA-Thumb-Sans-Dan.jpg",
+      "image_local": "images/story-1322.jpg",
+      "id": "4ced217d88b86d03a3ceffcce6fcac987f584ffa"
+    },
+    "a8f2132df5b8b6a637186053babbba1fbbcf730b": {
+      "headline": "Microsoft says its AI diagnosed hard medical cases more than twice as accurately as doctors, in a study now published in Science",
+      "cat": "AI / Health",
+      "source": "Gizmodo",
+      "url": "https://gizmodo.com/microsoft-says-its-new-ai-is-more-than-twice-as-good-at-diagnosing-diseases-as-doctors-2000829562",
+      "summary": "Microsoft’s AI Diagnostic Orchestrator, MAI-DxO, got 83.2% of complex New England Journal of Medicine case studies right, compared with 36.1% for generalist physicians who had reference materials and about 22% for those without them, according to a peer-reviewed paper published Thursday in Science. In a separate test on emergency-room admissions it again beat doctors, 80.3% to 46.8%, and Microsoft says it ordered fewer tests, at half to a third of the estimated cost. The best results came using OpenAI’s GPT-5 models. The researchers say the gap would likely narrow in real practice, and the cost savings were estimated from simulated cases. Clinical testing is set to begin at Boston’s Beth Israel Deaconess Medical Center within the next couple of months.",
+      "image_remote": "",
+      "image_local": "",
+      "id": "a8f2132df5b8b6a637186053babbba1fbbcf730b"
+    },
+    "8746dfdf8f34f61a953a9e68a1e56e34a5d48525": {
+      "headline": "Penguins lose Bryan Rust for at least six weeks with a lower-body injury, and McGroarty is called up",
+      "cat": "Sports / Penguins",
+      "source": "NHL.com",
+      "url": "https://www.nhl.com/news/pittsburgh-penguins-bryan-rust-injury-status-update-october-22-2026",
+      "summary": "Bryan Rust will be reevaluated in six weeks after the lower-body injury that knocked him out of Monday’s 5-4 loss in Utah, coach Dan Muse said Thursday. The Penguins put Rust on injured reserve along with Ben Kindel, who is recovering after a vasovagal episode on the team plane, and recalled forward Rutger McGroarty and defenseman Chase Pietila from Wilkes-Barre/Scranton. At the morning skate before Thursday’s home game against Florida, Tommy Novak moved to left wing on Sidney Crosby’s top line, with Rickard Rakell shifting to the right, Hendrix Lapierre took the second-line center spot and Blake Lizotte replaced Kindel on the third line. Pittsburgh is 1-6-1 in its last eight games and has allowed at least five goals in four straight losses. Rust, 34, had five points in seven games.",
+      "image_remote": "https://media.d3.nhle.com/image/private/t_ratio16_9-size50/v1792687555/prd/sezib2rxjlij2unyzv7p.jpg",
+      "image_local": "images/story-1323.jpg",
+      "id": "8746dfdf8f34f61a953a9e68a1e56e34a5d48525"
+    },
+    "162ffe07628bc19383cc4829d6e5451f213513d9": {
+      "headline": "Ex-Slipknot percussionist Chris Fehn authenticates his own $15,000 mask on “Pawn Stars”",
+      "cat": "Music / Metal",
+      "source": "Loudwire",
+      "url": "https://loudwire.com/slipknot-chris-fehn-pawn-stars-mask/",
+      "summary": "On Wednesday’s episode of History’s “Pawn Stars,” a seller named Spencer brought Chumlee an early Slipknot Liar mask with the long nose, a drum head and a guitar said to be signed by the band’s classic lineup. He wanted $15,000 for the mask and $20,000 for the other two pieces, which he said came from an Iowa radio DJ. Chumlee joked that the mask “looks like a Halloween costume” and called in former Slipknot member Chris Fehn. Fehn remembered signing the guitar, marked “Slipknot Music Land Southridge Mall July 1999,” at one of the band’s first signings, and said the autographs, including an older version of his own signature, were real. He confirmed the mask was made for him but said he never wore it live because it didn’t fit right, which is why it is in such good shape.",
+      "image_remote": "https://townsquare.media/site/366/files/2026/10/attachment-social-image-366-2026-10-22-16-37-58.jpg?w=1200&q=75&format=natural",
+      "image_local": "images/story-1324.jpg",
+      "id": "162ffe07628bc19383cc4829d6e5451f213513d9"
+    },
+    "95de562e812385f55b3c25d65240902029b31209": {
+      "headline": "Norway’s record Viking hoard yields a coin of King Olaf Haraldsson, the first of its kind found since 1924",
+      "cat": "History / Archaeology",
+      "source": "Gizmodo",
+      "url": "https://gizmodo.com/record-viking-hoard-yields-a-coin-not-found-in-over-100-years-2000829598",
+      "summary": "Excavations at the Mørstad Hoard, found by metal detectorists at Rena in Norway’s Innlandet county in April, have now turned up about 5,500 Viking Age coins. One of them is inscribed ONLAF R+ NORMANORV, “Olaf, King of the Norwegians,” the University of Oslo’s Museum of Cultural History announced. It shows a bust in a conical battle helmet on one side and a cross with a Christian acclamation on the other. Olaf Haraldsson ruled Norway from 1015 to 1028 and drove the country’s conversion to Christianity. Fewer than 20 of his coins survive, most of them outside Norway, and none like this one had been found since 1924. An archaeologist on the dig called it a national treasure, and experts say Olaf may have chosen the design himself.",
+      "image_remote": "https://gizmodo.com/app/uploads/2026/10/olaf-haraldsson-coin-norway-oslo-cultural-museum-front-back-1200x675.jpg",
+      "image_local": "images/story-1325.jpg",
+      "id": "95de562e812385f55b3c25d65240902029b31209"
     }
   },
-  "updated": "Thursday, October 22, 2026 · 4:13 PM ET"
+  "updated": "Thursday, October 22, 2026 · 6:11 PM ET"
 }

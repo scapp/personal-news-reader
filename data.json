@@ -1,8 +1,107 @@
 {
-  "updated": "Thursday, October 22, 2026 · 4:13 PM ET",
+  "updated": "Thursday, October 22, 2026 · 6:11 PM ET",
   "stories": [
     {
       "n": 1,
+      "headline": "Man accused of knocking the head off a Marine on the Iwo Jima statue near Quantico with a sledgehammer",
+      "cat": "Crime / Military",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/us/man-accused-decapitating-iwo-jima-statue-sledgehammer-near-quantico",
+      "image_local": "images/story-1319.jpg",
+      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/iwo-jima-statue-marine-corps-base-quantico.jpg",
+      "id": "b2416beb64078f5b56944f3812cc0a1129197299",
+      "summary": "A Virginia man was arrested after police say he used a sledgehammer to knock the head off one of the Marines on the limestone Iwo Jima flag-raising statue near Marine Corps Base Quantico, causing hundreds of thousands of dollars in damage. Prince William County officers answered a vandalism call around 10:13 p.m. Wednesday at Richmond Highway and Fuller Road and say they found 27-year-old Miguel Alonso Maldonado Soriano of Stafford still striking the monument. The figure farthest to the right lost its head, another Marine has gouges across his helmet and face, and a third had the bayonet on his rifle damaged. Maldonado Soriano faces three charges, including felony destruction of property."
+    },
+    {
+      "n": 2,
+      "headline": "Supreme Court says student IDs can’t be used to vote in New Hampshire this November, a win for Republicans",
+      "cat": "Politics / Elections",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/politics/supreme-court/new-hampshire-student-ids-cannot-used-vote-november-midterm-elections-rcna604570",
+      "image_local": "",
+      "image_remote": "",
+      "id": "015f772761a2070bc9ec0cf75fc9abf2bd8d81de",
+      "summary": "The Supreme Court on Thursday granted New Hampshire’s emergency request, backed by the Republican National Committee, and ruled that student IDs cannot be used at the polls in the Nov. 3 midterms. A state law passed in April already removed student IDs from the list of accepted primary identification, and Secretary of State David Scanlan, a Republican, told officials they could not be used for any purpose. U.S. District Judge Joseph Laplante blocked that guidance on Oct. 2, but the justices’ unsigned order said a federal judge should not change voting rules so close to an election, so student IDs cannot be used even as backup proof of identity. The ruling lands ahead of a closely watched Senate race between Republican John E. Sununu and Democratic Rep. Chris Pappas for retiring Sen. Jeanne Shaheen’s seat."
+    },
+    {
+      "n": 3,
+      "headline": "A magnitude 7.0 earthquake in northern Tibet kills at least 16 people and topples more than 300 homes",
+      "cat": "World / Disaster",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/powerful-earthquake-tibet-china/",
+      "image_local": "images/story-1320.jpg",
+      "image_remote": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/22/dc274e6b-c1e2-4f3f-a48c-77310d210057/thumbnail/1200x630/96ede6e3318b047406f4c1144a98e819/tibet-quaike.jpg",
+      "id": "fc67beb6e8a00daa37bda5527827077669520166",
+      "summary": "A magnitude 7.0 earthquake struck China’s Tibet region at 10:33 p.m. local time Thursday, killing at least 16 people and injuring 32, according to China’s state news agency Xinhua, citing local officials. More than 300 homes collapsed. The U.S. Geological Survey placed the epicenter about 119 miles east-northeast of Nagqu, in a sparsely populated, high-altitude part of northern Tibet, at a depth of about 11 miles. State broadcaster CCTV called it the region’s biggest quake in five years. It comes less than two months after a glacier collapse set off flash flooding along the Nepal-Tibet border that killed hundreds of people."
+    },
+    {
+      "n": 4,
+      "headline": "Tesla is building its own AI maps for FSD navigation, with voice routing, in time for v15",
+      "cat": "Tesla / FSD",
+      "source": "Teslarati",
+      "url": "https://www.teslarati.com/tesla-building-its-own-maps-fix-navigation-issues/",
+      "image_local": "images/story-1321.jpg",
+      "image_remote": "https://www.teslarati.com/wp-content/uploads/2025/07/tesla-interior-navigation-fsd-1000x600.jpeg",
+      "id": "5cb31fd4816e453d2c0ce89647501e20124b3880",
+      "summary": "On Tesla’s Q3 earnings call, AI chief Ashok Elluswamy answered an owner question about FSD navigation problems such as speed limits, parking and odd routing by saying Tesla “shouldn’t be depending on external people’s maps” and is building its own. He described an all-new, AI-based mapping and navigation system that owners can talk to, ask for different routes, and that learns personal and fleet-wide preferences. He said it should be ready by the time FSD v15 starts reaching customers and will take over navigation, parking and destination handling over the next several months. Tesla currently relies on Google for map data, and routing remains one of owners’ most common FSD complaints. Electrek noted the shift comes after years of Musk calling map-dependent self-driving brittle."
+    },
+    {
+      "n": 5,
+      "headline": "iPhone Duo, 24 hours in: great multitasking and a sturdy inner screen, but no telephoto, weaker selfies and a slower Touch ID",
+      "cat": "Apple / iPhone",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/22/iphone-duo-24-hours-hands-on/",
+      "image_local": "images/story-1322.jpg",
+      "image_remote": "https://images.macrumors.com/t/9fn3b1A-snnD-OLwukmFhwoEMck=/1772x/article-new/2026/10/iPhone-QA-Thumb-Sans-Dan.jpg",
+      "id": "4ced217d88b86d03a3ceffcce6fcac987f584ffa",
+      "summary": "MacRumors videographer Dan Barbera got his iPhone Duo a day before Friday’s launch and answered readers’ most common questions. Some apps already have special modes for the foldable, such as a Netflix half-fold view, while unupdated apps run with thick black bars, a problem he expects to shrink as updates arrive starting Friday. Side-by-side multitasking is genuinely useful, and the inner screen feels durable, like an iPad nano-texture display, though it picks up fingerprints. The trade-offs: the camera is roughly iPhone 17 level with no telephoto, the under-display selfie camera is only fine for casual FaceTime, Touch ID has a deliberate touch-and-hold pause that is slower than Face ID, and the phone is heavy and harder to use left-handed. It starts at $1,999."
+    },
+    {
+      "n": 6,
+      "headline": "Microsoft says its AI diagnosed hard medical cases more than twice as accurately as doctors, in a study now published in Science",
+      "cat": "AI / Health",
+      "source": "Gizmodo",
+      "url": "https://gizmodo.com/microsoft-says-its-new-ai-is-more-than-twice-as-good-at-diagnosing-diseases-as-doctors-2000829562",
+      "image_local": "",
+      "image_remote": "",
+      "id": "a8f2132df5b8b6a637186053babbba1fbbcf730b",
+      "summary": "Microsoft’s AI Diagnostic Orchestrator, MAI-DxO, got 83.2% of complex New England Journal of Medicine case studies right, compared with 36.1% for generalist physicians who had reference materials and about 22% for those without them, according to a peer-reviewed paper published Thursday in Science. In a separate test on emergency-room admissions it again beat doctors, 80.3% to 46.8%, and Microsoft says it ordered fewer tests, at half to a third of the estimated cost. The best results came using OpenAI’s GPT-5 models. The researchers say the gap would likely narrow in real practice, and the cost savings were estimated from simulated cases. Clinical testing is set to begin at Boston’s Beth Israel Deaconess Medical Center within the next couple of months."
+    },
+    {
+      "n": 7,
+      "headline": "Penguins lose Bryan Rust for at least six weeks with a lower-body injury, and McGroarty is called up",
+      "cat": "Sports / Penguins",
+      "source": "NHL.com",
+      "url": "https://www.nhl.com/news/pittsburgh-penguins-bryan-rust-injury-status-update-october-22-2026",
+      "image_local": "images/story-1323.jpg",
+      "image_remote": "https://media.d3.nhle.com/image/private/t_ratio16_9-size50/v1792687555/prd/sezib2rxjlij2unyzv7p.jpg",
+      "id": "8746dfdf8f34f61a953a9e68a1e56e34a5d48525",
+      "summary": "Bryan Rust will be reevaluated in six weeks after the lower-body injury that knocked him out of Monday’s 5-4 loss in Utah, coach Dan Muse said Thursday. The Penguins put Rust on injured reserve along with Ben Kindel, who is recovering after a vasovagal episode on the team plane, and recalled forward Rutger McGroarty and defenseman Chase Pietila from Wilkes-Barre/Scranton. At the morning skate before Thursday’s home game against Florida, Tommy Novak moved to left wing on Sidney Crosby’s top line, with Rickard Rakell shifting to the right, Hendrix Lapierre took the second-line center spot and Blake Lizotte replaced Kindel on the third line. Pittsburgh is 1-6-1 in its last eight games and has allowed at least five goals in four straight losses. Rust, 34, had five points in seven games."
+    },
+    {
+      "n": 8,
+      "headline": "Ex-Slipknot percussionist Chris Fehn authenticates his own $15,000 mask on “Pawn Stars”",
+      "cat": "Music / Metal",
+      "source": "Loudwire",
+      "url": "https://loudwire.com/slipknot-chris-fehn-pawn-stars-mask/",
+      "image_local": "images/story-1324.jpg",
+      "image_remote": "https://townsquare.media/site/366/files/2026/10/attachment-social-image-366-2026-10-22-16-37-58.jpg?w=1200&q=75&format=natural",
+      "id": "162ffe07628bc19383cc4829d6e5451f213513d9",
+      "summary": "On Wednesday’s episode of History’s “Pawn Stars,” a seller named Spencer brought Chumlee an early Slipknot Liar mask with the long nose, a drum head and a guitar said to be signed by the band’s classic lineup. He wanted $15,000 for the mask and $20,000 for the other two pieces, which he said came from an Iowa radio DJ. Chumlee joked that the mask “looks like a Halloween costume” and called in former Slipknot member Chris Fehn. Fehn remembered signing the guitar, marked “Slipknot Music Land Southridge Mall July 1999,” at one of the band’s first signings, and said the autographs, including an older version of his own signature, were real. He confirmed the mask was made for him but said he never wore it live because it didn’t fit right, which is why it is in such good shape."
+    },
+    {
+      "n": 9,
+      "headline": "Norway’s record Viking hoard yields a coin of King Olaf Haraldsson, the first of its kind found since 1924",
+      "cat": "History / Archaeology",
+      "source": "Gizmodo",
+      "url": "https://gizmodo.com/record-viking-hoard-yields-a-coin-not-found-in-over-100-years-2000829598",
+      "image_local": "images/story-1325.jpg",
+      "image_remote": "https://gizmodo.com/app/uploads/2026/10/olaf-haraldsson-coin-norway-oslo-cultural-museum-front-back-1200x675.jpg",
+      "id": "95de562e812385f55b3c25d65240902029b31209",
+      "summary": "Excavations at the Mørstad Hoard, found by metal detectorists at Rena in Norway’s Innlandet county in April, have now turned up about 5,500 Viking Age coins. One of them is inscribed ONLAF R+ NORMANORV, “Olaf, King of the Norwegians,” the University of Oslo’s Museum of Cultural History announced. It shows a bust in a conical battle helmet on one side and a cross with a Christian acclamation on the other. Olaf Haraldsson ruled Norway from 1015 to 1028 and drove the country’s conversion to Christianity. Fewer than 20 of his coins survive, most of them outside Norway, and none like this one had been found since 1924. An archaeologist on the dig called it a national treasure, and experts say Olaf may have chosen the design himself."
+    },
+    {
+      "n": 10,
       "headline": "Federal investigators say Ilhan Omar’s real name is Ilhan Nur Said Elmi, as Jeanine Pirro fights to keep the raid warrant sealed",
       "cat": "Politics / Immigration",
       "source": "Fox News",
@@ -13,7 +112,7 @@
       "summary": "Ilhan Omar is not the Minnesota congresswoman’s birth name, according to two people familiar with the federal investigation into her immigration paperwork, including a law enforcement source, Fox News Digital reports. A motion filed Wednesday by U.S. Attorney for D.C. Jeanine Pirro, opposing media requests to unseal the search warrant for Omar’s Washington home, refers to “Congresswoman Ilhan Nur Said Elmi, a/k/a Ilhan Abdullahi Omar,” and says agents are not yet finished executing the warrant. Investigators are probing whether Omar or her father committed fraud on her immigration forms; they took her DNA and seized her phone and passport in the October 12 pre-dawn raid, and her sister was questioned last week. A former federal immigration judge told Fox that if it is proven she lived under an alias, every form she ever filed could be called into question. Omar has said she has no birth certificate and has denied wrongdoing."
     },
     {
-      "n": 2,
+      "n": 11,
       "headline": "Elon Musk puts about $1 billion into David Ellison’s Skydance, the new owner of Paramount, Warner Bros., CBS and CNN",
       "cat": "Elon Musk / Media",
       "source": "Semafor",
@@ -24,7 +123,7 @@
       "summary": "Elon Musk has invested roughly $1 billion in Skydance, the media giant formed when David Ellison’s Paramount closed its takeover of Warner Bros. Discovery on October 6, Semafor reports, citing people familiar with the matter. The money arrived alongside other equity investments, including one from board member Laurene Powell Jobs, as Skydance tries to cut costs, prop up its stock and manage close to $80 billion in debt. Musk has publicly praised the Ellisons, and cable billionaire John Malone predicted this week that a bigger Musk deal was coming, noting that Larry Ellison put $1 billion into Musk’s Twitter purchase and once sat on Tesla’s board. The stake gives Musk a piece of the company that now controls CBS News, CNN and HBO, which is scheduled to air Alex Gibney’s critical documentary “Musk” next year. Musk and Paramount did not comment."
     },
     {
-      "n": 3,
+      "n": 12,
       "headline": "Tom Skerritt, Tom Cruise’s flight instructor in “Top Gun” and Captain Dallas in “Alien,” dies at 93",
       "cat": "Entertainment / Obituary",
       "source": "NBC News",
@@ -35,7 +134,7 @@
       "summary": "Actor Tom Skerritt, best known to moviegoers as the no-nonsense instructor Viper in “Top Gun” and the doomed Captain Dallas in “Alien,” has died at 93, his family told NBC News. He died Wednesday of natural causes. Born in Detroit in 1933, Skerritt served four years in the U.S. Air Force before heading to Hollywood, where his breakthrough came as Captain Duke Forrest in Robert Altman’s 1970 film “M*A*S*H.” He went on to roles in “The Turning Point,” “Up in Smoke,” “The Dead Zone” and “Steel Magnolias,” and won an Emmy as the small-town sheriff on the TV series “Picket Fences.” His family said he cared deeply about storytelling, service, veterans and the natural world."
     },
     {
-      "n": 4,
+      "n": 13,
       "headline": "Musk now targets late 2027 for the first Optimus robot deliveries to outside customers, saying the hands are still the hardest problem",
       "cat": "Tesla / Robots",
       "source": "Electrek",
@@ -46,7 +145,7 @@
       "summary": "Tesla will start delivering its Optimus humanoid robot to outside customers around the end of 2027, Elon Musk said on the company’s third-quarter earnings call, Electrek reports. Musk said early production has begun on a high-volume line in Fremont, in space that once built the Model S and Model X, but reaching the line’s planned rate of about 20,000 robots a week will take at least a year because parts of the design are still changing. He listed the AI, the electromechanical design and long-term reliability as the remaining hurdles, and agreed with a Tesla engineer that the hand is the toughest piece. Tesla plans to build 10,000 to 20,000 robots to practice tasks in an “Optimus Academy,” add its AI5 chip around April 2027, and release a video within a couple of months showing unscripted tasks. Electrek notes the timeline has slipped repeatedly and that rivals XPeng and Boston Dynamics look at least as far along."
     },
     {
-      "n": 5,
+      "n": 14,
       "headline": "Ukrainian troops crawled about 9 miles through gas pipelines to get behind Russian lines near Kupiansk, capturing more than 30 soldiers",
       "cat": "World / Ukraine",
       "source": "Kyiv Independent",
@@ -57,7 +156,7 @@
       "summary": "Ukrainian troops slipped into the Russian rear near Kupiansk in Kharkiv Oblast by moving roughly 15 kilometers (about 9 miles) through underground gas pipelines, the National Guard’s 2nd Khartiia Corps said Thursday, according to the Kyiv Independent. The operation, code-named “Veles,” combined the underground advance with attacks above ground, including drone strikes, and the corps says more than 30 Russian soldiers were captured and over 100 became casualties; the Kyiv Independent could not verify those numbers. Commander Brig. Gen. Ihor Obolienskyi said Ukraine had studied how Russian forces used the same pipelines to sneak troops forward and decided to “go underground ourselves.” Russia has used the pipes several times in the Kupiansk sector, including a roughly 50-man assault stopped in January, and Khartiia says retreating Russian troops recently forced civilians, including children, into a pipeline as human shields."
     },
     {
-      "n": 6,
+      "n": 15,
       "headline": "Geno Smith says the 2-4 Jets are “right at the cusp” ahead of Sunday’s home game against the winless Dolphins",
       "cat": "Sports / Jets",
       "source": "New York Jets",
@@ -68,7 +167,7 @@
       "summary": "The Jets (2-4) host the winless Dolphins (0-5) Sunday at 1 p.m. at MetLife Stadium, and quarterback Geno Smith says the team is moving in the right direction despite a string of early injuries on offense, the team’s game preview reports. Smith, in his 13th season, is completing 69% of his passes for 1,226 yards with seven touchdowns and one interception, has led scoring drives on the opening possession two weeks running, and hit rookie Omar Cooper Jr. for a 48-yard touchdown in last week’s 26-19 loss at New England. Comparing the moment to his early Seattle years, Smith said, “I think we’re right at the cusp of it.” The Jets could get receiver Adonai Mitchell, who has missed four games, plus left guard Dylan Parham and running back Breece Hall back in the lineup."
     },
     {
-      "n": 7,
+      "n": 16,
       "headline": "Slayer plays all of “Reign in Blood” for its 40th anniversary at a packed Mexico City arena",
       "cat": "Music / Metal",
       "source": "Blabbermouth",
@@ -79,7 +178,7 @@
       "summary": "Thrash legends Slayer marked the 40th anniversary of their 1986 classic “Reign in Blood” by playing the album in full on Wednesday night at Palacio de los Deportes in Mexico City, with Power Trip opening, Blabbermouth reports. The 23-song set opened with “South of Heaven,” “Mandatory Suicide” and “War Ensemble” before running straight through the album from “Angel of Death” to “Raining Blood.” It was the third “Reign in Blood” anniversary show after September dates in Minnesota and at Rocklahoma, and the reunited lineup of Tom Araya, Kerry King, Gary Holt and Paul Bostaph plays Sick New World in Fort Worth on Saturday, two nights at the Kia Forum in November, and South American dates in December. The Rick Rubin-produced record was once called “the heaviest album of all time” by Kerrang!"
     },
     {
-      "n": 8,
+      "n": 17,
       "headline": "Apple adds an AI “Intelligent Assistant” to Pages, Numbers and Keynote, plus quiet iPhone Duo support",
       "cat": "Apple / AI",
       "source": "MacRumors",
@@ -90,7 +189,7 @@
       "summary": "Apple on Thursday added an “Intelligent Assistant” to Keynote, Numbers and Pages, available in beta to Apple Creator Studio subscribers, MacRumors reports. In Numbers it can build formulas from plain-language requests, generate tables and visualize data; in Pages it can start a first draft, rewrite sections and adjust tone; and in Keynote it can build and refine slides, add animations and write presenter notes. In all three it can look up information on the web and drop it into a document, and generate images and shapes. The update briefly pulled the apps from the App Store before they returned, and although the release notes don’t mention it, all three now support the iPhone Duo ahead of Friday’s launch. The apps remain free; Creator Studio costs $12.99 a month."
     },
     {
-      "n": 9,
+      "n": 18,
       "headline": "Fairfield police arrest two Brooklyn men in a string of high-end jewelry burglaries in Greenfield Hill",
       "cat": "Local / Connecticut",
       "source": "Patch",
@@ -99,105 +198,6 @@
       "image_remote": "https://patch.com/img/cdn20/users/21821499/20261022/033334/styles/patch_image/public/patch-lead-image-canvas-blank-2___22152015640.jpg",
       "id": "fe71fb020f7bcc7a9de6451ecbd9e7575e6b01c6",
       "summary": "Fairfield police have arrested two Brooklyn, New York, men in connection with a series of burglaries in the town’s Greenfield Hill neighborhood, Patch reports. Levan Aleksidze, 40, and Mamuka Chaganava, 47, are each charged with conspiracy to commit first-degree burglary and are held on $100,000 bond. Police said several unoccupied homes had been hit in similar fashion, with the burglars going after high-end jewelry. Detectives used Fairfield’s license plate reader system to identify a suspect vehicle, and on September 24, working with the Bridgeport Police Auto Theft Task Force, they spotted it apparently scouting for another target and stopped it before another break-in could happen. Chief Michael Paris said residents “deserve to feel safe in their homes.” The investigation, which also involved the Brooklyn district attorney’s office, is continuing."
-    },
-    {
-      "n": 10,
-      "headline": "Virginia state Sen. Louise Lucas, one of the state’s most powerful Democrats, is charged with racketeering in a cannabis-business corruption case",
-      "cat": "Crime / Corruption",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/politics/justice-department/virginia-state-senator-l-louise-lucas-charged-public-corruption-case-d-rcna604870",
-      "image_local": "images/story-1301.jpg",
-      "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261022-l-louise-rs-253d78.jpg",
-      "id": "de4d813d1ee1166a256e638717376e94eed39e15",
-      "summary": "Federal authorities on Thursday charged Virginia state Sen. L. Louise Lucas, 82, with racketeering, a money-laundering conspiracy and conspiracy to distribute marijuana in an alleged public corruption scheme tied to a cannabis business she co-owns, NBC News reports. Lucas, a frequent Trump critic and one of the most powerful Democrats in Virginia, surrendered to authorities, and about half a dozen others, including her daughters, were also taken into custody. Attorney General Todd Blanche and FBI Director Kash Patel flew to Norfolk to announce the charges, with Blanche saying Lucas put her own financial interests ahead of the people of Portsmouth and Chesapeake. NBC notes the investigation predates the Trump administration but that charging a political figure 12 days before a midterm election is unusual; Lucas is not on the ballot this year. In a statement she said she would not be intimidated, calling the case the full weight of the federal government \"wielded against an 82-year-old great-grandmother.\""
-    },
-    {
-      "n": 11,
-      "headline": "iPhone Duo buyers are already lining up outside Apple Stores days before Friday’s launch, and the first preorders have shipped",
-      "cat": "Apple / iPhone",
-      "source": "AppleInsider",
-      "url": "https://appleinsider.com/articles/26/10/22/iphone-duo-buyers-line-up-days-early-despite-high-chance-of-heartbreak",
-      "image_local": "images/story-1302.jpg",
-      "image_remote": "https://media.appleinsider.com/gallery/69503-146486-galaxylineup-xl.jpg",
-      "id": "dcccbb81c25c615da15c802ee5511f3e3e8822d7",
-      "summary": "With Apple’s first foldable iPhone going on sale Friday, buyers are already camping out at Apple Stores around the world, AppleInsider reports. Hundreds of people were lined up at Apple Galaxy in Macau a full 48 hours before launch, and a small walk-in line had formed at Apple Fifth Avenue in New York about 30 hours out, where staff were finishing giant iPhone Duo displays on the storefront. Apple has warned that retail stock will be limited on launch day, so many of those waiting may leave empty-handed. Meanwhile, preorder customers are starting to get shipping notices, with some orders already marked shipped for Friday, October 23 delivery. The iPhone Duo starts at $1,999 and sold out within minutes when preorders opened after Apple’s September 9 event."
-    },
-    {
-      "n": 12,
-      "headline": "Kyle Dubas says Ben Kindel collapsed 10 minutes into the Penguins’ flight but is home and could be back on the ice within days",
-      "cat": "Sports / Penguins",
-      "source": "Pittsburgh Hockey Now",
-      "url": "https://pittsburghhockeynow.com/full-ben-kindel-update-from-kyle-dubas-pittsburgh-penguins/",
-      "image_local": "images/story-1303.jpg",
-      "image_remote": "https://media.pittsburghhockeynow.com/wp-content/uploads/2026/10/Kyle-Dubas-1600x900.jpg",
-      "id": "32f9b803cf413f2148397ea42017fb3f398517f0",
-      "summary": "Penguins GM Kyle Dubas gave a fuller account Thursday morning of 19-year-old center Ben Kindel’s medical scare on the team plane out of Salt Lake City, Pittsburgh Hockey Now reports. Dubas said Kindel collapsed about 10 minutes into the flight; team doctor Dr. Vyas gave him oxygen, he quickly regained consciousness, and he was taken by ambulance to the University of Utah Medical Center after the plane returned. Kindel has since been cleared and is back in Pittsburgh, and Dubas said he has no history of such an episode. The plan is more testing and medical clearance before a gradual return to training and practice, possibly with a short skate as soon as Sunday, though Dubas said the young forward was still “very clearly shaken.” Pittsburgh placed Kindel and Bryan Rust on injured reserve and recalled Rutger McGroarty and Chase Pietila ahead of tonight’s game against Florida."
-    },
-    {
-      "n": 13,
-      "headline": "LEGO and Daft Punk announce a full partnership, starting with a set of the duo’s “Alive 2007” pyramid stage",
-      "cat": "LEGO / Music",
-      "source": "Consequence",
-      "url": "https://consequence.net/2026/10/daft-punk-alive-2007-lego-set/",
-      "image_local": "images/story-1304.jpg",
-      "image_remote": "https://consequence.net/wp-content/uploads/2026/10/The-LEGO-Group-DAFT-PUNK_HERO-Still-5_16x9.jpeg",
-      "id": "37944fbc6db01b3709fd7f04ee6bfdb25def494f",
-      "summary": "LEGO and Daft Punk officially announced a wide-ranging partnership on Thursday, and the first product confirmed is a set based on the French electronic duo’s famous “Alive 2007” tour pyramid stage, Consequence reports. The set began as a fan design by Patrick Harboun, known as RobotRock, and his young son, built during lockdown for a LEGO music contest and later backed by more than 10,000 supporters on LEGO Ideas before sitting in limbo for months. It turns out the holdup was a bigger deal: the collaboration will span products, content and brand experiences, with more announcements promised for 2027. The reveal, teased Wednesday on Daft Punk’s WDPK 83.7 broadcast, came with a short film set to “Voyager” and “Human After All” showing Daft Punk minifigures. No price, piece count or release date has been announced yet."
-    },
-    {
-      "n": 14,
-      "headline": "1Password opens its vault to AI agents including Grok, letting them log in for you without ever seeing your passwords",
-      "cat": "AI / Grok",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2293844/1password-opens-up-ai-agents-muse-dots-grok/",
-      "image_local": "images/story-1305.jpg",
-      "image_remote": "https://www.engadget.com/img/gallery/1password-opens-up-ai-agents-muse-dots-grok/l-intro-1792677756.jpg",
-      "id": "ac422fe690f8470217875e9b7137637872c86222",
-      "summary": "1Password has launched “1Password for Agents,” a system that lets AI assistants, including Grok, ChatGPT, Claude, Meta’s Muse and OpenAI’s Dots, use your stored logins to finish tasks like booking restaurants or buying gifts without the model ever seeing your username, password or vault, Engadget reports. When an agent hits a sign-in, it verifies itself to 1Password with a special key; 1Password then tells you which agent wants access and why, and if you approve, fills in the credentials and any one-time codes through its own secure channel. Access is granted per session, limited to specific approved items, and not carried over. Engadget cautions that while the agents can’t leak your passwords, they can still make mistakes like ordering the wrong item or booking a nonrefundable trip. Pricing and availability details haven’t been announced."
-    },
-    {
-      "n": 15,
-      "headline": "Macron says “illegitimate” protests will be banned after France’s worst riots in years, blaming “seditious” ultra-left groups",
-      "cat": "World / France",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/world/france/france-emmanuel-macron-illegitimate-protests-banned-cities-rcna604952",
-      "image_local": "images/story-1306.jpg",
-      "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261017-france-protest-ch-1055-e33c8b.jpg",
-      "id": "bb6cd5fedd4e9ba89973ad65297e41b014395f93",
-      "summary": "French President Emmanuel Macron said Thursday that “illegitimate” protests will be banned in the coming days, blaming “seditious” ultra-left groups and vandals for last weekend’s riots and looting, NBC News reports. Speaking after a meeting with intelligence chiefs and senior ministers, Macron said union-organized marches could still go ahead but may be rerouted to protect businesses. Paris, Lyon, Lille and Grenoble had already banned demonstrations planned for Thursday, and Paris’s ban covers the Élysée Palace, both houses of parliament, main train stations and the downtown areas hit hardest by looting; night curfews are in place in parts of the capital. Authorities are bracing for a much bigger demonstration Saturday, when “yellow vest” activists are expected to join, and Prime Minister Sébastien Lecornu promised a “massive” security operation. Student groups say they will keep mobilizing despite the bans."
-    },
-    {
-      "n": 16,
-      "headline": "A Minnesota farmer found an 11-foot metal ring in his cornfield; it appears to be the upper stage of a Chinese rocket",
-      "cat": "Science / Space",
-      "source": "Gizmodo",
-      "url": "https://gizmodo.com/a-minnesota-farmer-found-an-11-foot-metal-object-in-his-cornfield-it-came-from-space-2000829314",
-      "image_local": "images/story-1307.jpg",
-      "image_remote": "https://gizmodo.com/app/uploads/2026/10/space_debris-1200x675.jpg",
-      "id": "d4da62a47ecd343df44ea73ea25e299d52f40ee8",
-      "summary": "A farmer in rural Stevens County, Minnesota, discovered a circular metal object about 11 feet wide in his cornfield, and it likely fell from space, Gizmodo reports. The piece matches the upper stage of a Zhuque-2E rocket built by Chinese company LandSpace, which launched September 15 from northwest China, delivered 10 satellites, and then made an uncontrolled reentry over the upper Midwest, where people reported fiery debris; the object had probably been sitting in the field for about six weeks. The sheriff’s office said it poses no danger. Half a world away, a car-sized, roughly 30-foot aluminum plate suspected to be from another Chinese rocket turned up on a palm oil plantation in Indonesia after residents heard a loud bang. Gizmodo says the cases add to concerns about China’s careless handling of falling rocket stages."
-    },
-    {
-      "n": 17,
-      "headline": "Ms. Rachel gives $3,000 to a GoFundMe for a Darien toddler whose library puppet-show video went viral",
-      "cat": "Local / Connecticut",
-      "source": "NBC Connecticut",
-      "url": "https://www.nbcconnecticut.com/news/local/ms-rachel-donates-3000-to-gofundme-for-darien-boy-at-center-of-viral-video/3787365/",
-      "image_local": "images/story-1308.jpg",
-      "image_remote": "https://media.nbcconnecticut.com/2026/10/GettyImages-2173776517.jpg?quality=85&strip=all&crop=0px%2C0px%2C3000px%2C1688px&resize=1200%2C675",
-      "id": "38e290bb3a339b4d428762a22f6d5c1022f9ca6a",
-      "summary": "Children’s YouTube star Ms. Rachel has donated $3,000 to a GoFundMe for a 16-month-old boy whose visit to a Darien Library children’s event went viral, NBC Connecticut reports. A TikTok video showing the boy repeatedly trying to interact with a green puppet operated by a library employee, who appeared to ignore him and put the puppet away as the family left, has more than 6 million views. The family believes he was treated differently because of his skin color. Darien Library apologized, scheduled a call with the family, and said it is taking their concerns “incredibly seriously” and reviewing what happened. The fundraiser, started by the boy’s father, Micah Whitaker, aims to turn the experience into a happy memory with a family trip to Disney World; Ms. Rachel’s donation is its largest."
-    },
-    {
-      "n": 18,
-      "headline": "Satire: “Trump Aides Desperately Try To Explain Approval Rating Not Like Golf Score”",
-      "cat": "Satire",
-      "source": "The Babylon Bee",
-      "url": "https://babylonbee.com/news/trump-aides-desperately-try-to-explain-approval-rating-not-like-golf-score/",
-      "image_local": "images/story-1309.jpg",
-      "image_remote": "https://media.babylonbee.com/articles/6ada2dc7311466ada2dc731147.jpg",
-      "id": "ffed96cd037ee99838558176bce339fd6baa2b91",
-      "summary": "In this Babylon Bee satire, President Trump proudly boasts about a 36% approval rating, prompting aides to pull him aside with charts and explain that, unlike golf, a lower number is not better in politics. The fictional president insists it sounds like fake news, asks who hired the aide (he did), and decides a glass 36% full of Diet Coke still beats none. By the end of the piece, he has ordered staff to just scratch out the 36 and write in a better number, “like we do in golf.” This is satire, not a news report."
     },
     {
       "n": 19,
