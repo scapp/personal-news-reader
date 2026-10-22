@@ -1446,7 +1446,16 @@
     "e94b1aacbc9816b1c4ef1d6f530662636b426875",
     "a6125999437823d4c2e304d65ba4491756f4ff0c",
     "405840861fd5346ca94eab925958e83798aaa6d2",
-    "aca4a8bb1d8a988e942e3a408d48c6bbb154ff50"
+    "aca4a8bb1d8a988e942e3a408d48c6bbb154ff50",
+    "de4d813d1ee1166a256e638717376e94eed39e15",
+    "dcccbb81c25c615da15c802ee5511f3e3e8822d7",
+    "32f9b803cf413f2148397ea42017fb3f398517f0",
+    "37944fbc6db01b3709fd7f04ee6bfdb25def494f",
+    "ac422fe690f8470217875e9b7137637872c86222",
+    "bb6cd5fedd4e9ba89973ad65297e41b014395f93",
+    "d4da62a47ecd343df44ea73ea25e299d52f40ee8",
+    "38e290bb3a339b4d428762a22f6d5c1022f9ca6a",
+    "ffed96cd037ee99838558176bce339fd6baa2b91"
   ],
   "stories": {
     "0c2ac7a5e342411678296315c4c59043b1f067cc": {
@@ -17274,7 +17283,97 @@
       "image_remote": "https://heavy.com/wp-content/uploads/2026/10/new-york-jets-v-chicago-bears-chicago-illinois-october-04-garrett-2-e1792649115227.jpg?quality=65&strip=all",
       "image_local": "images/story-1300.jpg",
       "id": "aca4a8bb1d8a988e942e3a408d48c6bbb154ff50"
+    },
+    "de4d813d1ee1166a256e638717376e94eed39e15": {
+      "headline": "Virginia state Sen. Louise Lucas, one of the state’s most powerful Democrats, is charged with racketeering in a cannabis-business corruption case",
+      "cat": "Crime / Corruption",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/politics/justice-department/virginia-state-senator-l-louise-lucas-charged-public-corruption-case-d-rcna604870",
+      "summary": "Federal authorities on Thursday charged Virginia state Sen. L. Louise Lucas, 82, with racketeering, a money-laundering conspiracy and conspiracy to distribute marijuana in an alleged public corruption scheme tied to a cannabis business she co-owns, NBC News reports. Lucas, a frequent Trump critic and one of the most powerful Democrats in Virginia, surrendered to authorities, and about half a dozen others, including her daughters, were also taken into custody. Attorney General Todd Blanche and FBI Director Kash Patel flew to Norfolk to announce the charges, with Blanche saying Lucas put her own financial interests ahead of the people of Portsmouth and Chesapeake. NBC notes the investigation predates the Trump administration but that charging a political figure 12 days before a midterm election is unusual; Lucas is not on the ballot this year. In a statement she said she would not be intimidated, calling the case the full weight of the federal government \"wielded against an 82-year-old great-grandmother.\"",
+      "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261022-l-louise-rs-253d78.jpg",
+      "image_local": "images/story-1301.jpg",
+      "id": "de4d813d1ee1166a256e638717376e94eed39e15"
+    },
+    "dcccbb81c25c615da15c802ee5511f3e3e8822d7": {
+      "headline": "iPhone Duo buyers are already lining up outside Apple Stores days before Friday’s launch, and the first preorders have shipped",
+      "cat": "Apple / iPhone",
+      "source": "AppleInsider",
+      "url": "https://appleinsider.com/articles/26/10/22/iphone-duo-buyers-line-up-days-early-despite-high-chance-of-heartbreak",
+      "summary": "With Apple’s first foldable iPhone going on sale Friday, buyers are already camping out at Apple Stores around the world, AppleInsider reports. Hundreds of people were lined up at Apple Galaxy in Macau a full 48 hours before launch, and a small walk-in line had formed at Apple Fifth Avenue in New York about 30 hours out, where staff were finishing giant iPhone Duo displays on the storefront. Apple has warned that retail stock will be limited on launch day, so many of those waiting may leave empty-handed. Meanwhile, preorder customers are starting to get shipping notices, with some orders already marked shipped for Friday, October 23 delivery. The iPhone Duo starts at $1,999 and sold out within minutes when preorders opened after Apple’s September 9 event.",
+      "image_remote": "https://media.appleinsider.com/gallery/69503-146486-galaxylineup-xl.jpg",
+      "image_local": "images/story-1302.jpg",
+      "id": "dcccbb81c25c615da15c802ee5511f3e3e8822d7"
+    },
+    "32f9b803cf413f2148397ea42017fb3f398517f0": {
+      "headline": "Kyle Dubas says Ben Kindel collapsed 10 minutes into the Penguins’ flight but is home and could be back on the ice within days",
+      "cat": "Sports / Penguins",
+      "source": "Pittsburgh Hockey Now",
+      "url": "https://pittsburghhockeynow.com/full-ben-kindel-update-from-kyle-dubas-pittsburgh-penguins/",
+      "summary": "Penguins GM Kyle Dubas gave a fuller account Thursday morning of 19-year-old center Ben Kindel’s medical scare on the team plane out of Salt Lake City, Pittsburgh Hockey Now reports. Dubas said Kindel collapsed about 10 minutes into the flight; team doctor Dr. Vyas gave him oxygen, he quickly regained consciousness, and he was taken by ambulance to the University of Utah Medical Center after the plane returned. Kindel has since been cleared and is back in Pittsburgh, and Dubas said he has no history of such an episode. The plan is more testing and medical clearance before a gradual return to training and practice, possibly with a short skate as soon as Sunday, though Dubas said the young forward was still “very clearly shaken.” Pittsburgh placed Kindel and Bryan Rust on injured reserve and recalled Rutger McGroarty and Chase Pietila ahead of tonight’s game against Florida.",
+      "image_remote": "https://media.pittsburghhockeynow.com/wp-content/uploads/2026/10/Kyle-Dubas-1600x900.jpg",
+      "image_local": "images/story-1303.jpg",
+      "id": "32f9b803cf413f2148397ea42017fb3f398517f0"
+    },
+    "37944fbc6db01b3709fd7f04ee6bfdb25def494f": {
+      "headline": "LEGO and Daft Punk announce a full partnership, starting with a set of the duo’s “Alive 2007” pyramid stage",
+      "cat": "LEGO / Music",
+      "source": "Consequence",
+      "url": "https://consequence.net/2026/10/daft-punk-alive-2007-lego-set/",
+      "summary": "LEGO and Daft Punk officially announced a wide-ranging partnership on Thursday, and the first product confirmed is a set based on the French electronic duo’s famous “Alive 2007” tour pyramid stage, Consequence reports. The set began as a fan design by Patrick Harboun, known as RobotRock, and his young son, built during lockdown for a LEGO music contest and later backed by more than 10,000 supporters on LEGO Ideas before sitting in limbo for months. It turns out the holdup was a bigger deal: the collaboration will span products, content and brand experiences, with more announcements promised for 2027. The reveal, teased Wednesday on Daft Punk’s WDPK 83.7 broadcast, came with a short film set to “Voyager” and “Human After All” showing Daft Punk minifigures. No price, piece count or release date has been announced yet.",
+      "image_remote": "https://consequence.net/wp-content/uploads/2026/10/The-LEGO-Group-DAFT-PUNK_HERO-Still-5_16x9.jpeg",
+      "image_local": "images/story-1304.jpg",
+      "id": "37944fbc6db01b3709fd7f04ee6bfdb25def494f"
+    },
+    "ac422fe690f8470217875e9b7137637872c86222": {
+      "headline": "1Password opens its vault to AI agents including Grok, letting them log in for you without ever seeing your passwords",
+      "cat": "AI / Grok",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2293844/1password-opens-up-ai-agents-muse-dots-grok/",
+      "summary": "1Password has launched “1Password for Agents,” a system that lets AI assistants, including Grok, ChatGPT, Claude, Meta’s Muse and OpenAI’s Dots, use your stored logins to finish tasks like booking restaurants or buying gifts without the model ever seeing your username, password or vault, Engadget reports. When an agent hits a sign-in, it verifies itself to 1Password with a special key; 1Password then tells you which agent wants access and why, and if you approve, fills in the credentials and any one-time codes through its own secure channel. Access is granted per session, limited to specific approved items, and not carried over. Engadget cautions that while the agents can’t leak your passwords, they can still make mistakes like ordering the wrong item or booking a nonrefundable trip. Pricing and availability details haven’t been announced.",
+      "image_remote": "https://www.engadget.com/img/gallery/1password-opens-up-ai-agents-muse-dots-grok/l-intro-1792677756.jpg",
+      "image_local": "images/story-1305.jpg",
+      "id": "ac422fe690f8470217875e9b7137637872c86222"
+    },
+    "bb6cd5fedd4e9ba89973ad65297e41b014395f93": {
+      "headline": "Macron says “illegitimate” protests will be banned after France’s worst riots in years, blaming “seditious” ultra-left groups",
+      "cat": "World / France",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/world/france/france-emmanuel-macron-illegitimate-protests-banned-cities-rcna604952",
+      "summary": "French President Emmanuel Macron said Thursday that “illegitimate” protests will be banned in the coming days, blaming “seditious” ultra-left groups and vandals for last weekend’s riots and looting, NBC News reports. Speaking after a meeting with intelligence chiefs and senior ministers, Macron said union-organized marches could still go ahead but may be rerouted to protect businesses. Paris, Lyon, Lille and Grenoble had already banned demonstrations planned for Thursday, and Paris’s ban covers the Élysée Palace, both houses of parliament, main train stations and the downtown areas hit hardest by looting; night curfews are in place in parts of the capital. Authorities are bracing for a much bigger demonstration Saturday, when “yellow vest” activists are expected to join, and Prime Minister Sébastien Lecornu promised a “massive” security operation. Student groups say they will keep mobilizing despite the bans.",
+      "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261017-france-protest-ch-1055-e33c8b.jpg",
+      "image_local": "images/story-1306.jpg",
+      "id": "bb6cd5fedd4e9ba89973ad65297e41b014395f93"
+    },
+    "d4da62a47ecd343df44ea73ea25e299d52f40ee8": {
+      "headline": "A Minnesota farmer found an 11-foot metal ring in his cornfield; it appears to be the upper stage of a Chinese rocket",
+      "cat": "Science / Space",
+      "source": "Gizmodo",
+      "url": "https://gizmodo.com/a-minnesota-farmer-found-an-11-foot-metal-object-in-his-cornfield-it-came-from-space-2000829314",
+      "summary": "A farmer in rural Stevens County, Minnesota, discovered a circular metal object about 11 feet wide in his cornfield, and it likely fell from space, Gizmodo reports. The piece matches the upper stage of a Zhuque-2E rocket built by Chinese company LandSpace, which launched September 15 from northwest China, delivered 10 satellites, and then made an uncontrolled reentry over the upper Midwest, where people reported fiery debris; the object had probably been sitting in the field for about six weeks. The sheriff’s office said it poses no danger. Half a world away, a car-sized, roughly 30-foot aluminum plate suspected to be from another Chinese rocket turned up on a palm oil plantation in Indonesia after residents heard a loud bang. Gizmodo says the cases add to concerns about China’s careless handling of falling rocket stages.",
+      "image_remote": "https://gizmodo.com/app/uploads/2026/10/space_debris-1200x675.jpg",
+      "image_local": "images/story-1307.jpg",
+      "id": "d4da62a47ecd343df44ea73ea25e299d52f40ee8"
+    },
+    "38e290bb3a339b4d428762a22f6d5c1022f9ca6a": {
+      "headline": "Ms. Rachel gives $3,000 to a GoFundMe for a Darien toddler whose library puppet-show video went viral",
+      "cat": "Local / Connecticut",
+      "source": "NBC Connecticut",
+      "url": "https://www.nbcconnecticut.com/news/local/ms-rachel-donates-3000-to-gofundme-for-darien-boy-at-center-of-viral-video/3787365/",
+      "summary": "Children’s YouTube star Ms. Rachel has donated $3,000 to a GoFundMe for a 16-month-old boy whose visit to a Darien Library children’s event went viral, NBC Connecticut reports. A TikTok video showing the boy repeatedly trying to interact with a green puppet operated by a library employee, who appeared to ignore him and put the puppet away as the family left, has more than 6 million views. The family believes he was treated differently because of his skin color. Darien Library apologized, scheduled a call with the family, and said it is taking their concerns “incredibly seriously” and reviewing what happened. The fundraiser, started by the boy’s father, Micah Whitaker, aims to turn the experience into a happy memory with a family trip to Disney World; Ms. Rachel’s donation is its largest.",
+      "image_remote": "https://media.nbcconnecticut.com/2026/10/GettyImages-2173776517.jpg?quality=85&strip=all&crop=0px%2C0px%2C3000px%2C1688px&resize=1200%2C675",
+      "image_local": "images/story-1308.jpg",
+      "id": "38e290bb3a339b4d428762a22f6d5c1022f9ca6a"
+    },
+    "ffed96cd037ee99838558176bce339fd6baa2b91": {
+      "headline": "Satire: “Trump Aides Desperately Try To Explain Approval Rating Not Like Golf Score”",
+      "cat": "Satire",
+      "source": "The Babylon Bee",
+      "url": "https://babylonbee.com/news/trump-aides-desperately-try-to-explain-approval-rating-not-like-golf-score/",
+      "summary": "In this Babylon Bee satire, President Trump proudly boasts about a 36% approval rating, prompting aides to pull him aside with charts and explain that, unlike golf, a lower number is not better in politics. The fictional president insists it sounds like fake news, asks who hired the aide (he did), and decides a glass 36% full of Diet Coke still beats none. By the end of the piece, he has ordered staff to just scratch out the 36 and write in a better number, “like we do in golf.” This is satire, not a news report.",
+      "image_remote": "https://media.babylonbee.com/articles/6ada2dc7311466ada2dc731147.jpg",
+      "image_local": "images/story-1309.jpg",
+      "id": "ffed96cd037ee99838558176bce339fd6baa2b91"
     }
   },
-  "updated": "Thursday, October 22, 2026 · 7:05 AM ET"
+  "updated": "Thursday, October 22, 2026 · 11:41 AM ET"
 }

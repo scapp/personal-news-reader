@@ -1,8 +1,107 @@
 {
-  "updated": "Thursday, October 22, 2026 · 7:05 AM ET",
+  "updated": "Thursday, October 22, 2026 · 11:41 AM ET",
   "stories": [
     {
       "n": 1,
+      "headline": "Virginia state Sen. Louise Lucas, one of the state’s most powerful Democrats, is charged with racketeering in a cannabis-business corruption case",
+      "cat": "Crime / Corruption",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/politics/justice-department/virginia-state-senator-l-louise-lucas-charged-public-corruption-case-d-rcna604870",
+      "image_local": "images/story-1301.jpg",
+      "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261022-l-louise-rs-253d78.jpg",
+      "id": "de4d813d1ee1166a256e638717376e94eed39e15",
+      "summary": "Federal authorities on Thursday charged Virginia state Sen. L. Louise Lucas, 82, with racketeering, a money-laundering conspiracy and conspiracy to distribute marijuana in an alleged public corruption scheme tied to a cannabis business she co-owns, NBC News reports. Lucas, a frequent Trump critic and one of the most powerful Democrats in Virginia, surrendered to authorities, and about half a dozen others, including her daughters, were also taken into custody. Attorney General Todd Blanche and FBI Director Kash Patel flew to Norfolk to announce the charges, with Blanche saying Lucas put her own financial interests ahead of the people of Portsmouth and Chesapeake. NBC notes the investigation predates the Trump administration but that charging a political figure 12 days before a midterm election is unusual; Lucas is not on the ballot this year. In a statement she said she would not be intimidated, calling the case the full weight of the federal government \"wielded against an 82-year-old great-grandmother.\""
+    },
+    {
+      "n": 2,
+      "headline": "iPhone Duo buyers are already lining up outside Apple Stores days before Friday’s launch, and the first preorders have shipped",
+      "cat": "Apple / iPhone",
+      "source": "AppleInsider",
+      "url": "https://appleinsider.com/articles/26/10/22/iphone-duo-buyers-line-up-days-early-despite-high-chance-of-heartbreak",
+      "image_local": "images/story-1302.jpg",
+      "image_remote": "https://media.appleinsider.com/gallery/69503-146486-galaxylineup-xl.jpg",
+      "id": "dcccbb81c25c615da15c802ee5511f3e3e8822d7",
+      "summary": "With Apple’s first foldable iPhone going on sale Friday, buyers are already camping out at Apple Stores around the world, AppleInsider reports. Hundreds of people were lined up at Apple Galaxy in Macau a full 48 hours before launch, and a small walk-in line had formed at Apple Fifth Avenue in New York about 30 hours out, where staff were finishing giant iPhone Duo displays on the storefront. Apple has warned that retail stock will be limited on launch day, so many of those waiting may leave empty-handed. Meanwhile, preorder customers are starting to get shipping notices, with some orders already marked shipped for Friday, October 23 delivery. The iPhone Duo starts at $1,999 and sold out within minutes when preorders opened after Apple’s September 9 event."
+    },
+    {
+      "n": 3,
+      "headline": "Kyle Dubas says Ben Kindel collapsed 10 minutes into the Penguins’ flight but is home and could be back on the ice within days",
+      "cat": "Sports / Penguins",
+      "source": "Pittsburgh Hockey Now",
+      "url": "https://pittsburghhockeynow.com/full-ben-kindel-update-from-kyle-dubas-pittsburgh-penguins/",
+      "image_local": "images/story-1303.jpg",
+      "image_remote": "https://media.pittsburghhockeynow.com/wp-content/uploads/2026/10/Kyle-Dubas-1600x900.jpg",
+      "id": "32f9b803cf413f2148397ea42017fb3f398517f0",
+      "summary": "Penguins GM Kyle Dubas gave a fuller account Thursday morning of 19-year-old center Ben Kindel’s medical scare on the team plane out of Salt Lake City, Pittsburgh Hockey Now reports. Dubas said Kindel collapsed about 10 minutes into the flight; team doctor Dr. Vyas gave him oxygen, he quickly regained consciousness, and he was taken by ambulance to the University of Utah Medical Center after the plane returned. Kindel has since been cleared and is back in Pittsburgh, and Dubas said he has no history of such an episode. The plan is more testing and medical clearance before a gradual return to training and practice, possibly with a short skate as soon as Sunday, though Dubas said the young forward was still “very clearly shaken.” Pittsburgh placed Kindel and Bryan Rust on injured reserve and recalled Rutger McGroarty and Chase Pietila ahead of tonight’s game against Florida."
+    },
+    {
+      "n": 4,
+      "headline": "LEGO and Daft Punk announce a full partnership, starting with a set of the duo’s “Alive 2007” pyramid stage",
+      "cat": "LEGO / Music",
+      "source": "Consequence",
+      "url": "https://consequence.net/2026/10/daft-punk-alive-2007-lego-set/",
+      "image_local": "images/story-1304.jpg",
+      "image_remote": "https://consequence.net/wp-content/uploads/2026/10/The-LEGO-Group-DAFT-PUNK_HERO-Still-5_16x9.jpeg",
+      "id": "37944fbc6db01b3709fd7f04ee6bfdb25def494f",
+      "summary": "LEGO and Daft Punk officially announced a wide-ranging partnership on Thursday, and the first product confirmed is a set based on the French electronic duo’s famous “Alive 2007” tour pyramid stage, Consequence reports. The set began as a fan design by Patrick Harboun, known as RobotRock, and his young son, built during lockdown for a LEGO music contest and later backed by more than 10,000 supporters on LEGO Ideas before sitting in limbo for months. It turns out the holdup was a bigger deal: the collaboration will span products, content and brand experiences, with more announcements promised for 2027. The reveal, teased Wednesday on Daft Punk’s WDPK 83.7 broadcast, came with a short film set to “Voyager” and “Human After All” showing Daft Punk minifigures. No price, piece count or release date has been announced yet."
+    },
+    {
+      "n": 5,
+      "headline": "1Password opens its vault to AI agents including Grok, letting them log in for you without ever seeing your passwords",
+      "cat": "AI / Grok",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2293844/1password-opens-up-ai-agents-muse-dots-grok/",
+      "image_local": "images/story-1305.jpg",
+      "image_remote": "https://www.engadget.com/img/gallery/1password-opens-up-ai-agents-muse-dots-grok/l-intro-1792677756.jpg",
+      "id": "ac422fe690f8470217875e9b7137637872c86222",
+      "summary": "1Password has launched “1Password for Agents,” a system that lets AI assistants, including Grok, ChatGPT, Claude, Meta’s Muse and OpenAI’s Dots, use your stored logins to finish tasks like booking restaurants or buying gifts without the model ever seeing your username, password or vault, Engadget reports. When an agent hits a sign-in, it verifies itself to 1Password with a special key; 1Password then tells you which agent wants access and why, and if you approve, fills in the credentials and any one-time codes through its own secure channel. Access is granted per session, limited to specific approved items, and not carried over. Engadget cautions that while the agents can’t leak your passwords, they can still make mistakes like ordering the wrong item or booking a nonrefundable trip. Pricing and availability details haven’t been announced."
+    },
+    {
+      "n": 6,
+      "headline": "Macron says “illegitimate” protests will be banned after France’s worst riots in years, blaming “seditious” ultra-left groups",
+      "cat": "World / France",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/world/france/france-emmanuel-macron-illegitimate-protests-banned-cities-rcna604952",
+      "image_local": "images/story-1306.jpg",
+      "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261017-france-protest-ch-1055-e33c8b.jpg",
+      "id": "bb6cd5fedd4e9ba89973ad65297e41b014395f93",
+      "summary": "French President Emmanuel Macron said Thursday that “illegitimate” protests will be banned in the coming days, blaming “seditious” ultra-left groups and vandals for last weekend’s riots and looting, NBC News reports. Speaking after a meeting with intelligence chiefs and senior ministers, Macron said union-organized marches could still go ahead but may be rerouted to protect businesses. Paris, Lyon, Lille and Grenoble had already banned demonstrations planned for Thursday, and Paris’s ban covers the Élysée Palace, both houses of parliament, main train stations and the downtown areas hit hardest by looting; night curfews are in place in parts of the capital. Authorities are bracing for a much bigger demonstration Saturday, when “yellow vest” activists are expected to join, and Prime Minister Sébastien Lecornu promised a “massive” security operation. Student groups say they will keep mobilizing despite the bans."
+    },
+    {
+      "n": 7,
+      "headline": "A Minnesota farmer found an 11-foot metal ring in his cornfield; it appears to be the upper stage of a Chinese rocket",
+      "cat": "Science / Space",
+      "source": "Gizmodo",
+      "url": "https://gizmodo.com/a-minnesota-farmer-found-an-11-foot-metal-object-in-his-cornfield-it-came-from-space-2000829314",
+      "image_local": "images/story-1307.jpg",
+      "image_remote": "https://gizmodo.com/app/uploads/2026/10/space_debris-1200x675.jpg",
+      "id": "d4da62a47ecd343df44ea73ea25e299d52f40ee8",
+      "summary": "A farmer in rural Stevens County, Minnesota, discovered a circular metal object about 11 feet wide in his cornfield, and it likely fell from space, Gizmodo reports. The piece matches the upper stage of a Zhuque-2E rocket built by Chinese company LandSpace, which launched September 15 from northwest China, delivered 10 satellites, and then made an uncontrolled reentry over the upper Midwest, where people reported fiery debris; the object had probably been sitting in the field for about six weeks. The sheriff’s office said it poses no danger. Half a world away, a car-sized, roughly 30-foot aluminum plate suspected to be from another Chinese rocket turned up on a palm oil plantation in Indonesia after residents heard a loud bang. Gizmodo says the cases add to concerns about China’s careless handling of falling rocket stages."
+    },
+    {
+      "n": 8,
+      "headline": "Ms. Rachel gives $3,000 to a GoFundMe for a Darien toddler whose library puppet-show video went viral",
+      "cat": "Local / Connecticut",
+      "source": "NBC Connecticut",
+      "url": "https://www.nbcconnecticut.com/news/local/ms-rachel-donates-3000-to-gofundme-for-darien-boy-at-center-of-viral-video/3787365/",
+      "image_local": "images/story-1308.jpg",
+      "image_remote": "https://media.nbcconnecticut.com/2026/10/GettyImages-2173776517.jpg?quality=85&strip=all&crop=0px%2C0px%2C3000px%2C1688px&resize=1200%2C675",
+      "id": "38e290bb3a339b4d428762a22f6d5c1022f9ca6a",
+      "summary": "Children’s YouTube star Ms. Rachel has donated $3,000 to a GoFundMe for a 16-month-old boy whose visit to a Darien Library children’s event went viral, NBC Connecticut reports. A TikTok video showing the boy repeatedly trying to interact with a green puppet operated by a library employee, who appeared to ignore him and put the puppet away as the family left, has more than 6 million views. The family believes he was treated differently because of his skin color. Darien Library apologized, scheduled a call with the family, and said it is taking their concerns “incredibly seriously” and reviewing what happened. The fundraiser, started by the boy’s father, Micah Whitaker, aims to turn the experience into a happy memory with a family trip to Disney World; Ms. Rachel’s donation is its largest."
+    },
+    {
+      "n": 9,
+      "headline": "Satire: “Trump Aides Desperately Try To Explain Approval Rating Not Like Golf Score”",
+      "cat": "Satire",
+      "source": "The Babylon Bee",
+      "url": "https://babylonbee.com/news/trump-aides-desperately-try-to-explain-approval-rating-not-like-golf-score/",
+      "image_local": "images/story-1309.jpg",
+      "image_remote": "https://media.babylonbee.com/articles/6ada2dc7311466ada2dc731147.jpg",
+      "id": "ffed96cd037ee99838558176bce339fd6baa2b91",
+      "summary": "In this Babylon Bee satire, President Trump proudly boasts about a 36% approval rating, prompting aides to pull him aside with charts and explain that, unlike golf, a lower number is not better in politics. The fictional president insists it sounds like fake news, asks who hired the aide (he did), and decides a glass 36% full of Diet Coke still beats none. By the end of the piece, he has ordered staff to just scratch out the 36 and write in a better number, “like we do in golf.” This is satire, not a news report."
+    },
+    {
+      "n": 10,
       "headline": "Hours after Witkoff’s talks with Putin, Russia fires three waves of ballistic missiles at Kyiv",
       "cat": "World / Ukraine",
       "source": "ABC News",
@@ -13,7 +112,7 @@
       "summary": "Russia hit Kyiv with an intense overnight missile and drone barrage just hours after President Trump’s envoy Steve Witkoff met Vladimir Putin in St. Petersburg, ABC News reports. President Zelensky said Russia fired 21 ballistic missiles at the capital in three waves, striking homes, energy infrastructure, a railway station, the metro, shopping centers and even a monastery; at least two people were killed and 34 injured in and around Kyiv. Ukraine’s air force said none of the missiles were intercepted, while 181 of 210 drones were downed, and another Russian strike on a market in the Kharkiv region killed two more. Witkoff called his talks “constructive” and said trilateral technical-level talks will continue, but Zelensky called the strikes “demonstrative,” said they show “no real changes” in Moscow’s attitude, and jabbed at Witkoff’s description of Putin as a “humanitarian.” Ukraine answered with one of its largest drone attacks of the year on Moscow, which forced temporary closures at all four of the city’s international airports."
     },
     {
-      "n": 2,
+      "n": 11,
       "headline": "Judge refuses Lindsay Clancy’s lawyers’ bid to question the holdout juror who forced her mistrial",
       "cat": "Crime / Courts",
       "source": "ABC11 / ABC News",
@@ -24,7 +123,7 @@
       "summary": "A Massachusetts judge has denied a request from Lindsay Clancy’s defense team to question the lone holdout juror who forced a mistrial in her triple-murder case, ABC News reports. Judge William Sullivan wrote that “any further judicial inquiry is inappropriate” because the court must not delve into a juror’s reasoning, views or relationships with other jurors, or into the jury’s deliberations. The jury split 11-1 in favor of finding Clancy not guilty by reason of insanity after a seven-week trial this summer. Her lawyers want the indictment dismissed, arguing the judge didn’t properly look into the holdout before declaring a mistrial, and had sought an evidentiary hearing on whether he lied on his questionnaire or used his phone during deliberations; Sullivan found they hadn’t shown they were entitled to one. Clancy, the former nurse charged in the 2023 deaths of her three children in Duxbury, is due back in court Nov. 2."
     },
     {
-      "n": 3,
+      "n": 12,
       "headline": "Apple reportedly boosts iPhone Duo orders by 44% to 14 million on the eve of Friday’s launch",
       "cat": "Apple / iPhone",
       "source": "MacRumors",
@@ -35,7 +134,7 @@
       "summary": "Strong pre-orders have reportedly pushed Apple to order millions more iPhone Duo units from suppliers, MacRumors reports, citing DigiTimes. Supply-chain sources said Foxconn and component makers received instructions reflecting a roughly 44% increase, from 9.7 million to 14 million devices over a full 12-month period. Apple has called demand “nothing short of extraordinary,” and within 30 minutes of pre-orders opening Oct. 16, U.S. shipping estimates had slipped to Jan. 25 across every configuration. Hitting the higher target could still be hard: DigiTimes said output depends on assembly progress after earlier reports of trouble with assembly, displays and hinges. The $1,999 foldable launches Friday, Oct. 23."
     },
     {
-      "n": 4,
+      "n": 13,
       "headline": "Musk says his Terafab chip plant will make its first test chip by mid-2027, with real production in late 2028",
       "cat": "Elon Musk / Tech",
       "source": "Gizmodo",
@@ -46,7 +145,7 @@
       "summary": "Elon Musk said on Tesla’s earnings call that Terafab, the giant chip factory he announced in Austin in March, is “progressing quickly,” Gizmodo reports. “We’ll begin commissioning machinery in the first half of next year, and hopefully if things go well, we’ll make our first test chip, just to see if we can make any chip at all, around May or June,” he said, adding that “real production would be late ’28, which is lightning fast by fab standards.” Terafab is a joint venture between SpaceX and Tesla, which are also discussing a merger, and Musk said the two still have to work out who pays for what — “not going to be less than tens of billions in capital equipment through early 2028, and then it will probably be north of 100 billion long term.” Gizmodo notes chip fabs are notoriously slow and costly to build in the U.S., and that Musk has a history of optimistic timelines."
     },
     {
-      "n": 5,
+      "n": 14,
       "headline": "Jeep Wrangler production halted in Toledo after a nearby chemical leak forces evacuations",
       "cat": "Jeep / Autos",
       "source": "CBT News",
@@ -57,7 +156,7 @@
       "summary": "Stellantis halted production at the north plant of its Toledo Assembly Complex, which builds the Jeep Wrangler, after a hazardous chemical release about a mile away, CBT News reports. Workers were sent home Tuesday night and the first and second shifts were canceled Wednesday. The leak at the MC Tank Transport terminal on Progress Avenue involved glycidyl methacrylate, an industrial chemical used in plastics, paints and coatings that can irritate the eyes, nose, mouth and skin. Toledo Fire & Rescue ordered everyone within a mile to evacuate and those within three miles to shelter in place; by Wednesday evening the evacuation zone was cut to a half-mile and the shelter order lifted. City officials said tap water was not contaminated, and no serious injuries were reported."
     },
     {
-      "n": 6,
+      "n": 15,
       "headline": "Review: Tony Iommi keeps the Black Sabbath flame burning on his first solo album in 21 years, “From The Dark”",
       "cat": "Music / Metal",
       "source": "Louder",
@@ -68,7 +167,7 @@
       "summary": "With Ozzy gone and Geezer Butler and Bill Ward all but retired, it falls to Tony Iommi to keep Black Sabbath’s fire going, and Louder’s review says he does on “From The Dark,” his first solo album in 21 years, out Friday. Teamed with Norwegian singer Jørn Lande, who co-wrote all eight songs and sometimes sounds uncannily like David Coverdale, Iommi works in the style of the Dio-fronted Sabbath and Heaven & Hell, backed by bassist Becky Baldwin and drummer Karl Brazil. Highlights include the hammer-to-the-anvil opener “Over The Violent Sun,” the “brutal boogie” of first single “World Alone,” “Stormwatcher,” and “Death Wake,” which features a lead break from Brian May. The reviewer saves the most praise for closer “Legacy,” calling it “absolute killer, gold-standard Iommi.”"
     },
     {
-      "n": 7,
+      "n": 16,
       "headline": "Nikon’s Small World microscope-photo contest is won by a frozen-in-midair look at an inkjet printer laying ink on paper",
       "cat": "Photography",
       "source": "DPReview (via Yahoo)",
@@ -79,7 +178,7 @@
       "summary": "Nikon has named the winners of its 52nd Small World Photomicrography Competition, which drew more than 1,800 entries from 69 countries, and first place went to an image of what happens inside a printer as it puts ink on paper, DPReview reports. German photographer Ole Bielfeldt, who creates under the name macrofying, built his own imaging rig around a microscope objective. His first tries failed because the printhead moved too fast to keep in focus and the droplets outran his shutter, so he reverse-engineered the printer to move the paper under a stationary printhead, then worked in a dark room and used a flash to freeze the droplets midair. “It turned out I already had everything I needed,” he said. The top 20 images also include views inside a pen and a pencil and plenty of cells."
     },
     {
-      "n": 8,
+      "n": 17,
       "headline": "Federal judge orders DHS to stop door-to-door noncitizen voter checks in nine states until Election Day",
       "cat": "Immigration / Elections",
       "source": "CBS News",
@@ -90,7 +189,7 @@
       "summary": "A federal judge ruled late Wednesday that the Department of Homeland Security’s practice of knocking on doors to ask people about their immigration status and recent voting likely violates the Voting Rights Act, CBS News reports. U.S. District Judge Araceli Martinez-Olguin ordered immigration authorities to stop “elections-related field operations and field interviews” in nine states, including California and New York, when they are likely to involve people officials know or should suspect are U.S. citizens. The order lasts until polls close on Election Day but is stayed until 5 p.m. Friday so the administration can appeal. The Trump administration says the operation is part of its crackdown on noncitizen voting. The judge wrote that investigating unlawful voting is not itself illegal but cited a “high likelihood of error” in how DHS built its target lists from agency and commercial data. The suit was brought by groups including the California Nurses Association and National Nurses United."
     },
     {
-      "n": 9,
+      "n": 18,
       "headline": "Garrett Wilson, targeted just twice before the fourth quarter in New England, says wanting the ball “ain’t disruptive” ahead of Dolphins week",
       "cat": "Sports / Jets",
       "source": "Heavy",
@@ -99,105 +198,6 @@
       "image_remote": "https://heavy.com/wp-content/uploads/2026/10/new-york-jets-v-chicago-bears-chicago-illinois-october-04-garrett-2-e1792649115227.jpg?quality=65&strip=all",
       "id": "aca4a8bb1d8a988e942e3a408d48c6bbb154ff50",
       "summary": "Jets receiver Garrett Wilson is walking a fine line on his role in the offense, Heavy reports. After a 100-yard, touchdown game, he caught just four passes for 44 yards in Sunday’s loss to the Patriots and drew only two targets before the fourth quarter. Asked Wednesday by the AP how he can push for more targets without seeming like a malcontent, Wilson said, “it usually ain’t disruptive, like, let’s do it, you know, and that’s the mentality that all of us have being competitors,” adding, “For me, it’s kind of just getting my feet wet early and then, you know, let’s ride, I’m ready to go.” Heavy reads it as the team’s highest-paid player saying the right things while making clear he wants to be involved early. The Jets host the winless Dolphins on Sunday."
-    },
-    {
-      "n": 10,
-      "headline": "In the final Michigan Senate debate, Mike Rogers calls Abdul El-Sayed a national-security risk while El-Sayed brands him a Trump “sock puppet”",
-      "cat": "Politics / Elections",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/final-michigan-senate-debate-abdul-el-sayed-mike-rogers/",
-      "image_local": "images/story-1284.jpg",
-      "image_remote": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/22/b15a489e-656a-4818-9c4e-a6e024c2dd48/thumbnail/1200x630/1d0613aafb4879acfba840e0a4bbdaa6/gettyimages-2300813662.jpg",
-      "id": "e6591683bea19fca828d00dbc412924c26b42d00",
-      "summary": "Republican Mike Rogers and Democrat Abdul El-Sayed met Wednesday night for their second and final debate in Michigan’s neck-and-neck Senate race, one of the contests that could decide control of the Senate, CBS News reports. El-Sayed repeatedly cast Rogers as a “sock puppet” for President Trump and invited the audience to play “MAGA bingo,” while Rogers accused him of a “pattern of deception” about his far-left positions and said many Democrats can’t vote for him because he is “too extreme.” The sharpest exchange came when Rogers tried to link El-Sayed to the Muslim Brotherhood, following reports on posts by El-Sayed’s half sister about his birth mother; El-Sayed disavowed any connection and called the attack “beneath you, Mike.” Rogers said El-Sayed is “a risk to our national security” and later questioned whether he could get a security clearance. The two also clashed over the Iran war, gas prices and El-Sayed’s support for Medicare for All, and Rogers said he plans to attend Trump’s Michigan rally on Sunday."
-    },
-    {
-      "n": 11,
-      "headline": "Zelensky says he would accept a deal freezing the Ukraine war at the current front lines as Witkoff heads to Putin",
-      "cat": "World / Ukraine",
-      "source": "Breitbart",
-      "url": "https://www.breitbart.com/politics/2026/10/21/zelensky-says-he-would-accept-deal-freeze-ukraine-war-current-lines/",
-      "image_local": "images/story-1285.jpg",
-      "image_remote": "https://media.breitbart.com/media/2026/10/Steve-Witkoff-Alexander-Stubb-Volodymyr-Zelensky-and-Jonas-Gahr-Store-640x335.jpg",
-      "id": "1f622cfbb3c55aca81ffa462fc1a61330a9bc3f9",
-      "summary": "Ukrainian President Volodymyr Zelensky said Wednesday on Fox & Friends that he would accept a peace deal freezing the war along the current front lines, calling it the “real way” to end the conflict. “Yes, right now we have to freeze,” he told Brian Kilmeade, describing it as the “stop killing” approach President Trump has called for and saying Ukraine would then seek security guarantees from the U.S. and Europe. He framed the freeze as a first step toward negotiations rather than a final territorial settlement, said he was prepared to halt strikes on Russian oil refineries if Moscow reciprocated, and renewed his call for a three-way summit with Trump and Putin, which the Kremlin has rejected. The interview came a day after Zelensky met envoy Steve Witkoff in Oslo with Nordic and European leaders; Witkoff then flew to St. Petersburg to meet Putin with an updated framework proposal."
-    },
-    {
-      "n": 12,
-      "headline": "Tesla says the first Cybercabs should reach customers by the end of 2026, though most will stay in its own robotaxi fleet",
-      "cat": "Tesla",
-      "source": "Teslarati",
-      "url": "https://www.teslarati.com/tesla-cybercab-gets-sale-date-at-last/",
-      "image_local": "images/story-1286.jpg",
-      "image_remote": "https://www.teslarati.com/wp-content/uploads/2026/10/tesla-cybercab-pairing-1000x600.jpeg",
-      "id": "7a67f5cf2c134744d6133d96ae417ee236964fd6",
-      "summary": "Tesla gave its steering-wheel-free Cybercab a sale date on Wednesday’s third-quarter earnings call, Teslarati reports. Vice President of Engineering Lars Moravy said the company is “trying to get Cybercabs to customers by the end of this year,” adding that production is underway at Gigafactory Texas but every unit so far is going into Tesla’s own Robotaxi fleet. Moravy said initial customer deliveries will start small while Tesla learns the logistics, ownership models and fleet management of autonomous vehicles operating outside its direct control. Elon Musk stressed that private sales will be limited: “The vast majority of the Cybercab stuff will be Tesla-owned and transport-as-a-service,” he said, distinguishing the two-seater from personal cars like the Model 3, Model Y and upcoming Roadster."
-    },
-    {
-      "n": 13,
-      "headline": "Penguins coach Dan Muse says Ben Kindel is “doing better” after his scare on the team plane and could fly home Wednesday",
-      "cat": "Sports / Penguins",
-      "source": "Pittsburgh Hockey Now",
-      "url": "https://pittsburghhockeynow.com/pittsburgh-penguins-dan-muse-updates-on-ben-kindel/",
-      "image_local": "images/story-1287.jpg",
-      "image_remote": "https://media.pittsburghhockeynow.com/wp-content/uploads/2025/10/26153140/2388078_sd_69039a5bd5159_1761843803.jpg",
-      "id": "e4e169773faa30e9f37aff65966bbcd7b0dfe12a",
-      "summary": "Pittsburgh Penguins forward Ben Kindel is improving and could travel back to Pittsburgh as soon as Wednesday, coach Dan Muse said on his radio show on 105.9 the X, Pittsburgh Hockey Now reports. The 19-year-old had a medical episode shortly after the team’s charter left Salt Lake City on Tuesday; the plane turned back and he was taken by ambulance to a hospital. “He’s doing better. We’re hopeful that he’ll be traveling back to Pittsburgh today,” Muse said, calling it “a scary moment” but not describing the scene. Kindel has two goals and four points in nine games and played nearly 19 minutes in Monday’s loss in Utah. The team canceled Wednesday’s practice, and general manager Kyle Dubas is expected to give more details Thursday morning. Muse had no update on Bryan Rust, who has a lower-body injury."
-    },
-    {
-      "n": 14,
-      "headline": "Satire: “Nation Of France Films Massive Campaign Ad For Republicans”",
-      "cat": "Satire",
-      "source": "The Babylon Bee",
-      "url": "https://babylonbee.com/news/nation-of-france-films-massive-campaign-ad-for-republicans",
-      "image_local": "images/story-1288.jpg",
-      "image_remote": "https://media.babylonbee.com/articles/6ad64992256b86ad64992256b9.jpg",
-      "id": "2bc333c97e273d986dfcfd2b04e5848b416b8010",
-      "summary": "The Babylon Bee’s take on the riots in France: with midterms two weeks away, the entire nation has “graciously” spent the past week filming a sprawling attack ad for the GOP, “demonstrating with incredible realism the dangers of voting Democrat.” A grateful Ohio Senate candidate Jon Husted marvels that it “must have cost billions of dollars to film” and says the French didn’t have to burn down actual historic buildings, “but we appreciate the commitment.” A local man says losing priceless artifacts “is the least we can do” for the Republican Party, and the piece ends with Italy announcing it will join France in filming ads before the election."
-    },
-    {
-      "n": 15,
-      "headline": "Retired NYPD detective charged with murder in the George Washington Bridge shooting of a Con Ed worker",
-      "cat": "Crime / Courts",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/us/retired-nypd-detective-charged-murder-george-washington-bridge-shooting-con-ed-worker-officials",
-      "image_local": "images/story-1289.jpg",
-      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/man-shot-and-killed-on-gwb-7.jpg",
-      "id": "3f396123b73688e06c2686156d7f48e0c8ae6c55",
-      "summary": "A retired NYPD detective has been charged with murder after police say he shot and killed a Con Edison worker on the George Washington Bridge Tuesday evening, Fox News reports. The NYPD said Victor Romero, 62, of Haverstraw, N.Y., shot Koran Irvine, 46, of Valley Cottage, in what the New York Post described as an apparent road-rage attack between the two Rockland County residents. Irvine was hit in the back of his right shoulder while driving on the bridge’s outbound upper level, crashed into a median and was later pronounced dead at Englewood Hospital. Romero left the NYPD about 25 years ago, according to the Post."
-    },
-    {
-      "n": 16,
-      "headline": "Unitree’s new ad shows its H2-X humanoid robot karate-kicking a home invader and denting cars",
-      "cat": "Tech / Robots",
-      "source": "Gizmodo",
-      "url": "https://gizmodo.com/the-robot-in-unitrees-new-ad-looks-ready-to-commit-and-fight-crimes-2000829200",
-      "image_local": "images/story-1291.jpg",
-      "image_remote": "https://gizmodo.com/app/uploads/2026/10/unitree-leap-toward-kid-1200x675.jpg",
-      "id": "263229859f0ad872dd338894ed49583668a18c5b",
-      "summary": "Chinese robot maker Unitree, best known for humanoids that dance and run fast, has released a commercial for a new H2-X robot that looks ready to fight crime — or commit it, Gizmodo writes. In the staged ad, the robot, apparently an unreleased variant of the mannequin-faced H2, takes down a knife-wielding home invader with a jumping kick, beats dents into a sedan’s fender and hood, lifts another car by its front bumper and leaps to shove a child mannequin out of the path of a slow-rolling car. Unitree’s YouTube description touts eight hours of battery life while urging owners to “please use the robot safely and in a friendly manner.” Gizmodo notes the robot can’t actually tell an intruder from a spouse who lost their keys."
-    },
-    {
-      "n": 17,
-      "headline": "The flesh-eating New World screwworm has been found in U.S. wildlife for the first time, in an elk on a Texas game ranch",
-      "cat": "Science / Agriculture",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/new-world-screwworm-wildlife-texas-elk-usda/",
-      "image_local": "",
-      "image_remote": "",
-      "id": "cbeab80a12df9e9efa760fd0c3dfa9710259f25a",
-      "summary": "The USDA said Wednesday that the first case of New World screwworm in U.S. wildlife has been found in an elk on a game ranch in Pecos County, Texas, reported after a hunter harvested the animal, CBS News reports. The detection has triggered more wildlife surveillance by the USDA and Texas Parks and Wildlife, and the Texas Animal Health Commission will modify a previously established infested zone. Officials urged hunters to watch for maggots in wounds, foul-smelling or enlarging injuries and weak or distressed animals, and to report suspected cases immediately. The parasitic fly lays eggs in open wounds of warm-blooded animals, including livestock and, rarely, humans, and its larvae feed on living tissue. The USDA confirmed a case in a 3-week-old Texas calf in June; the agency says the pest doesn’t affect food safety but can hurt meat production."
-    },
-    {
-      "n": 18,
-      "headline": "Trump administration asks the Supreme Court to let border wall construction resume in Texas’s Big Bend region",
-      "cat": "Immigration / Courts",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/justice-department-supreme-court-border-wall-big-bend-region/",
-      "image_local": "images/story-1277.jpg",
-      "image_remote": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/20/70d15ef3-844f-4d88-b506-85d06db6c3c8/thumbnail/1200x630/12bb7c361b249c8597b8ebebf0e51f03/dsc01583.jpg",
-      "id": "a96b9e9b67ce578b9b2f0203f84046a59781a732",
-      "summary": "The Justice Department on Wednesday asked the Supreme Court to lift a lower-court injunction that has temporarily blocked the Department of Homeland Security from building a border wall and related infrastructure in the Big Bend Sector, which covers more than 500 miles of the U.S.-Mexico border and 77 Texas counties, CBS News reports. “The district court’s injunction significantly frustrates the government’s ability to stop the flow of illegal aliens and drugs across the southern border,” Solicitor General D. John Sauer wrote, saying the project areas were chosen because of high rates of illegal crossings and drug smuggling. The plan calls for 30-foot bollard walls from Fort Quitman to Closed Canyon in Big Bend Ranch State Park, with walls and roads spanning more than 300 miles; construction of a 47-mile stretch began last month and five barrier contracts have been awarded. The project drew bipartisan pushback, along with objections from ranchers and local law enforcement, after bulldozers appeared at Big Bend National Park. CBP says the wall itself won’t cut through the national park, though patrol roads, detection technology and about 17 miles of vehicle barriers would. The administration invoked a 1996 law letting the DHS secretary waive environmental and preservation requirements for border barriers."
     },
     {
       "n": 19,
