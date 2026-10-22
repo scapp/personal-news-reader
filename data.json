@@ -1,8 +1,107 @@
 {
-  "updated": "Wednesday, October 21, 2026 · 10:06 PM ET",
+  "updated": "Thursday, October 22, 2026 · 7:05 AM ET",
   "stories": [
     {
       "n": 1,
+      "headline": "Hours after Witkoff’s talks with Putin, Russia fires three waves of ballistic missiles at Kyiv",
+      "cat": "World / Ukraine",
+      "source": "ABC News",
+      "url": "https://abcnews.com/International/russia-fires-3-waves-ballistic-missiles-kyiv-after/story?id=137469151",
+      "image_local": "images/story-1292.jpg",
+      "image_remote": "https://i.abcnewsfe.com/a/0399fc28-0fab-4254-b3ae-3cc866edd1c0/Kyiv-fire-DB-261022_1792662335508_hpMain_16x9.jpg?w=1600",
+      "id": "3bdee00d78c74e32060e88ba2009ec89af6c72cb",
+      "summary": "Russia hit Kyiv with an intense overnight missile and drone barrage just hours after President Trump’s envoy Steve Witkoff met Vladimir Putin in St. Petersburg, ABC News reports. President Zelensky said Russia fired 21 ballistic missiles at the capital in three waves, striking homes, energy infrastructure, a railway station, the metro, shopping centers and even a monastery; at least two people were killed and 34 injured in and around Kyiv. Ukraine’s air force said none of the missiles were intercepted, while 181 of 210 drones were downed, and another Russian strike on a market in the Kharkiv region killed two more. Witkoff called his talks “constructive” and said trilateral technical-level talks will continue, but Zelensky called the strikes “demonstrative,” said they show “no real changes” in Moscow’s attitude, and jabbed at Witkoff’s description of Putin as a “humanitarian.” Ukraine answered with one of its largest drone attacks of the year on Moscow, which forced temporary closures at all four of the city’s international airports."
+    },
+    {
+      "n": 2,
+      "headline": "Judge refuses Lindsay Clancy’s lawyers’ bid to question the holdout juror who forced her mistrial",
+      "cat": "Crime / Courts",
+      "source": "ABC11 / ABC News",
+      "url": "https://abc11.com/story/lindsay-clancy-murder-trial-judge-denies-request-question-holdout-juror/19966001/",
+      "image_local": "images/story-1293.jpg",
+      "image_remote": "https://cdn.abcotvs.com/dip/images/19966020_clancy-file.png?w=1600",
+      "id": "bc722e7dff72e2d6ee738cf70fe8b06e89ae5369",
+      "summary": "A Massachusetts judge has denied a request from Lindsay Clancy’s defense team to question the lone holdout juror who forced a mistrial in her triple-murder case, ABC News reports. Judge William Sullivan wrote that “any further judicial inquiry is inappropriate” because the court must not delve into a juror’s reasoning, views or relationships with other jurors, or into the jury’s deliberations. The jury split 11-1 in favor of finding Clancy not guilty by reason of insanity after a seven-week trial this summer. Her lawyers want the indictment dismissed, arguing the judge didn’t properly look into the holdout before declaring a mistrial, and had sought an evidentiary hearing on whether he lied on his questionnaire or used his phone during deliberations; Sullivan found they hadn’t shown they were entitled to one. Clancy, the former nurse charged in the 2023 deaths of her three children in Duxbury, is due back in court Nov. 2."
+    },
+    {
+      "n": 3,
+      "headline": "Apple reportedly boosts iPhone Duo orders by 44% to 14 million on the eve of Friday’s launch",
+      "cat": "Apple / iPhone",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/22/apple-boosts-iphone-duo-orders/",
+      "image_local": "images/story-1294.jpg",
+      "image_remote": "https://images.macrumors.com/t/tkgAfj-OUpbVmWLeFk2rwQNa--Y=/1886x/article-new/2026/10/iPhone-Duo-Hinge-Feature-1.jpg",
+      "id": "2df3ae2b7e22a02a9ddec91a2831f9e361b20592",
+      "summary": "Strong pre-orders have reportedly pushed Apple to order millions more iPhone Duo units from suppliers, MacRumors reports, citing DigiTimes. Supply-chain sources said Foxconn and component makers received instructions reflecting a roughly 44% increase, from 9.7 million to 14 million devices over a full 12-month period. Apple has called demand “nothing short of extraordinary,” and within 30 minutes of pre-orders opening Oct. 16, U.S. shipping estimates had slipped to Jan. 25 across every configuration. Hitting the higher target could still be hard: DigiTimes said output depends on assembly progress after earlier reports of trouble with assembly, displays and hinges. The $1,999 foldable launches Friday, Oct. 23."
+    },
+    {
+      "n": 4,
+      "headline": "Musk says his Terafab chip plant will make its first test chip by mid-2027, with real production in late 2028",
+      "cat": "Elon Musk / Tech",
+      "source": "Gizmodo",
+      "url": "https://gizmodo.com/elon-musk-claims-his-terafab-will-produce-its-first-chip-by-mid-2027-2000829167",
+      "image_local": "images/story-1295.jpg",
+      "image_remote": "https://gizmodo.com/app/uploads/2026/10/GettyImages-2299248528-1200x675.jpg",
+      "id": "51a14c81ac15fd8ceed4acd833bc0ca0727ddfa7",
+      "summary": "Elon Musk said on Tesla’s earnings call that Terafab, the giant chip factory he announced in Austin in March, is “progressing quickly,” Gizmodo reports. “We’ll begin commissioning machinery in the first half of next year, and hopefully if things go well, we’ll make our first test chip, just to see if we can make any chip at all, around May or June,” he said, adding that “real production would be late ’28, which is lightning fast by fab standards.” Terafab is a joint venture between SpaceX and Tesla, which are also discussing a merger, and Musk said the two still have to work out who pays for what — “not going to be less than tens of billions in capital equipment through early 2028, and then it will probably be north of 100 billion long term.” Gizmodo notes chip fabs are notoriously slow and costly to build in the U.S., and that Musk has a history of optimistic timelines."
+    },
+    {
+      "n": 5,
+      "headline": "Jeep Wrangler production halted in Toledo after a nearby chemical leak forces evacuations",
+      "cat": "Jeep / Autos",
+      "source": "CBT News",
+      "url": "https://www.cbtnews.com/stellantis-halts-wrangler-production/",
+      "image_local": "images/story-1296.jpg",
+      "image_remote": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2026/10/Stellantis-fire.webp",
+      "id": "2e5d3412f78ce4b270d4ebfe9af2ff1e9f0fda1f",
+      "summary": "Stellantis halted production at the north plant of its Toledo Assembly Complex, which builds the Jeep Wrangler, after a hazardous chemical release about a mile away, CBT News reports. Workers were sent home Tuesday night and the first and second shifts were canceled Wednesday. The leak at the MC Tank Transport terminal on Progress Avenue involved glycidyl methacrylate, an industrial chemical used in plastics, paints and coatings that can irritate the eyes, nose, mouth and skin. Toledo Fire & Rescue ordered everyone within a mile to evacuate and those within three miles to shelter in place; by Wednesday evening the evacuation zone was cut to a half-mile and the shelter order lifted. City officials said tap water was not contaminated, and no serious injuries were reported."
+    },
+    {
+      "n": 6,
+      "headline": "Review: Tony Iommi keeps the Black Sabbath flame burning on his first solo album in 21 years, “From The Dark”",
+      "cat": "Music / Metal",
+      "source": "Louder",
+      "url": "https://www.loudersound.com/music/albums/tony-iommi-from-the-dark",
+      "image_local": "images/story-1297.jpg",
+      "image_remote": "https://cdn.mos.cms.futurecdn.net/oadbDXRg2JRdNori2sD58M-1280-80.jpg",
+      "id": "e94b1aacbc9816b1c4ef1d6f530662636b426875",
+      "summary": "With Ozzy gone and Geezer Butler and Bill Ward all but retired, it falls to Tony Iommi to keep Black Sabbath’s fire going, and Louder’s review says he does on “From The Dark,” his first solo album in 21 years, out Friday. Teamed with Norwegian singer Jørn Lande, who co-wrote all eight songs and sometimes sounds uncannily like David Coverdale, Iommi works in the style of the Dio-fronted Sabbath and Heaven & Hell, backed by bassist Becky Baldwin and drummer Karl Brazil. Highlights include the hammer-to-the-anvil opener “Over The Violent Sun,” the “brutal boogie” of first single “World Alone,” “Stormwatcher,” and “Death Wake,” which features a lead break from Brian May. The reviewer saves the most praise for closer “Legacy,” calling it “absolute killer, gold-standard Iommi.”"
+    },
+    {
+      "n": 7,
+      "headline": "Nikon’s Small World microscope-photo contest is won by a frozen-in-midair look at an inkjet printer laying ink on paper",
+      "cat": "Photography",
+      "source": "DPReview (via Yahoo)",
+      "url": "https://www.yahoo.com/lifestyle/articles/winner-nikon-small-world-competition-054709335.html",
+      "image_local": "images/story-1298.jpg",
+      "image_remote": "https://media.zenfs.com/en/dpreview_articles_177/05dbbfed81fb14cae5311fe6fe437a70.jpg",
+      "id": "a6125999437823d4c2e304d65ba4491756f4ff0c",
+      "summary": "Nikon has named the winners of its 52nd Small World Photomicrography Competition, which drew more than 1,800 entries from 69 countries, and first place went to an image of what happens inside a printer as it puts ink on paper, DPReview reports. German photographer Ole Bielfeldt, who creates under the name macrofying, built his own imaging rig around a microscope objective. His first tries failed because the printhead moved too fast to keep in focus and the droplets outran his shutter, so he reverse-engineered the printer to move the paper under a stationary printhead, then worked in a dark room and used a flash to freeze the droplets midair. “It turned out I already had everything I needed,” he said. The top 20 images also include views inside a pen and a pencil and plenty of cells."
+    },
+    {
+      "n": 8,
+      "headline": "Federal judge orders DHS to stop door-to-door noncitizen voter checks in nine states until Election Day",
+      "cat": "Immigration / Elections",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/judge-dhs-noncitizen-voters-ruling/",
+      "image_local": "images/story-1299.jpg",
+      "image_remote": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/21/1abddba8-37c2-42be-9b6f-9307c8b7d7ac/thumbnail/1200x630/27078c641fe36ee0e8f2ab156c42758c/cbsn-fusion-armed-dhs-agents-knock-on-doors-in-search-for-possible-noncitizen-voters-thumbnail.jpg",
+      "id": "405840861fd5346ca94eab925958e83798aaa6d2",
+      "summary": "A federal judge ruled late Wednesday that the Department of Homeland Security’s practice of knocking on doors to ask people about their immigration status and recent voting likely violates the Voting Rights Act, CBS News reports. U.S. District Judge Araceli Martinez-Olguin ordered immigration authorities to stop “elections-related field operations and field interviews” in nine states, including California and New York, when they are likely to involve people officials know or should suspect are U.S. citizens. The order lasts until polls close on Election Day but is stayed until 5 p.m. Friday so the administration can appeal. The Trump administration says the operation is part of its crackdown on noncitizen voting. The judge wrote that investigating unlawful voting is not itself illegal but cited a “high likelihood of error” in how DHS built its target lists from agency and commercial data. The suit was brought by groups including the California Nurses Association and National Nurses United."
+    },
+    {
+      "n": 9,
+      "headline": "Garrett Wilson, targeted just twice before the fourth quarter in New England, says wanting the ball “ain’t disruptive” ahead of Dolphins week",
+      "cat": "Sports / Jets",
+      "source": "Heavy",
+      "url": "https://heavy.com/sports/nfl/new-york-jets/garrett-wilson-blunt-frustration-offense/",
+      "image_local": "images/story-1300.jpg",
+      "image_remote": "https://heavy.com/wp-content/uploads/2026/10/new-york-jets-v-chicago-bears-chicago-illinois-october-04-garrett-2-e1792649115227.jpg?quality=65&strip=all",
+      "id": "aca4a8bb1d8a988e942e3a408d48c6bbb154ff50",
+      "summary": "Jets receiver Garrett Wilson is walking a fine line on his role in the offense, Heavy reports. After a 100-yard, touchdown game, he caught just four passes for 44 yards in Sunday’s loss to the Patriots and drew only two targets before the fourth quarter. Asked Wednesday by the AP how he can push for more targets without seeming like a malcontent, Wilson said, “it usually ain’t disruptive, like, let’s do it, you know, and that’s the mentality that all of us have being competitors,” adding, “For me, it’s kind of just getting my feet wet early and then, you know, let’s ride, I’m ready to go.” Heavy reads it as the team’s highest-paid player saying the right things while making clear he wants to be involved early. The Jets host the winless Dolphins on Sunday."
+    },
+    {
+      "n": 10,
       "headline": "In the final Michigan Senate debate, Mike Rogers calls Abdul El-Sayed a national-security risk while El-Sayed brands him a Trump “sock puppet”",
       "cat": "Politics / Elections",
       "source": "CBS News",
@@ -13,7 +112,7 @@
       "summary": "Republican Mike Rogers and Democrat Abdul El-Sayed met Wednesday night for their second and final debate in Michigan’s neck-and-neck Senate race, one of the contests that could decide control of the Senate, CBS News reports. El-Sayed repeatedly cast Rogers as a “sock puppet” for President Trump and invited the audience to play “MAGA bingo,” while Rogers accused him of a “pattern of deception” about his far-left positions and said many Democrats can’t vote for him because he is “too extreme.” The sharpest exchange came when Rogers tried to link El-Sayed to the Muslim Brotherhood, following reports on posts by El-Sayed’s half sister about his birth mother; El-Sayed disavowed any connection and called the attack “beneath you, Mike.” Rogers said El-Sayed is “a risk to our national security” and later questioned whether he could get a security clearance. The two also clashed over the Iran war, gas prices and El-Sayed’s support for Medicare for All, and Rogers said he plans to attend Trump’s Michigan rally on Sunday."
     },
     {
-      "n": 2,
+      "n": 11,
       "headline": "Zelensky says he would accept a deal freezing the Ukraine war at the current front lines as Witkoff heads to Putin",
       "cat": "World / Ukraine",
       "source": "Breitbart",
@@ -24,7 +123,7 @@
       "summary": "Ukrainian President Volodymyr Zelensky said Wednesday on Fox & Friends that he would accept a peace deal freezing the war along the current front lines, calling it the “real way” to end the conflict. “Yes, right now we have to freeze,” he told Brian Kilmeade, describing it as the “stop killing” approach President Trump has called for and saying Ukraine would then seek security guarantees from the U.S. and Europe. He framed the freeze as a first step toward negotiations rather than a final territorial settlement, said he was prepared to halt strikes on Russian oil refineries if Moscow reciprocated, and renewed his call for a three-way summit with Trump and Putin, which the Kremlin has rejected. The interview came a day after Zelensky met envoy Steve Witkoff in Oslo with Nordic and European leaders; Witkoff then flew to St. Petersburg to meet Putin with an updated framework proposal."
     },
     {
-      "n": 3,
+      "n": 12,
       "headline": "Tesla says the first Cybercabs should reach customers by the end of 2026, though most will stay in its own robotaxi fleet",
       "cat": "Tesla",
       "source": "Teslarati",
@@ -35,7 +134,7 @@
       "summary": "Tesla gave its steering-wheel-free Cybercab a sale date on Wednesday’s third-quarter earnings call, Teslarati reports. Vice President of Engineering Lars Moravy said the company is “trying to get Cybercabs to customers by the end of this year,” adding that production is underway at Gigafactory Texas but every unit so far is going into Tesla’s own Robotaxi fleet. Moravy said initial customer deliveries will start small while Tesla learns the logistics, ownership models and fleet management of autonomous vehicles operating outside its direct control. Elon Musk stressed that private sales will be limited: “The vast majority of the Cybercab stuff will be Tesla-owned and transport-as-a-service,” he said, distinguishing the two-seater from personal cars like the Model 3, Model Y and upcoming Roadster."
     },
     {
-      "n": 4,
+      "n": 13,
       "headline": "Penguins coach Dan Muse says Ben Kindel is “doing better” after his scare on the team plane and could fly home Wednesday",
       "cat": "Sports / Penguins",
       "source": "Pittsburgh Hockey Now",
@@ -46,7 +145,7 @@
       "summary": "Pittsburgh Penguins forward Ben Kindel is improving and could travel back to Pittsburgh as soon as Wednesday, coach Dan Muse said on his radio show on 105.9 the X, Pittsburgh Hockey Now reports. The 19-year-old had a medical episode shortly after the team’s charter left Salt Lake City on Tuesday; the plane turned back and he was taken by ambulance to a hospital. “He’s doing better. We’re hopeful that he’ll be traveling back to Pittsburgh today,” Muse said, calling it “a scary moment” but not describing the scene. Kindel has two goals and four points in nine games and played nearly 19 minutes in Monday’s loss in Utah. The team canceled Wednesday’s practice, and general manager Kyle Dubas is expected to give more details Thursday morning. Muse had no update on Bryan Rust, who has a lower-body injury."
     },
     {
-      "n": 5,
+      "n": 14,
       "headline": "Satire: “Nation Of France Films Massive Campaign Ad For Republicans”",
       "cat": "Satire",
       "source": "The Babylon Bee",
@@ -57,7 +156,7 @@
       "summary": "The Babylon Bee’s take on the riots in France: with midterms two weeks away, the entire nation has “graciously” spent the past week filming a sprawling attack ad for the GOP, “demonstrating with incredible realism the dangers of voting Democrat.” A grateful Ohio Senate candidate Jon Husted marvels that it “must have cost billions of dollars to film” and says the French didn’t have to burn down actual historic buildings, “but we appreciate the commitment.” A local man says losing priceless artifacts “is the least we can do” for the Republican Party, and the piece ends with Italy announcing it will join France in filming ads before the election."
     },
     {
-      "n": 6,
+      "n": 15,
       "headline": "Retired NYPD detective charged with murder in the George Washington Bridge shooting of a Con Ed worker",
       "cat": "Crime / Courts",
       "source": "Fox News",
@@ -68,18 +167,7 @@
       "summary": "A retired NYPD detective has been charged with murder after police say he shot and killed a Con Edison worker on the George Washington Bridge Tuesday evening, Fox News reports. The NYPD said Victor Romero, 62, of Haverstraw, N.Y., shot Koran Irvine, 46, of Valley Cottage, in what the New York Post described as an apparent road-rage attack between the two Rockland County residents. Irvine was hit in the back of his right shoulder while driving on the bridge’s outbound upper level, crashed into a median and was later pronounced dead at Englewood Hospital. Romero left the NYPD about 25 years ago, according to the Post."
     },
     {
-      "n": 7,
-      "headline": "Trumbull’s Kids Pumpkin Fest is Sunday on the Town Hall Green with pumpkin decorating, a live DJ and touch-a-truck",
-      "cat": "Local / Trumbull CT",
-      "source": "Patch Trumbull",
-      "url": "https://patch.com/connecticut/trumbull/details-announced-trumbull-kids-pumpkin-fest-event",
-      "image_local": "images/story-1290.jpg",
-      "image_remote": "https://patch.com/img/cdn20/users/22878689/20261021/061907/styles/patch_image/public/img-3273___21180726116.jpg",
-      "id": "dfe92765169a6882e7b5e4911b702364acb17725",
-      "summary": "Trumbull’s annual Kids Pumpkin Fest runs this Sunday, Oct. 25, from 10 a.m. to 1 p.m. on the Town Hall Green at 5866 Main Street, Patch reports. The free family event features pumpkin decorating, face painting, lawn games, crafts and a live DJ, plus a touch-a-truck with the Long Hill Fire and Trumbull Police departments and crafts with the Trumbull Nature and Arts Center. Mobile coffee trailer Brewberry Cafe will serve a seasonal menu."
-    },
-    {
-      "n": 8,
+      "n": 16,
       "headline": "Unitree’s new ad shows its H2-X humanoid robot karate-kicking a home invader and denting cars",
       "cat": "Tech / Robots",
       "source": "Gizmodo",
@@ -90,7 +178,7 @@
       "summary": "Chinese robot maker Unitree, best known for humanoids that dance and run fast, has released a commercial for a new H2-X robot that looks ready to fight crime — or commit it, Gizmodo writes. In the staged ad, the robot, apparently an unreleased variant of the mannequin-faced H2, takes down a knife-wielding home invader with a jumping kick, beats dents into a sedan’s fender and hood, lifts another car by its front bumper and leaps to shove a child mannequin out of the path of a slow-rolling car. Unitree’s YouTube description touts eight hours of battery life while urging owners to “please use the robot safely and in a friendly manner.” Gizmodo notes the robot can’t actually tell an intruder from a spouse who lost their keys."
     },
     {
-      "n": 9,
+      "n": 17,
       "headline": "The flesh-eating New World screwworm has been found in U.S. wildlife for the first time, in an elk on a Texas game ranch",
       "cat": "Science / Agriculture",
       "source": "CBS News",
@@ -101,7 +189,7 @@
       "summary": "The USDA said Wednesday that the first case of New World screwworm in U.S. wildlife has been found in an elk on a game ranch in Pecos County, Texas, reported after a hunter harvested the animal, CBS News reports. The detection has triggered more wildlife surveillance by the USDA and Texas Parks and Wildlife, and the Texas Animal Health Commission will modify a previously established infested zone. Officials urged hunters to watch for maggots in wounds, foul-smelling or enlarging injuries and weak or distressed animals, and to report suspected cases immediately. The parasitic fly lays eggs in open wounds of warm-blooded animals, including livestock and, rarely, humans, and its larvae feed on living tissue. The USDA confirmed a case in a 3-week-old Texas calf in June; the agency says the pest doesn’t affect food safety but can hurt meat production."
     },
     {
-      "n": 10,
+      "n": 18,
       "headline": "Trump administration asks the Supreme Court to let border wall construction resume in Texas’s Big Bend region",
       "cat": "Immigration / Courts",
       "source": "CBS News",
@@ -112,103 +200,15 @@
       "summary": "The Justice Department on Wednesday asked the Supreme Court to lift a lower-court injunction that has temporarily blocked the Department of Homeland Security from building a border wall and related infrastructure in the Big Bend Sector, which covers more than 500 miles of the U.S.-Mexico border and 77 Texas counties, CBS News reports. “The district court’s injunction significantly frustrates the government’s ability to stop the flow of illegal aliens and drugs across the southern border,” Solicitor General D. John Sauer wrote, saying the project areas were chosen because of high rates of illegal crossings and drug smuggling. The plan calls for 30-foot bollard walls from Fort Quitman to Closed Canyon in Big Bend Ranch State Park, with walls and roads spanning more than 300 miles; construction of a 47-mile stretch began last month and five barrier contracts have been awarded. The project drew bipartisan pushback, along with objections from ranchers and local law enforcement, after bulldozers appeared at Big Bend National Park. CBP says the wall itself won’t cut through the national park, though patrol roads, detection technology and about 17 miles of vehicle barriers would. The administration invoked a 1996 law letting the DHS secretary waive environmental and preservation requirements for border barriers."
     },
     {
-      "n": 11,
-      "headline": "Tesla’s Q3: revenue in line at $28 billion, a slight EPS beat, surprise positive cash flow, and Cybercab joins the Austin Robotaxi fleet",
-      "cat": "Tesla",
-      "source": "Teslarati",
-      "url": "https://www.teslarati.com/tesla-tsla-q3-2026-earnings-results/",
-      "image_local": "images/story-1278.jpg",
-      "image_remote": "https://www.teslarati.com/wp-content/uploads/2026/10/Roadster_58-1000x600.jpg",
-      "id": "17a4a720aba87a45f52c4c27d3dedc96a7b1b92c",
-      "summary": "Tesla reported third-quarter 2026 revenue of $28.05 billion, just under the $28.34 billion expected, and non-GAAP earnings of 48 cents a share, ahead of the 45-cent estimate, Teslarati reports. Operating margin came in at 2.6% on $718 million of operating income, and free cash flow was a positive $1.53 billion against expectations of a large negative number. In its shareholder letter, Tesla said FSD (Supervised) is now attached to more than 75% of new vehicle deliveries in North America, up nearly 20 points from last quarter, and that it has begun volume production of the Tesla Semi, whose top version can go 500 miles fully loaded. Tesla also said it has started deploying Cybercab into its Robotaxi fleet in Austin, where the service has logged nearly two million cumulative unsupervised miles and now runs 6 a.m. to midnight, and that Grok is available in Cybercab. The company plans to reach 400 MW of AI training compute by year-end for vehicle and Optimus autonomy and to begin commissioning equipment at its Austin chip fab in 2027. Net profit still fell sharply from a year ago as spending on AI and Optimus climbed."
-    },
-    {
-      "n": 12,
-      "headline": "U.S. orders non-emergency embassy staff and families out of Saudi Arabia as Houthi attacks on the kingdom escalate",
-      "cat": "World / Middle East",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/us-saudi-arabia-ordered-departure-houthis/",
-      "image_local": "",
-      "image_remote": "",
-      "id": "9a03bedff640107387b636c9ac05a30c4a3168f2",
-      "summary": "The State Department has ordered non-emergency U.S. government employees and their families to leave Saudi Arabia after a surge in attacks on the kingdom by Iran-backed Houthi militants, CBS News reports. Spokesperson Tommy Pigott said the ordered departure applies “in Saudi Arabia only,” pushing back on a report that it could extend to other Gulf states, though several other embassies have shifted to “restricted operations” staffing. The Houthis have fired drones and missiles at Saudi airports and oil facilities in recent weeks, including an Oct. 10 strike on Riyadh’s King Khalid International Airport that killed 12 people, one of them an American, and injured more than 300. Saudi air defenses blocked a drone attack on the Shaybah oil field Tuesday, with two people killed by falling debris. The fighting raises fears for shipping through the Bab al-Mandab Strait, which has grown more important as the U.S.-Iran war disrupts the Strait of Hormuz. The U.K. has offered Saudi Arabia defensive air support; it is not clear whether the Trump administration will help, though the president has not ruled out strikes on the Houthis."
-    },
-    {
-      "n": 13,
-      "headline": "No charges for a Michigan woman with a concealed carry permit who shot a man attacking her boyfriend in a Dearborn store",
-      "cat": "Crime / Self-Defense",
-      "source": "Daily Caller",
-      "url": "https://dailycaller.com/2026/10/21/woman-with-carry-permit-turns-tables-on-thug-beating-up-her-boyfriend",
-      "image_local": "images/story-1279.jpg",
-      "image_remote": "https://images.dailycaller.com/image/width=1280,height=549,fit=cover,format=webp,f=auto/https://cdn01.dailycaller.com/wp-content/uploads/2026/10/DCNF%20-%20CCW%20Dearborn%20Woman%20Boyfriend%20-%20Featured.jpg",
-      "id": "5650fa7c6fe02925fcd6f1e7dc2fca81e6626018",
-      "summary": "Prosecutors in Wayne County, Michigan, say they will not charge a 30-year-old woman with a concealed carry permit who shot and critically wounded a man attacking her boyfriend inside a Dearborn sneaker store, the Daily Caller reports, citing Detroit station WXYZ. Surveillance video from the White House Kicks store on Saturday appears to show the 36-year-old boyfriend greeting a customer before another man attacks him. “They started fighting, then — lady pulls out her gun and then protects her boyfriend,” a witness said, estimating she fired three or four shots. Dearborn Police Chief Issa Shahin said the men appeared to know each other and that the charging decision belonged to Prosecutor Kym Worthy, adding that charges may yet be filed against the people who started the fight. The wounded man was shot in the back."
-    },
-    {
-      "n": 14,
-      "headline": "Jets get WR Adonai Mitchell and LG Dylan Parham back at practice before the Dolphins game, but Breece Hall still sits",
-      "cat": "Sports / Jets",
-      "source": "New York Jets",
-      "url": "https://www.newyorkjets.com/news/adonai-mitchell-dylan-parham-return-to-practice-for-jets-10-21-2026",
-      "image_local": "images/story-1280.jpg",
-      "image_remote": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/jets/lvzkqqmcoy0lhyg5k4ka",
-      "id": "09e3858cb2042b7861169c042cc66664a5e0d51f",
-      "summary": "Wide receiver Adonai Mitchell and left guard Dylan Parham returned to practice on a limited basis Wednesday as the Jets began preparing for Sunday’s home AFC East matchup with Miami, the team reports. Mitchell has missed four games after injuring his finger before Week 3 and having a hand procedure; if he plays, the Jets would have their full set of pass catchers for the first time since their season-opening win in Nashville. Parham, who started the first three games, hurt his knee in the loss at Detroit, and Jordan Meredith has started in his place since. Running back Breece Hall (quad) did not practice, though coach Aaron Glenn said, “I love his progression.” Braelon Allen has filled in well, with 220 scrimmage yards over the last two games, ninth-most in the league. Glenn said edge Joseph Ossai (ankle) and linebacker Kiko Mauigoa (thigh) are week-to-week, while DT T’Vondre Sweat and edge Will McDonald IV were limited."
-    },
-    {
-      "n": 15,
-      "headline": "A reviewer’s machine folded the iPhone Duo more than 32,000 times, and the hinge came out feeling the same, even a bit stiffer",
-      "cat": "Apple / iPhone",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/10/21/iphone-duo-fold-test-hinge/",
-      "image_local": "images/story-1281.jpg",
-      "image_remote": "https://images.macrumors.com/t/8yz_RbDSIOInfvzgfALDsbhOvRc=/1800x/article-new/2026/10/joanna-stern-fold-test.jpg",
-      "id": "3ffbf88b48037ca766592d5d37d02b0253245620",
-      "summary": "Apple hasn’t published hinge-durability numbers for the iPhone Duo the way Samsung does, so tech reviewer Joanna Stern built a custom machine that folded her review unit more than 32,000 times over four nights, MacRumors reports. Stern said the hinge sometimes seemed to be loosening as the count went up, but a calibrated push-pull gauge showed it was actually slightly stiffer afterward. “After 32,000 folds, it felt pretty much the same as day one, which is pretty darn impressive,” she said. She didn’t say whether the crease became more visible, and the test was done with a case on and without fully closing the phone each time. For comparison, Samsung Display says the Galaxy Z Fold7’s screen passed a 500,000-fold test in 2025. MacRumors expects more unofficial stress tests ahead of the Duo’s release."
-    },
-    {
-      "n": 16,
-      "headline": "Anthropic launches Claude Duet, a proactive AI agent that checks your apps, briefs you each morning and does tasks on its own",
-      "cat": "AI / Tools",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/10/21/anthropic-claude-duet/",
-      "image_local": "images/story-1282.jpg",
-      "image_remote": "https://images.macrumors.com/t/5v3SEszlh4H0v29GfpQnHJvImds=/3840x/article-new/2026/10/claude-duet.jpg",
-      "id": "6f2ed72bc11e50d5ffe344689422a5bc1d9255ff",
-      "summary": "Anthropic on Wednesday introduced Claude Duet, a proactive AI agent meant to rival Meta’s Muse and OpenAI’s Dots, MacRumors reports. Duet connects to a user’s apps, sends a short brief each morning on important items, checks in every few hours, and alerts the user when something needs attention. It runs in the cloud on its own virtual machine with a browser, so it can finish tasks without access to the user’s computer, from simple admin chores to building web apps. Anthropic says it will ask for approval before sending a message, making a payment, signing a document or deleting a file, and that it does not see passwords or logins for connected accounts. Built on Opus 5.5, Duet uses the memory, skills and connected apps already in a Claude account and keeps everything in one ongoing thread. It is a research preview by waitlist for Pro and Max subscribers in the U.S., on the web and in a standalone iOS app, and counts against existing plan limits."
-    },
-    {
-      "n": 17,
-      "headline": "Sharon Osbourne says she never told Black Sabbath that doctors warned the farewell show could kill Ozzy",
-      "cat": "Music / Metal",
-      "source": "Louder",
-      "url": "https://www.loudersound.com/bands-artists/sharon-osbourne-kept-black-sabbath-in-the-dark-about-doctors-warnings-that-their-back-to-the-beginning-farewell-show-could-kill-ozzy-osbourne",
-      "image_local": "images/story-1283.jpg",
-      "image_remote": "https://cdn.mos.cms.futurecdn.net/7dL9TgSCVMdVoNW7D5q9dU-1280-80.jpg",
-      "id": "7f060b7a7e2d39b6c1f9c6706cf6afe08018b91a",
-      "summary": "Sharon Osbourne says she kept doctors’ warnings about Ozzy Osbourne’s health from Tony Iommi, Geezer Butler and Bill Ward ahead of Black Sabbath’s Back To The Beginning farewell show, Louder reports. Speaking at a London screening of the upcoming documentary Monday night, she said, “The guys didn’t know how sick Ozzy was. Nobody knew,” adding that even their children weren’t told. She had earlier told Rolling Stone that doctors in England strongly advised against the July 5, 2025, show at Villa Park in Birmingham, saying it could kill him, but that Ozzy insisted: “I know I’m dying… This is what I want.” The show near his childhood home in Aston featured Metallica, Slayer, Guns N’ Roses, Tool, Anthrax and others and raised money for local charities. Sharon said Ozzy was “flying high” afterward, “laughing, telling jokes again,” until the day he died. Ozzy & Black Sabbath: Back To The Beginning opens in cinemas worldwide Oct. 28."
-    },
-    {
-      "n": 18,
-      "headline": "Fairfield police recover every dollar of $7,000 a resident handed over in a fake-arrest bail scam",
-      "cat": "Local / Connecticut",
-      "source": "Patch Fairfield",
-      "url": "https://patch.com/connecticut/fairfield/fairfield-police-recover-7-000-stolen-resident-phone-bail-scam",
-      "image_local": "",
-      "image_remote": "",
-      "id": "2fbdb796922a0b66ab2631ca1022a5c2459e41cb",
-      "summary": "Fairfield police have recovered $7,000 stolen from a resident who was tricked into believing her son had been arrested after a car accident and needed bail money, Patch reports. A caller posing as her son and a second caller pretending to be an attorney told her to withdraw cash and arrange a pickup, and she handed the money to a driver. Officers tracked down the driver, who turned out to be a rideshare driver hired without knowing about the scam, and returned the full amount. “Recovering money lost to financial scams is uncommon,” the department said, urging residents to report fraud quickly. Police reminded residents that they never send messengers to collect bail or take bail payments by phone or credit card, and that anyone who gets a call saying a relative has been arrested should check by calling the police department at an independently found number."
-    },
-    {
       "n": 19,
-      "headline": "Trumbull Health Department holds walk-in flu clinics this week, including Wednesday evening 6–8 p.m. at 335 White Plains Road",
+      "headline": "Trumbull’s Kids Pumpkin Fest is Sunday on the Town Hall Green with pumpkin decorating, a live DJ and touch-a-truck",
       "cat": "Local / Trumbull CT",
-      "source": "Town of Trumbull",
-      "url": "https://www.trumbull-ct.gov/CivicAlerts.aspx?AID=3203",
-      "image_local": "images/story-1231.jpg",
-      "image_remote": "https://www.trumbull-ct.gov/ImageRepository/Document?documentID=1651",
-      "id": "46d5087788faff92312dfd4acefbdab324a2c3cc",
-      "summary": "The Trumbull Health Department is running walk-in flu clinics this week at 335 White Plains Road, the town announced Tuesday. Sessions are today, Tuesday, Oct. 20, from 10 a.m. to noon and 2 to 4 p.m., and Wednesday, Oct. 21, from 6 to 8 p.m. No appointment is required. The department is offering pediatric nasal and standard flu vaccines for children 3 and older, along with adult and senior doses, while supplies last."
+      "source": "Patch Trumbull",
+      "url": "https://patch.com/connecticut/trumbull/details-announced-trumbull-kids-pumpkin-fest-event",
+      "image_local": "images/story-1290.jpg",
+      "image_remote": "https://patch.com/img/cdn20/users/22878689/20261021/061907/styles/patch_image/public/img-3273___21180726116.jpg",
+      "id": "dfe92765169a6882e7b5e4911b702364acb17725",
+      "summary": "Trumbull’s annual Kids Pumpkin Fest runs this Sunday, Oct. 25, from 10 a.m. to 1 p.m. on the Town Hall Green at 5866 Main Street, Patch reports. The free family event features pumpkin decorating, face painting, lawn games, crafts and a live DJ, plus a touch-a-truck with the Long Hill Fire and Trumbull Police departments and crafts with the Trumbull Nature and Arts Center. Mobile coffee trailer Brewberry Cafe will serve a seasonal menu."
     },
     {
       "n": 20,

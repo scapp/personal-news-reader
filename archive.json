@@ -1437,7 +1437,16 @@
     "3f396123b73688e06c2686156d7f48e0c8ae6c55",
     "dfe92765169a6882e7b5e4911b702364acb17725",
     "263229859f0ad872dd338894ed49583668a18c5b",
-    "cbeab80a12df9e9efa760fd0c3dfa9710259f25a"
+    "cbeab80a12df9e9efa760fd0c3dfa9710259f25a",
+    "3bdee00d78c74e32060e88ba2009ec89af6c72cb",
+    "bc722e7dff72e2d6ee738cf70fe8b06e89ae5369",
+    "2df3ae2b7e22a02a9ddec91a2831f9e361b20592",
+    "51a14c81ac15fd8ceed4acd833bc0ca0727ddfa7",
+    "2e5d3412f78ce4b270d4ebfe9af2ff1e9f0fda1f",
+    "e94b1aacbc9816b1c4ef1d6f530662636b426875",
+    "a6125999437823d4c2e304d65ba4491756f4ff0c",
+    "405840861fd5346ca94eab925958e83798aaa6d2",
+    "aca4a8bb1d8a988e942e3a408d48c6bbb154ff50"
   ],
   "stories": {
     "0c2ac7a5e342411678296315c4c59043b1f067cc": {
@@ -17175,7 +17184,97 @@
       "image_remote": "",
       "image_local": "",
       "id": "cbeab80a12df9e9efa760fd0c3dfa9710259f25a"
+    },
+    "3bdee00d78c74e32060e88ba2009ec89af6c72cb": {
+      "headline": "Hours after Witkoff’s talks with Putin, Russia fires three waves of ballistic missiles at Kyiv",
+      "cat": "World / Ukraine",
+      "source": "ABC News",
+      "url": "https://abcnews.com/International/russia-fires-3-waves-ballistic-missiles-kyiv-after/story?id=137469151",
+      "summary": "Russia hit Kyiv with an intense overnight missile and drone barrage just hours after President Trump’s envoy Steve Witkoff met Vladimir Putin in St. Petersburg, ABC News reports. President Zelensky said Russia fired 21 ballistic missiles at the capital in three waves, striking homes, energy infrastructure, a railway station, the metro, shopping centers and even a monastery; at least two people were killed and 34 injured in and around Kyiv. Ukraine’s air force said none of the missiles were intercepted, while 181 of 210 drones were downed, and another Russian strike on a market in the Kharkiv region killed two more. Witkoff called his talks “constructive” and said trilateral technical-level talks will continue, but Zelensky called the strikes “demonstrative,” said they show “no real changes” in Moscow’s attitude, and jabbed at Witkoff’s description of Putin as a “humanitarian.” Ukraine answered with one of its largest drone attacks of the year on Moscow, which forced temporary closures at all four of the city’s international airports.",
+      "image_remote": "https://i.abcnewsfe.com/a/0399fc28-0fab-4254-b3ae-3cc866edd1c0/Kyiv-fire-DB-261022_1792662335508_hpMain_16x9.jpg?w=1600",
+      "image_local": "images/story-1292.jpg",
+      "id": "3bdee00d78c74e32060e88ba2009ec89af6c72cb"
+    },
+    "bc722e7dff72e2d6ee738cf70fe8b06e89ae5369": {
+      "headline": "Judge refuses Lindsay Clancy’s lawyers’ bid to question the holdout juror who forced her mistrial",
+      "cat": "Crime / Courts",
+      "source": "ABC11 / ABC News",
+      "url": "https://abc11.com/story/lindsay-clancy-murder-trial-judge-denies-request-question-holdout-juror/19966001/",
+      "summary": "A Massachusetts judge has denied a request from Lindsay Clancy’s defense team to question the lone holdout juror who forced a mistrial in her triple-murder case, ABC News reports. Judge William Sullivan wrote that “any further judicial inquiry is inappropriate” because the court must not delve into a juror’s reasoning, views or relationships with other jurors, or into the jury’s deliberations. The jury split 11-1 in favor of finding Clancy not guilty by reason of insanity after a seven-week trial this summer. Her lawyers want the indictment dismissed, arguing the judge didn’t properly look into the holdout before declaring a mistrial, and had sought an evidentiary hearing on whether he lied on his questionnaire or used his phone during deliberations; Sullivan found they hadn’t shown they were entitled to one. Clancy, the former nurse charged in the 2023 deaths of her three children in Duxbury, is due back in court Nov. 2.",
+      "image_remote": "https://cdn.abcotvs.com/dip/images/19966020_clancy-file.png?w=1600",
+      "image_local": "images/story-1293.jpg",
+      "id": "bc722e7dff72e2d6ee738cf70fe8b06e89ae5369"
+    },
+    "2df3ae2b7e22a02a9ddec91a2831f9e361b20592": {
+      "headline": "Apple reportedly boosts iPhone Duo orders by 44% to 14 million on the eve of Friday’s launch",
+      "cat": "Apple / iPhone",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/22/apple-boosts-iphone-duo-orders/",
+      "summary": "Strong pre-orders have reportedly pushed Apple to order millions more iPhone Duo units from suppliers, MacRumors reports, citing DigiTimes. Supply-chain sources said Foxconn and component makers received instructions reflecting a roughly 44% increase, from 9.7 million to 14 million devices over a full 12-month period. Apple has called demand “nothing short of extraordinary,” and within 30 minutes of pre-orders opening Oct. 16, U.S. shipping estimates had slipped to Jan. 25 across every configuration. Hitting the higher target could still be hard: DigiTimes said output depends on assembly progress after earlier reports of trouble with assembly, displays and hinges. The $1,999 foldable launches Friday, Oct. 23.",
+      "image_remote": "https://images.macrumors.com/t/tkgAfj-OUpbVmWLeFk2rwQNa--Y=/1886x/article-new/2026/10/iPhone-Duo-Hinge-Feature-1.jpg",
+      "image_local": "images/story-1294.jpg",
+      "id": "2df3ae2b7e22a02a9ddec91a2831f9e361b20592"
+    },
+    "51a14c81ac15fd8ceed4acd833bc0ca0727ddfa7": {
+      "headline": "Musk says his Terafab chip plant will make its first test chip by mid-2027, with real production in late 2028",
+      "cat": "Elon Musk / Tech",
+      "source": "Gizmodo",
+      "url": "https://gizmodo.com/elon-musk-claims-his-terafab-will-produce-its-first-chip-by-mid-2027-2000829167",
+      "summary": "Elon Musk said on Tesla’s earnings call that Terafab, the giant chip factory he announced in Austin in March, is “progressing quickly,” Gizmodo reports. “We’ll begin commissioning machinery in the first half of next year, and hopefully if things go well, we’ll make our first test chip, just to see if we can make any chip at all, around May or June,” he said, adding that “real production would be late ’28, which is lightning fast by fab standards.” Terafab is a joint venture between SpaceX and Tesla, which are also discussing a merger, and Musk said the two still have to work out who pays for what — “not going to be less than tens of billions in capital equipment through early 2028, and then it will probably be north of 100 billion long term.” Gizmodo notes chip fabs are notoriously slow and costly to build in the U.S., and that Musk has a history of optimistic timelines.",
+      "image_remote": "https://gizmodo.com/app/uploads/2026/10/GettyImages-2299248528-1200x675.jpg",
+      "image_local": "images/story-1295.jpg",
+      "id": "51a14c81ac15fd8ceed4acd833bc0ca0727ddfa7"
+    },
+    "2e5d3412f78ce4b270d4ebfe9af2ff1e9f0fda1f": {
+      "headline": "Jeep Wrangler production halted in Toledo after a nearby chemical leak forces evacuations",
+      "cat": "Jeep / Autos",
+      "source": "CBT News",
+      "url": "https://www.cbtnews.com/stellantis-halts-wrangler-production/",
+      "summary": "Stellantis halted production at the north plant of its Toledo Assembly Complex, which builds the Jeep Wrangler, after a hazardous chemical release about a mile away, CBT News reports. Workers were sent home Tuesday night and the first and second shifts were canceled Wednesday. The leak at the MC Tank Transport terminal on Progress Avenue involved glycidyl methacrylate, an industrial chemical used in plastics, paints and coatings that can irritate the eyes, nose, mouth and skin. Toledo Fire & Rescue ordered everyone within a mile to evacuate and those within three miles to shelter in place; by Wednesday evening the evacuation zone was cut to a half-mile and the shelter order lifted. City officials said tap water was not contaminated, and no serious injuries were reported.",
+      "image_remote": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2026/10/Stellantis-fire.webp",
+      "image_local": "images/story-1296.jpg",
+      "id": "2e5d3412f78ce4b270d4ebfe9af2ff1e9f0fda1f"
+    },
+    "e94b1aacbc9816b1c4ef1d6f530662636b426875": {
+      "headline": "Review: Tony Iommi keeps the Black Sabbath flame burning on his first solo album in 21 years, “From The Dark”",
+      "cat": "Music / Metal",
+      "source": "Louder",
+      "url": "https://www.loudersound.com/music/albums/tony-iommi-from-the-dark",
+      "summary": "With Ozzy gone and Geezer Butler and Bill Ward all but retired, it falls to Tony Iommi to keep Black Sabbath’s fire going, and Louder’s review says he does on “From The Dark,” his first solo album in 21 years, out Friday. Teamed with Norwegian singer Jørn Lande, who co-wrote all eight songs and sometimes sounds uncannily like David Coverdale, Iommi works in the style of the Dio-fronted Sabbath and Heaven & Hell, backed by bassist Becky Baldwin and drummer Karl Brazil. Highlights include the hammer-to-the-anvil opener “Over The Violent Sun,” the “brutal boogie” of first single “World Alone,” “Stormwatcher,” and “Death Wake,” which features a lead break from Brian May. The reviewer saves the most praise for closer “Legacy,” calling it “absolute killer, gold-standard Iommi.”",
+      "image_remote": "https://cdn.mos.cms.futurecdn.net/oadbDXRg2JRdNori2sD58M-1280-80.jpg",
+      "image_local": "images/story-1297.jpg",
+      "id": "e94b1aacbc9816b1c4ef1d6f530662636b426875"
+    },
+    "a6125999437823d4c2e304d65ba4491756f4ff0c": {
+      "headline": "Nikon’s Small World microscope-photo contest is won by a frozen-in-midair look at an inkjet printer laying ink on paper",
+      "cat": "Photography",
+      "source": "DPReview (via Yahoo)",
+      "url": "https://www.yahoo.com/lifestyle/articles/winner-nikon-small-world-competition-054709335.html",
+      "summary": "Nikon has named the winners of its 52nd Small World Photomicrography Competition, which drew more than 1,800 entries from 69 countries, and first place went to an image of what happens inside a printer as it puts ink on paper, DPReview reports. German photographer Ole Bielfeldt, who creates under the name macrofying, built his own imaging rig around a microscope objective. His first tries failed because the printhead moved too fast to keep in focus and the droplets outran his shutter, so he reverse-engineered the printer to move the paper under a stationary printhead, then worked in a dark room and used a flash to freeze the droplets midair. “It turned out I already had everything I needed,” he said. The top 20 images also include views inside a pen and a pencil and plenty of cells.",
+      "image_remote": "https://media.zenfs.com/en/dpreview_articles_177/05dbbfed81fb14cae5311fe6fe437a70.jpg",
+      "image_local": "images/story-1298.jpg",
+      "id": "a6125999437823d4c2e304d65ba4491756f4ff0c"
+    },
+    "405840861fd5346ca94eab925958e83798aaa6d2": {
+      "headline": "Federal judge orders DHS to stop door-to-door noncitizen voter checks in nine states until Election Day",
+      "cat": "Immigration / Elections",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/judge-dhs-noncitizen-voters-ruling/",
+      "summary": "A federal judge ruled late Wednesday that the Department of Homeland Security’s practice of knocking on doors to ask people about their immigration status and recent voting likely violates the Voting Rights Act, CBS News reports. U.S. District Judge Araceli Martinez-Olguin ordered immigration authorities to stop “elections-related field operations and field interviews” in nine states, including California and New York, when they are likely to involve people officials know or should suspect are U.S. citizens. The order lasts until polls close on Election Day but is stayed until 5 p.m. Friday so the administration can appeal. The Trump administration says the operation is part of its crackdown on noncitizen voting. The judge wrote that investigating unlawful voting is not itself illegal but cited a “high likelihood of error” in how DHS built its target lists from agency and commercial data. The suit was brought by groups including the California Nurses Association and National Nurses United.",
+      "image_remote": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/21/1abddba8-37c2-42be-9b6f-9307c8b7d7ac/thumbnail/1200x630/27078c641fe36ee0e8f2ab156c42758c/cbsn-fusion-armed-dhs-agents-knock-on-doors-in-search-for-possible-noncitizen-voters-thumbnail.jpg",
+      "image_local": "images/story-1299.jpg",
+      "id": "405840861fd5346ca94eab925958e83798aaa6d2"
+    },
+    "aca4a8bb1d8a988e942e3a408d48c6bbb154ff50": {
+      "headline": "Garrett Wilson, targeted just twice before the fourth quarter in New England, says wanting the ball “ain’t disruptive” ahead of Dolphins week",
+      "cat": "Sports / Jets",
+      "source": "Heavy",
+      "url": "https://heavy.com/sports/nfl/new-york-jets/garrett-wilson-blunt-frustration-offense/",
+      "summary": "Jets receiver Garrett Wilson is walking a fine line on his role in the offense, Heavy reports. After a 100-yard, touchdown game, he caught just four passes for 44 yards in Sunday’s loss to the Patriots and drew only two targets before the fourth quarter. Asked Wednesday by the AP how he can push for more targets without seeming like a malcontent, Wilson said, “it usually ain’t disruptive, like, let’s do it, you know, and that’s the mentality that all of us have being competitors,” adding, “For me, it’s kind of just getting my feet wet early and then, you know, let’s ride, I’m ready to go.” Heavy reads it as the team’s highest-paid player saying the right things while making clear he wants to be involved early. The Jets host the winless Dolphins on Sunday.",
+      "image_remote": "https://heavy.com/wp-content/uploads/2026/10/new-york-jets-v-chicago-bears-chicago-illinois-october-04-garrett-2-e1792649115227.jpg?quality=65&strip=all",
+      "image_local": "images/story-1300.jpg",
+      "id": "aca4a8bb1d8a988e942e3a408d48c6bbb154ff50"
     }
   },
-  "updated": "Wednesday, October 21, 2026 · 10:06 PM ET"
+  "updated": "Thursday, October 22, 2026 · 7:05 AM ET"
 }
