@@ -1,8 +1,107 @@
 {
-  "updated": "Friday, October 23, 2026 · 4:11 PM ET",
+  "updated": "Friday, October 23, 2026 · 6:07 PM ET",
   "stories": [
     {
       "n": 1,
+      "headline": "France probes a deadly shooting in Trappes as a “terrorist crime” on the eve of Saturday’s protests",
+      "cat": "World / France",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/world/france-edge-70000-police-deployed-unrest-authorities-probe-suspected-terror-attack-near-paris",
+      "image_local": "images/story-1358.jpg",
+      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/french-police-paris.jpg",
+      "id": "3abda560874b3fbe76dac9f743c573a694b01149",
+      "summary": "A gunman firing from a vehicle in Trappes, west of Paris, killed one person and wounded four others, including a 12-year-old girl, on Friday, and police arrested a 39-year-old man. The shooting was first described as “relatively random,” but Interior Minister Laurent Nuñez later told local media that “the motive may be racist. The investigation is ongoing, but this is clearly a terrorist crime.” The town’s mayor said the dead victim and at least one of the wounded were “of African origin.” The attack comes as France deploys 70,000 police and gendarmes, with helicopters, armored vehicles and water cannons, ahead of another weekend of planned protests. President Macron, who canceled a trip to Nigeria and Senegal, blamed last Saturday’s violence on “ultra-left groups whose aim is to bring down the Republic” and said protests by groups with “no legitimate authority” will be banned. Student union UNEF and the Yellow Vests say they will rally anyway. The Louvre, the Musée d’Orsay and 24 metro stations will close Saturday, and Sunday’s PSG–Lyon match was pushed to Monday, while the Steelers–Saints NFL game at Stade de France is still on."
+    },
+    {
+      "n": 2,
+      "headline": "New Pentagon UFO files describe a silent black triangle that hovered over a ridge, then shot off like a fighter jet",
+      "cat": "Government / UFOs",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/ufo-files-pentagon-triangular-craft/",
+      "image_local": "images/story-1359.jpg",
+      "image_remote": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/23/d30caa55-8792-4014-8998-8471a8e64661/thumbnail/1200x630/bb789382a0429331e0033a2c642d192f/screenshot-2026-10-23-at-4-18-51-pm.png",
+      "id": "0499c383d052cd10d1cbab02479a5b63189eb310",
+      "summary": "Federal agents guarding an unnamed “national security site” in the western U.S. told the FBI that in June they watched a “substantial, nonreflective, dark black triangular object most resembling a delta wing drone” rise straight up over a ridgeline at dusk, according to documents the Pentagon released Friday. They put its wingspan at nine to fifteen feet. The craft climbed 200 to 300 feet without tilting or wobbling, hovered perfectly still for about 20 seconds, then sped off at a speed “compared to that [of] a military fighter jet,” all in what the Pentagon’s All-domain Anomaly Resolution Office called “absolute acoustic silence.” Through an infrared scope it looked warmer than its surroundings but gave off no exhaust, and a ground search the next morning found no wreckage or disturbance. The 28 files are the seventh batch released under an executive order President Trump signed this year requiring disclosure of sensitive UAP records. AARO said the sighting “warrant[s] further investigation” because it closely matches other reports from federal agents in the West, including orange orbs that released smaller red orbs in 2023."
+    },
+    {
+      "n": 3,
+      "headline": "Hackers jailbreak the iPhone Duo within hours of its launch",
+      "cat": "Apple / iPhone",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/23/iphone-duo-jailbreak/",
+      "image_local": "images/story-1360.jpg",
+      "image_remote": "https://images.macrumors.com/t/Im11BUuuIFrgQlKCgYNZc5nbdm8=/2500x/article-new/2026/10/iPhone-Duo-AAAAAAAHHHHHPP-Icons-Feature.jpg",
+      "id": "8a5da9c984a3ad68ca0a9f8e0bd911c6306a6ab8",
+      "summary": "Just hours after the iPhone Duo went on sale Friday, hacker team Calif showed one running iOS 27.1 jailbroken, with its icons and widgets bouncing around the screen and an anime character added to the display. Last week the group posted videos of an untethered jailbreak on an iPhone 18 Pro running iOS 27.0.1, which rebooted with root access still available. Calif has not released the jailbreak, and security researcher Stefan Esser told the German site Heise there won’t be a tool for “end users,” though a proof of concept may follow. Esser said the iOS 27.0.1 jailbreak relied on bugs Calif has already disclosed or plans to disclose to Apple soon, and that “most” of them are fixed in the upcoming iOS 27.2 update. He said AI was used to help develop the jailbreak but did not explain how."
+    },
+    {
+      "n": 4,
+      "headline": "Irvine realtor accused of spying on Taiwan’s president’s son for China pleads not guilty; trial set for Nov. 30",
+      "cat": "Crime / Courts",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/wanying-zhang-alleged-chinese-agent-pleads-not-guilty/",
+      "image_local": "images/story-1361.jpg",
+      "image_remote": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/06/b0956aac-5495-4ad8-a417-acdafb368581/thumbnail/1200x630/75f41722d5e7ce17340fc94d32fdabd4/wanying-22heather22-zhang.jpg",
+      "id": "ae18a1b87c9aceeca1be77d63bc81e2b4ac1d9cb",
+      "summary": "Wanying Zhang, a 34-year-old Southern California realtor accused of acting as an agent of China, pleaded not guilty Friday in a Los Angeles federal courtroom, appearing in a white jumpsuit and shackles and speaking only to deny the charge. Prosecutors say she surveilled the son of Taiwan’s president in a Seattle suburb in September 2025 on what they called a spy mission arranged with Chinese intelligence officials. She was arrested earlier this month at LAX while trying to board a flight to China and faces one count of acting as an unregistered agent of the Chinese government. Her husband, Edric Ding, who works with her at the same Irvine real estate firm and had come to earlier hearings, was not there. Prosecutors recently alleged in a filing that Zhang was having an affair with a man who went with her on the Washington trip; CBS identified him as construction entrepreneur Fatai Miao, who has since left for China on a one-way ticket and has not been charged. A pretrial hearing is set for Nov. 12, and the roughly four-day trial is scheduled to begin Nov. 30 in Santa Ana."
+    },
+    {
+      "n": 5,
+      "headline": "Trump lifts 50% tariffs on Canadian boxes, packing gear and seaweed that Maine farmers rely on, a win for Sen. Susan Collins",
+      "cat": "Politics / Trade",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/trump-tariffs-some-canadian-goods-susan-collins-maine/",
+      "image_local": "images/story-1362.jpg",
+      "image_remote": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/23/42baf338-f317-463e-9893-ff49ec21e85d/thumbnail/1200x630/3d819b8cd88da4fd0b6f6ba1a4d45ffc/gettyimages-2299866034.jpg",
+      "id": "b3bf09927d07e27155701687356dcfd7d2c4b2b4",
+      "summary": "President Trump on Friday removed 50% tariffs on a handful of Canadian products widely used by Maine’s farms and fisheries, including corrugated boxes, crates, plastic sacks, packing machinery, refrigeration equipment and seaweed, according to a White House proclamation. In exchange, several other Canadian goods were newly hit with 50% duties, among them shampoo, vinyl flooring, coffins, carpets and window air conditioners. Republican Sen. Susan Collins, who is seeking a sixth term in a blue-leaning state, said she had asked administration officials for the relief, which she said protects wild blueberry growers who depend on “specialized harvesting boxes from Canada” as well as apple and potato farmers. “Many of our farmers and growers rely on specialized equipment, packaging materials, and other products from Canada that are either unavailable from American suppliers or cannot be replaced without incurring significant expense,” she said. Democrats called the carve-outs political; Rep. Richard Neal of Massachusetts said lowering tariffs for a political ally 11 days before the election was a “desperate admission of failed trade policy.”"
+    },
+    {
+      "n": 6,
+      "headline": "Tony Iommi says the lost tapes for Black Sabbath’s “Born Again” have turned up, and a remix is “definitely gonna” happen",
+      "cat": "Music / Metal",
+      "source": "Blabbermouth",
+      "url": "https://blabbermouth.net/news/tony-iommi-says-there-are-still-plans-to-remix-black-sabbaths-born-again-album-were-definitely-gonna-give-it-a-go",
+      "image_local": "images/story-1363.jpg",
+      "image_remote": "https://assets.blabbermouth.net/media/tonyiommioct2026planetnew_638.jpg",
+      "id": "28f73b6431625bbb67c9da3469dd8b4e88c981ca",
+      "summary": "Black Sabbath guitarist Tony Iommi told Planet Rock’s Ian Danter that he still plans to remix “Born Again,” the band’s 1983 album with Deep Purple singer Ian Gillan and the last Sabbath studio record with drummer Bill Ward. “To be honest, we couldn’t find those tapes for a long time. They disappeared,” Iommi said; they eventually turned up in record company storage, have been transferred and are ready to work on. He admitted many fans have gotten used to the album’s notoriously murky sound and may say a remix isn’t as good, but said the band thought it sounded great in the studio, then heard it on the charts while on tour and wondered, “God, it’s really muffly. What happened?” Gillan himself has called the original mix “outrageous.”"
+    },
+    {
+      "n": 7,
+      "headline": "France reports the first known human case of Shamonda, a livestock virus spread by biting midges; the patient died",
+      "cat": "Health / Science",
+      "source": "Gizmodo",
+      "url": "https://gizmodo.com/an-obscure-livestock-virus-has-been-found-in-a-human-for-the-first-time-and-he-didnt-survive-2000829961",
+      "image_local": "images/story-1364.jpg",
+      "image_remote": "https://gizmodo.com/app/uploads/2026/10/French-Cattle-1200x675.jpg",
+      "id": "7bc737dfecbb80a5106e3d3d12978d0b6b4e3d6b",
+      "summary": "Health officials in France have reported the first known human infection with Shamonda virus, which normally infects cattle, sheep and goats and is spread by the bites of tiny Culicoides midges. The patient, a Lyon man in his 60s who was already hospitalized for another condition and severely immunocompromised, developed brain-related symptoms and died in early October; officials think he was bitten in eastern France, where the virus had been circulating, and say his weakened health probably contributed to his death. Shamonda, a close relative of the Schmallenberg virus, was discovered in Nigeria in 1965 and had been seen in Africa and Japan before turning up in cattle in southern Germany and Switzerland in June, its first appearance in Europe; it has since spread to other countries, including France. Scientists are still studying how much of a threat it poses to people, but officials say the risk to the general public is likely minimal for now."
+    },
+    {
+      "n": 8,
+      "headline": "The Dallas Cowboys Cheerleaders form a union, believed to be a first among pro sports cheer squads",
+      "cat": "Sports / NFL",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/sports/football/dallas-cowboys-cheerleaders-are-unionizing-rcna605285",
+      "image_local": "images/story-1365.jpg",
+      "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261023-dallas-cheerleaders-sjr-1548-029ff8.jpg",
+      "id": "ae27c769e16c08e5cb2af84b0470c19809362318",
+      "summary": "The Dallas Cowboys Cheerleaders have formed a union, and the team has already recognized the bargaining unit, according to a brief joint statement Friday from the Cowboys and the Dallas Cowboys Cheerleaders Association, which said the agreement followed “meaningful discussion.” It is believed to be the first union among any pro sports cheerleading squad, apart from a short-lived effort by the Buffalo Bills’ “Buffalo Jills” in the mid-1990s. The next step is negotiating a contract for the 36-member squad, though it isn’t clear how many will be represented. Netflix’s series “America’s Sweethearts” brought new attention to the cheerleaders and helped win them a 400% raise for the 2025 season, with some veterans reportedly earning more than $75 an hour. During the Cowboys’ 1990s heyday they made as little as $15 a game, and a former cheerleader’s lawsuit alleging pay below minimum wage was settled by the team."
+    },
+    {
+      "n": 9,
+      "headline": "A Roman coffin dug up at Westminster Abbey was reused by medieval monks, and researchers think they know for whom",
+      "cat": "History / Archaeology",
+      "source": "Gizmodo",
+      "url": "https://gizmodo.com/someone-reused-this-roman-sarcophagus-we-may-finally-know-whos-inside-2000829969",
+      "image_local": "images/story-1366.jpg",
+      "image_remote": "https://gizmodo.com/app/uploads/2026/10/4th-century-Roman-sarcophagus-Westminster-1200x675.jpeg",
+      "id": "a288d5027ad62ff50be119f2afdcf287609ad181",
+      "summary": "A 4th-century Roman limestone sarcophagus unearthed beside Westminster Abbey more than 200 years ago carries three lines of Latin saying it held one Valerius Amandinus of Roman London, but sometime in the 11th century his body was replaced. The giveaway was its lid, a tapered late Anglo-Saxon slab carved with an early medieval cross. Now carbon dating, a dig through the abbey’s medieval records and a closer study of the coffin have narrowed its later occupant to two 11th-century abbots of Westminster: Ælfwig, who led the monastery from 993 to 1020, and his successor Wulfnoth, abbot until 1049. Abbey archaeologist Warwick Rodwell, writing Tuesday in the Journal of the British Archaeological Association, favors Ælfwig, noting he was already a Westminster monk when elected and “there is no evidence to suggest that he ever left the abbey,” so “there can be little doubt that he was buried in his abbey.”"
+    },
+    {
+      "n": 10,
       "headline": "“Crackgate”? Some iPhone Duo owners say their screens broke along the hinge on launch day",
       "cat": "Apple / iPhone",
       "source": "MacRumors",
@@ -13,7 +112,7 @@
       "summary": "Hours into the iPhone Duo’s launch, photos on Reddit and the MacRumors forums show some of Apple’s new foldables with display failures, almost all of them right along the hinge and most leaving a line of bright pixels across one side of the screen. One owner in Australia said he had the phone for about six hours and had opened it fewer than 20 times when he felt something under the screen near the hinge and heard an audible crack; there were no marks on the inner screen or the hinge beforehand. Apple replaced it on the spot at an Apple Store. Several images come from demo units in China, where the backstory is unknown and user damage may be a factor, and early reviewers who ran folding tests didn’t see problems. MacRumors notes some failures are expected with so many phones shipping, that hinge failures from normal use should be covered by the one-year warranty, and that buyers have two weeks to return the phone."
     },
     {
-      "n": 2,
+      "n": 11,
       "headline": "A personalized mRNA melanoma vaccine cut the risk of the cancer returning or death by 42% in a late-stage trial",
       "cat": "Health / Science",
       "source": "NBC News",
@@ -24,7 +123,7 @@
       "summary": "An experimental cancer vaccine from Moderna and Merck, called intismeran, reduced the risk of melanoma coming back or killing patients by 42% compared with standard treatment in a late-stage trial, results some oncologists are calling a breakthrough. The vaccine is built for each patient from the genetic data of their own surgically removed tumor. The trial enrolled 1,137 people with Stage 3 melanoma, where the cancer has reached nearby lymph nodes but not distant organs; all had surgery and were taking Merck’s immunotherapy Keytruda, and 757 also got the vaccine while 380 got a placebo. After two years, 82% of the vaccine group had no recurrence versus 70% in the placebo group. “This treatment is about mopping up the cancer cells we can’t see,” said trial leader Dr. Georgina Long of Melanoma Institute Australia. Penn Medicine’s Dr. Robert Vonderheide, who wasn’t involved, called the results a “game changer.” The data will be presented Saturday at the European Society for Medical Oncology meeting in Madrid."
     },
     {
-      "n": 3,
+      "n": 12,
       "headline": "Paris braces for Saturday protests: 70,000 police deployed nationwide and every Apple Store in the city shut",
       "cat": "World / France",
       "source": "AppleInsider",
@@ -35,7 +134,7 @@
       "summary": "France is preparing for another day of demonstrations Saturday, a week after the Oct. 17 protests turned into rioting and looting near Place de la République. Authorities plan to deploy about 70,000 police and gendarmes across the country, have banned gatherings near the Champs-Élysées, rejected a proposed march route from République toward the Opéra, and will close 28 Paris metro stations at 9 a.m. Apple is closing seven French stores on Saturday, including all three in Paris (Champs-Élysées, Opéra and Marché Saint-Germain), which will reopen Sunday from noon to 6 p.m. Looters stripped Apple stores in Lille and Bordeaux last weekend, but stolen demo iPhones brick themselves and display a message that the device is being tracked and police will be alerted. According to the BBC, most of the protests began peacefully, over fuel prices, the cost of living and declining public services."
     },
     {
-      "n": 4,
+      "n": 13,
       "headline": "Former New Haven police chief Karl Jacobson pleads no contest to embezzling informant funds to feed a sports-betting habit",
       "cat": "Crime / Connecticut",
       "source": "NBC Connecticut",
@@ -46,7 +145,7 @@
       "summary": "Former New Haven Police Chief Karl Jacobson pleaded no contest Friday to embezzlement charges stemming from an investigation that began in January while he was still chief. Officers had flagged irregularities in the fund used to pay the department’s confidential informants, and when the three assistant chiefs confronted him, Mayor Justin Elicker said, Jacobson admitted taking the money; he filed retirement papers before a meeting where he was to be put on leave. His arrest warrant says much of the money went to sports betting on DraftKings and FanDuel, where over about a year he wagered nearly $4.5 million, won about $4.2 million and lost more than $214,000. He also told officers he had returned money taken from the Police Activity League fund and was seeking help. “I fixed my alcohol problem. I turned to gambling,” he said, according to the warrant. Outside court Friday he said, “I apologize to the mayor and the city and the officers. I love the city.”"
     },
     {
-      "n": 5,
+      "n": 14,
       "headline": "Justice Department sues to block Alaska’s Senate certification if Sen. Dan Sullivan loses because of the other Dan Sullivan on the ballot",
       "cat": "Politics / Elections",
       "source": "CBS News",
@@ -57,7 +156,7 @@
       "summary": "The Trump administration is suing to keep Alaska’s Senate election from being certified if Republican Sen. Dan Sullivan loses to Democrat Mary Peltola because of a second candidate with the same name. Alaska’s ranked-choice ballot lists four candidates, including a teacher named Daniel J. Sullivan, who appears first as “Sullivan, Daniel J. Jr.” with no party, just above the senator, listed as “Sullivan, Dan S. (Registered Republican) Incumbent.” In its filing Friday, the Justice Department argues the teacher deliberately ran under the same name to confuse voters, that some of the senator’s supporters “likely will inadvertently vote for Daniel J. Sullivan,” and that others may not know how to rank the Republican candidates to defeat Peltola. In June the Alaska Supreme Court ruled he could stay on the ballot, reversing the state elections division, which had found he was trying to “cause voter confusion.” His lawyers say the state had no basis to look into his “private motivations.” Peltola’s campaign did not immediately comment."
     },
     {
-      "n": 6,
+      "n": 15,
       "headline": "Tesla starts building production-quality Optimus robots in Fremont and plans an “Optimus Academy” where they teach themselves",
       "cat": "Tesla / Robots",
       "source": "Teslarati",
@@ -68,7 +167,7 @@
       "summary": "Tesla says it has begun building Optimus humanoid robots on the high-volume line it set up in the Fremont space that made the Model S and Model X until this spring, and that the robots coming off it are “the first production-quality bots that we have manufactured.” The line is sized for a million units a year, and on Wednesday’s earnings call Elon Musk said output should climb toward roughly 20,000 robots a week as it ramps, though he described the early part of that S-curve as a “shallow slope.” Tesla plans to start delivering Optimus to outside companies by the end of next year for dangerous and repetitive jobs. Because Optimus has no fleet like Tesla’s cars to gather real-world training data, the company plans an Optimus Academy where 10,000 to 20,000 robots practice a wide range of tasks and feed what they learn into the next model. Tesla also plans to put its AI5 chip into Optimus next year, and Musk said a new video of AI-driven tasks should arrive within a month or two."
     },
     {
-      "n": 7,
+      "n": 16,
       "headline": "Malkin sits out Penguins practice with an illness as the team tries on blue gear for its new throwback jerseys",
       "cat": "Sports / Penguins",
       "source": "Pensburgh",
@@ -79,7 +178,7 @@
       "summary": "Evgeni Malkin missed Penguins practice Friday with an illness, which may explain why he barely celebrated his goal Thursday night and skipped the usual lap after being named one of the game’s three stars. Forward Egor Chinakhov, who has a lingering minor injury that has had him in and out of the lineup, was also absent ahead of Saturday’s game against the Predators. The Penguins practiced in blue pants and helmets to break in the gear for their “Hometown Remix” alternate jerseys, which debut Nov. 3 at home against Vegas and will be worn ten times this season. The team’s teaser carried a coded message believed to read “What’s old is new,” and one rumored design brings back the “fat” penguin crest from the franchise’s first season in 1967-68, fitting for its 60th year. It will be the Penguins’ first time in blue jerseys since 2013."
     },
     {
-      "n": 8,
+      "n": 17,
       "headline": "System of a Down add two more 2027 Rose Bowl shows, with Gojira opening the third night",
       "cat": "Music / Metal",
       "source": "Consequence",
@@ -90,7 +189,7 @@
       "summary": "System of a Down’s June 5, 2027, concert at the Rose Bowl in Pasadena was billed as the band’s only North American show of the year, but it now has company: the band has added June 6 and June 10 dates at the same stadium. Pierce the Veil will open on June 6, as on the original date, while French metal band Gojira will support on June 10. A Ticketmaster presale is under way for all three shows, and the general on-sale starts Monday, Oct. 26, at 10 a.m. Pacific."
     },
     {
-      "n": 9,
+      "n": 18,
       "headline": "A glowing mold growing on bat droppings, with hibernating bats behind it, wins European Wildlife Photographer of the Year",
       "cat": "Photography",
       "source": "PetaPixel",
@@ -99,105 +198,6 @@
       "image_remote": "https://petapixel.com/assets/uploads/2026/10/european-wildlife-photographer-2026-featured.jpg",
       "id": "dd8ed4b7a0d7e12726f2d149eec02c3fbbcb9e9e",
       "summary": "Hungarian scientist and photographer Imre Potyó has been named European Wildlife Photographer of the Year 2026, beating more than 26,000 entries in the 26th annual competition run by the German Society for Nature Photography. His winning image shows a small pin mold growing on a layer of bat guano, with dozens of lesser horseshoe bats hibernating in the background, lit dimly by a flashlight. Potyó has photographed bats in protected, restricted-access mine tunnels in Hungary for 13 years. He made the shot with a macro lens as a long exposure with focus shifting, during a controlled bat count and without disturbing the animals. The jury said the picture shows how much of life exists “in places we seldom visit and among organisms we rarely notice.” PetaPixel’s gallery includes 20 winning photos from the contest."
-    },
-    {
-      "n": 10,
-      "headline": "iPhone Duo launch day: lines form outside Apple Stores worldwide, but walk-in stock is limited",
-      "cat": "Apple / iPhone",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/10/23/iphone-duo-launch-day-lines-form-at-apple-stores-walk-in-availability-limited/",
-      "image_local": "images/story-1342.jpg",
-      "image_remote": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-Jingan-Shanghai-store-queue-261023.jpg?quality=82&strip=all&resize=1200,628",
-      "id": "1f740d07d2e2ab5f787b9d8b946e9bce4e903a26",
-      "summary": "Apple’s first foldable iPhone went on sale at Apple Stores around the world on Friday, and lines formed overnight from Shanghai to Chicago and Las Vegas, where one reader counted 30 to 40 people at 4:15 a.m. and more than 150 by opening. Apple had warned that in-store inventory would be “limited,” and that appears to be true: store workers are telling disappointed walk-in shoppers to check the Apple Store app Saturday at 10 a.m. ET for new stock. CEO John Ternus marked the launch at the Domain Northside store in Austin, Texas, with retail chief Deirdre O’Brien, the same weekend the city hosts the Formula 1 U.S. Grand Prix that Apple streams in the U.S. Marketing chief Greg Joswiak celebrated at the Fifth Avenue store in New York. The same morning, 9to5Mac reported, Apple passed Nvidia to become the world’s most valuable company."
-    },
-    {
-      "n": 11,
-      "headline": "Two former FBI officials are charged with lying to Congress about their roles in the Hunter Biden laptop probes",
-      "cat": "Politics / Courts",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/politics/ex-fbi-officials-arrested-hunter-biden-laptop-probe-testimony-scrutiny",
-      "image_local": "images/story-1343.jpg",
-      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/hunter-and-abbe-lowell.png",
-      "id": "73b53f401908226defc4f065066d86fa223fe923",
-      "summary": "The Justice Department has charged two former FBI intelligence officials, Nikki Cole Floris and Bradley Benavides, with lying to Congress about their involvement in the bureau’s investigations of Hunter Biden, including matters tied to his laptop. Both surrendered on arrest warrants Friday and made a first appearance in federal court in Washington. Prosecutors say they have evidence Benavides discussed the laptop story with others inside the FBI, even though he testified that he learned about it from Wikipedia, and that Floris discussed Hunter Biden with members of the FBI’s Foreign Influence Task Force despite testifying otherwise. “When senior FBI agents lie to Congress believing they are above the law, it’s time to bring the hammer of justice down on them,” said U.S. Attorney Jeanine Pirro. Floris’s lawyers called her a patriot and the charges “nonsense,” filed “on the eve of an election.”"
-    },
-    {
-      "n": 12,
-      "headline": "Gunmen open fire on a funeral at a Greek Orthodox church in Jordan, killing at least six Christians",
-      "cat": "World / Middle East",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/jordan-shooting-greek-orthodox-church-karak/",
-      "image_local": "images/story-1344.jpg",
-      "image_remote": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/23/99978974-412b-412d-b167-91e4fb9b4349/thumbnail/1200x630/476233bd94a0d11390fb9d8b7d322cfa/vlcsnap-2026-10-23-10h22m03s406.png",
-      "id": "fdadda0e0409ccd7323167019f4398fc9b76049c",
-      "summary": "Gunmen stormed the compound of a Greek Orthodox church in the village of Hammoud, in Jordan’s Karak governorate, during a funeral on Friday, killing at least six people and wounding 28 in a rare attack on Christians in the mostly Sunni Muslim kingdom. Authorities said the attackers got out of a vehicle and fired on the funeral procession; state TV footage showed two men with pistols and a third with a long gun charging toward the church. A witness said they fired continuously for about five minutes before fleeing, with 150 to 200 people in and around the church, most of the victims between 50 and 70. A manhunt is under way. King Abdullah II vowed the “harshest retaliation,” saying, “We will strike with an iron fist against those who dare to threaten our nation.” Karak, about 110 miles south of Amman, has a significant Christian community."
-    },
-    {
-      "n": 13,
-      "headline": "Melania Trump brokers a ceasefire in Russian-occupied Oleshky so civilians can get aid and evacuate, the White House says",
-      "cat": "World / Ukraine",
-      "source": "PBS NewsHour",
-      "url": "https://www.pbs.org/newshour/world/melania-trump-helps-secure-a-ceasefire-deal-in-russian-occupied-oleshky-the-white-house-says",
-      "image_local": "images/story-1345.jpg",
-      "image_remote": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-08T063013Z_1043452219_RC2RXNA0V8LS_RTRMADP_3_UKRAINE-CRISIS-OLESHKY-1024x683.jpg",
-      "id": "ac6df850bc6d06a5ae430c97f7af8396f5c1353e",
-      "summary": "The White House announced Friday that first lady Melania Trump has brokered an upcoming ceasefire between Russia and Ukraine in the war-ravaged city of Oleshky, so humanitarian aid can get in and civilians can be evacuated. It said she started the talks and that she and a representative worked directly with Russian and Ukrainian leaders on the terms; Kyiv Independent later reported both sides had agreed. Oleshky, on the Dnipro River across from Ukrainian lines, was taken by Russia on the first day of the 2022 invasion and flooded in 2023 when the Kakhovka Dam collapsed. Residents have gone months without electricity, heat, running water or steady food and medicine, roads out are mined and drones patrol overhead, and Ukraine had repeatedly asked for a local ceasefire. The first lady has made children caught in the war a signature issue and has written to Vladimir Putin about reuniting displaced kids with their families."
-    },
-    {
-      "n": 14,
-      "headline": "Breece Hall is questionable and Adonai Mitchell is set to return as the Jets host the winless Dolphins",
-      "cat": "Sports / Jets",
-      "source": "Yahoo Sports",
-      "url": "https://sports.yahoo.com/articles/jets-list-breece-hall-questionable-145618238.html",
-      "image_local": "images/story-1346.jpg",
-      "image_remote": "https://s.yimg.com/lo/mysterio/api/28aa50d7a822c2ebfbfaa25507fe4a20c1a94ae67c0f556a7bdee506770fdee1/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fprofootballtalk.nbcsports.com%2Fa3a4a73f9d3cd0016f21eb993a96db37.jpg",
-      "id": "ce5fb12bc19bda76b1e8e6ba9a760f3c6549a2d3",
-      "summary": "The Jets could have two key playmakers back for Sunday’s home game against the Dolphins. Head coach Aaron Glenn said wide receiver Adonai Mitchell, who has practiced all week after missing four games with a finger injury, is on track to play and will be a full participant Friday. Running back Breece Hall returned to practice Thursday as a limited participant and will work again Friday, but he will be listed as questionable with the quad injury that has kept him out of the last two games. Guard Dylan Parham (knee) is also questionable. Offensive lineman Max Mitchell (concussion) and linebackers Kiko Mauigoa (quad) and Joseph Ossai (ankle) are out. The 2-4 Jets have been fully healthy for only a few plays this season, but Geno Smith is completing 69% of his passes and Garrett Wilson leads the AFC with 35 catches."
-    },
-    {
-      "n": 15,
-      "headline": "Tesla cancels the Cybertruck for Australia and New Zealand nearly seven years after taking deposits",
-      "cat": "Tesla",
-      "source": "Electrek",
-      "url": "https://electrek.co/2026/10/23/tesla-cancels-cybertruck-australia-new-zealand/",
-      "image_local": "images/story-1347.jpg",
-      "image_remote": "https://electrek.co/wp-content/uploads/sites/3/2025/05/Tesla-prices-2025-Cybertruck.jpg?quality=82&strip=all&resize=1200,628",
-      "id": "3b6b56e10b98af3d6d30a6ab7d53ca8ec881a133",
-      "summary": "Tesla has emailed Cybertruck reservation holders in Australia and New Zealand to say the truck won’t be coming. “After careful consideration, plans to produce Cybertruck for Australia and New Zealand have been discontinued,” the email says, adding that reservations will be cancelled and deposits refunded within 30 days. Australians began putting down A$150 in November 2019. As a consolation, Tesla is offering a free year of FSD (Supervised) to anyone who orders a Model 3 or Model Y instead. The main obstacle is that the Cybertruck is built only in left-hand drive, while Australia, New Zealand, the U.K. and Japan need right-hand drive, and Australia has its own certification rules. Electrek estimates Cybertruck sales at 7,000 to 8,000 last quarter, about a 30,000-a-year pace, and argues the volumes can’t justify re-engineering the truck. Its overseas launches so far have all been in left-hand-drive markets."
-    },
-    {
-      "n": 16,
-      "headline": "Justice Department opens a Second Amendment probe into gun-permit delays in Waterbury and Middletown, Connecticut",
-      "cat": "Guns / Connecticut",
-      "source": "Hoodline",
-      "url": "https://hoodline.com/2026/10/justice-department-probes-middletown-waterbury-over-gun-permit-delays/",
-      "image_local": "",
-      "image_remote": "",
-      "id": "0cab5681c91b230e3f975edc650adfa733a103b7",
-      "summary": "The U.S. Justice Department has opened an investigation into how the Waterbury and Middletown police departments handle firearm permit applications, looking at whether the two Connecticut cities make residents wait too long and put an unnecessary burden on applicants. Assistant Attorney General Harmeet Dhillon framed the inquiry around the constitutional right of law-abiding Americans to bear arms for self-defense. The announcement did not say how many applications are pending or how long the delays have been, and neither city has commented. It is part of a broader federal push on permitting: DOJ is also investigating “egregious and unjust delays” in Pennsauken, New Jersey, and has sued Minnesota over its 30-day waiting period and permit-to-purchase rules. A state audit has separately found that Connecticut’s Board of Firearms Permit Examiners, which hears appeals of pistol permit denials and revocations, built up a backlog of more than 1,200 cases."
-    },
-    {
-      "n": 17,
-      "headline": "Billy Corgan says his Christian faith is why he stands by his 30-year friendship with Marilyn Manson",
-      "cat": "Music / Rock",
-      "source": "Louder",
-      "url": "https://www.loudersound.com/bands-artists/smashing-pumpkins-billy-corgan-cites-his-christianity-as-a-reason-for-maintaining-his-friendship-with-marilyn-manson",
-      "image_local": "images/story-1348.jpg",
-      "image_remote": "https://cdn.mos.cms.futurecdn.net/5A9vHwoypy6huVCoo2iCY3-1280-80.jpg",
-      "id": "115bf9064db13cc752e83bb8ff542109d0fc29b6",
-      "summary": "Smashing Pumpkins frontman Billy Corgan has explained why he has stayed friends with Marilyn Manson through the sexual assault allegations and lawsuits the singer has faced since 2021. Asked on a podcast how he decides who stays in his life, Corgan said, “As a Christian person … you have to stand by your friends. But that doesn’t mean you don’t have an opinion, and that doesn’t mean you’re not critical.” He noted that the Los Angeles district attorney looked at the case for years and declined to press charges, citing statute-of-limitations issues, and said he knew things behind the scenes that are not public. “I personally didn’t feel that he was guilty,” Corgan said. “I don’t want the world to tell me who my friends are and who I should associate with.” Manson, who denies all the accusations, has settled two suits and faces a jury trial in November 2027 in a case brought by his former assistant."
-    },
-    {
-      "n": 18,
-      "headline": "Babylon Bee: NFL to paint “Allahu Akbar” in the end zone for its first game in Paris",
-      "cat": "Satire",
-      "source": "The Babylon Bee",
-      "url": "https://babylonbee.com/news/nfl-to-paint-allahu-akbar-in-endzone-for-game-in-paris/",
-      "image_local": "images/story-1349.jpg",
-      "image_remote": "https://media.babylonbee.com/articles/6adb7b9572b756adb7b9572b76.jpg",
-      "id": "a5925d1da5db098acf55a774b4ec88ad47a01ecf",
-      "summary": "The Babylon Bee imagines the NFL swapping its usual end-zone slogans like “Inspire Change” and “End Racism” for “Allahu Akbar” at its first-ever game in Paris, between the Steelers and the Saints, “to accommodate modern French sensibilities.” A fictional league spokesman explains, “We really want to make a good impression on our hosts. … Also, we don’t want to get bombed by terrorists.” The satire jabs at the security worries about playing in Paris “while the city is on fire,” with officials assuring the league the protests are “just about student affordability concerns and nothing else.” It ends with the NFL installing minarets on top of the stadium so the call to prayer can be heard during a “very French halftime show.”"
     },
     {
       "n": 19,
