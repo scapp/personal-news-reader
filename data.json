@@ -1,8 +1,107 @@
 {
-  "updated": "Friday, October 23, 2026 · 11:38 AM ET",
+  "updated": "Friday, October 23, 2026 · 4:11 PM ET",
   "stories": [
     {
       "n": 1,
+      "headline": "“Crackgate”? Some iPhone Duo owners say their screens broke along the hinge on launch day",
+      "cat": "Apple / iPhone",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/23/iphone-duo-screen-cracks/",
+      "image_local": "images/story-1350.jpg",
+      "image_remote": "https://images.macrumors.com/t/kX0mKHsLp2lulNS72p5gfxcP7BE=/1600x/article-new/2026/10/iphone-duo-screen-crack-in-store.jpg",
+      "id": "48ec84a2d5fecc7192860dd8f0b70c64331a37f1",
+      "summary": "Hours into the iPhone Duo’s launch, photos on Reddit and the MacRumors forums show some of Apple’s new foldables with display failures, almost all of them right along the hinge and most leaving a line of bright pixels across one side of the screen. One owner in Australia said he had the phone for about six hours and had opened it fewer than 20 times when he felt something under the screen near the hinge and heard an audible crack; there were no marks on the inner screen or the hinge beforehand. Apple replaced it on the spot at an Apple Store. Several images come from demo units in China, where the backstory is unknown and user damage may be a factor, and early reviewers who ran folding tests didn’t see problems. MacRumors notes some failures are expected with so many phones shipping, that hinge failures from normal use should be covered by the one-year warranty, and that buyers have two weeks to return the phone."
+    },
+    {
+      "n": 2,
+      "headline": "A personalized mRNA melanoma vaccine cut the risk of the cancer returning or death by 42% in a late-stage trial",
+      "cat": "Health / Science",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/health/cancer/personalized-mrna-vaccine-melanoma-cut-risk-cancers-return-late-stage-rcna605208",
+      "image_local": "images/story-1351.jpg",
+      "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260918-moderna-lab-mn-1415-efbd92.jpg",
+      "id": "a0fef0f778e5f057c3d70af690214d5e82e9ad49",
+      "summary": "An experimental cancer vaccine from Moderna and Merck, called intismeran, reduced the risk of melanoma coming back or killing patients by 42% compared with standard treatment in a late-stage trial, results some oncologists are calling a breakthrough. The vaccine is built for each patient from the genetic data of their own surgically removed tumor. The trial enrolled 1,137 people with Stage 3 melanoma, where the cancer has reached nearby lymph nodes but not distant organs; all had surgery and were taking Merck’s immunotherapy Keytruda, and 757 also got the vaccine while 380 got a placebo. After two years, 82% of the vaccine group had no recurrence versus 70% in the placebo group. “This treatment is about mopping up the cancer cells we can’t see,” said trial leader Dr. Georgina Long of Melanoma Institute Australia. Penn Medicine’s Dr. Robert Vonderheide, who wasn’t involved, called the results a “game changer.” The data will be presented Saturday at the European Society for Medical Oncology meeting in Madrid."
+    },
+    {
+      "n": 3,
+      "headline": "Paris braces for Saturday protests: 70,000 police deployed nationwide and every Apple Store in the city shut",
+      "cat": "World / France",
+      "source": "AppleInsider",
+      "url": "https://appleinsider.com/articles/26/10/23/all-three-paris-apple-stores-close-ahead-of-protests",
+      "image_local": "images/story-1352.jpg",
+      "image_remote": "https://media.appleinsider.com/gallery/69518-146527-applefrance-xl.jpg",
+      "id": "0ba7fc48c0522524cfc8f3cf3b64422345771a60",
+      "summary": "France is preparing for another day of demonstrations Saturday, a week after the Oct. 17 protests turned into rioting and looting near Place de la République. Authorities plan to deploy about 70,000 police and gendarmes across the country, have banned gatherings near the Champs-Élysées, rejected a proposed march route from République toward the Opéra, and will close 28 Paris metro stations at 9 a.m. Apple is closing seven French stores on Saturday, including all three in Paris (Champs-Élysées, Opéra and Marché Saint-Germain), which will reopen Sunday from noon to 6 p.m. Looters stripped Apple stores in Lille and Bordeaux last weekend, but stolen demo iPhones brick themselves and display a message that the device is being tracked and police will be alerted. According to the BBC, most of the protests began peacefully, over fuel prices, the cost of living and declining public services."
+    },
+    {
+      "n": 4,
+      "headline": "Former New Haven police chief Karl Jacobson pleads no contest to embezzling informant funds to feed a sports-betting habit",
+      "cat": "Crime / Connecticut",
+      "source": "NBC Connecticut",
+      "url": "https://www.nbcconnecticut.com/news/local/former-new-haven-police-chief-pleads-no-contest-in-embezzlement-case/3787955/",
+      "image_local": "images/story-1353.jpg",
+      "image_remote": "https://media.nbcconnecticut.com/2026/10/jacobson2.png?resize=1200%2C675&quality=85&strip=all",
+      "id": "79ea038a6c90a35a9e83309086c3cecd96772ecc",
+      "summary": "Former New Haven Police Chief Karl Jacobson pleaded no contest Friday to embezzlement charges stemming from an investigation that began in January while he was still chief. Officers had flagged irregularities in the fund used to pay the department’s confidential informants, and when the three assistant chiefs confronted him, Mayor Justin Elicker said, Jacobson admitted taking the money; he filed retirement papers before a meeting where he was to be put on leave. His arrest warrant says much of the money went to sports betting on DraftKings and FanDuel, where over about a year he wagered nearly $4.5 million, won about $4.2 million and lost more than $214,000. He also told officers he had returned money taken from the Police Activity League fund and was seeking help. “I fixed my alcohol problem. I turned to gambling,” he said, according to the warrant. Outside court Friday he said, “I apologize to the mayor and the city and the officers. I love the city.”"
+    },
+    {
+      "n": 5,
+      "headline": "Justice Department sues to block Alaska’s Senate certification if Sen. Dan Sullivan loses because of the other Dan Sullivan on the ballot",
+      "cat": "Politics / Elections",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/trump-admin-sues-to-block-alaska-senate-certification-if-sen-dan-sullivan-loses/",
+      "image_local": "",
+      "image_remote": "",
+      "id": "d50c8f65d3cb8b310bcb55b712895589ee231120",
+      "summary": "The Trump administration is suing to keep Alaska’s Senate election from being certified if Republican Sen. Dan Sullivan loses to Democrat Mary Peltola because of a second candidate with the same name. Alaska’s ranked-choice ballot lists four candidates, including a teacher named Daniel J. Sullivan, who appears first as “Sullivan, Daniel J. Jr.” with no party, just above the senator, listed as “Sullivan, Dan S. (Registered Republican) Incumbent.” In its filing Friday, the Justice Department argues the teacher deliberately ran under the same name to confuse voters, that some of the senator’s supporters “likely will inadvertently vote for Daniel J. Sullivan,” and that others may not know how to rank the Republican candidates to defeat Peltola. In June the Alaska Supreme Court ruled he could stay on the ballot, reversing the state elections division, which had found he was trying to “cause voter confusion.” His lawyers say the state had no basis to look into his “private motivations.” Peltola’s campaign did not immediately comment."
+    },
+    {
+      "n": 6,
+      "headline": "Tesla starts building production-quality Optimus robots in Fremont and plans an “Optimus Academy” where they teach themselves",
+      "cat": "Tesla / Robots",
+      "source": "Teslarati",
+      "url": "https://www.teslarati.com/tesla-reveals-optimus-academy-where-robots-teach-themselves/",
+      "image_local": "images/story-1354.jpg",
+      "image_remote": "https://www.teslarati.com/wp-content/uploads/2026/09/tesla-optimus-production-1000x600.jpg",
+      "id": "709ea059c7d9b001248981f7822f86bc1165ae1e",
+      "summary": "Tesla says it has begun building Optimus humanoid robots on the high-volume line it set up in the Fremont space that made the Model S and Model X until this spring, and that the robots coming off it are “the first production-quality bots that we have manufactured.” The line is sized for a million units a year, and on Wednesday’s earnings call Elon Musk said output should climb toward roughly 20,000 robots a week as it ramps, though he described the early part of that S-curve as a “shallow slope.” Tesla plans to start delivering Optimus to outside companies by the end of next year for dangerous and repetitive jobs. Because Optimus has no fleet like Tesla’s cars to gather real-world training data, the company plans an Optimus Academy where 10,000 to 20,000 robots practice a wide range of tasks and feed what they learn into the next model. Tesla also plans to put its AI5 chip into Optimus next year, and Musk said a new video of AI-driven tasks should arrive within a month or two."
+    },
+    {
+      "n": 7,
+      "headline": "Malkin sits out Penguins practice with an illness as the team tries on blue gear for its new throwback jerseys",
+      "cat": "Sports / Penguins",
+      "source": "Pensburgh",
+      "url": "https://www.pensburgh.com/general/82354/evgeni-malkin-injuredfor-practice-as-penguins-new-blue-jersey-2026",
+      "image_local": "images/story-1355.jpg",
+      "image_remote": "https://platform.pensburgh.com/wp-content/uploads/sites/123/2026/10/gettyimages-78689959.jpg?quality=90&strip=all&crop=0%2C32.076788830716%2C100%2C35.846422338569&w=1200",
+      "id": "4489302d0c281bf6d31de191a40cf645f59fc946",
+      "summary": "Evgeni Malkin missed Penguins practice Friday with an illness, which may explain why he barely celebrated his goal Thursday night and skipped the usual lap after being named one of the game’s three stars. Forward Egor Chinakhov, who has a lingering minor injury that has had him in and out of the lineup, was also absent ahead of Saturday’s game against the Predators. The Penguins practiced in blue pants and helmets to break in the gear for their “Hometown Remix” alternate jerseys, which debut Nov. 3 at home against Vegas and will be worn ten times this season. The team’s teaser carried a coded message believed to read “What’s old is new,” and one rumored design brings back the “fat” penguin crest from the franchise’s first season in 1967-68, fitting for its 60th year. It will be the Penguins’ first time in blue jerseys since 2013."
+    },
+    {
+      "n": 8,
+      "headline": "System of a Down add two more 2027 Rose Bowl shows, with Gojira opening the third night",
+      "cat": "Music / Metal",
+      "source": "Consequence",
+      "url": "https://consequence.net/2026/10/system-of-a-down-second-third-2027-rose-bowl-shows/",
+      "image_local": "images/story-1356.jpg",
+      "image_remote": "https://consequence.net/wp-content/uploads/2024/12/System-of-a-Down.jpg",
+      "id": "c102a27ad24b3ed3712bc8b2e53030ff0199bf4a",
+      "summary": "System of a Down’s June 5, 2027, concert at the Rose Bowl in Pasadena was billed as the band’s only North American show of the year, but it now has company: the band has added June 6 and June 10 dates at the same stadium. Pierce the Veil will open on June 6, as on the original date, while French metal band Gojira will support on June 10. A Ticketmaster presale is under way for all three shows, and the general on-sale starts Monday, Oct. 26, at 10 a.m. Pacific."
+    },
+    {
+      "n": 9,
+      "headline": "A glowing mold growing on bat droppings, with hibernating bats behind it, wins European Wildlife Photographer of the Year",
+      "cat": "Photography",
+      "source": "PetaPixel",
+      "url": "https://petapixel.com/2026/10/23/20-winners-of-european-wildlife-photographer-of-the-year-2026/",
+      "image_local": "images/story-1357.jpg",
+      "image_remote": "https://petapixel.com/assets/uploads/2026/10/european-wildlife-photographer-2026-featured.jpg",
+      "id": "dd8ed4b7a0d7e12726f2d149eec02c3fbbcb9e9e",
+      "summary": "Hungarian scientist and photographer Imre Potyó has been named European Wildlife Photographer of the Year 2026, beating more than 26,000 entries in the 26th annual competition run by the German Society for Nature Photography. His winning image shows a small pin mold growing on a layer of bat guano, with dozens of lesser horseshoe bats hibernating in the background, lit dimly by a flashlight. Potyó has photographed bats in protected, restricted-access mine tunnels in Hungary for 13 years. He made the shot with a macro lens as a long exposure with focus shifting, during a controlled bat count and without disturbing the animals. The jury said the picture shows how much of life exists “in places we seldom visit and among organisms we rarely notice.” PetaPixel’s gallery includes 20 winning photos from the contest."
+    },
+    {
+      "n": 10,
       "headline": "iPhone Duo launch day: lines form outside Apple Stores worldwide, but walk-in stock is limited",
       "cat": "Apple / iPhone",
       "source": "9to5Mac",
@@ -13,7 +112,7 @@
       "summary": "Apple’s first foldable iPhone went on sale at Apple Stores around the world on Friday, and lines formed overnight from Shanghai to Chicago and Las Vegas, where one reader counted 30 to 40 people at 4:15 a.m. and more than 150 by opening. Apple had warned that in-store inventory would be “limited,” and that appears to be true: store workers are telling disappointed walk-in shoppers to check the Apple Store app Saturday at 10 a.m. ET for new stock. CEO John Ternus marked the launch at the Domain Northside store in Austin, Texas, with retail chief Deirdre O’Brien, the same weekend the city hosts the Formula 1 U.S. Grand Prix that Apple streams in the U.S. Marketing chief Greg Joswiak celebrated at the Fifth Avenue store in New York. The same morning, 9to5Mac reported, Apple passed Nvidia to become the world’s most valuable company."
     },
     {
-      "n": 2,
+      "n": 11,
       "headline": "Two former FBI officials are charged with lying to Congress about their roles in the Hunter Biden laptop probes",
       "cat": "Politics / Courts",
       "source": "Fox News",
@@ -24,7 +123,7 @@
       "summary": "The Justice Department has charged two former FBI intelligence officials, Nikki Cole Floris and Bradley Benavides, with lying to Congress about their involvement in the bureau’s investigations of Hunter Biden, including matters tied to his laptop. Both surrendered on arrest warrants Friday and made a first appearance in federal court in Washington. Prosecutors say they have evidence Benavides discussed the laptop story with others inside the FBI, even though he testified that he learned about it from Wikipedia, and that Floris discussed Hunter Biden with members of the FBI’s Foreign Influence Task Force despite testifying otherwise. “When senior FBI agents lie to Congress believing they are above the law, it’s time to bring the hammer of justice down on them,” said U.S. Attorney Jeanine Pirro. Floris’s lawyers called her a patriot and the charges “nonsense,” filed “on the eve of an election.”"
     },
     {
-      "n": 3,
+      "n": 12,
       "headline": "Gunmen open fire on a funeral at a Greek Orthodox church in Jordan, killing at least six Christians",
       "cat": "World / Middle East",
       "source": "CBS News",
@@ -35,7 +134,7 @@
       "summary": "Gunmen stormed the compound of a Greek Orthodox church in the village of Hammoud, in Jordan’s Karak governorate, during a funeral on Friday, killing at least six people and wounding 28 in a rare attack on Christians in the mostly Sunni Muslim kingdom. Authorities said the attackers got out of a vehicle and fired on the funeral procession; state TV footage showed two men with pistols and a third with a long gun charging toward the church. A witness said they fired continuously for about five minutes before fleeing, with 150 to 200 people in and around the church, most of the victims between 50 and 70. A manhunt is under way. King Abdullah II vowed the “harshest retaliation,” saying, “We will strike with an iron fist against those who dare to threaten our nation.” Karak, about 110 miles south of Amman, has a significant Christian community."
     },
     {
-      "n": 4,
+      "n": 13,
       "headline": "Melania Trump brokers a ceasefire in Russian-occupied Oleshky so civilians can get aid and evacuate, the White House says",
       "cat": "World / Ukraine",
       "source": "PBS NewsHour",
@@ -46,7 +145,7 @@
       "summary": "The White House announced Friday that first lady Melania Trump has brokered an upcoming ceasefire between Russia and Ukraine in the war-ravaged city of Oleshky, so humanitarian aid can get in and civilians can be evacuated. It said she started the talks and that she and a representative worked directly with Russian and Ukrainian leaders on the terms; Kyiv Independent later reported both sides had agreed. Oleshky, on the Dnipro River across from Ukrainian lines, was taken by Russia on the first day of the 2022 invasion and flooded in 2023 when the Kakhovka Dam collapsed. Residents have gone months without electricity, heat, running water or steady food and medicine, roads out are mined and drones patrol overhead, and Ukraine had repeatedly asked for a local ceasefire. The first lady has made children caught in the war a signature issue and has written to Vladimir Putin about reuniting displaced kids with their families."
     },
     {
-      "n": 5,
+      "n": 14,
       "headline": "Breece Hall is questionable and Adonai Mitchell is set to return as the Jets host the winless Dolphins",
       "cat": "Sports / Jets",
       "source": "Yahoo Sports",
@@ -57,7 +156,7 @@
       "summary": "The Jets could have two key playmakers back for Sunday’s home game against the Dolphins. Head coach Aaron Glenn said wide receiver Adonai Mitchell, who has practiced all week after missing four games with a finger injury, is on track to play and will be a full participant Friday. Running back Breece Hall returned to practice Thursday as a limited participant and will work again Friday, but he will be listed as questionable with the quad injury that has kept him out of the last two games. Guard Dylan Parham (knee) is also questionable. Offensive lineman Max Mitchell (concussion) and linebackers Kiko Mauigoa (quad) and Joseph Ossai (ankle) are out. The 2-4 Jets have been fully healthy for only a few plays this season, but Geno Smith is completing 69% of his passes and Garrett Wilson leads the AFC with 35 catches."
     },
     {
-      "n": 6,
+      "n": 15,
       "headline": "Tesla cancels the Cybertruck for Australia and New Zealand nearly seven years after taking deposits",
       "cat": "Tesla",
       "source": "Electrek",
@@ -68,7 +167,7 @@
       "summary": "Tesla has emailed Cybertruck reservation holders in Australia and New Zealand to say the truck won’t be coming. “After careful consideration, plans to produce Cybertruck for Australia and New Zealand have been discontinued,” the email says, adding that reservations will be cancelled and deposits refunded within 30 days. Australians began putting down A$150 in November 2019. As a consolation, Tesla is offering a free year of FSD (Supervised) to anyone who orders a Model 3 or Model Y instead. The main obstacle is that the Cybertruck is built only in left-hand drive, while Australia, New Zealand, the U.K. and Japan need right-hand drive, and Australia has its own certification rules. Electrek estimates Cybertruck sales at 7,000 to 8,000 last quarter, about a 30,000-a-year pace, and argues the volumes can’t justify re-engineering the truck. Its overseas launches so far have all been in left-hand-drive markets."
     },
     {
-      "n": 7,
+      "n": 16,
       "headline": "Justice Department opens a Second Amendment probe into gun-permit delays in Waterbury and Middletown, Connecticut",
       "cat": "Guns / Connecticut",
       "source": "Hoodline",
@@ -79,7 +178,7 @@
       "summary": "The U.S. Justice Department has opened an investigation into how the Waterbury and Middletown police departments handle firearm permit applications, looking at whether the two Connecticut cities make residents wait too long and put an unnecessary burden on applicants. Assistant Attorney General Harmeet Dhillon framed the inquiry around the constitutional right of law-abiding Americans to bear arms for self-defense. The announcement did not say how many applications are pending or how long the delays have been, and neither city has commented. It is part of a broader federal push on permitting: DOJ is also investigating “egregious and unjust delays” in Pennsauken, New Jersey, and has sued Minnesota over its 30-day waiting period and permit-to-purchase rules. A state audit has separately found that Connecticut’s Board of Firearms Permit Examiners, which hears appeals of pistol permit denials and revocations, built up a backlog of more than 1,200 cases."
     },
     {
-      "n": 8,
+      "n": 17,
       "headline": "Billy Corgan says his Christian faith is why he stands by his 30-year friendship with Marilyn Manson",
       "cat": "Music / Rock",
       "source": "Louder",
@@ -90,7 +189,7 @@
       "summary": "Smashing Pumpkins frontman Billy Corgan has explained why he has stayed friends with Marilyn Manson through the sexual assault allegations and lawsuits the singer has faced since 2021. Asked on a podcast how he decides who stays in his life, Corgan said, “As a Christian person … you have to stand by your friends. But that doesn’t mean you don’t have an opinion, and that doesn’t mean you’re not critical.” He noted that the Los Angeles district attorney looked at the case for years and declined to press charges, citing statute-of-limitations issues, and said he knew things behind the scenes that are not public. “I personally didn’t feel that he was guilty,” Corgan said. “I don’t want the world to tell me who my friends are and who I should associate with.” Manson, who denies all the accusations, has settled two suits and faces a jury trial in November 2027 in a case brought by his former assistant."
     },
     {
-      "n": 9,
+      "n": 18,
       "headline": "Babylon Bee: NFL to paint “Allahu Akbar” in the end zone for its first game in Paris",
       "cat": "Satire",
       "source": "The Babylon Bee",
@@ -99,105 +198,6 @@
       "image_remote": "https://media.babylonbee.com/articles/6adb7b9572b756adb7b9572b76.jpg",
       "id": "a5925d1da5db098acf55a774b4ec88ad47a01ecf",
       "summary": "The Babylon Bee imagines the NFL swapping its usual end-zone slogans like “Inspire Change” and “End Racism” for “Allahu Akbar” at its first-ever game in Paris, between the Steelers and the Saints, “to accommodate modern French sensibilities.” A fictional league spokesman explains, “We really want to make a good impression on our hosts. … Also, we don’t want to get bombed by terrorists.” The satire jabs at the security worries about playing in Paris “while the city is on fire,” with officials assuring the league the protests are “just about student affordability concerns and nothing else.” It ends with the NFL installing minarets on top of the stadium so the call to prayer can be heard during a “very French halftime show.”"
-    },
-    {
-      "n": 10,
-      "headline": "Israel orders a full West Bank closure after soldiers kill two gunmen behind an attack near Hebron",
-      "cat": "World / Middle East",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/10/23/nx-s1-6013333/netanyahu-closure-west-bank",
-      "image_local": "images/story-1334.jpg",
-      "image_remote": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+313/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb6%2F57%2F02b3f2a94bc8be8d87ea0b7696e6%2Fap26296215624787.jpg",
-      "id": "5e236e21773e08caa94e77065af0c3de444a951b",
-      "summary": "Israeli soldiers shot and killed two men the military says opened fire near Yehuda Junction, outside Hebron, on Friday morning. At least five people were wounded, some critically, and responders said shooting was still going on when they arrived. The army said the gunmen carried an M16 rifle and a handgun and that it had stopped a “terror attack against Israeli civilians.” Hours later, Prime Minister Benjamin Netanyahu’s office told security forces to cordon off Hebron right away and prepare to fully close the West Bank starting Friday. After an emergency Security Cabinet meeting, Netanyahu blamed Hamas, saying it was “planning a major attack aimed at murdering innocent civilians.” The army also said it carried out dozens of raids overnight and detained dozens of people linked to Hamas and Islamic Jihad. The attack comes four days before Tuesday’s Israeli election."
-    },
-    {
-      "n": 11,
-      "headline": "Trump calls LeBron James a “total disgrace” and demands an apology for warming up during the anthem",
-      "cat": "Politics / Sports",
-      "source": "Breitbart",
-      "url": "https://www.breitbart.com/sports/2026/10/22/trump-calls-lebron-james-apologize-his-behavior-during-national-anthem-total-disgrace/",
-      "image_local": "images/story-1335.jpg",
-      "image_remote": "https://media.breitbart.com/media/2026/10/Sarah-Stier_Getty-Images-640x335.jpg",
-      "id": "76a864e1f164c545a6dfa76ead40c5554e2f23f0",
-      "summary": "President Trump on Thursday called on LeBron James to apologize after video showed the 76ers star moving his arms and practicing shooting motions while the national anthem was sung before Philadelphia’s season opener against the Knicks on Tuesday. Trump posted the footage on Truth Social and wrote, “While listening to our National Anthem, LeBron James disrespects our Country! I said right from the beginning that he’s no good, a TOTAL DISGRACE.” He added that James “should apologize to all of those Great American Warriors and Heroes who died for the American Flag, and all that our Country stands for!” James was standing in line with his teammates as singer Avery Wilson performed “The Star-Spangled Banner.” Some social media users backed Trump and said one of the NBA’s biggest stars should set a better example."
-    },
-    {
-      "n": 12,
-      "headline": "Utah man who allegedly posted “I wanna blow up a synagogue” is indicted after six pipe bombs are found in his home",
-      "cat": "Crime / Courts",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/us/utah-man-charged-attempted-hate-crime-alleged-threat-blow-up-synagogue",
-      "image_local": "images/story-1336.jpg",
-      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/skyler-rose-doj-utah-hate-crime-charges.png",
-      "id": "033dcf5f1c18a9dfb2206b57416336fca4562cfc",
-      "summary": "A federal grand jury in Utah has indicted Skyler AJ Rose, 22, of Ogden, on charges including attempting to commit a hate crime, threatening to destroy a building with an explosive and possessing an unregistered destructive device. Prosecutors say that on Dec. 23, 2025, he made several threatening social media posts, including “I wanna blow up a synagogue,” and that investigators traced them to his home’s IP address. The FBI and Ogden police then searched the house and say they found six improvised pipe bombs and one inert device, explosive precursors, two rifles with magazines and ammunition, and a phone showing he had searched online for a nearby synagogue in November 2025. “These alleged threats were identified and stopped before anyone was harmed,” said U.S. Attorney Melissa Holyoak, who warned that anyone who targets a place of worship “will face the full force of the federal government.”"
-    },
-    {
-      "n": 13,
-      "headline": "Hall of Famer Marshall Faulk reveals he has Parkinson’s disease at 53",
-      "cat": "Sports / NFL",
-      "source": "Breitbart",
-      "url": "https://www.breitbart.com/sports/2026/10/22/nfl-legend-marshall-faulk-diagnosed-with-parkinsons-disease-at-53/",
-      "image_local": "images/story-1337.jpg",
-      "image_remote": "https://media.breitbart.com/media/2026/10/Aron-Smith_Jackson-State-University-via-Getty-Images-640x335.jpg",
-      "id": "ca2518a568df58d8d0e5d7b40683c0a57675d491",
-      "summary": "NFL Hall of Fame running back Marshall Faulk, now head coach at Southern University, says he has been diagnosed with Parkinson’s disease. He revealed it on the Caring Neurologist podcast, saying he first noticed stiffness in his hand while playing golf, even when he was not under match pressure, and asked his doctor about it at one of the physicals he gets twice a year. Faulk said medication has eased his symptoms. He still has some rigidity and small tremors, and he watches his gait and balance, but he said things have not gotten worse. “I don’t look at it as something that’s terminal,” he said. “There’s far worse things out there.” Over 12 seasons with the Colts and Rams, Faulk ran for 12,279 yards, caught passes for 6,875 more and scored 136 touchdowns."
-    },
-    {
-      "n": 14,
-      "headline": "The iPod turns 25: Steve Jobs put “1,000 songs in your pocket” on Oct. 23, 2001",
-      "cat": "Apple / History",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/10/23/ipod-25th-anniversary/",
-      "image_local": "images/story-1338.jpg",
-      "image_remote": "https://images.macrumors.com/t/UmAJJ3eyMysC195UtLI4BJpTLmg=/1600x/article-new/2026/10/ipod.jpg",
-      "id": "460819686485a5c726c6ad04a77c996bd8e61a59",
-      "summary": "Friday marks 25 years since Steve Jobs unveiled the original iPod at a small press event in the Town Hall auditorium at Apple’s Infinite Loop campus. The $399 player had a 5GB hard drive, a monochrome screen, a mechanical scroll wheel and up to 10 hours of battery life, and it needed a Mac running iTunes. FireWire both charged it and synced music fast enough to copy a whole CD in under 10 seconds. Reaction was mixed at first, and MacRumors readers at the time called it overpriced and “far from revolutionary.” It went on sale Nov. 10, 2001, and was followed in quick succession by a touch-sensitive wheel, the 30-pin Dock Connector in 2003 and a color screen in 2004, before going on to help push Apple well beyond the Mac."
-    },
-    {
-      "n": 15,
-      "headline": "PetaPixel reviews the $2,199 Sigma FP2, a tiny full-frame “brick” with a much better sensor",
-      "cat": "Photography / Cameras",
-      "source": "PetaPixel",
-      "url": "https://petapixel.com/2026/10/22/sigma-fp2-review-the-brick-with-a-heart-of-gold/",
-      "image_local": "images/story-1339.jpg",
-      "image_remote": "https://petapixel.com/assets/uploads/2026/10/Sigma-FP2-Review-The-Brick-with-a-Heart-of-Gold.jpg",
-      "id": "0e2e858d366bff6b2af92236a101bb2fc0575a16",
-      "summary": "PetaPixel’s reviewer admits he has disliked every Sigma camera body he has tested, but says the new $2,199 FP2 may change his mind. It keeps the brick-like shape and still has no mechanical shutter, but a new full-frame, partially stacked 24-megapixel sensor makes up for much of that, and image quality and autofocus are described as excellent. The body is even smaller than before and weighs 470 grams with battery and card. A new battery raises the rating to 370 shots, and the 2.1-million-dot rear screen now tilts for waist-level and overhead shooting. The camera is covered in 1/4-20 threads for grips and video rigs and is highly customizable. The main complaint is that it has only one front command dial and a rotating D-pad, which made it easy to bump into the wrong setting."
-    },
-    {
-      "n": 16,
-      "headline": "Country Music Hall of Famer John Anderson, the voice of “Swingin’” and “Seminole Wind,” dies at 71",
-      "cat": "Music / Country",
-      "source": "Guitar World",
-      "url": "https://www.guitarworld.com/artists/guitarists/john-anderson-obituary",
-      "image_local": "images/story-1340.jpg",
-      "image_remote": "https://cdn.mos.cms.futurecdn.net/LDPMpqR5MT7y836yYYZs5a-2100-80.jpg",
-      "id": "b79670e9f9bff0b67f9dee5bdb4bc63eb9734d1a",
-      "summary": "Country singer John Anderson, a member of both the Country Music Hall of Fame and the Nashville Songwriters Hall of Fame, has died at 71. His family said he was “the heart of our family, the one who made us laugh, loved us fiercely.” Born in Apopka, Florida, Anderson started out loving rock guitar, citing the Rolling Stones and Jimi Hendrix, then moved to Nashville after high school and worked on the Grand Ole Opry’s roof before he ever played on its stage. He signed with Warner Bros., had his first hit in 1977, opened for Merle Haggard and became one of the leading New Traditionalists with “1959,” “Wild & Blue,” “Swingin’” and later “Seminole Wind.” In recent years he worked with Dan Auerbach. Blake Shelton wrote that he saw Anderson last Sunday and told him he loved him: “This one really hurts.”"
-    },
-    {
-      "n": 17,
-      "headline": "Warhound, backed by Colossal and Palmer Luckey, raises $200 million to gene-edit and clone military working dogs",
-      "cat": "Tech / Defense",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2295033/warhound-genetically-engineering-dogs-military/",
-      "image_local": "",
-      "image_remote": "",
-      "id": "f94076ac0ff59063b33dc9d100c7f063bff73338",
-      "summary": "A new startup called Warhound has raised $200 million to genetically engineer working dogs for the U.S. military, police and first responders and equip them with gear designed by Palmer Luckey’s Anduril. It was created by Colossal Biosciences CEO Ben Lamm, whose company is behind the dire wolf “de-extinction” claims, and Luckey. Warhound has collected cell samples from top-performing U.S. working dogs, mostly Belgian Malinois plus some Labradors and shepherds, and has started editing their genes before cloning them. The first goal is fewer breed-related problems such as hip dysplasia and some cancers. Later edits could target speed, agility or a stronger sense of smell for bomb detection. Anduril will design goggles, vests, body armor and software. About 80% of U.S. military dogs now come from Europe, and the first engineered pups are expected in early 2027."
-    },
-    {
-      "n": 18,
-      "headline": "Musk says a NASA panel’s estimate of 22 Starship launches per Moon landing is “way too high”",
-      "cat": "SpaceX / Elon Musk",
-      "source": "Teslarati",
-      "url": "https://www.teslarati.com/elon-musk-nasa-starship-moon-landing/",
-      "image_local": "images/story-1341.jpg",
-      "image_remote": "https://www.teslarati.com/wp-content/uploads/2026/10/spacex-starship-moon-earth-1000x600.jpg",
-      "id": "8ff336b7f5ef5b02abffba3b60419911a8de6d6c",
-      "summary": "At NASA’s Aerospace Safety Advisory Panel meeting on Thursday, former astronaut Charlie Precourt flagged in-orbit refueling of SpaceX’s Starship lunar lander as a major risk for Artemis IV, the mission planned to land astronauts on the Moon in 2028. “I think the last estimate is around 22 flights,” he said. After Ars Technica’s Eric Berger posted the comment on X, Elon Musk replied, “That’s way too high. Actual number will be more like 6 to 8.” The count matters because Starship burns nearly all of its propellant just reaching orbit. SpaceX’s plan is to launch a depot ship, fill it with a string of tanker launches and then send the lander up to fuel before it heads for the Moon. Every tanker trip is a full rocket launch, adding time, cost and risk before a crew ever leaves Earth."
     },
     {
       "n": 19,

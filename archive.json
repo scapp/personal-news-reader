@@ -1500,7 +1500,16 @@
     "3b6b56e10b98af3d6d30a6ab7d53ca8ec881a133",
     "0cab5681c91b230e3f975edc650adfa733a103b7",
     "115bf9064db13cc752e83bb8ff542109d0fc29b6",
-    "a5925d1da5db098acf55a774b4ec88ad47a01ecf"
+    "a5925d1da5db098acf55a774b4ec88ad47a01ecf",
+    "48ec84a2d5fecc7192860dd8f0b70c64331a37f1",
+    "a0fef0f778e5f057c3d70af690214d5e82e9ad49",
+    "0ba7fc48c0522524cfc8f3cf3b64422345771a60",
+    "79ea038a6c90a35a9e83309086c3cecd96772ecc",
+    "d50c8f65d3cb8b310bcb55b712895589ee231120",
+    "709ea059c7d9b001248981f7822f86bc1165ae1e",
+    "4489302d0c281bf6d31de191a40cf645f59fc946",
+    "c102a27ad24b3ed3712bc8b2e53030ff0199bf4a",
+    "dd8ed4b7a0d7e12726f2d149eec02c3fbbcb9e9e"
   ],
   "stories": {
     "0c2ac7a5e342411678296315c4c59043b1f067cc": {
@@ -17868,7 +17877,97 @@
       "image_remote": "https://media.babylonbee.com/articles/6adb7b9572b756adb7b9572b76.jpg",
       "image_local": "images/story-1349.jpg",
       "id": "a5925d1da5db098acf55a774b4ec88ad47a01ecf"
+    },
+    "48ec84a2d5fecc7192860dd8f0b70c64331a37f1": {
+      "headline": "“Crackgate”? Some iPhone Duo owners say their screens broke along the hinge on launch day",
+      "cat": "Apple / iPhone",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/23/iphone-duo-screen-cracks/",
+      "summary": "Hours into the iPhone Duo’s launch, photos on Reddit and the MacRumors forums show some of Apple’s new foldables with display failures, almost all of them right along the hinge and most leaving a line of bright pixels across one side of the screen. One owner in Australia said he had the phone for about six hours and had opened it fewer than 20 times when he felt something under the screen near the hinge and heard an audible crack; there were no marks on the inner screen or the hinge beforehand. Apple replaced it on the spot at an Apple Store. Several images come from demo units in China, where the backstory is unknown and user damage may be a factor, and early reviewers who ran folding tests didn’t see problems. MacRumors notes some failures are expected with so many phones shipping, that hinge failures from normal use should be covered by the one-year warranty, and that buyers have two weeks to return the phone.",
+      "image_remote": "https://images.macrumors.com/t/kX0mKHsLp2lulNS72p5gfxcP7BE=/1600x/article-new/2026/10/iphone-duo-screen-crack-in-store.jpg",
+      "image_local": "images/story-1350.jpg",
+      "id": "48ec84a2d5fecc7192860dd8f0b70c64331a37f1"
+    },
+    "a0fef0f778e5f057c3d70af690214d5e82e9ad49": {
+      "headline": "A personalized mRNA melanoma vaccine cut the risk of the cancer returning or death by 42% in a late-stage trial",
+      "cat": "Health / Science",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/health/cancer/personalized-mrna-vaccine-melanoma-cut-risk-cancers-return-late-stage-rcna605208",
+      "summary": "An experimental cancer vaccine from Moderna and Merck, called intismeran, reduced the risk of melanoma coming back or killing patients by 42% compared with standard treatment in a late-stage trial, results some oncologists are calling a breakthrough. The vaccine is built for each patient from the genetic data of their own surgically removed tumor. The trial enrolled 1,137 people with Stage 3 melanoma, where the cancer has reached nearby lymph nodes but not distant organs; all had surgery and were taking Merck’s immunotherapy Keytruda, and 757 also got the vaccine while 380 got a placebo. After two years, 82% of the vaccine group had no recurrence versus 70% in the placebo group. “This treatment is about mopping up the cancer cells we can’t see,” said trial leader Dr. Georgina Long of Melanoma Institute Australia. Penn Medicine’s Dr. Robert Vonderheide, who wasn’t involved, called the results a “game changer.” The data will be presented Saturday at the European Society for Medical Oncology meeting in Madrid.",
+      "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260918-moderna-lab-mn-1415-efbd92.jpg",
+      "image_local": "images/story-1351.jpg",
+      "id": "a0fef0f778e5f057c3d70af690214d5e82e9ad49"
+    },
+    "0ba7fc48c0522524cfc8f3cf3b64422345771a60": {
+      "headline": "Paris braces for Saturday protests: 70,000 police deployed nationwide and every Apple Store in the city shut",
+      "cat": "World / France",
+      "source": "AppleInsider",
+      "url": "https://appleinsider.com/articles/26/10/23/all-three-paris-apple-stores-close-ahead-of-protests",
+      "summary": "France is preparing for another day of demonstrations Saturday, a week after the Oct. 17 protests turned into rioting and looting near Place de la République. Authorities plan to deploy about 70,000 police and gendarmes across the country, have banned gatherings near the Champs-Élysées, rejected a proposed march route from République toward the Opéra, and will close 28 Paris metro stations at 9 a.m. Apple is closing seven French stores on Saturday, including all three in Paris (Champs-Élysées, Opéra and Marché Saint-Germain), which will reopen Sunday from noon to 6 p.m. Looters stripped Apple stores in Lille and Bordeaux last weekend, but stolen demo iPhones brick themselves and display a message that the device is being tracked and police will be alerted. According to the BBC, most of the protests began peacefully, over fuel prices, the cost of living and declining public services.",
+      "image_remote": "https://media.appleinsider.com/gallery/69518-146527-applefrance-xl.jpg",
+      "image_local": "images/story-1352.jpg",
+      "id": "0ba7fc48c0522524cfc8f3cf3b64422345771a60"
+    },
+    "79ea038a6c90a35a9e83309086c3cecd96772ecc": {
+      "headline": "Former New Haven police chief Karl Jacobson pleads no contest to embezzling informant funds to feed a sports-betting habit",
+      "cat": "Crime / Connecticut",
+      "source": "NBC Connecticut",
+      "url": "https://www.nbcconnecticut.com/news/local/former-new-haven-police-chief-pleads-no-contest-in-embezzlement-case/3787955/",
+      "summary": "Former New Haven Police Chief Karl Jacobson pleaded no contest Friday to embezzlement charges stemming from an investigation that began in January while he was still chief. Officers had flagged irregularities in the fund used to pay the department’s confidential informants, and when the three assistant chiefs confronted him, Mayor Justin Elicker said, Jacobson admitted taking the money; he filed retirement papers before a meeting where he was to be put on leave. His arrest warrant says much of the money went to sports betting on DraftKings and FanDuel, where over about a year he wagered nearly $4.5 million, won about $4.2 million and lost more than $214,000. He also told officers he had returned money taken from the Police Activity League fund and was seeking help. “I fixed my alcohol problem. I turned to gambling,” he said, according to the warrant. Outside court Friday he said, “I apologize to the mayor and the city and the officers. I love the city.”",
+      "image_remote": "https://media.nbcconnecticut.com/2026/10/jacobson2.png?resize=1200%2C675&quality=85&strip=all",
+      "image_local": "images/story-1353.jpg",
+      "id": "79ea038a6c90a35a9e83309086c3cecd96772ecc"
+    },
+    "d50c8f65d3cb8b310bcb55b712895589ee231120": {
+      "headline": "Justice Department sues to block Alaska’s Senate certification if Sen. Dan Sullivan loses because of the other Dan Sullivan on the ballot",
+      "cat": "Politics / Elections",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/trump-admin-sues-to-block-alaska-senate-certification-if-sen-dan-sullivan-loses/",
+      "summary": "The Trump administration is suing to keep Alaska’s Senate election from being certified if Republican Sen. Dan Sullivan loses to Democrat Mary Peltola because of a second candidate with the same name. Alaska’s ranked-choice ballot lists four candidates, including a teacher named Daniel J. Sullivan, who appears first as “Sullivan, Daniel J. Jr.” with no party, just above the senator, listed as “Sullivan, Dan S. (Registered Republican) Incumbent.” In its filing Friday, the Justice Department argues the teacher deliberately ran under the same name to confuse voters, that some of the senator’s supporters “likely will inadvertently vote for Daniel J. Sullivan,” and that others may not know how to rank the Republican candidates to defeat Peltola. In June the Alaska Supreme Court ruled he could stay on the ballot, reversing the state elections division, which had found he was trying to “cause voter confusion.” His lawyers say the state had no basis to look into his “private motivations.” Peltola’s campaign did not immediately comment.",
+      "image_remote": "",
+      "image_local": "",
+      "id": "d50c8f65d3cb8b310bcb55b712895589ee231120"
+    },
+    "709ea059c7d9b001248981f7822f86bc1165ae1e": {
+      "headline": "Tesla starts building production-quality Optimus robots in Fremont and plans an “Optimus Academy” where they teach themselves",
+      "cat": "Tesla / Robots",
+      "source": "Teslarati",
+      "url": "https://www.teslarati.com/tesla-reveals-optimus-academy-where-robots-teach-themselves/",
+      "summary": "Tesla says it has begun building Optimus humanoid robots on the high-volume line it set up in the Fremont space that made the Model S and Model X until this spring, and that the robots coming off it are “the first production-quality bots that we have manufactured.” The line is sized for a million units a year, and on Wednesday’s earnings call Elon Musk said output should climb toward roughly 20,000 robots a week as it ramps, though he described the early part of that S-curve as a “shallow slope.” Tesla plans to start delivering Optimus to outside companies by the end of next year for dangerous and repetitive jobs. Because Optimus has no fleet like Tesla’s cars to gather real-world training data, the company plans an Optimus Academy where 10,000 to 20,000 robots practice a wide range of tasks and feed what they learn into the next model. Tesla also plans to put its AI5 chip into Optimus next year, and Musk said a new video of AI-driven tasks should arrive within a month or two.",
+      "image_remote": "https://www.teslarati.com/wp-content/uploads/2026/09/tesla-optimus-production-1000x600.jpg",
+      "image_local": "images/story-1354.jpg",
+      "id": "709ea059c7d9b001248981f7822f86bc1165ae1e"
+    },
+    "4489302d0c281bf6d31de191a40cf645f59fc946": {
+      "headline": "Malkin sits out Penguins practice with an illness as the team tries on blue gear for its new throwback jerseys",
+      "cat": "Sports / Penguins",
+      "source": "Pensburgh",
+      "url": "https://www.pensburgh.com/general/82354/evgeni-malkin-injuredfor-practice-as-penguins-new-blue-jersey-2026",
+      "summary": "Evgeni Malkin missed Penguins practice Friday with an illness, which may explain why he barely celebrated his goal Thursday night and skipped the usual lap after being named one of the game’s three stars. Forward Egor Chinakhov, who has a lingering minor injury that has had him in and out of the lineup, was also absent ahead of Saturday’s game against the Predators. The Penguins practiced in blue pants and helmets to break in the gear for their “Hometown Remix” alternate jerseys, which debut Nov. 3 at home against Vegas and will be worn ten times this season. The team’s teaser carried a coded message believed to read “What’s old is new,” and one rumored design brings back the “fat” penguin crest from the franchise’s first season in 1967-68, fitting for its 60th year. It will be the Penguins’ first time in blue jerseys since 2013.",
+      "image_remote": "https://platform.pensburgh.com/wp-content/uploads/sites/123/2026/10/gettyimages-78689959.jpg?quality=90&strip=all&crop=0%2C32.076788830716%2C100%2C35.846422338569&w=1200",
+      "image_local": "images/story-1355.jpg",
+      "id": "4489302d0c281bf6d31de191a40cf645f59fc946"
+    },
+    "c102a27ad24b3ed3712bc8b2e53030ff0199bf4a": {
+      "headline": "System of a Down add two more 2027 Rose Bowl shows, with Gojira opening the third night",
+      "cat": "Music / Metal",
+      "source": "Consequence",
+      "url": "https://consequence.net/2026/10/system-of-a-down-second-third-2027-rose-bowl-shows/",
+      "summary": "System of a Down’s June 5, 2027, concert at the Rose Bowl in Pasadena was billed as the band’s only North American show of the year, but it now has company: the band has added June 6 and June 10 dates at the same stadium. Pierce the Veil will open on June 6, as on the original date, while French metal band Gojira will support on June 10. A Ticketmaster presale is under way for all three shows, and the general on-sale starts Monday, Oct. 26, at 10 a.m. Pacific.",
+      "image_remote": "https://consequence.net/wp-content/uploads/2024/12/System-of-a-Down.jpg",
+      "image_local": "images/story-1356.jpg",
+      "id": "c102a27ad24b3ed3712bc8b2e53030ff0199bf4a"
+    },
+    "dd8ed4b7a0d7e12726f2d149eec02c3fbbcb9e9e": {
+      "headline": "A glowing mold growing on bat droppings, with hibernating bats behind it, wins European Wildlife Photographer of the Year",
+      "cat": "Photography",
+      "source": "PetaPixel",
+      "url": "https://petapixel.com/2026/10/23/20-winners-of-european-wildlife-photographer-of-the-year-2026/",
+      "summary": "Hungarian scientist and photographer Imre Potyó has been named European Wildlife Photographer of the Year 2026, beating more than 26,000 entries in the 26th annual competition run by the German Society for Nature Photography. His winning image shows a small pin mold growing on a layer of bat guano, with dozens of lesser horseshoe bats hibernating in the background, lit dimly by a flashlight. Potyó has photographed bats in protected, restricted-access mine tunnels in Hungary for 13 years. He made the shot with a macro lens as a long exposure with focus shifting, during a controlled bat count and without disturbing the animals. The jury said the picture shows how much of life exists “in places we seldom visit and among organisms we rarely notice.” PetaPixel’s gallery includes 20 winning photos from the contest.",
+      "image_remote": "https://petapixel.com/assets/uploads/2026/10/european-wildlife-photographer-2026-featured.jpg",
+      "image_local": "images/story-1357.jpg",
+      "id": "dd8ed4b7a0d7e12726f2d149eec02c3fbbcb9e9e"
     }
   },
-  "updated": "Friday, October 23, 2026 · 11:38 AM ET"
+  "updated": "Friday, October 23, 2026 · 4:11 PM ET"
 }
