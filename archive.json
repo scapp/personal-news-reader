@@ -1491,7 +1491,16 @@
     "0e2e858d366bff6b2af92236a101bb2fc0575a16",
     "b79670e9f9bff0b67f9dee5bdb4bc63eb9734d1a",
     "f94076ac0ff59063b33dc9d100c7f063bff73338",
-    "8ff336b7f5ef5b02abffba3b60419911a8de6d6c"
+    "8ff336b7f5ef5b02abffba3b60419911a8de6d6c",
+    "1f740d07d2e2ab5f787b9d8b946e9bce4e903a26",
+    "73b53f401908226defc4f065066d86fa223fe923",
+    "fdadda0e0409ccd7323167019f4398fc9b76049c",
+    "ac6df850bc6d06a5ae430c97f7af8396f5c1353e",
+    "ce5fb12bc19bda76b1e8e6ba9a760f3c6549a2d3",
+    "3b6b56e10b98af3d6d30a6ab7d53ca8ec881a133",
+    "0cab5681c91b230e3f975edc650adfa733a103b7",
+    "115bf9064db13cc752e83bb8ff542109d0fc29b6",
+    "a5925d1da5db098acf55a774b4ec88ad47a01ecf"
   ],
   "stories": {
     "0c2ac7a5e342411678296315c4c59043b1f067cc": {
@@ -17769,7 +17778,97 @@
       "image_remote": "https://www.teslarati.com/wp-content/uploads/2026/10/spacex-starship-moon-earth-1000x600.jpg",
       "image_local": "images/story-1341.jpg",
       "id": "8ff336b7f5ef5b02abffba3b60419911a8de6d6c"
+    },
+    "1f740d07d2e2ab5f787b9d8b946e9bce4e903a26": {
+      "headline": "iPhone Duo launch day: lines form outside Apple Stores worldwide, but walk-in stock is limited",
+      "cat": "Apple / iPhone",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/10/23/iphone-duo-launch-day-lines-form-at-apple-stores-walk-in-availability-limited/",
+      "summary": "Apple’s first foldable iPhone went on sale at Apple Stores around the world on Friday, and lines formed overnight from Shanghai to Chicago and Las Vegas, where one reader counted 30 to 40 people at 4:15 a.m. and more than 150 by opening. Apple had warned that in-store inventory would be “limited,” and that appears to be true: store workers are telling disappointed walk-in shoppers to check the Apple Store app Saturday at 10 a.m. ET for new stock. CEO John Ternus marked the launch at the Domain Northside store in Austin, Texas, with retail chief Deirdre O’Brien, the same weekend the city hosts the Formula 1 U.S. Grand Prix that Apple streams in the U.S. Marketing chief Greg Joswiak celebrated at the Fifth Avenue store in New York. The same morning, 9to5Mac reported, Apple passed Nvidia to become the world’s most valuable company.",
+      "image_remote": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-Jingan-Shanghai-store-queue-261023.jpg?quality=82&strip=all&resize=1200,628",
+      "image_local": "images/story-1342.jpg",
+      "id": "1f740d07d2e2ab5f787b9d8b946e9bce4e903a26"
+    },
+    "73b53f401908226defc4f065066d86fa223fe923": {
+      "headline": "Two former FBI officials are charged with lying to Congress about their roles in the Hunter Biden laptop probes",
+      "cat": "Politics / Courts",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/ex-fbi-officials-arrested-hunter-biden-laptop-probe-testimony-scrutiny",
+      "summary": "The Justice Department has charged two former FBI intelligence officials, Nikki Cole Floris and Bradley Benavides, with lying to Congress about their involvement in the bureau’s investigations of Hunter Biden, including matters tied to his laptop. Both surrendered on arrest warrants Friday and made a first appearance in federal court in Washington. Prosecutors say they have evidence Benavides discussed the laptop story with others inside the FBI, even though he testified that he learned about it from Wikipedia, and that Floris discussed Hunter Biden with members of the FBI’s Foreign Influence Task Force despite testifying otherwise. “When senior FBI agents lie to Congress believing they are above the law, it’s time to bring the hammer of justice down on them,” said U.S. Attorney Jeanine Pirro. Floris’s lawyers called her a patriot and the charges “nonsense,” filed “on the eve of an election.”",
+      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/hunter-and-abbe-lowell.png",
+      "image_local": "images/story-1343.jpg",
+      "id": "73b53f401908226defc4f065066d86fa223fe923"
+    },
+    "fdadda0e0409ccd7323167019f4398fc9b76049c": {
+      "headline": "Gunmen open fire on a funeral at a Greek Orthodox church in Jordan, killing at least six Christians",
+      "cat": "World / Middle East",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/jordan-shooting-greek-orthodox-church-karak/",
+      "summary": "Gunmen stormed the compound of a Greek Orthodox church in the village of Hammoud, in Jordan’s Karak governorate, during a funeral on Friday, killing at least six people and wounding 28 in a rare attack on Christians in the mostly Sunni Muslim kingdom. Authorities said the attackers got out of a vehicle and fired on the funeral procession; state TV footage showed two men with pistols and a third with a long gun charging toward the church. A witness said they fired continuously for about five minutes before fleeing, with 150 to 200 people in and around the church, most of the victims between 50 and 70. A manhunt is under way. King Abdullah II vowed the “harshest retaliation,” saying, “We will strike with an iron fist against those who dare to threaten our nation.” Karak, about 110 miles south of Amman, has a significant Christian community.",
+      "image_remote": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/23/99978974-412b-412d-b167-91e4fb9b4349/thumbnail/1200x630/476233bd94a0d11390fb9d8b7d322cfa/vlcsnap-2026-10-23-10h22m03s406.png",
+      "image_local": "images/story-1344.jpg",
+      "id": "fdadda0e0409ccd7323167019f4398fc9b76049c"
+    },
+    "ac6df850bc6d06a5ae430c97f7af8396f5c1353e": {
+      "headline": "Melania Trump brokers a ceasefire in Russian-occupied Oleshky so civilians can get aid and evacuate, the White House says",
+      "cat": "World / Ukraine",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/world/melania-trump-helps-secure-a-ceasefire-deal-in-russian-occupied-oleshky-the-white-house-says",
+      "summary": "The White House announced Friday that first lady Melania Trump has brokered an upcoming ceasefire between Russia and Ukraine in the war-ravaged city of Oleshky, so humanitarian aid can get in and civilians can be evacuated. It said she started the talks and that she and a representative worked directly with Russian and Ukrainian leaders on the terms; Kyiv Independent later reported both sides had agreed. Oleshky, on the Dnipro River across from Ukrainian lines, was taken by Russia on the first day of the 2022 invasion and flooded in 2023 when the Kakhovka Dam collapsed. Residents have gone months without electricity, heat, running water or steady food and medicine, roads out are mined and drones patrol overhead, and Ukraine had repeatedly asked for a local ceasefire. The first lady has made children caught in the war a signature issue and has written to Vladimir Putin about reuniting displaced kids with their families.",
+      "image_remote": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-08T063013Z_1043452219_RC2RXNA0V8LS_RTRMADP_3_UKRAINE-CRISIS-OLESHKY-1024x683.jpg",
+      "image_local": "images/story-1345.jpg",
+      "id": "ac6df850bc6d06a5ae430c97f7af8396f5c1353e"
+    },
+    "ce5fb12bc19bda76b1e8e6ba9a760f3c6549a2d3": {
+      "headline": "Breece Hall is questionable and Adonai Mitchell is set to return as the Jets host the winless Dolphins",
+      "cat": "Sports / Jets",
+      "source": "Yahoo Sports",
+      "url": "https://sports.yahoo.com/articles/jets-list-breece-hall-questionable-145618238.html",
+      "summary": "The Jets could have two key playmakers back for Sunday’s home game against the Dolphins. Head coach Aaron Glenn said wide receiver Adonai Mitchell, who has practiced all week after missing four games with a finger injury, is on track to play and will be a full participant Friday. Running back Breece Hall returned to practice Thursday as a limited participant and will work again Friday, but he will be listed as questionable with the quad injury that has kept him out of the last two games. Guard Dylan Parham (knee) is also questionable. Offensive lineman Max Mitchell (concussion) and linebackers Kiko Mauigoa (quad) and Joseph Ossai (ankle) are out. The 2-4 Jets have been fully healthy for only a few plays this season, but Geno Smith is completing 69% of his passes and Garrett Wilson leads the AFC with 35 catches.",
+      "image_remote": "https://s.yimg.com/lo/mysterio/api/28aa50d7a822c2ebfbfaa25507fe4a20c1a94ae67c0f556a7bdee506770fdee1/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fprofootballtalk.nbcsports.com%2Fa3a4a73f9d3cd0016f21eb993a96db37.jpg",
+      "image_local": "images/story-1346.jpg",
+      "id": "ce5fb12bc19bda76b1e8e6ba9a760f3c6549a2d3"
+    },
+    "3b6b56e10b98af3d6d30a6ab7d53ca8ec881a133": {
+      "headline": "Tesla cancels the Cybertruck for Australia and New Zealand nearly seven years after taking deposits",
+      "cat": "Tesla",
+      "source": "Electrek",
+      "url": "https://electrek.co/2026/10/23/tesla-cancels-cybertruck-australia-new-zealand/",
+      "summary": "Tesla has emailed Cybertruck reservation holders in Australia and New Zealand to say the truck won’t be coming. “After careful consideration, plans to produce Cybertruck for Australia and New Zealand have been discontinued,” the email says, adding that reservations will be cancelled and deposits refunded within 30 days. Australians began putting down A$150 in November 2019. As a consolation, Tesla is offering a free year of FSD (Supervised) to anyone who orders a Model 3 or Model Y instead. The main obstacle is that the Cybertruck is built only in left-hand drive, while Australia, New Zealand, the U.K. and Japan need right-hand drive, and Australia has its own certification rules. Electrek estimates Cybertruck sales at 7,000 to 8,000 last quarter, about a 30,000-a-year pace, and argues the volumes can’t justify re-engineering the truck. Its overseas launches so far have all been in left-hand-drive markets.",
+      "image_remote": "https://electrek.co/wp-content/uploads/sites/3/2025/05/Tesla-prices-2025-Cybertruck.jpg?quality=82&strip=all&resize=1200,628",
+      "image_local": "images/story-1347.jpg",
+      "id": "3b6b56e10b98af3d6d30a6ab7d53ca8ec881a133"
+    },
+    "0cab5681c91b230e3f975edc650adfa733a103b7": {
+      "headline": "Justice Department opens a Second Amendment probe into gun-permit delays in Waterbury and Middletown, Connecticut",
+      "cat": "Guns / Connecticut",
+      "source": "Hoodline",
+      "url": "https://hoodline.com/2026/10/justice-department-probes-middletown-waterbury-over-gun-permit-delays/",
+      "summary": "The U.S. Justice Department has opened an investigation into how the Waterbury and Middletown police departments handle firearm permit applications, looking at whether the two Connecticut cities make residents wait too long and put an unnecessary burden on applicants. Assistant Attorney General Harmeet Dhillon framed the inquiry around the constitutional right of law-abiding Americans to bear arms for self-defense. The announcement did not say how many applications are pending or how long the delays have been, and neither city has commented. It is part of a broader federal push on permitting: DOJ is also investigating “egregious and unjust delays” in Pennsauken, New Jersey, and has sued Minnesota over its 30-day waiting period and permit-to-purchase rules. A state audit has separately found that Connecticut’s Board of Firearms Permit Examiners, which hears appeals of pistol permit denials and revocations, built up a backlog of more than 1,200 cases.",
+      "image_remote": "",
+      "image_local": "",
+      "id": "0cab5681c91b230e3f975edc650adfa733a103b7"
+    },
+    "115bf9064db13cc752e83bb8ff542109d0fc29b6": {
+      "headline": "Billy Corgan says his Christian faith is why he stands by his 30-year friendship with Marilyn Manson",
+      "cat": "Music / Rock",
+      "source": "Louder",
+      "url": "https://www.loudersound.com/bands-artists/smashing-pumpkins-billy-corgan-cites-his-christianity-as-a-reason-for-maintaining-his-friendship-with-marilyn-manson",
+      "summary": "Smashing Pumpkins frontman Billy Corgan has explained why he has stayed friends with Marilyn Manson through the sexual assault allegations and lawsuits the singer has faced since 2021. Asked on a podcast how he decides who stays in his life, Corgan said, “As a Christian person … you have to stand by your friends. But that doesn’t mean you don’t have an opinion, and that doesn’t mean you’re not critical.” He noted that the Los Angeles district attorney looked at the case for years and declined to press charges, citing statute-of-limitations issues, and said he knew things behind the scenes that are not public. “I personally didn’t feel that he was guilty,” Corgan said. “I don’t want the world to tell me who my friends are and who I should associate with.” Manson, who denies all the accusations, has settled two suits and faces a jury trial in November 2027 in a case brought by his former assistant.",
+      "image_remote": "https://cdn.mos.cms.futurecdn.net/5A9vHwoypy6huVCoo2iCY3-1280-80.jpg",
+      "image_local": "images/story-1348.jpg",
+      "id": "115bf9064db13cc752e83bb8ff542109d0fc29b6"
+    },
+    "a5925d1da5db098acf55a774b4ec88ad47a01ecf": {
+      "headline": "Babylon Bee: NFL to paint “Allahu Akbar” in the end zone for its first game in Paris",
+      "cat": "Satire",
+      "source": "The Babylon Bee",
+      "url": "https://babylonbee.com/news/nfl-to-paint-allahu-akbar-in-endzone-for-game-in-paris/",
+      "summary": "The Babylon Bee imagines the NFL swapping its usual end-zone slogans like “Inspire Change” and “End Racism” for “Allahu Akbar” at its first-ever game in Paris, between the Steelers and the Saints, “to accommodate modern French sensibilities.” A fictional league spokesman explains, “We really want to make a good impression on our hosts. … Also, we don’t want to get bombed by terrorists.” The satire jabs at the security worries about playing in Paris “while the city is on fire,” with officials assuring the league the protests are “just about student affordability concerns and nothing else.” It ends with the NFL installing minarets on top of the stadium so the call to prayer can be heard during a “very French halftime show.”",
+      "image_remote": "https://media.babylonbee.com/articles/6adb7b9572b756adb7b9572b76.jpg",
+      "image_local": "images/story-1349.jpg",
+      "id": "a5925d1da5db098acf55a774b4ec88ad47a01ecf"
     }
   },
-  "updated": "Friday, October 23, 2026 · 7:06 AM ET"
+  "updated": "Friday, October 23, 2026 · 11:38 AM ET"
 }
