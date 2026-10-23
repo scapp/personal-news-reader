@@ -1473,7 +1473,16 @@
     "a8f2132df5b8b6a637186053babbba1fbbcf730b",
     "8746dfdf8f34f61a953a9e68a1e56e34a5d48525",
     "162ffe07628bc19383cc4829d6e5451f213513d9",
-    "95de562e812385f55b3c25d65240902029b31209"
+    "95de562e812385f55b3c25d65240902029b31209",
+    "4301e1e4f8080cd565b321d24534602564c04955",
+    "2fc6e51acf68cf1ed1a21fd8f61122536906c7ad",
+    "51a50369078d12748977d20cd1abadf5bcb74b24",
+    "eb9eec504d72fae56818be1f717ec75375991eea",
+    "d731ec3189f7ddd382234dd1427cee7fe3645185",
+    "9bb8d917affc3378042eefaa3622a76d762bf1c7",
+    "34ee61890ce4ccc4e04991baf8b8318196f9841b",
+    "735aa488e7dfcfa86da8a1865cfa1bc2d9f1caea",
+    "73cd78a0a8bc69027a23afacf4b8999d8b4d382b"
   ],
   "stories": {
     "0c2ac7a5e342411678296315c4c59043b1f067cc": {
@@ -17571,7 +17580,97 @@
       "image_remote": "https://gizmodo.com/app/uploads/2026/10/olaf-haraldsson-coin-norway-oslo-cultural-museum-front-back-1200x675.jpg",
       "image_local": "images/story-1325.jpg",
       "id": "95de562e812385f55b3c25d65240902029b31209"
+    },
+    "4301e1e4f8080cd565b321d24534602564c04955": {
+      "headline": "Silovs stops 26 as the Penguins shut out the Panthers 4-0 to end a four-game skid",
+      "cat": "Sports / Penguins",
+      "source": "NHL.com",
+      "url": "https://www.nhl.com/news/florida-panthers-pittsburgh-penguins-game-recap-october-22-2026",
+      "summary": "Arturs Silovs made 26 saves and the Penguins beat Florida 4-0 at PPG Paints Arena on Thursday night, ending a four-game losing streak. Pittsburgh (4-6-1) had gone 1-6-1 in its previous eight games and had allowed at least five goals in each of the four straight losses. Nick Robertson scored twice, including an empty-netter, and Evgeni Malkin and Hendrix Lapierre each had a goal and an assist. Florida failed to get a shot on goal during a four-minute power play after Silovs took a double minor for high-sticking Sam Bennett. Panthers rookie Cooper Black made 17 saves in his NHL debut and, at 6-foot-9, became the tallest goaltender in league history. Egor Chinakhov was a late scratch with a lower-body injury and is day to day.",
+      "image_remote": "https://media.d3.nhle.com/image/private/t_ratio16_9-size50/v1792720696/prd/oqjbakl0krdkea33eerq.jpg",
+      "image_local": "images/story-1326.jpg",
+      "id": "4301e1e4f8080cd565b321d24534602564c04955"
+    },
+    "2fc6e51acf68cf1ed1a21fd8f61122536906c7ad": {
+      "headline": "iPhone Duo launch begins as the first pre-orders reach customers in Australia and New Zealand",
+      "cat": "Apple / iPhone",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/22/iphone-duo-australia-launch/",
+      "summary": "It is already Friday in Australia and New Zealand, so the first iPhone Duo pre-orders are arriving and owners are posting early photos and impressions. Apple’s first foldable starts at $1,999, with a 5.4-inch outer screen and a 7.6-inch inner screen. Apple says stores in the U.S., Canada, the UK, Australia and several other countries will have a limited number of walk-in units on launch day and expects them to sell out fast because of “extraordinary” demand. There will be no walk-in sales in France, China, Japan, India, South Korea and some other markets. Online shipping estimates slipped to January 25 shortly after pre-orders opened and have stayed there, and Apple says to check back Saturday for pickup reservations. Some Apple Stores will open early at 8 a.m. local time, with North America last in line.",
+      "image_remote": "https://images.macrumors.com/t/sdHF4FdLDlRAlDdHxJQ8-VAkPoU=/2000x/article-new/2026/10/boardiesboi-duo-australia.jpg",
+      "image_local": "images/story-1327.jpg",
+      "id": "2fc6e51acf68cf1ed1a21fd8f61122536906c7ad"
+    },
+    "51a50369078d12748977d20cd1abadf5bcb74b24": {
+      "headline": "Erika Kirk fights the defense’s proposed 2029 trial date for Charlie Kirk’s accused killer",
+      "cat": "Crime / Courts",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/us/erika-kirk-rips-absurd-2029-trial-timeline-charlie-kirks-alleged-assassin",
+      "summary": "Erika Kirk is asking a Utah judge to reject Tyler Robinson’s defense proposal to start his murder trial in the third quarter of 2029 and instead set a date in 2027. Her lawyers called the timeline “grossly out of line” with comparable cases, cited Utah’s guarantee of a speedy disposition for crime victims, and noted that Charlie Kirk’s two children would be seven and five by the time a verdict came under the defense schedule. They also pointed to a report that Robinson’s defense cost taxpayers about $1.6 million in its first year and asked for monthly progress reports. The defense says setting a firm date now would create “false precision” in a death penalty case. Prosecutors say they could be ready by October 2027 but proposed January 31, 2028, to avoid holiday interruptions, and expect a 17-week trial.",
+      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/erika-kirk-court-fox-news_008.jpg",
+      "image_local": "images/story-1328.jpg",
+      "id": "51a50369078d12748977d20cd1abadf5bcb74b24"
+    },
+    "eb9eec504d72fae56818be1f717ec75375991eea": {
+      "headline": "Iran says seven oil tankers were hit or struck mines in the Strait of Hormuz overnight",
+      "cat": "World / Middle East",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/world/iran-says-7-oil-tankers-damaged-in-strait-of-hormuz-and-other-middle-east-news",
+      "summary": "Iranian state television reported Thursday that seven oil tankers caught fire or were damaged in the Strait of Hormuz overnight, which would be the most vessels damaged in a single day since the U.S. and Israel launched strikes on Iran on Feb. 28. Quoting the Revolutionary Guard’s navy, it said four tankers were hit while transferring oil and three more were disabled by naval mines, with no details on casualties or flags. Lloyd’s List Intelligence says tankers willing to risk the run are moving through at night in a U.S. military-protected lane near Oman with their tracking systems switched off. Saudi Aramco says flows through its East-West pipeline, which bypasses the strait, have more than tripled to 7 million barrels a day.",
+      "image_remote": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-19T121627Z_2010693215_RC296OAHFDU7_RTRMADP_3_IRAN-CRISIS-OMAN-HORMUZ-1024x576.jpg",
+      "image_local": "images/story-1329.jpg",
+      "id": "eb9eec504d72fae56818be1f717ec75375991eea"
+    },
+    "d731ec3189f7ddd382234dd1427cee7fe3645185": {
+      "headline": "Trump says he told Vivek Ramaswamy to keep up his ad featuring Amy Acton’s estranged mother",
+      "cat": "Politics / Ohio",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/ramaswamy-ad-amy-acton-mother-trump/",
+      "summary": "President Trump on Thursday praised the “very powerful” ad Ohio gubernatorial candidate Vivek Ramaswamy is running, which features Democrat Amy Acton’s estranged mother, Donna Arthur, calling her a “liar.” Trump wrote on Truth Social that he suggested Ramaswamy leave it up and said the press is attacking the ad “because it’s so good!” Gov. Mike DeWine had urged Ramaswamy to take it down, though he kept his endorsement, while Vice President JD Vance has defended it. Acton’s campaign condemned the ad, and her brother called it a “despicable low.” Court records the campaign provided show Arthur’s late husband was charged with raping Acton as a child, a case that never went to trial. Told that backstory at the White House, Trump said he knew nothing about it but that “Vivek is great.”",
+      "image_remote": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/22/bc8a7ff6-c637-4ebe-879c-e923dd7468d8/thumbnail/1200x630g2/f1ea2e042c076c47e1638e62a0cb0357/ap26286019535514.jpg",
+      "image_local": "images/story-1330.jpg",
+      "id": "d731ec3189f7ddd382234dd1427cee7fe3645185"
+    },
+    "9bb8d917affc3378042eefaa3622a76d762bf1c7": {
+      "headline": "Sony has stopped making its last budget 4K Blu-ray player, another blow to physical media",
+      "cat": "Gadgets / Home Theater",
+      "source": "Gizmodo",
+      "url": "https://gizmodo.com/sony-blu-ray-player-discontinued-2000829662",
+      "summary": "Sony has stopped shipping the UBP-X700, which it positioned as its last budget 4K Blu-ray player, according to Japanese retailer Kunkoko via FlatpanelsHD. It is listed as out of stock with no restock on Sony’s Japanese store and is already sold out at Walmart and Best Buy. The move follows PlayStation’s plan to end game disc production in 2028, and the next PlayStation is not expected to have a disc drive at all. Gizmodo notes that consoles are a poor substitute for movie collectors, since the PS5 does not support Dolby Vision or Dolby Atmos for films. Sony has also sold most of its TV business to TCL and says it will skip CES 2027. Panasonic and a few others still make players, but disc playback is likely to get more expensive and niche.",
+      "image_remote": "https://gizmodo.com/app/uploads/2026/10/Sony-Blu-ray-Players-1-1200x675.jpg",
+      "image_local": "images/story-1331.jpg",
+      "id": "9bb8d917affc3378042eefaa3622a76d762bf1c7"
+    },
+    "34ee61890ce4ccc4e04991baf8b8318196f9841b": {
+      "headline": "Apple TV’s Fleetwood Mac documentary “The Chain” finally gets a January 29 premiere date",
+      "cat": "Music / Classic Rock",
+      "source": "Louder",
+      "url": "https://www.loudersound.com/culture/films-tv-shows/fleetwood-mac-the-chain-documentary",
+      "summary": "Fleetwood Mac: The Chain, the Apple TV documentary first announced in November 2024, will premiere on January 29, 2027, timed to the 50th anniversary of “Rumours,” which came out on Feb. 4, 1977. It features contributions from Mick Fleetwood, John McVie, the late Christine McVie, Lindsey Buckingham and Stevie Nicks, and takes its name from the only song on the album credited to all five members. Frank Marshall, who directed the Bee Gees and Beach Boys documentaries, is behind the camera. The film starts in late 1974, when Fleetwood heard Buckingham Nicks’ “Frozen Love” at Sound City Studio in Los Angeles and invited Buckingham, and then Nicks, to join. The band’s turbulent earlier years, including the Peter Green era and the “Fake Fleetwood Mac,” are left for another day.",
+      "image_remote": "https://cdn.mos.cms.futurecdn.net/4NWR7ukYJwdEsqvCBKfNhH-1280-80.jpg",
+      "image_local": "images/story-1332.jpg",
+      "id": "34ee61890ce4ccc4e04991baf8b8318196f9841b"
+    },
+    "735aa488e7dfcfa86da8a1865cfa1bc2d9f1caea": {
+      "headline": "LEGO’s next free gift with purchase is Ideas 40889 Build, Paint and Play, a brick-built model-making bench",
+      "cat": "LEGO",
+      "source": "Brick Fanatics",
+      "url": "https://www.brickfanatics.com/first-details-lego-ideas-40889-build-paint-play",
+      "summary": "LEGO has unveiled 40889 Build, Paint and Play!, the latest LEGO Ideas gift with purchase, available from Oct. 28 with qualifying orders of $130 or more. It is based on fan designer Doomslizer’s winning entry in the 2025 LEGO Ideas Build Your Hobby contest and recreates miniature model-making on a cutting board, with a cutting tool, glue, paint, brushes, a decal sheet and a sprue holding a helmet and air tanks in a new cooler grey. A teal Classic Space astronaut and a small pink frog round it out, though some fans had hoped for the blue astronaut from the original design. The final version trims the piece count from 235 to 158. No end date has been announced, so it may run until stock runs out.",
+      "image_remote": "https://www.brickfanatics.com/storage/uploads/d09a3283-5da5-420d-a5c0-77cc71279f83.png",
+      "image_local": "images/story-1333.jpg",
+      "id": "735aa488e7dfcfa86da8a1865cfa1bc2d9f1caea"
+    },
+    "73cd78a0a8bc69027a23afacf4b8999d8b4d382b": {
+      "headline": "Texas county approves incentives for Tesla’s $10.1 billion “Project Crystal Sun” solar factory",
+      "cat": "Tesla / Energy",
+      "source": "Teslarati",
+      "url": "https://www.teslarati.com/tesla-project-crystal-sun-texas-approval/",
+      "summary": "Fort Bend County commissioners voted 4-0 on Thursday to approve four incentive agreements for Tesla’s proposed $10.1 billion solar cell and module factory near Needville, Texas, south of Houston, giving the project one of its last local approvals. The plant, known internally as Project Crystal Sun, would cover about 3,000 acres and handle everything from ingot and wafer production to finished panels, with 9,712 permanent jobs projected by 2033 and operations targeted for early 2029. The site is not locked in yet. Tesla has told the Texas Comptroller it is still weighing a competing out-of-state offer and hopes to decide by the end of 2026, and the state still has to sign off on the incentives. The factory fits Musk’s goal of 100 gigawatts a year of in-house solar cell production.",
+      "image_remote": "",
+      "image_local": "",
+      "id": "73cd78a0a8bc69027a23afacf4b8999d8b4d382b"
     }
   },
-  "updated": "Thursday, October 22, 2026 · 6:11 PM ET"
+  "updated": "Thursday, October 22, 2026 · 10:11 PM ET"
 }
