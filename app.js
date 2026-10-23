@@ -24,6 +24,8 @@
   const leadEl = document.getElementById('lead');
   const feedEl = document.getElementById('feed');
   const emptyEl = document.getElementById('empty');
+  const emptyText = document.getElementById('empty-text');
+  const showReadBtn = document.getElementById('show-read-btn');
   const hideReadToggle = document.getElementById('hide-read');
   const refreshBtn = document.getElementById('refresh-btn');
   const refreshStatus = document.getElementById('refresh-status');
@@ -428,12 +430,13 @@
 
   // Undo is single-level (last remove / save&read). No always-on bar:
   // shake, Cmd/Ctrl+Z, or the brief toast shown after a remove.
+  const TOAST_H = 44; // matches .undo-toast min-height (44px tap target for Undo)
   function positionToast() {
     if (!undoToast) return;
     const bar = deckMode() && deckEl ? deckEl.querySelector('.deck-bar') : null;
     if (bar) {
       const r = bar.getBoundingClientRect();
-      undoToast.style.setProperty('--undo-toast-bottom', Math.max(4, window.innerHeight - r.bottom + (r.height - 30) / 2) + 'px');
+      undoToast.style.setProperty('--undo-toast-bottom', Math.max(4, window.innerHeight - r.bottom + (r.height - TOAST_H) / 2) + 'px');
     } else undoToast.style.removeProperty('--undo-toast-bottom');
   }
 
@@ -752,7 +755,7 @@
       deckEl.innerHTML = `
         <div class="deck-end">
           <h2>All caught up</h2>
-          <p>No unread stories left in this batch. New stories arrive at 7am, 11am, and 5pm ET.</p>
+          <p>No unread stories left in this batch. New stories arrive at 7 AM, 11:30 AM, 4 PM, 6 PM, and 10 PM ET.</p>
           <p class="deck-end-actions">
             <button type="button" data-action="open-saved">Open Saved (${savedStories().length})</button>
             <button type="button" data-action="deck-refresh">Check for new stories</button>
@@ -896,9 +899,16 @@
 
     if (!visible.length) {
       emptyEl.hidden = false;
-      emptyEl.textContent = viewMode === 'saved'
+      // Hide read is on and it hid everything: offer a one-tap way back.
+      const hiddenByRead = viewMode !== 'saved' && !!(hideReadToggle && hideReadToggle.checked) &&
+        notRemoved(stories).some((s) => reads.has(s.id));
+      const msg = viewMode === 'saved'
         ? 'No saved stories yet. Use Save on a card to keep it here.'
-        : 'No stories to show. Toggle “Hide read” or open Saved.';
+        : hiddenByRead
+          ? 'No stories to show. Every story in this batch is read and “Hide read” is on.'
+          : 'No stories to show. Toggle “Hide read” or open Saved.';
+      if (emptyText) emptyText.textContent = msg; else emptyEl.textContent = msg;
+      if (showReadBtn) showReadBtn.hidden = !hiddenByRead;
       return;
     }
     emptyEl.hidden = true;
@@ -910,11 +920,22 @@
     bindImageErrors(feedEl);
   }
 
+  function setHideRead(on) {
+    if (!hideReadToggle) return;
+    hideReadToggle.checked = !!on;
+    try { localStorage.setItem(HIDE_READ_KEY, on ? '1' : '0'); } catch (err) {}
+    render();
+  }
+
   function onClick(e) {
     const btn = e.target.closest('button[data-action]');
     if (!btn) return;
     const id = btn.getAttribute('data-id');
     const action = btn.getAttribute('data-action');
+    if (action === 'show-read') {
+      setHideRead(false);
+      return;
+    }
     if (action === 'open-saved') {
       if (savedToggle && viewMode !== 'saved') savedToggle.click();
       return;

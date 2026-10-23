@@ -16,7 +16,7 @@ On load, the site asks for a PIN. Client-side Web Crypto hashes `salt + PIN` (SH
 - `data.json` — **live home feed** (`updated` + `stories[]` with `id` = sha1 of URL). **Hard cap: ≤20 stories** after every publish. Prefer category variety; avoid near-duplicate politics in the same batch.
 - `archive.json` — accumulating store of all known stories (append by id; never wipe). Used for Saved lookup, not the endless home pile.
 - `images/` — local thumbnails referenced by `image_local`.
-- Refresh cadence: **7am / 11am / 5pm ET** (not hourly).
+- Refresh cadence: **7 AM / 11:30 AM / 4 PM / 6 PM / 10 PM ET** (not hourly).
 - Format rules: `../profile/SITE-FORMAT.md`.
 
 ## Local preview
