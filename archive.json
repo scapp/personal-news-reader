@@ -1527,7 +1527,17 @@
     "d61f12fff8eaadaafdef743c68cebc7f0be0cfcd",
     "9dc5275e4a2f4127af5e4b312e289f4db55714fd",
     "f278d44b58985175269d0d26b23fd297915de351",
-    "90ef0455fad99b85dfd4414e27d137706a0a4bdf"
+    "90ef0455fad99b85dfd4414e27d137706a0a4bdf",
+    "60124908b23dea52322d2536e65af60c345f6c47",
+    "ec113c0a8b8ad8ee5ad2ef65fd5da01d35cc1fe0",
+    "9781ec08dc3b4812a0465655795b5186a7a6dc97",
+    "c644c04193b9dcd63bab876a4c46ae9ea6027d88",
+    "fdfad82cf7a7cbff074ac7dd27cbd2f0cf55c3fa",
+    "ffd023fbf0d8c481c2f437d358c5a5ea0914e505",
+    "4ba7495714bb92101aa141821a0de9215023b220",
+    "09571e6f601d806f9f70e16e830f115457b71f04",
+    "483c66297ffb6064be850b5410ec565369ac4e7b",
+    "d6b3c644b4a0951750baeffe44373456ad044a5d"
   ],
   "stories": {
     "0c2ac7a5e342411678296315c4c59043b1f067cc": {
@@ -18165,7 +18175,107 @@
       "image_remote": "https://media.breitbart.com/media/2026/10/GettyImages2300858013-640x335.jpg",
       "image_local": "images/story-1374.jpg",
       "id": "90ef0455fad99b85dfd4414e27d137706a0a4bdf"
+    },
+    "60124908b23dea52322d2536e65af60c345f6c47": {
+      "headline": "Iran’s plots to kill Americans abroad have reached “advanced stages,” U.S. intelligence chief warns",
+      "cat": "World / Security",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/iran-target-u-s-personnel/",
+      "summary": "Director of National Intelligence Jay Clayton warned Friday that Iran has “substantially increased efforts to target U.S. personnel” abroad, writing in an unclassified memo to Secretary of State Marco Rubio, obtained by CBS News, that “the lethal plotting efforts by the Iranians against U.S. citizens have reached advanced stages in both the Middle East and certain other countries.” The memo does not name specific targets or countries or say whether attacks are imminent, and it comes as the Trump administration weighs resuming military strikes against Iran. Clayton said the intelligence community is working to downgrade sensitive intelligence so it can be shared more widely with State Department staff; CIA Director John Ratcliffe was copied. Earlier this week the State Department ordered non-essential embassy staff and their families out of Saudi Arabia, and several other U.S. embassies in the region have cut staffing under “restricted operations” status as the military also pares back its footprint amid threats from Iran and the Iranian-backed Houthis.",
+      "image_remote": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/07/28/118763f4-f146-4f75-9b3a-e186a67b80b4/thumbnail/1200x630/4d2fcaf7b0eccc36f09674aad2ef54c9/gettyimages-2285627982.jpg",
+      "image_local": "images/story-1375.jpg",
+      "id": "60124908b23dea52322d2536e65af60c345f6c47"
+    },
+    "ec113c0a8b8ad8ee5ad2ef65fd5da01d35cc1fe0": {
+      "headline": "Appeals court orders California to answer by Saturday noon on DOJ’s bid to set aside 20,000 ballots tied to suspected noncitizens",
+      "cat": "Politics / Elections",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/california-must-respond-dojs-emergency-request-over-ballots-mailed-alleged-noncitizens-court-rules",
+      "summary": "The Ninth Circuit ordered California late Friday to respond by noon Saturday to an emergency Justice Department request to sequester mail-in ballots sent to roughly 20,000 people the department suspects are noncitizens, ahead of the midterm elections. The DOJ went to the appeals court after U.S. District Judge David Carter did not rule by the deadline it had asked for. It wants California election officials to set aside ballots tied to the people on its list while their eligibility is reviewed, instead of processing them alongside other votes. “This is an emergency,” said the filing, submitted by Attorney General Todd Blanche’s office, which asked for a ruling by Saturday. Separately, the department has demanded that some California counties help identify and verify the flagged voters.",
+      "image_remote": "",
+      "image_local": "",
+      "id": "ec113c0a8b8ad8ee5ad2ef65fd5da01d35cc1fe0"
+    },
+    "9781ec08dc3b4812a0465655795b5186a7a6dc97": {
+      "headline": "Fire engulfs Hitler’s Eagle’s Nest mountain retreat in the Bavarian Alps, and police arrest a suspect",
+      "cat": "World / History",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/hitler-eagles-nest-mountain-retreat-fire-nazi/",
+      "summary": "German police detained a suspect after a fire tore through the Kehlsteinhaus, Adolf Hitler’s Eagle’s Nest retreat on the peak above Obersalzberg in Bavaria, on Friday night. Authorities were alerted at about 9:15 p.m. local time, and the building was “completely engulfed in flames” when firefighters arrived, Upper Bavaria South police said. Fire trucks struggled to reach the site because of local conditions, but no one was inside and no injuries were reported. Police said a suspect came into focus shortly after the fire broke out, and the cause is now under criminal investigation. Completed in 1938 at 6,017 feet and occasionally used by Hitler as a temporary seat of government, the Eagle’s Nest escaped Allied bombing in World War II and has since become a popular tourist stop with a restaurant and beer garden.",
+      "image_remote": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/24/72c331be-06e0-470b-81c5-a3868ea01b21/thumbnail/1200x630/2d77c388273cf3ce1690e9f3f3be1f4c/gettyimages-2301213630.jpg",
+      "image_local": "images/story-1376.jpg",
+      "id": "9781ec08dc3b4812a0465655795b5186a7a6dc97"
+    },
+    "c644c04193b9dcd63bab876a4c46ae9ea6027d88": {
+      "headline": "FBI arrests a Georgia man accused of throwing a Molotov cocktail at the Atlanta ICE building",
+      "cat": "Crime / Courts",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/us/fbi-arrests-georgia-man-accused-throwing-molotov-cocktail-atlanta-ice-facility",
+      "summary": "Federal agents on Thursday arrested Inique Hinton, 31, of Douglasville, Georgia, accusing him of throwing a Molotov cocktail at the Immigration and Customs Enforcement building on Ted Turner Drive in downtown Atlanta on Tuesday night. He is charged with attempted arson of a federal building and depredation of government property, and faces up to 20 years in prison. Prosecutors say security cameras showed him walking near the building just before 8:15 p.m.; minutes later he allegedly lit an object and threw it, striking the exterior fence and spreading flames. Investigators recovered burned cloth, lighter fluid, a glass bottle and a lighter. “An attack on federal property is an attack against our democracy. It is an act of terrorism. It is an act of political violence, and it cannot stand,” U.S. Attorney Theodore Hertzberg said, promising to respond with “extreme severity.”",
+      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/inique-hinton-atlanta-ice-building-molotov-cocktail.jpg",
+      "image_local": "images/story-1377.jpg",
+      "id": "c644c04193b9dcd63bab876a4c46ae9ea6027d88"
+    },
+    "fdfad82cf7a7cbff074ac7dd27cbd2f0cf55c3fa": {
+      "headline": "Ukraine says Starshield is working again above 400 km/h after weeks of speed caps that hobbled its drones",
+      "cat": "Tech / Musk",
+      "source": "Kyiv Independent",
+      "url": "https://kyivindependent.com/starshield-operations-restored-above-400-km-h-ukraines-defense-ministry-says/",
+      "summary": "Starshield, the military version of Elon Musk’s Starlink satellite internet, was working at speeds above 400 kilometers per hour (about 248 mph) as of Saturday morning, Ukraine’s Defense Ministry said, after being limited to 161 km/h (about 100 mph) since mid-October. “We record a speed of more than 400 km/h, the connection is stable,” the ministry said, crediting direct talks at the highest level by President Zelensky and calling the fix important for drones, logistics and communications at the front. The caps had hampered Kyiv’s ability to intercept Russian jet-powered drones and coordinate strikes. Nobody has publicly taken credit or blame for imposing the limits, though Trump administration officials have pointed at Musk, and U.S. lawmakers had given him until Oct. 31 to explain the slowdown.",
+      "image_remote": "https://assets.kyivindependent.com/content/images/2026/10/GettyImages-2300467160_20261024-075241.jpg",
+      "image_local": "images/story-1378.jpg",
+      "id": "fdfad82cf7a7cbff074ac7dd27cbd2f0cf55c3fa"
+    },
+    "ffd023fbf0d8c481c2f437d358c5a5ea0914e505": {
+      "headline": "Tesla shows the Roadster’s fighter-jet-style screen, complete with a 5,500 PSI thruster gauge",
+      "cat": "Autos / Tesla",
+      "source": "Teslarati",
+      "url": "https://www.teslarati.com/tesla-roadster-center-display-ui-ux/",
+      "summary": "Tesla has given future owners their clearest look yet at the next-generation Roadster’s cockpit in a 34-second video posted to X on Friday, captioned “Inspired by fighter jet cockpits, Roadster’s interface was designed around the pilot.” The black-and-red touchscreen shows a 3D wireframe of the car beside the squared-off yoke, with taps bringing up rear-wing positions, charging and a music player, and tabs for Home, Vehicle, Listen, Climate and Navigate. Most of the clip shows Track Mode, with a live circuit map, lap times, brake and motor temperatures, per-tire readouts, and a setup page for aero modes, aero and brake balance and turning off stability and traction control. Along the bottom a status bar reads “Thruster · 5,500 PSI” next to “Boost Ready,” tying the software to the cold-gas thrusters Tesla demonstrated near Waco, Texas, on Oct. 15.",
+      "image_remote": "https://www.teslarati.com/wp-content/uploads/2026/10/tesla-roadster-screen-ui-1000x600.jpg",
+      "image_local": "images/story-1379.jpg",
+      "id": "ffd023fbf0d8c481c2f437d358c5a5ea0914e505"
+    },
+    "4ba7495714bb92101aa141821a0de9215023b220": {
+      "headline": "The U.S. birth rate hits a record low, though more women in their 30s and 40s are having babies",
+      "cat": "Health / Science",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/10/24/nx-s1-6012804/birth-rate-population-cdc",
+      "summary": "The U.S. general fertility rate fell 1% to a new record low in 2025, continuing a two-decade slide, according to the latest CDC report. The steepest drops came among younger women: births fell 6% for women 20 to 24 and 7% for those in their late teens, said CDC demographer Brady Hamilton, a co-author. The decline would have been bigger except that birth rates rose slightly among women 30 to 45, many of whom say they are building careers and stable lives first. A Federal Reserve Bank of Atlanta study last month found Gen Z women are “dramatically less likely to want children” than earlier generations, citing costs, job opportunities and changing priorities. The Census Bureau says the under-18 population dropped by more than 1 million between 2010 and 2020, and some experts argue more families would have kids with help on housing, daycare and health insurance.",
+      "image_remote": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5684x3197+0+296/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8c%2F29%2F6861f1194bd8997988121c97f379%2Fgettyimages-2206454176.jpg",
+      "image_local": "images/story-1380.jpg",
+      "id": "4ba7495714bb92101aa141821a0de9215023b220"
+    },
+    "09571e6f601d806f9f70e16e830f115457b71f04": {
+      "headline": "Review: LEGO Technic’s NASA Artemis rocket “lifts off” from its launch pad and grows from 18.5 to 28 inches",
+      "cat": "LEGO / Space",
+      "source": "Stone Wars",
+      "url": "https://stonewars.com/reviews/lego-42221-nasa-artemis-sls-review/",
+      "summary": "Stone Wars takes a close look at LEGO Technic 42221, the NASA Artemis Space Launch System rocket, modeled on the rocket that carried the crewed Artemis II mission around the Moon in April, the first time humans had returned to lunar orbit since Apollo 17 in 1972. The $59.99 set has 632 pieces in seven bags, is rated 9+, and includes four nano crew figures and a stylized launch pad. Its headline feature, a first for LEGO, is a working launch function: the model starts at 47 centimeters (18.5 inches) tall and reaches 72 centimeters (28.3 inches) once the launch sequence finishes, and it makes noise only during liftoff. The reviewer calls it a welcome novelty in a Technic lineup dominated by cars and construction machines. Fans who want the bigger brick-built version should note the LEGO Icons 10341 Artemis SLS is due to leave shelves by year’s end.",
+      "image_remote": "https://stonewars.com/wp-content/uploads/2026/10/42221-nasa-artemis-review.jpg",
+      "image_local": "images/story-1381.jpg",
+      "id": "09571e6f601d806f9f70e16e830f115457b71f04"
+    },
+    "483c66297ffb6064be850b5410ec565369ac4e7b": {
+      "headline": "Ex-Iron Maiden drummer Nicko McBrain says he used heroin before joining the band, and kicked it by 1982",
+      "cat": "Music / Metal",
+      "source": "Louder",
+      "url": "https://www.loudersound.com/bands-artists/nicko-mcbrain-iron-maiden-drugs-heroin",
+      "summary": "Nicko McBrain, promoting his new autobiography Hello Boys And Girls!, told Classic Rock that he dabbled with heroin in the late 1970s but was “lucky” never to become addicted. “I never put it in my arm, I just chased the dragon, as we used to call it,” he said, describing a period when he was introduced to “the higher echelons of people in the music industry.” He said he had quit before Iron Maiden offered him the drum stool in late 1982, replacing Clive Burr after the tour for The Number of the Beast. “God blessed me with this gene where I could just turn that tap off,” McBrain said, adding that he went through cold sweats and shivers but not withdrawal. He also urged fans who are struggling: “go get help – there’s people out there to help you. It’s not admitting defeat.”",
+      "image_remote": "https://cdn.mos.cms.futurecdn.net/UCAnygU4vuEhT4AE9r6tch-1280-80.jpg",
+      "image_local": "images/story-1382.jpg",
+      "id": "483c66297ffb6064be850b5410ec565369ac4e7b"
+    },
+    "d6b3c644b4a0951750baeffe44373456ad044a5d": {
+      "headline": "Why Mark Knopfler traded his Strats for Schecters in the 1980s: “I was looking for something with a bit more power”",
+      "cat": "Music / Guitar",
+      "source": "Guitar World",
+      "url": "https://www.guitarworld.com/artists/guitarists/why-mark-knopfler-swapped-strats-for-schecters-in-the-1980s",
+      "summary": "Mark Knopfler built his name in the 1970s on Fender Stratocasters, but in the 1980s the Dire Straits guitarist mostly switched to Schecters, Guitar World recounts. “I was looking for something with a bit more power than a Strat,” he told Guitarist in February 1986, saying he had “a great one” for recording the 1980 album Making Movies. That guitar was later stolen from a car in Deptford, London, though he had a similar one that he played so much it was away being re-fretted. Back then Schecter was known as a high-end parts supplier and custom shop championed by Prince and Pete Townshend. Today the brand is mostly associated with metal and progressive players such as Synyster Gates and Mastodon’s new guitarist Nick Johnston, and it houses Zakk Wylde’s Wylde Audio.",
+      "image_remote": "https://cdn.mos.cms.futurecdn.net/8XQ6BYGZCbC7zrDfYMVh68-1200-80.jpg",
+      "image_local": "images/story-1383.jpg",
+      "id": "d6b3c644b4a0951750baeffe44373456ad044a5d"
     }
   },
-  "updated": "Friday, October 23, 2026 · 10:05 PM ET"
+  "updated": "Saturday, October 24, 2026 · 7:08 AM ET"
 }

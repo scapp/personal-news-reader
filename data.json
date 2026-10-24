@@ -1,8 +1,118 @@
 {
-  "updated": "Friday, October 23, 2026 · 10:05 PM ET",
+  "updated": "Saturday, October 24, 2026 · 7:08 AM ET",
   "stories": [
     {
       "n": 1,
+      "headline": "Iran’s plots to kill Americans abroad have reached “advanced stages,” U.S. intelligence chief warns",
+      "cat": "World / Security",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/iran-target-u-s-personnel/",
+      "image_local": "images/story-1375.jpg",
+      "image_remote": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/07/28/118763f4-f146-4f75-9b3a-e186a67b80b4/thumbnail/1200x630/4d2fcaf7b0eccc36f09674aad2ef54c9/gettyimages-2285627982.jpg",
+      "id": "60124908b23dea52322d2536e65af60c345f6c47",
+      "summary": "Director of National Intelligence Jay Clayton warned Friday that Iran has “substantially increased efforts to target U.S. personnel” abroad, writing in an unclassified memo to Secretary of State Marco Rubio, obtained by CBS News, that “the lethal plotting efforts by the Iranians against U.S. citizens have reached advanced stages in both the Middle East and certain other countries.” The memo does not name specific targets or countries or say whether attacks are imminent, and it comes as the Trump administration weighs resuming military strikes against Iran. Clayton said the intelligence community is working to downgrade sensitive intelligence so it can be shared more widely with State Department staff; CIA Director John Ratcliffe was copied. Earlier this week the State Department ordered non-essential embassy staff and their families out of Saudi Arabia, and several other U.S. embassies in the region have cut staffing under “restricted operations” status as the military also pares back its footprint amid threats from Iran and the Iranian-backed Houthis."
+    },
+    {
+      "n": 2,
+      "headline": "Appeals court orders California to answer by Saturday noon on DOJ’s bid to set aside 20,000 ballots tied to suspected noncitizens",
+      "cat": "Politics / Elections",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/california-must-respond-dojs-emergency-request-over-ballots-mailed-alleged-noncitizens-court-rules",
+      "image_local": "",
+      "image_remote": "",
+      "id": "ec113c0a8b8ad8ee5ad2ef65fd5da01d35cc1fe0",
+      "summary": "The Ninth Circuit ordered California late Friday to respond by noon Saturday to an emergency Justice Department request to sequester mail-in ballots sent to roughly 20,000 people the department suspects are noncitizens, ahead of the midterm elections. The DOJ went to the appeals court after U.S. District Judge David Carter did not rule by the deadline it had asked for. It wants California election officials to set aside ballots tied to the people on its list while their eligibility is reviewed, instead of processing them alongside other votes. “This is an emergency,” said the filing, submitted by Attorney General Todd Blanche’s office, which asked for a ruling by Saturday. Separately, the department has demanded that some California counties help identify and verify the flagged voters."
+    },
+    {
+      "n": 3,
+      "headline": "Fire engulfs Hitler’s Eagle’s Nest mountain retreat in the Bavarian Alps, and police arrest a suspect",
+      "cat": "World / History",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/hitler-eagles-nest-mountain-retreat-fire-nazi/",
+      "image_local": "images/story-1376.jpg",
+      "image_remote": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/24/72c331be-06e0-470b-81c5-a3868ea01b21/thumbnail/1200x630/2d77c388273cf3ce1690e9f3f3be1f4c/gettyimages-2301213630.jpg",
+      "id": "9781ec08dc3b4812a0465655795b5186a7a6dc97",
+      "summary": "German police detained a suspect after a fire tore through the Kehlsteinhaus, Adolf Hitler’s Eagle’s Nest retreat on the peak above Obersalzberg in Bavaria, on Friday night. Authorities were alerted at about 9:15 p.m. local time, and the building was “completely engulfed in flames” when firefighters arrived, Upper Bavaria South police said. Fire trucks struggled to reach the site because of local conditions, but no one was inside and no injuries were reported. Police said a suspect came into focus shortly after the fire broke out, and the cause is now under criminal investigation. Completed in 1938 at 6,017 feet and occasionally used by Hitler as a temporary seat of government, the Eagle’s Nest escaped Allied bombing in World War II and has since become a popular tourist stop with a restaurant and beer garden."
+    },
+    {
+      "n": 4,
+      "headline": "FBI arrests a Georgia man accused of throwing a Molotov cocktail at the Atlanta ICE building",
+      "cat": "Crime / Courts",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/us/fbi-arrests-georgia-man-accused-throwing-molotov-cocktail-atlanta-ice-facility",
+      "image_local": "images/story-1377.jpg",
+      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/inique-hinton-atlanta-ice-building-molotov-cocktail.jpg",
+      "id": "c644c04193b9dcd63bab876a4c46ae9ea6027d88",
+      "summary": "Federal agents on Thursday arrested Inique Hinton, 31, of Douglasville, Georgia, accusing him of throwing a Molotov cocktail at the Immigration and Customs Enforcement building on Ted Turner Drive in downtown Atlanta on Tuesday night. He is charged with attempted arson of a federal building and depredation of government property, and faces up to 20 years in prison. Prosecutors say security cameras showed him walking near the building just before 8:15 p.m.; minutes later he allegedly lit an object and threw it, striking the exterior fence and spreading flames. Investigators recovered burned cloth, lighter fluid, a glass bottle and a lighter. “An attack on federal property is an attack against our democracy. It is an act of terrorism. It is an act of political violence, and it cannot stand,” U.S. Attorney Theodore Hertzberg said, promising to respond with “extreme severity.”"
+    },
+    {
+      "n": 5,
+      "headline": "Ukraine says Starshield is working again above 400 km/h after weeks of speed caps that hobbled its drones",
+      "cat": "Tech / Musk",
+      "source": "Kyiv Independent",
+      "url": "https://kyivindependent.com/starshield-operations-restored-above-400-km-h-ukraines-defense-ministry-says/",
+      "image_local": "images/story-1378.jpg",
+      "image_remote": "https://assets.kyivindependent.com/content/images/2026/10/GettyImages-2300467160_20261024-075241.jpg",
+      "id": "fdfad82cf7a7cbff074ac7dd27cbd2f0cf55c3fa",
+      "summary": "Starshield, the military version of Elon Musk’s Starlink satellite internet, was working at speeds above 400 kilometers per hour (about 248 mph) as of Saturday morning, Ukraine’s Defense Ministry said, after being limited to 161 km/h (about 100 mph) since mid-October. “We record a speed of more than 400 km/h, the connection is stable,” the ministry said, crediting direct talks at the highest level by President Zelensky and calling the fix important for drones, logistics and communications at the front. The caps had hampered Kyiv’s ability to intercept Russian jet-powered drones and coordinate strikes. Nobody has publicly taken credit or blame for imposing the limits, though Trump administration officials have pointed at Musk, and U.S. lawmakers had given him until Oct. 31 to explain the slowdown."
+    },
+    {
+      "n": 6,
+      "headline": "Tesla shows the Roadster’s fighter-jet-style screen, complete with a 5,500 PSI thruster gauge",
+      "cat": "Autos / Tesla",
+      "source": "Teslarati",
+      "url": "https://www.teslarati.com/tesla-roadster-center-display-ui-ux/",
+      "image_local": "images/story-1379.jpg",
+      "image_remote": "https://www.teslarati.com/wp-content/uploads/2026/10/tesla-roadster-screen-ui-1000x600.jpg",
+      "id": "ffd023fbf0d8c481c2f437d358c5a5ea0914e505",
+      "summary": "Tesla has given future owners their clearest look yet at the next-generation Roadster’s cockpit in a 34-second video posted to X on Friday, captioned “Inspired by fighter jet cockpits, Roadster’s interface was designed around the pilot.” The black-and-red touchscreen shows a 3D wireframe of the car beside the squared-off yoke, with taps bringing up rear-wing positions, charging and a music player, and tabs for Home, Vehicle, Listen, Climate and Navigate. Most of the clip shows Track Mode, with a live circuit map, lap times, brake and motor temperatures, per-tire readouts, and a setup page for aero modes, aero and brake balance and turning off stability and traction control. Along the bottom a status bar reads “Thruster · 5,500 PSI” next to “Boost Ready,” tying the software to the cold-gas thrusters Tesla demonstrated near Waco, Texas, on Oct. 15."
+    },
+    {
+      "n": 7,
+      "headline": "The U.S. birth rate hits a record low, though more women in their 30s and 40s are having babies",
+      "cat": "Health / Science",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/10/24/nx-s1-6012804/birth-rate-population-cdc",
+      "image_local": "images/story-1380.jpg",
+      "image_remote": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5684x3197+0+296/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8c%2F29%2F6861f1194bd8997988121c97f379%2Fgettyimages-2206454176.jpg",
+      "id": "4ba7495714bb92101aa141821a0de9215023b220",
+      "summary": "The U.S. general fertility rate fell 1% to a new record low in 2025, continuing a two-decade slide, according to the latest CDC report. The steepest drops came among younger women: births fell 6% for women 20 to 24 and 7% for those in their late teens, said CDC demographer Brady Hamilton, a co-author. The decline would have been bigger except that birth rates rose slightly among women 30 to 45, many of whom say they are building careers and stable lives first. A Federal Reserve Bank of Atlanta study last month found Gen Z women are “dramatically less likely to want children” than earlier generations, citing costs, job opportunities and changing priorities. The Census Bureau says the under-18 population dropped by more than 1 million between 2010 and 2020, and some experts argue more families would have kids with help on housing, daycare and health insurance."
+    },
+    {
+      "n": 8,
+      "headline": "Review: LEGO Technic’s NASA Artemis rocket “lifts off” from its launch pad and grows from 18.5 to 28 inches",
+      "cat": "LEGO / Space",
+      "source": "Stone Wars",
+      "url": "https://stonewars.com/reviews/lego-42221-nasa-artemis-sls-review/",
+      "image_local": "images/story-1381.jpg",
+      "image_remote": "https://stonewars.com/wp-content/uploads/2026/10/42221-nasa-artemis-review.jpg",
+      "id": "09571e6f601d806f9f70e16e830f115457b71f04",
+      "summary": "Stone Wars takes a close look at LEGO Technic 42221, the NASA Artemis Space Launch System rocket, modeled on the rocket that carried the crewed Artemis II mission around the Moon in April, the first time humans had returned to lunar orbit since Apollo 17 in 1972. The $59.99 set has 632 pieces in seven bags, is rated 9+, and includes four nano crew figures and a stylized launch pad. Its headline feature, a first for LEGO, is a working launch function: the model starts at 47 centimeters (18.5 inches) tall and reaches 72 centimeters (28.3 inches) once the launch sequence finishes, and it makes noise only during liftoff. The reviewer calls it a welcome novelty in a Technic lineup dominated by cars and construction machines. Fans who want the bigger brick-built version should note the LEGO Icons 10341 Artemis SLS is due to leave shelves by year’s end."
+    },
+    {
+      "n": 9,
+      "headline": "Ex-Iron Maiden drummer Nicko McBrain says he used heroin before joining the band, and kicked it by 1982",
+      "cat": "Music / Metal",
+      "source": "Louder",
+      "url": "https://www.loudersound.com/bands-artists/nicko-mcbrain-iron-maiden-drugs-heroin",
+      "image_local": "images/story-1382.jpg",
+      "image_remote": "https://cdn.mos.cms.futurecdn.net/UCAnygU4vuEhT4AE9r6tch-1280-80.jpg",
+      "id": "483c66297ffb6064be850b5410ec565369ac4e7b",
+      "summary": "Nicko McBrain, promoting his new autobiography Hello Boys And Girls!, told Classic Rock that he dabbled with heroin in the late 1970s but was “lucky” never to become addicted. “I never put it in my arm, I just chased the dragon, as we used to call it,” he said, describing a period when he was introduced to “the higher echelons of people in the music industry.” He said he had quit before Iron Maiden offered him the drum stool in late 1982, replacing Clive Burr after the tour for The Number of the Beast. “God blessed me with this gene where I could just turn that tap off,” McBrain said, adding that he went through cold sweats and shivers but not withdrawal. He also urged fans who are struggling: “go get help – there’s people out there to help you. It’s not admitting defeat.”"
+    },
+    {
+      "n": 10,
+      "headline": "Why Mark Knopfler traded his Strats for Schecters in the 1980s: “I was looking for something with a bit more power”",
+      "cat": "Music / Guitar",
+      "source": "Guitar World",
+      "url": "https://www.guitarworld.com/artists/guitarists/why-mark-knopfler-swapped-strats-for-schecters-in-the-1980s",
+      "image_local": "images/story-1383.jpg",
+      "image_remote": "https://cdn.mos.cms.futurecdn.net/8XQ6BYGZCbC7zrDfYMVh68-1200-80.jpg",
+      "id": "d6b3c644b4a0951750baeffe44373456ad044a5d",
+      "summary": "Mark Knopfler built his name in the 1970s on Fender Stratocasters, but in the 1980s the Dire Straits guitarist mostly switched to Schecters, Guitar World recounts. “I was looking for something with a bit more power than a Strat,” he told Guitarist in February 1986, saying he had “a great one” for recording the 1980 album Making Movies. That guitar was later stolen from a car in Deptford, London, though he had a similar one that he played so much it was away being re-fretted. Back then Schecter was known as a high-end parts supplier and custom shop championed by Prince and Pete Townshend. Today the brand is mostly associated with metal and progressive players such as Synyster Gates and Mastodon’s new guitarist Nick Johnston, and it houses Zakk Wylde’s Wylde Audio."
+    },
+    {
+      "n": 11,
       "headline": "Historic flooding swamps the Four Corners, with rooftop rescues and more rain expected through the weekend",
       "cat": "Weather / U.S.",
       "source": "NPR",
@@ -13,7 +123,7 @@
       "summary": "Rare, heavy rain that began Wednesday has sent brown floodwaters through parts of New Mexico, Colorado, Utah and Arizona, closing roads and forcing mandatory evacuations and emergency declarations in all four states. In San Juan County, New Mexico, responders pulled people off their roofs as rivers rose to what emergency spokesman Devin Neeley called historic levels, saying “we have not seen flooding like this in generations,” while floodwater pushed sewage into the San Juan River. Farmington’s police chief said no one had died so far but warned “this is not something that should be played with.” In southern Utah, the city of Hurricane declared an emergency after flooding damaged more than 100 homes and RVs, and Colorado Gov. Jared Polis declared disaster emergencies in 11 counties and called up the National Guard for rescues in the southwest of the state. Navajo Nation police said they had rescued seven families, 30 people, from flooded homes, and the Hopi Tribe declared a state of emergency. More rain is expected through the weekend."
     },
     {
-      "n": 2,
+      "n": 12,
       "headline": "An 88-year-old Michigan widow with no internet was credited with 562 ActBlue donations in six weeks, a reporter says",
       "cat": "Politics / Elections",
       "source": "Breitbart",
@@ -24,7 +134,7 @@
       "summary": "Journalist Charlie LeDuff reported this week that federal records tie Elizabeth Waffle, an 88-year-old widow living in a trailer in Milan, Michigan, to nearly $4,500 in new ActBlue donations over six weeks, 562 transactions in all. Four of them, totaling $22, were logged on the very day LeDuff first visited her trailer, where the power, water and internet are all off; the two tried and failed to make a donation together that day. The new entries included $51 for Abdul El-Sayed, the Democratic Senate nominee facing Republican Mike Rogers in a race seen as a possible tipping point for Senate control. Filings reviewed in July had attributed 14,696 donations to her over five years, which LeDuff put at more than $130,000. Waffle said the figures made no sense to her, though she bristled at a possible “hit piece” before agreeing he should keep digging. Not every review agrees: The Center Square found about $100,000 tied to her name across three cycles and noted that ActBlue’s tool for splitting one gift across many campaigns can create multiple logged transactions from a single donation."
     },
     {
-      "n": 3,
+      "n": 13,
       "headline": "Apple posts official do-it-yourself repair manuals for the iPhone Duo on launch day",
       "cat": "Apple / iPhone",
       "source": "9to5Mac",
@@ -35,7 +145,7 @@
       "summary": "Hours after the iPhone Duo went on sale Friday, Apple published its official repair manual for the folding phone, with step-by-step instructions for owners and independent technicians replacing individual components, along with detailed diagrams of the internals and lists of the parts and tools each job requires. Separate safety guides cover procedures involving broken glass and battery replacement. Earlier in the day Apple had also posted support documents for software and hardware problems, including hinge issues, Touch ID and display troubleshooting. Apple recommends reading the entire manual before starting and only attempting a repair if you feel comfortable doing it as instructed. Genuine iPhone Duo parts and tools aren’t yet available in Apple’s Self Service Repair Store."
     },
     {
-      "n": 4,
+      "n": 14,
       "headline": "Ex-funeral director who gambled away $1.2 million in prepaid funerals pleads guilty; victims say the deal is too light",
       "cat": "Connecticut / Courts",
       "source": "NBC Connecticut",
@@ -46,7 +156,7 @@
       "summary": "Philip Pietras, who once owned funeral homes in Vernon, Coventry, East Windsor and Tolland, pleaded guilty Friday to one count of larceny and four counts of intent to defraud after more than 130 Connecticut residents paid ahead for their funerals and had the money stolen over 16 years. State’s Attorney Craig Nowak said police uncovered more than $1.2 million Pietras had collected on funeral contracts, money the state says went to MGM Springfield, Foxwoods, shopping and even a cruise. Under the deal he will get 15 years, suspended after seven and a half, plus restitution, with sentencing set for January. Victims and their families said the punishment doesn’t fit the crime. “He went on a cruise? How about sending us elderly people on a cruise,” said Sheila Lawlor, and Marguerite Koch said, “You know full well we’ll never get a penny… There is no money.” Pietras has been evicted and lost his embalming license; the state expects to distribute newly appropriated money to victims next summer."
     },
     {
-      "n": 5,
+      "n": 15,
       "headline": "Lawmakers give Elon Musk until Oct. 31 to explain the Starlink slowdown hitting Ukraine’s military",
       "cat": "Tech / Musk",
       "source": "Kyiv Independent",
@@ -57,7 +167,7 @@
       "summary": "Six Democratic members of Congress led by Rep. Gregory Meeks and Sen. Peter Welch sent Elon Musk a public letter Friday with five questions about restrictions on Starshield, the military version of Starlink, which Ukrainian forces say has been running at limited capacity since mid-October. Speed caps have hampered Kyiv’s ability to defend against Russian jet-powered drones and coordinate strikes, according to the report. The lawmakers argued that because SpaceX’s shares are publicly traded it must disclose material risks, writing that “the revelation that you personally wielded control over a foreign country’s military communications” would raise governance and geopolitical concerns, and gave Musk until Oct. 31 to answer. No one has publicly taken responsibility for the slowdown, though Trump administration officials have pointed at Musk. President Trump, asked about it this week, defended Musk, saying he would “never do anything wrong.”"
     },
     {
-      "n": 6,
+      "n": 16,
       "headline": "The 2027 Jeep Wrangler adds standard features, from Alpine audio and a trail camera on Sahara to heated seats on Rubicon",
       "cat": "Autos / Jeep",
       "source": "Mopar Insiders",
@@ -68,7 +178,7 @@
       "summary": "Jeep has released its changes for the 2027 Wrangler, and the Sahara gets the biggest upgrade: the four-door Unlimited Sahara now comes standard with McKinley-trimmed seats, side steps, a nine-speaker Alpine premium audio system, built-in navigation, rear park assist, blind-spot monitoring, rear cross-path detection, an auto-dimming mirror, automatic high beams and a garage door opener, plus the front-facing TrailCam for seeing terrain over the hood. Sport, Sport S and Willys models get a 7-inch color instrument display, and Sport S and Willys add passive entry. The two-door Willys gets the vented power dome hood as standard, and Rubicon adds heated front seats, a heated steering wheel and navigation. Engine choices carry over: the 285-horsepower 3.6-liter Pentastar V6 is still offered with a six-speed manual or eight-speed automatic, the turbocharged 2.0-liter four makes 270 horsepower, and the 392 HEMI V8 delivers 470 horsepower. There are more paint colors too; Jeep hasn’t announced pricing."
     },
     {
-      "n": 7,
+      "n": 17,
       "headline": "Mastodon’s Brann Dailor on how Brent Hinds’ death and losing his mother shaped the band’s new album “Marrow Deep”",
       "cat": "Music / Metal",
       "source": "Louder",
@@ -79,7 +189,7 @@
       "summary": "Mastodon learned that former guitarist and singer Brent Hinds had died in a motorcycle accident at 51 while standing at baggage claim in Alaska for the last date of their 25th-anniversary tour in August 2025, drummer and singer Brann Dailor tells Louder. Hinds had quit the band in acrimonious circumstances five months earlier, and the Alaska State Fair show the next day became a requiem. Dailor said the songs for the new album, “Marrow Deep,” started as a return to the mythological themes of “Blood Mountain” and “Emperor of Sand,” but had already turned personal after his mother Michele died suddenly in February 2025. “I honestly thought… we might actually be able to go back to singing about Pegasus and Bigfoot and the Loch Ness Monster,” he said. “But fate had other plans.” He called the fact that Hinds died before they reconciled “a real gut punch.”"
     },
     {
-      "n": 8,
+      "n": 18,
       "headline": "Ridley Scott is producing a new “Alien” movie that picks up from “Prometheus” and “Covenant”",
       "cat": "Movies / Sci-Fi",
       "source": "Gizmodo",
@@ -88,116 +198,6 @@
       "image_remote": "https://gizmodo.com/app/uploads/2026/08/Michael-Fassbender-Alien-Covenant-1200x675.jpg",
       "id": "f278d44b58985175269d0d26b23fd297915de351",
       "summary": "A new “Alien” film is in the works with Ridley Scott producing, according to The Hollywood Reporter, and it is not the long-rumored sequel to 2024’s “Alien: Romulus.” Instead it ties back to “Prometheus” and “Alien: Covenant,” the last two entries Scott directed. Aaron Guzikowski, who worked with Scott on the series “Raised by Wolves,” will write the script, and no director is attached yet. In August Scott told the French outlet AlloCiné that “Romulus” “was OK” but that the franchise “needs some help,” adding, “I’ve already got a footprint for the next Alien… I’m picking up where we left off in Covenant with Michael Fassbender, who now thinks he’s Ozymandias.” THR reports Fassbender isn’t attached yet."
-    },
-    {
-      "n": 9,
-      "headline": "China releases its first fully AI-generated feature film, to weak advance ticket sales",
-      "cat": "Tech / China",
-      "source": "Breitbart",
-      "url": "https://www.breitbart.com/entertainment/2026/10/23/china-debuts-its-first-fully-ai-generated-film/",
-      "image_local": "images/story-1374.jpg",
-      "image_remote": "https://media.breitbart.com/media/2026/10/GettyImages2300858013-640x335.jpg",
-      "id": "90ef0455fad99b85dfd4414e27d137706a0a4bdf",
-      "summary": "China’s first feature-length film made entirely with AI, a historical fantasy called “Sanxingdui: Future Past,” opened in theaters Friday, but advance ticket sales for the roughly $1.5 million production were weak. The movie is built around the real Sanxingdui dig in Sichuan province, which since 1986 has turned up hundreds of artifacts more than 3,000 years old, including bronze masks with oddly shaped eyes and enormous ears unlike anything else from the era, at the site of a vanished Bronze Age city. Many of the relics were deliberately broken or burned before being buried, a mystery historians often explain as religious offerings at a pilgrimage center that faded around 1000 B.C. The film instead spins a more fanciful, sci-fi explanation for the lost civilization."
-    },
-    {
-      "n": 10,
-      "headline": "France probes a deadly shooting in Trappes as a “terrorist crime” on the eve of Saturday’s protests",
-      "cat": "World / France",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/world/france-edge-70000-police-deployed-unrest-authorities-probe-suspected-terror-attack-near-paris",
-      "image_local": "images/story-1358.jpg",
-      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/french-police-paris.jpg",
-      "id": "3abda560874b3fbe76dac9f743c573a694b01149",
-      "summary": "A gunman firing from a vehicle in Trappes, west of Paris, killed one person and wounded four others, including a 12-year-old girl, on Friday, and police arrested a 39-year-old man. The shooting was first described as “relatively random,” but Interior Minister Laurent Nuñez later told local media that “the motive may be racist. The investigation is ongoing, but this is clearly a terrorist crime.” The town’s mayor said the dead victim and at least one of the wounded were “of African origin.” The attack comes as France deploys 70,000 police and gendarmes, with helicopters, armored vehicles and water cannons, ahead of another weekend of planned protests. President Macron, who canceled a trip to Nigeria and Senegal, blamed last Saturday’s violence on “ultra-left groups whose aim is to bring down the Republic” and said protests by groups with “no legitimate authority” will be banned. Student union UNEF and the Yellow Vests say they will rally anyway. The Louvre, the Musée d’Orsay and 24 metro stations will close Saturday, and Sunday’s PSG–Lyon match was pushed to Monday, while the Steelers–Saints NFL game at Stade de France is still on."
-    },
-    {
-      "n": 11,
-      "headline": "New Pentagon UFO files describe a silent black triangle that hovered over a ridge, then shot off like a fighter jet",
-      "cat": "Government / UFOs",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/ufo-files-pentagon-triangular-craft/",
-      "image_local": "images/story-1359.jpg",
-      "image_remote": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/23/d30caa55-8792-4014-8998-8471a8e64661/thumbnail/1200x630/bb789382a0429331e0033a2c642d192f/screenshot-2026-10-23-at-4-18-51-pm.png",
-      "id": "0499c383d052cd10d1cbab02479a5b63189eb310",
-      "summary": "Federal agents guarding an unnamed “national security site” in the western U.S. told the FBI that in June they watched a “substantial, nonreflective, dark black triangular object most resembling a delta wing drone” rise straight up over a ridgeline at dusk, according to documents the Pentagon released Friday. They put its wingspan at nine to fifteen feet. The craft climbed 200 to 300 feet without tilting or wobbling, hovered perfectly still for about 20 seconds, then sped off at a speed “compared to that [of] a military fighter jet,” all in what the Pentagon’s All-domain Anomaly Resolution Office called “absolute acoustic silence.” Through an infrared scope it looked warmer than its surroundings but gave off no exhaust, and a ground search the next morning found no wreckage or disturbance. The 28 files are the seventh batch released under an executive order President Trump signed this year requiring disclosure of sensitive UAP records. AARO said the sighting “warrant[s] further investigation” because it closely matches other reports from federal agents in the West, including orange orbs that released smaller red orbs in 2023."
-    },
-    {
-      "n": 12,
-      "headline": "Hackers jailbreak the iPhone Duo within hours of its launch",
-      "cat": "Apple / iPhone",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/10/23/iphone-duo-jailbreak/",
-      "image_local": "images/story-1360.jpg",
-      "image_remote": "https://images.macrumors.com/t/Im11BUuuIFrgQlKCgYNZc5nbdm8=/2500x/article-new/2026/10/iPhone-Duo-AAAAAAAHHHHHPP-Icons-Feature.jpg",
-      "id": "8a5da9c984a3ad68ca0a9f8e0bd911c6306a6ab8",
-      "summary": "Just hours after the iPhone Duo went on sale Friday, hacker team Calif showed one running iOS 27.1 jailbroken, with its icons and widgets bouncing around the screen and an anime character added to the display. Last week the group posted videos of an untethered jailbreak on an iPhone 18 Pro running iOS 27.0.1, which rebooted with root access still available. Calif has not released the jailbreak, and security researcher Stefan Esser told the German site Heise there won’t be a tool for “end users,” though a proof of concept may follow. Esser said the iOS 27.0.1 jailbreak relied on bugs Calif has already disclosed or plans to disclose to Apple soon, and that “most” of them are fixed in the upcoming iOS 27.2 update. He said AI was used to help develop the jailbreak but did not explain how."
-    },
-    {
-      "n": 13,
-      "headline": "Irvine realtor accused of spying on Taiwan’s president’s son for China pleads not guilty; trial set for Nov. 30",
-      "cat": "Crime / Courts",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/wanying-zhang-alleged-chinese-agent-pleads-not-guilty/",
-      "image_local": "images/story-1361.jpg",
-      "image_remote": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/06/b0956aac-5495-4ad8-a417-acdafb368581/thumbnail/1200x630/75f41722d5e7ce17340fc94d32fdabd4/wanying-22heather22-zhang.jpg",
-      "id": "ae18a1b87c9aceeca1be77d63bc81e2b4ac1d9cb",
-      "summary": "Wanying Zhang, a 34-year-old Southern California realtor accused of acting as an agent of China, pleaded not guilty Friday in a Los Angeles federal courtroom, appearing in a white jumpsuit and shackles and speaking only to deny the charge. Prosecutors say she surveilled the son of Taiwan’s president in a Seattle suburb in September 2025 on what they called a spy mission arranged with Chinese intelligence officials. She was arrested earlier this month at LAX while trying to board a flight to China and faces one count of acting as an unregistered agent of the Chinese government. Her husband, Edric Ding, who works with her at the same Irvine real estate firm and had come to earlier hearings, was not there. Prosecutors recently alleged in a filing that Zhang was having an affair with a man who went with her on the Washington trip; CBS identified him as construction entrepreneur Fatai Miao, who has since left for China on a one-way ticket and has not been charged. A pretrial hearing is set for Nov. 12, and the roughly four-day trial is scheduled to begin Nov. 30 in Santa Ana."
-    },
-    {
-      "n": 14,
-      "headline": "Trump lifts 50% tariffs on Canadian boxes, packing gear and seaweed that Maine farmers rely on, a win for Sen. Susan Collins",
-      "cat": "Politics / Trade",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/trump-tariffs-some-canadian-goods-susan-collins-maine/",
-      "image_local": "images/story-1362.jpg",
-      "image_remote": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/23/42baf338-f317-463e-9893-ff49ec21e85d/thumbnail/1200x630/3d819b8cd88da4fd0b6f6ba1a4d45ffc/gettyimages-2299866034.jpg",
-      "id": "b3bf09927d07e27155701687356dcfd7d2c4b2b4",
-      "summary": "President Trump on Friday removed 50% tariffs on a handful of Canadian products widely used by Maine’s farms and fisheries, including corrugated boxes, crates, plastic sacks, packing machinery, refrigeration equipment and seaweed, according to a White House proclamation. In exchange, several other Canadian goods were newly hit with 50% duties, among them shampoo, vinyl flooring, coffins, carpets and window air conditioners. Republican Sen. Susan Collins, who is seeking a sixth term in a blue-leaning state, said she had asked administration officials for the relief, which she said protects wild blueberry growers who depend on “specialized harvesting boxes from Canada” as well as apple and potato farmers. “Many of our farmers and growers rely on specialized equipment, packaging materials, and other products from Canada that are either unavailable from American suppliers or cannot be replaced without incurring significant expense,” she said. Democrats called the carve-outs political; Rep. Richard Neal of Massachusetts said lowering tariffs for a political ally 11 days before the election was a “desperate admission of failed trade policy.”"
-    },
-    {
-      "n": 15,
-      "headline": "Tony Iommi says the lost tapes for Black Sabbath’s “Born Again” have turned up, and a remix is “definitely gonna” happen",
-      "cat": "Music / Metal",
-      "source": "Blabbermouth",
-      "url": "https://blabbermouth.net/news/tony-iommi-says-there-are-still-plans-to-remix-black-sabbaths-born-again-album-were-definitely-gonna-give-it-a-go",
-      "image_local": "images/story-1363.jpg",
-      "image_remote": "https://assets.blabbermouth.net/media/tonyiommioct2026planetnew_638.jpg",
-      "id": "28f73b6431625bbb67c9da3469dd8b4e88c981ca",
-      "summary": "Black Sabbath guitarist Tony Iommi told Planet Rock’s Ian Danter that he still plans to remix “Born Again,” the band’s 1983 album with Deep Purple singer Ian Gillan and the last Sabbath studio record with drummer Bill Ward. “To be honest, we couldn’t find those tapes for a long time. They disappeared,” Iommi said; they eventually turned up in record company storage, have been transferred and are ready to work on. He admitted many fans have gotten used to the album’s notoriously murky sound and may say a remix isn’t as good, but said the band thought it sounded great in the studio, then heard it on the charts while on tour and wondered, “God, it’s really muffly. What happened?” Gillan himself has called the original mix “outrageous.”"
-    },
-    {
-      "n": 16,
-      "headline": "France reports the first known human case of Shamonda, a livestock virus spread by biting midges; the patient died",
-      "cat": "Health / Science",
-      "source": "Gizmodo",
-      "url": "https://gizmodo.com/an-obscure-livestock-virus-has-been-found-in-a-human-for-the-first-time-and-he-didnt-survive-2000829961",
-      "image_local": "images/story-1364.jpg",
-      "image_remote": "https://gizmodo.com/app/uploads/2026/10/French-Cattle-1200x675.jpg",
-      "id": "7bc737dfecbb80a5106e3d3d12978d0b6b4e3d6b",
-      "summary": "Health officials in France have reported the first known human infection with Shamonda virus, which normally infects cattle, sheep and goats and is spread by the bites of tiny Culicoides midges. The patient, a Lyon man in his 60s who was already hospitalized for another condition and severely immunocompromised, developed brain-related symptoms and died in early October; officials think he was bitten in eastern France, where the virus had been circulating, and say his weakened health probably contributed to his death. Shamonda, a close relative of the Schmallenberg virus, was discovered in Nigeria in 1965 and had been seen in Africa and Japan before turning up in cattle in southern Germany and Switzerland in June, its first appearance in Europe; it has since spread to other countries, including France. Scientists are still studying how much of a threat it poses to people, but officials say the risk to the general public is likely minimal for now."
-    },
-    {
-      "n": 17,
-      "headline": "The Dallas Cowboys Cheerleaders form a union, believed to be a first among pro sports cheer squads",
-      "cat": "Sports / NFL",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/sports/football/dallas-cowboys-cheerleaders-are-unionizing-rcna605285",
-      "image_local": "images/story-1365.jpg",
-      "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261023-dallas-cheerleaders-sjr-1548-029ff8.jpg",
-      "id": "ae27c769e16c08e5cb2af84b0470c19809362318",
-      "summary": "The Dallas Cowboys Cheerleaders have formed a union, and the team has already recognized the bargaining unit, according to a brief joint statement Friday from the Cowboys and the Dallas Cowboys Cheerleaders Association, which said the agreement followed “meaningful discussion.” It is believed to be the first union among any pro sports cheerleading squad, apart from a short-lived effort by the Buffalo Bills’ “Buffalo Jills” in the mid-1990s. The next step is negotiating a contract for the 36-member squad, though it isn’t clear how many will be represented. Netflix’s series “America’s Sweethearts” brought new attention to the cheerleaders and helped win them a 400% raise for the 2025 season, with some veterans reportedly earning more than $75 an hour. During the Cowboys’ 1990s heyday they made as little as $15 a game, and a former cheerleader’s lawsuit alleging pay below minimum wage was settled by the team."
-    },
-    {
-      "n": 18,
-      "headline": "A Roman coffin dug up at Westminster Abbey was reused by medieval monks, and researchers think they know for whom",
-      "cat": "History / Archaeology",
-      "source": "Gizmodo",
-      "url": "https://gizmodo.com/someone-reused-this-roman-sarcophagus-we-may-finally-know-whos-inside-2000829969",
-      "image_local": "images/story-1366.jpg",
-      "image_remote": "https://gizmodo.com/app/uploads/2026/10/4th-century-Roman-sarcophagus-Westminster-1200x675.jpeg",
-      "id": "a288d5027ad62ff50be119f2afdcf287609ad181",
-      "summary": "A 4th-century Roman limestone sarcophagus unearthed beside Westminster Abbey more than 200 years ago carries three lines of Latin saying it held one Valerius Amandinus of Roman London, but sometime in the 11th century his body was replaced. The giveaway was its lid, a tapered late Anglo-Saxon slab carved with an early medieval cross. Now carbon dating, a dig through the abbey’s medieval records and a closer study of the coffin have narrowed its later occupant to two 11th-century abbots of Westminster: Ælfwig, who led the monastery from 993 to 1020, and his successor Wulfnoth, abbot until 1049. Abbey archaeologist Warwick Rodwell, writing Tuesday in the Journal of the British Archaeological Association, favors Ælfwig, noting he was already a Westminster monk when elected and “there is no evidence to suggest that he ever left the abbey,” so “there can be little doubt that he was buried in his abbey.”"
     },
     {
       "n": 19,
