@@ -1547,7 +1547,16 @@
     "eaeaf7b7a70730bcbe7bbe7ff4c2c6c5e4fb90b7",
     "61a9db4374328c0bf1cd2fdda908d070db047789",
     "655c355455e198adb19204862e6312f5d834f5de",
-    "dbbfa8088da73e3d7363556931b3e145320ad7ab"
+    "dbbfa8088da73e3d7363556931b3e145320ad7ab",
+    "5c804781c8f4903315136a710e72abe69830fadb",
+    "e307afea2263538c82f253edf2d1cde906fe9298",
+    "0e2ee38c6c5a476a1f591ed8dc70099632291081",
+    "5c4a30d3c03eadd511e74ee723d0b62d38d5e92d",
+    "82a65fad633f194d003b9a048b0a8fe557e53c7b",
+    "e22cdbeaf96e211ed28045f5d51d6d2d8184515f",
+    "bec9fc26aa78c4e24eafdb4a9b144910358f2779",
+    "bdecc0640351388594378decb7ba02935e210a98",
+    "d39beab6b0f51feee893da0560881f9d7132c854"
   ],
   "stories": {
     "0c2ac7a5e342411678296315c4c59043b1f067cc": {
@@ -18287,11 +18296,11 @@
       "id": "d6b3c644b4a0951750baeffe44373456ad044a5d"
     },
     "3c6b88a17c4ae523273011f9ab901f76d6be1aeb": {
-      "headline": "France arrests 135 and fires tear gas in several cities as a second weekend of cost-of-living protests gets underway",
+      "headline": "Nearly 1,000 arrested across France as evening clashes with “ultra-left” groups follow largely peaceful cost-of-living marches",
       "cat": "World / France",
       "source": "CBS News",
       "url": "https://www.cbsnews.com/news/paris-france-new-protests-riots-museums-shops/",
-      "summary": "French police arrested 135 people and fired tear gas at protesters Saturday as authorities tried to head off a repeat of last weekend’s rioting, when about 3,000 buildings were damaged or looted. Interior Minister Laurent Nuñez said officers seized metal balls, lead pellets, fireworks, slingshots, improvised weapons, a katana and airsoft guns, and that so far “there has been no major incident.” Up to 70,000 officers were deployed nationwide with helicopters, armored vehicles and water cannons. Police used tear gas in Lyon, where demonstrations were banned, and in Lille, Toulouse and Nantes, with clashes also reported in Montpellier. In Paris, the only authorized march was moved at the last minute from the Bastille to the city’s southeastern edge; authorities called the atmosphere “calm,” and police put turnout at 110,000. In Orleans, about 11,000 people, by the police count, marched against a congress of Marine Le Pen’s National Rally, which ended peacefully.",
+      "summary": "Nearly 1,000 people were arrested in nationwide protests in France on Saturday, Interior Minister Laurent Nuñez said, and he expects the number to rise significantly. Marches over the high cost of living and the education system “passed off well” during the day, he said, but police later faced “an extremely elevated level of violence” from “ultra-left” groups; some shops were looted, though on a far smaller scale than last weekend, when about 3,000 businesses were damaged or looted. Nuñez credited faster police action, more pre-demonstration checks and better-protected stores, and said officers had seized metal balls, lead pellets, fireworks, slingshots, a katana and airsoft weapons. The ministry counted about 410,000 marchers at 298 protests; the CGT union said 800,000. In Paris, where the authorized march was moved from the Bastille to Porte d’Italie, police counted 110,000; Nuñez said several thousand radical activists, about 500 of them identified as rioters, gathered at its rear as clashes broke out in the evening, and Paris prosecutors reported 64 arrests. In Orleans, about 11,000 people marched against Marine Le Pen’s National Rally congress, chanting “Macron resign. Le Pen in prison.” Up to 70,000 officers remain on high alert overnight.",
       "image_remote": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/24/9df46826-7abb-45b3-b8d6-48615bf6ee74/thumbnail/1200x630/f952c95b9f0d03d452b4fae4c5fab2e1/2026-10-24t143709z-442867994-rc2q9oatlzfw-rtrmadp-3-france-protest.jpg",
       "image_local": "images/story-1384.jpg",
       "id": "3c6b88a17c4ae523273011f9ab901f76d6be1aeb"
@@ -18385,7 +18394,97 @@
       "image_remote": "https://petapixel.com/assets/uploads/2026/10/Ghostly-Face-Iceland-Waves.jpg",
       "image_local": "images/story-1391.jpg",
       "id": "dbbfa8088da73e3d7363556931b3e145320ad7ab"
+    },
+    "5c804781c8f4903315136a710e72abe69830fadb": {
+      "headline": "DOJ gives California counties 48 hours to set aside ballots from suspected noncitizens, warning officials who count them face “legal jeopardy”",
+      "cat": "Politics / Elections",
+      "source": "Yahoo News",
+      "url": "https://www.yahoo.com/news/politics/article/doj-tells-california-counties-to-set-aside-ballots-from-suspected-noncitizens-heres-what-to-know-181004310.html",
+      "summary": "The Justice Department is pressing California election officials to set aside mail-in ballots from people it believes are noncitizens. Federal prosecutors sent letters Friday giving county election offices 48 hours to work with federal agencies to determine who on a government list is a citizen; NBC News reported the letters went to 57 of the state’s 58 counties, and Los Angeles County received one last week. The department wants counties to “segregate — not cancel” those ballots until citizenship is confirmed and to send identifying information, including Social Security numbers and copies of registrations. San Bernardino County’s list alone had 1,133 names. “Any election official who knowingly processes the ballot of a noncitizen is opening themselves to legal jeopardy,” said Bill Essayli, the first assistant U.S. attorney in Los Angeles, who signed the letters. DHS says it flagged more than 20,000 likely noncitizens on California’s rolls, and 28 people from that list were charged this week with illegally registering. The secretary of state and Los Angeles County have refused, saying the federal data is unverified and could delay certification; many ballots have already been separated from their envelopes and counted. The DOJ’s emergency request is now before the Ninth Circuit, 10 days before Election Day, with a district court hearing set for Tuesday.",
+      "image_remote": "https://s.yimg.com/lo/mysterio/api/c6a84e9cccf122dd4889af50de73f901b8de76a1fb8ec84e94a4555b3f144e0a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F2a422287-253c-4c05-9c89-8fd376b518cd",
+      "image_local": "images/story-1392.jpg",
+      "id": "5c804781c8f4903315136a710e72abe69830fadb"
+    },
+    "e307afea2263538c82f253edf2d1cde906fe9298": {
+      "headline": "CIA contractor with Top Secret clearance is charged with leaking classified secrets to a girlfriend who published them on her Substack",
+      "cat": "National Security / Courts",
+      "source": "Daily Caller",
+      "url": "https://dailycaller.com/2026/10/24/federal-bureau-investigation-arrest-navy-intelligence-officer-ian-brinksman-leaking-classified-information-romantic-partner-substack-justice-department-claims",
+      "summary": "The FBI arrested Ian Brinksman, 42, of Washington, D.C., on Friday morning on Espionage Act charges, accusing him of leaking national defense information to a woman he was dating who intended to publish it on her Substack newsletter, the Justice Department said. CIA Director John Ratcliffe said Brinksman provided services to the agency as a contractor. According to the criminal complaint, he worked for a government agency in the Eastern District of Virginia from 2020 and returned to the same agency as a contractor in 2022, working as a systems-integration developer with a Top Secret clearance. Investigators say he began dating the woman, believed to be a journalist whose Substack covers “Congress, War, and political economy” and who posted “I also accept leaks,” in November 2025, and that he contributed to five of her articles between March 11 and Oct. 5 containing Top Secret and other highly classified information. the Justice Department’s Todd Blanche said the affidavit reflects a contractor “who exempted himself from a federal law governing the protection of classified information,” and FBI Director Kash Patel called protecting secrets a top counterintelligence priority. Brinksman faces up to 10 years in prison if convicted.",
+      "image_remote": "",
+      "image_local": "",
+      "id": "e307afea2263538c82f253edf2d1cde906fe9298"
+    },
+    "0e2ee38c6c5a476a1f591ed8dc70099632291081": {
+      "headline": "NFL shuts its “NFL House” fan venue in Paris as protests overshadow Sunday’s first-ever Steelers–Saints game in France",
+      "cat": "Sports / NFL",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/sports/nfl/nfl-house-paris-closes-ahead-street-protests-french-capital-rcna605374",
+      "summary": "The NFL closed its “NFL House” fan venue in Paris on Saturday as the city braced for street protests under heavy police presence, telling fans through its OnePass app and citing “potential accessibility issues,” a day after it said its pop-up shop would also close. The Saints postponed their own “Saints House” event to Sunday, and a weekend event for Steelers fans was canceled Thursday over security concerns. The New Orleans Saints and Pittsburgh Steelers play Sunday at Stade de France in Saint-Denis in the league’s first regular-season game in France. The State Department had warned “Americans in Paris for the NFL game” to be cautious, while Commissioner Roger Goodell said street protests “are not unusual in France”; on Friday President Emmanuel Macron hosted Goodell, Saints owner Gayle Benson and Steelers owner Art Rooney II at the Élysée Palace. The league’s “Hail Mary over the Seine” throwing challenge near Notre Dame went ahead, with a worker netting footballs out of the river as police vans with flashing lights passed above. “It doesn’t feel calm and good to be a tourist in Paris,” one French teenager in a Bryce Young jersey said. “It’s not good for the NFL.”",
+      "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261024-nfl-house-paris-ch-0930-04474a.jpg",
+      "image_local": "images/story-1393.jpg",
+      "id": "0e2ee38c6c5a476a1f591ed8dc70099632291081"
+    },
+    "5c4a30d3c03eadd511e74ee723d0b62d38d5e92d": {
+      "headline": "iPhone Duo fails JerryRigEverything’s durability test as dust gets into the hinge despite its IP68 rating",
+      "cat": "Apple / iPhone",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/24/iphone-duo-fails-jerryrigeverything-test/",
+      "summary": "Apple’s iPhone Duo has failed JerryRigEverything’s durability test. Despite the foldable’s IP68 dust-resistance rating, Zack Nelson found that dust got into the hinge through several entry points and overwhelmed the magnets that hold the phone shut. His bend test then left a permanent green line across the inner display before that screen stopped responding to touch. The outer screen, with Ceramic Shield 2, scratched at level 7 on the Mohs hardness scale, while the softer inner screen scratched at level 2, though Nelson credited its matte nano-texture coating for making marks “magically disappear.” It wasn’t enough for a passing grade. “I’ve been testing these folding phones since the first generation seven years ago – most do survive,” Nelson said. “The iPhone Duo did not.” The result follows early teardowns and owner reports of hinge-area cracks in the days since the phone launched Friday.",
+      "image_remote": "https://images.macrumors.com/t/_iSrZKYTvERnz35IlfV7YKpid7s=/2498x/article-new/2026/10/jerryrigeverything-iphone-duo-dust.jpg",
+      "image_local": "images/story-1394.jpg",
+      "id": "5c4a30d3c03eadd511e74ee723d0b62d38d5e92d"
+    },
+    "82a65fad633f194d003b9a048b0a8fe557e53c7b": {
+      "headline": "Acting on an FBI tip, Germany arrests an 18-year-old accused of pushing an Indiana girl, 14, to take her own life for a “764” network",
+      "cat": "Crime / Online Safety",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/german-man-arrested-teen-suicide-764/",
+      "summary": "German police acting on an FBI tip arrested an 18-year-old in Hamburg on Thursday, accusing him of driving a 14-year-old Indiana girl to hang herself, prosecutors said. He is accused of being the indirect perpetrator of murder and grievous bodily harm. The Hamburg prosecutor’s office said he was linked to an online group called “Nefarious Maniac Kult,” or NMK, part of the global network known as “764” or “COM.” Prosecutors say that between September and October, when he was 17, he “exerted influence” over the psychologically fragile girl on Discord, pressuring her to cut herself and write “NMK” on a wall in her own blood and send him videos; days later she hanged herself in her bedroom. He allegedly wanted a recording of her death to gain status in the group. The FBI’s Indianapolis office worked with the Fort Wayne Police Department’s homicide unit on the case. “There is no safe haven from justice,” said Special Agent in Charge Timothy O’Malley. FBI Director Kash Patel has said nihilistic violent extremism cases, many tied to 764, rose 300% from September 2024 to September 2025.",
+      "image_remote": "",
+      "image_local": "",
+      "id": "82a65fad633f194d003b9a048b0a8fe557e53c7b"
+    },
+    "e22cdbeaf96e211ed28045f5d51d6d2d8184515f": {
+      "headline": "The cheap Nissan Kicks beats Audi’s new Q3 and Toyota’s new RAV4 in the IIHS’s tougher crash test",
+      "cat": "Autos / Safety",
+      "source": "The Drive",
+      "url": "https://www.thedrive.com/news/iihs-put-a-bunch-of-crossovers-through-its-updated-crash-test-only-one-was-good",
+      "summary": "The Insurance Institute for Highway Safety’s latest round of crossover ratings came down to its updated moderate overlap front test, in which a car hits a barrier at 40 mph with only part of its front end and which was revised in 2022 to better protect rear-seat passengers. Of the Audi Q3, Chevrolet Trailblazer, Nissan Kicks and Toyota RAV4 hybrid and plug-in hybrid, only the Kicks earned an award, a 2026 Top Safety Pick. Nissan’s entry-level crossover had initially scored “Poor” in the test, but rear seat-belt changes on cars built after June 2026, including 2026 and 2027 models, earned it a “Good” on retest. The redesigned 2026 Audi Q3 got “Good” in every other category but “Poor” in this test, which disqualified it. The new 2026 RAV4 was rated “Acceptable” as a hybrid and “Marginal” as a plug-in hybrid, and the Trailblazer scored “Poor” along with weak headlight and front-crash-prevention ratings. The Drive notes the IIHS, funded by insurers, can tighten its tests without waiting on Congress, which often catches automakers out.",
+      "image_remote": "https://www.thedrive.com/wp-content/uploads/2026/10/Screenshot-2026-10-22-at-10.13.36-PM.jpeg?quality=85&w=1200",
+      "image_local": "images/story-1395.jpg",
+      "id": "e22cdbeaf96e211ed28045f5d51d6d2d8184515f"
+    },
+    "bec9fc26aa78c4e24eafdb4a9b144910358f2779": {
+      "headline": "Capcom confirms a breach exposed the emails of 11.7 million Capcom ID users, and warns of phishing that impersonates the company",
+      "cat": "Gaming / Security",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2296218/capcom-confirms-data-breach-that-affected-117-million-users/",
+      "summary": "Capcom confirmed that a breach of its Capcom ID online membership service affected more than 11.7 million users. The company said it detected suspicious activity on Oct. 19 indicating “unauthorized access by a third party,” blocked access immediately and reported the incident to local police and its external security advisory board, but confirmed the access had already happened. Millions of account email addresses were exposed; for 43 accounts the intruders also got birth dates, gender, country or region and nicknames, and 196 account passwords were changed without authorization. Capcom said no credit card information was involved, that it has identified and addressed the attack method, and that Capcom ID and the games that rely on it, such as Street Fighter 6’s online play, remain available. It warned users to watch for scam emails pretending to come from Capcom that use the leaked addresses. Rockstar Games disclosed a third-party data breach in April.",
+      "image_remote": "https://www.engadget.com/img/gallery/capcom-confirms-data-breach-that-affected-11-7-million-users/l-intro-1792859616.jpg",
+      "image_local": "images/story-1396.jpg",
+      "id": "bec9fc26aa78c4e24eafdb4a9b144910358f2779"
+    },
+    "bdecc0640351388594378decb7ba02935e210a98": {
+      "headline": "Tony Iommi confirms he wrote a riff for 95-year-old William Shatner’s heavy metal album: “It’s really good what he’s doing”",
+      "cat": "Music / Metal",
+      "source": "Blabbermouth",
+      "url": "https://blabbermouth.net/news/tony-iommi-confirms-he-will-appear-on-william-shatners-upcoming-heavy-metal-album-its-really-good-what-hes-doing",
+      "summary": "Black Sabbath guitarist Tony Iommi told BBC Breakfast that he will appear on “What The F Is Heavy Metal?”, the surprise metal album from 95-year-old “Star Trek” star William Shatner. “When I was asked if I’d do a track with William Shatner, I went, ‘What?’” Iommi said. After Shatner sent him the idea for the song, “I really liked it, and it’s really good what he’s doing. So I put a riff to that and built it up.” Asked about Shatner’s quirky singing style, Iommi laughed that “he more or less speaks it,” but praised lyrics that are “really about what’s happening today.” The album, tentatively due in 2027 on Cleopatra Records, features six Shatner originals and six covers and guest spots from dozens of musicians including Queen’s Brian May and Judas Priest’s Rob Halford. Shatner debuted the material with his band, The *uckers, at Chicago’s Riot Fest in September, playing originals plus Metallica’s “Enter Sandman,” Ozzy Osbourne’s “Crazy Train” and Motörhead’s “Ace Of Spades.”",
+      "image_remote": "https://assets.blabbermouth.net/media/tonyiommiwilliamshatnersept2026_638.jpg",
+      "image_local": "images/story-1397.jpg",
+      "id": "bdecc0640351388594378decb7ba02935e210a98"
+    },
+    "d39beab6b0f51feee893da0560881f9d7132c854": {
+      "headline": "Stevie Wonder sues to evict an ex-fiancée who has lived rent-free in his Hollywood Hills house since 1988",
+      "cat": "Entertainment / Courts",
+      "source": "Consequence",
+      "url": "https://consequence.net/2026/10/stevie-wonder-sues-fiancee-living-rent-free/",
+      "summary": "Stevie Wonder has sued to evict his one-time fiancée, Carmen Efferson, from a three-bedroom Hollywood Hills property where she has lived rent-free since 1988 under an oral agreement with him, Consequence reports, citing Rolling Stone. Tensions escalated when Wonder’s representatives tried to inspect the house for an insurance renewal. Efferson allegedly refused them entry and emailed Wonder’s attorney, David Huff, with an expletive-laden demand to back off, accusing him of a “rascist [sic] coldblooded ‘white male privilege’ tone” and writing, “I do not consent.” She was then told the oral agreement had been revoked for noncompliance and was served with an eviction notice. When she did not leave, Wonder filed suit on Thursday, Oct. 22. The singer is currently on a tour marking the 50th anniversary of his album Songs in the Key of Life.",
+      "image_remote": "https://consequence.net/wp-content/uploads/2026/10/Stevie-Wonder.jpeg",
+      "image_local": "images/story-1398.jpg",
+      "id": "d39beab6b0f51feee893da0560881f9d7132c854"
     }
   },
-  "updated": "Saturday, October 24, 2026 · 11:44 AM ET"
+  "updated": "Saturday, October 24, 2026 · 4:09 PM ET"
 }

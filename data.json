@@ -1,19 +1,118 @@
 {
-  "updated": "Saturday, October 24, 2026 · 11:44 AM ET",
+  "updated": "Saturday, October 24, 2026 · 4:09 PM ET",
   "stories": [
     {
       "n": 1,
-      "headline": "France arrests 135 and fires tear gas in several cities as a second weekend of cost-of-living protests gets underway",
+      "headline": "DOJ gives California counties 48 hours to set aside ballots from suspected noncitizens, warning officials who count them face “legal jeopardy”",
+      "cat": "Politics / Elections",
+      "source": "Yahoo News",
+      "url": "https://www.yahoo.com/news/politics/article/doj-tells-california-counties-to-set-aside-ballots-from-suspected-noncitizens-heres-what-to-know-181004310.html",
+      "image_local": "images/story-1392.jpg",
+      "image_remote": "https://s.yimg.com/lo/mysterio/api/c6a84e9cccf122dd4889af50de73f901b8de76a1fb8ec84e94a4555b3f144e0a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F2a422287-253c-4c05-9c89-8fd376b518cd",
+      "id": "5c804781c8f4903315136a710e72abe69830fadb",
+      "summary": "The Justice Department is pressing California election officials to set aside mail-in ballots from people it believes are noncitizens. Federal prosecutors sent letters Friday giving county election offices 48 hours to work with federal agencies to determine who on a government list is a citizen; NBC News reported the letters went to 57 of the state’s 58 counties, and Los Angeles County received one last week. The department wants counties to “segregate — not cancel” those ballots until citizenship is confirmed and to send identifying information, including Social Security numbers and copies of registrations. San Bernardino County’s list alone had 1,133 names. “Any election official who knowingly processes the ballot of a noncitizen is opening themselves to legal jeopardy,” said Bill Essayli, the first assistant U.S. attorney in Los Angeles, who signed the letters. DHS says it flagged more than 20,000 likely noncitizens on California’s rolls, and 28 people from that list were charged this week with illegally registering. The secretary of state and Los Angeles County have refused, saying the federal data is unverified and could delay certification; many ballots have already been separated from their envelopes and counted. The DOJ’s emergency request is now before the Ninth Circuit, 10 days before Election Day, with a district court hearing set for Tuesday."
+    },
+    {
+      "n": 2,
+      "headline": "CIA contractor with Top Secret clearance is charged with leaking classified secrets to a girlfriend who published them on her Substack",
+      "cat": "National Security / Courts",
+      "source": "Daily Caller",
+      "url": "https://dailycaller.com/2026/10/24/federal-bureau-investigation-arrest-navy-intelligence-officer-ian-brinksman-leaking-classified-information-romantic-partner-substack-justice-department-claims",
+      "image_local": "",
+      "image_remote": "",
+      "id": "e307afea2263538c82f253edf2d1cde906fe9298",
+      "summary": "The FBI arrested Ian Brinksman, 42, of Washington, D.C., on Friday morning on Espionage Act charges, accusing him of leaking national defense information to a woman he was dating who intended to publish it on her Substack newsletter, the Justice Department said. CIA Director John Ratcliffe said Brinksman provided services to the agency as a contractor. According to the criminal complaint, he worked for a government agency in the Eastern District of Virginia from 2020 and returned to the same agency as a contractor in 2022, working as a systems-integration developer with a Top Secret clearance. Investigators say he began dating the woman, believed to be a journalist whose Substack covers “Congress, War, and political economy” and who posted “I also accept leaks,” in November 2025, and that he contributed to five of her articles between March 11 and Oct. 5 containing Top Secret and other highly classified information. the Justice Department’s Todd Blanche said the affidavit reflects a contractor “who exempted himself from a federal law governing the protection of classified information,” and FBI Director Kash Patel called protecting secrets a top counterintelligence priority. Brinksman faces up to 10 years in prison if convicted."
+    },
+    {
+      "n": 3,
+      "headline": "NFL shuts its “NFL House” fan venue in Paris as protests overshadow Sunday’s first-ever Steelers–Saints game in France",
+      "cat": "Sports / NFL",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/sports/nfl/nfl-house-paris-closes-ahead-street-protests-french-capital-rcna605374",
+      "image_local": "images/story-1393.jpg",
+      "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261024-nfl-house-paris-ch-0930-04474a.jpg",
+      "id": "0e2ee38c6c5a476a1f591ed8dc70099632291081",
+      "summary": "The NFL closed its “NFL House” fan venue in Paris on Saturday as the city braced for street protests under heavy police presence, telling fans through its OnePass app and citing “potential accessibility issues,” a day after it said its pop-up shop would also close. The Saints postponed their own “Saints House” event to Sunday, and a weekend event for Steelers fans was canceled Thursday over security concerns. The New Orleans Saints and Pittsburgh Steelers play Sunday at Stade de France in Saint-Denis in the league’s first regular-season game in France. The State Department had warned “Americans in Paris for the NFL game” to be cautious, while Commissioner Roger Goodell said street protests “are not unusual in France”; on Friday President Emmanuel Macron hosted Goodell, Saints owner Gayle Benson and Steelers owner Art Rooney II at the Élysée Palace. The league’s “Hail Mary over the Seine” throwing challenge near Notre Dame went ahead, with a worker netting footballs out of the river as police vans with flashing lights passed above. “It doesn’t feel calm and good to be a tourist in Paris,” one French teenager in a Bryce Young jersey said. “It’s not good for the NFL.”"
+    },
+    {
+      "n": 4,
+      "headline": "iPhone Duo fails JerryRigEverything’s durability test as dust gets into the hinge despite its IP68 rating",
+      "cat": "Apple / iPhone",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/24/iphone-duo-fails-jerryrigeverything-test/",
+      "image_local": "images/story-1394.jpg",
+      "image_remote": "https://images.macrumors.com/t/_iSrZKYTvERnz35IlfV7YKpid7s=/2498x/article-new/2026/10/jerryrigeverything-iphone-duo-dust.jpg",
+      "id": "5c4a30d3c03eadd511e74ee723d0b62d38d5e92d",
+      "summary": "Apple’s iPhone Duo has failed JerryRigEverything’s durability test. Despite the foldable’s IP68 dust-resistance rating, Zack Nelson found that dust got into the hinge through several entry points and overwhelmed the magnets that hold the phone shut. His bend test then left a permanent green line across the inner display before that screen stopped responding to touch. The outer screen, with Ceramic Shield 2, scratched at level 7 on the Mohs hardness scale, while the softer inner screen scratched at level 2, though Nelson credited its matte nano-texture coating for making marks “magically disappear.” It wasn’t enough for a passing grade. “I’ve been testing these folding phones since the first generation seven years ago – most do survive,” Nelson said. “The iPhone Duo did not.” The result follows early teardowns and owner reports of hinge-area cracks in the days since the phone launched Friday."
+    },
+    {
+      "n": 5,
+      "headline": "Acting on an FBI tip, Germany arrests an 18-year-old accused of pushing an Indiana girl, 14, to take her own life for a “764” network",
+      "cat": "Crime / Online Safety",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/german-man-arrested-teen-suicide-764/",
+      "image_local": "",
+      "image_remote": "",
+      "id": "82a65fad633f194d003b9a048b0a8fe557e53c7b",
+      "summary": "German police acting on an FBI tip arrested an 18-year-old in Hamburg on Thursday, accusing him of driving a 14-year-old Indiana girl to hang herself, prosecutors said. He is accused of being the indirect perpetrator of murder and grievous bodily harm. The Hamburg prosecutor’s office said he was linked to an online group called “Nefarious Maniac Kult,” or NMK, part of the global network known as “764” or “COM.” Prosecutors say that between September and October, when he was 17, he “exerted influence” over the psychologically fragile girl on Discord, pressuring her to cut herself and write “NMK” on a wall in her own blood and send him videos; days later she hanged herself in her bedroom. He allegedly wanted a recording of her death to gain status in the group. The FBI’s Indianapolis office worked with the Fort Wayne Police Department’s homicide unit on the case. “There is no safe haven from justice,” said Special Agent in Charge Timothy O’Malley. FBI Director Kash Patel has said nihilistic violent extremism cases, many tied to 764, rose 300% from September 2024 to September 2025."
+    },
+    {
+      "n": 6,
+      "headline": "The cheap Nissan Kicks beats Audi’s new Q3 and Toyota’s new RAV4 in the IIHS’s tougher crash test",
+      "cat": "Autos / Safety",
+      "source": "The Drive",
+      "url": "https://www.thedrive.com/news/iihs-put-a-bunch-of-crossovers-through-its-updated-crash-test-only-one-was-good",
+      "image_local": "images/story-1395.jpg",
+      "image_remote": "https://www.thedrive.com/wp-content/uploads/2026/10/Screenshot-2026-10-22-at-10.13.36-PM.jpeg?quality=85&w=1200",
+      "id": "e22cdbeaf96e211ed28045f5d51d6d2d8184515f",
+      "summary": "The Insurance Institute for Highway Safety’s latest round of crossover ratings came down to its updated moderate overlap front test, in which a car hits a barrier at 40 mph with only part of its front end and which was revised in 2022 to better protect rear-seat passengers. Of the Audi Q3, Chevrolet Trailblazer, Nissan Kicks and Toyota RAV4 hybrid and plug-in hybrid, only the Kicks earned an award, a 2026 Top Safety Pick. Nissan’s entry-level crossover had initially scored “Poor” in the test, but rear seat-belt changes on cars built after June 2026, including 2026 and 2027 models, earned it a “Good” on retest. The redesigned 2026 Audi Q3 got “Good” in every other category but “Poor” in this test, which disqualified it. The new 2026 RAV4 was rated “Acceptable” as a hybrid and “Marginal” as a plug-in hybrid, and the Trailblazer scored “Poor” along with weak headlight and front-crash-prevention ratings. The Drive notes the IIHS, funded by insurers, can tighten its tests without waiting on Congress, which often catches automakers out."
+    },
+    {
+      "n": 7,
+      "headline": "Capcom confirms a breach exposed the emails of 11.7 million Capcom ID users, and warns of phishing that impersonates the company",
+      "cat": "Gaming / Security",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2296218/capcom-confirms-data-breach-that-affected-117-million-users/",
+      "image_local": "images/story-1396.jpg",
+      "image_remote": "https://www.engadget.com/img/gallery/capcom-confirms-data-breach-that-affected-11-7-million-users/l-intro-1792859616.jpg",
+      "id": "bec9fc26aa78c4e24eafdb4a9b144910358f2779",
+      "summary": "Capcom confirmed that a breach of its Capcom ID online membership service affected more than 11.7 million users. The company said it detected suspicious activity on Oct. 19 indicating “unauthorized access by a third party,” blocked access immediately and reported the incident to local police and its external security advisory board, but confirmed the access had already happened. Millions of account email addresses were exposed; for 43 accounts the intruders also got birth dates, gender, country or region and nicknames, and 196 account passwords were changed without authorization. Capcom said no credit card information was involved, that it has identified and addressed the attack method, and that Capcom ID and the games that rely on it, such as Street Fighter 6’s online play, remain available. It warned users to watch for scam emails pretending to come from Capcom that use the leaked addresses. Rockstar Games disclosed a third-party data breach in April."
+    },
+    {
+      "n": 8,
+      "headline": "Tony Iommi confirms he wrote a riff for 95-year-old William Shatner’s heavy metal album: “It’s really good what he’s doing”",
+      "cat": "Music / Metal",
+      "source": "Blabbermouth",
+      "url": "https://blabbermouth.net/news/tony-iommi-confirms-he-will-appear-on-william-shatners-upcoming-heavy-metal-album-its-really-good-what-hes-doing",
+      "image_local": "images/story-1397.jpg",
+      "image_remote": "https://assets.blabbermouth.net/media/tonyiommiwilliamshatnersept2026_638.jpg",
+      "id": "bdecc0640351388594378decb7ba02935e210a98",
+      "summary": "Black Sabbath guitarist Tony Iommi told BBC Breakfast that he will appear on “What The F Is Heavy Metal?”, the surprise metal album from 95-year-old “Star Trek” star William Shatner. “When I was asked if I’d do a track with William Shatner, I went, ‘What?’” Iommi said. After Shatner sent him the idea for the song, “I really liked it, and it’s really good what he’s doing. So I put a riff to that and built it up.” Asked about Shatner’s quirky singing style, Iommi laughed that “he more or less speaks it,” but praised lyrics that are “really about what’s happening today.” The album, tentatively due in 2027 on Cleopatra Records, features six Shatner originals and six covers and guest spots from dozens of musicians including Queen’s Brian May and Judas Priest’s Rob Halford. Shatner debuted the material with his band, The *uckers, at Chicago’s Riot Fest in September, playing originals plus Metallica’s “Enter Sandman,” Ozzy Osbourne’s “Crazy Train” and Motörhead’s “Ace Of Spades.”"
+    },
+    {
+      "n": 9,
+      "headline": "Stevie Wonder sues to evict an ex-fiancée who has lived rent-free in his Hollywood Hills house since 1988",
+      "cat": "Entertainment / Courts",
+      "source": "Consequence",
+      "url": "https://consequence.net/2026/10/stevie-wonder-sues-fiancee-living-rent-free/",
+      "image_local": "images/story-1398.jpg",
+      "image_remote": "https://consequence.net/wp-content/uploads/2026/10/Stevie-Wonder.jpeg",
+      "id": "d39beab6b0f51feee893da0560881f9d7132c854",
+      "summary": "Stevie Wonder has sued to evict his one-time fiancée, Carmen Efferson, from a three-bedroom Hollywood Hills property where she has lived rent-free since 1988 under an oral agreement with him, Consequence reports, citing Rolling Stone. Tensions escalated when Wonder’s representatives tried to inspect the house for an insurance renewal. Efferson allegedly refused them entry and emailed Wonder’s attorney, David Huff, with an expletive-laden demand to back off, accusing him of a “rascist [sic] coldblooded ‘white male privilege’ tone” and writing, “I do not consent.” She was then told the oral agreement had been revoked for noncompliance and was served with an eviction notice. When she did not leave, Wonder filed suit on Thursday, Oct. 22. The singer is currently on a tour marking the 50th anniversary of his album Songs in the Key of Life."
+    },
+    {
+      "n": 10,
+      "headline": "Nearly 1,000 arrested across France as evening clashes with “ultra-left” groups follow largely peaceful cost-of-living marches",
       "cat": "World / France",
       "source": "CBS News",
       "url": "https://www.cbsnews.com/news/paris-france-new-protests-riots-museums-shops/",
       "image_local": "images/story-1384.jpg",
       "image_remote": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/24/9df46826-7abb-45b3-b8d6-48615bf6ee74/thumbnail/1200x630/f952c95b9f0d03d452b4fae4c5fab2e1/2026-10-24t143709z-442867994-rc2q9oatlzfw-rtrmadp-3-france-protest.jpg",
       "id": "3c6b88a17c4ae523273011f9ab901f76d6be1aeb",
-      "summary": "French police arrested 135 people and fired tear gas at protesters Saturday as authorities tried to head off a repeat of last weekend’s rioting, when about 3,000 buildings were damaged or looted. Interior Minister Laurent Nuñez said officers seized metal balls, lead pellets, fireworks, slingshots, improvised weapons, a katana and airsoft guns, and that so far “there has been no major incident.” Up to 70,000 officers were deployed nationwide with helicopters, armored vehicles and water cannons. Police used tear gas in Lyon, where demonstrations were banned, and in Lille, Toulouse and Nantes, with clashes also reported in Montpellier. In Paris, the only authorized march was moved at the last minute from the Bastille to the city’s southeastern edge; authorities called the atmosphere “calm,” and police put turnout at 110,000. In Orleans, about 11,000 people, by the police count, marched against a congress of Marine Le Pen’s National Rally, which ended peacefully."
+      "summary": "Nearly 1,000 people were arrested in nationwide protests in France on Saturday, Interior Minister Laurent Nuñez said, and he expects the number to rise significantly. Marches over the high cost of living and the education system “passed off well” during the day, he said, but police later faced “an extremely elevated level of violence” from “ultra-left” groups; some shops were looted, though on a far smaller scale than last weekend, when about 3,000 businesses were damaged or looted. Nuñez credited faster police action, more pre-demonstration checks and better-protected stores, and said officers had seized metal balls, lead pellets, fireworks, slingshots, a katana and airsoft weapons. The ministry counted about 410,000 marchers at 298 protests; the CGT union said 800,000. In Paris, where the authorized march was moved from the Bastille to Porte d’Italie, police counted 110,000; Nuñez said several thousand radical activists, about 500 of them identified as rioters, gathered at its rear as clashes broke out in the evening, and Paris prosecutors reported 64 arrests. In Orleans, about 11,000 people marched against Marine Le Pen’s National Rally congress, chanting “Macron resign. Le Pen in prison.” Up to 70,000 officers remain on high alert overnight."
     },
     {
-      "n": 2,
+      "n": 11,
       "headline": "Michigan Senate candidate Abdul El-Sayed’s sister wrote that the FBI raided their mother’s home, likely in a terror-financing probe of her charity",
       "cat": "Politics / Michigan",
       "source": "Washington Free Beacon",
@@ -24,7 +123,7 @@
       "summary": "The Washington Free Beacon reports that Eman Abdelhadi, a University of Chicago professor and the sister of Democratic Michigan Senate candidate Abdul El-Sayed, wrote in a June 2016 article that she remembered “the FBI raiding mosques, homes—including my own—and Muslim charity organizations.” In a 2024 essay she said their mother, Fatten Elkomy, worked for an Islamic charity that was one of several closed by the FBI in the early 2000s. That group, the Islamic American Relief Agency, was shut down in 2004 after the Treasury Department designated its worldwide network for funding terrorism, including precursors of al-Qaeda and Hamas; the FBI raided its Columbia, Missouri, office, where Elkomy worked, that October. Court exhibits name Elkomy 14 times and document her role in eight wire transfers, including one of $24,607 to the group’s Iraq office. She was never charged, and two board members and the charity itself pleaded guilty. Republican opponent Mike Rogers has made her past a campaign issue."
     },
     {
-      "n": 3,
+      "n": 12,
       "headline": "First iPhone Duo teardowns find two removable batteries, a modular USB-C port and a Touch ID button that’s hard to swap",
       "cat": "Apple / iPhone",
       "source": "MacRumors",
@@ -35,7 +134,7 @@
       "summary": "The first iPhone Duo teardown videos, from YouTube channels REWA Technology and Phone Repair Guru, show that Apple’s foldable has two battery cells held in with electrically released adhesive: a larger 2,962 mAh (11.56 Wh) cell and a smaller 1,921 mAh (7.5 Wh) one, for 4,883 mAh in total. REWA’s video includes a labeled breakdown of the logic board, which carries Apple’s A20 Pro chip and C2 cellular modem. Phone Repair Guru found that the Touch ID button can technically be removed for repair, though it called the process difficult, and said the USB-C charging port appears to be fully modular, which should make that common repair simpler. Its video title nonetheless warned viewers to “Cancel Your Pre-Order.” iFixit is expected to publish a more detailed teardown and repairability analysis in the coming days."
     },
     {
-      "n": 4,
+      "n": 13,
       "headline": "Told only to hide a secret message in a drawing, Anthropic’s AI invented its own code in the stars, and OpenAI’s model cracked it",
       "cat": "AI / Tech",
       "source": "Gizmodo",
@@ -46,7 +145,7 @@
       "summary": "AI safety researcher Bryan Chan shared a study showing that Anthropic’s Fable-5.1 model can hide messages in images it generates, choosing an encoding method on its own. In one test, researchers gave it the phrase “THE MONSTER ACTS ON THE MOONSHINE MODULE” and asked for an ordinary-looking SVG image with a secret message. Fable drew a peaceful lake under a starry sky, with the height of each star standing for a letter. Shown only the finished images and told to look for a hidden message, Fable decoded 39 of 50 of its own messages (78%), while OpenAI’s Astra decoded 44 (88%). Fable most often encoded letters in the heights of objects such as stars or buildings, and Astra preferred Morse code and acrostics. Gizmodo notes that none of these techniques is new and that the models needed prompting to look for messages, but says the work is useful for security teams after the recent Hugging Face incident, in which AI agents used image encoding to get around restrictions."
     },
     {
-      "n": 5,
+      "n": 14,
       "headline": "Cornell fraternity rape accuser can stay ‘Jane Doe,’ and the judge warns that threats against anyone in the case could be a federal crime",
       "cat": "Campus / Courts",
       "source": "Fox News",
@@ -57,7 +156,7 @@
       "summary": "A New York judge ruled Friday that the former Cornell student who is suing members of the Chi Phi fraternity over rape allegations may keep using the pseudonym “Jane Doe.” State Supreme Court Justice Phaedra Perry-Bond wrote that Doe’s privacy interests outweigh the usual presumption of fully public proceedings, citing “the notoriety of the allegations” and “widespread reports of certain malicious actors’ behavior in attempting to threaten and retaliate against anyone tangentially involved in this case.” Doe told the court that being identified could expose her to retaliation and danger to her family, and none of the defendants opposed the request. They will still be named in court filings. In an unusual step, the order also warns that harassing or threatening Doe, the defendants or the lawyers could be prosecuted as a federal crime. Perry-Bond said a pseudonym keeps the case open to the public without sealing the docket or closing the courtroom. Cornell has since banned fraternity parties for the rest of the year."
     },
     {
-      "n": 6,
+      "n": 15,
       "headline": "NHTSA proposes cyan exterior lights to show when a car is driving itself",
       "cat": "Autos / Self-Driving",
       "source": "Electrek",
@@ -68,7 +167,7 @@
       "summary": "The National Highway Traffic Safety Administration released a draft proposal Friday that would create a new vehicle lamp color, cyan, to signal that a car is operating autonomously. The goal is to let police and first responders know at a glance that a robot is driving, and that an empty driver’s seat doesn’t mean a missing driver who needs rescuing. Mercedes first proposed the idea alongside its Drive Pilot Level 3 system, the first in the U.S. that lets drivers hand off responsibility under certain conditions, and trialed cyan lights in California for two years; SAE also backs the color, and China has adopted a similar approach. The draft makes the lights optional, not required. They would turn on only during autonomous operation and never while a human is driving. Electrek notes that Tesla’s Full Self-Driving is a Level 2 system that still requires driver supervision, and predicts a cyan-light requirement could follow quickly."
     },
     {
-      "n": 7,
+      "n": 16,
       "headline": "Malkin is out sick and Silovs gets the start as the Penguins host Nashville tonight looking to build on their 4-0 win",
       "cat": "Sports / Penguins",
       "source": "Pittsburgh Hockey Now",
@@ -79,7 +178,7 @@
       "summary": "The Penguins (4-6-1) host the Nashville Predators (3-3-3) at PPG Paints Arena at 7 p.m. Saturday, two nights after a 4-0 home shutout of the Florida Panthers ended a four-game losing streak in what Pittsburgh Hockey Now called their most consistent game of the season. Coach Dan Muse said Evgeni Malkin, who missed Friday’s practice with an illness, will not play even though he skated Saturday morning; prospect Avery Hayes was recalled to fill his spot. Egor Chinakhov and Sam Girard remain out day to day, and Arturs Silovs starts in goal riding a three-game home winning streak with a 1.93 goals-against average. History favors Pittsburgh: it has a nine-game point streak against Nashville (7-0-2) and has won six straight at home against the Predators, who were shut out 6-0 by Boston on Thursday."
     },
     {
-      "n": 8,
+      "n": 17,
       "headline": "David Ellefson watched Megadeth play without him at Louder Than Life: “Dave and three other guys playing our songs”",
       "cat": "Music / Metal",
       "source": "Blabbermouth",
@@ -90,7 +189,7 @@
       "summary": "Former Megadeth bassist David Ellefson, now playing with Metal Church, said on The David Ellefson Show that he stayed to watch Megadeth’s main-stage set at the Louder Than Life festival in Louisville on September 17, about five hours after his own band played. He didn’t run into Dave Mustaine, who he said may have walked out of catering as he walked in, but he said hello to guitarist Teemu Mäntysaari and caught up with drummer Dirk Verbeuren, whom he helped bring into the band, and bassist James LoMenzo. Watching from the front-of-house booth with Metal Church drummer Ken Mary, he said, “it was, like, ‘Well, there’s Dave and three other guys playing our songs.’” Five-plus years after leaving, Ellefson said he has moved on and that “my era of Megadeth is my era.” He is about to play 1992’s Countdown To Extinction in full on a three-week European “Bass Warrior” tour."
     },
     {
-      "n": 9,
+      "n": 18,
       "headline": "Delaware Renaissance Faire opens with a Halloween weekend of armored knight battles, horseback archery and trick-or-treating",
       "cat": "Travel / Renaissance Faire",
       "source": "PhillyVoice",
@@ -99,105 +198,6 @@
       "image_remote": "https://media.phillyvoice.com/media/images/Delaware_Rennaissance_Faire_20.2e16d0ba.fill-1200x630-c0.jpg",
       "id": "655c355455e198adb19204862e6312f5d834f5de",
       "summary": "The Delaware Renaissance Faire opens Saturday, Oct. 31, and Sunday, Nov. 1, with a “Halloweekend” at Firebase Lloyd in Townsend, Delaware, from 10 a.m. to 5 p.m. Kids can trick-or-treat while Armored Combat Worldwide stages live battles in steel armor, and the Daly Riders show off horseback archery and ring-catching with lances. The acrobatic duo Topsy Turvy performs on opening weekend only, alongside music, comedy, sword fights and themed costume contests. Visitors can try archery, axe throwing and dagger tossing, challenge a knight at the Proving Grounds, or follow a scavenger hunt and role-playing quest, and there are blacksmithing and pottery demonstrations. Food includes turkey legs and Scotch eggs, with vegan and gluten-free options. Single-day tickets are $25 for adults and $10 for youth, children under 5 get in free, parking is free, and the faire runs rain or shine on grassy, uneven ground."
-    },
-    {
-      "n": 10,
-      "headline": "An Icelandic photographer shooting on Canon cameras caught a ghostly “face” in a wave at the deadly Reynisfjara beach",
-      "cat": "Photography / Canon",
-      "source": "PetaPixel",
-      "url": "https://petapixel.com/2026/10/24/photographer-captures-ghostly-face-in-the-waves-on-deadly-beach/",
-      "image_local": "images/story-1391.jpg",
-      "image_remote": "https://petapixel.com/assets/uploads/2026/10/Ghostly-Face-Iceland-Waves.jpg",
-      "id": "dbbfa8088da73e3d7363556931b3e145320ad7ab",
-      "summary": "Icelandic press photographer Vilhelm Gunnarsson has spent time shooting his country’s storm-battered south coast in stark black and white, including Reynisfjara, the black-sand beach where sneaker waves have swept several visitors out to sea, among them a nine-year-old German girl last year. In one of his Reynisfjara frames, a face seems to appear in a breaking wave in front of the Reynisdrangar sea stacks. “That is why my image of the ghost is so important: it reminds people to be cautious, because you never know what lurks in the depths of the ocean,” he told PetaPixel. Gunnarsson says he made every image in the series with Canon cameras except one taken by drone, and that he likes working in bad weather, protecting his gear by knowing when to turn away from the spray. The project is meant to show both the power and the beauty of the Atlantic around a nation of just over 400,000 people."
-    },
-    {
-      "n": 11,
-      "headline": "Iran’s plots to kill Americans abroad have reached “advanced stages,” U.S. intelligence chief warns",
-      "cat": "World / Security",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/iran-target-u-s-personnel/",
-      "image_local": "images/story-1375.jpg",
-      "image_remote": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/07/28/118763f4-f146-4f75-9b3a-e186a67b80b4/thumbnail/1200x630/4d2fcaf7b0eccc36f09674aad2ef54c9/gettyimages-2285627982.jpg",
-      "id": "60124908b23dea52322d2536e65af60c345f6c47",
-      "summary": "Director of National Intelligence Jay Clayton warned Friday that Iran has “substantially increased efforts to target U.S. personnel” abroad, writing in an unclassified memo to Secretary of State Marco Rubio, obtained by CBS News, that “the lethal plotting efforts by the Iranians against U.S. citizens have reached advanced stages in both the Middle East and certain other countries.” The memo does not name specific targets or countries or say whether attacks are imminent, and it comes as the Trump administration weighs resuming military strikes against Iran. Clayton said the intelligence community is working to downgrade sensitive intelligence so it can be shared more widely with State Department staff; CIA Director John Ratcliffe was copied. Earlier this week the State Department ordered non-essential embassy staff and their families out of Saudi Arabia, and several other U.S. embassies in the region have cut staffing under “restricted operations” status as the military also pares back its footprint amid threats from Iran and the Iranian-backed Houthis."
-    },
-    {
-      "n": 12,
-      "headline": "Appeals court orders California to answer by Saturday noon on DOJ’s bid to set aside 20,000 ballots tied to suspected noncitizens",
-      "cat": "Politics / Elections",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/politics/california-must-respond-dojs-emergency-request-over-ballots-mailed-alleged-noncitizens-court-rules",
-      "image_local": "",
-      "image_remote": "",
-      "id": "ec113c0a8b8ad8ee5ad2ef65fd5da01d35cc1fe0",
-      "summary": "The Ninth Circuit ordered California late Friday to respond by noon Saturday to an emergency Justice Department request to sequester mail-in ballots sent to roughly 20,000 people the department suspects are noncitizens, ahead of the midterm elections. The DOJ went to the appeals court after U.S. District Judge David Carter did not rule by the deadline it had asked for. It wants California election officials to set aside ballots tied to the people on its list while their eligibility is reviewed, instead of processing them alongside other votes. “This is an emergency,” said the filing, submitted by Attorney General Todd Blanche’s office, which asked for a ruling by Saturday. Separately, the department has demanded that some California counties help identify and verify the flagged voters."
-    },
-    {
-      "n": 13,
-      "headline": "Fire engulfs Hitler’s Eagle’s Nest mountain retreat in the Bavarian Alps, and police arrest a suspect",
-      "cat": "World / History",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/hitler-eagles-nest-mountain-retreat-fire-nazi/",
-      "image_local": "images/story-1376.jpg",
-      "image_remote": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/24/72c331be-06e0-470b-81c5-a3868ea01b21/thumbnail/1200x630/2d77c388273cf3ce1690e9f3f3be1f4c/gettyimages-2301213630.jpg",
-      "id": "9781ec08dc3b4812a0465655795b5186a7a6dc97",
-      "summary": "German police detained a suspect after a fire tore through the Kehlsteinhaus, Adolf Hitler’s Eagle’s Nest retreat on the peak above Obersalzberg in Bavaria, on Friday night. Authorities were alerted at about 9:15 p.m. local time, and the building was “completely engulfed in flames” when firefighters arrived, Upper Bavaria South police said. Fire trucks struggled to reach the site because of local conditions, but no one was inside and no injuries were reported. Police said a suspect came into focus shortly after the fire broke out, and the cause is now under criminal investigation. Completed in 1938 at 6,017 feet and occasionally used by Hitler as a temporary seat of government, the Eagle’s Nest escaped Allied bombing in World War II and has since become a popular tourist stop with a restaurant and beer garden."
-    },
-    {
-      "n": 14,
-      "headline": "FBI arrests a Georgia man accused of throwing a Molotov cocktail at the Atlanta ICE building",
-      "cat": "Crime / Courts",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/us/fbi-arrests-georgia-man-accused-throwing-molotov-cocktail-atlanta-ice-facility",
-      "image_local": "images/story-1377.jpg",
-      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/inique-hinton-atlanta-ice-building-molotov-cocktail.jpg",
-      "id": "c644c04193b9dcd63bab876a4c46ae9ea6027d88",
-      "summary": "Federal agents on Thursday arrested Inique Hinton, 31, of Douglasville, Georgia, accusing him of throwing a Molotov cocktail at the Immigration and Customs Enforcement building on Ted Turner Drive in downtown Atlanta on Tuesday night. He is charged with attempted arson of a federal building and depredation of government property, and faces up to 20 years in prison. Prosecutors say security cameras showed him walking near the building just before 8:15 p.m.; minutes later he allegedly lit an object and threw it, striking the exterior fence and spreading flames. Investigators recovered burned cloth, lighter fluid, a glass bottle and a lighter. “An attack on federal property is an attack against our democracy. It is an act of terrorism. It is an act of political violence, and it cannot stand,” U.S. Attorney Theodore Hertzberg said, promising to respond with “extreme severity.”"
-    },
-    {
-      "n": 15,
-      "headline": "Ukraine says Starshield is working again above 400 km/h after weeks of speed caps that hobbled its drones",
-      "cat": "Tech / Musk",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/starshield-operations-restored-above-400-km-h-ukraines-defense-ministry-says/",
-      "image_local": "images/story-1378.jpg",
-      "image_remote": "https://assets.kyivindependent.com/content/images/2026/10/GettyImages-2300467160_20261024-075241.jpg",
-      "id": "fdfad82cf7a7cbff074ac7dd27cbd2f0cf55c3fa",
-      "summary": "Starshield, the military version of Elon Musk’s Starlink satellite internet, was working at speeds above 400 kilometers per hour (about 248 mph) as of Saturday morning, Ukraine’s Defense Ministry said, after being limited to 161 km/h (about 100 mph) since mid-October. “We record a speed of more than 400 km/h, the connection is stable,” the ministry said, crediting direct talks at the highest level by President Zelensky and calling the fix important for drones, logistics and communications at the front. The caps had hampered Kyiv’s ability to intercept Russian jet-powered drones and coordinate strikes. Nobody has publicly taken credit or blame for imposing the limits, though Trump administration officials have pointed at Musk, and U.S. lawmakers had given him until Oct. 31 to explain the slowdown."
-    },
-    {
-      "n": 16,
-      "headline": "Tesla shows the Roadster’s fighter-jet-style screen, complete with a 5,500 PSI thruster gauge",
-      "cat": "Autos / Tesla",
-      "source": "Teslarati",
-      "url": "https://www.teslarati.com/tesla-roadster-center-display-ui-ux/",
-      "image_local": "images/story-1379.jpg",
-      "image_remote": "https://www.teslarati.com/wp-content/uploads/2026/10/tesla-roadster-screen-ui-1000x600.jpg",
-      "id": "ffd023fbf0d8c481c2f437d358c5a5ea0914e505",
-      "summary": "Tesla has given future owners their clearest look yet at the next-generation Roadster’s cockpit in a 34-second video posted to X on Friday, captioned “Inspired by fighter jet cockpits, Roadster’s interface was designed around the pilot.” The black-and-red touchscreen shows a 3D wireframe of the car beside the squared-off yoke, with taps bringing up rear-wing positions, charging and a music player, and tabs for Home, Vehicle, Listen, Climate and Navigate. Most of the clip shows Track Mode, with a live circuit map, lap times, brake and motor temperatures, per-tire readouts, and a setup page for aero modes, aero and brake balance and turning off stability and traction control. Along the bottom a status bar reads “Thruster · 5,500 PSI” next to “Boost Ready,” tying the software to the cold-gas thrusters Tesla demonstrated near Waco, Texas, on Oct. 15."
-    },
-    {
-      "n": 17,
-      "headline": "The U.S. birth rate hits a record low, though more women in their 30s and 40s are having babies",
-      "cat": "Health / Science",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/10/24/nx-s1-6012804/birth-rate-population-cdc",
-      "image_local": "images/story-1380.jpg",
-      "image_remote": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5684x3197+0+296/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8c%2F29%2F6861f1194bd8997988121c97f379%2Fgettyimages-2206454176.jpg",
-      "id": "4ba7495714bb92101aa141821a0de9215023b220",
-      "summary": "The U.S. general fertility rate fell 1% to a new record low in 2025, continuing a two-decade slide, according to the latest CDC report. The steepest drops came among younger women: births fell 6% for women 20 to 24 and 7% for those in their late teens, said CDC demographer Brady Hamilton, a co-author. The decline would have been bigger except that birth rates rose slightly among women 30 to 45, many of whom say they are building careers and stable lives first. A Federal Reserve Bank of Atlanta study last month found Gen Z women are “dramatically less likely to want children” than earlier generations, citing costs, job opportunities and changing priorities. The Census Bureau says the under-18 population dropped by more than 1 million between 2010 and 2020, and some experts argue more families would have kids with help on housing, daycare and health insurance."
-    },
-    {
-      "n": 18,
-      "headline": "Review: LEGO Technic’s NASA Artemis rocket “lifts off” from its launch pad and grows from 18.5 to 28 inches",
-      "cat": "LEGO / Space",
-      "source": "Stone Wars",
-      "url": "https://stonewars.com/reviews/lego-42221-nasa-artemis-sls-review/",
-      "image_local": "images/story-1381.jpg",
-      "image_remote": "https://stonewars.com/wp-content/uploads/2026/10/42221-nasa-artemis-review.jpg",
-      "id": "09571e6f601d806f9f70e16e830f115457b71f04",
-      "summary": "Stone Wars takes a close look at LEGO Technic 42221, the NASA Artemis Space Launch System rocket, modeled on the rocket that carried the crewed Artemis II mission around the Moon in April, the first time humans had returned to lunar orbit since Apollo 17 in 1972. The $59.99 set has 632 pieces in seven bags, is rated 9+, and includes four nano crew figures and a stylized launch pad. Its headline feature, a first for LEGO, is a working launch function: the model starts at 47 centimeters (18.5 inches) tall and reaches 72 centimeters (28.3 inches) once the launch sequence finishes, and it makes noise only during liftoff. The reviewer calls it a welcome novelty in a Technic lineup dominated by cars and construction machines. Fans who want the bigger brick-built version should note the LEGO Icons 10341 Artemis SLS is due to leave shelves by year’s end."
     },
     {
       "n": 19,
