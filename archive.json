@@ -1518,7 +1518,16 @@
     "28f73b6431625bbb67c9da3469dd8b4e88c981ca",
     "7bc737dfecbb80a5106e3d3d12978d0b6b4e3d6b",
     "ae27c769e16c08e5cb2af84b0470c19809362318",
-    "a288d5027ad62ff50be119f2afdcf287609ad181"
+    "a288d5027ad62ff50be119f2afdcf287609ad181",
+    "9ac6dcabc6f38722aa444560c322d3d9c3100e43",
+    "26b6b50e7cee57f35100aadb02e78b05f5418e4b",
+    "49e62db3258d0bc4dcbc276e05b58b53b53575fd",
+    "955e67fd9ca6f426ac535be4d9f2c7d58e11d350",
+    "1a52cb5c42772e0292520cac467f53d7c0bdcda2",
+    "d61f12fff8eaadaafdef743c68cebc7f0be0cfcd",
+    "9dc5275e4a2f4127af5e4b312e289f4db55714fd",
+    "f278d44b58985175269d0d26b23fd297915de351",
+    "90ef0455fad99b85dfd4414e27d137706a0a4bdf"
   ],
   "stories": {
     "0c2ac7a5e342411678296315c4c59043b1f067cc": {
@@ -18066,7 +18075,97 @@
       "image_remote": "https://gizmodo.com/app/uploads/2026/10/4th-century-Roman-sarcophagus-Westminster-1200x675.jpeg",
       "image_local": "images/story-1366.jpg",
       "id": "a288d5027ad62ff50be119f2afdcf287609ad181"
+    },
+    "9ac6dcabc6f38722aa444560c322d3d9c3100e43": {
+      "headline": "Historic flooding swamps the Four Corners, with rooftop rescues and more rain expected through the weekend",
+      "cat": "Weather / U.S.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/10/23/nx-s1-6014742/flooding-weather-four-corners",
+      "summary": "Rare, heavy rain that began Wednesday has sent brown floodwaters through parts of New Mexico, Colorado, Utah and Arizona, closing roads and forcing mandatory evacuations and emergency declarations in all four states. In San Juan County, New Mexico, responders pulled people off their roofs as rivers rose to what emergency spokesman Devin Neeley called historic levels, saying “we have not seen flooding like this in generations,” while floodwater pushed sewage into the San Juan River. Farmington’s police chief said no one had died so far but warned “this is not something that should be played with.” In southern Utah, the city of Hurricane declared an emergency after flooding damaged more than 100 homes and RVs, and Colorado Gov. Jared Polis declared disaster emergencies in 11 counties and called up the National Guard for rescues in the southwest of the state. Navajo Nation police said they had rescued seven families, 30 people, from flooded homes, and the Hopi Tribe declared a state of emergency. More rain is expected through the weekend.",
+      "image_remote": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2048x1152+0+192/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe7%2F3c%2F1efa4a1d4835830ab225ffe1eeeb%2Fap26296544937366.jpg",
+      "image_local": "images/story-1367.jpg",
+      "id": "9ac6dcabc6f38722aa444560c322d3d9c3100e43"
+    },
+    "26b6b50e7cee57f35100aadb02e78b05f5418e4b": {
+      "headline": "An 88-year-old Michigan widow with no internet was credited with 562 ActBlue donations in six weeks, a reporter says",
+      "cat": "Politics / Elections",
+      "source": "Breitbart",
+      "url": "https://www.breitbart.com/politics/2026/10/23/michigan-retiree-without-internet-connection-credited-with-4500-in-actblue-donations/",
+      "summary": "Journalist Charlie LeDuff reported this week that federal records tie Elizabeth Waffle, an 88-year-old widow living in a trailer in Milan, Michigan, to nearly $4,500 in new ActBlue donations over six weeks, 562 transactions in all. Four of them, totaling $22, were logged on the very day LeDuff first visited her trailer, where the power, water and internet are all off; the two tried and failed to make a donation together that day. The new entries included $51 for Abdul El-Sayed, the Democratic Senate nominee facing Republican Mike Rogers in a race seen as a possible tipping point for Senate control. Filings reviewed in July had attributed 14,696 donations to her over five years, which LeDuff put at more than $130,000. Waffle said the figures made no sense to her, though she bristled at a possible “hit piece” before agreeing he should keep digging. Not every review agrees: The Center Square found about $100,000 tied to her name across three cycles and noted that ActBlue’s tool for splitting one gift across many campaigns can create multiple logged transactions from a single donation.",
+      "image_remote": "",
+      "image_local": "",
+      "id": "26b6b50e7cee57f35100aadb02e78b05f5418e4b"
+    },
+    "49e62db3258d0bc4dcbc276e05b58b53b53575fd": {
+      "headline": "Apple posts official do-it-yourself repair manuals for the iPhone Duo on launch day",
+      "cat": "Apple / iPhone",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/10/23/apples-official-diy-repair-guides-for-the-iphone-duo-now-available/",
+      "summary": "Hours after the iPhone Duo went on sale Friday, Apple published its official repair manual for the folding phone, with step-by-step instructions for owners and independent technicians replacing individual components, along with detailed diagrams of the internals and lists of the parts and tools each job requires. Separate safety guides cover procedures involving broken glass and battery replacement. Earlier in the day Apple had also posted support documents for software and hardware problems, including hinge issues, Touch ID and display troubleshooting. Apple recommends reading the entire manual before starting and only attempting a repair if you feel comfortable doing it as instructed. Genuine iPhone Duo parts and tools aren’t yet available in Apple’s Self Service Repair Store.",
+      "image_remote": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iphone-duo-repair-guide.jpg?quality=82&strip=all&resize=1200,628",
+      "image_local": "images/story-1368.jpg",
+      "id": "49e62db3258d0bc4dcbc276e05b58b53b53575fd"
+    },
+    "955e67fd9ca6f426ac535be4d9f2c7d58e11d350": {
+      "headline": "Ex-funeral director who gambled away $1.2 million in prepaid funerals pleads guilty; victims say the deal is too light",
+      "cat": "Connecticut / Courts",
+      "source": "NBC Connecticut",
+      "url": "https://www.nbcconnecticut.com/news/local/former-funeral-director-accused-of-stealing-from-130-people-takes-plea-deal/3787982/",
+      "summary": "Philip Pietras, who once owned funeral homes in Vernon, Coventry, East Windsor and Tolland, pleaded guilty Friday to one count of larceny and four counts of intent to defraud after more than 130 Connecticut residents paid ahead for their funerals and had the money stolen over 16 years. State’s Attorney Craig Nowak said police uncovered more than $1.2 million Pietras had collected on funeral contracts, money the state says went to MGM Springfield, Foxwoods, shopping and even a cruise. Under the deal he will get 15 years, suspended after seven and a half, plus restitution, with sentencing set for January. Victims and their families said the punishment doesn’t fit the crime. “He went on a cruise? How about sending us elderly people on a cruise,” said Sheila Lawlor, and Marguerite Koch said, “You know full well we’ll never get a penny… There is no money.” Pietras has been evicted and lost his embalming license; the state expects to distribute newly appropriated money to victims next summer.",
+      "image_remote": "https://media.nbcconnecticut.com/2026/10/52148189086-1080pnbcstations.jpg?quality=85&strip=all&resize=1200%2C675",
+      "image_local": "images/story-1369.jpg",
+      "id": "955e67fd9ca6f426ac535be4d9f2c7d58e11d350"
+    },
+    "1a52cb5c42772e0292520cac467f53d7c0bdcda2": {
+      "headline": "Lawmakers give Elon Musk until Oct. 31 to explain the Starlink slowdown hitting Ukraine’s military",
+      "cat": "Tech / Musk",
+      "source": "Kyiv Independent",
+      "url": "https://kyivindependent.com/us-lawmakers-demand-answers-from-elon-musk-over-ukraine-starlink-restrictions/",
+      "summary": "Six Democratic members of Congress led by Rep. Gregory Meeks and Sen. Peter Welch sent Elon Musk a public letter Friday with five questions about restrictions on Starshield, the military version of Starlink, which Ukrainian forces say has been running at limited capacity since mid-October. Speed caps have hampered Kyiv’s ability to defend against Russian jet-powered drones and coordinate strikes, according to the report. The lawmakers argued that because SpaceX’s shares are publicly traded it must disclose material risks, writing that “the revelation that you personally wielded control over a foreign country’s military communications” would raise governance and geopolitical concerns, and gave Musk until Oct. 31 to answer. No one has publicly taken responsibility for the slowdown, though Trump administration officials have pointed at Musk. President Trump, asked about it this week, defended Musk, saying he would “never do anything wrong.”",
+      "image_remote": "https://assets.kyivindependent.com/content/images/2026/10/GettyImages-2299248528_20261023-232205.jpg",
+      "image_local": "images/story-1370.jpg",
+      "id": "1a52cb5c42772e0292520cac467f53d7c0bdcda2"
+    },
+    "d61f12fff8eaadaafdef743c68cebc7f0be0cfcd": {
+      "headline": "The 2027 Jeep Wrangler adds standard features, from Alpine audio and a trail camera on Sahara to heated seats on Rubicon",
+      "cat": "Autos / Jeep",
+      "source": "Mopar Insiders",
+      "url": "https://moparinsiders.com/jeep-gives-the-2027-wrangler-more-standard-features/",
+      "summary": "Jeep has released its changes for the 2027 Wrangler, and the Sahara gets the biggest upgrade: the four-door Unlimited Sahara now comes standard with McKinley-trimmed seats, side steps, a nine-speaker Alpine premium audio system, built-in navigation, rear park assist, blind-spot monitoring, rear cross-path detection, an auto-dimming mirror, automatic high beams and a garage door opener, plus the front-facing TrailCam for seeing terrain over the hood. Sport, Sport S and Willys models get a 7-inch color instrument display, and Sport S and Willys add passive entry. The two-door Willys gets the vented power dome hood as standard, and Rubicon adds heated front seats, a heated steering wheel and navigation. Engine choices carry over: the 285-horsepower 3.6-liter Pentastar V6 is still offered with a six-speed manual or eight-speed automatic, the turbocharged 2.0-liter four makes 270 horsepower, and the 392 HEMI V8 delivers 470 horsepower. There are more paint colors too; Jeep hasn’t announced pricing.",
+      "image_remote": "https://moparinsiders.com/wp-content/uploads/2026/10/Image-267.jpeg",
+      "image_local": "images/story-1371.jpg",
+      "id": "d61f12fff8eaadaafdef743c68cebc7f0be0cfcd"
+    },
+    "9dc5275e4a2f4127af5e4b312e289f4db55714fd": {
+      "headline": "Mastodon’s Brann Dailor on how Brent Hinds’ death and losing his mother shaped the band’s new album “Marrow Deep”",
+      "cat": "Music / Metal",
+      "source": "Louder",
+      "url": "https://www.loudersound.com/bands-artists/mastodon-marrow-deep-interview",
+      "summary": "Mastodon learned that former guitarist and singer Brent Hinds had died in a motorcycle accident at 51 while standing at baggage claim in Alaska for the last date of their 25th-anniversary tour in August 2025, drummer and singer Brann Dailor tells Louder. Hinds had quit the band in acrimonious circumstances five months earlier, and the Alaska State Fair show the next day became a requiem. Dailor said the songs for the new album, “Marrow Deep,” started as a return to the mythological themes of “Blood Mountain” and “Emperor of Sand,” but had already turned personal after his mother Michele died suddenly in February 2025. “I honestly thought… we might actually be able to go back to singing about Pegasus and Bigfoot and the Loch Ness Monster,” he said. “But fate had other plans.” He called the fact that Hinds died before they reconciled “a real gut punch.”",
+      "image_remote": "https://cdn.mos.cms.futurecdn.net/bn56ix3xCjQzJvFbW6H6G9-1280-80.jpg",
+      "image_local": "images/story-1372.jpg",
+      "id": "9dc5275e4a2f4127af5e4b312e289f4db55714fd"
+    },
+    "f278d44b58985175269d0d26b23fd297915de351": {
+      "headline": "Ridley Scott is producing a new “Alien” movie that picks up from “Prometheus” and “Covenant”",
+      "cat": "Movies / Sci-Fi",
+      "source": "Gizmodo",
+      "url": "https://gizmodo.com/ridley-scott-is-producing-a-new-alien-movie-2000830143",
+      "summary": "A new “Alien” film is in the works with Ridley Scott producing, according to The Hollywood Reporter, and it is not the long-rumored sequel to 2024’s “Alien: Romulus.” Instead it ties back to “Prometheus” and “Alien: Covenant,” the last two entries Scott directed. Aaron Guzikowski, who worked with Scott on the series “Raised by Wolves,” will write the script, and no director is attached yet. In August Scott told the French outlet AlloCiné that “Romulus” “was OK” but that the franchise “needs some help,” adding, “I’ve already got a footprint for the next Alien… I’m picking up where we left off in Covenant with Michael Fassbender, who now thinks he’s Ozymandias.” THR reports Fassbender isn’t attached yet.",
+      "image_remote": "https://gizmodo.com/app/uploads/2026/08/Michael-Fassbender-Alien-Covenant-1200x675.jpg",
+      "image_local": "images/story-1373.jpg",
+      "id": "f278d44b58985175269d0d26b23fd297915de351"
+    },
+    "90ef0455fad99b85dfd4414e27d137706a0a4bdf": {
+      "headline": "China releases its first fully AI-generated feature film, to weak advance ticket sales",
+      "cat": "Tech / China",
+      "source": "Breitbart",
+      "url": "https://www.breitbart.com/entertainment/2026/10/23/china-debuts-its-first-fully-ai-generated-film/",
+      "summary": "China’s first feature-length film made entirely with AI, a historical fantasy called “Sanxingdui: Future Past,” opened in theaters Friday, but advance ticket sales for the roughly $1.5 million production were weak. The movie is built around the real Sanxingdui dig in Sichuan province, which since 1986 has turned up hundreds of artifacts more than 3,000 years old, including bronze masks with oddly shaped eyes and enormous ears unlike anything else from the era, at the site of a vanished Bronze Age city. Many of the relics were deliberately broken or burned before being buried, a mystery historians often explain as religious offerings at a pilgrimage center that faded around 1000 B.C. The film instead spins a more fanciful, sci-fi explanation for the lost civilization.",
+      "image_remote": "https://media.breitbart.com/media/2026/10/GettyImages2300858013-640x335.jpg",
+      "image_local": "images/story-1374.jpg",
+      "id": "90ef0455fad99b85dfd4414e27d137706a0a4bdf"
     }
   },
-  "updated": "Friday, October 23, 2026 · 6:07 PM ET"
+  "updated": "Friday, October 23, 2026 · 10:05 PM ET"
 }
