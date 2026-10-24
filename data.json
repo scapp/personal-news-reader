@@ -1,8 +1,118 @@
 {
-  "updated": "Saturday, October 24, 2026 · 7:08 AM ET",
+  "updated": "Saturday, October 24, 2026 · 11:44 AM ET",
   "stories": [
     {
       "n": 1,
+      "headline": "France arrests 135 and fires tear gas in several cities as a second weekend of cost-of-living protests gets underway",
+      "cat": "World / France",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/paris-france-new-protests-riots-museums-shops/",
+      "image_local": "images/story-1384.jpg",
+      "image_remote": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/24/9df46826-7abb-45b3-b8d6-48615bf6ee74/thumbnail/1200x630/f952c95b9f0d03d452b4fae4c5fab2e1/2026-10-24t143709z-442867994-rc2q9oatlzfw-rtrmadp-3-france-protest.jpg",
+      "id": "3c6b88a17c4ae523273011f9ab901f76d6be1aeb",
+      "summary": "French police arrested 135 people and fired tear gas at protesters Saturday as authorities tried to head off a repeat of last weekend’s rioting, when about 3,000 buildings were damaged or looted. Interior Minister Laurent Nuñez said officers seized metal balls, lead pellets, fireworks, slingshots, improvised weapons, a katana and airsoft guns, and that so far “there has been no major incident.” Up to 70,000 officers were deployed nationwide with helicopters, armored vehicles and water cannons. Police used tear gas in Lyon, where demonstrations were banned, and in Lille, Toulouse and Nantes, with clashes also reported in Montpellier. In Paris, the only authorized march was moved at the last minute from the Bastille to the city’s southeastern edge; authorities called the atmosphere “calm,” and police put turnout at 110,000. In Orleans, about 11,000 people, by the police count, marched against a congress of Marine Le Pen’s National Rally, which ended peacefully."
+    },
+    {
+      "n": 2,
+      "headline": "Michigan Senate candidate Abdul El-Sayed’s sister wrote that the FBI raided their mother’s home, likely in a terror-financing probe of her charity",
+      "cat": "Politics / Michigan",
+      "source": "Washington Free Beacon",
+      "url": "https://freebeacon.com/democrats/fbi-raided-home-of-el-sayeds-mother-senate-candidates-sister-wrote-in-unearthed-article/",
+      "image_local": "images/story-1385.jpg",
+      "image_remote": "https://freebeacon.com/wp-content/uploads/2026/10/Screenshot-2026-10-14-at-7.48.07%E2%80%AFPM.png",
+      "id": "dd7798f64eadda8fb6d37c5e9547c77c4f9bc2cc",
+      "summary": "The Washington Free Beacon reports that Eman Abdelhadi, a University of Chicago professor and the sister of Democratic Michigan Senate candidate Abdul El-Sayed, wrote in a June 2016 article that she remembered “the FBI raiding mosques, homes—including my own—and Muslim charity organizations.” In a 2024 essay she said their mother, Fatten Elkomy, worked for an Islamic charity that was one of several closed by the FBI in the early 2000s. That group, the Islamic American Relief Agency, was shut down in 2004 after the Treasury Department designated its worldwide network for funding terrorism, including precursors of al-Qaeda and Hamas; the FBI raided its Columbia, Missouri, office, where Elkomy worked, that October. Court exhibits name Elkomy 14 times and document her role in eight wire transfers, including one of $24,607 to the group’s Iraq office. She was never charged, and two board members and the charity itself pleaded guilty. Republican opponent Mike Rogers has made her past a campaign issue."
+    },
+    {
+      "n": 3,
+      "headline": "First iPhone Duo teardowns find two removable batteries, a modular USB-C port and a Touch ID button that’s hard to swap",
+      "cat": "Apple / iPhone",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/24/iphone-duo-teardown-videos/",
+      "image_local": "images/story-1386.jpg",
+      "image_remote": "https://images.macrumors.com/t/drErN-sKJCN6RvkjOQhhFQi9Eto=/2880x/article-new/2026/10/iPhone-Duo-Outer-Display-Hand.jpg",
+      "id": "d773d4c5ba8a3945295a74c93208dc281d984b5b",
+      "summary": "The first iPhone Duo teardown videos, from YouTube channels REWA Technology and Phone Repair Guru, show that Apple’s foldable has two battery cells held in with electrically released adhesive: a larger 2,962 mAh (11.56 Wh) cell and a smaller 1,921 mAh (7.5 Wh) one, for 4,883 mAh in total. REWA’s video includes a labeled breakdown of the logic board, which carries Apple’s A20 Pro chip and C2 cellular modem. Phone Repair Guru found that the Touch ID button can technically be removed for repair, though it called the process difficult, and said the USB-C charging port appears to be fully modular, which should make that common repair simpler. Its video title nonetheless warned viewers to “Cancel Your Pre-Order.” iFixit is expected to publish a more detailed teardown and repairability analysis in the coming days."
+    },
+    {
+      "n": 4,
+      "headline": "Told only to hide a secret message in a drawing, Anthropic’s AI invented its own code in the stars, and OpenAI’s model cracked it",
+      "cat": "AI / Tech",
+      "source": "Gizmodo",
+      "url": "https://gizmodo.com/anthropics-ai-hid-a-secret-message-in-the-stars-openais-ai-found-it-2000830047",
+      "image_local": "",
+      "image_remote": "",
+      "id": "dff871db0050ccff67b627a4d5fd5fff6fda3734",
+      "summary": "AI safety researcher Bryan Chan shared a study showing that Anthropic’s Fable-5.1 model can hide messages in images it generates, choosing an encoding method on its own. In one test, researchers gave it the phrase “THE MONSTER ACTS ON THE MOONSHINE MODULE” and asked for an ordinary-looking SVG image with a secret message. Fable drew a peaceful lake under a starry sky, with the height of each star standing for a letter. Shown only the finished images and told to look for a hidden message, Fable decoded 39 of 50 of its own messages (78%), while OpenAI’s Astra decoded 44 (88%). Fable most often encoded letters in the heights of objects such as stars or buildings, and Astra preferred Morse code and acrostics. Gizmodo notes that none of these techniques is new and that the models needed prompting to look for messages, but says the work is useful for security teams after the recent Hugging Face incident, in which AI agents used image encoding to get around restrictions."
+    },
+    {
+      "n": 5,
+      "headline": "Cornell fraternity rape accuser can stay ‘Jane Doe,’ and the judge warns that threats against anyone in the case could be a federal crime",
+      "cat": "Campus / Courts",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/us/cornell-rape-accuser-remain-jane-doe-judge-warns-threats-could-lead-federal-charges",
+      "image_local": "images/story-1387.jpg",
+      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/cornell-frat-house1.jpg",
+      "id": "1f7af6ae112b0c0d52e35623a269f08f5f2d546f",
+      "summary": "A New York judge ruled Friday that the former Cornell student who is suing members of the Chi Phi fraternity over rape allegations may keep using the pseudonym “Jane Doe.” State Supreme Court Justice Phaedra Perry-Bond wrote that Doe’s privacy interests outweigh the usual presumption of fully public proceedings, citing “the notoriety of the allegations” and “widespread reports of certain malicious actors’ behavior in attempting to threaten and retaliate against anyone tangentially involved in this case.” Doe told the court that being identified could expose her to retaliation and danger to her family, and none of the defendants opposed the request. They will still be named in court filings. In an unusual step, the order also warns that harassing or threatening Doe, the defendants or the lawyers could be prosecuted as a federal crime. Perry-Bond said a pseudonym keeps the case open to the public without sealing the docket or closing the courtroom. Cornell has since banned fraternity parties for the rest of the year."
+    },
+    {
+      "n": 6,
+      "headline": "NHTSA proposes cyan exterior lights to show when a car is driving itself",
+      "cat": "Autos / Self-Driving",
+      "source": "Electrek",
+      "url": "https://electrek.co/2026/10/24/nhtsa-proposes-cyan-lights-for-robotaxis-following-mercedes-china/",
+      "image_local": "images/story-1388.jpg",
+      "image_remote": "https://electrek.co/wp-content/uploads/sites/3/2023/09/P1021888.jpg?quality=82&strip=all&resize=1200,628",
+      "id": "33e8923cd619408f5861c343b5c1b3bfd362fea5",
+      "summary": "The National Highway Traffic Safety Administration released a draft proposal Friday that would create a new vehicle lamp color, cyan, to signal that a car is operating autonomously. The goal is to let police and first responders know at a glance that a robot is driving, and that an empty driver’s seat doesn’t mean a missing driver who needs rescuing. Mercedes first proposed the idea alongside its Drive Pilot Level 3 system, the first in the U.S. that lets drivers hand off responsibility under certain conditions, and trialed cyan lights in California for two years; SAE also backs the color, and China has adopted a similar approach. The draft makes the lights optional, not required. They would turn on only during autonomous operation and never while a human is driving. Electrek notes that Tesla’s Full Self-Driving is a Level 2 system that still requires driver supervision, and predicts a cyan-light requirement could follow quickly."
+    },
+    {
+      "n": 7,
+      "headline": "Malkin is out sick and Silovs gets the start as the Penguins host Nashville tonight looking to build on their 4-0 win",
+      "cat": "Sports / Penguins",
+      "source": "Pittsburgh Hockey Now",
+      "url": "https://pittsburghhockeynow.com/pittsburgh-penguins-game-12-building-lines-goalies-how-to-watch-vs-predators/",
+      "image_local": "",
+      "image_remote": "",
+      "id": "eaeaf7b7a70730bcbe7bbe7ff4c2c6c5e4fb90b7",
+      "summary": "The Penguins (4-6-1) host the Nashville Predators (3-3-3) at PPG Paints Arena at 7 p.m. Saturday, two nights after a 4-0 home shutout of the Florida Panthers ended a four-game losing streak in what Pittsburgh Hockey Now called their most consistent game of the season. Coach Dan Muse said Evgeni Malkin, who missed Friday’s practice with an illness, will not play even though he skated Saturday morning; prospect Avery Hayes was recalled to fill his spot. Egor Chinakhov and Sam Girard remain out day to day, and Arturs Silovs starts in goal riding a three-game home winning streak with a 1.93 goals-against average. History favors Pittsburgh: it has a nine-game point streak against Nashville (7-0-2) and has won six straight at home against the Predators, who were shut out 6-0 by Boston on Thursday."
+    },
+    {
+      "n": 8,
+      "headline": "David Ellefson watched Megadeth play without him at Louder Than Life: “Dave and three other guys playing our songs”",
+      "cat": "Music / Metal",
+      "source": "Blabbermouth",
+      "url": "https://blabbermouth.net/news/david-ellefson-on-watching-megadeth-play-without-him-at-this-years-louder-than-life-it-was-dave-mustaine-and-three-other-guys-playing-our-songs",
+      "image_local": "images/story-1389.jpg",
+      "image_remote": "https://assets.blabbermouth.net/media/davidellefsonoct2026show_638.jpg",
+      "id": "61a9db4374328c0bf1cd2fdda908d070db047789",
+      "summary": "Former Megadeth bassist David Ellefson, now playing with Metal Church, said on The David Ellefson Show that he stayed to watch Megadeth’s main-stage set at the Louder Than Life festival in Louisville on September 17, about five hours after his own band played. He didn’t run into Dave Mustaine, who he said may have walked out of catering as he walked in, but he said hello to guitarist Teemu Mäntysaari and caught up with drummer Dirk Verbeuren, whom he helped bring into the band, and bassist James LoMenzo. Watching from the front-of-house booth with Metal Church drummer Ken Mary, he said, “it was, like, ‘Well, there’s Dave and three other guys playing our songs.’” Five-plus years after leaving, Ellefson said he has moved on and that “my era of Megadeth is my era.” He is about to play 1992’s Countdown To Extinction in full on a three-week European “Bass Warrior” tour."
+    },
+    {
+      "n": 9,
+      "headline": "Delaware Renaissance Faire opens with a Halloween weekend of armored knight battles, horseback archery and trick-or-treating",
+      "cat": "Travel / Renaissance Faire",
+      "source": "PhillyVoice",
+      "url": "https://www.phillyvoice.com/delaware-renaissance-faire-halloween-weekend-2026/",
+      "image_local": "images/story-1390.jpg",
+      "image_remote": "https://media.phillyvoice.com/media/images/Delaware_Rennaissance_Faire_20.2e16d0ba.fill-1200x630-c0.jpg",
+      "id": "655c355455e198adb19204862e6312f5d834f5de",
+      "summary": "The Delaware Renaissance Faire opens Saturday, Oct. 31, and Sunday, Nov. 1, with a “Halloweekend” at Firebase Lloyd in Townsend, Delaware, from 10 a.m. to 5 p.m. Kids can trick-or-treat while Armored Combat Worldwide stages live battles in steel armor, and the Daly Riders show off horseback archery and ring-catching with lances. The acrobatic duo Topsy Turvy performs on opening weekend only, alongside music, comedy, sword fights and themed costume contests. Visitors can try archery, axe throwing and dagger tossing, challenge a knight at the Proving Grounds, or follow a scavenger hunt and role-playing quest, and there are blacksmithing and pottery demonstrations. Food includes turkey legs and Scotch eggs, with vegan and gluten-free options. Single-day tickets are $25 for adults and $10 for youth, children under 5 get in free, parking is free, and the faire runs rain or shine on grassy, uneven ground."
+    },
+    {
+      "n": 10,
+      "headline": "An Icelandic photographer shooting on Canon cameras caught a ghostly “face” in a wave at the deadly Reynisfjara beach",
+      "cat": "Photography / Canon",
+      "source": "PetaPixel",
+      "url": "https://petapixel.com/2026/10/24/photographer-captures-ghostly-face-in-the-waves-on-deadly-beach/",
+      "image_local": "images/story-1391.jpg",
+      "image_remote": "https://petapixel.com/assets/uploads/2026/10/Ghostly-Face-Iceland-Waves.jpg",
+      "id": "dbbfa8088da73e3d7363556931b3e145320ad7ab",
+      "summary": "Icelandic press photographer Vilhelm Gunnarsson has spent time shooting his country’s storm-battered south coast in stark black and white, including Reynisfjara, the black-sand beach where sneaker waves have swept several visitors out to sea, among them a nine-year-old German girl last year. In one of his Reynisfjara frames, a face seems to appear in a breaking wave in front of the Reynisdrangar sea stacks. “That is why my image of the ghost is so important: it reminds people to be cautious, because you never know what lurks in the depths of the ocean,” he told PetaPixel. Gunnarsson says he made every image in the series with Canon cameras except one taken by drone, and that he likes working in bad weather, protecting his gear by knowing when to turn away from the spray. The project is meant to show both the power and the beauty of the Atlantic around a nation of just over 400,000 people."
+    },
+    {
+      "n": 11,
       "headline": "Iran’s plots to kill Americans abroad have reached “advanced stages,” U.S. intelligence chief warns",
       "cat": "World / Security",
       "source": "CBS News",
@@ -13,7 +123,7 @@
       "summary": "Director of National Intelligence Jay Clayton warned Friday that Iran has “substantially increased efforts to target U.S. personnel” abroad, writing in an unclassified memo to Secretary of State Marco Rubio, obtained by CBS News, that “the lethal plotting efforts by the Iranians against U.S. citizens have reached advanced stages in both the Middle East and certain other countries.” The memo does not name specific targets or countries or say whether attacks are imminent, and it comes as the Trump administration weighs resuming military strikes against Iran. Clayton said the intelligence community is working to downgrade sensitive intelligence so it can be shared more widely with State Department staff; CIA Director John Ratcliffe was copied. Earlier this week the State Department ordered non-essential embassy staff and their families out of Saudi Arabia, and several other U.S. embassies in the region have cut staffing under “restricted operations” status as the military also pares back its footprint amid threats from Iran and the Iranian-backed Houthis."
     },
     {
-      "n": 2,
+      "n": 12,
       "headline": "Appeals court orders California to answer by Saturday noon on DOJ’s bid to set aside 20,000 ballots tied to suspected noncitizens",
       "cat": "Politics / Elections",
       "source": "Fox News",
@@ -24,7 +134,7 @@
       "summary": "The Ninth Circuit ordered California late Friday to respond by noon Saturday to an emergency Justice Department request to sequester mail-in ballots sent to roughly 20,000 people the department suspects are noncitizens, ahead of the midterm elections. The DOJ went to the appeals court after U.S. District Judge David Carter did not rule by the deadline it had asked for. It wants California election officials to set aside ballots tied to the people on its list while their eligibility is reviewed, instead of processing them alongside other votes. “This is an emergency,” said the filing, submitted by Attorney General Todd Blanche’s office, which asked for a ruling by Saturday. Separately, the department has demanded that some California counties help identify and verify the flagged voters."
     },
     {
-      "n": 3,
+      "n": 13,
       "headline": "Fire engulfs Hitler’s Eagle’s Nest mountain retreat in the Bavarian Alps, and police arrest a suspect",
       "cat": "World / History",
       "source": "CBS News",
@@ -35,7 +145,7 @@
       "summary": "German police detained a suspect after a fire tore through the Kehlsteinhaus, Adolf Hitler’s Eagle’s Nest retreat on the peak above Obersalzberg in Bavaria, on Friday night. Authorities were alerted at about 9:15 p.m. local time, and the building was “completely engulfed in flames” when firefighters arrived, Upper Bavaria South police said. Fire trucks struggled to reach the site because of local conditions, but no one was inside and no injuries were reported. Police said a suspect came into focus shortly after the fire broke out, and the cause is now under criminal investigation. Completed in 1938 at 6,017 feet and occasionally used by Hitler as a temporary seat of government, the Eagle’s Nest escaped Allied bombing in World War II and has since become a popular tourist stop with a restaurant and beer garden."
     },
     {
-      "n": 4,
+      "n": 14,
       "headline": "FBI arrests a Georgia man accused of throwing a Molotov cocktail at the Atlanta ICE building",
       "cat": "Crime / Courts",
       "source": "Fox News",
@@ -46,7 +156,7 @@
       "summary": "Federal agents on Thursday arrested Inique Hinton, 31, of Douglasville, Georgia, accusing him of throwing a Molotov cocktail at the Immigration and Customs Enforcement building on Ted Turner Drive in downtown Atlanta on Tuesday night. He is charged with attempted arson of a federal building and depredation of government property, and faces up to 20 years in prison. Prosecutors say security cameras showed him walking near the building just before 8:15 p.m.; minutes later he allegedly lit an object and threw it, striking the exterior fence and spreading flames. Investigators recovered burned cloth, lighter fluid, a glass bottle and a lighter. “An attack on federal property is an attack against our democracy. It is an act of terrorism. It is an act of political violence, and it cannot stand,” U.S. Attorney Theodore Hertzberg said, promising to respond with “extreme severity.”"
     },
     {
-      "n": 5,
+      "n": 15,
       "headline": "Ukraine says Starshield is working again above 400 km/h after weeks of speed caps that hobbled its drones",
       "cat": "Tech / Musk",
       "source": "Kyiv Independent",
@@ -57,7 +167,7 @@
       "summary": "Starshield, the military version of Elon Musk’s Starlink satellite internet, was working at speeds above 400 kilometers per hour (about 248 mph) as of Saturday morning, Ukraine’s Defense Ministry said, after being limited to 161 km/h (about 100 mph) since mid-October. “We record a speed of more than 400 km/h, the connection is stable,” the ministry said, crediting direct talks at the highest level by President Zelensky and calling the fix important for drones, logistics and communications at the front. The caps had hampered Kyiv’s ability to intercept Russian jet-powered drones and coordinate strikes. Nobody has publicly taken credit or blame for imposing the limits, though Trump administration officials have pointed at Musk, and U.S. lawmakers had given him until Oct. 31 to explain the slowdown."
     },
     {
-      "n": 6,
+      "n": 16,
       "headline": "Tesla shows the Roadster’s fighter-jet-style screen, complete with a 5,500 PSI thruster gauge",
       "cat": "Autos / Tesla",
       "source": "Teslarati",
@@ -68,7 +178,7 @@
       "summary": "Tesla has given future owners their clearest look yet at the next-generation Roadster’s cockpit in a 34-second video posted to X on Friday, captioned “Inspired by fighter jet cockpits, Roadster’s interface was designed around the pilot.” The black-and-red touchscreen shows a 3D wireframe of the car beside the squared-off yoke, with taps bringing up rear-wing positions, charging and a music player, and tabs for Home, Vehicle, Listen, Climate and Navigate. Most of the clip shows Track Mode, with a live circuit map, lap times, brake and motor temperatures, per-tire readouts, and a setup page for aero modes, aero and brake balance and turning off stability and traction control. Along the bottom a status bar reads “Thruster · 5,500 PSI” next to “Boost Ready,” tying the software to the cold-gas thrusters Tesla demonstrated near Waco, Texas, on Oct. 15."
     },
     {
-      "n": 7,
+      "n": 17,
       "headline": "The U.S. birth rate hits a record low, though more women in their 30s and 40s are having babies",
       "cat": "Health / Science",
       "source": "NPR",
@@ -79,7 +189,7 @@
       "summary": "The U.S. general fertility rate fell 1% to a new record low in 2025, continuing a two-decade slide, according to the latest CDC report. The steepest drops came among younger women: births fell 6% for women 20 to 24 and 7% for those in their late teens, said CDC demographer Brady Hamilton, a co-author. The decline would have been bigger except that birth rates rose slightly among women 30 to 45, many of whom say they are building careers and stable lives first. A Federal Reserve Bank of Atlanta study last month found Gen Z women are “dramatically less likely to want children” than earlier generations, citing costs, job opportunities and changing priorities. The Census Bureau says the under-18 population dropped by more than 1 million between 2010 and 2020, and some experts argue more families would have kids with help on housing, daycare and health insurance."
     },
     {
-      "n": 8,
+      "n": 18,
       "headline": "Review: LEGO Technic’s NASA Artemis rocket “lifts off” from its launch pad and grows from 18.5 to 28 inches",
       "cat": "LEGO / Space",
       "source": "Stone Wars",
@@ -88,116 +198,6 @@
       "image_remote": "https://stonewars.com/wp-content/uploads/2026/10/42221-nasa-artemis-review.jpg",
       "id": "09571e6f601d806f9f70e16e830f115457b71f04",
       "summary": "Stone Wars takes a close look at LEGO Technic 42221, the NASA Artemis Space Launch System rocket, modeled on the rocket that carried the crewed Artemis II mission around the Moon in April, the first time humans had returned to lunar orbit since Apollo 17 in 1972. The $59.99 set has 632 pieces in seven bags, is rated 9+, and includes four nano crew figures and a stylized launch pad. Its headline feature, a first for LEGO, is a working launch function: the model starts at 47 centimeters (18.5 inches) tall and reaches 72 centimeters (28.3 inches) once the launch sequence finishes, and it makes noise only during liftoff. The reviewer calls it a welcome novelty in a Technic lineup dominated by cars and construction machines. Fans who want the bigger brick-built version should note the LEGO Icons 10341 Artemis SLS is due to leave shelves by year’s end."
-    },
-    {
-      "n": 9,
-      "headline": "Ex-Iron Maiden drummer Nicko McBrain says he used heroin before joining the band, and kicked it by 1982",
-      "cat": "Music / Metal",
-      "source": "Louder",
-      "url": "https://www.loudersound.com/bands-artists/nicko-mcbrain-iron-maiden-drugs-heroin",
-      "image_local": "images/story-1382.jpg",
-      "image_remote": "https://cdn.mos.cms.futurecdn.net/UCAnygU4vuEhT4AE9r6tch-1280-80.jpg",
-      "id": "483c66297ffb6064be850b5410ec565369ac4e7b",
-      "summary": "Nicko McBrain, promoting his new autobiography Hello Boys And Girls!, told Classic Rock that he dabbled with heroin in the late 1970s but was “lucky” never to become addicted. “I never put it in my arm, I just chased the dragon, as we used to call it,” he said, describing a period when he was introduced to “the higher echelons of people in the music industry.” He said he had quit before Iron Maiden offered him the drum stool in late 1982, replacing Clive Burr after the tour for The Number of the Beast. “God blessed me with this gene where I could just turn that tap off,” McBrain said, adding that he went through cold sweats and shivers but not withdrawal. He also urged fans who are struggling: “go get help – there’s people out there to help you. It’s not admitting defeat.”"
-    },
-    {
-      "n": 10,
-      "headline": "Why Mark Knopfler traded his Strats for Schecters in the 1980s: “I was looking for something with a bit more power”",
-      "cat": "Music / Guitar",
-      "source": "Guitar World",
-      "url": "https://www.guitarworld.com/artists/guitarists/why-mark-knopfler-swapped-strats-for-schecters-in-the-1980s",
-      "image_local": "images/story-1383.jpg",
-      "image_remote": "https://cdn.mos.cms.futurecdn.net/8XQ6BYGZCbC7zrDfYMVh68-1200-80.jpg",
-      "id": "d6b3c644b4a0951750baeffe44373456ad044a5d",
-      "summary": "Mark Knopfler built his name in the 1970s on Fender Stratocasters, but in the 1980s the Dire Straits guitarist mostly switched to Schecters, Guitar World recounts. “I was looking for something with a bit more power than a Strat,” he told Guitarist in February 1986, saying he had “a great one” for recording the 1980 album Making Movies. That guitar was later stolen from a car in Deptford, London, though he had a similar one that he played so much it was away being re-fretted. Back then Schecter was known as a high-end parts supplier and custom shop championed by Prince and Pete Townshend. Today the brand is mostly associated with metal and progressive players such as Synyster Gates and Mastodon’s new guitarist Nick Johnston, and it houses Zakk Wylde’s Wylde Audio."
-    },
-    {
-      "n": 11,
-      "headline": "Historic flooding swamps the Four Corners, with rooftop rescues and more rain expected through the weekend",
-      "cat": "Weather / U.S.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/10/23/nx-s1-6014742/flooding-weather-four-corners",
-      "image_local": "images/story-1367.jpg",
-      "image_remote": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2048x1152+0+192/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe7%2F3c%2F1efa4a1d4835830ab225ffe1eeeb%2Fap26296544937366.jpg",
-      "id": "9ac6dcabc6f38722aa444560c322d3d9c3100e43",
-      "summary": "Rare, heavy rain that began Wednesday has sent brown floodwaters through parts of New Mexico, Colorado, Utah and Arizona, closing roads and forcing mandatory evacuations and emergency declarations in all four states. In San Juan County, New Mexico, responders pulled people off their roofs as rivers rose to what emergency spokesman Devin Neeley called historic levels, saying “we have not seen flooding like this in generations,” while floodwater pushed sewage into the San Juan River. Farmington’s police chief said no one had died so far but warned “this is not something that should be played with.” In southern Utah, the city of Hurricane declared an emergency after flooding damaged more than 100 homes and RVs, and Colorado Gov. Jared Polis declared disaster emergencies in 11 counties and called up the National Guard for rescues in the southwest of the state. Navajo Nation police said they had rescued seven families, 30 people, from flooded homes, and the Hopi Tribe declared a state of emergency. More rain is expected through the weekend."
-    },
-    {
-      "n": 12,
-      "headline": "An 88-year-old Michigan widow with no internet was credited with 562 ActBlue donations in six weeks, a reporter says",
-      "cat": "Politics / Elections",
-      "source": "Breitbart",
-      "url": "https://www.breitbart.com/politics/2026/10/23/michigan-retiree-without-internet-connection-credited-with-4500-in-actblue-donations/",
-      "image_local": "",
-      "image_remote": "",
-      "id": "26b6b50e7cee57f35100aadb02e78b05f5418e4b",
-      "summary": "Journalist Charlie LeDuff reported this week that federal records tie Elizabeth Waffle, an 88-year-old widow living in a trailer in Milan, Michigan, to nearly $4,500 in new ActBlue donations over six weeks, 562 transactions in all. Four of them, totaling $22, were logged on the very day LeDuff first visited her trailer, where the power, water and internet are all off; the two tried and failed to make a donation together that day. The new entries included $51 for Abdul El-Sayed, the Democratic Senate nominee facing Republican Mike Rogers in a race seen as a possible tipping point for Senate control. Filings reviewed in July had attributed 14,696 donations to her over five years, which LeDuff put at more than $130,000. Waffle said the figures made no sense to her, though she bristled at a possible “hit piece” before agreeing he should keep digging. Not every review agrees: The Center Square found about $100,000 tied to her name across three cycles and noted that ActBlue’s tool for splitting one gift across many campaigns can create multiple logged transactions from a single donation."
-    },
-    {
-      "n": 13,
-      "headline": "Apple posts official do-it-yourself repair manuals for the iPhone Duo on launch day",
-      "cat": "Apple / iPhone",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/10/23/apples-official-diy-repair-guides-for-the-iphone-duo-now-available/",
-      "image_local": "images/story-1368.jpg",
-      "image_remote": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iphone-duo-repair-guide.jpg?quality=82&strip=all&resize=1200,628",
-      "id": "49e62db3258d0bc4dcbc276e05b58b53b53575fd",
-      "summary": "Hours after the iPhone Duo went on sale Friday, Apple published its official repair manual for the folding phone, with step-by-step instructions for owners and independent technicians replacing individual components, along with detailed diagrams of the internals and lists of the parts and tools each job requires. Separate safety guides cover procedures involving broken glass and battery replacement. Earlier in the day Apple had also posted support documents for software and hardware problems, including hinge issues, Touch ID and display troubleshooting. Apple recommends reading the entire manual before starting and only attempting a repair if you feel comfortable doing it as instructed. Genuine iPhone Duo parts and tools aren’t yet available in Apple’s Self Service Repair Store."
-    },
-    {
-      "n": 14,
-      "headline": "Ex-funeral director who gambled away $1.2 million in prepaid funerals pleads guilty; victims say the deal is too light",
-      "cat": "Connecticut / Courts",
-      "source": "NBC Connecticut",
-      "url": "https://www.nbcconnecticut.com/news/local/former-funeral-director-accused-of-stealing-from-130-people-takes-plea-deal/3787982/",
-      "image_local": "images/story-1369.jpg",
-      "image_remote": "https://media.nbcconnecticut.com/2026/10/52148189086-1080pnbcstations.jpg?quality=85&strip=all&resize=1200%2C675",
-      "id": "955e67fd9ca6f426ac535be4d9f2c7d58e11d350",
-      "summary": "Philip Pietras, who once owned funeral homes in Vernon, Coventry, East Windsor and Tolland, pleaded guilty Friday to one count of larceny and four counts of intent to defraud after more than 130 Connecticut residents paid ahead for their funerals and had the money stolen over 16 years. State’s Attorney Craig Nowak said police uncovered more than $1.2 million Pietras had collected on funeral contracts, money the state says went to MGM Springfield, Foxwoods, shopping and even a cruise. Under the deal he will get 15 years, suspended after seven and a half, plus restitution, with sentencing set for January. Victims and their families said the punishment doesn’t fit the crime. “He went on a cruise? How about sending us elderly people on a cruise,” said Sheila Lawlor, and Marguerite Koch said, “You know full well we’ll never get a penny… There is no money.” Pietras has been evicted and lost his embalming license; the state expects to distribute newly appropriated money to victims next summer."
-    },
-    {
-      "n": 15,
-      "headline": "Lawmakers give Elon Musk until Oct. 31 to explain the Starlink slowdown hitting Ukraine’s military",
-      "cat": "Tech / Musk",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/us-lawmakers-demand-answers-from-elon-musk-over-ukraine-starlink-restrictions/",
-      "image_local": "images/story-1370.jpg",
-      "image_remote": "https://assets.kyivindependent.com/content/images/2026/10/GettyImages-2299248528_20261023-232205.jpg",
-      "id": "1a52cb5c42772e0292520cac467f53d7c0bdcda2",
-      "summary": "Six Democratic members of Congress led by Rep. Gregory Meeks and Sen. Peter Welch sent Elon Musk a public letter Friday with five questions about restrictions on Starshield, the military version of Starlink, which Ukrainian forces say has been running at limited capacity since mid-October. Speed caps have hampered Kyiv’s ability to defend against Russian jet-powered drones and coordinate strikes, according to the report. The lawmakers argued that because SpaceX’s shares are publicly traded it must disclose material risks, writing that “the revelation that you personally wielded control over a foreign country’s military communications” would raise governance and geopolitical concerns, and gave Musk until Oct. 31 to answer. No one has publicly taken responsibility for the slowdown, though Trump administration officials have pointed at Musk. President Trump, asked about it this week, defended Musk, saying he would “never do anything wrong.”"
-    },
-    {
-      "n": 16,
-      "headline": "The 2027 Jeep Wrangler adds standard features, from Alpine audio and a trail camera on Sahara to heated seats on Rubicon",
-      "cat": "Autos / Jeep",
-      "source": "Mopar Insiders",
-      "url": "https://moparinsiders.com/jeep-gives-the-2027-wrangler-more-standard-features/",
-      "image_local": "images/story-1371.jpg",
-      "image_remote": "https://moparinsiders.com/wp-content/uploads/2026/10/Image-267.jpeg",
-      "id": "d61f12fff8eaadaafdef743c68cebc7f0be0cfcd",
-      "summary": "Jeep has released its changes for the 2027 Wrangler, and the Sahara gets the biggest upgrade: the four-door Unlimited Sahara now comes standard with McKinley-trimmed seats, side steps, a nine-speaker Alpine premium audio system, built-in navigation, rear park assist, blind-spot monitoring, rear cross-path detection, an auto-dimming mirror, automatic high beams and a garage door opener, plus the front-facing TrailCam for seeing terrain over the hood. Sport, Sport S and Willys models get a 7-inch color instrument display, and Sport S and Willys add passive entry. The two-door Willys gets the vented power dome hood as standard, and Rubicon adds heated front seats, a heated steering wheel and navigation. Engine choices carry over: the 285-horsepower 3.6-liter Pentastar V6 is still offered with a six-speed manual or eight-speed automatic, the turbocharged 2.0-liter four makes 270 horsepower, and the 392 HEMI V8 delivers 470 horsepower. There are more paint colors too; Jeep hasn’t announced pricing."
-    },
-    {
-      "n": 17,
-      "headline": "Mastodon’s Brann Dailor on how Brent Hinds’ death and losing his mother shaped the band’s new album “Marrow Deep”",
-      "cat": "Music / Metal",
-      "source": "Louder",
-      "url": "https://www.loudersound.com/bands-artists/mastodon-marrow-deep-interview",
-      "image_local": "images/story-1372.jpg",
-      "image_remote": "https://cdn.mos.cms.futurecdn.net/bn56ix3xCjQzJvFbW6H6G9-1280-80.jpg",
-      "id": "9dc5275e4a2f4127af5e4b312e289f4db55714fd",
-      "summary": "Mastodon learned that former guitarist and singer Brent Hinds had died in a motorcycle accident at 51 while standing at baggage claim in Alaska for the last date of their 25th-anniversary tour in August 2025, drummer and singer Brann Dailor tells Louder. Hinds had quit the band in acrimonious circumstances five months earlier, and the Alaska State Fair show the next day became a requiem. Dailor said the songs for the new album, “Marrow Deep,” started as a return to the mythological themes of “Blood Mountain” and “Emperor of Sand,” but had already turned personal after his mother Michele died suddenly in February 2025. “I honestly thought… we might actually be able to go back to singing about Pegasus and Bigfoot and the Loch Ness Monster,” he said. “But fate had other plans.” He called the fact that Hinds died before they reconciled “a real gut punch.”"
-    },
-    {
-      "n": 18,
-      "headline": "Ridley Scott is producing a new “Alien” movie that picks up from “Prometheus” and “Covenant”",
-      "cat": "Movies / Sci-Fi",
-      "source": "Gizmodo",
-      "url": "https://gizmodo.com/ridley-scott-is-producing-a-new-alien-movie-2000830143",
-      "image_local": "images/story-1373.jpg",
-      "image_remote": "https://gizmodo.com/app/uploads/2026/08/Michael-Fassbender-Alien-Covenant-1200x675.jpg",
-      "id": "f278d44b58985175269d0d26b23fd297915de351",
-      "summary": "A new “Alien” film is in the works with Ridley Scott producing, according to The Hollywood Reporter, and it is not the long-rumored sequel to 2024’s “Alien: Romulus.” Instead it ties back to “Prometheus” and “Alien: Covenant,” the last two entries Scott directed. Aaron Guzikowski, who worked with Scott on the series “Raised by Wolves,” will write the script, and no director is attached yet. In August Scott told the French outlet AlloCiné that “Romulus” “was OK” but that the franchise “needs some help,” adding, “I’ve already got a footprint for the next Alien… I’m picking up where we left off in Covenant with Michael Fassbender, who now thinks he’s Ozymandias.” THR reports Fassbender isn’t attached yet."
     },
     {
       "n": 19,

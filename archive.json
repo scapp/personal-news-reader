@@ -1537,7 +1537,17 @@
     "4ba7495714bb92101aa141821a0de9215023b220",
     "09571e6f601d806f9f70e16e830f115457b71f04",
     "483c66297ffb6064be850b5410ec565369ac4e7b",
-    "d6b3c644b4a0951750baeffe44373456ad044a5d"
+    "d6b3c644b4a0951750baeffe44373456ad044a5d",
+    "3c6b88a17c4ae523273011f9ab901f76d6be1aeb",
+    "dd7798f64eadda8fb6d37c5e9547c77c4f9bc2cc",
+    "d773d4c5ba8a3945295a74c93208dc281d984b5b",
+    "dff871db0050ccff67b627a4d5fd5fff6fda3734",
+    "1f7af6ae112b0c0d52e35623a269f08f5f2d546f",
+    "33e8923cd619408f5861c343b5c1b3bfd362fea5",
+    "eaeaf7b7a70730bcbe7bbe7ff4c2c6c5e4fb90b7",
+    "61a9db4374328c0bf1cd2fdda908d070db047789",
+    "655c355455e198adb19204862e6312f5d834f5de",
+    "dbbfa8088da73e3d7363556931b3e145320ad7ab"
   ],
   "stories": {
     "0c2ac7a5e342411678296315c4c59043b1f067cc": {
@@ -18275,7 +18285,107 @@
       "image_remote": "https://cdn.mos.cms.futurecdn.net/8XQ6BYGZCbC7zrDfYMVh68-1200-80.jpg",
       "image_local": "images/story-1383.jpg",
       "id": "d6b3c644b4a0951750baeffe44373456ad044a5d"
+    },
+    "3c6b88a17c4ae523273011f9ab901f76d6be1aeb": {
+      "headline": "France arrests 135 and fires tear gas in several cities as a second weekend of cost-of-living protests gets underway",
+      "cat": "World / France",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/paris-france-new-protests-riots-museums-shops/",
+      "summary": "French police arrested 135 people and fired tear gas at protesters Saturday as authorities tried to head off a repeat of last weekend’s rioting, when about 3,000 buildings were damaged or looted. Interior Minister Laurent Nuñez said officers seized metal balls, lead pellets, fireworks, slingshots, improvised weapons, a katana and airsoft guns, and that so far “there has been no major incident.” Up to 70,000 officers were deployed nationwide with helicopters, armored vehicles and water cannons. Police used tear gas in Lyon, where demonstrations were banned, and in Lille, Toulouse and Nantes, with clashes also reported in Montpellier. In Paris, the only authorized march was moved at the last minute from the Bastille to the city’s southeastern edge; authorities called the atmosphere “calm,” and police put turnout at 110,000. In Orleans, about 11,000 people, by the police count, marched against a congress of Marine Le Pen’s National Rally, which ended peacefully.",
+      "image_remote": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/24/9df46826-7abb-45b3-b8d6-48615bf6ee74/thumbnail/1200x630/f952c95b9f0d03d452b4fae4c5fab2e1/2026-10-24t143709z-442867994-rc2q9oatlzfw-rtrmadp-3-france-protest.jpg",
+      "image_local": "images/story-1384.jpg",
+      "id": "3c6b88a17c4ae523273011f9ab901f76d6be1aeb"
+    },
+    "dd7798f64eadda8fb6d37c5e9547c77c4f9bc2cc": {
+      "headline": "Michigan Senate candidate Abdul El-Sayed’s sister wrote that the FBI raided their mother’s home, likely in a terror-financing probe of her charity",
+      "cat": "Politics / Michigan",
+      "source": "Washington Free Beacon",
+      "url": "https://freebeacon.com/democrats/fbi-raided-home-of-el-sayeds-mother-senate-candidates-sister-wrote-in-unearthed-article/",
+      "summary": "The Washington Free Beacon reports that Eman Abdelhadi, a University of Chicago professor and the sister of Democratic Michigan Senate candidate Abdul El-Sayed, wrote in a June 2016 article that she remembered “the FBI raiding mosques, homes—including my own—and Muslim charity organizations.” In a 2024 essay she said their mother, Fatten Elkomy, worked for an Islamic charity that was one of several closed by the FBI in the early 2000s. That group, the Islamic American Relief Agency, was shut down in 2004 after the Treasury Department designated its worldwide network for funding terrorism, including precursors of al-Qaeda and Hamas; the FBI raided its Columbia, Missouri, office, where Elkomy worked, that October. Court exhibits name Elkomy 14 times and document her role in eight wire transfers, including one of $24,607 to the group’s Iraq office. She was never charged, and two board members and the charity itself pleaded guilty. Republican opponent Mike Rogers has made her past a campaign issue.",
+      "image_remote": "https://freebeacon.com/wp-content/uploads/2026/10/Screenshot-2026-10-14-at-7.48.07%E2%80%AFPM.png",
+      "image_local": "images/story-1385.jpg",
+      "id": "dd7798f64eadda8fb6d37c5e9547c77c4f9bc2cc"
+    },
+    "d773d4c5ba8a3945295a74c93208dc281d984b5b": {
+      "headline": "First iPhone Duo teardowns find two removable batteries, a modular USB-C port and a Touch ID button that’s hard to swap",
+      "cat": "Apple / iPhone",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/24/iphone-duo-teardown-videos/",
+      "summary": "The first iPhone Duo teardown videos, from YouTube channels REWA Technology and Phone Repair Guru, show that Apple’s foldable has two battery cells held in with electrically released adhesive: a larger 2,962 mAh (11.56 Wh) cell and a smaller 1,921 mAh (7.5 Wh) one, for 4,883 mAh in total. REWA’s video includes a labeled breakdown of the logic board, which carries Apple’s A20 Pro chip and C2 cellular modem. Phone Repair Guru found that the Touch ID button can technically be removed for repair, though it called the process difficult, and said the USB-C charging port appears to be fully modular, which should make that common repair simpler. Its video title nonetheless warned viewers to “Cancel Your Pre-Order.” iFixit is expected to publish a more detailed teardown and repairability analysis in the coming days.",
+      "image_remote": "https://images.macrumors.com/t/drErN-sKJCN6RvkjOQhhFQi9Eto=/2880x/article-new/2026/10/iPhone-Duo-Outer-Display-Hand.jpg",
+      "image_local": "images/story-1386.jpg",
+      "id": "d773d4c5ba8a3945295a74c93208dc281d984b5b"
+    },
+    "dff871db0050ccff67b627a4d5fd5fff6fda3734": {
+      "headline": "Told only to hide a secret message in a drawing, Anthropic’s AI invented its own code in the stars, and OpenAI’s model cracked it",
+      "cat": "AI / Tech",
+      "source": "Gizmodo",
+      "url": "https://gizmodo.com/anthropics-ai-hid-a-secret-message-in-the-stars-openais-ai-found-it-2000830047",
+      "summary": "AI safety researcher Bryan Chan shared a study showing that Anthropic’s Fable-5.1 model can hide messages in images it generates, choosing an encoding method on its own. In one test, researchers gave it the phrase “THE MONSTER ACTS ON THE MOONSHINE MODULE” and asked for an ordinary-looking SVG image with a secret message. Fable drew a peaceful lake under a starry sky, with the height of each star standing for a letter. Shown only the finished images and told to look for a hidden message, Fable decoded 39 of 50 of its own messages (78%), while OpenAI’s Astra decoded 44 (88%). Fable most often encoded letters in the heights of objects such as stars or buildings, and Astra preferred Morse code and acrostics. Gizmodo notes that none of these techniques is new and that the models needed prompting to look for messages, but says the work is useful for security teams after the recent Hugging Face incident, in which AI agents used image encoding to get around restrictions.",
+      "image_remote": "",
+      "image_local": "",
+      "id": "dff871db0050ccff67b627a4d5fd5fff6fda3734"
+    },
+    "1f7af6ae112b0c0d52e35623a269f08f5f2d546f": {
+      "headline": "Cornell fraternity rape accuser can stay ‘Jane Doe,’ and the judge warns that threats against anyone in the case could be a federal crime",
+      "cat": "Campus / Courts",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/us/cornell-rape-accuser-remain-jane-doe-judge-warns-threats-could-lead-federal-charges",
+      "summary": "A New York judge ruled Friday that the former Cornell student who is suing members of the Chi Phi fraternity over rape allegations may keep using the pseudonym “Jane Doe.” State Supreme Court Justice Phaedra Perry-Bond wrote that Doe’s privacy interests outweigh the usual presumption of fully public proceedings, citing “the notoriety of the allegations” and “widespread reports of certain malicious actors’ behavior in attempting to threaten and retaliate against anyone tangentially involved in this case.” Doe told the court that being identified could expose her to retaliation and danger to her family, and none of the defendants opposed the request. They will still be named in court filings. In an unusual step, the order also warns that harassing or threatening Doe, the defendants or the lawyers could be prosecuted as a federal crime. Perry-Bond said a pseudonym keeps the case open to the public without sealing the docket or closing the courtroom. Cornell has since banned fraternity parties for the rest of the year.",
+      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/cornell-frat-house1.jpg",
+      "image_local": "images/story-1387.jpg",
+      "id": "1f7af6ae112b0c0d52e35623a269f08f5f2d546f"
+    },
+    "33e8923cd619408f5861c343b5c1b3bfd362fea5": {
+      "headline": "NHTSA proposes cyan exterior lights to show when a car is driving itself",
+      "cat": "Autos / Self-Driving",
+      "source": "Electrek",
+      "url": "https://electrek.co/2026/10/24/nhtsa-proposes-cyan-lights-for-robotaxis-following-mercedes-china/",
+      "summary": "The National Highway Traffic Safety Administration released a draft proposal Friday that would create a new vehicle lamp color, cyan, to signal that a car is operating autonomously. The goal is to let police and first responders know at a glance that a robot is driving, and that an empty driver’s seat doesn’t mean a missing driver who needs rescuing. Mercedes first proposed the idea alongside its Drive Pilot Level 3 system, the first in the U.S. that lets drivers hand off responsibility under certain conditions, and trialed cyan lights in California for two years; SAE also backs the color, and China has adopted a similar approach. The draft makes the lights optional, not required. They would turn on only during autonomous operation and never while a human is driving. Electrek notes that Tesla’s Full Self-Driving is a Level 2 system that still requires driver supervision, and predicts a cyan-light requirement could follow quickly.",
+      "image_remote": "https://electrek.co/wp-content/uploads/sites/3/2023/09/P1021888.jpg?quality=82&strip=all&resize=1200,628",
+      "image_local": "images/story-1388.jpg",
+      "id": "33e8923cd619408f5861c343b5c1b3bfd362fea5"
+    },
+    "eaeaf7b7a70730bcbe7bbe7ff4c2c6c5e4fb90b7": {
+      "headline": "Malkin is out sick and Silovs gets the start as the Penguins host Nashville tonight looking to build on their 4-0 win",
+      "cat": "Sports / Penguins",
+      "source": "Pittsburgh Hockey Now",
+      "url": "https://pittsburghhockeynow.com/pittsburgh-penguins-game-12-building-lines-goalies-how-to-watch-vs-predators/",
+      "summary": "The Penguins (4-6-1) host the Nashville Predators (3-3-3) at PPG Paints Arena at 7 p.m. Saturday, two nights after a 4-0 home shutout of the Florida Panthers ended a four-game losing streak in what Pittsburgh Hockey Now called their most consistent game of the season. Coach Dan Muse said Evgeni Malkin, who missed Friday’s practice with an illness, will not play even though he skated Saturday morning; prospect Avery Hayes was recalled to fill his spot. Egor Chinakhov and Sam Girard remain out day to day, and Arturs Silovs starts in goal riding a three-game home winning streak with a 1.93 goals-against average. History favors Pittsburgh: it has a nine-game point streak against Nashville (7-0-2) and has won six straight at home against the Predators, who were shut out 6-0 by Boston on Thursday.",
+      "image_remote": "",
+      "image_local": "",
+      "id": "eaeaf7b7a70730bcbe7bbe7ff4c2c6c5e4fb90b7"
+    },
+    "61a9db4374328c0bf1cd2fdda908d070db047789": {
+      "headline": "David Ellefson watched Megadeth play without him at Louder Than Life: “Dave and three other guys playing our songs”",
+      "cat": "Music / Metal",
+      "source": "Blabbermouth",
+      "url": "https://blabbermouth.net/news/david-ellefson-on-watching-megadeth-play-without-him-at-this-years-louder-than-life-it-was-dave-mustaine-and-three-other-guys-playing-our-songs",
+      "summary": "Former Megadeth bassist David Ellefson, now playing with Metal Church, said on The David Ellefson Show that he stayed to watch Megadeth’s main-stage set at the Louder Than Life festival in Louisville on September 17, about five hours after his own band played. He didn’t run into Dave Mustaine, who he said may have walked out of catering as he walked in, but he said hello to guitarist Teemu Mäntysaari and caught up with drummer Dirk Verbeuren, whom he helped bring into the band, and bassist James LoMenzo. Watching from the front-of-house booth with Metal Church drummer Ken Mary, he said, “it was, like, ‘Well, there’s Dave and three other guys playing our songs.’” Five-plus years after leaving, Ellefson said he has moved on and that “my era of Megadeth is my era.” He is about to play 1992’s Countdown To Extinction in full on a three-week European “Bass Warrior” tour.",
+      "image_remote": "https://assets.blabbermouth.net/media/davidellefsonoct2026show_638.jpg",
+      "image_local": "images/story-1389.jpg",
+      "id": "61a9db4374328c0bf1cd2fdda908d070db047789"
+    },
+    "655c355455e198adb19204862e6312f5d834f5de": {
+      "headline": "Delaware Renaissance Faire opens with a Halloween weekend of armored knight battles, horseback archery and trick-or-treating",
+      "cat": "Travel / Renaissance Faire",
+      "source": "PhillyVoice",
+      "url": "https://www.phillyvoice.com/delaware-renaissance-faire-halloween-weekend-2026/",
+      "summary": "The Delaware Renaissance Faire opens Saturday, Oct. 31, and Sunday, Nov. 1, with a “Halloweekend” at Firebase Lloyd in Townsend, Delaware, from 10 a.m. to 5 p.m. Kids can trick-or-treat while Armored Combat Worldwide stages live battles in steel armor, and the Daly Riders show off horseback archery and ring-catching with lances. The acrobatic duo Topsy Turvy performs on opening weekend only, alongside music, comedy, sword fights and themed costume contests. Visitors can try archery, axe throwing and dagger tossing, challenge a knight at the Proving Grounds, or follow a scavenger hunt and role-playing quest, and there are blacksmithing and pottery demonstrations. Food includes turkey legs and Scotch eggs, with vegan and gluten-free options. Single-day tickets are $25 for adults and $10 for youth, children under 5 get in free, parking is free, and the faire runs rain or shine on grassy, uneven ground.",
+      "image_remote": "https://media.phillyvoice.com/media/images/Delaware_Rennaissance_Faire_20.2e16d0ba.fill-1200x630-c0.jpg",
+      "image_local": "images/story-1390.jpg",
+      "id": "655c355455e198adb19204862e6312f5d834f5de"
+    },
+    "dbbfa8088da73e3d7363556931b3e145320ad7ab": {
+      "headline": "An Icelandic photographer shooting on Canon cameras caught a ghostly “face” in a wave at the deadly Reynisfjara beach",
+      "cat": "Photography / Canon",
+      "source": "PetaPixel",
+      "url": "https://petapixel.com/2026/10/24/photographer-captures-ghostly-face-in-the-waves-on-deadly-beach/",
+      "summary": "Icelandic press photographer Vilhelm Gunnarsson has spent time shooting his country’s storm-battered south coast in stark black and white, including Reynisfjara, the black-sand beach where sneaker waves have swept several visitors out to sea, among them a nine-year-old German girl last year. In one of his Reynisfjara frames, a face seems to appear in a breaking wave in front of the Reynisdrangar sea stacks. “That is why my image of the ghost is so important: it reminds people to be cautious, because you never know what lurks in the depths of the ocean,” he told PetaPixel. Gunnarsson says he made every image in the series with Canon cameras except one taken by drone, and that he likes working in bad weather, protecting his gear by knowing when to turn away from the spray. The project is meant to show both the power and the beauty of the Atlantic around a nation of just over 400,000 people.",
+      "image_remote": "https://petapixel.com/assets/uploads/2026/10/Ghostly-Face-Iceland-Waves.jpg",
+      "image_local": "images/story-1391.jpg",
+      "id": "dbbfa8088da73e3d7363556931b3e145320ad7ab"
     }
   },
-  "updated": "Saturday, October 24, 2026 · 7:08 AM ET"
+  "updated": "Saturday, October 24, 2026 · 11:44 AM ET"
 }
