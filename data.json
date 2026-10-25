@@ -1,8 +1,96 @@
 {
-  "updated": "Saturday, October 24, 2026 · 10:10 PM ET",
+  "updated": "Sunday, October 25, 2026 · 7:05 AM ET",
   "stories": [
     {
       "n": 1,
+      "headline": "Twelve people, six of them minors, are hurt in a shooting outside Florida A&M’s stadium after its homecoming game",
+      "cat": "Crime / Shootings",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/news/us-news/tallahassee-florida-shooting-florida-am-university-rcna605484",
+      "image_local": "images/story-1412.jpg",
+      "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261025-florida-am-bragg-memorial-stadium-rc-0123a-9f1d85.jpg",
+      "id": "6cb4a4f2943d1067dc2f24af462c3f0f2dbdc485",
+      "summary": "Twelve people were injured, 11 of them by gunfire, when shots rang out about 8 p.m. Saturday at an intersection next to Florida A&M University’s Bragg Memorial Stadium in Tallahassee, where the historically Black university had just hosted Arkansas-Pine Bluff for its homecoming game. Three victims were seriously hurt, including one minor; six of the injured are under 18 and the youngest is 11. Police Chief Lawrence Revell called it “an isolated incident between two or three individuals” that began as an altercation, said police believe one shooter was involved, and said no one had been arrested as of early Sunday. He praised officers who carried victims in their arms because vehicles could not get through the crowd, and asked witnesses to come forward. FAMU said the shooting happened on Perry Street near campus and that the campus was safe; nearby Florida State told people to stay indoors."
+    },
+    {
+      "n": 2,
+      "headline": "An Ohio village’s new mosque took hundreds of thousands from Uzbek-owned trucking firms with long safety-violation records, Fox finds",
+      "cat": "Immigration / Investigations",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/alarming-fraud-trend-puts-small-town-mosque-industry-foreign-govt-ties-focus-our-motherland-now",
+      "image_local": "images/story-1413.jpg",
+      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/mosque-trucks.jpg",
+      "id": "b9a4df31ebab4ba96f6214b5b2db1f0e443c6f22",
+      "summary": "In part two of its series on trucking fraud in southwest Ohio, Fox News Digital reports that the Islamic Center of Maineville, under construction for four years in a Warren County village of about 1,400 people, has received substantial donations from Uzbek-owned trucking companies cited for serious safety and compliance violations. The mosque’s Telegram channel, which has about 3,600 members, posted screenshots of the gifts and showed ties to people identified as current or former Uzbek officials. One Springboro carrier gave at least $28,000 across 28 donations despite English-proficiency, invalid-CDL, logging-device and hours-of-service violations; another, with more than 100 violations including unsafe driving and invalid CDLs, gave at least $25,000. Republican state Rep. Michelle Teska is pushing legislation to crack down on truck drivers who cannot speak English. Part one traced the issue to a fatal crash by an Uzbek driver."
+    },
+    {
+      "n": 3,
+      "headline": "Terrible Towels at the Eiffel Tower: Steelers fans turn Paris black and gold before today’s first NFL game in France",
+      "cat": "Sports / NFL",
+      "source": "WTAE Pittsburgh",
+      "url": "https://www.wtae.com/article/steelers-fans-paris-eiffel-tower/74240268",
+      "image_local": "images/story-1414.jpg",
+      "image_remote": "https://kubrick.htvapps.com/htv-prod/images/7c2d0a3f-975b-4410-8946-f09ba9b6c796.jpg?crop=1.00xw%3A1.00xh%3B0%2C0&resize=1200%3A*",
+      "id": "31018d147643b93a1a491bf67ac696e4020868b0",
+      "summary": "A huge crowd of Pittsburgh Steelers fans gathered in front of the Eiffel Tower on Saturday, waving Terrible Towels on the eve of Sunday’s historic game against the New Orleans Saints at the Stade de France, the NFL’s first regular-season game in Paris. Viewer videos sent to WTAE showed the black-and-gold crowd from the tower’s base and from a nearby bridge. Kickoff is 9:30 a.m. ET; WTAE is airing the game in Pittsburgh with a pregame special starting at 7 a.m. The fan gathering came a day after the league closed its “NFL House” fan venue in the city as protests swept France."
+    },
+    {
+      "n": 4,
+      "headline": "Connecticut towns are banning data centers before anyone has even proposed one",
+      "cat": "Connecticut / AI & Tech",
+      "source": "CT Mirror",
+      "url": "https://ctmirror.org/2026/10/25/data-centers-artificial-intelligence-ct/",
+      "image_local": "",
+      "image_remote": "",
+      "id": "45702a1b69834213b3cb38bac0a26eb1b137393c",
+      "summary": "About half a dozen Connecticut municipalities have moved to block data center development with temporary moratoriums or outright bans, according to a CT Mirror review of meetings and records, even though almost no projects have been proposed. East Lyme’s Zoning Commission unanimously adopted an indefinite ban that took effect Saturday; New Haven passed a one-year moratorium in September with an exemption for its quantum computing hub; and tiny Morris has a two-year ban. Experts say Connecticut has never been attractive for big “hyperscale” sites because of high electricity costs and the need for large plots and utility access. A 2021 sales-tax break for projects investing at least $200 million has been used only once, for Cigna’s $386 million renovation of an existing data center in Windsor, and the state has reviewed just two applications. A planned facility next to the Millstone nuclear plant in Waterford died after local pushback. Trumbull has its own hearing on a proposed one-year moratorium."
+    },
+    {
+      "n": 5,
+      "headline": "Soldiers guard central Milan as youth protests spread across Europe, from Rome and Turin to Madrid, Lisbon and Tirana",
+      "cat": "World / Europe",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/10/25/nx-s1-6016126/thousands-of-protesters-across-europe",
+      "image_local": "images/story-1415.jpg",
+      "image_remote": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8640x4860+0+450/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F44%2Ffc%2F067418084bee810af15f9fc7dfc9%2Fap26297352027819.jpg",
+      "id": "33a22ccb83e44799a1122276cc58eb0d12f061f4",
+      "summary": "Thousands of young people marched Saturday in Milan, Rome, Turin and other Italian cities as authorities flooded the streets with police and soldiers to head off a repeat of last weekend’s looting. Milan stayed peaceful, but there were brief clashes with police in Rome and Turin. Premier Giorgia Meloni sent another 500 soldiers to Milan on top of hundreds already there, backing about 5,000 police, and announced tougher penalties for minors, who police say made up much of last week’s violent crowds; several minors were detained in Milan as a precaution. Luxury boutiques including Gucci, Tiffany and Omega boarded up, and the Apple store stayed closed. Right-wing student groups also marched in Rome against the left-wing protests. Large demonstrations hit Madrid, Lisbon and Tirana as well, over issues ranging from education and corruption to anti-war causes, pensions and housing."
+    },
+    {
+      "n": 6,
+      "headline": "Apple says it wants to fix Safari’s cramped layout on the iPhone Duo’s outer screen — and adds book-style two-page PDFs",
+      "cat": "Apple / iPhone",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/25/apple-wants-to-fix-safari-on-iphone-duo/",
+      "image_local": "images/story-1416.jpg",
+      "image_remote": "https://images.macrumors.com/t/-gds-j9ogv7t6Gyzs0keTRaBBug=/1600x/article-new/2026/10/safari-iphone-duo-webkit.jpg",
+      "id": "db89825708aaf51d23017e44fbc790ff0c46fca9",
+      "summary": "Apple is looking at ways to let websites use more of the iPhone Duo’s short, wide outer display, where Safari’s controls sit along the side and pages are currently squeezed into the area beside them. In a WebKit post on Friday, Apple’s Jen Simmons said the existing viewport-fit=cover setting could let pages extend under the controls, but Apple’s research found many sites don’t leave enough room around key content, so parts of the page would be hidden. Apple is exploring an alternative, such as letting a header’s background span the screen while its links stay clear of the controls. For now Safari 27.1 fills the leftover strip with the page’s background color. Safari 27.1 also shows PDFs as two pages when the Duo is held half-folded like a book, and developers can test experimental fold-posture detection behind feature flags."
+    },
+    {
+      "n": 7,
+      "headline": "Ricky Warwick on passing out in a pool of glass and blood at Lemmy’s party — “Warwick, you’re a lightweight, you’ll never make it”",
+      "cat": "Music / Metal",
+      "source": "Louder (Classic Rock)",
+      "url": "https://www.loudersound.com/bands-artists/ricky-warwick-wild-stories",
+      "image_local": "images/story-1417.jpg",
+      "image_remote": "https://cdn.mos.cms.futurecdn.net/wmVn23VcW9aswf9JNNmgZA-1280-80.jpg",
+      "id": "de1722f32e217327a886e6dc33b82ce9f081c66e",
+      "summary": "The Almighty, Thin Lizzy and Black Star Riders singer Ricky Warwick, who turned 60 this summer on the day he played Iron Maiden’s Eddfest at Knebworth, shares stories from 46 years in rock as he releases his new solo album, Fire & Vengeance. The best involves Lemmy: in 1991, ahead of The Almighty’s tour with Motörhead, Warwick arrived jet-lagged at an LA hotel to find a party in Lemmy’s room, where Lemmy handed him a pint of Jack and Coke and played him the just-mixed 1916 album. As it ended Warwick stood up, collapsed face-first, cut his eyebrow on the shattered glass and threw up, only to hear Lemmy say he was a lightweight who would never make it. He also tells of David Bowie walking into his dressing room, being smacked on the head by Alice Cooper, a quiet drink with Steve Harris, and run-ins with Metallica and Guns N’ Roses."
+    },
+    {
+      "n": 8,
+      "headline": "Charlotte police pull over two men riding a full-size couch down the street on a pair of Lime e-scooters",
+      "cat": "EVs / Oddities",
+      "source": "Electrek",
+      "url": "https://electrek.co/2026/10/24/police-pull-over-two-men-riding-an-electric-couch-down-the-street/",
+      "image_local": "images/story-1418.jpg",
+      "image_remote": "https://electrek.co/wp-content/uploads/sites/3/2026/10/limecouchlead-1.jpg?quality=82&strip=all&resize=1200,628",
+      "id": "239d8e57b1908e3fea4de0138d82f86a298a44c6",
+      "summary": "Charlotte-Mecklenburg police stopped two men cruising down South Tryon Street on what appeared to be a full-size sofa perched across two Lime shared electric scooters. “Well, this was certainly a first,” the department posted. “Yes, an actual couch.” It isn’t clear how the scooters were attached or how the pair steered, but they got far enough to catch officers’ attention. Police said they appreciated the creativity but reminded people to think about safety “no matter what you’re ‘driving’ (using that term extremely loosely),” adding that it was “probably best to leave the mobile furniture displays to IKEA.” Police did not say whether either man was cited or name them."
+    },
+    {
+      "n": 9,
       "headline": "Koivunen wins it in overtime after Rakell ties it with 1:06 left as the Penguins rally past the Predators 3-2",
       "cat": "Sports / NHL",
       "source": "NHL.com",
@@ -13,7 +101,7 @@
       "summary": "Ville Koivunen scored 3:44 into overtime and the Pittsburgh Penguins came back to beat the Nashville Predators 3-2 at PPG Paints Arena on Saturday night, their second straight win after a four-game losing streak. Koivunen briefly lost the puck before collecting it and skating into the high slot for a snap shot. Rickard Rakell forced overtime at 18:54 of the third period, one-timing a cross-ice pass from Sidney Crosby for his second goal in three games after a nine-game drought to open the season. Connor Dewar also scored, 18 seconds into the second period, and Arturs Silovs made 24 saves. Steven Stamkos and Jayden Struble scored for Nashville, and Juuse Saros stopped 34 shots. Evgeni Malkin, tied with Nick Robertson for the team lead with six goals, sat out with an illness. The Penguins are now 5-6-1 and have earned points in nine straight meetings with the Predators (8-0-2)."
     },
     {
-      "n": 2,
+      "n": 10,
       "headline": "A massive Ukrainian drone swarm hits Belgorod overnight, reportedly targeting the city’s biggest shopping mall, a day after Starlink speeds were restored",
       "cat": "World / Ukraine",
       "source": "Kyiv Independent",
@@ -24,7 +112,7 @@
       "summary": "A large swarm of Ukrainian drones attacked the Russian border city of Belgorod overnight into Oct. 25, according to local officials and eyewitness video. Locals said most of the drones converged on the city center, and the monitoring channel Exilenova-Plus said the target was MegaGRINN, Belgorod’s largest shopping and entertainment complex, with more than 200 stores, a supermarket and a cinema. The center was closed and empty at the time. Regional authorities confirmed a “massive UAV attack,” said one civilian was killed and 10 were injured, and told residents to stay indoors as attacks continued; residents also reported a fire in the courtyard of a nearby apartment complex. The Kyiv Independent said it could not independently verify the reports. Belgorod sits about 21 miles from the Ukrainian border and is a frequent target. The strike came a day after Ukraine said its Starshield satellite service, throttled since Oct. 14, had been restored to full speed, helping troops coordinate drone attacks."
     },
     {
-      "n": 3,
+      "n": 11,
       "headline": "The Archdiocese of New York agrees to pay $800 million to about 1,300 people who say they were sexually abused by clergy and lay workers",
       "cat": "Courts / Church",
       "source": "NPR",
@@ -35,7 +123,7 @@
       "summary": "The Archdiocese of New York has agreed to pay $800 million to settle claims from some 1,300 people who say they were sexually abused by clergy members and lay workers, one of the largest settlements of its kind in the Catholic Church. Jeff Anderson, whose firm represents more than 250 of the plaintiffs, said the deal is final pending signed paperwork and that all plaintiffs have agreed to it. In an email to priests on Saturday, Archbishop Ronald Hicks said an agreement had been reached and that the archdiocese was “on the verge of being able to, please God, bring some measure of healing and reconciliation to all victim-survivors,” and to turn its attention back to its mission. Anderson said his clients feel both sorrow and “a real sense of relief and achievement.” The archdiocese entered mediation in December 2025 and had laid off staff and planned to sell Manhattan properties to raise $300 million. In 2024 the Archdiocese of Los Angeles agreed to an $880 million settlement."
     },
     {
-      "n": 4,
+      "n": 12,
       "headline": "An Alabama man said he found his wife dead of a self-inflicted gunshot in his Tesla — grainy security video helped convict him of capital murder",
       "cat": "Crime / Courts",
       "source": "CBS News (48 Hours)",
@@ -46,7 +134,7 @@
       "summary": "On Nov. 15, 2022, David Tolbert told Huntsville, Alabama, police he had opened the door of his red Tesla outside the store where he worked and found his wife, 37-year-old Savannah Tolbert, dead in the passenger seat with a gun in her right hand. Investigators quickly doubted it was a suicide: the gun was in her right hand but the wound was on the left side of the back of her head, a shell casing was found on the rear seat, and the retired corrections officer tested positive for gunshot residue. The couple had been living apart, and police learned he was having an affair with a woman he had coached on her own Tesla. Detectives synced the store’s cameras with distant, grainy parking-lot video from a neighboring pool store, which showed Savannah getting into the car and, about 20 minutes later, a figure investigators identified as David at the driver’s door before the taillights flashed. His explanation for the residue, a toy cannon in the trunk, didn’t match the video. A jury convicted him, and he is serving life without parole, “48 Hours” reports."
     },
     {
-      "n": 5,
+      "n": 13,
       "headline": "Tesla’s new Roadster makes its first public appearance at LA’s Petersen Museum — look, don’t touch, through Tuesday",
       "cat": "Tesla / Autos",
       "source": "Not a Tesla App",
@@ -57,7 +145,7 @@
       "summary": "Tesla’s new Roadster is on display at the Petersen Automotive Museum in Los Angeles from Oct. 24 through Oct. 27 in the main lobby, the public’s first chance to see the car since its unveiling at SpaceX’s McGregor, Texas, test site earlier this month. The museum lists it as the 2028 Tesla Roadster Thrust Prototype — not the invite-only Rocket version that drove upside down at the reveal — and calls it Tesla’s “last best driver’s car.” Tesla plans four trims: the standard car makes about 1,340 horsepower; Performance adds suction fans and adaptive suspension for 0-60 mph in under 1.6 seconds; Thrust adds a cold-gas thruster system with four rear nozzles that hit 0-60 in 0.81 seconds at the unveiling; and the single-seat Rocket adds more nozzles and can briefly fly. Thrust is the trim original Founders Series reservations were converted to. The exhibit is roped off, so visitors can only look and take photos, and the prototype has no side mirrors, though U.S. production cars will. Production is set for 2028, with refundable deposits of $50,000 for Performance and $250,000 for Thrust."
     },
     {
-      "n": 6,
+      "n": 14,
       "headline": "Marty Friedman: Nick Menza’s drumming is “a huge reason why we weren’t just kind of an underground thrash metal band”",
       "cat": "Music / Metal",
       "source": "Blabbermouth",
@@ -68,7 +156,7 @@
       "summary": "Former Megadeth guitarist Marty Friedman told Chile’s La Pajarera podcast that the late drummer Nick Menza deserves more credit for the band’s mainstream success. “A big reason why Megadeth became as popular in the mainstream as we did was because of Nick,” Friedman said. “Nick’s playing is not a typical thrash metal drummer style. It’s very mainstream… there’s not a lot of heavy metal clichés.” Combined with Dave Mustaine’s riffs, he said, Menza’s beat “elevated us to stadium level.” Menza collapsed behind his kit from a heart attack during a 2016 show with the band OHM at the Baked Potato in Studio City, California, and was pronounced dead at the hospital. Mustaine has said he wanted Menza and Friedman back in Megadeth after Chris Broderick and Shawn Drover left in 2014; Menza began working on new material but walked away over what he called a “very unfair” contract, about a year and a half before he died."
     },
     {
-      "n": 7,
+      "n": 15,
       "headline": "Trump and the first lady vote early in person in Palm Beach on Florida’s first day of early voting, then head to a Georgia rally",
       "cat": "Politics / Midterms",
       "source": "CBS News",
@@ -79,7 +167,7 @@
       "summary": "President Trump and first lady Melania Trump cast their midterm ballots in person Saturday at the Palm Beach County Supervisor of Elections building, on the first day of Florida’s early voting, which runs through Halloween. Earlier in the week the president had said he prefers to vote on Election Day, and in recent elections he has voted by mail even while criticizing widespread mail-in voting. After voting he flew to Perry, Georgia, for a rally backing Republican Reps. Mike Collins and Rick Jackson, calling them “two incredible people” and writing on Truth Social that their opponents “want to Take Away Your Guns, Open Your Borders, Allow Men To Play In Women’s Sports.” Trump has been on the road most days this week, with stops in South Carolina on Wednesday, Iowa on Thursday and Fort Myers, Florida, on Friday; his Election Day plans have not been announced."
     },
     {
-      "n": 8,
+      "n": 16,
       "headline": "Musk now admits SpaceX throttled Ukraine’s Starlink, saying Kyiv broke the terms by using it for offensive drone strikes",
       "cat": "Tech / Ukraine",
       "source": "CBS News",
@@ -90,7 +178,7 @@
       "summary": "Elon Musk said Saturday that SpaceX throttled Starlink service in Ukraine, after days of questions over who ordered the slowdown that disrupted front-line drone operations for more than a week. “Using Starlink, a civilian commercial service, for offensive drone strikes to kill people has never been allowed, nor should it be,” Musk wrote on X. “Ukraine military violated Starlink terms of service and used it for offensive drone strikes to kill people. That loophole was closed last week.” He maintained that the U.S. government controls changes to Starshield, SpaceX’s military-grade version that has become the backbone of Ukraine’s drone and communications network, and defended SpaceX’s role since 2022. President Trump had said he did not make the call. Musk’s post came after President Volodymyr Zelenskyy said speeds were restored overnight to pre-restriction levels, helping logistics and defense against Russia’s jet-powered Shahed drones. The restoration comes as Russia agreed to resume three-way talks with Washington and Kyiv next month, and a day after a localized ceasefire around Oleshky brokered by first lady Melania Trump."
     },
     {
-      "n": 9,
+      "n": 17,
       "headline": "France-style rioting spreads to Barcelona as hooded youths torch bins and try to loot a Foot Locker: “People were bored at home”",
       "cat": "World / Europe",
       "source": "Breitbart",
@@ -101,7 +189,7 @@
       "summary": "Hundreds of mostly young, hooded rioters dressed in black descended on central Barcelona on Saturday afternoon, smashing bus shelters, setting trash cans on fire, firing fireworks and flares at police and building barricades out of city bicycles, La Vanguardia reported. The gathering, billed vaguely as a protest “against the system,” was organized on social media without city approval, and some businesses closed early and locked their doors, at times trapping shoppers inside. “People were bored at home and came here, like in France,” one youth was quoted as saying; another said, “We’re not protesting about anything.” A third shouted, “Let’s all go to Foot Locker!”, though the store had already shut. A Vanguardia reporter described a crowd speaking Arabic, French, Spanish and Catalan that “basically sought to get free sneakers.” Catalonia’s leader, Salvador Illa, said the violence “has no place” in the city and vowed those responsible will pay; Catalan police confirmed arrests without giving a number. The unrest came as nationwide protests in France on Saturday led to more than 1,000 arrests, after copycat violence in Brussels and Milan in recent weeks."
     },
     {
-      "n": 10,
+      "n": 18,
       "headline": "Courts extend Second Amendment protection to switchblades and body armor as the Supreme Court readies its AR-15 ban case",
       "cat": "Courts / Second Amendment",
       "source": "Fox News",
@@ -110,94 +198,6 @@
       "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/National-Association-for-Gun-Rights-President-Dudley-Brown.png",
       "id": "704c654fd973487fbfbc8e3df62ebee3ef97d6f6",
       "summary": "Two federal rulings on Wednesday extended Second Amendment protection beyond firearms, energizing gun-rights advocates ahead of a Supreme Court showdown over bans on AR-15-style rifles. The Fifth Circuit Court of Appeals held that a federal law restricting interstate commerce in switchblade knives violates the Second Amendment, and a federal judge in the Western District of New York struck down the state’s restrictions on personal body armor; both courts found the items qualify as constitutionally protected “arms.” The Supreme Court is preparing to hear Viramontes v. Cook County, which could decide whether AR-15-style rifles are protected. Dudley Brown, president of the National Association for Gun Rights, which filed an amicus brief, told Fox News Digital that both lower-court cases will “really be decided” by the Viramontes ruling, and that a decision against AR-15 bans could shape challenges to limits on magazines, automatic knives and body armor. The rulings rest on the Heller and Bruen decisions, which protect weapons in common lawful use while allowing restrictions on “dangerous and unusual” arms."
-    },
-    {
-      "n": 11,
-      "headline": "Ric Flair, 77, spends the night in a Tampa hospital after a fall while battling a blood clot: “I Will Be Okay!”",
-      "cat": "Sports / Wrestling",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/sports/sports/ric-flair-recovering-hospitalized-rcna605418",
-      "image_local": "images/story-1403.jpg",
-      "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261024-ric-flair-ch-1543-be0422.jpg",
-      "id": "2045424f1405e57d11f9ffc9c2a1739a06ea56f2",
-      "summary": "WWE legend Ric Flair was hospitalized after falling outside a Wagamama restaurant in Tampa on Friday, cutting his head and eye, while dealing with a blood clot in his leg. The 77-year-old, whose real name is Richard Morgan Fliehr, said on Instagram Saturday that he spent the night at Tampa General Hospital and thanked the staff and doctors “that put up with me until 4:30am,” posting a smiling photo with a patch over one eye. “I Am Focused On My Healing And Recovery Right Now… I Will Be Okay!” he wrote. His daughter, WWE star Charlotte Flair, joked on X: “Not my dad telling the doctor he fell bc of warrior dropping him on his head…(ps: he’s going to be ok).” Hours before the fall, Flair had canceled an appearance at the Washington State Horror Con in Seattle, saying doctors had limited his travel to three to four hours because of the clot, which he called “extremely serious,” and that he has a procedure scheduled to strip the affected vein."
-    },
-    {
-      "n": 12,
-      "headline": "Tesla’s Halloween Mode turns pedestrians into skeletons on the screen — but its Trick or Treat feature switches off Sentry Mode",
-      "cat": "Tesla / Software",
-      "source": "Yahoo Autos (MotorBiscuit)",
-      "url": "https://autos.yahoo.com/ev-and-future-tech/articles/tesla-halloween-mode-turns-pedestrians-214640814.html",
-      "image_local": "",
-      "image_remote": "",
-      "id": "bf57660b8bc57b9dfebbc5de7575d7850d5502c4",
-      "summary": "Tesla’s Halloween Mode, part of software update 2026.38.3, is rolling out to owners ahead of Oct. 31 and lives in the Toybox, according to Not a Tesla App. Once switched on, the car’s on-screen avatar becomes a glowing white sheet with eyes; in Park the display shows a graveyard, a haunted house and a zombie hand, and opening a real door opens the ghost car’s door too. On the road, nearby cars appear green and pedestrians show up as skeletons, and with Full Self-Driving (Supervised) engaged the planned path turns from blue to purple. There is also a creepy voice for remote speech. The headline feature is Trick or Treat, which plays spooky sounds and flickers the lights when someone walks up to the parked car — but turning it on disables Sentry Mode, the security alarm and walk-away lock, so owners should switch them back on afterward. Cars with older Intel-based touchscreens don’t get the full show; it needs the newer AMD Ryzen chip in the Model S, 3, X, Y and Cybertruck."
-    },
-    {
-      "n": 13,
-      "headline": "Twisted Sister’s Jay Jay French on Dee Snider: “He’s not end-of-life ill; he’s just end-of-career ill”",
-      "cat": "Music / Metal",
-      "source": "Blabbermouth",
-      "url": "https://blabbermouth.net/news/twisted-sisters-jay-jay-french-on-dee-sniders-health-challenges-hes-not-end-of-life-ill-hes-just-end-of-career-ill",
-      "image_local": "images/story-1404.jpg",
-      "image_remote": "https://assets.blabbermouth.net/media/jayjayfrenchoct2026wcsx_638.jpg",
-      "id": "6193a102466b2e6f5bab75d494b7a11430f3b0a7",
-      "summary": "Twisted Sister guitarist Jay Jay French told Detroit’s 94.7 WCSX that Dee Snider’s “health challenges,” which forced the singer to back out of the band’s 50th-anniversary reunion tour, are about performing, not survival. “If his doctors are telling him, ‘Don’t do it,’ if his family’s saying to him, ‘Please don’t do it, you’re putting yourself, your health, at risk,’ well, then you don’t do it,” French said. “He’s not end-of-life ill; he’s just end-of-career ill, like retired ball players… He just couldn’t perform the way he wants to perform.” French said he and guitarist Eddie Ojeda quickly knew who should step in, and praised Sebastian Bach: “Freddie Mercury was replaced by a guy from ‘American Idol’… But we get a legitimate superstar.” The new lineup — Bach, French, Ojeda, bassist Russell Pzütto and drummer Joey Cassata — debuted Aug. 28 at New Jersey’s Starland Ballroom and has three more shows this fall, including Nov. 12 at Hard Rock Live Bristol in Virginia."
-    },
-    {
-      "n": 14,
-      "headline": "Meriden police open a homicide investigation after a stabbed 51-year-old ran into a Pratt Street smoke shop for help and later died",
-      "cat": "Connecticut / Crime",
-      "source": "NBC Connecticut",
-      "url": "https://www.nbcconnecticut.com/news/local/51-year-old-man-dead-after-stabbing-in-meriden-on-friday/3788203/",
-      "image_local": "",
-      "image_remote": "",
-      "id": "ac63eb369384900ab770b674f5ca3b6c0365cca7",
-      "summary": "Meriden police are investigating a homicide after a 51-year-old man died following a stabbing Friday night. Officers were called to the Green Smoke Shop on Pratt Street around 6:50 p.m. for an injured person; police said the victim had run to the shop for help after being stabbed nearby, and investigators believe the attack happened on Pratt Street on or near the Meriden Green. Shop staff and bystanders gave him aid until he was taken to the hospital, where he was pronounced dead. No arrest has been announced. Anyone with information is asked to contact Detective Case at 203-630-6296 or mcase@meridenct.gov."
-    },
-    {
-      "n": 15,
-      "headline": "Emirates eyes Denver, Detroit and Philadelphia as new jets arrive — and says its list of possible U.S. cities “goes on and on”",
-      "cat": "Travel / Airlines",
-      "source": "The Points Guy",
-      "url": "https://thepointsguy.com/news/emirates-airline-us-expansion-plans-denver-detroit-philadelphia/",
-      "image_local": "images/story-1405.jpg",
-      "image_remote": "https://runway-media-production.global.ssl.fastly.net/us/originals/2026/02/emirates-777.jpeg",
-      "id": "75e15ec286e7b5abb765a3b714c6a33402206555",
-      "summary": "Emirates is weighing new U.S. flights to Denver, Detroit and Philadelphia, president Tim Clark said on the sidelines of the Routes World conference, adding that the list of potential markets “goes on and on.” “There aren’t many cities in the world that we will not be able to touch if we want to get there,” he said. The Dubai carrier last added a U.S. city in 2021 with Miami, replacing Fort Lauderdale, and its last entirely new U.S. destination was Newark in 2017. More routes become profitable as it takes delivery of more efficient aircraft from an order book of more than 300 Airbus A350s, Boeing 787s and long-delayed 777Xs; Clark expects the first 300- to 400-seat 777-9s in 2027, years after their original 2020 date, and promised cabins that are “stylish, luxurious and cool.” He said demand remains strong despite conflicts involving Iran and Yemen’s Houthis and jet fuel averaging $4.58 a gallon, and that the airline is still profitable."
-    },
-    {
-      "n": 16,
-      "headline": "DOJ gives California counties 48 hours to set aside ballots from suspected noncitizens, warning officials who count them face “legal jeopardy”",
-      "cat": "Politics / Elections",
-      "source": "Yahoo News",
-      "url": "https://www.yahoo.com/news/politics/article/doj-tells-california-counties-to-set-aside-ballots-from-suspected-noncitizens-heres-what-to-know-181004310.html",
-      "image_local": "images/story-1392.jpg",
-      "image_remote": "https://s.yimg.com/lo/mysterio/api/c6a84e9cccf122dd4889af50de73f901b8de76a1fb8ec84e94a4555b3f144e0a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F2a422287-253c-4c05-9c89-8fd376b518cd",
-      "id": "5c804781c8f4903315136a710e72abe69830fadb",
-      "summary": "The Justice Department is pressing California election officials to set aside mail-in ballots from people it believes are noncitizens. Federal prosecutors sent letters Friday giving county election offices 48 hours to work with federal agencies to determine who on a government list is a citizen; NBC News reported the letters went to 57 of the state’s 58 counties, and Los Angeles County received one last week. The department wants counties to “segregate — not cancel” those ballots until citizenship is confirmed and to send identifying information, including Social Security numbers and copies of registrations. San Bernardino County’s list alone had 1,133 names. “Any election official who knowingly processes the ballot of a noncitizen is opening themselves to legal jeopardy,” said Bill Essayli, the first assistant U.S. attorney in Los Angeles, who signed the letters. DHS says it flagged more than 20,000 likely noncitizens on California’s rolls, and 28 people from that list were charged this week with illegally registering. The secretary of state and Los Angeles County have refused, saying the federal data is unverified and could delay certification; many ballots have already been separated from their envelopes and counted. The DOJ’s emergency request is now before the Ninth Circuit, 10 days before Election Day, with a district court hearing set for Tuesday."
-    },
-    {
-      "n": 17,
-      "headline": "CIA contractor with Top Secret clearance is charged with leaking classified secrets to a girlfriend who published them on her Substack",
-      "cat": "National Security / Courts",
-      "source": "Daily Caller",
-      "url": "https://dailycaller.com/2026/10/24/federal-bureau-investigation-arrest-navy-intelligence-officer-ian-brinksman-leaking-classified-information-romantic-partner-substack-justice-department-claims",
-      "image_local": "",
-      "image_remote": "",
-      "id": "e307afea2263538c82f253edf2d1cde906fe9298",
-      "summary": "The FBI arrested Ian Brinksman, 42, of Washington, D.C., on Friday morning on Espionage Act charges, accusing him of leaking national defense information to a woman he was dating who intended to publish it on her Substack newsletter, the Justice Department said. CIA Director John Ratcliffe said Brinksman provided services to the agency as a contractor. According to the criminal complaint, he worked for a government agency in the Eastern District of Virginia from 2020 and returned to the same agency as a contractor in 2022, working as a systems-integration developer with a Top Secret clearance. Investigators say he began dating the woman, believed to be a journalist whose Substack covers “Congress, War, and political economy” and who posted “I also accept leaks,” in November 2025, and that he contributed to five of her articles between March 11 and Oct. 5 containing Top Secret and other highly classified information. the Justice Department’s Todd Blanche said the affidavit reflects a contractor “who exempted himself from a federal law governing the protection of classified information,” and FBI Director Kash Patel called protecting secrets a top counterintelligence priority. Brinksman faces up to 10 years in prison if convicted."
-    },
-    {
-      "n": 18,
-      "headline": "NFL shuts its “NFL House” fan venue in Paris as protests overshadow Sunday’s first-ever Steelers–Saints game in France",
-      "cat": "Sports / NFL",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/sports/nfl/nfl-house-paris-closes-ahead-street-protests-french-capital-rcna605374",
-      "image_local": "images/story-1393.jpg",
-      "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261024-nfl-house-paris-ch-0930-04474a.jpg",
-      "id": "0e2ee38c6c5a476a1f591ed8dc70099632291081",
-      "summary": "The NFL closed its “NFL House” fan venue in Paris on Saturday as the city braced for street protests under heavy police presence, telling fans through its OnePass app and citing “potential accessibility issues,” a day after it said its pop-up shop would also close. The Saints postponed their own “Saints House” event to Sunday, and a weekend event for Steelers fans was canceled Thursday over security concerns. The New Orleans Saints and Pittsburgh Steelers play Sunday at Stade de France in Saint-Denis in the league’s first regular-season game in France. The State Department had warned “Americans in Paris for the NFL game” to be cautious, while Commissioner Roger Goodell said street protests “are not unusual in France”; on Friday President Emmanuel Macron hosted Goodell, Saints owner Gayle Benson and Steelers owner Art Rooney II at the Élysée Palace. The league’s “Hail Mary over the Seine” throwing challenge near Notre Dame went ahead, with a worker netting footballs out of the river as police vans with flashing lights passed above. “It doesn’t feel calm and good to be a tourist in Paris,” one French teenager in a Bryce Young jersey said. “It’s not good for the NFL.”"
     },
     {
       "n": 19,
