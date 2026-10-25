@@ -1,8 +1,85 @@
 {
-  "updated": "Sunday, October 25, 2026 · 4:07 PM ET",
+  "updated": "Sunday, October 25, 2026 · 6:08 PM ET",
   "stories": [
     {
       "n": 1,
+      "headline": "iFixit’s iPhone Duo teardown points to a stress spot near the hinge as the likely cause of “crackgate” screen failures",
+      "cat": "Apple / iPhone Duo",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/25/ifixit-iphone-duo-teardown/",
+      "image_local": "images/story-1442.jpg",
+      "image_remote": "https://images.macrumors.com/t/Cd9xF_TwLLv2_IJoF8mGVMGYOy8=/2500x/article-new/2026/10/ifixit-iphone-duo-teardown.jpg",
+      "id": "535f6543ea973b72be5a8b1fbba510fb17edf277",
+      "summary": "iFixit has taken apart the iPhone Duo and has a theory about the inner screens that have been failing in owners’ first days. Using a 3D hinge model built from teardown footage, patents and CT scans, it found the reported breaks cluster just below where the display’s crossing flex cable meets the central hinge support. Several edges meet there and change how the thin screen is supported as it bends, which could concentrate stress. The curved hinge rails may also be lifting above the flat plates as the phone closes. iFixit says failures could come from pressure, a trapped particle, repeated bending or a defect, and some may be wiring faults rather than snapped glass. On the plus side, the IP68 Duo kept most fluorescent dust out of its internals, though some reached the hinge and made it crunch. The outer screen is “robust,” the batteries use Apple’s electrically released adhesive, and the peel-off screen cover layer costs $19 to replace with AppleCare+ or $49 without."
+    },
+    {
+      "n": 2,
+      "headline": "At his Port Huron rally, Trump invokes Flight 93 and tells Michigan to stop El-Sayed from “walking into the Capitol”",
+      "cat": "Politics / Midterms",
+      "source": "PBS NewsHour (AP)",
+      "url": "https://www.pbs.org/newshour/politics/trump-escalates-rhetoric-against-el-sayed-as-he-tries-to-undermine-democrat-in-michigan-senate-race",
+      "image_local": "images/story-1443.jpg",
+      "image_remote": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-25T213109Z_595974795_RC2LAOA217T4_RTRMADP_3_USA-TRUMP-1024x684.jpg",
+      "id": "8af854224b36196a3a44e61c70a381d7a6715c3e",
+      "summary": "President Trump rallied in Port Huron, Michigan, on Sunday for Republican Senate candidate Mike Rogers and stepped up his attacks on Democrat Abdul El-Sayed. “I’m here today in Michigan for a very important reason,” Trump said. “I’m here to keep a jihadist Muslim Brotherhood member from becoming a United States senator.” He invoked 9/11, comparing the race to the passengers who fought back on United Flight 93: “Michigan needs to stand up and fight, just like Todd did,” he said of Michigan native Todd Beamer. Speaking first, Rogers said the Muslim Brotherhood “celebrated exactly one victory in the United States in the primary this year. Abdul El-Sayed’s.” El-Sayed says he is loyal to the U.S. and has disavowed the group, and Democrats call the attacks bigoted. Republicans haven’t won a Michigan Senate race in more than three decades, but see an opening for the open seat on Nov. 3. Rapper Nicki Minaj also appeared at the rally."
+    },
+    {
+      "n": 3,
+      "headline": "Brooklyn woman arrested in Midtown hate-crime attacks, including stabbing a visibly Jewish rabbi in the back in the Diamond District",
+      "cat": "Crime / NYC",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/us/woman-busted-nyc-rabbi-syringe-attack-allegedly-stabbed-jewish-man-hours-earlier",
+      "image_local": "images/story-1444.jpg",
+      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/anna-mochalova-midtown-assault-west-45th-street.png",
+      "id": "1d5bbc6ff885e12b4efdd8f8494b36b4c36fae1a",
+      "summary": "NYPD hate-crime detectives have arrested Anna Mochalova, 32, of Brooklyn, in two attacks in Midtown Manhattan on Wednesday evening. Police say that around 5:50 p.m. at West 45th Street and Sixth Avenue, a 37-year-old man was deliberately bumped and, when he confronted the attacker, slashed on the forearm. About two hours later, outside 15 West 47th Street in the Diamond District, a 26-year-old man was stabbed in the back with a sharp object. The New York Post identified him as a rabbi and reported the weapon was a syringe; surveillance video shows the suspect following him around a parked car as he tried to avoid her. “I never met that person before,” he said. “She passes by other people. I’m visibly Jewish.” Mochalova was arrested Saturday and charged with eight counts each of assault and menacing, plus aggravated harassment and weapon possession. Manhattan Shomrim volunteers helped with the arrest by gathering tips and video."
+    },
+    {
+      "n": 4,
+      "headline": "Serbia’s Aleksandar Vucic concedes defeat to a student-led movement, ending 14 years of near-total power",
+      "cat": "World / Europe",
+      "source": "PBS NewsHour (AP)",
+      "url": "https://www.pbs.org/newshour/world/serbias-strongman-leader-vucic-concedes-defeat-to-student-led-movement-in-seismic-political-shift",
+      "image_local": "images/story-1445.jpg",
+      "image_remote": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-25T212423Z_1001107172_RC2LAOABLY3N_RTRMADP_3_SERBIA-ELECTION-1024x683.jpg",
+      "id": "000e8e42e3606c92346ea4809414a7920a942cc7",
+      "summary": "Serbia’s long-serving strongman Aleksandar Vucic conceded Sunday’s parliamentary election to the student-led Students’ List, which spent two years protesting his government. Vucic, who had Vladimir Putin’s endorsement, said his party projects the students will win 135 to 140 of Parliament’s 250 seats, against about 105 for his Serbian Progressive Party. By his count it was roughly 2.2 million votes to 1.7 million. “The Students’ List has won,” he said, though he blamed independent media, unnamed European countries and an “American deep state.” Crowds poured into Belgrade’s streets honking and chanting “Aleksandar is gone,” and tore down the fences of a pro-Vucic camp that had stood for over a year. The movement grew out of anger over the 2024 Novi Sad train station canopy collapse that killed 16 people, which protesters blamed on corruption. Vucic had resigned the presidency last month to run for prime minister."
+    },
+    {
+      "n": 5,
+      "headline": "Trumbull officials turn down residents’ call for a one-year pause on new data centers",
+      "cat": "Local / Trumbull",
+      "source": "Patch Trumbull",
+      "url": "https://patch.com/connecticut/trumbull/patch-am-why-trumbull-officials-refused-pause-new-data-center-nodx-20261025",
+      "image_local": "",
+      "image_remote": "",
+      "id": "157936e73620e542487e867711193f8f2248fe07",
+      "summary": "Trumbull officials have rejected a push by residents for a one-year moratorium on new data centers. No new data center applications have been filed, and town leaders say existing land-use rules are enough to handle any that come. The debate centers on the town’s only facility, on Merritt Boulevard, which is preparing for a roughly $100 million modernization. The owner has proposed retrofitting it for AI with new servers and a new cooling system. For now, the upgrade isn’t expected to change the building’s footprint or its power use, which can run up to 15 megawatts. Neighbors are left weighing environmental and safety worries against the economic benefits as the upgrade goes ahead. Trumbull is one of several Connecticut towns debating data center limits."
+    },
+    {
+      "n": 6,
+      "headline": "Kimi Antonelli, 20, wins the U.S. Grand Prix and can clinch the F1 title in Mexico City next Sunday",
+      "cat": "Sports / F1",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/sports/formula-1/kimi-antonelli-wins-us-grand-prix-texas-putting-brink-f1-championship-rcna603583",
+      "image_local": "images/story-1446.jpg",
+      "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261025-F1-Grand-Prix0-ww-1359-e8b015.jpg",
+      "id": "1abfdb77b9d15f7dd8989d90e5428be464ee0200",
+      "summary": "Mercedes’ Kimi Antonelli led from start to finish to win the U.S. Grand Prix in Austin on Sunday, his ninth win of the season. With five races left, the 20-year-old Italian leads by 124 points with a maximum of 125 still available, so he is almost certain to clinch the 2026 world title, possibly as soon as Mexico City next weekend. He would beat Sebastian Vettel’s record as F1’s youngest champion, set at 23 in 2010, and become the first Italian champion since Alberto Ascari in 1953. Antonelli made one pit stop, on Lap 25 of 56, while Ferrari’s Charles Leclerc and Red Bull’s Max Verstappen tried two-stop strategies and couldn’t catch him. They finished second and third, with Lewis Hamilton fourth. Teammate George Russell took a 5-second penalty for leaving the track and gaining an advantage and finished eighth. “It was the result we needed,” Antonelli said."
+    },
+    {
+      "n": 7,
+      "headline": "Jack Osbourne takes the blame for the AI Ozzy backlash and promises the digital version won’t be “selling cell phones”",
+      "cat": "Music / Metal",
+      "source": "Louder (Metal Hammer)",
+      "url": "https://www.loudersound.com/bands-artists/ai-ozzy-wont-be-selling-cell-phones-insists-jack-osbourne-as-he-shoulders-blame-for-backlash-to-controversy",
+      "image_local": "images/story-1447.jpg",
+      "image_remote": "https://cdn.mos.cms.futurecdn.net/xGhFaYFJzjjnD7oJ49sVLf-1600-80.png",
+      "id": "406c415760df223144f1d7af034326a633ab827b",
+      "summary": "Jack Osbourne says he’s to blame for the backlash over the family’s plan to create an AI version of his late father, Ozzy Osbourne. Some fans called it a ghoulish cash grab. “The backlash, it was my own fault,” he said on the Great Company With Jamie Laing podcast. “I wasn’t properly armed with the way to properly explain what it was. And I think people thought that next thing it’s gonna be Ozzy Osbourne selling cell phones. No.” Jack says the point is to own Ozzy’s digital likeness and intellectual property before others shape it, as the estates of Bob Marley and Michael Jackson are also doing. “It was our choice to go, ‘Hey, we should be out in front of this,’” he said. The family is working with Hyperreal on the project, called The Enduring Legacy of a Rock Icon and His Family: Ozzy Osbourne and The Osbournes."
+    },
+    {
+      "n": 8,
       "headline": "Steelers beat the Saints 16-10 in Paris, the NFL’s first game in France, on Payton Wilson’s diving interception",
       "cat": "Sports / Steelers",
       "source": "Steelers.com",
@@ -13,7 +90,7 @@
       "summary": "The Steelers won the NFL’s first-ever game in France, beating the Saints 16-10 at Stade de France on Sunday, and now own the league’s first regular-season wins in both Dublin and Paris. The biggest play came midway through the third quarter. With New Orleans at the 10-yard line threatening to take the lead after a 14-play, 68-yard drive, linebacker Payton Wilson dove to intercept Tyler Shough at the 11 and returned it 18 yards. Chris Boswell’s 38-yard field goal followed. Pittsburgh’s defense held the Saints to 18 rushing yards, while Jaylen Warren ran for 101 yards and Rico Dowdle added 86 yards from scrimmage. Steelers fans made the “home” Saints crowd feel like a neutral site. Pittsburgh improves to 5-2; New Orleans falls to 2-5."
     },
     {
-      "n": 2,
+      "n": 9,
       "headline": "Jets lose 28-25 at home to the previously winless Dolphins after stalling at the 1-yard line",
       "cat": "Sports / Jets",
       "source": "Gang Green Nation",
@@ -24,7 +101,7 @@
       "summary": "The Jets fell 28-25 to a Miami team that had not won all season, and had not even led a game, at MetLife Stadium on Sunday. Malik Willis and the Dolphins drove at will early and led 21-7 at halftime, helped by a Geno Smith red-zone interception. New York clawed back with Omar Cooper and Mason Taylor touchdowns, but the turning point came in the fourth quarter. With first-and-goal inside the 1, the Jets went backwards three straight plays and settled for a field goal. Miami answered with a long Caleb Douglas touchdown. Taylor’s late TD and two-point catch made it 28-25, but the Jets never got the ball back after Miami converted a fourth-and-1 with two minutes left. Jason Sanders also hit the upright on a field goal try."
     },
     {
-      "n": 3,
+      "n": 10,
       "headline": "Venezuelan opposition leader María Corina Machado makes a surprise return home after ten months abroad",
       "cat": "World / Venezuela",
       "source": "NPR",
@@ -35,7 +112,7 @@
       "summary": "Nobel Peace Prize laureate María Corina Machado has returned to Venezuela after ten months abroad, announcing “I am here. With you.” on social media. Her first public appearance was among worshippers at the Church of Santa Rosa in Lara State, where an ecstatic crowd surrounded her. Her return challenges interim President Delcy Rodríguez, who took over after U.S. forces captured Nicolás Maduro in January. Machado has pushed for elections soon, while Washington says Venezuela must stabilize first, and the Trump administration has repeatedly sidelined her. Leaving the White House Sunday, President Trump said he knew nothing about her return, called her “a very nice woman” who had given him her Nobel Prize, and added, “I hope she’s safe.” Exiled opposition figure Edmundo González said he expects to join her soon."
     },
     {
-      "n": 4,
+      "n": 11,
       "headline": "Elvis Presley’s rights holders sue Anthropic, saying its Claude AI was trained on 274 of his songs without a license",
       "cat": "AI / Courts",
       "source": "NBC News",
@@ -46,7 +123,7 @@
       "summary": "The owners of Elvis Presley’s music have sued AI company Anthropic, accusing it of using the lyrics to 274 of his songs without permission or payment to train its Claude models. The songs include “All Shook Up,” “Can’t Help Falling in Love,” “Don’t Be Cruel” and “Return to Sender.” Authentic Brands Group, which controls Presley’s intellectual property, filed the suit Friday along with other rights owners. They say the infringement ran through “the entire development” of Claude and continues as users generate copies or unauthorized adaptations of the songs. The complaint says Anthropic “built its entire business model on infringing copyrights at an unfathomable scale.” Anthropic says it disagrees and will “defend this case fully.” Last year it paid a record $1.5 billion to settle a lawsuit by authors over pirated books."
     },
     {
-      "n": 5,
+      "n": 12,
       "headline": "The OLED iPad mini 8 is expected this week, with an A20 Pro chip, water resistance and a likely $799 price",
       "cat": "Apple / iPad",
       "source": "9to5Mac",
@@ -57,18 +134,7 @@
       "summary": "Apple is expected to unveil a new iPad mini this week, its first display overhaul since 2021. The headline change is an OLED screen. It won’t be the Tandem OLED used in the iPad Pro, but it should still bring richer color, better contrast and more brightness. It’s not yet clear whether it gets a 120Hz ProMotion display. The chip is rumored to jump from the A17 Pro with 8GB of memory to the A20 Pro with 12GB, with about 60% faster multi-core CPU and 166% faster graphics, enough to run Apple’s newer on-device Siri AI features. Apple is also reportedly making it the first water-resistant iPad, using a new casing and redesigned speakers. The catch is price: Bloomberg’s Mark Gurman says it could start at $799, up from $599 today."
     },
     {
-      "n": 6,
-      "headline": "Trumbull this week: early voting’s final week at the library, a Town Hall Halloween parade for preschoolers, and a Hillcrest update",
-      "cat": "Local / Trumbull",
-      "source": "Patch Trumbull",
-      "url": "https://patch.com/connecticut/trumbull/5-things-know-trumbull-early-voting-ends-town-hall-halloween-parade-hillcrest",
-      "image_local": "",
-      "image_remote": "",
-      "id": "99a066e0be35af43afa4af909053c03d235e8baf",
-      "summary": "Early voting runs its final week in the Trumbull Library Community Room, 33 Quality St., from Monday, Oct. 26, through Sunday, Nov. 1. Hours are 10 a.m. to 6 p.m., extended to 8 a.m. to 8 p.m. on Tuesday and Thursday. Election Day is Tuesday, Nov. 3, with polls open 6 a.m. to 8 p.m. On Tuesday, Oct. 27, at 10 and 11:30 a.m., Town Hall staff host a costume parade and trick-or-treating past decorated office doors for registered Trumbull kids ages 0 to 5. Each session is limited to 20 children. That evening the Hillcrest Middle School Building Committee gets project updates and the EMS Commission reviews vehicles, staffing and plans for Trumbull EMS’s 50th anniversary. The Conservation Commission meets Wednesday on tree rules and a spring 2027 tree giveaway."
-    },
-    {
-      "n": 7,
+      "n": 13,
       "headline": "David Ellefson watched Megadeth from the crowd at Louder Than Life: “There’s Dave and three other guys playing our songs”",
       "cat": "Music / Metal",
       "source": "Loudwire",
@@ -79,7 +145,7 @@
       "summary": "Former Megadeth bassist David Ellefson, now in Metal Church, says watching his old band at Louder Than Life in September was a “rearview mirror moment,” like seeing his very first Megadeth concert. Both bands played the festival’s main stage on Sept. 17, about five hours apart. On his podcast, Ellefson said he never ran into Dave Mustaine backstage (“he walked out maybe when I walked in”), but he did say hello to guitarist Teemu Mäntysaari and catch up with Dirk Verbeuren and James LoMenzo. He watched the set from front of house with Metal Church drummer Ken Mary: “There’s Dave and three other guys playing our songs.” Five years after leaving, he says his era is “my Megadeth.” He’s about to play Countdown to Extinction across Europe for three weeks with Bass Warrior."
     },
     {
-      "n": 8,
+      "n": 14,
       "headline": "LEGO House’s secret Designer Evening giveaways are revealed, including an up-scaled Blacktron Spacebaby",
       "cat": "LEGO",
       "source": "Brick Fanatics",
@@ -90,7 +156,7 @@
       "summary": "Two LEGO House exclusives that were handed out only at the Billund attraction’s small Designer Fan Evenings have surfaced online, posted by the collector behind Instagram’s rarest_lego_minifigures. The first is an up-scaled Blacktron Spacebaby, a take on the 40767 Up-Scaled Baby Astronaut with a visor and brick-built torso details. It likely comes from a space-themed evening in April. The second is a pair of LEGO House hot-rod cars plus a LEGO delivery truck with two minifigures, probably from a car-themed event in June. Neither build seems to use exclusive parts or unique prints, so fans should be able to recreate them from their own bricks or Pick a Brick if instructions surface. The next Designer Evening, on the Modular Buildings Collection, is Dec. 7."
     },
     {
-      "n": 9,
+      "n": 15,
       "headline": "8BitDo’s $120 button-only Arcade Controller Pro is up for pre-order, with a built-in screen and a magnetic wrist rest",
       "cat": "Gadgets / Gaming",
       "source": "Engadget",
@@ -101,7 +167,7 @@
       "summary": "8BitDo’s Arcade Controller Pro, a leverless “all buttons, no joystick” fight stick aimed at serious fighting-game players, is now up for pre-order at $119.99 and ships Nov. 30. Compared with the original $89.99 Arcade Controller, it has smaller, more tightly spaced buttons and more programmable buttons. A 1.47-inch display handles input monitoring, custom button mapping and RGB lighting changes. A magnetic wrist rest attaches to the bottom for long sessions and hides five spare button caps inside. It also packs a 3,000mAh battery that fully recharges in about four hours. It comes in N Edition and White colors."
     },
     {
-      "n": 10,
+      "n": 16,
       "headline": "Six Flags will add seat belts to Goliath and other coasters after a Georgia rider was thrown to his death",
       "cat": "US / Safety",
       "source": "Fox News",
@@ -112,7 +178,7 @@
       "summary": "Six Flags is adding seat belts to several roller coasters less than two weeks after 42-year-old Hassan Jihad Ibn Kariem was ejected from the Goliath coaster at Six Flags Over Georgia on Oct. 12. Witnesses said they saw him rise out of his seat and fall headfirst back into the car before he was thrown from the ride, and some riders earlier that day had raised concerns about its lap restraints. Eight other Six Flags coasters with similar restraints, built by Swiss maker Bolliger & Mabillard, remain closed across the U.S. and Canada while investigators work out what went wrong. “We are reinforcing safety precautions at our parks and taking additional measures, including adding seat belts on Goliath and other coasters with a similar restraint,” CEO John Reilly said Friday. The company has not said when the closed rides will reopen."
     },
     {
-      "n": 11,
+      "n": 17,
       "headline": "A Minnesota man jumped aboard a rolling school bus full of kids when he saw the driver having a seizure, and stopped it",
       "cat": "Heroes / Good News",
       "source": "Not the Bee",
@@ -123,7 +189,7 @@
       "summary": "Ebro Ahmed, 27, was standing outside a convenience store in St. Paul, Minnesota, when a school bus rolled past with its flashers on and its doors open. He looked inside, saw the driver appeared to be having a seizure, and jumped on. Ahmed had never been on a bus before. When he first pulled the gear shift he accidentally put it in reverse, then pulled the parking brake and brought it to a stop. Twenty students were aboard. Ahmed credited his calm to watching Grey’s Anatomy (“you never see doctors panic”). The driver was taken to the hospital and later released to recover at home, and a second driver finished the route so every child got home safely. “It’s kids we’re talking about,” he said. “Even if I were to die, it would still be worth it.”"
     },
     {
-      "n": 12,
+      "n": 18,
       "headline": "Apple Stores are reportedly getting a gadget that checks a returned iPhone through its sealed box, to stop empty-box return scams",
       "cat": "Apple / Retail",
       "source": "MacRumors",
@@ -134,81 +200,15 @@
       "summary": "Apple is fighting a growing return scam: people buy iPhones or other products, pull out accessories, strip components or remove the device entirely, then try to return the box hoping staff won’t notice. Bloomberg’s Mark Gurman reported in his Sunday Power On newsletter that Apple has started giving retail employees a device that can scan an iPhone while it’s still in its box and run diagnostics to confirm the phone is fully intact. Until now, staff were told to open the box and check its contents, which meant the returned unit couldn’t go back on the shelf as new. With the scanner, the box stays sealed and can go straight back into inventory. The rollout to stores began earlier this month, Gurman said."
     },
     {
-      "n": 13,
-      "headline": "Two weeks after riders asked, Tesla’s Cybercab now lets passengers pull up a live rear camera mid-ride, plus a new quiet mode",
-      "cat": "Tesla / Robotaxi",
-      "source": "Teslarati",
-      "url": "https://www.teslarati.com/tesla-cybercab-rear-view-camera/",
-      "image_local": "images/story-1431.jpg",
-      "image_remote": "https://www.teslarati.com/wp-content/uploads/2026/10/tesla-cybercab-cameras-visibility-1000x600.jpg",
-      "id": "51cd665d841f0740d73c15a50d18601e4dd2f68f",
-      "summary": "Tesla Cybercab riders in Austin can now bring up a live rearview camera feed on the center screen in the middle of a trip, and there appears to be a new quiet mode that darkens the whole display for riders who want to rest or avoid a bright screen at night. Rider Ethan McKanna spotted the camera late Friday (“You can now open the camera to view what’s behind you in Cybercab!”), and Tesla UI engineer @CarCoder added that riders can tap it to see more cameras and swipe to hide or show it. Until now the cab only showed rear and repeater feeds on the “Please Exit Safely” screen at the end of a ride. Earlier this month a rider asked for the cameras “for peace of mind” and Tesla replied “In development.” About two weeks later it shipped. Tesla hasn’t published release notes for either feature."
-    },
-    {
-      "n": 14,
-      "headline": "Former Saxon drummer Nigel Durham, who played on 1988’s “Destiny,” has died at 61",
-      "cat": "Music / Metal",
-      "source": "Blabbermouth",
-      "url": "https://blabbermouth.net/news/former-saxon-drummer-nigel-durham-dead-at-61",
-      "image_local": "images/story-1432.jpg",
-      "image_remote": "https://assets.blabbermouth.net/media/nigeldurhamoct2026_638.jpg",
-      "id": "677eae266e0e28e01a4f20d877f1fb1baae7ef21",
-      "summary": "Nigel Durham, who drummed for Saxon from 1987 to 1988 and played on the band’s album “Destiny,” has died at 61. Saxon announced the news on social media Saturday: “We are very sad to hear of the passing of a member of the SAXON family, former drummer Nigel Durham. We send our love and thoughts to his wife Lauretta, daughter Gemma, his grandchildren, and family.” Current Saxon drummer Nigel Glockler, whom Durham briefly replaced for “Destiny,” wrote: “RIP my friend, Nigel Durham — I will see you on the other side.” After leaving Saxon, Durham played in Oliver/Dawson Saxon, the group formed by former members Graham Oliver and Steve Dawson, and recorded “Re://Landed” and “It’s Alive” with them."
-    },
-    {
-      "n": 15,
-      "headline": "Reddit’s r/opensource banned anything touching AI, plus new projects and non-English speakers, and users are in revolt",
-      "cat": "Tech / Internet",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
-      "image_local": "",
-      "image_remote": "",
-      "id": "6bffee9c13e86ea3f1f18819c3eafd5a96730630",
-      "summary": "The moderators of Reddit’s r/opensource posted new rules Saturday evening: “If your project uses AI, is made by AI, or is intended for AI, it’s not welcome on r/opensource.” The post set off a firestorm and even spawned a rival subreddit, r/trueopensource. Critics point out the Linux kernel itself now contains some AI-generated code, so projects built on it could technically be banned. A moderator said there’s room for selective enforcement, such as accessibility features like automatic captions. The mods added other limits too: submitted projects must be at least a year old, actively maintained and have multiple contributors, which shuts out solo developers, and the sub will no longer take requests for maintainers. They also effectively banned non-English speakers: “We cannot distinguish between AI-written and AI-translated.”"
-    },
-    {
-      "n": 16,
-      "headline": "Four cameras and seven lenses: a sports photographer breaks down the kit he carried to shoot the Glasgow Commonwealth Games",
-      "cat": "Photography / Gear",
-      "source": "PetaPixel",
-      "url": "https://petapixel.com/2026/10/25/4-cameras-7-lenses-what-it-takes-to-cover-the-commonwealth-games/",
-      "image_local": "images/story-1433.jpg",
-      "image_remote": "https://petapixel.com/assets/uploads/2026/10/2026_Commonwealth-Games-Sports-Photography_AC-001.jpg",
-      "id": "1ad9866516df2443acd4f2258c8038f4dd4db62c",
-      "summary": "Sports photographer Andy Chua walks through the gear he brought to the Glasgow 2026 Commonwealth Games: four cameras and seven lenses, though most days only three bodies went to the venues and the fourth stayed at the hotel as a backup or remote camera. After 11 years in sports photography, he says choosing equipment is about anticipating what might happen from the positions you’ll have, needing long reach to isolate an athlete across a venue and then a wider view seconds later for a reaction or the crowd. His background is swimming, where a 600mm from the far end of the pool picks out details spectators never see. He compares this kit with what he carried in Birmingham in 2022, when he was moving from DSLR to Nikon’s mirrorless Z system, and explains what changed and why."
-    },
-    {
-      "n": 17,
-      "headline": "Trump takes his midterm barnstorm to Port Huron today, aiming to flip Michigan’s open Senate seat against Abdul El-Sayed",
-      "cat": "Politics / Midterms",
-      "source": "WDIV ClickOnDetroit (AP)",
-      "url": "https://www.clickondetroit.com/news/politics/2026/10/25/trumps-midterm-swing-brings-him-to-michigan-as-republicans-aim-to-undermine-el-sayed-in-senate-race/",
-      "image_local": "images/story-1419.jpg",
-      "image_remote": "https://bc.gmg.io/image/upload/c_thumb,q_auto,w_700,f_jpg/media/gmg/N5ZANZRQCVAXNM7GQUREEJGJMU.jpg?api_key=clickondetroit_06f87fefb2123598",
-      "id": "2ac69994fee3eda0042f41d7ebb0525a2b93df26",
-      "summary": "President Trump brings his midterm campaign swing to Port Huron, Michigan, on Sunday, a day after Barack Obama rallied Democrats in Michigan and Ohio. Republicans see a chance to win an open Senate seat in a state where the GOP hasn’t won a Senate race in more than three decades. Trump-backed former congressman Mike Rogers faces progressive Democrat Abdul El-Sayed, a former Wayne County public health official, in the Nov. 3 race to replace retiring Democrat Gary Peters. Trump has called El-Sayed a “jihadist” and tied him to the Muslim Brotherhood, which El-Sayed rejects. In their final debate Rogers asked, “Are you for America, or are you for these terrorist groups overseas?” El-Sayed called the question “shameful.” El-Sayed has dared Trump to come (“Donald, if you’re watching, don’t wuss out, man”), and he apologized after saying “hurt people hurt people” following an attack on a Detroit-area synagogue. Rogers lost the 2024 Senate race to Elissa Slotkin by less than a point."
-    },
-    {
-      "n": 18,
-      "headline": "Israel votes Tuesday in its first election since October 7, and polls show ex-army chief Gadi Eisenkot leading Netanyahu",
-      "cat": "World / Middle East",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/israeli-election-to-test-benjamin-netanyahus-ability-to-hold-power/",
-      "image_local": "images/story-1420.jpg",
-      "image_remote": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/25/0b411018-3549-42ec-bf02-b502493a9ed1/thumbnail/1200x630/42dcc91eb3cddce4219447abaaf15e6b/netanyahu-poster-1280.jpg",
-      "id": "3ba21198f7b7d57901b0f1e175ad22c8269be904",
-      "summary": "Israel holds its first parliamentary election since the October 7, 2023 attacks on Tuesday. Thirty-nine parties are running, but the race is mostly a referendum on Prime Minister Benjamin Netanyahu. Tens of thousands marched in Tel Aviv Saturday night demanding accountability for the failures behind October 7, while Likud voters at a market outside Tel Aviv called him “the king of Israel.” Netanyahu’s campaign frames the vote as existential, with posters near Gaza reading “Right or Palestine.” His main challenger is Gadi Eisenkot, a former military chief of staff whose son was killed fighting Hamas. Eisenkot left the government in 2024, accusing Netanyahu of dragging out the war. Polls show Eisenkot’s party with a clear lead, but he would likely need at least four coalition partners. Analyst Dahlia Scheindlin says he would set up an October 7 inquiry and draft the ultra-Orthodox, but wouldn’t change much on Gaza and Iran, the issues Trump cares about. Trump has endorsed Netanyahu, and she says Netanyahu could still be in office a year from now."
-    },
-    {
       "n": 19,
-      "headline": "Walled-off OpenAI agents found a way to talk anyway, sending secrets through CPU cache timing with no network or shared files",
-      "cat": "AI / Security",
-      "source": "Tom’s Hardware",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openais-isolated-red-team-ai-agents-built-a-hidden-cpu-cache-channel-to-talk-with-no-network-or-shared-files-exploited-cpu-cache-timing-to-bypass-microvm-sandboxes",
+      "headline": "Trumbull this week: early voting’s final week at the library, a Town Hall Halloween parade for preschoolers, and a Hillcrest update",
+      "cat": "Local / Trumbull",
+      "source": "Patch Trumbull",
+      "url": "https://patch.com/connecticut/trumbull/5-things-know-trumbull-early-voting-ends-town-hall-halloween-parade-hillcrest",
       "image_local": "",
       "image_remote": "",
-      "id": "bbd3c45cb02f2b34da10ce7a7daf4ac749e2c003",
-      "summary": "In red-team tests described in an OpenAI blog post, AI agents placed in separate microVM sandboxes on shared hardware were asked to swap synthetic secrets without a network link or shared writable files, and they found several ways to do it. In one, an agent evicted chosen data from the CPU cache while the other timed the reloads, reading fast and slow loads as bits under a protocol the two had agreed on in advance. It’s the same cache-timing trick behind Spectre and Meltdown, except this covert channel needs two cooperating parties. Tom’s Hardware notes that a hijacked agent on a shared cloud server could in theory use the method to leak data without network monitoring ever seeing it. OpenAI ran the tests on isolated copies of its research infrastructure, using hundreds of billions of tokens. The disclosure follows earlier incidents involving its agents, including a September DNS episode that paused training for 11 days, and OpenAI now counts red-teaming with its most capable models as part of the safety case for continuing training."
+      "id": "99a066e0be35af43afa4af909053c03d235e8baf",
+      "summary": "Early voting runs its final week in the Trumbull Library Community Room, 33 Quality St., from Monday, Oct. 26, through Sunday, Nov. 1. Hours are 10 a.m. to 6 p.m., extended to 8 a.m. to 8 p.m. on Tuesday and Thursday. Election Day is Tuesday, Nov. 3, with polls open 6 a.m. to 8 p.m. On Tuesday, Oct. 27, at 10 and 11:30 a.m., Town Hall staff host a costume parade and trick-or-treating past decorated office doors for registered Trumbull kids ages 0 to 5. Each session is limited to 20 children. That evening the Hillcrest Middle School Building Committee gets project updates and the EMS Commission reviews vehicles, staffing and plans for Trumbull EMS’s 50th anniversary. The Conservation Commission meets Wednesday on tree rules and a spring 2027 tree giveaway."
     },
     {
       "n": 20,
