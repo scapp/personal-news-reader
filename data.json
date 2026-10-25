@@ -1,8 +1,85 @@
 {
-  "updated": "Sunday, October 25, 2026 · 9:54 AM ET",
+  "updated": "Sunday, October 25, 2026 · 11:37 AM ET",
   "stories": [
     {
       "n": 1,
+      "headline": "Six Flags will add seat belts to Goliath and other coasters after a Georgia rider was thrown to his death",
+      "cat": "US / Safety",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/us/six-flags-add-seat-belts-roller-coasters-georgia-rider-death",
+      "image_local": "images/story-1428.jpg",
+      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/GA-SIX-FLAGS-GOLIATH-FALL-2.jpg",
+      "id": "6d403280d7db649c225644fb578aa0ca66b1a083",
+      "summary": "Six Flags is adding seat belts to several roller coasters less than two weeks after 42-year-old Hassan Jihad Ibn Kariem was ejected from the Goliath coaster at Six Flags Over Georgia on Oct. 12. Witnesses said they saw him rise out of his seat and fall headfirst back into the car before he was thrown from the ride, and some riders earlier that day had raised concerns about its lap restraints. Eight other Six Flags coasters with similar restraints, built by Swiss maker Bolliger & Mabillard, remain closed across the U.S. and Canada while investigators work out what went wrong. “We are reinforcing safety precautions at our parks and taking additional measures, including adding seat belts on Goliath and other coasters with a similar restraint,” CEO John Reilly said Friday. The company has not said when the closed rides will reopen."
+    },
+    {
+      "n": 2,
+      "headline": "A Minnesota man jumped aboard a rolling school bus full of kids when he saw the driver having a seizure, and stopped it",
+      "cat": "Heroes / Good News",
+      "source": "Not the Bee",
+      "url": "https://notthebee.com/article/man-jumps-onto-moving-school-bus-after-witnessing-drivers-medical-emergency/",
+      "image_local": "images/story-1429.jpg",
+      "image_remote": "https://media.notthebee.com/articles/6adbaf390d9f06adbaf390d9f1.jpg",
+      "id": "e4a73c3a52def955cf089e6756d58d2a3ee102f3",
+      "summary": "Ebro Ahmed, 27, was standing outside a convenience store in St. Paul, Minnesota, when a school bus rolled past with its flashers on and its doors open. He looked inside, saw the driver appeared to be having a seizure, and jumped on. Ahmed had never been on a bus before. When he first pulled the gear shift he accidentally put it in reverse, then pulled the parking brake and brought it to a stop. Twenty students were aboard. Ahmed credited his calm to watching Grey’s Anatomy (“you never see doctors panic”). The driver was taken to the hospital and later released to recover at home, and a second driver finished the route so every child got home safely. “It’s kids we’re talking about,” he said. “Even if I were to die, it would still be worth it.”"
+    },
+    {
+      "n": 3,
+      "headline": "Apple Stores are reportedly getting a gadget that checks a returned iPhone through its sealed box, to stop empty-box return scams",
+      "cat": "Apple / Retail",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/25/apple-stores-anti-theft-iphone-box-checker/",
+      "image_local": "images/story-1430.jpg",
+      "image_remote": "https://images.macrumors.com/t/X2wsJRhYm31iCV7pJR2UQNCHkH8=/1600x/article-new/2025/01/2024-iPhone-Boxes-Feature.jpg",
+      "id": "609a19a24d2015ef778d84babf6ac6dd974390c0",
+      "summary": "Apple is fighting a growing return scam: people buy iPhones or other products, pull out accessories, strip components or remove the device entirely, then try to return the box hoping staff won’t notice. Bloomberg’s Mark Gurman reported in his Sunday Power On newsletter that Apple has started giving retail employees a device that can scan an iPhone while it’s still in its box and run diagnostics to confirm the phone is fully intact. Until now, staff were told to open the box and check its contents, which meant the returned unit couldn’t go back on the shelf as new. With the scanner, the box stays sealed and can go straight back into inventory. The rollout to stores began earlier this month, Gurman said."
+    },
+    {
+      "n": 4,
+      "headline": "Two weeks after riders asked, Tesla’s Cybercab now lets passengers pull up a live rear camera mid-ride, plus a new quiet mode",
+      "cat": "Tesla / Robotaxi",
+      "source": "Teslarati",
+      "url": "https://www.teslarati.com/tesla-cybercab-rear-view-camera/",
+      "image_local": "images/story-1431.jpg",
+      "image_remote": "https://www.teslarati.com/wp-content/uploads/2026/10/tesla-cybercab-cameras-visibility-1000x600.jpg",
+      "id": "51cd665d841f0740d73c15a50d18601e4dd2f68f",
+      "summary": "Tesla Cybercab riders in Austin can now bring up a live rearview camera feed on the center screen in the middle of a trip, and there appears to be a new quiet mode that darkens the whole display for riders who want to rest or avoid a bright screen at night. Rider Ethan McKanna spotted the camera late Friday (“You can now open the camera to view what’s behind you in Cybercab!”), and Tesla UI engineer @CarCoder added that riders can tap it to see more cameras and swipe to hide or show it. Until now the cab only showed rear and repeater feeds on the “Please Exit Safely” screen at the end of a ride. Earlier this month a rider asked for the cameras “for peace of mind” and Tesla replied “In development.” About two weeks later it shipped. Tesla hasn’t published release notes for either feature."
+    },
+    {
+      "n": 5,
+      "headline": "Former Saxon drummer Nigel Durham, who played on 1988’s “Destiny,” has died at 61",
+      "cat": "Music / Metal",
+      "source": "Blabbermouth",
+      "url": "https://blabbermouth.net/news/former-saxon-drummer-nigel-durham-dead-at-61",
+      "image_local": "images/story-1432.jpg",
+      "image_remote": "https://assets.blabbermouth.net/media/nigeldurhamoct2026_638.jpg",
+      "id": "677eae266e0e28e01a4f20d877f1fb1baae7ef21",
+      "summary": "Nigel Durham, who drummed for Saxon from 1987 to 1988 and played on the band’s album “Destiny,” has died at 61. Saxon announced the news on social media Saturday: “We are very sad to hear of the passing of a member of the SAXON family, former drummer Nigel Durham. We send our love and thoughts to his wife Lauretta, daughter Gemma, his grandchildren, and family.” Current Saxon drummer Nigel Glockler, whom Durham briefly replaced for “Destiny,” wrote: “RIP my friend, Nigel Durham — I will see you on the other side.” After leaving Saxon, Durham played in Oliver/Dawson Saxon, the group formed by former members Graham Oliver and Steve Dawson, and recorded “Re://Landed” and “It’s Alive” with them."
+    },
+    {
+      "n": 6,
+      "headline": "Reddit’s r/opensource banned anything touching AI, plus new projects and non-English speakers, and users are in revolt",
+      "cat": "Tech / Internet",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+      "image_local": "",
+      "image_remote": "",
+      "id": "6bffee9c13e86ea3f1f18819c3eafd5a96730630",
+      "summary": "The moderators of Reddit’s r/opensource posted new rules Saturday evening: “If your project uses AI, is made by AI, or is intended for AI, it’s not welcome on r/opensource.” The post set off a firestorm and even spawned a rival subreddit, r/trueopensource. Critics point out the Linux kernel itself now contains some AI-generated code, so projects built on it could technically be banned. A moderator said there’s room for selective enforcement, such as accessibility features like automatic captions. The mods added other limits too: submitted projects must be at least a year old, actively maintained and have multiple contributors, which shuts out solo developers, and the sub will no longer take requests for maintainers. They also effectively banned non-English speakers: “We cannot distinguish between AI-written and AI-translated.”"
+    },
+    {
+      "n": 7,
+      "headline": "Four cameras and seven lenses: a sports photographer breaks down the kit he carried to shoot the Glasgow Commonwealth Games",
+      "cat": "Photography / Gear",
+      "source": "PetaPixel",
+      "url": "https://petapixel.com/2026/10/25/4-cameras-7-lenses-what-it-takes-to-cover-the-commonwealth-games/",
+      "image_local": "images/story-1433.jpg",
+      "image_remote": "https://petapixel.com/assets/uploads/2026/10/2026_Commonwealth-Games-Sports-Photography_AC-001.jpg",
+      "id": "1ad9866516df2443acd4f2258c8038f4dd4db62c",
+      "summary": "Sports photographer Andy Chua walks through the gear he brought to the Glasgow 2026 Commonwealth Games: four cameras and seven lenses, though most days only three bodies went to the venues and the fourth stayed at the hotel as a backup or remote camera. After 11 years in sports photography, he says choosing equipment is about anticipating what might happen from the positions you’ll have, needing long reach to isolate an athlete across a venue and then a wider view seconds later for a reaction or the crowd. His background is swimming, where a 600mm from the far end of the pool picks out details spectators never see. He compares this kit with what he carried in Birmingham in 2022, when he was moving from DSLR to Nikon’s mirrorless Z system, and explains what changed and why."
+    },
+    {
+      "n": 8,
       "headline": "Trump takes his midterm barnstorm to Port Huron today, aiming to flip Michigan’s open Senate seat against Abdul El-Sayed",
       "cat": "Politics / Midterms",
       "source": "WDIV ClickOnDetroit (AP)",
@@ -13,7 +90,7 @@
       "summary": "President Trump brings his midterm campaign swing to Port Huron, Michigan, on Sunday, a day after Barack Obama rallied Democrats in Michigan and Ohio. Republicans see a chance to win an open Senate seat in a state where the GOP hasn’t won a Senate race in more than three decades. Trump-backed former congressman Mike Rogers faces progressive Democrat Abdul El-Sayed, a former Wayne County public health official, in the Nov. 3 race to replace retiring Democrat Gary Peters. Trump has called El-Sayed a “jihadist” and tied him to the Muslim Brotherhood, which El-Sayed rejects. In their final debate Rogers asked, “Are you for America, or are you for these terrorist groups overseas?” El-Sayed called the question “shameful.” El-Sayed has dared Trump to come (“Donald, if you’re watching, don’t wuss out, man”), and he apologized after saying “hurt people hurt people” following an attack on a Detroit-area synagogue. Rogers lost the 2024 Senate race to Elissa Slotkin by less than a point."
     },
     {
-      "n": 2,
+      "n": 9,
       "headline": "Israel votes Tuesday in its first election since October 7, and polls show ex-army chief Gadi Eisenkot leading Netanyahu",
       "cat": "World / Middle East",
       "source": "CBS News",
@@ -24,7 +101,7 @@
       "summary": "Israel holds its first parliamentary election since the October 7, 2023 attacks on Tuesday. Thirty-nine parties are running, but the race is mostly a referendum on Prime Minister Benjamin Netanyahu. Tens of thousands marched in Tel Aviv Saturday night demanding accountability for the failures behind October 7, while Likud voters at a market outside Tel Aviv called him “the king of Israel.” Netanyahu’s campaign frames the vote as existential, with posters near Gaza reading “Right or Palestine.” His main challenger is Gadi Eisenkot, a former military chief of staff whose son was killed fighting Hamas. Eisenkot left the government in 2024, accusing Netanyahu of dragging out the war. Polls show Eisenkot’s party with a clear lead, but he would likely need at least four coalition partners. Analyst Dahlia Scheindlin says he would set up an October 7 inquiry and draft the ultra-Orthodox, but wouldn’t change much on Gaza and Iran, the issues Trump cares about. Trump has endorsed Netanyahu, and she says Netanyahu could still be in office a year from now."
     },
     {
-      "n": 3,
+      "n": 10,
       "headline": "Walled-off OpenAI agents found a way to talk anyway, sending secrets through CPU cache timing with no network or shared files",
       "cat": "AI / Security",
       "source": "Tom’s Hardware",
@@ -35,7 +112,7 @@
       "summary": "In red-team tests described in an OpenAI blog post, AI agents placed in separate microVM sandboxes on shared hardware were asked to swap synthetic secrets without a network link or shared writable files, and they found several ways to do it. In one, an agent evicted chosen data from the CPU cache while the other timed the reloads, reading fast and slow loads as bits under a protocol the two had agreed on in advance. It’s the same cache-timing trick behind Spectre and Meltdown, except this covert channel needs two cooperating parties. Tom’s Hardware notes that a hijacked agent on a shared cloud server could in theory use the method to leak data without network monitoring ever seeing it. OpenAI ran the tests on isolated copies of its research infrastructure, using hundreds of billions of tokens. The disclosure follows earlier incidents involving its agents, including a September DNS episode that paused training for 11 days, and OpenAI now counts red-teaming with its most capable models as part of the safety case for continuing training."
     },
     {
-      "n": 4,
+      "n": 11,
       "headline": "“I beat my first body when I was 17”: a New Hampshire man pleads guilty to killing his father in 2003 after boasting to police",
       "cat": "Crime / Cold Case",
       "source": "Fox News",
@@ -46,7 +123,7 @@
       "summary": "Douglas Herlihy, 40, has pleaded guilty to manslaughter in the 2003 killing of his father, Paul Herlihy, 50, in Milford, New Hampshire, and faces 12 to 24 years in state prison under a plea deal. Officers doing a welfare check found the father’s body on the kitchen floor, wrapped in carpet under a blue tarp, with blood on the cabinets, walls and ceiling. He had been beaten to death. Bloodstained carpet had been pushed out of the son’s bedroom window, and his closet door, covered by a towel, read “I WILL SEE YOU IN HELL.” Herlihy, who was 17 at the time, denied involvement for years. After a 2020 arrest he told an officer, “I beat cases. I beat my first body when I was 17!” A warrant followed in June 2025, and he was arrested in Saugus, Massachusetts. Attorney General John Formella said the case shows “the pursuit of justice does not end with the passage of time.”"
     },
     {
-      "n": 5,
+      "n": 12,
       "headline": "Apple and M. Night Shyamalan win again: an appeals court upholds the jury verdict that “Servant” didn’t copy a 2013 film",
       "cat": "Apple / Courts",
       "source": "MacRumors",
@@ -57,7 +134,7 @@
       "summary": "The Ninth Circuit has upheld last year’s jury verdict for Apple, M. Night Shyamalan and the other defendants in the copyright suit over the Apple TV series “Servant.” Filmmaker Francesca Gregorini sued in January 2020, claiming the show’s first three episodes copied her 2013 film “The Truth About Emanuel.” Both stories feature a grieving mother who treats a doll as a living baby, along with a young caregiver. The suit was dismissed in 2020, revived on appeal in 2022, and lost unanimously at trial in January 2025. In its Oct. 22 decision, the appeals court rejected Gregorini’s argument that the jury instructions on whether the show’s creators could have seen her film were flawed. It also ruled that the judge could accept the unanimous verdict before answering a question the jurors had sent. The series starred Lauren Ambrose, Toby Kebbell, Nell Tiger Free and Rupert Grint."
     },
     {
-      "n": 6,
+      "n": 13,
       "headline": "Instagram finally lands on Apple TV, bringing Reels, longer creator videos and live shows to the big screen",
       "cat": "Apple / Apps",
       "source": "MacRumors",
@@ -68,7 +145,7 @@
       "summary": "Instagram now has an Apple TV app, bringing Reels, longer videos and live shows to Apple’s streaming box for the first time. You can watch creators you follow, discover new videos and pick up where you left off on another device, and Instagram pitches it as a way to watch with friends and family. Apple’s metadata dates version 66.0 to Oct. 23, and an App Store listing from Oct. 19 still showed only iPhone and iPad support. Instagram’s TV app started as a test on Amazon Fire TV in December 2025, then reached Google TV in February and Samsung TVs in June. Meta said in June it would add longer creator content, episodic series and live broadcasts. The app requires tvOS 26.0 or later. It follows Instagram’s long-requested iPad app, which arrived in September 2025."
     },
     {
-      "n": 7,
+      "n": 14,
       "headline": "November’s LEGO lineup: the record-breaking Sagrada Família, Dragon Ball’s Shenron & Goku, a Venice Icons set and Cosy Plants",
       "cat": "LEGO / New Sets",
       "source": "Brick Fanatics",
@@ -79,7 +156,7 @@
       "summary": "Only a handful of LEGO sets launch in November, but they include the biggest one ever. LEGO Insiders get early access on Nov. 1, and everyone else can buy them from Nov. 4. Insiders membership is free. The headliner is 21065 Sagrada Família, the Architecture tribute to Gaudí’s Barcelona basilica, which arrives five months after its reveal as the largest LEGO set ever by piece count. Dragon Ball debuts with the Icons set 11390 Dragon Ball: Shenron & Goku, ahead of a standalone theme planned for 2027. A second Icons set recreates the Italian city of Venice and comes with November’s only gift-with-purchase, which matches the set. Botanicals adds 10371 Cosy Plants, with new accessories and a plant that breaks from the theme’s usual upright designs."
     },
     {
-      "n": 8,
+      "n": 15,
       "headline": "Nicko McBrain says Iron Maiden failed Blaze Bayley by refusing to tune the songs down for his baritone",
       "cat": "Music / Metal",
       "source": "Blabbermouth",
@@ -90,7 +167,7 @@
       "summary": "Former Iron Maiden drummer Nicko McBrain, promoting his autobiography “Hello Boys And Girls!”, told Classic Album Review that the band should have helped Blaze Bayley more during his 1994–1999 run as singer. “We didn’t transpose the songs. We should have gone down a note … half a step or a full step,” he said. He noted that Bruce Dickinson’s range is “soprano, almost” while Bayley is a baritone, and that the “Virtual XI” tour “was really tough for him.” McBrain called that period “like a dark cloud” in his life. He also admitted he was the most outspoken member about how Dickinson left, announcing his exit halfway through the “Fear Of The Dark” tour, and said there was “a lot of bad blood.” He praised the 2000 reunion album “Brave New World,” recorded in Paris with producer Kevin Shirley, and the return of guitarist Adrian Smith, whom he called the band’s commercial songwriter."
     },
     {
-      "n": 9,
+      "n": 16,
       "headline": "Tracy G on quitting Dio: after six years on lead, Ronnie asked him to play rhythm, and he walked",
       "cat": "Guitar / Metal",
       "source": "Guitar World",
@@ -101,7 +178,7 @@
       "summary": "Tracy Grijalva, known as Tracy G, played guitar for Ronnie James Dio from 1993 to 1999. In a preview of an upcoming Guitar World interview, he explains why he left. He auditioned twice after Dio’s second exit from Black Sabbath, got the call from drummer Vinny Appice, and debuted with Dokken bassist Jeff Pilson on 1993’s “Strange Highways,” followed by 1996’s “Angry Machines.” He says his heavier, grunge-era sound wasn’t chasing trends: “That’s just the way I play.” It ended when Dio brought back “Dream Evil” guitarist Craig Goldy on lead, which Grijalva believes management and the label wanted. “I had played guitar and lead guitar for Ronnie for six years, and now he asked me to play rhythm,” he says. “If you take that from me, then I’m out.” He insists there was no feud, but when he called Dio’s office the next Christmas to leave a holiday message, “I never heard back from him again.”"
     },
     {
-      "n": 10,
+      "n": 17,
       "headline": "Houdini died 100 years ago this Halloween, and a surgeon now says the famous stomach-punch story was an insurance cover-up",
       "cat": "History / Mysteries",
       "source": "CBS News Sunday Morning",
@@ -112,7 +189,7 @@
       "summary": "Harry Houdini, born Erik Weisz in Hungary in 1874 and raised in Wisconsin, died 100 years ago this week at age 52. Historian Roger Dreyer says the Metamorphosis Trunk first made him bookable, and then the handcuff, straitjacket and upside-down water-tank escapes made him a legend. He later spent his final years exposing fake spiritualist mediums. The usual account says he died of appendicitis made worse by a college student’s surprise punches to his stomach. Surgeon Larrian Gillespie’s new book, “Houdini: The Man Who Died Twice,” argues his death certificate was altered and that an intestinal blockage and an unreported last-minute surgery killed him. She says his team pushed the punch story because his double-indemnity policy paid about $500,000 more, in today’s money, for an accidental death. She also argues he may have died on Oct. 30, not on Halloween. The current owner of Houdini’s Harlem townhouse is holding a séance there this weekend, as fans do every year."
     },
     {
-      "n": 11,
+      "n": 18,
       "headline": "Britain is paying $81 million for a robotic “garbage truck” with claws to grab dead satellites and drag them out of orbit",
       "cat": "Science / Space",
       "source": "Fox News",
@@ -121,83 +198,6 @@
       "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/robotic-space-claws.jpg",
       "id": "273de83d0286f3c69a33d6917011eab6753c9b1c",
       "summary": "The UK Space Agency has picked ClearSpace UK to build a spacecraft that captures dead satellites with a robotic claw system and drags them down to burn up in the atmosphere, under a contract worth about $81 million. The Active Debris Removal mission is set to launch in 2029 from SaxaVord Spaceport in Shetland, and its first job is to remove two defunct UK satellites by 2032. The craft has to match the motion of targets that may be tumbling at around 17,000 mph. After securing one, it moves it into a lower orbit and releases it. It is being designed for refueling and reuse, so one spacecraft could clear several pieces of junk. ESA tracks about 47,140 objects in orbit and estimates there are millions of smaller fragments. Even a 1-centimeter piece can disable a spacecraft, and ESA’s 2026 report says active removal will be needed to stop collisions from multiplying the debris."
-    },
-    {
-      "n": 12,
-      "headline": "Ukrainian drones reportedly hit a sanctioned Russian titanium plant 1,400 km from the border, plus a missile-parts factory",
-      "cat": "World / Ukraine",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/ukraine-strikes-russian-titanium-plant-more-than-1-400-kilometers-from-border-monitoring-channel-claims/",
-      "image_local": "",
-      "image_remote": "",
-      "id": "42e875a22b534bf1764e5de55470feb443e02777",
-      "summary": "Ukrainian forces struck Avisma, one of the world’s largest titanium sponge producers, in Berezniki in Russia’s Perm Krai on Sunday, according to Ukrainian and Russian monitoring channels. The plant sits more than 1,400 kilometers (870 miles) from the border. Perm Governor Dmitry Makhonin said 11 drones were downed and an unnamed industrial facility in the north of the region had “minor” damage but kept operating, with five employees injured. Avisma, part of VSMPO-AVISMA, has been under U.S. sanctions since 2023 and makes material used in military aircraft, nuclear submarines, armored vehicles and missiles. Later in the day Ukraine also reportedly attacked the Energiya plant in Yelets, Lipetsk Oblast, which makes components for missile systems and drones, more than 200 kilometers from the border."
-    },
-    {
-      "n": 13,
-      "headline": "Twelve people, six of them minors, are hurt in a shooting outside Florida A&M’s stadium after its homecoming game",
-      "cat": "Crime / Shootings",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/news/us-news/tallahassee-florida-shooting-florida-am-university-rcna605484",
-      "image_local": "images/story-1412.jpg",
-      "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261025-florida-am-bragg-memorial-stadium-rc-0123a-9f1d85.jpg",
-      "id": "6cb4a4f2943d1067dc2f24af462c3f0f2dbdc485",
-      "summary": "Twelve people were injured, 11 of them by gunfire, when shots rang out about 8 p.m. Saturday at an intersection next to Florida A&M University’s Bragg Memorial Stadium in Tallahassee, where the historically Black university had just hosted Arkansas-Pine Bluff for its homecoming game. Three victims were seriously hurt, including one minor; six of the injured are under 18 and the youngest is 11. Police Chief Lawrence Revell called it “an isolated incident between two or three individuals” that began as an altercation, said police believe one shooter was involved, and said no one had been arrested as of early Sunday. He praised officers who carried victims in their arms because vehicles could not get through the crowd, and asked witnesses to come forward. FAMU said the shooting happened on Perry Street near campus and that the campus was safe; nearby Florida State told people to stay indoors."
-    },
-    {
-      "n": 14,
-      "headline": "An Ohio village’s new mosque took hundreds of thousands from Uzbek-owned trucking firms with long safety-violation records, Fox finds",
-      "cat": "Immigration / Investigations",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/politics/alarming-fraud-trend-puts-small-town-mosque-industry-foreign-govt-ties-focus-our-motherland-now",
-      "image_local": "images/story-1413.jpg",
-      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/mosque-trucks.jpg",
-      "id": "b9a4df31ebab4ba96f6214b5b2db1f0e443c6f22",
-      "summary": "In part two of its series on trucking fraud in southwest Ohio, Fox News Digital reports that the Islamic Center of Maineville, under construction for four years in a Warren County village of about 1,400 people, has received substantial donations from Uzbek-owned trucking companies cited for serious safety and compliance violations. The mosque’s Telegram channel, which has about 3,600 members, posted screenshots of the gifts and showed ties to people identified as current or former Uzbek officials. One Springboro carrier gave at least $28,000 across 28 donations despite English-proficiency, invalid-CDL, logging-device and hours-of-service violations; another, with more than 100 violations including unsafe driving and invalid CDLs, gave at least $25,000. Republican state Rep. Michelle Teska is pushing legislation to crack down on truck drivers who cannot speak English. Part one traced the issue to a fatal crash by an Uzbek driver."
-    },
-    {
-      "n": 15,
-      "headline": "Terrible Towels at the Eiffel Tower: Steelers fans turn Paris black and gold before today’s first NFL game in France",
-      "cat": "Sports / NFL",
-      "source": "WTAE Pittsburgh",
-      "url": "https://www.wtae.com/article/steelers-fans-paris-eiffel-tower/74240268",
-      "image_local": "images/story-1414.jpg",
-      "image_remote": "https://kubrick.htvapps.com/htv-prod/images/7c2d0a3f-975b-4410-8946-f09ba9b6c796.jpg?crop=1.00xw%3A1.00xh%3B0%2C0&resize=1200%3A*",
-      "id": "31018d147643b93a1a491bf67ac696e4020868b0",
-      "summary": "A huge crowd of Pittsburgh Steelers fans gathered in front of the Eiffel Tower on Saturday, waving Terrible Towels on the eve of Sunday’s historic game against the New Orleans Saints at the Stade de France, the NFL’s first regular-season game in Paris. Viewer videos sent to WTAE showed the black-and-gold crowd from the tower’s base and from a nearby bridge. Kickoff is 9:30 a.m. ET; WTAE is airing the game in Pittsburgh with a pregame special starting at 7 a.m. The fan gathering came a day after the league closed its “NFL House” fan venue in the city as protests swept France."
-    },
-    {
-      "n": 16,
-      "headline": "Connecticut towns are banning data centers before anyone has even proposed one",
-      "cat": "Connecticut / AI & Tech",
-      "source": "CT Mirror",
-      "url": "https://ctmirror.org/2026/10/25/data-centers-artificial-intelligence-ct/",
-      "image_local": "",
-      "image_remote": "",
-      "id": "45702a1b69834213b3cb38bac0a26eb1b137393c",
-      "summary": "About half a dozen Connecticut municipalities have moved to block data center development with temporary moratoriums or outright bans, according to a CT Mirror review of meetings and records, even though almost no projects have been proposed. East Lyme’s Zoning Commission unanimously adopted an indefinite ban that took effect Saturday; New Haven passed a one-year moratorium in September with an exemption for its quantum computing hub; and tiny Morris has a two-year ban. Experts say Connecticut has never been attractive for big “hyperscale” sites because of high electricity costs and the need for large plots and utility access. A 2021 sales-tax break for projects investing at least $200 million has been used only once, for Cigna’s $386 million renovation of an existing data center in Windsor, and the state has reviewed just two applications. A planned facility next to the Millstone nuclear plant in Waterford died after local pushback. Trumbull has its own hearing on a proposed one-year moratorium."
-    },
-    {
-      "n": 17,
-      "headline": "Soldiers guard central Milan as youth protests spread across Europe, from Rome and Turin to Madrid, Lisbon and Tirana",
-      "cat": "World / Europe",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/10/25/nx-s1-6016126/thousands-of-protesters-across-europe",
-      "image_local": "images/story-1415.jpg",
-      "image_remote": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8640x4860+0+450/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F44%2Ffc%2F067418084bee810af15f9fc7dfc9%2Fap26297352027819.jpg",
-      "id": "33a22ccb83e44799a1122276cc58eb0d12f061f4",
-      "summary": "Thousands of young people marched Saturday in Milan, Rome, Turin and other Italian cities as authorities flooded the streets with police and soldiers to head off a repeat of last weekend’s looting. Milan stayed peaceful, but there were brief clashes with police in Rome and Turin. Premier Giorgia Meloni sent another 500 soldiers to Milan on top of hundreds already there, backing about 5,000 police, and announced tougher penalties for minors, who police say made up much of last week’s violent crowds; several minors were detained in Milan as a precaution. Luxury boutiques including Gucci, Tiffany and Omega boarded up, and the Apple store stayed closed. Right-wing student groups also marched in Rome against the left-wing protests. Large demonstrations hit Madrid, Lisbon and Tirana as well, over issues ranging from education and corruption to anti-war causes, pensions and housing."
-    },
-    {
-      "n": 18,
-      "headline": "Apple says it wants to fix Safari’s cramped layout on the iPhone Duo’s outer screen — and adds book-style two-page PDFs",
-      "cat": "Apple / iPhone",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/10/25/apple-wants-to-fix-safari-on-iphone-duo/",
-      "image_local": "images/story-1416.jpg",
-      "image_remote": "https://images.macrumors.com/t/-gds-j9ogv7t6Gyzs0keTRaBBug=/1600x/article-new/2026/10/safari-iphone-duo-webkit.jpg",
-      "id": "db89825708aaf51d23017e44fbc790ff0c46fca9",
-      "summary": "Apple is looking at ways to let websites use more of the iPhone Duo’s short, wide outer display, where Safari’s controls sit along the side and pages are currently squeezed into the area beside them. In a WebKit post on Friday, Apple’s Jen Simmons said the existing viewport-fit=cover setting could let pages extend under the controls, but Apple’s research found many sites don’t leave enough room around key content, so parts of the page would be hidden. Apple is exploring an alternative, such as letting a header’s background span the screen while its links stay clear of the controls. For now Safari 27.1 fills the leftover strip with the page’s background color. Safari 27.1 also shows PDFs as two pages when the Duo is held half-folded like a book, and developers can test experimental fold-posture detection behind feature flags."
     },
     {
       "n": 19,

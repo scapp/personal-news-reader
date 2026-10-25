@@ -1591,7 +1591,14 @@
     "1e7b3830d430cdfe9a6e3078a1c69c3f2be2603c",
     "3bc810c4fb69ccc36089d38359af5fce4eb57c9a",
     "273de83d0286f3c69a33d6917011eab6753c9b1c",
-    "42e875a22b534bf1764e5de55470feb443e02777"
+    "42e875a22b534bf1764e5de55470feb443e02777",
+    "6d403280d7db649c225644fb578aa0ca66b1a083",
+    "e4a73c3a52def955cf089e6756d58d2a3ee102f3",
+    "609a19a24d2015ef778d84babf6ac6dd974390c0",
+    "51cd665d841f0740d73c15a50d18601e4dd2f68f",
+    "677eae266e0e28e01a4f20d877f1fb1baae7ef21",
+    "6bffee9c13e86ea3f1f18819c3eafd5a96730630",
+    "1ad9866516df2443acd4f2258c8038f4dd4db62c"
   ],
   "stories": {
     "0c2ac7a5e342411678296315c4c59043b1f067cc": {
@@ -18869,7 +18876,77 @@
       "image_remote": "",
       "image_local": "",
       "id": "42e875a22b534bf1764e5de55470feb443e02777"
+    },
+    "6d403280d7db649c225644fb578aa0ca66b1a083": {
+      "headline": "Six Flags will add seat belts to Goliath and other coasters after a Georgia rider was thrown to his death",
+      "cat": "US / Safety",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/us/six-flags-add-seat-belts-roller-coasters-georgia-rider-death",
+      "summary": "Six Flags is adding seat belts to several roller coasters less than two weeks after 42-year-old Hassan Jihad Ibn Kariem was ejected from the Goliath coaster at Six Flags Over Georgia on Oct. 12. Witnesses said they saw him rise out of his seat and fall headfirst back into the car before he was thrown from the ride, and some riders earlier that day had raised concerns about its lap restraints. Eight other Six Flags coasters with similar restraints, built by Swiss maker Bolliger & Mabillard, remain closed across the U.S. and Canada while investigators work out what went wrong. “We are reinforcing safety precautions at our parks and taking additional measures, including adding seat belts on Goliath and other coasters with a similar restraint,” CEO John Reilly said Friday. The company has not said when the closed rides will reopen.",
+      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/GA-SIX-FLAGS-GOLIATH-FALL-2.jpg",
+      "image_local": "images/story-1428.jpg",
+      "id": "6d403280d7db649c225644fb578aa0ca66b1a083"
+    },
+    "e4a73c3a52def955cf089e6756d58d2a3ee102f3": {
+      "headline": "A Minnesota man jumped aboard a rolling school bus full of kids when he saw the driver having a seizure, and stopped it",
+      "cat": "Heroes / Good News",
+      "source": "Not the Bee",
+      "url": "https://notthebee.com/article/man-jumps-onto-moving-school-bus-after-witnessing-drivers-medical-emergency/",
+      "summary": "Ebro Ahmed, 27, was standing outside a convenience store in St. Paul, Minnesota, when a school bus rolled past with its flashers on and its doors open. He looked inside, saw the driver appeared to be having a seizure, and jumped on. Ahmed had never been on a bus before. When he first pulled the gear shift he accidentally put it in reverse, then pulled the parking brake and brought it to a stop. Twenty students were aboard. Ahmed credited his calm to watching Grey’s Anatomy (“you never see doctors panic”). The driver was taken to the hospital and later released to recover at home, and a second driver finished the route so every child got home safely. “It’s kids we’re talking about,” he said. “Even if I were to die, it would still be worth it.”",
+      "image_remote": "https://media.notthebee.com/articles/6adbaf390d9f06adbaf390d9f1.jpg",
+      "image_local": "images/story-1429.jpg",
+      "id": "e4a73c3a52def955cf089e6756d58d2a3ee102f3"
+    },
+    "609a19a24d2015ef778d84babf6ac6dd974390c0": {
+      "headline": "Apple Stores are reportedly getting a gadget that checks a returned iPhone through its sealed box, to stop empty-box return scams",
+      "cat": "Apple / Retail",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/25/apple-stores-anti-theft-iphone-box-checker/",
+      "summary": "Apple is fighting a growing return scam: people buy iPhones or other products, pull out accessories, strip components or remove the device entirely, then try to return the box hoping staff won’t notice. Bloomberg’s Mark Gurman reported in his Sunday Power On newsletter that Apple has started giving retail employees a device that can scan an iPhone while it’s still in its box and run diagnostics to confirm the phone is fully intact. Until now, staff were told to open the box and check its contents, which meant the returned unit couldn’t go back on the shelf as new. With the scanner, the box stays sealed and can go straight back into inventory. The rollout to stores began earlier this month, Gurman said.",
+      "image_remote": "https://images.macrumors.com/t/X2wsJRhYm31iCV7pJR2UQNCHkH8=/1600x/article-new/2025/01/2024-iPhone-Boxes-Feature.jpg",
+      "image_local": "images/story-1430.jpg",
+      "id": "609a19a24d2015ef778d84babf6ac6dd974390c0"
+    },
+    "51cd665d841f0740d73c15a50d18601e4dd2f68f": {
+      "headline": "Two weeks after riders asked, Tesla’s Cybercab now lets passengers pull up a live rear camera mid-ride, plus a new quiet mode",
+      "cat": "Tesla / Robotaxi",
+      "source": "Teslarati",
+      "url": "https://www.teslarati.com/tesla-cybercab-rear-view-camera/",
+      "summary": "Tesla Cybercab riders in Austin can now bring up a live rearview camera feed on the center screen in the middle of a trip, and there appears to be a new quiet mode that darkens the whole display for riders who want to rest or avoid a bright screen at night. Rider Ethan McKanna spotted the camera late Friday (“You can now open the camera to view what’s behind you in Cybercab!”), and Tesla UI engineer @CarCoder added that riders can tap it to see more cameras and swipe to hide or show it. Until now the cab only showed rear and repeater feeds on the “Please Exit Safely” screen at the end of a ride. Earlier this month a rider asked for the cameras “for peace of mind” and Tesla replied “In development.” About two weeks later it shipped. Tesla hasn’t published release notes for either feature.",
+      "image_remote": "https://www.teslarati.com/wp-content/uploads/2026/10/tesla-cybercab-cameras-visibility-1000x600.jpg",
+      "image_local": "images/story-1431.jpg",
+      "id": "51cd665d841f0740d73c15a50d18601e4dd2f68f"
+    },
+    "677eae266e0e28e01a4f20d877f1fb1baae7ef21": {
+      "headline": "Former Saxon drummer Nigel Durham, who played on 1988’s “Destiny,” has died at 61",
+      "cat": "Music / Metal",
+      "source": "Blabbermouth",
+      "url": "https://blabbermouth.net/news/former-saxon-drummer-nigel-durham-dead-at-61",
+      "summary": "Nigel Durham, who drummed for Saxon from 1987 to 1988 and played on the band’s album “Destiny,” has died at 61. Saxon announced the news on social media Saturday: “We are very sad to hear of the passing of a member of the SAXON family, former drummer Nigel Durham. We send our love and thoughts to his wife Lauretta, daughter Gemma, his grandchildren, and family.” Current Saxon drummer Nigel Glockler, whom Durham briefly replaced for “Destiny,” wrote: “RIP my friend, Nigel Durham — I will see you on the other side.” After leaving Saxon, Durham played in Oliver/Dawson Saxon, the group formed by former members Graham Oliver and Steve Dawson, and recorded “Re://Landed” and “It’s Alive” with them.",
+      "image_remote": "https://assets.blabbermouth.net/media/nigeldurhamoct2026_638.jpg",
+      "image_local": "images/story-1432.jpg",
+      "id": "677eae266e0e28e01a4f20d877f1fb1baae7ef21"
+    },
+    "6bffee9c13e86ea3f1f18819c3eafd5a96730630": {
+      "headline": "Reddit’s r/opensource banned anything touching AI, plus new projects and non-English speakers, and users are in revolt",
+      "cat": "Tech / Internet",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+      "summary": "The moderators of Reddit’s r/opensource posted new rules Saturday evening: “If your project uses AI, is made by AI, or is intended for AI, it’s not welcome on r/opensource.” The post set off a firestorm and even spawned a rival subreddit, r/trueopensource. Critics point out the Linux kernel itself now contains some AI-generated code, so projects built on it could technically be banned. A moderator said there’s room for selective enforcement, such as accessibility features like automatic captions. The mods added other limits too: submitted projects must be at least a year old, actively maintained and have multiple contributors, which shuts out solo developers, and the sub will no longer take requests for maintainers. They also effectively banned non-English speakers: “We cannot distinguish between AI-written and AI-translated.”",
+      "image_remote": "",
+      "image_local": "",
+      "id": "6bffee9c13e86ea3f1f18819c3eafd5a96730630"
+    },
+    "1ad9866516df2443acd4f2258c8038f4dd4db62c": {
+      "headline": "Four cameras and seven lenses: a sports photographer breaks down the kit he carried to shoot the Glasgow Commonwealth Games",
+      "cat": "Photography / Gear",
+      "source": "PetaPixel",
+      "url": "https://petapixel.com/2026/10/25/4-cameras-7-lenses-what-it-takes-to-cover-the-commonwealth-games/",
+      "summary": "Sports photographer Andy Chua walks through the gear he brought to the Glasgow 2026 Commonwealth Games: four cameras and seven lenses, though most days only three bodies went to the venues and the fourth stayed at the hotel as a backup or remote camera. After 11 years in sports photography, he says choosing equipment is about anticipating what might happen from the positions you’ll have, needing long reach to isolate an athlete across a venue and then a wider view seconds later for a reaction or the crowd. His background is swimming, where a 600mm from the far end of the pool picks out details spectators never see. He compares this kit with what he carried in Birmingham in 2022, when he was moving from DSLR to Nikon’s mirrorless Z system, and explains what changed and why.",
+      "image_remote": "https://petapixel.com/assets/uploads/2026/10/2026_Commonwealth-Games-Sports-Photography_AC-001.jpg",
+      "image_local": "images/story-1433.jpg",
+      "id": "1ad9866516df2443acd4f2258c8038f4dd4db62c"
     }
   },
-  "updated": "Sunday, October 25, 2026 · 9:54 AM ET"
+  "updated": "Sunday, October 25, 2026 · 11:37 AM ET"
 }
