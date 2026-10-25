@@ -12,6 +12,12 @@ On load, the site asks for a PIN. Client-side Web Crypto hashes `salt + PIN` (SH
 - Removed stories disappear from the feed; read stories are dimmed. Optional **Hide read** toggle.
 - State is not synced across devices or browsers.
 
+## Swipe cards (phone-class only)
+- Swipe LEFT = Remove, swipe RIGHT = Save + mark read, with the ✕ Remove / Save ✓ buttons, Undo toast, shake / Cmd-Ctrl+Z undo.
+- On for any viewport under 600px **and** for phone-class devices at any width: iPhone user agent (including iPhone Duo folded or open, and iPhone landscape), Android "Mobile" phones, or a touch Mac-UA device whose short screen side is under 700pt (open Duo in desktop-site mode). iPad (Mac UA, 744pt+ screen) never gets swipe and keeps the two-column grid.
+- Fold/unfold/rotate re-checks the layout live (resize, orientationchange, visualViewport, matchMedia, devicePosture) without a reload; the current card and position are kept. When the Viewport Segments API reports a hinge, the deck stays off the fold.
+- Spec: `../profile/SITE-FORMAT.md` → "iPhone swipe cards". Asset version `20261025a`.
+
 ## Data
 - `data.json` — **live home feed** (`updated` + `stories[]` with `id` = sha1 of URL). **Hard cap: ≤20 stories** after every publish. Prefer category variety; avoid near-duplicate politics in the same batch.
 - `archive.json` — accumulating store of all known stories (append by id; never wipe). Used for Saved lookup, not the endless home pile.

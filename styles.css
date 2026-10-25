@@ -522,14 +522,17 @@ body::before {
 }
 
 /* ---------------------------------------------------------------
-   iPhone swipe-card deck (Steve, 2026-10-11)
-   Phones only: (max-width: 599px). iPad mini / iPad portrait
-   (744px+) and wider keep the grid above — no deck at all.
-   app.js toggles body.deck-mode with the same media query.
+   iPhone swipe-card deck (Steve, 2026-10-11; phone-class 2026-10-25)
+   Phone-class devices only. app.js toggles body.deck-mode when the
+   viewport is under 600px OR the device is phone-class (iPhone UA,
+   incl. iPhone Duo folded or open, at any width). iPad (Mac UA,
+   744pt+ screen) never gets deck-mode and keeps the grid above.
+   Every rule below only takes effect in deck mode (the deck markup
+   exists only then), so there is no width media query here.
    --------------------------------------------------------------- */
 .swipe-deck[hidden] { display: none !important; }
 
-@media (max-width: 599px) {
+/* deck-scope (was @media (max-width: 599px)) */
   body.deck-mode {
     overflow: hidden;
     overscroll-behavior: none;
@@ -755,7 +758,85 @@ body::before {
     max-width: 44vw;
     white-space: nowrap;
   }
-}
-@media (max-width: 599px) and (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) .deck-save { color: #86efac; }
+}
+
+/* ---------------------------------------------------------------
+   Wide phone-class screens (iPhone Duo open: inner display 669 x 902
+   portrait / 951 x 620 landscape; also iPhone landscape). Same
+   full-screen swipe cards, same gestures/buttons/undo; the deck column
+   is capped so the card does not stretch, and in landscape the card
+   puts the photo beside the text so both fit the shorter height.
+   --------------------------------------------------------------- */
+@media (min-width: 600px) {
+  body.deck-mode main.inner,
+  body.deck-mode .masthead .inner { width: min(760px, calc(100% - 1.5rem)); }
+  body.deck-mode .swipe-copy h2 { font-size: 1.45rem; }
+  body.deck-mode .deck-btn { min-width: 8rem; }
+}
+@media (orientation: landscape) and (min-aspect-ratio: 4/3) {
+  body.deck-mode main.inner,
+  body.deck-mode .masthead .inner { width: min(1000px, calc(100% - 1.5rem)); }
+  body.deck-mode .masthead { padding: 0.35rem 0 0.3rem; margin-bottom: 0.35rem; }
+  body.deck-mode .masthead-top { margin-bottom: 0; }
+  body.deck-mode .masthead .inner { display: flex; align-items: center; gap: 0.75rem; flex-wrap: wrap; }
+  body.deck-mode .masthead-top { order: 2; margin-left: auto; }
+  body.deck-mode .masthead h1 { order: 0; margin: 0; }
+  body.deck-mode .masthead .deck { order: 1; margin: 0; }
+  body.deck-mode .refresh-status { order: 3; flex-basis: 100%; margin: 0; }
+  /* Photo pane on the left (whole photo, contain), text pane on the right scrolls on its own. */
+  body.deck-mode .swipe-card:not(.no-photo) .swipe-scroll {
+    display: grid;
+    grid-template-columns: minmax(0, 0.95fr) minmax(0, 1.05fr);
+    grid-template-rows: minmax(0, 1fr);
+    overflow: hidden;
+  }
+  body.deck-mode .swipe-card:not(.no-photo) .swipe-media { min-height: 0; height: 100%; }
+  body.deck-mode .swipe-card:not(.no-photo) .swipe-media img {
+    width: 100%;
+    height: 100%;
+    max-height: none;
+  }
+  body.deck-mode .swipe-card:not(.no-photo) .swipe-copy {
+    min-height: 0;
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
+    overscroll-behavior: contain;
+    touch-action: pan-y;
+  }
+}
+
+/* ---------------------------------------------------------------
+   Fold / hinge avoidance (Viewport Segments API; Safari 27.1 on
+   iPhone Duo behind a flag, Chromium foldables). Only applies when
+   the device is partly folded and reports 2 segments; otherwise these
+   queries don't match and nothing changes (graceful degradation).
+   --------------------------------------------------------------- */
+@media (horizontal-viewport-segments: 2) {
+  /* Book pose: header in the left segment, the card + bar in the right one. */
+  body.deck-mode .app {
+    display: grid;
+    grid-template-columns: env(viewport-segment-width 0 0, 1fr) env(viewport-segment-width 1 0, 1fr);
+    column-gap: calc(env(viewport-segment-left 1 0, 0px) - env(viewport-segment-right 0 0, 0px));
+    grid-template-rows: minmax(0, 1fr);
+    padding-left: 0;
+    padding-right: 0;
+  }
+  body.deck-mode .masthead { grid-column: 1; align-self: start; padding-left: var(--safe-left); }
+  body.deck-mode main.inner { grid-column: 2; width: calc(100% - 1.5rem - var(--safe-right)); margin: 0 auto 0 0.75rem; }
+  body.deck-mode .swipe-card:not(.no-photo) .swipe-scroll { display: block; overflow-y: auto; }
+  body.deck-mode .swipe-card:not(.no-photo) .swipe-media { height: auto; }
+  body.deck-mode .swipe-card:not(.no-photo) .swipe-media img { height: auto; max-height: 38dvh; }
+  body.deck-mode .swipe-card:not(.no-photo) .swipe-copy { overflow: visible; }
+  /* Grid views (Saved list): one column per segment, gutter = hinge. */
+  body:not(.deck-mode) .feed {
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+    column-gap: calc(env(viewport-segment-left 1 0, 0px) - env(viewport-segment-right 0 0, 0px) + 1rem);
+  }
+}
+@media (vertical-viewport-segments: 2) {
+  /* Laptop pose: keep the whole deck in the top segment, clear of the fold. */
+  body.deck-mode,
+  body.deck-mode .app { height: env(viewport-segment-bottom 0 0, 100dvh); }
 }

@@ -41,9 +41,29 @@
   const SHAKE_DEBOUNCE_MS = 1500;
   let undoToastTimer = null;
   const deckEl = document.getElementById('deck');
-  // Swipe-card deck is for phones only (iPhone). iPad mini / iPad portrait (744px+) keep the grid.
+  // Swipe-card deck is for phone-class devices only (Steve: "Just for iPhone. Not iPad").
+  // On: any viewport under 600px (all phones, as before) OR a phone-class device at ANY width:
+  // iPhone UA (incl. iPhone Duo folded or open), Android/other "Mobile" phone UAs, or a
+  // desktop-mode Mac UA with touch whose shorter screen side is < 700pt (open Duo asking for
+  // the desktop site; every iPad is 744pt+ on its short side). iPadOS reports a Mac UA and an
+  // iPad-sized screen, so iPad never matches and keeps the two-column grid with no swipe.
   const PHONE_QUERY = '(max-width: 599px)';
   const phoneMq = window.matchMedia(PHONE_QUERY);
+  const PHONE_SCREEN_MAX = 700; // pt, shorter screen side; iPad mini = 744
+  function isPhoneClassDevice() {
+    const ua = navigator.userAgent || '';
+    if (/\b(iPhone|iPod)\b/.test(ua)) return true;
+    if (/iPad/.test(ua)) return false;
+    if (/Android.*Mobile|Windows Phone|IEMobile|BlackBerry|Opera Mini/i.test(ua)) return true;
+    try { if (navigator.userAgentData && navigator.userAgentData.mobile === true) return true; } catch (_) {}
+    const touch = (navigator.maxTouchPoints || 0) > 0;
+    if (touch && /Macintosh/.test(ua) && window.screen) {
+      const shortSide = Math.min(screen.width || 0, screen.height || 0);
+      if (shortSide > 0 && shortSide < PHONE_SCREEN_MAX) return true;
+    }
+    return false;
+  }
+  function phoneLayout() { return phoneMq.matches || isPhoneClassDevice(); }
 
   let auth = null;
   let stories = []; // live home feed = data.json only (≤20)
@@ -712,7 +732,7 @@
   }
 
   function deckMode() {
-    return viewMode === 'feed' && phoneMq.matches;
+    return viewMode === 'feed' && phoneLayout();
   }
 
   function deckStories() {
@@ -875,9 +895,19 @@
     card.addEventListener('pointercancel', end);
   }
 
+  let lastDeckMode = null;
+  let gridScrollY = 0;
   function render() {
     const inDeck = deckMode();
+    if (inDeck && lastDeckMode === false) gridScrollY = window.scrollY || 0;
+    const leavingDeck = !inDeck && lastDeckMode === true;
+    lastDeckMode = inDeck;
     document.body.classList.toggle('deck-mode', inDeck);
+    document.body.classList.toggle('phone-class', isPhoneClassDevice());
+    if (leavingDeck && gridScrollY) {
+      const y = gridScrollY;
+      window.requestAnimationFrame(() => window.scrollTo(0, y));
+    }
     if (inDeck) {
       renderDeck();
       return;
@@ -1097,9 +1127,36 @@
       if (e.key === 'ArrowRight') { e.preventDefault(); flyOff(card, 'right'); }
       else if (e.key === 'ArrowLeft') { e.preventDefault(); flyOff(card, 'left'); }
     });
-    const onPhoneMq = () => render();
-    if (phoneMq.addEventListener) phoneMq.addEventListener('change', onPhoneMq);
-    else if (phoneMq.addListener) phoneMq.addListener(onPhoneMq);
+    // Fold / unfold / rotate (iPhone Duo outer <-> inner display) without a reload. Only
+    // re-render when the layout mode actually flips; otherwise CSS reflows the same DOM, so
+    // the current card, deck position (N of M), pending undo and any drag are all kept.
+    let layoutRaf = 0;
+    const onLayoutChange = () => {
+      if (layoutRaf) return;
+      layoutRaf = window.requestAnimationFrame(() => {
+        layoutRaf = 0;
+        if (app.hidden) return;
+        if (deckMode() !== lastDeckMode && !deckBusy) render();
+        if (undoToast && !undoToast.hidden) positionToast();
+      });
+    };
+    const watchMq = (q) => {
+      try {
+        const mq = q === PHONE_QUERY ? phoneMq : window.matchMedia(q);
+        if (mq.addEventListener) mq.addEventListener('change', onLayoutChange);
+        else if (mq.addListener) mq.addListener(onLayoutChange);
+      } catch (_) {}
+    };
+    [PHONE_QUERY, '(orientation: landscape)', '(horizontal-viewport-segments: 2)',
+      '(vertical-viewport-segments: 2)', '(min-width: 768px)'].forEach(watchMq);
+    window.addEventListener('resize', onLayoutChange);
+    window.addEventListener('orientationchange', onLayoutChange);
+    if (window.visualViewport) window.visualViewport.addEventListener('resize', onLayoutChange);
+    try {
+      if (navigator.devicePosture && navigator.devicePosture.addEventListener) {
+        navigator.devicePosture.addEventListener('change', onLayoutChange);
+      }
+    } catch (_) {}
     if (refreshBtn) {
       refreshBtn.addEventListener('click', () => refreshStories('manual'));
     }
