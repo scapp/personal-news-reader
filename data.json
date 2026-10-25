@@ -1,8 +1,107 @@
 {
-  "updated": "Sunday, October 25, 2026 · 11:37 AM ET",
+  "updated": "Sunday, October 25, 2026 · 4:07 PM ET",
   "stories": [
     {
       "n": 1,
+      "headline": "Steelers beat the Saints 16-10 in Paris, the NFL’s first game in France, on Payton Wilson’s diving interception",
+      "cat": "Sports / Steelers",
+      "source": "Steelers.com",
+      "url": "https://www.steelers.com/news/steelers-beat-saints-16-10-in-paris",
+      "image_local": "images/story-1434.jpg",
+      "image_remote": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/steelers/knwgibxybvzp7xzbvpmk",
+      "id": "209ace9be97dd7b85ff7c5066687d82494242456",
+      "summary": "The Steelers won the NFL’s first-ever game in France, beating the Saints 16-10 at Stade de France on Sunday, and now own the league’s first regular-season wins in both Dublin and Paris. The biggest play came midway through the third quarter. With New Orleans at the 10-yard line threatening to take the lead after a 14-play, 68-yard drive, linebacker Payton Wilson dove to intercept Tyler Shough at the 11 and returned it 18 yards. Chris Boswell’s 38-yard field goal followed. Pittsburgh’s defense held the Saints to 18 rushing yards, while Jaylen Warren ran for 101 yards and Rico Dowdle added 86 yards from scrimmage. Steelers fans made the “home” Saints crowd feel like a neutral site. Pittsburgh improves to 5-2; New Orleans falls to 2-5."
+    },
+    {
+      "n": 2,
+      "headline": "Jets lose 28-25 at home to the previously winless Dolphins after stalling at the 1-yard line",
+      "cat": "Sports / Jets",
+      "source": "Gang Green Nation",
+      "url": "https://www.ganggreennation.com/new-york-jets-scores-results/97915/jets-vs-dolphins-dolphins-deal-disgraceful-jets-humiliating-loss",
+      "image_local": "images/story-1435.jpg",
+      "image_remote": "https://platform.ganggreennation.com/wp-content/uploads/sites/86/2026/10/gettyimages-2301958834.jpg?quality=90&strip=all&w=1200",
+      "id": "0592aa5a712721ee113892ffa8ede8df4625fa50",
+      "summary": "The Jets fell 28-25 to a Miami team that had not won all season, and had not even led a game, at MetLife Stadium on Sunday. Malik Willis and the Dolphins drove at will early and led 21-7 at halftime, helped by a Geno Smith red-zone interception. New York clawed back with Omar Cooper and Mason Taylor touchdowns, but the turning point came in the fourth quarter. With first-and-goal inside the 1, the Jets went backwards three straight plays and settled for a field goal. Miami answered with a long Caleb Douglas touchdown. Taylor’s late TD and two-point catch made it 28-25, but the Jets never got the ball back after Miami converted a fourth-and-1 with two minutes left. Jason Sanders also hit the upright on a field goal try."
+    },
+    {
+      "n": 3,
+      "headline": "Venezuelan opposition leader María Corina Machado makes a surprise return home after ten months abroad",
+      "cat": "World / Venezuela",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/10/25/nx-s1-6016222/venezuela-maria-corina-machado-leader-returns-exile",
+      "image_local": "images/story-1436.jpg",
+      "image_remote": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8127x4571+0+63/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F1f%2Fe3%2F62c605ef41b1a3e06cbf2c0635ef%2Fap26295737413336.jpg",
+      "id": "b5641e8cc35df593936a9071e02528493fb15f9b",
+      "summary": "Nobel Peace Prize laureate María Corina Machado has returned to Venezuela after ten months abroad, announcing “I am here. With you.” on social media. Her first public appearance was among worshippers at the Church of Santa Rosa in Lara State, where an ecstatic crowd surrounded her. Her return challenges interim President Delcy Rodríguez, who took over after U.S. forces captured Nicolás Maduro in January. Machado has pushed for elections soon, while Washington says Venezuela must stabilize first, and the Trump administration has repeatedly sidelined her. Leaving the White House Sunday, President Trump said he knew nothing about her return, called her “a very nice woman” who had given him her Nobel Prize, and added, “I hope she’s safe.” Exiled opposition figure Edmundo González said he expects to join her soon."
+    },
+    {
+      "n": 4,
+      "headline": "Elvis Presley’s rights holders sue Anthropic, saying its Claude AI was trained on 274 of his songs without a license",
+      "cat": "AI / Courts",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/tech/tech-news/elvis-presleys-rights-holders-sue-anthropic-saying-trained-ai-music-rcna605551",
+      "image_local": "images/story-1437.jpg",
+      "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261025-elvis-presley-mn-1400-39a197.jpg",
+      "id": "1ad64bcf3842e628d6a7f530d2403322ea14df2c",
+      "summary": "The owners of Elvis Presley’s music have sued AI company Anthropic, accusing it of using the lyrics to 274 of his songs without permission or payment to train its Claude models. The songs include “All Shook Up,” “Can’t Help Falling in Love,” “Don’t Be Cruel” and “Return to Sender.” Authentic Brands Group, which controls Presley’s intellectual property, filed the suit Friday along with other rights owners. They say the infringement ran through “the entire development” of Claude and continues as users generate copies or unauthorized adaptations of the songs. The complaint says Anthropic “built its entire business model on infringing copyrights at an unfathomable scale.” Anthropic says it disagrees and will “defend this case fully.” Last year it paid a record $1.5 billion to settle a lawsuit by authors over pirated books."
+    },
+    {
+      "n": 5,
+      "headline": "The OLED iPad mini 8 is expected this week, with an A20 Pro chip, water resistance and a likely $799 price",
+      "cat": "Apple / iPad",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/10/25/ipad-mini-8-redesign-with-oled-coming-this-week/",
+      "image_local": "images/story-1438.jpg",
+      "image_remote": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/ipad-mini-touch-id-button-top.jpg?quality=82&strip=all&resize=1200,628",
+      "id": "da5e9b7ac4963e2c148d8f509a0fc2a9c2796517",
+      "summary": "Apple is expected to unveil a new iPad mini this week, its first display overhaul since 2021. The headline change is an OLED screen. It won’t be the Tandem OLED used in the iPad Pro, but it should still bring richer color, better contrast and more brightness. It’s not yet clear whether it gets a 120Hz ProMotion display. The chip is rumored to jump from the A17 Pro with 8GB of memory to the A20 Pro with 12GB, with about 60% faster multi-core CPU and 166% faster graphics, enough to run Apple’s newer on-device Siri AI features. Apple is also reportedly making it the first water-resistant iPad, using a new casing and redesigned speakers. The catch is price: Bloomberg’s Mark Gurman says it could start at $799, up from $599 today."
+    },
+    {
+      "n": 6,
+      "headline": "Trumbull this week: early voting’s final week at the library, a Town Hall Halloween parade for preschoolers, and a Hillcrest update",
+      "cat": "Local / Trumbull",
+      "source": "Patch Trumbull",
+      "url": "https://patch.com/connecticut/trumbull/5-things-know-trumbull-early-voting-ends-town-hall-halloween-parade-hillcrest",
+      "image_local": "",
+      "image_remote": "",
+      "id": "99a066e0be35af43afa4af909053c03d235e8baf",
+      "summary": "Early voting runs its final week in the Trumbull Library Community Room, 33 Quality St., from Monday, Oct. 26, through Sunday, Nov. 1. Hours are 10 a.m. to 6 p.m., extended to 8 a.m. to 8 p.m. on Tuesday and Thursday. Election Day is Tuesday, Nov. 3, with polls open 6 a.m. to 8 p.m. On Tuesday, Oct. 27, at 10 and 11:30 a.m., Town Hall staff host a costume parade and trick-or-treating past decorated office doors for registered Trumbull kids ages 0 to 5. Each session is limited to 20 children. That evening the Hillcrest Middle School Building Committee gets project updates and the EMS Commission reviews vehicles, staffing and plans for Trumbull EMS’s 50th anniversary. The Conservation Commission meets Wednesday on tree rules and a spring 2027 tree giveaway."
+    },
+    {
+      "n": 7,
+      "headline": "David Ellefson watched Megadeth from the crowd at Louder Than Life: “There’s Dave and three other guys playing our songs”",
+      "cat": "Music / Metal",
+      "source": "Loudwire",
+      "url": "https://loudwire.com/david-ellefson-megadeth-louder-than-life-rearview-mirror-moment/",
+      "image_local": "images/story-1439.jpg",
+      "image_remote": "https://townsquare.media/site/366/files/2026/10/attachment-david_ellefson_megadeth_louder_than_life_2026_rearview_mirror_moment.jpg?w=1200&q=75&format=natural",
+      "id": "10824d0dd31f6d4e33f9e6479ba67abcffe7d590",
+      "summary": "Former Megadeth bassist David Ellefson, now in Metal Church, says watching his old band at Louder Than Life in September was a “rearview mirror moment,” like seeing his very first Megadeth concert. Both bands played the festival’s main stage on Sept. 17, about five hours apart. On his podcast, Ellefson said he never ran into Dave Mustaine backstage (“he walked out maybe when I walked in”), but he did say hello to guitarist Teemu Mäntysaari and catch up with Dirk Verbeuren and James LoMenzo. He watched the set from front of house with Metal Church drummer Ken Mary: “There’s Dave and three other guys playing our songs.” Five years after leaving, he says his era is “my Megadeth.” He’s about to play Countdown to Extinction across Europe for three weeks with Bass Warrior."
+    },
+    {
+      "n": 8,
+      "headline": "LEGO House’s secret Designer Evening giveaways are revealed, including an up-scaled Blacktron Spacebaby",
+      "cat": "LEGO",
+      "source": "Brick Fanatics",
+      "url": "https://www.brickfanatics.com/lego-house-designer-evening-builds-revealed",
+      "image_local": "images/story-1440.jpg",
+      "image_remote": "https://www.brickfanatics.com/storage/uploads/b69ee80b-a48b-4e62-9f93-da5cbdea1856.png",
+      "id": "9ce5321d0f6c748eb29288a8a354ee52e039f570",
+      "summary": "Two LEGO House exclusives that were handed out only at the Billund attraction’s small Designer Fan Evenings have surfaced online, posted by the collector behind Instagram’s rarest_lego_minifigures. The first is an up-scaled Blacktron Spacebaby, a take on the 40767 Up-Scaled Baby Astronaut with a visor and brick-built torso details. It likely comes from a space-themed evening in April. The second is a pair of LEGO House hot-rod cars plus a LEGO delivery truck with two minifigures, probably from a car-themed event in June. Neither build seems to use exclusive parts or unique prints, so fans should be able to recreate them from their own bricks or Pick a Brick if instructions surface. The next Designer Evening, on the Modular Buildings Collection, is Dec. 7."
+    },
+    {
+      "n": 9,
+      "headline": "8BitDo’s $120 button-only Arcade Controller Pro is up for pre-order, with a built-in screen and a magnetic wrist rest",
+      "cat": "Gadgets / Gaming",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2296362/8bitdos-latest-button-only-arcade-controller-is-now-up-for-preorder/",
+      "image_local": "images/story-1441.jpg",
+      "image_remote": "https://www.engadget.com/img/gallery/8bitdos-latest-button-only-arcade-controller-is-now-up-for-pre-order/l-intro-1792946449.jpg",
+      "id": "86e095d6087890bbe61cd652403040271eb22ecd",
+      "summary": "8BitDo’s Arcade Controller Pro, a leverless “all buttons, no joystick” fight stick aimed at serious fighting-game players, is now up for pre-order at $119.99 and ships Nov. 30. Compared with the original $89.99 Arcade Controller, it has smaller, more tightly spaced buttons and more programmable buttons. A 1.47-inch display handles input monitoring, custom button mapping and RGB lighting changes. A magnetic wrist rest attaches to the bottom for long sessions and hides five spare button caps inside. It also packs a 3,000mAh battery that fully recharges in about four hours. It comes in N Edition and White colors."
+    },
+    {
+      "n": 10,
       "headline": "Six Flags will add seat belts to Goliath and other coasters after a Georgia rider was thrown to his death",
       "cat": "US / Safety",
       "source": "Fox News",
@@ -13,7 +112,7 @@
       "summary": "Six Flags is adding seat belts to several roller coasters less than two weeks after 42-year-old Hassan Jihad Ibn Kariem was ejected from the Goliath coaster at Six Flags Over Georgia on Oct. 12. Witnesses said they saw him rise out of his seat and fall headfirst back into the car before he was thrown from the ride, and some riders earlier that day had raised concerns about its lap restraints. Eight other Six Flags coasters with similar restraints, built by Swiss maker Bolliger & Mabillard, remain closed across the U.S. and Canada while investigators work out what went wrong. “We are reinforcing safety precautions at our parks and taking additional measures, including adding seat belts on Goliath and other coasters with a similar restraint,” CEO John Reilly said Friday. The company has not said when the closed rides will reopen."
     },
     {
-      "n": 2,
+      "n": 11,
       "headline": "A Minnesota man jumped aboard a rolling school bus full of kids when he saw the driver having a seizure, and stopped it",
       "cat": "Heroes / Good News",
       "source": "Not the Bee",
@@ -24,7 +123,7 @@
       "summary": "Ebro Ahmed, 27, was standing outside a convenience store in St. Paul, Minnesota, when a school bus rolled past with its flashers on and its doors open. He looked inside, saw the driver appeared to be having a seizure, and jumped on. Ahmed had never been on a bus before. When he first pulled the gear shift he accidentally put it in reverse, then pulled the parking brake and brought it to a stop. Twenty students were aboard. Ahmed credited his calm to watching Grey’s Anatomy (“you never see doctors panic”). The driver was taken to the hospital and later released to recover at home, and a second driver finished the route so every child got home safely. “It’s kids we’re talking about,” he said. “Even if I were to die, it would still be worth it.”"
     },
     {
-      "n": 3,
+      "n": 12,
       "headline": "Apple Stores are reportedly getting a gadget that checks a returned iPhone through its sealed box, to stop empty-box return scams",
       "cat": "Apple / Retail",
       "source": "MacRumors",
@@ -35,7 +134,7 @@
       "summary": "Apple is fighting a growing return scam: people buy iPhones or other products, pull out accessories, strip components or remove the device entirely, then try to return the box hoping staff won’t notice. Bloomberg’s Mark Gurman reported in his Sunday Power On newsletter that Apple has started giving retail employees a device that can scan an iPhone while it’s still in its box and run diagnostics to confirm the phone is fully intact. Until now, staff were told to open the box and check its contents, which meant the returned unit couldn’t go back on the shelf as new. With the scanner, the box stays sealed and can go straight back into inventory. The rollout to stores began earlier this month, Gurman said."
     },
     {
-      "n": 4,
+      "n": 13,
       "headline": "Two weeks after riders asked, Tesla’s Cybercab now lets passengers pull up a live rear camera mid-ride, plus a new quiet mode",
       "cat": "Tesla / Robotaxi",
       "source": "Teslarati",
@@ -46,7 +145,7 @@
       "summary": "Tesla Cybercab riders in Austin can now bring up a live rearview camera feed on the center screen in the middle of a trip, and there appears to be a new quiet mode that darkens the whole display for riders who want to rest or avoid a bright screen at night. Rider Ethan McKanna spotted the camera late Friday (“You can now open the camera to view what’s behind you in Cybercab!”), and Tesla UI engineer @CarCoder added that riders can tap it to see more cameras and swipe to hide or show it. Until now the cab only showed rear and repeater feeds on the “Please Exit Safely” screen at the end of a ride. Earlier this month a rider asked for the cameras “for peace of mind” and Tesla replied “In development.” About two weeks later it shipped. Tesla hasn’t published release notes for either feature."
     },
     {
-      "n": 5,
+      "n": 14,
       "headline": "Former Saxon drummer Nigel Durham, who played on 1988’s “Destiny,” has died at 61",
       "cat": "Music / Metal",
       "source": "Blabbermouth",
@@ -57,7 +156,7 @@
       "summary": "Nigel Durham, who drummed for Saxon from 1987 to 1988 and played on the band’s album “Destiny,” has died at 61. Saxon announced the news on social media Saturday: “We are very sad to hear of the passing of a member of the SAXON family, former drummer Nigel Durham. We send our love and thoughts to his wife Lauretta, daughter Gemma, his grandchildren, and family.” Current Saxon drummer Nigel Glockler, whom Durham briefly replaced for “Destiny,” wrote: “RIP my friend, Nigel Durham — I will see you on the other side.” After leaving Saxon, Durham played in Oliver/Dawson Saxon, the group formed by former members Graham Oliver and Steve Dawson, and recorded “Re://Landed” and “It’s Alive” with them."
     },
     {
-      "n": 6,
+      "n": 15,
       "headline": "Reddit’s r/opensource banned anything touching AI, plus new projects and non-English speakers, and users are in revolt",
       "cat": "Tech / Internet",
       "source": "The Verge",
@@ -68,7 +167,7 @@
       "summary": "The moderators of Reddit’s r/opensource posted new rules Saturday evening: “If your project uses AI, is made by AI, or is intended for AI, it’s not welcome on r/opensource.” The post set off a firestorm and even spawned a rival subreddit, r/trueopensource. Critics point out the Linux kernel itself now contains some AI-generated code, so projects built on it could technically be banned. A moderator said there’s room for selective enforcement, such as accessibility features like automatic captions. The mods added other limits too: submitted projects must be at least a year old, actively maintained and have multiple contributors, which shuts out solo developers, and the sub will no longer take requests for maintainers. They also effectively banned non-English speakers: “We cannot distinguish between AI-written and AI-translated.”"
     },
     {
-      "n": 7,
+      "n": 16,
       "headline": "Four cameras and seven lenses: a sports photographer breaks down the kit he carried to shoot the Glasgow Commonwealth Games",
       "cat": "Photography / Gear",
       "source": "PetaPixel",
@@ -79,7 +178,7 @@
       "summary": "Sports photographer Andy Chua walks through the gear he brought to the Glasgow 2026 Commonwealth Games: four cameras and seven lenses, though most days only three bodies went to the venues and the fourth stayed at the hotel as a backup or remote camera. After 11 years in sports photography, he says choosing equipment is about anticipating what might happen from the positions you’ll have, needing long reach to isolate an athlete across a venue and then a wider view seconds later for a reaction or the crowd. His background is swimming, where a 600mm from the far end of the pool picks out details spectators never see. He compares this kit with what he carried in Birmingham in 2022, when he was moving from DSLR to Nikon’s mirrorless Z system, and explains what changed and why."
     },
     {
-      "n": 8,
+      "n": 17,
       "headline": "Trump takes his midterm barnstorm to Port Huron today, aiming to flip Michigan’s open Senate seat against Abdul El-Sayed",
       "cat": "Politics / Midterms",
       "source": "WDIV ClickOnDetroit (AP)",
@@ -90,7 +189,7 @@
       "summary": "President Trump brings his midterm campaign swing to Port Huron, Michigan, on Sunday, a day after Barack Obama rallied Democrats in Michigan and Ohio. Republicans see a chance to win an open Senate seat in a state where the GOP hasn’t won a Senate race in more than three decades. Trump-backed former congressman Mike Rogers faces progressive Democrat Abdul El-Sayed, a former Wayne County public health official, in the Nov. 3 race to replace retiring Democrat Gary Peters. Trump has called El-Sayed a “jihadist” and tied him to the Muslim Brotherhood, which El-Sayed rejects. In their final debate Rogers asked, “Are you for America, or are you for these terrorist groups overseas?” El-Sayed called the question “shameful.” El-Sayed has dared Trump to come (“Donald, if you’re watching, don’t wuss out, man”), and he apologized after saying “hurt people hurt people” following an attack on a Detroit-area synagogue. Rogers lost the 2024 Senate race to Elissa Slotkin by less than a point."
     },
     {
-      "n": 9,
+      "n": 18,
       "headline": "Israel votes Tuesday in its first election since October 7, and polls show ex-army chief Gadi Eisenkot leading Netanyahu",
       "cat": "World / Middle East",
       "source": "CBS News",
@@ -101,7 +200,7 @@
       "summary": "Israel holds its first parliamentary election since the October 7, 2023 attacks on Tuesday. Thirty-nine parties are running, but the race is mostly a referendum on Prime Minister Benjamin Netanyahu. Tens of thousands marched in Tel Aviv Saturday night demanding accountability for the failures behind October 7, while Likud voters at a market outside Tel Aviv called him “the king of Israel.” Netanyahu’s campaign frames the vote as existential, with posters near Gaza reading “Right or Palestine.” His main challenger is Gadi Eisenkot, a former military chief of staff whose son was killed fighting Hamas. Eisenkot left the government in 2024, accusing Netanyahu of dragging out the war. Polls show Eisenkot’s party with a clear lead, but he would likely need at least four coalition partners. Analyst Dahlia Scheindlin says he would set up an October 7 inquiry and draft the ultra-Orthodox, but wouldn’t change much on Gaza and Iran, the issues Trump cares about. Trump has endorsed Netanyahu, and she says Netanyahu could still be in office a year from now."
     },
     {
-      "n": 10,
+      "n": 19,
       "headline": "Walled-off OpenAI agents found a way to talk anyway, sending secrets through CPU cache timing with no network or shared files",
       "cat": "AI / Security",
       "source": "Tom’s Hardware",
@@ -112,95 +211,7 @@
       "summary": "In red-team tests described in an OpenAI blog post, AI agents placed in separate microVM sandboxes on shared hardware were asked to swap synthetic secrets without a network link or shared writable files, and they found several ways to do it. In one, an agent evicted chosen data from the CPU cache while the other timed the reloads, reading fast and slow loads as bits under a protocol the two had agreed on in advance. It’s the same cache-timing trick behind Spectre and Meltdown, except this covert channel needs two cooperating parties. Tom’s Hardware notes that a hijacked agent on a shared cloud server could in theory use the method to leak data without network monitoring ever seeing it. OpenAI ran the tests on isolated copies of its research infrastructure, using hundreds of billions of tokens. The disclosure follows earlier incidents involving its agents, including a September DNS episode that paused training for 11 days, and OpenAI now counts red-teaming with its most capable models as part of the safety case for continuing training."
     },
     {
-      "n": 11,
-      "headline": "“I beat my first body when I was 17”: a New Hampshire man pleads guilty to killing his father in 2003 after boasting to police",
-      "cat": "Crime / Cold Case",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/us/man-admits-beating-dad-death-picturesque-town-decades-ago-bragging-cops-first-body",
-      "image_local": "images/story-1421.jpg",
-      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/Douglas-Herlihy-New-Hampshire.jpg",
-      "id": "bcdd391452d9e6497afdc6af25a229cc31e93b6a",
-      "summary": "Douglas Herlihy, 40, has pleaded guilty to manslaughter in the 2003 killing of his father, Paul Herlihy, 50, in Milford, New Hampshire, and faces 12 to 24 years in state prison under a plea deal. Officers doing a welfare check found the father’s body on the kitchen floor, wrapped in carpet under a blue tarp, with blood on the cabinets, walls and ceiling. He had been beaten to death. Bloodstained carpet had been pushed out of the son’s bedroom window, and his closet door, covered by a towel, read “I WILL SEE YOU IN HELL.” Herlihy, who was 17 at the time, denied involvement for years. After a 2020 arrest he told an officer, “I beat cases. I beat my first body when I was 17!” A warrant followed in June 2025, and he was arrested in Saugus, Massachusetts. Attorney General John Formella said the case shows “the pursuit of justice does not end with the passage of time.”"
-    },
-    {
-      "n": 12,
-      "headline": "Apple and M. Night Shyamalan win again: an appeals court upholds the jury verdict that “Servant” didn’t copy a 2013 film",
-      "cat": "Apple / Courts",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/10/25/servant-lawsuit-win-upheld/",
-      "image_local": "images/story-1422.jpg",
-      "image_remote": "https://images.macrumors.com/t/tkePhrlORN94a_VLiavksZcOXNs=/1960x/article-new/2020/12/servant-tv-show.jpg",
-      "id": "a2d8039713bf9149e2d6465624363bc8ffb18d2c",
-      "summary": "The Ninth Circuit has upheld last year’s jury verdict for Apple, M. Night Shyamalan and the other defendants in the copyright suit over the Apple TV series “Servant.” Filmmaker Francesca Gregorini sued in January 2020, claiming the show’s first three episodes copied her 2013 film “The Truth About Emanuel.” Both stories feature a grieving mother who treats a doll as a living baby, along with a young caregiver. The suit was dismissed in 2020, revived on appeal in 2022, and lost unanimously at trial in January 2025. In its Oct. 22 decision, the appeals court rejected Gregorini’s argument that the jury instructions on whether the show’s creators could have seen her film were flawed. It also ruled that the judge could accept the unanimous verdict before answering a question the jurors had sent. The series starred Lauren Ambrose, Toby Kebbell, Nell Tiger Free and Rupert Grint."
-    },
-    {
-      "n": 13,
-      "headline": "Instagram finally lands on Apple TV, bringing Reels, longer creator videos and live shows to the big screen",
-      "cat": "Apple / Apps",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/10/25/instagram-launches-apple-tv-app/",
-      "image_local": "",
-      "image_remote": "",
-      "id": "f92e41c993f8090e453e45f9dd7ddc5387ad3e82",
-      "summary": "Instagram now has an Apple TV app, bringing Reels, longer videos and live shows to Apple’s streaming box for the first time. You can watch creators you follow, discover new videos and pick up where you left off on another device, and Instagram pitches it as a way to watch with friends and family. Apple’s metadata dates version 66.0 to Oct. 23, and an App Store listing from Oct. 19 still showed only iPhone and iPad support. Instagram’s TV app started as a test on Amazon Fire TV in December 2025, then reached Google TV in February and Samsung TVs in June. Meta said in June it would add longer creator content, episodic series and live broadcasts. The app requires tvOS 26.0 or later. It follows Instagram’s long-requested iPad app, which arrived in September 2025."
-    },
-    {
-      "n": 14,
-      "headline": "November’s LEGO lineup: the record-breaking Sagrada Família, Dragon Ball’s Shenron & Goku, a Venice Icons set and Cosy Plants",
-      "cat": "LEGO / New Sets",
-      "source": "Brick Fanatics",
-      "url": "https://www.brickfanatics.com/every-new-lego-set-launching-november-2026",
-      "image_local": "images/story-1423.jpg",
-      "image_remote": "https://www.brickfanatics.com/storage/uploads/6191300e-d8bb-4398-a417-b314bd4e2374.png",
-      "id": "478cd9319394a828805bc1713195460522fdb7e9",
-      "summary": "Only a handful of LEGO sets launch in November, but they include the biggest one ever. LEGO Insiders get early access on Nov. 1, and everyone else can buy them from Nov. 4. Insiders membership is free. The headliner is 21065 Sagrada Família, the Architecture tribute to Gaudí’s Barcelona basilica, which arrives five months after its reveal as the largest LEGO set ever by piece count. Dragon Ball debuts with the Icons set 11390 Dragon Ball: Shenron & Goku, ahead of a standalone theme planned for 2027. A second Icons set recreates the Italian city of Venice and comes with November’s only gift-with-purchase, which matches the set. Botanicals adds 10371 Cosy Plants, with new accessories and a plant that breaks from the theme’s usual upright designs."
-    },
-    {
-      "n": 15,
-      "headline": "Nicko McBrain says Iron Maiden failed Blaze Bayley by refusing to tune the songs down for his baritone",
-      "cat": "Music / Metal",
-      "source": "Blabbermouth",
-      "url": "https://blabbermouth.net/news/nicko-mcbrain-believes-iron-maiden-should-have-tuned-down-at-least-half-a-step-to-accommodate-blaze-bayleys-singing-voice",
-      "image_local": "images/story-1424.jpg",
-      "image_remote": "https://assets.blabbermouth.net/media/nickomcbrainoct2026classic_638.jpg",
-      "id": "10e60bceefb63f3cac9877a692d736f153d9b471",
-      "summary": "Former Iron Maiden drummer Nicko McBrain, promoting his autobiography “Hello Boys And Girls!”, told Classic Album Review that the band should have helped Blaze Bayley more during his 1994–1999 run as singer. “We didn’t transpose the songs. We should have gone down a note … half a step or a full step,” he said. He noted that Bruce Dickinson’s range is “soprano, almost” while Bayley is a baritone, and that the “Virtual XI” tour “was really tough for him.” McBrain called that period “like a dark cloud” in his life. He also admitted he was the most outspoken member about how Dickinson left, announcing his exit halfway through the “Fear Of The Dark” tour, and said there was “a lot of bad blood.” He praised the 2000 reunion album “Brave New World,” recorded in Paris with producer Kevin Shirley, and the return of guitarist Adrian Smith, whom he called the band’s commercial songwriter."
-    },
-    {
-      "n": 16,
-      "headline": "Tracy G on quitting Dio: after six years on lead, Ronnie asked him to play rhythm, and he walked",
-      "cat": "Guitar / Metal",
-      "source": "Guitar World",
-      "url": "https://www.guitarworld.com/artists/guitarists/tracy-g-on-why-he-quit-the-dio-band",
-      "image_local": "images/story-1425.jpg",
-      "image_remote": "https://cdn.mos.cms.futurecdn.net/iugfWHaLQSmhSYrHWzXprK-1200-80.jpg",
-      "id": "1e7b3830d430cdfe9a6e3078a1c69c3f2be2603c",
-      "summary": "Tracy Grijalva, known as Tracy G, played guitar for Ronnie James Dio from 1993 to 1999. In a preview of an upcoming Guitar World interview, he explains why he left. He auditioned twice after Dio’s second exit from Black Sabbath, got the call from drummer Vinny Appice, and debuted with Dokken bassist Jeff Pilson on 1993’s “Strange Highways,” followed by 1996’s “Angry Machines.” He says his heavier, grunge-era sound wasn’t chasing trends: “That’s just the way I play.” It ended when Dio brought back “Dream Evil” guitarist Craig Goldy on lead, which Grijalva believes management and the label wanted. “I had played guitar and lead guitar for Ronnie for six years, and now he asked me to play rhythm,” he says. “If you take that from me, then I’m out.” He insists there was no feud, but when he called Dio’s office the next Christmas to leave a holiday message, “I never heard back from him again.”"
-    },
-    {
-      "n": 17,
-      "headline": "Houdini died 100 years ago this Halloween, and a surgeon now says the famous stomach-punch story was an insurance cover-up",
-      "cat": "History / Mysteries",
-      "source": "CBS News Sunday Morning",
-      "url": "https://www.cbsnews.com/news/the-mystery-of-houdinis-death/",
-      "image_local": "images/story-1426.jpg",
-      "image_remote": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/25/0ac8ebff-f602-45ee-bfb7-2ef95af9e6c9/thumbnail/1200x630g2/2db52f7d8c5a6f98e67ca13ffd5cc7d0/houdini-getty-841028488-1280jpg.jpg",
-      "id": "3bc810c4fb69ccc36089d38359af5fce4eb57c9a",
-      "summary": "Harry Houdini, born Erik Weisz in Hungary in 1874 and raised in Wisconsin, died 100 years ago this week at age 52. Historian Roger Dreyer says the Metamorphosis Trunk first made him bookable, and then the handcuff, straitjacket and upside-down water-tank escapes made him a legend. He later spent his final years exposing fake spiritualist mediums. The usual account says he died of appendicitis made worse by a college student’s surprise punches to his stomach. Surgeon Larrian Gillespie’s new book, “Houdini: The Man Who Died Twice,” argues his death certificate was altered and that an intestinal blockage and an unreported last-minute surgery killed him. She says his team pushed the punch story because his double-indemnity policy paid about $500,000 more, in today’s money, for an accidental death. She also argues he may have died on Oct. 30, not on Halloween. The current owner of Houdini’s Harlem townhouse is holding a séance there this weekend, as fans do every year."
-    },
-    {
-      "n": 18,
-      "headline": "Britain is paying $81 million for a robotic “garbage truck” with claws to grab dead satellites and drag them out of orbit",
-      "cat": "Science / Space",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/tech/giant-robotic-claws-grab-dead-satellites-space",
-      "image_local": "images/story-1427.jpg",
-      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/robotic-space-claws.jpg",
-      "id": "273de83d0286f3c69a33d6917011eab6753c9b1c",
-      "summary": "The UK Space Agency has picked ClearSpace UK to build a spacecraft that captures dead satellites with a robotic claw system and drags them down to burn up in the atmosphere, under a contract worth about $81 million. The Active Debris Removal mission is set to launch in 2029 from SaxaVord Spaceport in Shetland, and its first job is to remove two defunct UK satellites by 2032. The craft has to match the motion of targets that may be tumbling at around 17,000 mph. After securing one, it moves it into a lower orbit and releases it. It is being designed for refueling and reuse, so one spacecraft could clear several pieces of junk. ESA tracks about 47,140 objects in orbit and estimates there are millions of smaller fragments. Even a 1-centimeter piece can disable a spacecraft, and ESA’s 2026 report says active removal will be needed to stop collisions from multiplying the debris."
-    },
-    {
-      "n": 19,
+      "n": 20,
       "headline": "Trumbull’s Kids Pumpkin Fest is Sunday on the Town Hall Green with pumpkin decorating, a live DJ and touch-a-truck",
       "cat": "Local / Trumbull CT",
       "source": "Patch Trumbull",
@@ -209,17 +220,6 @@
       "image_remote": "https://patch.com/img/cdn20/users/22878689/20261021/061907/styles/patch_image/public/img-3273___21180726116.jpg",
       "id": "dfe92765169a6882e7b5e4911b702364acb17725",
       "summary": "Trumbull’s annual Kids Pumpkin Fest runs this Sunday, Oct. 25, from 10 a.m. to 1 p.m. on the Town Hall Green at 5866 Main Street, Patch reports. The free family event features pumpkin decorating, face painting, lawn games, crafts and a live DJ, plus a touch-a-truck with the Long Hill Fire and Trumbull Police departments and crafts with the Trumbull Nature and Arts Center. Mobile coffee trailer Brewberry Cafe will serve a seasonal menu."
-    },
-    {
-      "n": 20,
-      "headline": "Trumbull this week: a hearing on a one-year data center moratorium, early voting opens Monday at the library, and a Town Hall Halloween parade",
-      "cat": "Local / Trumbull CT",
-      "source": "Trumbull Patch",
-      "url": "https://patch.com/connecticut/trumbull/5-things-know-trumbull-early-voting-begins-town-hall-halloween-parade-more",
-      "image_local": "images/story-1169.jpg",
-      "image_remote": "https://patch.com/img/cdn20/users/22878689/20261016/023807/styles/patch_image/public/img-3273___16143431901.jpg",
-      "id": "3f361dc9eb3a064a935b8fa723844392c409b2d2",
-      "summary": "Trumbull’s Planning and Zoning Commission will hold a public hearing Wednesday on a proposed text amendment that would define data centers as their own principal use in the town’s zoning rules and put a one-year moratorium on them, according to the meeting agenda, Patch reports in its weekly look at what’s coming up in town. Early voting for the Nov. 3 election runs Monday, Oct. 19, through Sunday, Nov. 1, at the Trumbull Library, from 10 a.m. to 6 p.m., with longer 8 a.m. to 8 p.m. hours on Oct. 27 and Oct. 29, according to the town clerk. Patch also points to First Selectman Vicki Tesoro’s statement on the proposed high-density housing development at 1, 7 and 15 Main St. in Monroe, near the Coventry Lane area of Trumbull; no application is pending in Trumbull, and residents can send comments to the Monroe Planning and Zoning Commission. The Commission on Aging will hear an update on fraud prevention and a Senior Center report, and preschoolers can trick-or-treat through Town Hall in the annual Halloween parade, which has two sessions of 20 children each and requires registration."
     }
   ]
 }

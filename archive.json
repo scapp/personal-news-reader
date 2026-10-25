@@ -1598,7 +1598,16 @@
     "51cd665d841f0740d73c15a50d18601e4dd2f68f",
     "677eae266e0e28e01a4f20d877f1fb1baae7ef21",
     "6bffee9c13e86ea3f1f18819c3eafd5a96730630",
-    "1ad9866516df2443acd4f2258c8038f4dd4db62c"
+    "1ad9866516df2443acd4f2258c8038f4dd4db62c",
+    "209ace9be97dd7b85ff7c5066687d82494242456",
+    "0592aa5a712721ee113892ffa8ede8df4625fa50",
+    "b5641e8cc35df593936a9071e02528493fb15f9b",
+    "1ad64bcf3842e628d6a7f530d2403322ea14df2c",
+    "da5e9b7ac4963e2c148d8f509a0fc2a9c2796517",
+    "99a066e0be35af43afa4af909053c03d235e8baf",
+    "10824d0dd31f6d4e33f9e6479ba67abcffe7d590",
+    "9ce5321d0f6c748eb29288a8a354ee52e039f570",
+    "86e095d6087890bbe61cd652403040271eb22ecd"
   ],
   "stories": {
     "0c2ac7a5e342411678296315c4c59043b1f067cc": {
@@ -18946,7 +18955,97 @@
       "image_remote": "https://petapixel.com/assets/uploads/2026/10/2026_Commonwealth-Games-Sports-Photography_AC-001.jpg",
       "image_local": "images/story-1433.jpg",
       "id": "1ad9866516df2443acd4f2258c8038f4dd4db62c"
+    },
+    "209ace9be97dd7b85ff7c5066687d82494242456": {
+      "headline": "Steelers beat the Saints 16-10 in Paris, the NFL’s first game in France, on Payton Wilson’s diving interception",
+      "cat": "Sports / Steelers",
+      "source": "Steelers.com",
+      "url": "https://www.steelers.com/news/steelers-beat-saints-16-10-in-paris",
+      "summary": "The Steelers won the NFL’s first-ever game in France, beating the Saints 16-10 at Stade de France on Sunday, and now own the league’s first regular-season wins in both Dublin and Paris. The biggest play came midway through the third quarter. With New Orleans at the 10-yard line threatening to take the lead after a 14-play, 68-yard drive, linebacker Payton Wilson dove to intercept Tyler Shough at the 11 and returned it 18 yards. Chris Boswell’s 38-yard field goal followed. Pittsburgh’s defense held the Saints to 18 rushing yards, while Jaylen Warren ran for 101 yards and Rico Dowdle added 86 yards from scrimmage. Steelers fans made the “home” Saints crowd feel like a neutral site. Pittsburgh improves to 5-2; New Orleans falls to 2-5.",
+      "image_remote": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/steelers/knwgibxybvzp7xzbvpmk",
+      "image_local": "images/story-1434.jpg",
+      "id": "209ace9be97dd7b85ff7c5066687d82494242456"
+    },
+    "0592aa5a712721ee113892ffa8ede8df4625fa50": {
+      "headline": "Jets lose 28-25 at home to the previously winless Dolphins after stalling at the 1-yard line",
+      "cat": "Sports / Jets",
+      "source": "Gang Green Nation",
+      "url": "https://www.ganggreennation.com/new-york-jets-scores-results/97915/jets-vs-dolphins-dolphins-deal-disgraceful-jets-humiliating-loss",
+      "summary": "The Jets fell 28-25 to a Miami team that had not won all season, and had not even led a game, at MetLife Stadium on Sunday. Malik Willis and the Dolphins drove at will early and led 21-7 at halftime, helped by a Geno Smith red-zone interception. New York clawed back with Omar Cooper and Mason Taylor touchdowns, but the turning point came in the fourth quarter. With first-and-goal inside the 1, the Jets went backwards three straight plays and settled for a field goal. Miami answered with a long Caleb Douglas touchdown. Taylor’s late TD and two-point catch made it 28-25, but the Jets never got the ball back after Miami converted a fourth-and-1 with two minutes left. Jason Sanders also hit the upright on a field goal try.",
+      "image_remote": "https://platform.ganggreennation.com/wp-content/uploads/sites/86/2026/10/gettyimages-2301958834.jpg?quality=90&strip=all&w=1200",
+      "image_local": "images/story-1435.jpg",
+      "id": "0592aa5a712721ee113892ffa8ede8df4625fa50"
+    },
+    "b5641e8cc35df593936a9071e02528493fb15f9b": {
+      "headline": "Venezuelan opposition leader María Corina Machado makes a surprise return home after ten months abroad",
+      "cat": "World / Venezuela",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/10/25/nx-s1-6016222/venezuela-maria-corina-machado-leader-returns-exile",
+      "summary": "Nobel Peace Prize laureate María Corina Machado has returned to Venezuela after ten months abroad, announcing “I am here. With you.” on social media. Her first public appearance was among worshippers at the Church of Santa Rosa in Lara State, where an ecstatic crowd surrounded her. Her return challenges interim President Delcy Rodríguez, who took over after U.S. forces captured Nicolás Maduro in January. Machado has pushed for elections soon, while Washington says Venezuela must stabilize first, and the Trump administration has repeatedly sidelined her. Leaving the White House Sunday, President Trump said he knew nothing about her return, called her “a very nice woman” who had given him her Nobel Prize, and added, “I hope she’s safe.” Exiled opposition figure Edmundo González said he expects to join her soon.",
+      "image_remote": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8127x4571+0+63/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F1f%2Fe3%2F62c605ef41b1a3e06cbf2c0635ef%2Fap26295737413336.jpg",
+      "image_local": "images/story-1436.jpg",
+      "id": "b5641e8cc35df593936a9071e02528493fb15f9b"
+    },
+    "1ad64bcf3842e628d6a7f530d2403322ea14df2c": {
+      "headline": "Elvis Presley’s rights holders sue Anthropic, saying its Claude AI was trained on 274 of his songs without a license",
+      "cat": "AI / Courts",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/tech/tech-news/elvis-presleys-rights-holders-sue-anthropic-saying-trained-ai-music-rcna605551",
+      "summary": "The owners of Elvis Presley’s music have sued AI company Anthropic, accusing it of using the lyrics to 274 of his songs without permission or payment to train its Claude models. The songs include “All Shook Up,” “Can’t Help Falling in Love,” “Don’t Be Cruel” and “Return to Sender.” Authentic Brands Group, which controls Presley’s intellectual property, filed the suit Friday along with other rights owners. They say the infringement ran through “the entire development” of Claude and continues as users generate copies or unauthorized adaptations of the songs. The complaint says Anthropic “built its entire business model on infringing copyrights at an unfathomable scale.” Anthropic says it disagrees and will “defend this case fully.” Last year it paid a record $1.5 billion to settle a lawsuit by authors over pirated books.",
+      "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261025-elvis-presley-mn-1400-39a197.jpg",
+      "image_local": "images/story-1437.jpg",
+      "id": "1ad64bcf3842e628d6a7f530d2403322ea14df2c"
+    },
+    "da5e9b7ac4963e2c148d8f509a0fc2a9c2796517": {
+      "headline": "The OLED iPad mini 8 is expected this week, with an A20 Pro chip, water resistance and a likely $799 price",
+      "cat": "Apple / iPad",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/10/25/ipad-mini-8-redesign-with-oled-coming-this-week/",
+      "summary": "Apple is expected to unveil a new iPad mini this week, its first display overhaul since 2021. The headline change is an OLED screen. It won’t be the Tandem OLED used in the iPad Pro, but it should still bring richer color, better contrast and more brightness. It’s not yet clear whether it gets a 120Hz ProMotion display. The chip is rumored to jump from the A17 Pro with 8GB of memory to the A20 Pro with 12GB, with about 60% faster multi-core CPU and 166% faster graphics, enough to run Apple’s newer on-device Siri AI features. Apple is also reportedly making it the first water-resistant iPad, using a new casing and redesigned speakers. The catch is price: Bloomberg’s Mark Gurman says it could start at $799, up from $599 today.",
+      "image_remote": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/ipad-mini-touch-id-button-top.jpg?quality=82&strip=all&resize=1200,628",
+      "image_local": "images/story-1438.jpg",
+      "id": "da5e9b7ac4963e2c148d8f509a0fc2a9c2796517"
+    },
+    "99a066e0be35af43afa4af909053c03d235e8baf": {
+      "headline": "Trumbull this week: early voting’s final week at the library, a Town Hall Halloween parade for preschoolers, and a Hillcrest update",
+      "cat": "Local / Trumbull",
+      "source": "Patch Trumbull",
+      "url": "https://patch.com/connecticut/trumbull/5-things-know-trumbull-early-voting-ends-town-hall-halloween-parade-hillcrest",
+      "summary": "Early voting runs its final week in the Trumbull Library Community Room, 33 Quality St., from Monday, Oct. 26, through Sunday, Nov. 1. Hours are 10 a.m. to 6 p.m., extended to 8 a.m. to 8 p.m. on Tuesday and Thursday. Election Day is Tuesday, Nov. 3, with polls open 6 a.m. to 8 p.m. On Tuesday, Oct. 27, at 10 and 11:30 a.m., Town Hall staff host a costume parade and trick-or-treating past decorated office doors for registered Trumbull kids ages 0 to 5. Each session is limited to 20 children. That evening the Hillcrest Middle School Building Committee gets project updates and the EMS Commission reviews vehicles, staffing and plans for Trumbull EMS’s 50th anniversary. The Conservation Commission meets Wednesday on tree rules and a spring 2027 tree giveaway.",
+      "image_remote": "",
+      "image_local": "",
+      "id": "99a066e0be35af43afa4af909053c03d235e8baf"
+    },
+    "10824d0dd31f6d4e33f9e6479ba67abcffe7d590": {
+      "headline": "David Ellefson watched Megadeth from the crowd at Louder Than Life: “There’s Dave and three other guys playing our songs”",
+      "cat": "Music / Metal",
+      "source": "Loudwire",
+      "url": "https://loudwire.com/david-ellefson-megadeth-louder-than-life-rearview-mirror-moment/",
+      "summary": "Former Megadeth bassist David Ellefson, now in Metal Church, says watching his old band at Louder Than Life in September was a “rearview mirror moment,” like seeing his very first Megadeth concert. Both bands played the festival’s main stage on Sept. 17, about five hours apart. On his podcast, Ellefson said he never ran into Dave Mustaine backstage (“he walked out maybe when I walked in”), but he did say hello to guitarist Teemu Mäntysaari and catch up with Dirk Verbeuren and James LoMenzo. He watched the set from front of house with Metal Church drummer Ken Mary: “There’s Dave and three other guys playing our songs.” Five years after leaving, he says his era is “my Megadeth.” He’s about to play Countdown to Extinction across Europe for three weeks with Bass Warrior.",
+      "image_remote": "https://townsquare.media/site/366/files/2026/10/attachment-david_ellefson_megadeth_louder_than_life_2026_rearview_mirror_moment.jpg?w=1200&q=75&format=natural",
+      "image_local": "images/story-1439.jpg",
+      "id": "10824d0dd31f6d4e33f9e6479ba67abcffe7d590"
+    },
+    "9ce5321d0f6c748eb29288a8a354ee52e039f570": {
+      "headline": "LEGO House’s secret Designer Evening giveaways are revealed, including an up-scaled Blacktron Spacebaby",
+      "cat": "LEGO",
+      "source": "Brick Fanatics",
+      "url": "https://www.brickfanatics.com/lego-house-designer-evening-builds-revealed",
+      "summary": "Two LEGO House exclusives that were handed out only at the Billund attraction’s small Designer Fan Evenings have surfaced online, posted by the collector behind Instagram’s rarest_lego_minifigures. The first is an up-scaled Blacktron Spacebaby, a take on the 40767 Up-Scaled Baby Astronaut with a visor and brick-built torso details. It likely comes from a space-themed evening in April. The second is a pair of LEGO House hot-rod cars plus a LEGO delivery truck with two minifigures, probably from a car-themed event in June. Neither build seems to use exclusive parts or unique prints, so fans should be able to recreate them from their own bricks or Pick a Brick if instructions surface. The next Designer Evening, on the Modular Buildings Collection, is Dec. 7.",
+      "image_remote": "https://www.brickfanatics.com/storage/uploads/b69ee80b-a48b-4e62-9f93-da5cbdea1856.png",
+      "image_local": "images/story-1440.jpg",
+      "id": "9ce5321d0f6c748eb29288a8a354ee52e039f570"
+    },
+    "86e095d6087890bbe61cd652403040271eb22ecd": {
+      "headline": "8BitDo’s $120 button-only Arcade Controller Pro is up for pre-order, with a built-in screen and a magnetic wrist rest",
+      "cat": "Gadgets / Gaming",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2296362/8bitdos-latest-button-only-arcade-controller-is-now-up-for-preorder/",
+      "summary": "8BitDo’s Arcade Controller Pro, a leverless “all buttons, no joystick” fight stick aimed at serious fighting-game players, is now up for pre-order at $119.99 and ships Nov. 30. Compared with the original $89.99 Arcade Controller, it has smaller, more tightly spaced buttons and more programmable buttons. A 1.47-inch display handles input monitoring, custom button mapping and RGB lighting changes. A magnetic wrist rest attaches to the bottom for long sessions and hides five spare button caps inside. It also packs a 3,000mAh battery that fully recharges in about four hours. It comes in N Edition and White colors.",
+      "image_remote": "https://www.engadget.com/img/gallery/8bitdos-latest-button-only-arcade-controller-is-now-up-for-pre-order/l-intro-1792946449.jpg",
+      "image_local": "images/story-1441.jpg",
+      "id": "86e095d6087890bbe61cd652403040271eb22ecd"
     }
   },
-  "updated": "Sunday, October 25, 2026 · 11:37 AM ET"
+  "updated": "Sunday, October 25, 2026 · 4:07 PM ET"
 }
