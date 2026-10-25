@@ -1565,7 +1565,13 @@
     "bf57660b8bc57b9dfebbc5de7575d7850d5502c4",
     "6193a102466b2e6f5bab75d494b7a11430f3b0a7",
     "ac63eb369384900ab770b674f5ca3b6c0365cca7",
-    "75e15ec286e7b5abb765a3b714c6a33402206555"
+    "75e15ec286e7b5abb765a3b714c6a33402206555",
+    "4c1380acc3e59b745fbe95a847ffc65ff52d8d5d",
+    "8406580946d725757fa47f4f913a0546a5a54807",
+    "a9f3355f2363e613a46e6f535215044f74e29454",
+    "deee0576f7fda9331804eb4c28ef476639adf410",
+    "dd7bd0cdc51ff35f925e3dbdf0dd0597dfaa4fd7",
+    "2e2817f0b6cedccc2d7354779907ea9640f8fa4d"
   ],
   "stories": {
     "0c2ac7a5e342411678296315c4c59043b1f067cc": {
@@ -18583,7 +18589,67 @@
       "image_remote": "https://runway-media-production.global.ssl.fastly.net/us/originals/2026/02/emirates-777.jpeg",
       "image_local": "images/story-1405.jpg",
       "id": "75e15ec286e7b5abb765a3b714c6a33402206555"
+    },
+    "4c1380acc3e59b745fbe95a847ffc65ff52d8d5d": {
+      "headline": "Koivunen wins it in overtime after Rakell ties it with 1:06 left as the Penguins rally past the Predators 3-2",
+      "cat": "Sports / NHL",
+      "source": "NHL.com",
+      "url": "https://www.nhl.com/news/nashville-predators-pittsburgh-penguins-game-recap-october-24-2026",
+      "summary": "Ville Koivunen scored 3:44 into overtime and the Pittsburgh Penguins came back to beat the Nashville Predators 3-2 at PPG Paints Arena on Saturday night, their second straight win after a four-game losing streak. Koivunen briefly lost the puck before collecting it and skating into the high slot for a snap shot. Rickard Rakell forced overtime at 18:54 of the third period, one-timing a cross-ice pass from Sidney Crosby for his second goal in three games after a nine-game drought to open the season. Connor Dewar also scored, 18 seconds into the second period, and Arturs Silovs made 24 saves. Steven Stamkos and Jayden Struble scored for Nashville, and Juuse Saros stopped 34 shots. Evgeni Malkin, tied with Nick Robertson for the team lead with six goals, sat out with an illness. The Penguins are now 5-6-1 and have earned points in nine straight meetings with the Predators (8-0-2).",
+      "image_remote": "https://media.d3.nhle.com/image/private/t_ratio16_9-size50/prd/uokgz4e1mjq2p3ggnbqn.jpg",
+      "image_local": "images/story-1406.jpg",
+      "id": "4c1380acc3e59b745fbe95a847ffc65ff52d8d5d"
+    },
+    "8406580946d725757fa47f4f913a0546a5a54807": {
+      "headline": "A massive Ukrainian drone swarm hits Belgorod overnight, reportedly targeting the city’s biggest shopping mall, a day after Starlink speeds were restored",
+      "cat": "World / Ukraine",
+      "source": "Kyiv Independent",
+      "url": "https://kyivindependent.com/massive-ukrainian-drone-attack-hits-shopping-center-in-russias-belgorod-oblast-locals-say/",
+      "summary": "A large swarm of Ukrainian drones attacked the Russian border city of Belgorod overnight into Oct. 25, according to local officials and eyewitness video. Locals said most of the drones converged on the city center, and the monitoring channel Exilenova-Plus said the target was MegaGRINN, Belgorod’s largest shopping and entertainment complex, with more than 200 stores, a supermarket and a cinema. The center was closed and empty at the time. Regional authorities confirmed a “massive UAV attack,” said one civilian was killed and 10 were injured, and told residents to stay indoors as attacks continued; residents also reported a fire in the courtyard of a nearby apartment complex. The Kyiv Independent said it could not independently verify the reports. Belgorod sits about 21 miles from the Ukrainian border and is a frequent target. The strike came a day after Ukraine said its Starshield satellite service, throttled since Oct. 14, had been restored to full speed, helping troops coordinate drone attacks.",
+      "image_remote": "https://assets.kyivindependent.com/content/images/2026/10/belgorod_20261024-223458.jpg",
+      "image_local": "images/story-1407.jpg",
+      "id": "8406580946d725757fa47f4f913a0546a5a54807"
+    },
+    "a9f3355f2363e613a46e6f535215044f74e29454": {
+      "headline": "The Archdiocese of New York agrees to pay $800 million to about 1,300 people who say they were sexually abused by clergy and lay workers",
+      "cat": "Courts / Church",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/10/24/nx-s1-6015522/new-york-archdiocese-settlement-agreement",
+      "summary": "The Archdiocese of New York has agreed to pay $800 million to settle claims from some 1,300 people who say they were sexually abused by clergy members and lay workers, one of the largest settlements of its kind in the Catholic Church. Jeff Anderson, whose firm represents more than 250 of the plaintiffs, said the deal is final pending signed paperwork and that all plaintiffs have agreed to it. In an email to priests on Saturday, Archbishop Ronald Hicks said an agreement had been reached and that the archdiocese was “on the verge of being able to, please God, bring some measure of healing and reconciliation to all victim-survivors,” and to turn its attention back to its mission. Anderson said his clients feel both sorrow and “a real sense of relief and achievement.” The archdiocese entered mediation in December 2025 and had laid off staff and planned to sell Manhattan properties to raise $300 million. In 2024 the Archdiocese of Los Angeles agreed to an $880 million settlement.",
+      "image_remote": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8133x4575+0+425/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa3%2F15%2Fae6c610d4cbdbb57cd01626acc9b%2Fap25111612404369.jpg",
+      "image_local": "images/story-1408.jpg",
+      "id": "a9f3355f2363e613a46e6f535215044f74e29454"
+    },
+    "deee0576f7fda9331804eb4c28ef476639adf410": {
+      "headline": "An Alabama man said he found his wife dead of a self-inflicted gunshot in his Tesla — grainy security video helped convict him of capital murder",
+      "cat": "Crime / Courts",
+      "source": "CBS News (48 Hours)",
+      "url": "https://www.cbsnews.com/news/savannah-tolbert-david-tolbert-huntsville-alabama-shooting-death-security-cameras-48-hours/",
+      "summary": "On Nov. 15, 2022, David Tolbert told Huntsville, Alabama, police he had opened the door of his red Tesla outside the store where he worked and found his wife, 37-year-old Savannah Tolbert, dead in the passenger seat with a gun in her right hand. Investigators quickly doubted it was a suicide: the gun was in her right hand but the wound was on the left side of the back of her head, a shell casing was found on the rear seat, and the retired corrections officer tested positive for gunshot residue. The couple had been living apart, and police learned he was having an affair with a woman he had coached on her own Tesla. Detectives synced the store’s cameras with distant, grainy parking-lot video from a neighboring pool store, which showed Savannah getting into the car and, about 20 minutes later, a figure investigators identified as David at the driver’s door before the taillights flashed. His explanation for the residue, a toy cannon in the trunk, didn’t match the video. A jury convicted him, and he is serving life without parole, “48 Hours” reports.",
+      "image_remote": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/25/424e9fed-d1a3-4ce2-a2e2-c81f744e733e/thumbnail/1200x630/0b94f52ca7bb7462e4c43bfcca7135e8/tolbery-valleypools-cu.jpg",
+      "image_local": "images/story-1409.jpg",
+      "id": "deee0576f7fda9331804eb4c28ef476639adf410"
+    },
+    "dd7bd0cdc51ff35f925e3dbdf0dd0597dfaa4fd7": {
+      "headline": "Tesla’s new Roadster makes its first public appearance at LA’s Petersen Museum — look, don’t touch, through Tuesday",
+      "cat": "Tesla / Autos",
+      "source": "Not a Tesla App",
+      "url": "https://www.notateslaapp.com/news/4891/new-tesla-roadster-now-on-display-at-las-petersen-museum",
+      "summary": "Tesla’s new Roadster is on display at the Petersen Automotive Museum in Los Angeles from Oct. 24 through Oct. 27 in the main lobby, the public’s first chance to see the car since its unveiling at SpaceX’s McGregor, Texas, test site earlier this month. The museum lists it as the 2028 Tesla Roadster Thrust Prototype — not the invite-only Rocket version that drove upside down at the reveal — and calls it Tesla’s “last best driver’s car.” Tesla plans four trims: the standard car makes about 1,340 horsepower; Performance adds suction fans and adaptive suspension for 0-60 mph in under 1.6 seconds; Thrust adds a cold-gas thruster system with four rear nozzles that hit 0-60 in 0.81 seconds at the unveiling; and the single-seat Rocket adds more nozzles and can briefly fly. Thrust is the trim original Founders Series reservations were converted to. The exhibit is roped off, so visitors can only look and take photos, and the prototype has no side mirrors, though U.S. production cars will. Production is set for 2028, with refundable deposits of $50,000 for Performance and $250,000 for Thrust.",
+      "image_remote": "https://www.notateslaapp.com/img/containers/article_images/roadster/roadster-display-petersen-museum.webp/726250baded438fcd0e8b03f96833fab/roadster-display-petersen-museum.jpg",
+      "image_local": "images/story-1410.jpg",
+      "id": "dd7bd0cdc51ff35f925e3dbdf0dd0597dfaa4fd7"
+    },
+    "2e2817f0b6cedccc2d7354779907ea9640f8fa4d": {
+      "headline": "Marty Friedman: Nick Menza’s drumming is “a huge reason why we weren’t just kind of an underground thrash metal band”",
+      "cat": "Music / Metal",
+      "source": "Blabbermouth",
+      "url": "https://blabbermouth.net/news/marty-friedman-nick-menzas-drumming-was-a-big-reason-why-megadeth-became-as-popular-in-the-mainstream-as-we-did",
+      "summary": "Former Megadeth guitarist Marty Friedman told Chile’s La Pajarera podcast that the late drummer Nick Menza deserves more credit for the band’s mainstream success. “A big reason why Megadeth became as popular in the mainstream as we did was because of Nick,” Friedman said. “Nick’s playing is not a typical thrash metal drummer style. It’s very mainstream… there’s not a lot of heavy metal clichés.” Combined with Dave Mustaine’s riffs, he said, Menza’s beat “elevated us to stadium level.” Menza collapsed behind his kit from a heart attack during a 2016 show with the band OHM at the Baked Potato in Studio City, California, and was pronounced dead at the hospital. Mustaine has said he wanted Menza and Friedman back in Megadeth after Chris Broderick and Shawn Drover left in 2014; Menza began working on new material but walked away over what he called a “very unfair” contract, about a year and a half before he died.",
+      "image_remote": "https://assets.blabbermouth.net/media/martyfriedmanpajaoct2026_638.jpg",
+      "image_local": "images/story-1411.jpg",
+      "id": "2e2817f0b6cedccc2d7354779907ea9640f8fa4d"
     }
   },
-  "updated": "Saturday, October 24, 2026 · 6:08 PM ET"
+  "updated": "Saturday, October 24, 2026 · 10:10 PM ET"
 }

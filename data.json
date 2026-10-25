@@ -1,8 +1,74 @@
 {
-  "updated": "Saturday, October 24, 2026 · 6:08 PM ET",
+  "updated": "Saturday, October 24, 2026 · 10:10 PM ET",
   "stories": [
     {
       "n": 1,
+      "headline": "Koivunen wins it in overtime after Rakell ties it with 1:06 left as the Penguins rally past the Predators 3-2",
+      "cat": "Sports / NHL",
+      "source": "NHL.com",
+      "url": "https://www.nhl.com/news/nashville-predators-pittsburgh-penguins-game-recap-october-24-2026",
+      "image_local": "images/story-1406.jpg",
+      "image_remote": "https://media.d3.nhle.com/image/private/t_ratio16_9-size50/prd/uokgz4e1mjq2p3ggnbqn.jpg",
+      "id": "4c1380acc3e59b745fbe95a847ffc65ff52d8d5d",
+      "summary": "Ville Koivunen scored 3:44 into overtime and the Pittsburgh Penguins came back to beat the Nashville Predators 3-2 at PPG Paints Arena on Saturday night, their second straight win after a four-game losing streak. Koivunen briefly lost the puck before collecting it and skating into the high slot for a snap shot. Rickard Rakell forced overtime at 18:54 of the third period, one-timing a cross-ice pass from Sidney Crosby for his second goal in three games after a nine-game drought to open the season. Connor Dewar also scored, 18 seconds into the second period, and Arturs Silovs made 24 saves. Steven Stamkos and Jayden Struble scored for Nashville, and Juuse Saros stopped 34 shots. Evgeni Malkin, tied with Nick Robertson for the team lead with six goals, sat out with an illness. The Penguins are now 5-6-1 and have earned points in nine straight meetings with the Predators (8-0-2)."
+    },
+    {
+      "n": 2,
+      "headline": "A massive Ukrainian drone swarm hits Belgorod overnight, reportedly targeting the city’s biggest shopping mall, a day after Starlink speeds were restored",
+      "cat": "World / Ukraine",
+      "source": "Kyiv Independent",
+      "url": "https://kyivindependent.com/massive-ukrainian-drone-attack-hits-shopping-center-in-russias-belgorod-oblast-locals-say/",
+      "image_local": "images/story-1407.jpg",
+      "image_remote": "https://assets.kyivindependent.com/content/images/2026/10/belgorod_20261024-223458.jpg",
+      "id": "8406580946d725757fa47f4f913a0546a5a54807",
+      "summary": "A large swarm of Ukrainian drones attacked the Russian border city of Belgorod overnight into Oct. 25, according to local officials and eyewitness video. Locals said most of the drones converged on the city center, and the monitoring channel Exilenova-Plus said the target was MegaGRINN, Belgorod’s largest shopping and entertainment complex, with more than 200 stores, a supermarket and a cinema. The center was closed and empty at the time. Regional authorities confirmed a “massive UAV attack,” said one civilian was killed and 10 were injured, and told residents to stay indoors as attacks continued; residents also reported a fire in the courtyard of a nearby apartment complex. The Kyiv Independent said it could not independently verify the reports. Belgorod sits about 21 miles from the Ukrainian border and is a frequent target. The strike came a day after Ukraine said its Starshield satellite service, throttled since Oct. 14, had been restored to full speed, helping troops coordinate drone attacks."
+    },
+    {
+      "n": 3,
+      "headline": "The Archdiocese of New York agrees to pay $800 million to about 1,300 people who say they were sexually abused by clergy and lay workers",
+      "cat": "Courts / Church",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/10/24/nx-s1-6015522/new-york-archdiocese-settlement-agreement",
+      "image_local": "images/story-1408.jpg",
+      "image_remote": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8133x4575+0+425/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa3%2F15%2Fae6c610d4cbdbb57cd01626acc9b%2Fap25111612404369.jpg",
+      "id": "a9f3355f2363e613a46e6f535215044f74e29454",
+      "summary": "The Archdiocese of New York has agreed to pay $800 million to settle claims from some 1,300 people who say they were sexually abused by clergy members and lay workers, one of the largest settlements of its kind in the Catholic Church. Jeff Anderson, whose firm represents more than 250 of the plaintiffs, said the deal is final pending signed paperwork and that all plaintiffs have agreed to it. In an email to priests on Saturday, Archbishop Ronald Hicks said an agreement had been reached and that the archdiocese was “on the verge of being able to, please God, bring some measure of healing and reconciliation to all victim-survivors,” and to turn its attention back to its mission. Anderson said his clients feel both sorrow and “a real sense of relief and achievement.” The archdiocese entered mediation in December 2025 and had laid off staff and planned to sell Manhattan properties to raise $300 million. In 2024 the Archdiocese of Los Angeles agreed to an $880 million settlement."
+    },
+    {
+      "n": 4,
+      "headline": "An Alabama man said he found his wife dead of a self-inflicted gunshot in his Tesla — grainy security video helped convict him of capital murder",
+      "cat": "Crime / Courts",
+      "source": "CBS News (48 Hours)",
+      "url": "https://www.cbsnews.com/news/savannah-tolbert-david-tolbert-huntsville-alabama-shooting-death-security-cameras-48-hours/",
+      "image_local": "images/story-1409.jpg",
+      "image_remote": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/25/424e9fed-d1a3-4ce2-a2e2-c81f744e733e/thumbnail/1200x630/0b94f52ca7bb7462e4c43bfcca7135e8/tolbery-valleypools-cu.jpg",
+      "id": "deee0576f7fda9331804eb4c28ef476639adf410",
+      "summary": "On Nov. 15, 2022, David Tolbert told Huntsville, Alabama, police he had opened the door of his red Tesla outside the store where he worked and found his wife, 37-year-old Savannah Tolbert, dead in the passenger seat with a gun in her right hand. Investigators quickly doubted it was a suicide: the gun was in her right hand but the wound was on the left side of the back of her head, a shell casing was found on the rear seat, and the retired corrections officer tested positive for gunshot residue. The couple had been living apart, and police learned he was having an affair with a woman he had coached on her own Tesla. Detectives synced the store’s cameras with distant, grainy parking-lot video from a neighboring pool store, which showed Savannah getting into the car and, about 20 minutes later, a figure investigators identified as David at the driver’s door before the taillights flashed. His explanation for the residue, a toy cannon in the trunk, didn’t match the video. A jury convicted him, and he is serving life without parole, “48 Hours” reports."
+    },
+    {
+      "n": 5,
+      "headline": "Tesla’s new Roadster makes its first public appearance at LA’s Petersen Museum — look, don’t touch, through Tuesday",
+      "cat": "Tesla / Autos",
+      "source": "Not a Tesla App",
+      "url": "https://www.notateslaapp.com/news/4891/new-tesla-roadster-now-on-display-at-las-petersen-museum",
+      "image_local": "images/story-1410.jpg",
+      "image_remote": "https://www.notateslaapp.com/img/containers/article_images/roadster/roadster-display-petersen-museum.webp/726250baded438fcd0e8b03f96833fab/roadster-display-petersen-museum.jpg",
+      "id": "dd7bd0cdc51ff35f925e3dbdf0dd0597dfaa4fd7",
+      "summary": "Tesla’s new Roadster is on display at the Petersen Automotive Museum in Los Angeles from Oct. 24 through Oct. 27 in the main lobby, the public’s first chance to see the car since its unveiling at SpaceX’s McGregor, Texas, test site earlier this month. The museum lists it as the 2028 Tesla Roadster Thrust Prototype — not the invite-only Rocket version that drove upside down at the reveal — and calls it Tesla’s “last best driver’s car.” Tesla plans four trims: the standard car makes about 1,340 horsepower; Performance adds suction fans and adaptive suspension for 0-60 mph in under 1.6 seconds; Thrust adds a cold-gas thruster system with four rear nozzles that hit 0-60 in 0.81 seconds at the unveiling; and the single-seat Rocket adds more nozzles and can briefly fly. Thrust is the trim original Founders Series reservations were converted to. The exhibit is roped off, so visitors can only look and take photos, and the prototype has no side mirrors, though U.S. production cars will. Production is set for 2028, with refundable deposits of $50,000 for Performance and $250,000 for Thrust."
+    },
+    {
+      "n": 6,
+      "headline": "Marty Friedman: Nick Menza’s drumming is “a huge reason why we weren’t just kind of an underground thrash metal band”",
+      "cat": "Music / Metal",
+      "source": "Blabbermouth",
+      "url": "https://blabbermouth.net/news/marty-friedman-nick-menzas-drumming-was-a-big-reason-why-megadeth-became-as-popular-in-the-mainstream-as-we-did",
+      "image_local": "images/story-1411.jpg",
+      "image_remote": "https://assets.blabbermouth.net/media/martyfriedmanpajaoct2026_638.jpg",
+      "id": "2e2817f0b6cedccc2d7354779907ea9640f8fa4d",
+      "summary": "Former Megadeth guitarist Marty Friedman told Chile’s La Pajarera podcast that the late drummer Nick Menza deserves more credit for the band’s mainstream success. “A big reason why Megadeth became as popular in the mainstream as we did was because of Nick,” Friedman said. “Nick’s playing is not a typical thrash metal drummer style. It’s very mainstream… there’s not a lot of heavy metal clichés.” Combined with Dave Mustaine’s riffs, he said, Menza’s beat “elevated us to stadium level.” Menza collapsed behind his kit from a heart attack during a 2016 show with the band OHM at the Baked Potato in Studio City, California, and was pronounced dead at the hospital. Mustaine has said he wanted Menza and Friedman back in Megadeth after Chris Broderick and Shawn Drover left in 2014; Menza began working on new material but walked away over what he called a “very unfair” contract, about a year and a half before he died."
+    },
+    {
+      "n": 7,
       "headline": "Trump and the first lady vote early in person in Palm Beach on Florida’s first day of early voting, then head to a Georgia rally",
       "cat": "Politics / Midterms",
       "source": "CBS News",
@@ -13,7 +79,7 @@
       "summary": "President Trump and first lady Melania Trump cast their midterm ballots in person Saturday at the Palm Beach County Supervisor of Elections building, on the first day of Florida’s early voting, which runs through Halloween. Earlier in the week the president had said he prefers to vote on Election Day, and in recent elections he has voted by mail even while criticizing widespread mail-in voting. After voting he flew to Perry, Georgia, for a rally backing Republican Reps. Mike Collins and Rick Jackson, calling them “two incredible people” and writing on Truth Social that their opponents “want to Take Away Your Guns, Open Your Borders, Allow Men To Play In Women’s Sports.” Trump has been on the road most days this week, with stops in South Carolina on Wednesday, Iowa on Thursday and Fort Myers, Florida, on Friday; his Election Day plans have not been announced."
     },
     {
-      "n": 2,
+      "n": 8,
       "headline": "Musk now admits SpaceX throttled Ukraine’s Starlink, saying Kyiv broke the terms by using it for offensive drone strikes",
       "cat": "Tech / Ukraine",
       "source": "CBS News",
@@ -24,7 +90,7 @@
       "summary": "Elon Musk said Saturday that SpaceX throttled Starlink service in Ukraine, after days of questions over who ordered the slowdown that disrupted front-line drone operations for more than a week. “Using Starlink, a civilian commercial service, for offensive drone strikes to kill people has never been allowed, nor should it be,” Musk wrote on X. “Ukraine military violated Starlink terms of service and used it for offensive drone strikes to kill people. That loophole was closed last week.” He maintained that the U.S. government controls changes to Starshield, SpaceX’s military-grade version that has become the backbone of Ukraine’s drone and communications network, and defended SpaceX’s role since 2022. President Trump had said he did not make the call. Musk’s post came after President Volodymyr Zelenskyy said speeds were restored overnight to pre-restriction levels, helping logistics and defense against Russia’s jet-powered Shahed drones. The restoration comes as Russia agreed to resume three-way talks with Washington and Kyiv next month, and a day after a localized ceasefire around Oleshky brokered by first lady Melania Trump."
     },
     {
-      "n": 3,
+      "n": 9,
       "headline": "France-style rioting spreads to Barcelona as hooded youths torch bins and try to loot a Foot Locker: “People were bored at home”",
       "cat": "World / Europe",
       "source": "Breitbart",
@@ -35,7 +101,7 @@
       "summary": "Hundreds of mostly young, hooded rioters dressed in black descended on central Barcelona on Saturday afternoon, smashing bus shelters, setting trash cans on fire, firing fireworks and flares at police and building barricades out of city bicycles, La Vanguardia reported. The gathering, billed vaguely as a protest “against the system,” was organized on social media without city approval, and some businesses closed early and locked their doors, at times trapping shoppers inside. “People were bored at home and came here, like in France,” one youth was quoted as saying; another said, “We’re not protesting about anything.” A third shouted, “Let’s all go to Foot Locker!”, though the store had already shut. A Vanguardia reporter described a crowd speaking Arabic, French, Spanish and Catalan that “basically sought to get free sneakers.” Catalonia’s leader, Salvador Illa, said the violence “has no place” in the city and vowed those responsible will pay; Catalan police confirmed arrests without giving a number. The unrest came as nationwide protests in France on Saturday led to more than 1,000 arrests, after copycat violence in Brussels and Milan in recent weeks."
     },
     {
-      "n": 4,
+      "n": 10,
       "headline": "Courts extend Second Amendment protection to switchblades and body armor as the Supreme Court readies its AR-15 ban case",
       "cat": "Courts / Second Amendment",
       "source": "Fox News",
@@ -46,7 +112,7 @@
       "summary": "Two federal rulings on Wednesday extended Second Amendment protection beyond firearms, energizing gun-rights advocates ahead of a Supreme Court showdown over bans on AR-15-style rifles. The Fifth Circuit Court of Appeals held that a federal law restricting interstate commerce in switchblade knives violates the Second Amendment, and a federal judge in the Western District of New York struck down the state’s restrictions on personal body armor; both courts found the items qualify as constitutionally protected “arms.” The Supreme Court is preparing to hear Viramontes v. Cook County, which could decide whether AR-15-style rifles are protected. Dudley Brown, president of the National Association for Gun Rights, which filed an amicus brief, told Fox News Digital that both lower-court cases will “really be decided” by the Viramontes ruling, and that a decision against AR-15 bans could shape challenges to limits on magazines, automatic knives and body armor. The rulings rest on the Heller and Bruen decisions, which protect weapons in common lawful use while allowing restrictions on “dangerous and unusual” arms."
     },
     {
-      "n": 5,
+      "n": 11,
       "headline": "Ric Flair, 77, spends the night in a Tampa hospital after a fall while battling a blood clot: “I Will Be Okay!”",
       "cat": "Sports / Wrestling",
       "source": "NBC News",
@@ -57,7 +123,7 @@
       "summary": "WWE legend Ric Flair was hospitalized after falling outside a Wagamama restaurant in Tampa on Friday, cutting his head and eye, while dealing with a blood clot in his leg. The 77-year-old, whose real name is Richard Morgan Fliehr, said on Instagram Saturday that he spent the night at Tampa General Hospital and thanked the staff and doctors “that put up with me until 4:30am,” posting a smiling photo with a patch over one eye. “I Am Focused On My Healing And Recovery Right Now… I Will Be Okay!” he wrote. His daughter, WWE star Charlotte Flair, joked on X: “Not my dad telling the doctor he fell bc of warrior dropping him on his head…(ps: he’s going to be ok).” Hours before the fall, Flair had canceled an appearance at the Washington State Horror Con in Seattle, saying doctors had limited his travel to three to four hours because of the clot, which he called “extremely serious,” and that he has a procedure scheduled to strip the affected vein."
     },
     {
-      "n": 6,
+      "n": 12,
       "headline": "Tesla’s Halloween Mode turns pedestrians into skeletons on the screen — but its Trick or Treat feature switches off Sentry Mode",
       "cat": "Tesla / Software",
       "source": "Yahoo Autos (MotorBiscuit)",
@@ -68,7 +134,7 @@
       "summary": "Tesla’s Halloween Mode, part of software update 2026.38.3, is rolling out to owners ahead of Oct. 31 and lives in the Toybox, according to Not a Tesla App. Once switched on, the car’s on-screen avatar becomes a glowing white sheet with eyes; in Park the display shows a graveyard, a haunted house and a zombie hand, and opening a real door opens the ghost car’s door too. On the road, nearby cars appear green and pedestrians show up as skeletons, and with Full Self-Driving (Supervised) engaged the planned path turns from blue to purple. There is also a creepy voice for remote speech. The headline feature is Trick or Treat, which plays spooky sounds and flickers the lights when someone walks up to the parked car — but turning it on disables Sentry Mode, the security alarm and walk-away lock, so owners should switch them back on afterward. Cars with older Intel-based touchscreens don’t get the full show; it needs the newer AMD Ryzen chip in the Model S, 3, X, Y and Cybertruck."
     },
     {
-      "n": 7,
+      "n": 13,
       "headline": "Twisted Sister’s Jay Jay French on Dee Snider: “He’s not end-of-life ill; he’s just end-of-career ill”",
       "cat": "Music / Metal",
       "source": "Blabbermouth",
@@ -79,7 +145,7 @@
       "summary": "Twisted Sister guitarist Jay Jay French told Detroit’s 94.7 WCSX that Dee Snider’s “health challenges,” which forced the singer to back out of the band’s 50th-anniversary reunion tour, are about performing, not survival. “If his doctors are telling him, ‘Don’t do it,’ if his family’s saying to him, ‘Please don’t do it, you’re putting yourself, your health, at risk,’ well, then you don’t do it,” French said. “He’s not end-of-life ill; he’s just end-of-career ill, like retired ball players… He just couldn’t perform the way he wants to perform.” French said he and guitarist Eddie Ojeda quickly knew who should step in, and praised Sebastian Bach: “Freddie Mercury was replaced by a guy from ‘American Idol’… But we get a legitimate superstar.” The new lineup — Bach, French, Ojeda, bassist Russell Pzütto and drummer Joey Cassata — debuted Aug. 28 at New Jersey’s Starland Ballroom and has three more shows this fall, including Nov. 12 at Hard Rock Live Bristol in Virginia."
     },
     {
-      "n": 8,
+      "n": 14,
       "headline": "Meriden police open a homicide investigation after a stabbed 51-year-old ran into a Pratt Street smoke shop for help and later died",
       "cat": "Connecticut / Crime",
       "source": "NBC Connecticut",
@@ -90,7 +156,7 @@
       "summary": "Meriden police are investigating a homicide after a 51-year-old man died following a stabbing Friday night. Officers were called to the Green Smoke Shop on Pratt Street around 6:50 p.m. for an injured person; police said the victim had run to the shop for help after being stabbed nearby, and investigators believe the attack happened on Pratt Street on or near the Meriden Green. Shop staff and bystanders gave him aid until he was taken to the hospital, where he was pronounced dead. No arrest has been announced. Anyone with information is asked to contact Detective Case at 203-630-6296 or mcase@meridenct.gov."
     },
     {
-      "n": 9,
+      "n": 15,
       "headline": "Emirates eyes Denver, Detroit and Philadelphia as new jets arrive — and says its list of possible U.S. cities “goes on and on”",
       "cat": "Travel / Airlines",
       "source": "The Points Guy",
@@ -101,7 +167,7 @@
       "summary": "Emirates is weighing new U.S. flights to Denver, Detroit and Philadelphia, president Tim Clark said on the sidelines of the Routes World conference, adding that the list of potential markets “goes on and on.” “There aren’t many cities in the world that we will not be able to touch if we want to get there,” he said. The Dubai carrier last added a U.S. city in 2021 with Miami, replacing Fort Lauderdale, and its last entirely new U.S. destination was Newark in 2017. More routes become profitable as it takes delivery of more efficient aircraft from an order book of more than 300 Airbus A350s, Boeing 787s and long-delayed 777Xs; Clark expects the first 300- to 400-seat 777-9s in 2027, years after their original 2020 date, and promised cabins that are “stylish, luxurious and cool.” He said demand remains strong despite conflicts involving Iran and Yemen’s Houthis and jet fuel averaging $4.58 a gallon, and that the airline is still profitable."
     },
     {
-      "n": 10,
+      "n": 16,
       "headline": "DOJ gives California counties 48 hours to set aside ballots from suspected noncitizens, warning officials who count them face “legal jeopardy”",
       "cat": "Politics / Elections",
       "source": "Yahoo News",
@@ -112,7 +178,7 @@
       "summary": "The Justice Department is pressing California election officials to set aside mail-in ballots from people it believes are noncitizens. Federal prosecutors sent letters Friday giving county election offices 48 hours to work with federal agencies to determine who on a government list is a citizen; NBC News reported the letters went to 57 of the state’s 58 counties, and Los Angeles County received one last week. The department wants counties to “segregate — not cancel” those ballots until citizenship is confirmed and to send identifying information, including Social Security numbers and copies of registrations. San Bernardino County’s list alone had 1,133 names. “Any election official who knowingly processes the ballot of a noncitizen is opening themselves to legal jeopardy,” said Bill Essayli, the first assistant U.S. attorney in Los Angeles, who signed the letters. DHS says it flagged more than 20,000 likely noncitizens on California’s rolls, and 28 people from that list were charged this week with illegally registering. The secretary of state and Los Angeles County have refused, saying the federal data is unverified and could delay certification; many ballots have already been separated from their envelopes and counted. The DOJ’s emergency request is now before the Ninth Circuit, 10 days before Election Day, with a district court hearing set for Tuesday."
     },
     {
-      "n": 11,
+      "n": 17,
       "headline": "CIA contractor with Top Secret clearance is charged with leaking classified secrets to a girlfriend who published them on her Substack",
       "cat": "National Security / Courts",
       "source": "Daily Caller",
@@ -123,7 +189,7 @@
       "summary": "The FBI arrested Ian Brinksman, 42, of Washington, D.C., on Friday morning on Espionage Act charges, accusing him of leaking national defense information to a woman he was dating who intended to publish it on her Substack newsletter, the Justice Department said. CIA Director John Ratcliffe said Brinksman provided services to the agency as a contractor. According to the criminal complaint, he worked for a government agency in the Eastern District of Virginia from 2020 and returned to the same agency as a contractor in 2022, working as a systems-integration developer with a Top Secret clearance. Investigators say he began dating the woman, believed to be a journalist whose Substack covers “Congress, War, and political economy” and who posted “I also accept leaks,” in November 2025, and that he contributed to five of her articles between March 11 and Oct. 5 containing Top Secret and other highly classified information. the Justice Department’s Todd Blanche said the affidavit reflects a contractor “who exempted himself from a federal law governing the protection of classified information,” and FBI Director Kash Patel called protecting secrets a top counterintelligence priority. Brinksman faces up to 10 years in prison if convicted."
     },
     {
-      "n": 12,
+      "n": 18,
       "headline": "NFL shuts its “NFL House” fan venue in Paris as protests overshadow Sunday’s first-ever Steelers–Saints game in France",
       "cat": "Sports / NFL",
       "source": "NBC News",
@@ -132,72 +198,6 @@
       "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261024-nfl-house-paris-ch-0930-04474a.jpg",
       "id": "0e2ee38c6c5a476a1f591ed8dc70099632291081",
       "summary": "The NFL closed its “NFL House” fan venue in Paris on Saturday as the city braced for street protests under heavy police presence, telling fans through its OnePass app and citing “potential accessibility issues,” a day after it said its pop-up shop would also close. The Saints postponed their own “Saints House” event to Sunday, and a weekend event for Steelers fans was canceled Thursday over security concerns. The New Orleans Saints and Pittsburgh Steelers play Sunday at Stade de France in Saint-Denis in the league’s first regular-season game in France. The State Department had warned “Americans in Paris for the NFL game” to be cautious, while Commissioner Roger Goodell said street protests “are not unusual in France”; on Friday President Emmanuel Macron hosted Goodell, Saints owner Gayle Benson and Steelers owner Art Rooney II at the Élysée Palace. The league’s “Hail Mary over the Seine” throwing challenge near Notre Dame went ahead, with a worker netting footballs out of the river as police vans with flashing lights passed above. “It doesn’t feel calm and good to be a tourist in Paris,” one French teenager in a Bryce Young jersey said. “It’s not good for the NFL.”"
-    },
-    {
-      "n": 13,
-      "headline": "iPhone Duo fails JerryRigEverything’s durability test as dust gets into the hinge despite its IP68 rating",
-      "cat": "Apple / iPhone",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/10/24/iphone-duo-fails-jerryrigeverything-test/",
-      "image_local": "images/story-1394.jpg",
-      "image_remote": "https://images.macrumors.com/t/_iSrZKYTvERnz35IlfV7YKpid7s=/2498x/article-new/2026/10/jerryrigeverything-iphone-duo-dust.jpg",
-      "id": "5c4a30d3c03eadd511e74ee723d0b62d38d5e92d",
-      "summary": "Apple’s iPhone Duo has failed JerryRigEverything’s durability test. Despite the foldable’s IP68 dust-resistance rating, Zack Nelson found that dust got into the hinge through several entry points and overwhelmed the magnets that hold the phone shut. His bend test then left a permanent green line across the inner display before that screen stopped responding to touch. The outer screen, with Ceramic Shield 2, scratched at level 7 on the Mohs hardness scale, while the softer inner screen scratched at level 2, though Nelson credited its matte nano-texture coating for making marks “magically disappear.” It wasn’t enough for a passing grade. “I’ve been testing these folding phones since the first generation seven years ago – most do survive,” Nelson said. “The iPhone Duo did not.” The result follows early teardowns and owner reports of hinge-area cracks in the days since the phone launched Friday."
-    },
-    {
-      "n": 14,
-      "headline": "Acting on an FBI tip, Germany arrests an 18-year-old accused of pushing an Indiana girl, 14, to take her own life for a “764” network",
-      "cat": "Crime / Online Safety",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/german-man-arrested-teen-suicide-764/",
-      "image_local": "",
-      "image_remote": "",
-      "id": "82a65fad633f194d003b9a048b0a8fe557e53c7b",
-      "summary": "German police acting on an FBI tip arrested an 18-year-old in Hamburg on Thursday, accusing him of driving a 14-year-old Indiana girl to hang herself, prosecutors said. He is accused of being the indirect perpetrator of murder and grievous bodily harm. The Hamburg prosecutor’s office said he was linked to an online group called “Nefarious Maniac Kult,” or NMK, part of the global network known as “764” or “COM.” Prosecutors say that between September and October, when he was 17, he “exerted influence” over the psychologically fragile girl on Discord, pressuring her to cut herself and write “NMK” on a wall in her own blood and send him videos; days later she hanged herself in her bedroom. He allegedly wanted a recording of her death to gain status in the group. The FBI’s Indianapolis office worked with the Fort Wayne Police Department’s homicide unit on the case. “There is no safe haven from justice,” said Special Agent in Charge Timothy O’Malley. FBI Director Kash Patel has said nihilistic violent extremism cases, many tied to 764, rose 300% from September 2024 to September 2025."
-    },
-    {
-      "n": 15,
-      "headline": "The cheap Nissan Kicks beats Audi’s new Q3 and Toyota’s new RAV4 in the IIHS’s tougher crash test",
-      "cat": "Autos / Safety",
-      "source": "The Drive",
-      "url": "https://www.thedrive.com/news/iihs-put-a-bunch-of-crossovers-through-its-updated-crash-test-only-one-was-good",
-      "image_local": "images/story-1395.jpg",
-      "image_remote": "https://www.thedrive.com/wp-content/uploads/2026/10/Screenshot-2026-10-22-at-10.13.36-PM.jpeg?quality=85&w=1200",
-      "id": "e22cdbeaf96e211ed28045f5d51d6d2d8184515f",
-      "summary": "The Insurance Institute for Highway Safety’s latest round of crossover ratings came down to its updated moderate overlap front test, in which a car hits a barrier at 40 mph with only part of its front end and which was revised in 2022 to better protect rear-seat passengers. Of the Audi Q3, Chevrolet Trailblazer, Nissan Kicks and Toyota RAV4 hybrid and plug-in hybrid, only the Kicks earned an award, a 2026 Top Safety Pick. Nissan’s entry-level crossover had initially scored “Poor” in the test, but rear seat-belt changes on cars built after June 2026, including 2026 and 2027 models, earned it a “Good” on retest. The redesigned 2026 Audi Q3 got “Good” in every other category but “Poor” in this test, which disqualified it. The new 2026 RAV4 was rated “Acceptable” as a hybrid and “Marginal” as a plug-in hybrid, and the Trailblazer scored “Poor” along with weak headlight and front-crash-prevention ratings. The Drive notes the IIHS, funded by insurers, can tighten its tests without waiting on Congress, which often catches automakers out."
-    },
-    {
-      "n": 16,
-      "headline": "Capcom confirms a breach exposed the emails of 11.7 million Capcom ID users, and warns of phishing that impersonates the company",
-      "cat": "Gaming / Security",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2296218/capcom-confirms-data-breach-that-affected-117-million-users/",
-      "image_local": "images/story-1396.jpg",
-      "image_remote": "https://www.engadget.com/img/gallery/capcom-confirms-data-breach-that-affected-11-7-million-users/l-intro-1792859616.jpg",
-      "id": "bec9fc26aa78c4e24eafdb4a9b144910358f2779",
-      "summary": "Capcom confirmed that a breach of its Capcom ID online membership service affected more than 11.7 million users. The company said it detected suspicious activity on Oct. 19 indicating “unauthorized access by a third party,” blocked access immediately and reported the incident to local police and its external security advisory board, but confirmed the access had already happened. Millions of account email addresses were exposed; for 43 accounts the intruders also got birth dates, gender, country or region and nicknames, and 196 account passwords were changed without authorization. Capcom said no credit card information was involved, that it has identified and addressed the attack method, and that Capcom ID and the games that rely on it, such as Street Fighter 6’s online play, remain available. It warned users to watch for scam emails pretending to come from Capcom that use the leaked addresses. Rockstar Games disclosed a third-party data breach in April."
-    },
-    {
-      "n": 17,
-      "headline": "Tony Iommi confirms he wrote a riff for 95-year-old William Shatner’s heavy metal album: “It’s really good what he’s doing”",
-      "cat": "Music / Metal",
-      "source": "Blabbermouth",
-      "url": "https://blabbermouth.net/news/tony-iommi-confirms-he-will-appear-on-william-shatners-upcoming-heavy-metal-album-its-really-good-what-hes-doing",
-      "image_local": "images/story-1397.jpg",
-      "image_remote": "https://assets.blabbermouth.net/media/tonyiommiwilliamshatnersept2026_638.jpg",
-      "id": "bdecc0640351388594378decb7ba02935e210a98",
-      "summary": "Black Sabbath guitarist Tony Iommi told BBC Breakfast that he will appear on “What The F Is Heavy Metal?”, the surprise metal album from 95-year-old “Star Trek” star William Shatner. “When I was asked if I’d do a track with William Shatner, I went, ‘What?’” Iommi said. After Shatner sent him the idea for the song, “I really liked it, and it’s really good what he’s doing. So I put a riff to that and built it up.” Asked about Shatner’s quirky singing style, Iommi laughed that “he more or less speaks it,” but praised lyrics that are “really about what’s happening today.” The album, tentatively due in 2027 on Cleopatra Records, features six Shatner originals and six covers and guest spots from dozens of musicians including Queen’s Brian May and Judas Priest’s Rob Halford. Shatner debuted the material with his band, The *uckers, at Chicago’s Riot Fest in September, playing originals plus Metallica’s “Enter Sandman,” Ozzy Osbourne’s “Crazy Train” and Motörhead’s “Ace Of Spades.”"
-    },
-    {
-      "n": 18,
-      "headline": "Stevie Wonder sues to evict an ex-fiancée who has lived rent-free in his Hollywood Hills house since 1988",
-      "cat": "Entertainment / Courts",
-      "source": "Consequence",
-      "url": "https://consequence.net/2026/10/stevie-wonder-sues-fiancee-living-rent-free/",
-      "image_local": "images/story-1398.jpg",
-      "image_remote": "https://consequence.net/wp-content/uploads/2026/10/Stevie-Wonder.jpeg",
-      "id": "d39beab6b0f51feee893da0560881f9d7132c854",
-      "summary": "Stevie Wonder has sued to evict his one-time fiancée, Carmen Efferson, from a three-bedroom Hollywood Hills property where she has lived rent-free since 1988 under an oral agreement with him, Consequence reports, citing Rolling Stone. Tensions escalated when Wonder’s representatives tried to inspect the house for an insurance renewal. Efferson allegedly refused them entry and emailed Wonder’s attorney, David Huff, with an expletive-laden demand to back off, accusing him of a “rascist [sic] coldblooded ‘white male privilege’ tone” and writing, “I do not consent.” She was then told the oral agreement had been revoked for noncompliance and was served with an eviction notice. When she did not leave, Wonder filed suit on Thursday, Oct. 22. The singer is currently on a tour marking the 50th anniversary of his album Songs in the Key of Life."
     },
     {
       "n": 19,
