@@ -1646,7 +1646,15 @@
     "ffb74254dd42f32c168398fb4a8debb81a827c88",
     "b8d344af535c8c3f68d5b661bc230cc445996712",
     "225031105a25106670581b22a006e364c1e9bd15",
-    "2bca90d973e0d83ab933f431322f7690555e85fd"
+    "2bca90d973e0d83ab933f431322f7690555e85fd",
+    "a6bfed464cbbfb059b41c62571c93594f80700cc",
+    "ffe5232c51fca3c0a3781e1e00f5412d68a57222",
+    "6068b4b4439a898a6bce2535737f21e91bd0ce1f",
+    "2414c79a61430c61ae0bda9c387a99c47bc7058b",
+    "12dfccbaede761c7161dbb0eee56d01ec8c5b710",
+    "649314a1381d03ea0560a6febd31a5afa264ae91",
+    "86c60fece475b8add2e0b992de63662d4af10544",
+    "c4a1d548dfb4d57f1cb83ed6e30052f9b63591b5"
   ],
   "stories": {
     "0c2ac7a5e342411678296315c4c59043b1f067cc": {
@@ -19474,7 +19482,87 @@
       "image_remote": "https://mmx.prnewswire.com/media/MS2018175/2027-Jeep-Gladiator-35-inch-Tire-Launch-Edition.jpg?id=OA3032380&p=facebook",
       "image_local": "images/story-1473.jpg",
       "id": "2bca90d973e0d83ab933f431322f7690555e85fd"
+    },
+    "a6bfed464cbbfb059b41c62571c93594f80700cc": {
+      "headline": "James Comey charged a third time, now over an alleged 2016 leak to a reporter — by prosecutors' filing, not a grand jury",
+      "cat": "Politics / Courts",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/politics/justice-department/former-fbi-james-comey-charged-third-time-trump-national-security-rcna342963",
+      "summary": "Former FBI Director James Comey has been charged with transmitting national defense information and conspiracy to transmit it, the third federal case the Trump administration has brought against him. A filing unsealed Monday says Comey directed FBI staff to talk with a New York Times reporter about accuracy problems in an October 2016 Reuters story on Yahoo email surveillance, and that this illegally passed along classified information. Prosecutors used a criminal information rather than a grand jury indictment. Comey's lawyers, who moved to dismiss 10 days ago, argue the case is time-barred because the 10-year limit required an indictment by Oct. 5, 2026. Comey called the case “an appalling abuse of the Department of Justice” and said, “I'm still innocent. I'm still not afraid of these people.” His first case was dismissed, and a separate April indictment in North Carolina is still pending.",
+      "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-04/260430-james-comey-vl-307p-2a39f0.jpg",
+      "image_local": "images/story-1474.jpg",
+      "id": "a6bfed464cbbfb059b41c62571c93594f80700cc"
+    },
+    "ffe5232c51fca3c0a3781e1e00f5412d68a57222": {
+      "headline": "“No controversy”: Raiders stick with Kirk Cousins, not rookie Fernando Mendoza, at QB against the Jets",
+      "cat": "Sports / Jets",
+      "source": "NFL.com",
+      "url": "https://www.nfl.com/news/raiders-klint-kubiak-sticking-with-kirk-cousins-as-starting-qb-for-week-8-game-vs-jets",
+      "summary": "The Jets won't see the debut of No. 1 overall pick Fernando Mendoza this Sunday. Raiders coach Klint Kubiak opened his Monday news conference by naming Kirk Cousins the starter for Week 8 against New York. “There is no controversy there,” he said, adding that Mendoza “is gonna play at some point, OK? It's not gonna be this week.” Las Vegas started 3-0 but has lost four straight, most recently 35-21 to the Rams, by a combined 143-95. The 38-year-old Cousins still leads the NFL with 16 touchdown passes and ranks third with 1,877 yards. The bigger problems are a run game ranked 31st in yards per game and a defense ranked 29th in points and yards allowed, which is a matchup the 2-5 Jets' offense will want to exploit.",
+      "image_remote": "https://static.www.nfl.com/image/upload/t_editorial_landscape_12_desktop/league/z2nr9uxnvbqnmetpuoxu",
+      "image_local": "images/story-1475.jpg",
+      "id": "ffe5232c51fca3c0a3781e1e00f5412d68a57222"
+    },
+    "6068b4b4439a898a6bce2535737f21e91bd0ce1f": {
+      "headline": "Russian ballistic missiles hit a Kyiv university campus and catch paramedics under fire, killing 1 and injuring 10",
+      "cat": "World / Ukraine",
+      "source": "Kyiv Independent",
+      "url": "https://kyivindependent.com/paramedics-caught-under-fire-as-russian-ballistic-missiles-slam-kyiv/",
+      "summary": "Russian ballistic missiles struck Kyiv again late Monday, hitting a university campus, the city's Kyoto Park, an area near a metro station and residential buildings, President Volodymyr Zelensky said. Mayor Vitali Klitschko said one person was killed near a supermarket and 10 were injured, most of them university students; nine were hospitalized. A team of paramedics came under fire, and the injured include a paramedic, a medical technician and a 20-year-old student. Blast waves shattered windows in an intensive care unit at one of two damaged medical facilities, and a school was also hit. Explosions began around 9:45 p.m. local time, minutes after the air force warned of incoming missiles. Zelensky said “artificial delays” in providing air defense “help terror.” It is at least the third deadly ballistic strike on the capital this month.",
+      "image_remote": "https://assets.kyivindependent.com/content/images/2026/10/Screenshot-2026-10-26-at-5_57_56-PM_20261026-220343_20261026-220459.png",
+      "image_local": "images/story-1476.jpg",
+      "id": "6068b4b4439a898a6bce2535737f21e91bd0ce1f"
+    },
+    "2414c79a61430c61ae0bda9c387a99c47bc7058b": {
+      "headline": "Trumbull High volleyball stays perfect at 16-0, football falls to Ridgefield, and both soccer teams top Bridgeport Central",
+      "cat": "Local / Trumbull CT",
+      "source": "Patch",
+      "url": "https://patch.com/connecticut/trumbull/trumbull-sports-scoreboard-heres-how-your-local-teams-performed-weekend",
+      "summary": "Patch's weekend scoreboard has Trumbull High's girls volleyball team still unbeaten at 16-0 after a 3-1 home win over Fairfield Warde on Friday, with Greenwich visiting Monday at 5:30 p.m. Football lost 16-7 at home to Ridgefield to fall to 1-5 and hosts Brien McMahon Friday, Oct. 30, at 7 p.m. On Thursday, boys soccer won 2-1 at Bridgeport Central (11-3-2), and girls soccer beat Central 7-0 at home (12-3) ahead of a Tuesday home game against Staples at 4 p.m. Field hockey blanked St. Joseph 3-0 to reach 8-7 and hosts Ridgefield Monday night. At St. Joseph, boys soccer beat Norwalk 1-0, while volleyball lost 3-0 at Greenwich. The results come from the CIAC's scheduling site as of Sunday morning.",
+      "image_remote": "",
+      "image_local": "",
+      "id": "2414c79a61430c61ae0bda9c387a99c47bc7058b"
+    },
+    "12dfccbaede761c7161dbb0eee56d01ec8c5b710": {
+      "headline": "iOS 27.2 quietly adds Google's invisible SynthID watermark to iPhone AI images and bigger AI photo edits",
+      "cat": "Tech / Apple",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/26/iphone-synthid-watermarks/",
+      "summary": "With iOS 27.2, images made in Image Playground and some photos edited with Apple Intelligence now carry a SynthID watermark, a Google-created marker embedded at the pixel level rather than in metadata. Google says it doesn't affect image quality and is designed to survive cropping, filters and compression, and it is also used by OpenAI and others. In MacRumors' testing, photos changed with the Extend and Reframe tools were watermarked, while Clean Up depended on the size of the edit: small touch-ups weren't marked, larger ones were. Every Image Playground creation is watermarked. The iPhone has no built-in way to detect the mark, so checking an image means uploading it to Google's SynthID Detector website. Apple first announced the plan in June.",
+      "image_remote": "https://images.macrumors.com/t/vd_m2L9U7JzUXBGFWLnTgPg2t6I=/1920x/article-new/2026/10/google-synthid.jpg",
+      "image_local": "images/story-1477.jpg",
+      "id": "12dfccbaede761c7161dbb0eee56d01ec8c5b710"
+    },
+    "649314a1381d03ea0560a6febd31a5afa264ae91": {
+      "headline": "The WNBA title could be clinched at 12:30 p.m. on a Thursday because an NBA game has the arena that night",
+      "cat": "Sports / WNBA",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/sports/wnba/wnba-championship-may-decided-thursday-morning-nba-game-took-priority-rcna605792",
+      "summary": "The WNBA has scheduled a possible championship-clinching Game 6 between the Golden State Valkyries and Atlanta Dream for 12:30 p.m. ET Thursday, solving a scheduling bind with an unusual tipoff. The Dream play most of the season in the 3,500-seat Gateway Center Arena but moved big games and the playoffs to the 17,000-seat State Farm Arena, which has a Cavaliers-Hawks game booked that night. Commissioner Cathy Engelbert, who is retiring, thanked the NBA, both teams and USA Network for their flexibility and said the move lets thousands more fans see a game with the title on the line. She didn't address the odd start time. If Golden State wins Monday's Game 5 in San Francisco, West Coast fans would need to tune in at 9:30 a.m. PT to watch a potential clincher.",
+      "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261026-wnba-finals-dream-valkyries-vl-344p-747c1c.jpg",
+      "image_local": "images/story-1478.jpg",
+      "id": "649314a1381d03ea0560a6febd31a5afa264ae91"
+    },
+    "86c60fece475b8add2e0b992de63662d4af10544": {
+      "headline": "Nigeria's first Ebola patient, a Swiss diplomat's wife, is flown to Geneva as 52 contacts stay under watch",
+      "cat": "World / Health",
+      "source": "PBS News (AP)",
+      "url": "https://www.pbs.org/newshour/world/1st-confirmed-ebola-patient-in-nigeria-evacuated-to-switzerland",
+      "summary": "A Swiss woman who became Nigeria's first confirmed Ebola case in the current outbreak was medically evacuated to Switzerland on Monday with her husband, a Swiss diplomat, officials said. Nigeria's health minister said her condition had improved significantly and she was stable and talking, but cautioned that she could still be infectious. She is being treated at Geneva University Hospital, while her husband, who has no symptoms, is in isolation in Zurich; Swiss health officials said there is no risk to the public. Nigeria is monitoring 52 people who had contact with her, and the WHO's Africa director said the country now has no Ebola cases. She tested positive after returning from Uganda, and Africa CDC says the first patients in Nigeria and Kenya both traveled through Uganda's Entebbe airport.",
+      "image_remote": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/AP26299528457177-1024x683.jpg",
+      "image_local": "images/story-1479.jpg",
+      "id": "86c60fece475b8add2e0b992de63662d4af10544"
+    },
+    "c4a1d548dfb4d57f1cb83ed6e30052f9b63591b5": {
+      "headline": "Tool's Danny Carey and The Cult's John Tempesta drum with the Seahawks' Blue Thunder line before Seattle beats the Chiefs",
+      "cat": "Music / Metal",
+      "source": "Consequence",
+      "url": "https://consequence.net/2026/10/tool-danny-carey-the-cult-john-tempesta-seattle-seahawks-drumline/",
+      "summary": "Tool drummer Danny Carey and The Cult's John Tempesta, formerly of White Zombie, joined the Seattle Seahawks' “Blue Thunder” drumline for a pregame performance before Sunday's home game against the Kansas City Chiefs. Both wore No. 12 Seahawks jerseys, which was a bit of a sacrifice for Carey, who grew up outside Kansas City and is an avowed Chiefs fan. Seattle won 20-3. It's the latest rock cameo at Lumen Field this season, after the surviving members of Soundgarden played a Seahawks home game with Taylor Momsen and Mike McCready. The Cult will also tour with Carey's Tool bandmate Maynard James Keenan next year as support on A Perfect Circle's 2027 North American tour.",
+      "image_remote": "https://consequence.net/wp-content/uploads/2026/10/Danny-Carey-and-John-Tempesta.jpg",
+      "image_local": "images/story-1480.jpg",
+      "id": "c4a1d548dfb4d57f1cb83ed6e30052f9b63591b5"
     }
   },
-  "updated": "Monday, October 26, 2026 · 4:13 PM ET"
+  "updated": "Monday, October 26, 2026 · 6:11 PM ET"
 }

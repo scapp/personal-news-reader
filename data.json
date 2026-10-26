@@ -1,8 +1,96 @@
 {
-  "updated": "Monday, October 26, 2026 · 4:13 PM ET",
+  "updated": "Monday, October 26, 2026 · 6:11 PM ET",
   "stories": [
     {
       "n": 1,
+      "headline": "James Comey charged a third time, now over an alleged 2016 leak to a reporter — by prosecutors' filing, not a grand jury",
+      "cat": "Politics / Courts",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/politics/justice-department/former-fbi-james-comey-charged-third-time-trump-national-security-rcna342963",
+      "image_local": "images/story-1474.jpg",
+      "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-04/260430-james-comey-vl-307p-2a39f0.jpg",
+      "id": "a6bfed464cbbfb059b41c62571c93594f80700cc",
+      "summary": "Former FBI Director James Comey has been charged with transmitting national defense information and conspiracy to transmit it, the third federal case the Trump administration has brought against him. A filing unsealed Monday says Comey directed FBI staff to talk with a New York Times reporter about accuracy problems in an October 2016 Reuters story on Yahoo email surveillance, and that this illegally passed along classified information. Prosecutors used a criminal information rather than a grand jury indictment. Comey's lawyers, who moved to dismiss 10 days ago, argue the case is time-barred because the 10-year limit required an indictment by Oct. 5, 2026. Comey called the case “an appalling abuse of the Department of Justice” and said, “I'm still innocent. I'm still not afraid of these people.” His first case was dismissed, and a separate April indictment in North Carolina is still pending."
+    },
+    {
+      "n": 2,
+      "headline": "“No controversy”: Raiders stick with Kirk Cousins, not rookie Fernando Mendoza, at QB against the Jets",
+      "cat": "Sports / Jets",
+      "source": "NFL.com",
+      "url": "https://www.nfl.com/news/raiders-klint-kubiak-sticking-with-kirk-cousins-as-starting-qb-for-week-8-game-vs-jets",
+      "image_local": "images/story-1475.jpg",
+      "image_remote": "https://static.www.nfl.com/image/upload/t_editorial_landscape_12_desktop/league/z2nr9uxnvbqnmetpuoxu",
+      "id": "ffe5232c51fca3c0a3781e1e00f5412d68a57222",
+      "summary": "The Jets won't see the debut of No. 1 overall pick Fernando Mendoza this Sunday. Raiders coach Klint Kubiak opened his Monday news conference by naming Kirk Cousins the starter for Week 8 against New York. “There is no controversy there,” he said, adding that Mendoza “is gonna play at some point, OK? It's not gonna be this week.” Las Vegas started 3-0 but has lost four straight, most recently 35-21 to the Rams, by a combined 143-95. The 38-year-old Cousins still leads the NFL with 16 touchdown passes and ranks third with 1,877 yards. The bigger problems are a run game ranked 31st in yards per game and a defense ranked 29th in points and yards allowed, which is a matchup the 2-5 Jets' offense will want to exploit."
+    },
+    {
+      "n": 3,
+      "headline": "Russian ballistic missiles hit a Kyiv university campus and catch paramedics under fire, killing 1 and injuring 10",
+      "cat": "World / Ukraine",
+      "source": "Kyiv Independent",
+      "url": "https://kyivindependent.com/paramedics-caught-under-fire-as-russian-ballistic-missiles-slam-kyiv/",
+      "image_local": "images/story-1476.jpg",
+      "image_remote": "https://assets.kyivindependent.com/content/images/2026/10/Screenshot-2026-10-26-at-5_57_56-PM_20261026-220343_20261026-220459.png",
+      "id": "6068b4b4439a898a6bce2535737f21e91bd0ce1f",
+      "summary": "Russian ballistic missiles struck Kyiv again late Monday, hitting a university campus, the city's Kyoto Park, an area near a metro station and residential buildings, President Volodymyr Zelensky said. Mayor Vitali Klitschko said one person was killed near a supermarket and 10 were injured, most of them university students; nine were hospitalized. A team of paramedics came under fire, and the injured include a paramedic, a medical technician and a 20-year-old student. Blast waves shattered windows in an intensive care unit at one of two damaged medical facilities, and a school was also hit. Explosions began around 9:45 p.m. local time, minutes after the air force warned of incoming missiles. Zelensky said “artificial delays” in providing air defense “help terror.” It is at least the third deadly ballistic strike on the capital this month."
+    },
+    {
+      "n": 4,
+      "headline": "Trumbull High volleyball stays perfect at 16-0, football falls to Ridgefield, and both soccer teams top Bridgeport Central",
+      "cat": "Local / Trumbull CT",
+      "source": "Patch",
+      "url": "https://patch.com/connecticut/trumbull/trumbull-sports-scoreboard-heres-how-your-local-teams-performed-weekend",
+      "image_local": "",
+      "image_remote": "",
+      "id": "2414c79a61430c61ae0bda9c387a99c47bc7058b",
+      "summary": "Patch's weekend scoreboard has Trumbull High's girls volleyball team still unbeaten at 16-0 after a 3-1 home win over Fairfield Warde on Friday, with Greenwich visiting Monday at 5:30 p.m. Football lost 16-7 at home to Ridgefield to fall to 1-5 and hosts Brien McMahon Friday, Oct. 30, at 7 p.m. On Thursday, boys soccer won 2-1 at Bridgeport Central (11-3-2), and girls soccer beat Central 7-0 at home (12-3) ahead of a Tuesday home game against Staples at 4 p.m. Field hockey blanked St. Joseph 3-0 to reach 8-7 and hosts Ridgefield Monday night. At St. Joseph, boys soccer beat Norwalk 1-0, while volleyball lost 3-0 at Greenwich. The results come from the CIAC's scheduling site as of Sunday morning."
+    },
+    {
+      "n": 5,
+      "headline": "iOS 27.2 quietly adds Google's invisible SynthID watermark to iPhone AI images and bigger AI photo edits",
+      "cat": "Tech / Apple",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/26/iphone-synthid-watermarks/",
+      "image_local": "images/story-1477.jpg",
+      "image_remote": "https://images.macrumors.com/t/vd_m2L9U7JzUXBGFWLnTgPg2t6I=/1920x/article-new/2026/10/google-synthid.jpg",
+      "id": "12dfccbaede761c7161dbb0eee56d01ec8c5b710",
+      "summary": "With iOS 27.2, images made in Image Playground and some photos edited with Apple Intelligence now carry a SynthID watermark, a Google-created marker embedded at the pixel level rather than in metadata. Google says it doesn't affect image quality and is designed to survive cropping, filters and compression, and it is also used by OpenAI and others. In MacRumors' testing, photos changed with the Extend and Reframe tools were watermarked, while Clean Up depended on the size of the edit: small touch-ups weren't marked, larger ones were. Every Image Playground creation is watermarked. The iPhone has no built-in way to detect the mark, so checking an image means uploading it to Google's SynthID Detector website. Apple first announced the plan in June."
+    },
+    {
+      "n": 6,
+      "headline": "The WNBA title could be clinched at 12:30 p.m. on a Thursday because an NBA game has the arena that night",
+      "cat": "Sports / WNBA",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/sports/wnba/wnba-championship-may-decided-thursday-morning-nba-game-took-priority-rcna605792",
+      "image_local": "images/story-1478.jpg",
+      "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261026-wnba-finals-dream-valkyries-vl-344p-747c1c.jpg",
+      "id": "649314a1381d03ea0560a6febd31a5afa264ae91",
+      "summary": "The WNBA has scheduled a possible championship-clinching Game 6 between the Golden State Valkyries and Atlanta Dream for 12:30 p.m. ET Thursday, solving a scheduling bind with an unusual tipoff. The Dream play most of the season in the 3,500-seat Gateway Center Arena but moved big games and the playoffs to the 17,000-seat State Farm Arena, which has a Cavaliers-Hawks game booked that night. Commissioner Cathy Engelbert, who is retiring, thanked the NBA, both teams and USA Network for their flexibility and said the move lets thousands more fans see a game with the title on the line. She didn't address the odd start time. If Golden State wins Monday's Game 5 in San Francisco, West Coast fans would need to tune in at 9:30 a.m. PT to watch a potential clincher."
+    },
+    {
+      "n": 7,
+      "headline": "Nigeria's first Ebola patient, a Swiss diplomat's wife, is flown to Geneva as 52 contacts stay under watch",
+      "cat": "World / Health",
+      "source": "PBS News (AP)",
+      "url": "https://www.pbs.org/newshour/world/1st-confirmed-ebola-patient-in-nigeria-evacuated-to-switzerland",
+      "image_local": "images/story-1479.jpg",
+      "image_remote": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/AP26299528457177-1024x683.jpg",
+      "id": "86c60fece475b8add2e0b992de63662d4af10544",
+      "summary": "A Swiss woman who became Nigeria's first confirmed Ebola case in the current outbreak was medically evacuated to Switzerland on Monday with her husband, a Swiss diplomat, officials said. Nigeria's health minister said her condition had improved significantly and she was stable and talking, but cautioned that she could still be infectious. She is being treated at Geneva University Hospital, while her husband, who has no symptoms, is in isolation in Zurich; Swiss health officials said there is no risk to the public. Nigeria is monitoring 52 people who had contact with her, and the WHO's Africa director said the country now has no Ebola cases. She tested positive after returning from Uganda, and Africa CDC says the first patients in Nigeria and Kenya both traveled through Uganda's Entebbe airport."
+    },
+    {
+      "n": 8,
+      "headline": "Tool's Danny Carey and The Cult's John Tempesta drum with the Seahawks' Blue Thunder line before Seattle beats the Chiefs",
+      "cat": "Music / Metal",
+      "source": "Consequence",
+      "url": "https://consequence.net/2026/10/tool-danny-carey-the-cult-john-tempesta-seattle-seahawks-drumline/",
+      "image_local": "images/story-1480.jpg",
+      "image_remote": "https://consequence.net/wp-content/uploads/2026/10/Danny-Carey-and-John-Tempesta.jpg",
+      "id": "c4a1d548dfb4d57f1cb83ed6e30052f9b63591b5",
+      "summary": "Tool drummer Danny Carey and The Cult's John Tempesta, formerly of White Zombie, joined the Seattle Seahawks' “Blue Thunder” drumline for a pregame performance before Sunday's home game against the Kansas City Chiefs. Both wore No. 12 Seahawks jerseys, which was a bit of a sacrifice for Carey, who grew up outside Kansas City and is an avowed Chiefs fan. Seattle won 20-3. It's the latest rock cameo at Lumen Field this season, after the surviving members of Soundgarden played a Seahawks home game with Taylor Momsen and Mike McCready. The Cult will also tour with Carey's Tool bandmate Maynard James Keenan next year as support on A Perfect Circle's 2027 North American tour."
+    },
+    {
+      "n": 9,
       "headline": "Apple acknowledges iPhone Duo inner-display cracks on “a small number” of units and tells owners to contact AppleCare",
       "cat": "Tech / Apple",
       "source": "MacRumors",
@@ -13,7 +101,7 @@
       "summary": "Apple has responded to the “crackgate” reports that followed the iPhone Duo launch. In a statement to MacRumors, the company said it is aware of an issue affecting the inner display on a small number of units and that anyone who sees a problem should contact AppleCare for a replacement. Apple did not say what causes the cracking or whether a fix is planned. Affected owners have been getting in-store replacements, though limited stock means some have to wait. According to Apple, the cracks tend to appear shortly after purchase rather than developing over time, and some images circulating online are AI-generated, which muddies the scope. Most reported cracks run along the hinge on the lower half of the inner screen, often after a stuck feeling or a popping noise; iFixit’s teardown pointed to a hinge support bar that may not be retracting as designed."
     },
     {
-      "n": 2,
+      "n": 10,
       "headline": "Clock-management blunders put Aaron Glenn on the hot seat as the 2-5 Jets head to Las Vegas",
       "cat": "Sports / Jets",
       "source": "AP via Bozeman Daily Chronicle",
@@ -24,7 +112,7 @@
       "summary": "The Jets’ 28-25 loss to the previously winless Dolphins dropped them to 2-5 and put a spotlight on one of Aaron Glenn’s most persistent problems: managing the clock and his timeouts, especially in the final two minutes of the first half. Per the AP, the Jets have been outscored 107-6 in those end-of-half windows over the last two seasons, and Sunday’s game featured another costly sequence. Glenn conceded the team has to execute better and has defended his decisions, while the bright spots on offense have included receiver Omar Cooper Jr., who has thrived since returning from injury, and tight end Mason Taylor. With pressure mounting on his job, Glenn said “Sunday can’t get here fast enough” as New York prepares to face the Raiders."
     },
     {
-      "n": 3,
+      "n": 11,
       "headline": "More than 60 Orthodox Christians killed in a string of attacks in Ethiopia’s Oromia region, church says",
       "cat": "World / Christians",
       "source": "BBC News",
@@ -35,7 +123,7 @@
       "summary": "Ethiopia’s Orthodox Tewahedo Church says more than 60 people were killed in a series of attacks on Christians in three areas of the Shirka district in the Oromia region, with 20 houses burned to the ground. A church official called it a “massacre,” saying security forces arrived but could not stop the assault, and one resident whose 75-year-old father was killed told BBC Amharic the villagers were surrounded “from all four directions.” A local official blamed a newly formed rebel coalition that includes the Oromo Liberation Army, which has denied carrying out earlier attacks and has not commented. The church said attacks on Christians have been increasing and that its repeated warnings to authorities have produced “no solution”; a human-rights group counted 458 people killed in the area over the previous four years."
     },
     {
-      "n": 4,
+      "n": 12,
       "headline": "Illinois man charged with mailing “HA HA” letters full of white powder to members of Congress — with his own return address",
       "cat": "Crime / Courts",
       "source": "NBC News",
@@ -46,7 +134,7 @@
       "summary": "Federal prosecutors have charged Matthew Unglesbee of Illinois with mailing four threatening letters containing a white granular substance to members of Congress, all in envelopes bearing his own name and home address. One note read “HA HA” and another “HAH enjoy the gift.” According to the FBI, Unglesbee admitted in an interview Sunday that he sent the letters after hearing about earlier suspicious mailings this month, said the powder was salt because it “kind of looks like” anthrax, and denied involvement in the prior mailings. An anonymous tipster alerted the FBI on Oct. 16, and the letters arrived three days later; a search of his home turned up a fifth, unmailed envelope addressed to a lawmaker. He faces hoax and threatening-communications charges, while the FBI keeps investigating the separate wave of powder letters sent to Congress and election officials."
     },
     {
-      "n": 5,
+      "n": 13,
       "headline": "Five Finger Death Punch closes its 20th-anniversary tour with a $200,000 donation to Team USA athletes",
       "cat": "Music / Metal",
       "source": "Blabbermouth",
@@ -57,7 +145,7 @@
       "summary": "Five Finger Death Punch wrapped the North American leg of its 20th Anniversary World Tour by giving $200,000 to Team USA athletes preparing for the 2028 Olympic and Paralympic Games in Los Angeles. A portion of every ticket sold on the tour went to the effort, which supports USA Judo and USA Cycling’s BMX Racing and BMX Freestyle programs; the band presented the check on Friday, Oct. 23, at the tour’s final night at Jiffy Lube Live in Bristow, Virginia. Founding guitarist Zoltan Bathory, who started judo at nine and still competes, said supporting the sport is deeply personal. The band noted that the U.S., unlike many countries, does not directly fund its Olympic teams, so private support is essential."
     },
     {
-      "n": 6,
+      "n": 14,
       "headline": "iOS 27.2 is out, and the iPhone Duo gets two exclusives: Apple Pencil support and Edge Light for video calls",
       "cat": "Tech / Apple",
       "source": "9to5Mac",
@@ -68,7 +156,7 @@
       "summary": "Apple released iOS 27.2 on Monday with expanded Siri AI features and updates to Messages and Apple TV, and iPhone Duo owners get two features of their own. Apple Pencil now works on the Duo, just days after launch, on both the outer and inner displays for annotating PDFs and images, sketching and handwritten notes; only the Apple Pencil (USB-C) is supported. The Duo also gains Edge Light, a Mac feature that puts a ring of light around the edge of the screen to light your face on FaceTime, Zoom and other video calls, which pairs with the phone’s half-folded “seated” mode for hands-free calling. The update arrived alongside iPadOS, macOS, watchOS, tvOS and HomePod 27.2 releases."
     },
     {
-      "n": 7,
+      "n": 15,
       "headline": "Judge rules Trump DOJ illegally fired Maurene Comey, rejects the administration’s sweeping Article II firing claim; DOJ will appeal",
       "cat": "Politics / Courts",
       "source": "Fox News",
@@ -79,7 +167,7 @@
       "summary": "Federal Judge Jesse Furman, an Obama appointee in New York, ruled Monday that the Justice Department unlawfully fired former prosecutor Maurene Comey, daughter of ex-FBI Director James Comey. The department had conceded the firing was not for cause or based on performance, arguing instead that Article II lets the attorney general remove assistant U.S. attorneys at will. Furman said that argument “flies in the face of nearly two centuries of Supreme Court precedent” and found the firing violated the Civil Service Reform Act. He ordered her retroactively reinstated with back pay through Dec. 20, 2025, when she took another job. A DOJ spokesperson said the department disagrees and will appeal, and the ruling lands as the president’s removal powers face separate tests at the Supreme Court."
     },
     {
-      "n": 8,
+      "n": 16,
       "headline": "Walter Koenig, Chekov on the original “Star Trek,” dies at 90, leaving Shatner and Takei as the last surviving stars",
       "cat": "Entertainment",
       "source": "NBC News",
@@ -90,7 +178,7 @@
       "summary": "Walter Koenig, who played navigator Pavel Chekov on the original “Star Trek” series and in the films that followed, has died at 90 at his home in North Hollywood, his agent confirmed Monday. His death leaves William Shatner, 95, and George Takei, 89, as the only surviving primary cast members of the classic show, following Leonard Nimoy, DeForest Kelley, James Doohan and Nichelle Nichols. Koenig was the best man at Takei’s 2008 wedding, held on Koenig’s Sept. 14 birthday, and Takei remembered him as “a writer, a teacher, a thoughtful man, and a loyal friend” after nearly six decades of friendship that began on the bridge of the Enterprise."
     },
     {
-      "n": 9,
+      "n": 17,
       "headline": "Jeep now builds the Gladiator with 35-inch tires from the factory in a limited 2027 Launch Edition",
       "cat": "Autos / Jeep",
       "source": "Guide Auto",
@@ -101,7 +189,7 @@
       "summary": "Gladiator owners’ favorite modification is now a factory option. Jeep announced the limited-production 2027 Gladiator 35-inch Tire Launch Edition on Willys, Rubicon and Rubicon X trims, with 35-inch all-terrain tires on bronze 17-inch beadlock-capable wheels, a one-inch suspension lift, Dana 44 axles with 4.56 gears, performance brakes and highline fender flares. Ground clearance rises to 12.9 inches, with approach, breakover and departure angles of 46.7, 23.3 and 26.7 degrees. Rubicon models add hood and vent graphics, and the Rubicon X gets an exclusive side graphic and performance hood. Orders are open now, though Jeep has not said how many will be built. Other 2027 Gladiator updates include a standard vented power-dome hood on the Sahara and standard hardtops on Rubicon and Mojave."
     },
     {
-      "n": 10,
+      "n": 18,
       "headline": "Apple unveils the OLED iPad mini: 8.5-inch screen, A20 Pro chip, IP67 water resistance, and a $699 starting price",
       "cat": "Tech / Apple",
       "source": "MacRumors",
@@ -112,7 +200,7 @@
       "summary": "Apple on Monday announced what it calls the iPad mini’s “biggest update ever,” moving its smallest tablet to an 8.5-inch OLED display (up from 8.3 inches) with higher contrast and more than twice the peak brightness, up to 1,200 nits for HDR. The new model runs on an A20 Pro chip, is about 15% thinner and lighter at 5.4mm, and is Apple’s first iPad rated IP67 for water and dust. It also adds a speaker-hole-free “Acoustic Display” audio system, a landscape front camera, Apple’s N1 wireless chip with Wi-Fi 7, and an optional $100 nano-texture glass on 256GB and 512GB models; Touch ID and USB-C stay, but there is still no 120Hz ProMotion. Pricing starts at $699 for Wi-Fi and $849 for cellular, a $100 increase, in just two colors, Midnight and Starlight. Pre-orders open Wednesday, Oct. 28, with availability Friday, Nov. 6, and Apple is teasing more products in an “exciting week” ahead of its Oct. 28 event."
     },
     {
-      "n": 11,
+      "n": 19,
       "headline": "Anthropic files for an IPO that could top $2 trillion, revealing an $80.7 billion six-month loss and a $120 billion SpaceX compute deal",
       "cat": "Tech / AI",
       "source": "NBC News",
@@ -121,94 +209,6 @@
       "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-04/260408-anthropic-rs-a69c46.jpg",
       "id": "4e53958327f79258b043dd87da7241946b6d7691",
       "summary": "Claude maker Anthropic made its IPO filing public on Monday ahead of what could be one of the largest stock debuts ever, widely expected in mid-November, with a valuation that could exceed $2 trillion and top the record set by Elon Musk’s SpaceX in June. The SEC filing shows revenue growing 1,368% year over year in the quarter ended June 30, but also a net loss of $80.7 billion for the first half of 2026, after a $42 billion loss in all of 2025, as server and chip costs tripled. Anthropic has committed to spend at least $110 billion with Amazon on cloud services through 2036, $120 billion with SpaceX through 2029, $115 billion with Google and $45 billion with Microsoft through 2033. Share price, share count and valuation will be set after an investor road show. The company says its cash and sales should cover the next 12 months but warns it may need to raise more money."
-    },
-    {
-      "n": 12,
-      "headline": "15-year-old arrested in the shooting near Florida A&M’s stadium that wounded 12 after homecoming",
-      "cat": "Crime / Courts",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/news/us-news/police-arrest-teenager-shooting-florida-stadium-rcna605677",
-      "image_local": "images/story-1461.jpg",
-      "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261026-Tallahassee-rs-fd1c6d.jpg",
-      "id": "9793681648ae57bf45eb753c3ff3c6dbd6e6caab",
-      "summary": "Tallahassee police said Monday they arrested a 15-year-old on Sunday in connection with Saturday night’s shooting near Florida A&M University’s Bragg Memorial Stadium, where homecoming festivities included a football game. The teen faces 11 counts of attempted second-degree murder and possession of a firearm by a delinquent. Twelve people were wounded, including minors, and another person hurt an ankle while fleeing the gunfire near Perry and Manatee streets around 8 p.m. Police said preliminary findings show a physical altercation between people who knew each other came before the shots, and none of the victims appear to have been the intended targets. Chief Lawrence Revell called the arrest a significant step but said the investigation is not over."
-    },
-    {
-      "n": 13,
-      "headline": "House GOP sends “dozens and dozens” of observers to watch ballot counting in close midterm races",
-      "cat": "Politics / Election integrity",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/politics/inside-house-gops-unprecedented-push-monitor-midterm-elections-prepare-legal-fights",
-      "image_local": "images/story-1462.jpg",
-      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/bryan-steil-voter-poll-split.jpg",
-      "id": "8f686931f3d2a8ff05f3a39c3a03072b9034f9af",
-      "summary": "House Republicans are deploying what Committee on House Administration Chairman Bryan Steil (R-Wis.) calls the “most robust” election-observer program the House has ever run, sending congressional staff across the country for the Nov. 3 midterms to watch ballot counting in districts expected to be close. The panel, which oversees federal elections, says the observers are there to make sure elections are run cleanly and to document problems that could support legal challenges if irregularities turn up. Steil said shifts will vary by state: in places like Florida that count quickly the work may end in the evening, while in California, where he watched Los Angeles County count about 10 million people’s ballots at one site two years ago, observers may be on duty for days until the count ends. The effort comes as both parties, the Justice Department and outside groups prepare record poll-monitoring operations with control of the House at stake."
-    },
-    {
-      "n": 14,
-      "headline": "DOJ survey: violent crime victimization fell about 25% in 2025, the biggest one-year drop since 1973",
-      "cat": "Crime / Justice",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/violent-crime-victimization-2025-survey-data/",
-      "image_local": "",
-      "image_remote": "",
-      "id": "a94465dde6dfc9e95badfe4fdfae96575132f0bb",
-      "summary": "A preliminary National Crime Victimization Survey released Monday by the Justice Department’s Bureau of Justice Statistics found the rate of violent crime victimization fell about 25% in 2025 compared with 2024, which the department called the largest decline since 1973. The Census Bureau survey, based on 101,980 household interviews with people 12 and older, estimates 669,000 fewer violent crimes (excluding simple assaults) than the year before. Aggravated assault victimization fell an estimated 31%, robbery 27%, property crime 19%, burglary and trespassing 25%, and motor vehicle theft 29%. Because the survey asks households directly, it also captures crimes never reported to police. The results line up with the FBI’s earlier crime report, which showed violent crime falling in 2025 and the murder rate at a 20-year low, figures President Trump and his allies have been quick to highlight."
-    },
-    {
-      "n": 15,
-      "headline": "Wrong-way van sped south in the northbound lanes of Route 25 in Trumbull before troopers stopped it on I-95",
-      "cat": "Local / Trumbull CT",
-      "source": "Patch (Trumbull)",
-      "url": "https://patch.com/connecticut/trumbull/wrong-way-driver-sped-through-part-trumbull-apprehension-ct-state-police",
-      "image_local": "",
-      "image_remote": "",
-      "id": "e20675fe001178bf70e6f741ea65965d34e46656",
-      "summary": "A wrong-way driver was arrested Sunday night after racing through part of Trumbull, Connecticut State Police said. At about 9:45 p.m., Troop G got a report of a van “traveling at a high rate of speed, southbound in the northbound lanes” of Route 25 in Trumbull. Troopers found the van and stopped it on I-95 northbound near Exit 29 in Bridgeport. No injuries were reported. The driver, who has not been named, was taken into custody and arrested; police have not yet said what charges were filed."
-    },
-    {
-      "n": 16,
-      "headline": "Harley’s LiveWire will debut the production Dust Hightail electric dirt bike at EICMA next month",
-      "cat": "Motorcycles / Harley-Davidson",
-      "source": "RideApart",
-      "url": "https://www.rideapart.com/news/812975/2027-livewire-dust-hightail-ev-dirt-bike-eicma-debut-harley-davidson/",
-      "image_local": "images/story-1463.jpg",
-      "image_remote": "https://cdn.motor1.com/images/mgl/ko87gn/s1/dust-hightail.jpg",
-      "id": "0da279ded4a2432e9cea13693f74b4b8a286a1da",
-      "summary": "Harley-Davidson’s electric spinoff LiveWire says the production-intent version of the Dust Hightail, the lightweight electric dirt bike from the startup Dust Moto that LiveWire acquired, will make its first public appearance at the EICMA motorcycle show in Milan in November, with sales expected next year. RideApart, which rode an early Dust prototype, calls it nimble, quick and very light, and argues the bike may be the most important product LiveWire has: the brand has burned cash since its launch and has struggled to win sales or a wider audience. The Hightail is part of Harley’s “Back to the Bricks” strategy, and RideApart calls all-electric dirt bikes one of the hottest segments in motorcycling right now."
-    },
-    {
-      "n": 17,
-      "headline": "Cheap Trick’s Rick Nielsen sells his famous five-neck Hamer for $313,600, nearly double its estimate",
-      "cat": "Music / Guitar",
-      "source": "Guitar World",
-      "url": "https://www.guitarworld.com/gear/guitars/rick-nielsen-auction-results",
-      "image_local": "images/story-1464.jpg",
-      "image_remote": "https://cdn.mos.cms.futurecdn.net/3ACKbPZEYCyDdzcSB5mruG-1200-80.jpg",
-      "id": "d6b3c34487f0590429689af6fe98b45cfd268da6",
-      "summary": "The results are in from the auction of Cheap Trick guitarist Rick Nielsen’s collection, and his five-neck Hamer, originally planned to have six necks, sold for $313,600, almost twice its $175,000 pre-auction estimate. The guitar combines 12-string, fretless and Strat- and Les Paul Junior-style necks and has become a symbol of Nielsen’s over-the-top stage style; the auction appraiser said it took a lot of negotiation to include that “crown jewel.” A stage-played 1975 Hamer Explorer-style guitar with a 1970s Gibson humbucker and a DiMarzio bridge pickup brought $256,000, his 1982 “One on One” Hamer fetched $44,800, and his 2007 checkerboard Hamer went for $38,400, among other unusual builds from the Rock & Roll Hall of Famer’s collection."
-    },
-    {
-      "n": 18,
-      "headline": "Rumor: LEGO’s first Daily Planet set is a 2,981-piece DC modular building with 12 minifigures, due July 2027",
-      "cat": "LEGO",
-      "source": "StoneWars",
-      "url": "https://stonewars.com/rumors/lego-67011-daily-planet-rumor/",
-      "image_local": "images/story-1465.jpg",
-      "image_remote": "https://stonewars.com/wp-content/uploads/2026/10/daily-planet-geruecht.jpg",
-      "id": "c6d58a0009694534d5fe380b496914028d39c489",
-      "summary": "Superman’s newsroom may finally get its own big LEGO set. A rumor from BrickTap says LEGO DC Daily Planet (67011) is coming in July 2027 as a modular-style building with 2,981 pieces, 12 minifigures and a $299.99 price. The set first appeared in a large LEGO leak in August; the new details add the set number, piece count and timing. It would give DC fans a counterpart to the Daily Bugle from Marvel, and it is unclear whether it will use one or two baseplates, since the Daily Planet has been drawn both with a square footprint and a longer rectangular one. The details are unconfirmed until LEGO announces the set."
-    },
-    {
-      "n": 19,
-      "headline": "Flávio Bolsonaro refuses to concede Brazil’s runoff and says he will seek to annul Lula’s win over the voting extension",
-      "cat": "World / Latin America",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/bolsonaro-refuses-to-concede-as-would-be-ukraine-peace-mediator-lula-wins-brazil-election/",
-      "image_local": "images/story-1452.jpg",
-      "image_remote": "https://assets.kyivindependent.com/content/images/2026/10/GettyImages-2301583574_20261026-030314_20261026-031144.jpg",
-      "id": "b0926e188d4f4ab16ca213490cb99b14bc9f817c",
-      "summary": "Brazilian President Luiz Inácio Lula da Silva won a fourth, nonconsecutive term on Sunday, taking 51.79% of the vote to 48.21% for right-wing Sen. Flávio Bolsonaro, but Bolsonaro refused to concede and said he would seek to annul the election. He called Supreme Court Justice Cristiano Zanin’s last-minute decision to keep polls open two extra hours “unacceptable,” even though both campaigns had asked for the extension after bus disruptions and heavy rain. The electoral court has recognized Lula’s victory, and Bolsonaro’s refusal does not change the result. His father, former President Jair Bolsonaro, also refused to concede after losing to Lula in 2022 and is now in prison for a plot to overturn that election. Lula, 80, becomes the first Brazilian president to win four terms and the first candidate since the return to democracy to win a runoff after finishing second in round one. He has also tried to position Brazil as a possible mediator between Ukraine and Russia."
     },
     {
       "n": 20,
