@@ -1,8 +1,107 @@
 {
-  "updated": "Monday, October 26, 2026 · 11:45 AM ET",
+  "updated": "Monday, October 26, 2026 · 4:13 PM ET",
   "stories": [
     {
       "n": 1,
+      "headline": "Apple acknowledges iPhone Duo inner-display cracks on “a small number” of units and tells owners to contact AppleCare",
+      "cat": "Tech / Apple",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/26/iphone-duo-crack-apple-response/",
+      "image_local": "images/story-1466.jpg",
+      "image_remote": "https://images.macrumors.com/t/tTTY0i4LTHQ-DMYL8Nz_ZjBSgqU=/1600x/article-new/2026/10/iphone-duo-screen-crack.jpg",
+      "id": "189120018169f57679b84275b624a02ef1c4e6c0",
+      "summary": "Apple has responded to the “crackgate” reports that followed the iPhone Duo launch. In a statement to MacRumors, the company said it is aware of an issue affecting the inner display on a small number of units and that anyone who sees a problem should contact AppleCare for a replacement. Apple did not say what causes the cracking or whether a fix is planned. Affected owners have been getting in-store replacements, though limited stock means some have to wait. According to Apple, the cracks tend to appear shortly after purchase rather than developing over time, and some images circulating online are AI-generated, which muddies the scope. Most reported cracks run along the hinge on the lower half of the inner screen, often after a stuck feeling or a popping noise; iFixit’s teardown pointed to a hinge support bar that may not be retracting as designed."
+    },
+    {
+      "n": 2,
+      "headline": "Clock-management blunders put Aaron Glenn on the hot seat as the 2-5 Jets head to Las Vegas",
+      "cat": "Sports / Jets",
+      "source": "AP via Bozeman Daily Chronicle",
+      "url": "https://www.bozemandailychronicle.com/wire/sports/clock-management-issues-and-2-minute-troubles-are-giving-aaron-glenn-and-the-jets-a/article_46596d00-8f38-5123-877d-2b7e6b8dd651.html",
+      "image_local": "images/story-1467.jpg",
+      "image_remote": "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/assets/v3/editorial/9/2b/92bf282d-462f-5cd9-941e-98091a5ed512/6ade8b733c92e.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+      "id": "4af961b70fa8d7f5ac6beb4da60b7b28cdf32041",
+      "summary": "The Jets’ 28-25 loss to the previously winless Dolphins dropped them to 2-5 and put a spotlight on one of Aaron Glenn’s most persistent problems: managing the clock and his timeouts, especially in the final two minutes of the first half. Per the AP, the Jets have been outscored 107-6 in those end-of-half windows over the last two seasons, and Sunday’s game featured another costly sequence. Glenn conceded the team has to execute better and has defended his decisions, while the bright spots on offense have included receiver Omar Cooper Jr., who has thrived since returning from injury, and tight end Mason Taylor. With pressure mounting on his job, Glenn said “Sunday can’t get here fast enough” as New York prepares to face the Raiders."
+    },
+    {
+      "n": 3,
+      "headline": "More than 60 Orthodox Christians killed in a string of attacks in Ethiopia’s Oromia region, church says",
+      "cat": "World / Christians",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g175dgdx2o",
+      "image_local": "images/story-1468.jpg",
+      "image_remote": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ea02/live/3f6f54a0-d147-11f1-9eb5-811878e0f07d.jpg",
+      "id": "aa581a91f28a638796b9d81609502ac7ea8d9cc0",
+      "summary": "Ethiopia’s Orthodox Tewahedo Church says more than 60 people were killed in a series of attacks on Christians in three areas of the Shirka district in the Oromia region, with 20 houses burned to the ground. A church official called it a “massacre,” saying security forces arrived but could not stop the assault, and one resident whose 75-year-old father was killed told BBC Amharic the villagers were surrounded “from all four directions.” A local official blamed a newly formed rebel coalition that includes the Oromo Liberation Army, which has denied carrying out earlier attacks and has not commented. The church said attacks on Christians have been increasing and that its repeated warnings to authorities have produced “no solution”; a human-rights group counted 458 people killed in the area over the previous four years."
+    },
+    {
+      "n": 4,
+      "headline": "Illinois man charged with mailing “HA HA” letters full of white powder to members of Congress — with his own return address",
+      "cat": "Crime / Courts",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/politics/justice-department/man-charged-mailing-threatening-letters-white-substance-congress-rcna605793",
+      "image_local": "",
+      "image_remote": "",
+      "id": "4d6450851b56e34cdbb8a8073d3ea0a62cbd438a",
+      "summary": "Federal prosecutors have charged Matthew Unglesbee of Illinois with mailing four threatening letters containing a white granular substance to members of Congress, all in envelopes bearing his own name and home address. One note read “HA HA” and another “HAH enjoy the gift.” According to the FBI, Unglesbee admitted in an interview Sunday that he sent the letters after hearing about earlier suspicious mailings this month, said the powder was salt because it “kind of looks like” anthrax, and denied involvement in the prior mailings. An anonymous tipster alerted the FBI on Oct. 16, and the letters arrived three days later; a search of his home turned up a fifth, unmailed envelope addressed to a lawmaker. He faces hoax and threatening-communications charges, while the FBI keeps investigating the separate wave of powder letters sent to Congress and election officials."
+    },
+    {
+      "n": 5,
+      "headline": "Five Finger Death Punch closes its 20th-anniversary tour with a $200,000 donation to Team USA athletes",
+      "cat": "Music / Metal",
+      "source": "Blabbermouth",
+      "url": "https://blabbermouth.net/news/five-finger-death-punch-donates-200000-to-team-usa-athletes-preparing-for-2028-olympic-and-paralympic-games",
+      "image_local": "images/story-1469.jpg",
+      "image_remote": "https://assets.blabbermouth.net/media/fivefingerdeathpunchcheckoct2026_638.jpg",
+      "id": "53245d2c25261529b7de1cb3e24a180a560f8825",
+      "summary": "Five Finger Death Punch wrapped the North American leg of its 20th Anniversary World Tour by giving $200,000 to Team USA athletes preparing for the 2028 Olympic and Paralympic Games in Los Angeles. A portion of every ticket sold on the tour went to the effort, which supports USA Judo and USA Cycling’s BMX Racing and BMX Freestyle programs; the band presented the check on Friday, Oct. 23, at the tour’s final night at Jiffy Lube Live in Bristow, Virginia. Founding guitarist Zoltan Bathory, who started judo at nine and still competes, said supporting the sport is deeply personal. The band noted that the U.S., unlike many countries, does not directly fund its Olympic teams, so private support is essential."
+    },
+    {
+      "n": 6,
+      "headline": "iOS 27.2 is out, and the iPhone Duo gets two exclusives: Apple Pencil support and Edge Light for video calls",
+      "cat": "Tech / Apple",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/10/26/iphone-duo-just-got-two-new-features-in-ios-27-2/",
+      "image_local": "images/story-1470.jpg",
+      "image_remote": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo.jpg?quality=82&strip=all&resize=1200,628",
+      "id": "ffb74254dd42f32c168398fb4a8debb81a827c88",
+      "summary": "Apple released iOS 27.2 on Monday with expanded Siri AI features and updates to Messages and Apple TV, and iPhone Duo owners get two features of their own. Apple Pencil now works on the Duo, just days after launch, on both the outer and inner displays for annotating PDFs and images, sketching and handwritten notes; only the Apple Pencil (USB-C) is supported. The Duo also gains Edge Light, a Mac feature that puts a ring of light around the edge of the screen to light your face on FaceTime, Zoom and other video calls, which pairs with the phone’s half-folded “seated” mode for hands-free calling. The update arrived alongside iPadOS, macOS, watchOS, tvOS and HomePod 27.2 releases."
+    },
+    {
+      "n": 7,
+      "headline": "Judge rules Trump DOJ illegally fired Maurene Comey, rejects the administration’s sweeping Article II firing claim; DOJ will appeal",
+      "cat": "Politics / Courts",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/obama-judge-rules-trump-doj-illegally-fired-james-comeys-daughter-rejects-sweeping-article-ii-claim",
+      "image_local": "images/story-1471.jpg",
+      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2025/09/comey.png",
+      "id": "b8d344af535c8c3f68d5b661bc230cc445996712",
+      "summary": "Federal Judge Jesse Furman, an Obama appointee in New York, ruled Monday that the Justice Department unlawfully fired former prosecutor Maurene Comey, daughter of ex-FBI Director James Comey. The department had conceded the firing was not for cause or based on performance, arguing instead that Article II lets the attorney general remove assistant U.S. attorneys at will. Furman said that argument “flies in the face of nearly two centuries of Supreme Court precedent” and found the firing violated the Civil Service Reform Act. He ordered her retroactively reinstated with back pay through Dec. 20, 2025, when she took another job. A DOJ spokesperson said the department disagrees and will appeal, and the ruling lands as the president’s removal powers face separate tests at the Supreme Court."
+    },
+    {
+      "n": 8,
+      "headline": "Walter Koenig, Chekov on the original “Star Trek,” dies at 90, leaving Shatner and Takei as the last surviving stars",
+      "cat": "Entertainment",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/walter-koenig-actor-played-chekov-original-star-trek-series-dies-90-rcna605743",
+      "image_local": "images/story-1472.jpg",
+      "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261026-george-takei-walter-koenig-ONETIMEUSE-mn-1315-ae5500.jpg",
+      "id": "225031105a25106670581b22a006e364c1e9bd15",
+      "summary": "Walter Koenig, who played navigator Pavel Chekov on the original “Star Trek” series and in the films that followed, has died at 90 at his home in North Hollywood, his agent confirmed Monday. His death leaves William Shatner, 95, and George Takei, 89, as the only surviving primary cast members of the classic show, following Leonard Nimoy, DeForest Kelley, James Doohan and Nichelle Nichols. Koenig was the best man at Takei’s 2008 wedding, held on Koenig’s Sept. 14 birthday, and Takei remembered him as “a writer, a teacher, a thoughtful man, and a loyal friend” after nearly six decades of friendship that began on the bridge of the Enterprise."
+    },
+    {
+      "n": 9,
+      "headline": "Jeep now builds the Gladiator with 35-inch tires from the factory in a limited 2027 Launch Edition",
+      "cat": "Autos / Jeep",
+      "source": "Guide Auto",
+      "url": "https://www.guideautoweb.com/en/articles/83642/you-can-now-order-a-jeep-gladiator-with-35-inch-tires/",
+      "image_local": "images/story-1473.jpg",
+      "image_remote": "https://mmx.prnewswire.com/media/MS2018175/2027-Jeep-Gladiator-35-inch-Tire-Launch-Edition.jpg?id=OA3032380&p=facebook",
+      "id": "2bca90d973e0d83ab933f431322f7690555e85fd",
+      "summary": "Gladiator owners’ favorite modification is now a factory option. Jeep announced the limited-production 2027 Gladiator 35-inch Tire Launch Edition on Willys, Rubicon and Rubicon X trims, with 35-inch all-terrain tires on bronze 17-inch beadlock-capable wheels, a one-inch suspension lift, Dana 44 axles with 4.56 gears, performance brakes and highline fender flares. Ground clearance rises to 12.9 inches, with approach, breakover and departure angles of 46.7, 23.3 and 26.7 degrees. Rubicon models add hood and vent graphics, and the Rubicon X gets an exclusive side graphic and performance hood. Orders are open now, though Jeep has not said how many will be built. Other 2027 Gladiator updates include a standard vented power-dome hood on the Sahara and standard hardtops on Rubicon and Mojave."
+    },
+    {
+      "n": 10,
       "headline": "Apple unveils the OLED iPad mini: 8.5-inch screen, A20 Pro chip, IP67 water resistance, and a $699 starting price",
       "cat": "Tech / Apple",
       "source": "MacRumors",
@@ -13,7 +112,7 @@
       "summary": "Apple on Monday announced what it calls the iPad mini’s “biggest update ever,” moving its smallest tablet to an 8.5-inch OLED display (up from 8.3 inches) with higher contrast and more than twice the peak brightness, up to 1,200 nits for HDR. The new model runs on an A20 Pro chip, is about 15% thinner and lighter at 5.4mm, and is Apple’s first iPad rated IP67 for water and dust. It also adds a speaker-hole-free “Acoustic Display” audio system, a landscape front camera, Apple’s N1 wireless chip with Wi-Fi 7, and an optional $100 nano-texture glass on 256GB and 512GB models; Touch ID and USB-C stay, but there is still no 120Hz ProMotion. Pricing starts at $699 for Wi-Fi and $849 for cellular, a $100 increase, in just two colors, Midnight and Starlight. Pre-orders open Wednesday, Oct. 28, with availability Friday, Nov. 6, and Apple is teasing more products in an “exciting week” ahead of its Oct. 28 event."
     },
     {
-      "n": 2,
+      "n": 11,
       "headline": "Anthropic files for an IPO that could top $2 trillion, revealing an $80.7 billion six-month loss and a $120 billion SpaceX compute deal",
       "cat": "Tech / AI",
       "source": "NBC News",
@@ -24,7 +123,7 @@
       "summary": "Claude maker Anthropic made its IPO filing public on Monday ahead of what could be one of the largest stock debuts ever, widely expected in mid-November, with a valuation that could exceed $2 trillion and top the record set by Elon Musk’s SpaceX in June. The SEC filing shows revenue growing 1,368% year over year in the quarter ended June 30, but also a net loss of $80.7 billion for the first half of 2026, after a $42 billion loss in all of 2025, as server and chip costs tripled. Anthropic has committed to spend at least $110 billion with Amazon on cloud services through 2036, $120 billion with SpaceX through 2029, $115 billion with Google and $45 billion with Microsoft through 2033. Share price, share count and valuation will be set after an investor road show. The company says its cash and sales should cover the next 12 months but warns it may need to raise more money."
     },
     {
-      "n": 3,
+      "n": 12,
       "headline": "15-year-old arrested in the shooting near Florida A&M’s stadium that wounded 12 after homecoming",
       "cat": "Crime / Courts",
       "source": "NBC News",
@@ -35,7 +134,7 @@
       "summary": "Tallahassee police said Monday they arrested a 15-year-old on Sunday in connection with Saturday night’s shooting near Florida A&M University’s Bragg Memorial Stadium, where homecoming festivities included a football game. The teen faces 11 counts of attempted second-degree murder and possession of a firearm by a delinquent. Twelve people were wounded, including minors, and another person hurt an ankle while fleeing the gunfire near Perry and Manatee streets around 8 p.m. Police said preliminary findings show a physical altercation between people who knew each other came before the shots, and none of the victims appear to have been the intended targets. Chief Lawrence Revell called the arrest a significant step but said the investigation is not over."
     },
     {
-      "n": 4,
+      "n": 13,
       "headline": "House GOP sends “dozens and dozens” of observers to watch ballot counting in close midterm races",
       "cat": "Politics / Election integrity",
       "source": "Fox News",
@@ -46,7 +145,7 @@
       "summary": "House Republicans are deploying what Committee on House Administration Chairman Bryan Steil (R-Wis.) calls the “most robust” election-observer program the House has ever run, sending congressional staff across the country for the Nov. 3 midterms to watch ballot counting in districts expected to be close. The panel, which oversees federal elections, says the observers are there to make sure elections are run cleanly and to document problems that could support legal challenges if irregularities turn up. Steil said shifts will vary by state: in places like Florida that count quickly the work may end in the evening, while in California, where he watched Los Angeles County count about 10 million people’s ballots at one site two years ago, observers may be on duty for days until the count ends. The effort comes as both parties, the Justice Department and outside groups prepare record poll-monitoring operations with control of the House at stake."
     },
     {
-      "n": 5,
+      "n": 14,
       "headline": "DOJ survey: violent crime victimization fell about 25% in 2025, the biggest one-year drop since 1973",
       "cat": "Crime / Justice",
       "source": "CBS News",
@@ -57,7 +156,7 @@
       "summary": "A preliminary National Crime Victimization Survey released Monday by the Justice Department’s Bureau of Justice Statistics found the rate of violent crime victimization fell about 25% in 2025 compared with 2024, which the department called the largest decline since 1973. The Census Bureau survey, based on 101,980 household interviews with people 12 and older, estimates 669,000 fewer violent crimes (excluding simple assaults) than the year before. Aggravated assault victimization fell an estimated 31%, robbery 27%, property crime 19%, burglary and trespassing 25%, and motor vehicle theft 29%. Because the survey asks households directly, it also captures crimes never reported to police. The results line up with the FBI’s earlier crime report, which showed violent crime falling in 2025 and the murder rate at a 20-year low, figures President Trump and his allies have been quick to highlight."
     },
     {
-      "n": 6,
+      "n": 15,
       "headline": "Wrong-way van sped south in the northbound lanes of Route 25 in Trumbull before troopers stopped it on I-95",
       "cat": "Local / Trumbull CT",
       "source": "Patch (Trumbull)",
@@ -68,7 +167,7 @@
       "summary": "A wrong-way driver was arrested Sunday night after racing through part of Trumbull, Connecticut State Police said. At about 9:45 p.m., Troop G got a report of a van “traveling at a high rate of speed, southbound in the northbound lanes” of Route 25 in Trumbull. Troopers found the van and stopped it on I-95 northbound near Exit 29 in Bridgeport. No injuries were reported. The driver, who has not been named, was taken into custody and arrested; police have not yet said what charges were filed."
     },
     {
-      "n": 7,
+      "n": 16,
       "headline": "Harley’s LiveWire will debut the production Dust Hightail electric dirt bike at EICMA next month",
       "cat": "Motorcycles / Harley-Davidson",
       "source": "RideApart",
@@ -79,7 +178,7 @@
       "summary": "Harley-Davidson’s electric spinoff LiveWire says the production-intent version of the Dust Hightail, the lightweight electric dirt bike from the startup Dust Moto that LiveWire acquired, will make its first public appearance at the EICMA motorcycle show in Milan in November, with sales expected next year. RideApart, which rode an early Dust prototype, calls it nimble, quick and very light, and argues the bike may be the most important product LiveWire has: the brand has burned cash since its launch and has struggled to win sales or a wider audience. The Hightail is part of Harley’s “Back to the Bricks” strategy, and RideApart calls all-electric dirt bikes one of the hottest segments in motorcycling right now."
     },
     {
-      "n": 8,
+      "n": 17,
       "headline": "Cheap Trick’s Rick Nielsen sells his famous five-neck Hamer for $313,600, nearly double its estimate",
       "cat": "Music / Guitar",
       "source": "Guitar World",
@@ -90,7 +189,7 @@
       "summary": "The results are in from the auction of Cheap Trick guitarist Rick Nielsen’s collection, and his five-neck Hamer, originally planned to have six necks, sold for $313,600, almost twice its $175,000 pre-auction estimate. The guitar combines 12-string, fretless and Strat- and Les Paul Junior-style necks and has become a symbol of Nielsen’s over-the-top stage style; the auction appraiser said it took a lot of negotiation to include that “crown jewel.” A stage-played 1975 Hamer Explorer-style guitar with a 1970s Gibson humbucker and a DiMarzio bridge pickup brought $256,000, his 1982 “One on One” Hamer fetched $44,800, and his 2007 checkerboard Hamer went for $38,400, among other unusual builds from the Rock & Roll Hall of Famer’s collection."
     },
     {
-      "n": 9,
+      "n": 18,
       "headline": "Rumor: LEGO’s first Daily Planet set is a 2,981-piece DC modular building with 12 minifigures, due July 2027",
       "cat": "LEGO",
       "source": "StoneWars",
@@ -101,7 +200,7 @@
       "summary": "Superman’s newsroom may finally get its own big LEGO set. A rumor from BrickTap says LEGO DC Daily Planet (67011) is coming in July 2027 as a modular-style building with 2,981 pieces, 12 minifigures and a $299.99 price. The set first appeared in a large LEGO leak in August; the new details add the set number, piece count and timing. It would give DC fans a counterpart to the Daily Bugle from Marvel, and it is unclear whether it will use one or two baseplates, since the Daily Planet has been drawn both with a square footprint and a longer rectangular one. The details are unconfirmed until LEGO announces the set."
     },
     {
-      "n": 10,
+      "n": 19,
       "headline": "Flávio Bolsonaro refuses to concede Brazil’s runoff and says he will seek to annul Lula’s win over the voting extension",
       "cat": "World / Latin America",
       "source": "Kyiv Independent",
@@ -110,105 +209,6 @@
       "image_remote": "https://assets.kyivindependent.com/content/images/2026/10/GettyImages-2301583574_20261026-030314_20261026-031144.jpg",
       "id": "b0926e188d4f4ab16ca213490cb99b14bc9f817c",
       "summary": "Brazilian President Luiz Inácio Lula da Silva won a fourth, nonconsecutive term on Sunday, taking 51.79% of the vote to 48.21% for right-wing Sen. Flávio Bolsonaro, but Bolsonaro refused to concede and said he would seek to annul the election. He called Supreme Court Justice Cristiano Zanin’s last-minute decision to keep polls open two extra hours “unacceptable,” even though both campaigns had asked for the extension after bus disruptions and heavy rain. The electoral court has recognized Lula’s victory, and Bolsonaro’s refusal does not change the result. His father, former President Jair Bolsonaro, also refused to concede after losing to Lula in 2022 and is now in prison for a plot to overturn that election. Lula, 80, becomes the first Brazilian president to win four terms and the first candidate since the return to democracy to win a runoff after finishing second in round one. He has also tried to position Brazil as a possible mediator between Ukraine and Russia."
-    },
-    {
-      "n": 11,
-      "headline": "Jordan arrests three men after a dawn shootout over the attack on a Greek Orthodox funeral that killed nine",
-      "cat": "World / Christians",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/jordan-deadly-attack-greek-orthodox-church-3-arrests/",
-      "image_local": "images/story-1453.jpg",
-      "image_remote": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/26/41ef80d7-bd7d-4ff4-ab10-392aa7173f4c/thumbnail/1200x630/2b3331e9de4663fbf7107144da2b8b58/gettyimages-2301910587.jpg",
-      "id": "63d81af14338fb0c8f9f38024789893f4c633d62",
-      "summary": "Jordanian security forces arrested three men Monday over Friday’s attack on a Greek Orthodox church that killed nine people and wounded more than two dozen. The gunmen opened fire during a funeral at the church in the village of Hammoud in Karak governorate, south of Amman, an area with a minority Christian population. The Public Security Directorate said the suspects were caught after a dawn shootout in which all three were wounded; no members of the security forces were hurt. Interior Minister Mazen Al-Faraya said the three had been identified soon after what he called a “terrorist act” and “put up fierce resistance” before being taken into custody with severe injuries. There has still been no claim of responsibility, and authorities have not named the suspects or tied them to any militant group. King Abdullah II ordered an “iron fist” response against those he called outlaws of Islam trying to undermine the unity of the Jordanian people."
-    },
-    {
-      "n": 12,
-      "headline": "Japan indicts a 20-year-old U.S. Marine on murder and robbery charges in a woman’s strangling on Okinawa",
-      "cat": "Crime / Courts",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/us-marine-indicted-murder-charge-woman-killing-japan/",
-      "image_local": "images/story-1454.jpg",
-      "image_remote": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/06/e0e972aa-bbb8-411e-8f5d-6e21d08c1c18/thumbnail/1200x630g2/ee9354b2abec986c8a42a57e2d57434f/2026-10-05t075544z-1816935464-rc2vwna7glrk-rtrmadp-3-japan-crime-usa.jpg",
-      "id": "d738ff617d9a232a9e7fc01e4adc5a3d5be7c6a7",
-      "summary": "Japanese prosecutors have indicted a U.S. Marine on murder and robbery charges in the killing of a woman on Okinawa, a court spokesman in Naha said Monday. Police arrested Lance Cpl. Devin Jacob Ballard, 20, who is stationed at Marine Corps Air Station Futenma, on suspicion of strangling 39-year-old Anna Yagi in a hotel in Naha on Oct. 3. The Yomiuri Shimbun reported that the indictment says he used a telephone cord and took a backpack holding her wallet. He denied the allegations when arrested but has since made statements suggesting some involvement, Japanese media reported. The case caused public outrage, and Japan’s prime minister called it a “heinous crime.” The U.S. military held a two-day operational pause and then imposed a month-long curfew, and Foreign Minister Toshimitsu Motegi says Tokyo and Washington will review off-base conduct rules for U.S. troops. Once a suspect is indicted in Japan, the conviction rate is more than 99%."
-    },
-    {
-      "n": 13,
-      "headline": "Seahawks smother Patrick Mahomes and hand the previously unbeaten Chiefs a 20-3 loss on Sunday night",
-      "cat": "Sports / NFL",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/sports/nfl/seattle-seahawks-kansas-city-chiefs-nfl-patrick-mahomes-result-rcna605649",
-      "image_local": "images/story-1455.jpg",
-      "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261025-Seahawks-845-GWR-571826.jpg",
-      "id": "e2f3aa292d4c40da58a38f7e4918f13e82381160",
-      "summary": "The Seattle Seahawks’ defense dominated Sunday night in a 20-3 win over the previously undefeated Kansas City Chiefs. Patrick Mahomes threw for just 165 yards with no touchdowns and an interception, and Kansas City had its fewest total yards, first downs and red-zone drives in any Mahomes start. The three points tied the Chiefs’ lowest output with him at quarterback. Former Seahawk Kenneth Walker III, the Super Bowl MVP for Seattle in February, came in leading the NFL in rushing but was held to 36 yards on 14 carries against his old team and walked off without greeting his former teammates. Sam Darnold threw for 257 yards and a touchdown, and Jaxon Smith-Njigba caught nine passes for 150 yards and a score. The win snapped a two-game skid for Seattle, which is now two games behind San Francisco in the NFC West. “We’ll go back to the drawing board,” Chiefs coach Andy Reid said."
-    },
-    {
-      "n": 14,
-      "headline": "Tesla Cybercabs swarm Austin’s F1 weekend, setting a sightings record as the fleet hits 463 registered cars",
-      "cat": "EVs / Tesla",
-      "source": "Teslarati",
-      "url": "https://www.teslarati.com/tesla-cybercabs-take-over-austins-f1-weekend/",
-      "image_local": "images/story-1456.jpg",
-      "image_remote": "https://www.teslarati.com/wp-content/uploads/2026/10/tesla-cybercab-pairing-1000x600.jpeg",
-      "id": "67f5ce657a60ca2f752678b9eff0970a9ec9035a",
-      "summary": "Tesla used the Formula 1 U.S. Grand Prix in Austin as the biggest public test yet for its driverless Cybercabs. Tesla AI software chief Ashok Elluswamy shared a photo of a long line of gold Cybercabs and Model Y robotaxis near Circuit of the Americas, writing, “Robotaxis as far as the eye can see!” Tesla quietly expanded its Austin service area around the track days earlier and kept ride requests open until 1 a.m., though some spots near the circuit were blocked and one rider said drop-off was nearly a 20-minute walk from the front gate. The tracking account Cybercab Spotter logged a record 1,250 sightings on qualifying day Saturday, beating the old high of 1,072. Texas’ automated vehicle registry listed 463 Cybercabs at midday Sunday, up from the 300-plus Tesla claimed on Oct. 10. Rival Waymo, which runs in Austin only through Uber, does not reach the track. Tesla says it plans around-the-clock robotaxi service and its first customer Cybercab deliveries before the end of 2026."
-    },
-    {
-      "n": 15,
-      "headline": "Eric Bauza, the modern voice of Bugs Bunny and Daffy Duck, has died suddenly at 46",
-      "cat": "Entertainment",
-      "source": "Gizmodo",
-      "url": "https://gizmodo.com/eric-bauza-looney-tunes-actor-has-died-at-age-46-2000830429",
-      "image_local": "images/story-1457.jpg",
-      "image_remote": "https://gizmodo.com/app/uploads/2026/10/eric-bauza-hed-1200x675.jpg",
-      "id": "d1503388a38614f821ec1741da2ebf9d35783179",
-      "summary": "Voice actor Eric Bauza, the current voice of Looney Tunes stars including Bugs Bunny, Daffy Duck, Porky Pig and Tweety, has died at 46. His family announced his death Sunday night, calling it sudden. ABC7 reported that the Los Angeles County Medical Examiner listed hypertensive cardiovascular disease as the cause. The Canadian-born actor got his start on the Fox Kids show The Ripping Friends and later replaced Billy West as Stimpy on Ren & Stimpy “Adult Party Cartoon.” He went on to voice characters on El Tigre and Avatar: The Last Airbender, Splinter in Rise of the Teenage Mutant Ninja Turtles, Baby Fozzie in Muppet Babies, Luke Skywalker in Star Wars animation and LEGO projects, and Marvel and DC roles. This year he voiced nearly every male Looney Tunes character in Coyote vs. Acme and urged fans to see it in theaters after the film was rescued from cancellation. He also voices the Looney cast in a short attached to The Cat in the Hat."
-    },
-    {
-      "n": 16,
-      "headline": "Bruce Blakeman calls Gov. Kathy Hochul Mayor Zohran Mamdani’s “puppet” as the New York governor’s race nears Election Day",
-      "cat": "Politics / New York",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/politics/bruce-blakeman-calls-kathy-hochul-zohran-mamdani-puppet-new-york-campaign-rally",
-      "image_local": "images/story-1458.jpg",
-      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/Hochul-Mamdani-Blakeman.jpg",
-      "id": "aa8f62e8aa659250f75ffea5120c1a2f8e037c15",
-      "summary": "Republican governor candidate Bruce Blakeman called New York Gov. Kathy Hochul a “puppet” of New York City Mayor Zohran Mamdani at a Sunday rally in Yorktown Heights, accusing both Democrats of failing on crime and illegal immigration. Hochul, who is seeking a second full term on Nov. 3, has been campaigning alongside Mamdani, including at a recent rally in Brooklyn. “Kathy Hochul, she was out campaigning with Mamdani this week. And I say that’s great,” Blakeman said, according to the New York Post. “Please take him everywhere you go, Kathy, because I want to remind people that this un-American, antisemite, anti-Christian mayor is running the Democratic Party and Kathy Hochul is nothing more than his puppet.” Blakeman, the Nassau County executive, has hammered Hochul on public safety, calling her the “most pro-criminal governor” during a subway campaign stop earlier this month. The two clashed over her ties to Mamdani in a debate last week."
-    },
-    {
-      "n": 17,
-      "headline": "Trumbull is on the list for new and upgraded bus shelters under Connecticut’s $20 million bus stop program",
-      "cat": "Local / Trumbull CT",
-      "source": "Patch (Trumbull)",
-      "url": "https://patch.com/connecticut/trumbull/patch-am-how-will-connecticut-s-bus-shelter-upgrades-eventually-re-nodx",
-      "image_local": "",
-      "image_remote": "",
-      "id": "d39bf345aa2ac1ac697e87cafe9631a2ee658f63",
-      "summary": "Trumbull is one of the Connecticut towns with bus shelter projects in the works under the state Department of Transportation’s Bus Enhancement Program, Monday’s Trumbull Patch AM reports. The $20 million program, which launched in 2025, aims to install 600 new bus shelters and upgrade amenities at busy CT Transit stops statewide by 2029. Stamford will get 18 new shelters next summer, and the other towns with plans include Bridgeport, Stratford, Hartford, Farmington, Mansfield, Waterbury, West Haven and Trumbull; Hamden was first, installing five shelters in late 2025. No timeline or locations for Trumbull’s shelters have been announced yet. Patch AM also reminds residents that the Nov. 3 general election is next Tuesday and links to the state’s official resources for finding a polling place, checking registration and voting by absentee ballot or early. Weekly wellness sessions continue on the town calendar through Dec. 16."
-    },
-    {
-      "n": 18,
-      "headline": "Musk says SpaceX has closed a $40 billion debt deal to buy AI chips, and predicts most “neocloud” rivals will fail",
-      "cat": "Elon Musk / SpaceX",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/26/spacex-closes-40-billion-debt-deal-for-ai-chips-elon-musk-.html",
-      "image_local": "images/story-1449.jpg",
-      "image_remote": "https://image.cnbcfm.com/api/v1/image/108433898-1792439982335-gettyimages-2299248528-wm020115_ej7axcme.jpeg?v=1792440027&w=1920&h=1080",
-      "id": "dd38ceea9da7568834c9047738d2169210c8e26e",
-      "summary": "Elon Musk said on X Sunday that SpaceX has closed $40 billion in debt financing to buy GPUs, the chips that power artificial intelligence systems. He said the company is investment grade and earns revenue from Starlink and rocket launches, and that the money, mostly callable debt tied to the chips, is expected to arrive in the first and second quarters of 2027. Bloomberg had reported that Goldman Sachs led talks with investors including Apollo, using a special purpose vehicle to keep the debt off SpaceX’s balance sheet. SpaceX’s AI business, which it calls “Super Intelligence,” is now its largest unit, with third-quarter revenue up ninefold to $7.56 billion. Musk also said debt markets have largely shut off for companies without substantial revenue outside AI data centers, and predicted that more than 200 so-called neocloud companies that rent out AI computing will face widespread failures and consolidation, with only a few surviving."
-    },
-    {
-      "n": 19,
-      "headline": "A back deck collapses during a William & Mary homecoming party in Williamsburg, injuring at least 28 people",
-      "cat": "U.S. / Accidents",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/us/college-homecoming-party-turns-chaos-deck-collapses-leaving-28-people-injured",
-      "image_local": "images/story-1450.jpg",
-      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/william-mary-campus-porch-collapse-homecoming.png",
-      "id": "b2bd62ea0fb413f0532f08d580f4e827864ecb37",
-      "summary": "A homecoming party near William & Mary turned frightening Friday night when the back deck of an off-campus home in Williamsburg, Virginia, gave way. Dispatchers got a report of a structure collapse around 10:07 p.m. on the 200 block of Matoaka Court, and police and firefighters found the deck had come down. At least 28 people were hurt, and the university confirmed students were among them. Emergency crews took 13 people to hospitals and about 15 others sought treatment on their own; city officials said all of the injuries were non-life-threatening. “All the way down the street and wrapped around just ambulances and fire trucks,” a neighbor told WAVY, describing at least nine ambulances and a stream of hospital gurneys. Photos released by the city show the wooden deck tipped down behind police tape."
     },
     {
       "n": 20,

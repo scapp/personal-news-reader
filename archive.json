@@ -1637,7 +1637,16 @@
     "e20675fe001178bf70e6f741ea65965d34e46656",
     "0da279ded4a2432e9cea13693f74b4b8a286a1da",
     "d6b3c34487f0590429689af6fe98b45cfd268da6",
-    "c6d58a0009694534d5fe380b496914028d39c489"
+    "c6d58a0009694534d5fe380b496914028d39c489",
+    "189120018169f57679b84275b624a02ef1c4e6c0",
+    "4af961b70fa8d7f5ac6beb4da60b7b28cdf32041",
+    "aa581a91f28a638796b9d81609502ac7ea8d9cc0",
+    "4d6450851b56e34cdbb8a8073d3ea0a62cbd438a",
+    "53245d2c25261529b7de1cb3e24a180a560f8825",
+    "ffb74254dd42f32c168398fb4a8debb81a827c88",
+    "b8d344af535c8c3f68d5b661bc230cc445996712",
+    "225031105a25106670581b22a006e364c1e9bd15",
+    "2bca90d973e0d83ab933f431322f7690555e85fd"
   ],
   "stories": {
     "0c2ac7a5e342411678296315c4c59043b1f067cc": {
@@ -19375,7 +19384,97 @@
       "image_remote": "https://stonewars.com/wp-content/uploads/2026/10/daily-planet-geruecht.jpg",
       "image_local": "images/story-1465.jpg",
       "id": "c6d58a0009694534d5fe380b496914028d39c489"
+    },
+    "189120018169f57679b84275b624a02ef1c4e6c0": {
+      "headline": "Apple acknowledges iPhone Duo inner-display cracks on “a small number” of units and tells owners to contact AppleCare",
+      "cat": "Tech / Apple",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/26/iphone-duo-crack-apple-response/",
+      "summary": "Apple has responded to the “crackgate” reports that followed the iPhone Duo launch. In a statement to MacRumors, the company said it is aware of an issue affecting the inner display on a small number of units and that anyone who sees a problem should contact AppleCare for a replacement. Apple did not say what causes the cracking or whether a fix is planned. Affected owners have been getting in-store replacements, though limited stock means some have to wait. According to Apple, the cracks tend to appear shortly after purchase rather than developing over time, and some images circulating online are AI-generated, which muddies the scope. Most reported cracks run along the hinge on the lower half of the inner screen, often after a stuck feeling or a popping noise; iFixit’s teardown pointed to a hinge support bar that may not be retracting as designed.",
+      "image_remote": "https://images.macrumors.com/t/tTTY0i4LTHQ-DMYL8Nz_ZjBSgqU=/1600x/article-new/2026/10/iphone-duo-screen-crack.jpg",
+      "image_local": "images/story-1466.jpg",
+      "id": "189120018169f57679b84275b624a02ef1c4e6c0"
+    },
+    "4af961b70fa8d7f5ac6beb4da60b7b28cdf32041": {
+      "headline": "Clock-management blunders put Aaron Glenn on the hot seat as the 2-5 Jets head to Las Vegas",
+      "cat": "Sports / Jets",
+      "source": "AP via Bozeman Daily Chronicle",
+      "url": "https://www.bozemandailychronicle.com/wire/sports/clock-management-issues-and-2-minute-troubles-are-giving-aaron-glenn-and-the-jets-a/article_46596d00-8f38-5123-877d-2b7e6b8dd651.html",
+      "summary": "The Jets’ 28-25 loss to the previously winless Dolphins dropped them to 2-5 and put a spotlight on one of Aaron Glenn’s most persistent problems: managing the clock and his timeouts, especially in the final two minutes of the first half. Per the AP, the Jets have been outscored 107-6 in those end-of-half windows over the last two seasons, and Sunday’s game featured another costly sequence. Glenn conceded the team has to execute better and has defended his decisions, while the bright spots on offense have included receiver Omar Cooper Jr., who has thrived since returning from injury, and tight end Mason Taylor. With pressure mounting on his job, Glenn said “Sunday can’t get here fast enough” as New York prepares to face the Raiders.",
+      "image_remote": "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/assets/v3/editorial/9/2b/92bf282d-462f-5cd9-941e-98091a5ed512/6ade8b733c92e.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+      "image_local": "images/story-1467.jpg",
+      "id": "4af961b70fa8d7f5ac6beb4da60b7b28cdf32041"
+    },
+    "aa581a91f28a638796b9d81609502ac7ea8d9cc0": {
+      "headline": "More than 60 Orthodox Christians killed in a string of attacks in Ethiopia’s Oromia region, church says",
+      "cat": "World / Christians",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g175dgdx2o",
+      "summary": "Ethiopia’s Orthodox Tewahedo Church says more than 60 people were killed in a series of attacks on Christians in three areas of the Shirka district in the Oromia region, with 20 houses burned to the ground. A church official called it a “massacre,” saying security forces arrived but could not stop the assault, and one resident whose 75-year-old father was killed told BBC Amharic the villagers were surrounded “from all four directions.” A local official blamed a newly formed rebel coalition that includes the Oromo Liberation Army, which has denied carrying out earlier attacks and has not commented. The church said attacks on Christians have been increasing and that its repeated warnings to authorities have produced “no solution”; a human-rights group counted 458 people killed in the area over the previous four years.",
+      "image_remote": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ea02/live/3f6f54a0-d147-11f1-9eb5-811878e0f07d.jpg",
+      "image_local": "images/story-1468.jpg",
+      "id": "aa581a91f28a638796b9d81609502ac7ea8d9cc0"
+    },
+    "4d6450851b56e34cdbb8a8073d3ea0a62cbd438a": {
+      "headline": "Illinois man charged with mailing “HA HA” letters full of white powder to members of Congress — with his own return address",
+      "cat": "Crime / Courts",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/politics/justice-department/man-charged-mailing-threatening-letters-white-substance-congress-rcna605793",
+      "summary": "Federal prosecutors have charged Matthew Unglesbee of Illinois with mailing four threatening letters containing a white granular substance to members of Congress, all in envelopes bearing his own name and home address. One note read “HA HA” and another “HAH enjoy the gift.” According to the FBI, Unglesbee admitted in an interview Sunday that he sent the letters after hearing about earlier suspicious mailings this month, said the powder was salt because it “kind of looks like” anthrax, and denied involvement in the prior mailings. An anonymous tipster alerted the FBI on Oct. 16, and the letters arrived three days later; a search of his home turned up a fifth, unmailed envelope addressed to a lawmaker. He faces hoax and threatening-communications charges, while the FBI keeps investigating the separate wave of powder letters sent to Congress and election officials.",
+      "image_remote": "",
+      "image_local": "",
+      "id": "4d6450851b56e34cdbb8a8073d3ea0a62cbd438a"
+    },
+    "53245d2c25261529b7de1cb3e24a180a560f8825": {
+      "headline": "Five Finger Death Punch closes its 20th-anniversary tour with a $200,000 donation to Team USA athletes",
+      "cat": "Music / Metal",
+      "source": "Blabbermouth",
+      "url": "https://blabbermouth.net/news/five-finger-death-punch-donates-200000-to-team-usa-athletes-preparing-for-2028-olympic-and-paralympic-games",
+      "summary": "Five Finger Death Punch wrapped the North American leg of its 20th Anniversary World Tour by giving $200,000 to Team USA athletes preparing for the 2028 Olympic and Paralympic Games in Los Angeles. A portion of every ticket sold on the tour went to the effort, which supports USA Judo and USA Cycling’s BMX Racing and BMX Freestyle programs; the band presented the check on Friday, Oct. 23, at the tour’s final night at Jiffy Lube Live in Bristow, Virginia. Founding guitarist Zoltan Bathory, who started judo at nine and still competes, said supporting the sport is deeply personal. The band noted that the U.S., unlike many countries, does not directly fund its Olympic teams, so private support is essential.",
+      "image_remote": "https://assets.blabbermouth.net/media/fivefingerdeathpunchcheckoct2026_638.jpg",
+      "image_local": "images/story-1469.jpg",
+      "id": "53245d2c25261529b7de1cb3e24a180a560f8825"
+    },
+    "ffb74254dd42f32c168398fb4a8debb81a827c88": {
+      "headline": "iOS 27.2 is out, and the iPhone Duo gets two exclusives: Apple Pencil support and Edge Light for video calls",
+      "cat": "Tech / Apple",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/10/26/iphone-duo-just-got-two-new-features-in-ios-27-2/",
+      "summary": "Apple released iOS 27.2 on Monday with expanded Siri AI features and updates to Messages and Apple TV, and iPhone Duo owners get two features of their own. Apple Pencil now works on the Duo, just days after launch, on both the outer and inner displays for annotating PDFs and images, sketching and handwritten notes; only the Apple Pencil (USB-C) is supported. The Duo also gains Edge Light, a Mac feature that puts a ring of light around the edge of the screen to light your face on FaceTime, Zoom and other video calls, which pairs with the phone’s half-folded “seated” mode for hands-free calling. The update arrived alongside iPadOS, macOS, watchOS, tvOS and HomePod 27.2 releases.",
+      "image_remote": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo.jpg?quality=82&strip=all&resize=1200,628",
+      "image_local": "images/story-1470.jpg",
+      "id": "ffb74254dd42f32c168398fb4a8debb81a827c88"
+    },
+    "b8d344af535c8c3f68d5b661bc230cc445996712": {
+      "headline": "Judge rules Trump DOJ illegally fired Maurene Comey, rejects the administration’s sweeping Article II firing claim; DOJ will appeal",
+      "cat": "Politics / Courts",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/obama-judge-rules-trump-doj-illegally-fired-james-comeys-daughter-rejects-sweeping-article-ii-claim",
+      "summary": "Federal Judge Jesse Furman, an Obama appointee in New York, ruled Monday that the Justice Department unlawfully fired former prosecutor Maurene Comey, daughter of ex-FBI Director James Comey. The department had conceded the firing was not for cause or based on performance, arguing instead that Article II lets the attorney general remove assistant U.S. attorneys at will. Furman said that argument “flies in the face of nearly two centuries of Supreme Court precedent” and found the firing violated the Civil Service Reform Act. He ordered her retroactively reinstated with back pay through Dec. 20, 2025, when she took another job. A DOJ spokesperson said the department disagrees and will appeal, and the ruling lands as the president’s removal powers face separate tests at the Supreme Court.",
+      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2025/09/comey.png",
+      "image_local": "images/story-1471.jpg",
+      "id": "b8d344af535c8c3f68d5b661bc230cc445996712"
+    },
+    "225031105a25106670581b22a006e364c1e9bd15": {
+      "headline": "Walter Koenig, Chekov on the original “Star Trek,” dies at 90, leaving Shatner and Takei as the last surviving stars",
+      "cat": "Entertainment",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/walter-koenig-actor-played-chekov-original-star-trek-series-dies-90-rcna605743",
+      "summary": "Walter Koenig, who played navigator Pavel Chekov on the original “Star Trek” series and in the films that followed, has died at 90 at his home in North Hollywood, his agent confirmed Monday. His death leaves William Shatner, 95, and George Takei, 89, as the only surviving primary cast members of the classic show, following Leonard Nimoy, DeForest Kelley, James Doohan and Nichelle Nichols. Koenig was the best man at Takei’s 2008 wedding, held on Koenig’s Sept. 14 birthday, and Takei remembered him as “a writer, a teacher, a thoughtful man, and a loyal friend” after nearly six decades of friendship that began on the bridge of the Enterprise.",
+      "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261026-george-takei-walter-koenig-ONETIMEUSE-mn-1315-ae5500.jpg",
+      "image_local": "images/story-1472.jpg",
+      "id": "225031105a25106670581b22a006e364c1e9bd15"
+    },
+    "2bca90d973e0d83ab933f431322f7690555e85fd": {
+      "headline": "Jeep now builds the Gladiator with 35-inch tires from the factory in a limited 2027 Launch Edition",
+      "cat": "Autos / Jeep",
+      "source": "Guide Auto",
+      "url": "https://www.guideautoweb.com/en/articles/83642/you-can-now-order-a-jeep-gladiator-with-35-inch-tires/",
+      "summary": "Gladiator owners’ favorite modification is now a factory option. Jeep announced the limited-production 2027 Gladiator 35-inch Tire Launch Edition on Willys, Rubicon and Rubicon X trims, with 35-inch all-terrain tires on bronze 17-inch beadlock-capable wheels, a one-inch suspension lift, Dana 44 axles with 4.56 gears, performance brakes and highline fender flares. Ground clearance rises to 12.9 inches, with approach, breakover and departure angles of 46.7, 23.3 and 26.7 degrees. Rubicon models add hood and vent graphics, and the Rubicon X gets an exclusive side graphic and performance hood. Orders are open now, though Jeep has not said how many will be built. Other 2027 Gladiator updates include a standard vented power-dome hood on the Sahara and standard hardtops on Rubicon and Mojave.",
+      "image_remote": "https://mmx.prnewswire.com/media/MS2018175/2027-Jeep-Gladiator-35-inch-Tire-Launch-Edition.jpg?id=OA3032380&p=facebook",
+      "image_local": "images/story-1473.jpg",
+      "id": "2bca90d973e0d83ab933f431322f7690555e85fd"
     }
   },
-  "updated": "Monday, October 26, 2026 · 11:45 AM ET"
+  "updated": "Monday, October 26, 2026 · 4:13 PM ET"
 }
