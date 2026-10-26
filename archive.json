@@ -1614,7 +1614,13 @@
     "000e8e42e3606c92346ea4809414a7920a942cc7",
     "157936e73620e542487e867711193f8f2248fe07",
     "1abfdb77b9d15f7dd8989d90e5428be464ee0200",
-    "406c415760df223144f1d7af034326a633ab827b"
+    "406c415760df223144f1d7af034326a633ab827b",
+    "316da1084a0f2d99bdc9818aad332fc85f38a6ba",
+    "dd38ceea9da7568834c9047738d2169210c8e26e",
+    "b2bd62ea0fb413f0532f08d580f4e827864ecb37",
+    "b0264d28c12bd3cc6acb24de351ed49bdce38144",
+    "979bb122f5cedcc83a388cff2e15407b73b2b80c",
+    "a559194f06657450e420fc06ab80d7bd50870640"
   ],
   "stories": {
     "0c2ac7a5e342411678296315c4c59043b1f067cc": {
@@ -19122,7 +19128,67 @@
       "image_remote": "https://cdn.mos.cms.futurecdn.net/xGhFaYFJzjjnD7oJ49sVLf-1600-80.png",
       "image_local": "images/story-1447.jpg",
       "id": "406c415760df223144f1d7af034326a633ab827b"
+    },
+    "316da1084a0f2d99bdc9818aad332fc85f38a6ba": {
+      "headline": "Lula wins a fourth term as Brazil’s president, beating Flávio Bolsonaro in a runoff after a chaotic two-hour voting extension",
+      "cat": "World / Latin America",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/brazil-presidential-runoff-lula-flavio-bolsonaro/",
+      "summary": "Brazilian President Luiz Inácio Lula da Silva, a vocal critic of President Trump, won reelection Sunday. With 100% of the vote counted, the electoral court said the soon-to-be 81-year-old led Flávio Bolsonaro by nearly 4.4 million votes, 51.8% of the total. It is the first time since military rule ended in 1985 that the runner-up in the first round went on to win; Bolsonaro had led that round 47% to 45%. The night was chaotic: three minutes before polls were to close, Supreme Court Justice Cristiano Zanin, Lula’s former lawyer, extended voting by two hours at the request of both campaigns, but some polling stations had already shut their machines off. That ruling may trigger legal action by Bolsonaro. Lula’s win bucks a string of victories by Trump-allied conservatives in Latin America and leaves Mexico and Brazil both with left-of-center leaders. “This country will not accept being anyone’s backyard,” Lula told supporters. His new term begins Jan. 5, 2027.",
+      "image_remote": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/26/c21dd674-c9e8-4637-8692-34259026ba80/thumbnail/1200x630/7848a5daaa9c85add8a27b9937f3d189/gettyimages-2301518537.jpg",
+      "image_local": "images/story-1448.jpg",
+      "id": "316da1084a0f2d99bdc9818aad332fc85f38a6ba"
+    },
+    "dd38ceea9da7568834c9047738d2169210c8e26e": {
+      "headline": "Musk says SpaceX has closed a $40 billion debt deal to buy AI chips, and predicts most “neocloud” rivals will fail",
+      "cat": "Elon Musk / SpaceX",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/26/spacex-closes-40-billion-debt-deal-for-ai-chips-elon-musk-.html",
+      "summary": "Elon Musk said on X Sunday that SpaceX has closed $40 billion in debt financing to buy GPUs, the chips that power artificial intelligence systems. He said the company is investment grade and earns revenue from Starlink and rocket launches, and that the money, mostly callable debt tied to the chips, is expected to arrive in the first and second quarters of 2027. Bloomberg had reported that Goldman Sachs led talks with investors including Apollo, using a special purpose vehicle to keep the debt off SpaceX’s balance sheet. SpaceX’s AI business, which it calls “Super Intelligence,” is now its largest unit, with third-quarter revenue up ninefold to $7.56 billion. Musk also said debt markets have largely shut off for companies without substantial revenue outside AI data centers, and predicted that more than 200 so-called neocloud companies that rent out AI computing will face widespread failures and consolidation, with only a few surviving.",
+      "image_remote": "https://image.cnbcfm.com/api/v1/image/108433898-1792439982335-gettyimages-2299248528-wm020115_ej7axcme.jpeg?v=1792440027&w=1920&h=1080",
+      "image_local": "images/story-1449.jpg",
+      "id": "dd38ceea9da7568834c9047738d2169210c8e26e"
+    },
+    "b2bd62ea0fb413f0532f08d580f4e827864ecb37": {
+      "headline": "A back deck collapses during a William & Mary homecoming party in Williamsburg, injuring at least 28 people",
+      "cat": "U.S. / Accidents",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/us/college-homecoming-party-turns-chaos-deck-collapses-leaving-28-people-injured",
+      "summary": "A homecoming party near William & Mary turned frightening Friday night when the back deck of an off-campus home in Williamsburg, Virginia, gave way. Dispatchers got a report of a structure collapse around 10:07 p.m. on the 200 block of Matoaka Court, and police and firefighters found the deck had come down. At least 28 people were hurt, and the university confirmed students were among them. Emergency crews took 13 people to hospitals and about 15 others sought treatment on their own; city officials said all of the injuries were non-life-threatening. “All the way down the street and wrapped around just ambulances and fire trucks,” a neighbor told WAVY, describing at least nine ambulances and a stream of hospital gurneys. Photos released by the city show the wooden deck tipped down behind police tape.",
+      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/william-mary-campus-porch-collapse-homecoming.png",
+      "image_local": "images/story-1450.jpg",
+      "id": "b2bd62ea0fb413f0532f08d580f4e827864ecb37"
+    },
+    "b0264d28c12bd3cc6acb24de351ed49bdce38144": {
+      "headline": "Ringleader who staged fake armed robberies so migrants could claim U-visas gets two years in federal prison",
+      "cat": "Crime / Courts",
+      "source": "Breitbart",
+      "url": "https://www.breitbart.com/immigration/2026/10/25/ringleader-of-indian-fake-robbery-immigration-scam-gets-just-two-years-in-jail/",
+      "summary": "A Chicago-area man who ran a ring of staged armed robberies so migrants could apply for U-visas has been sentenced to two years in federal prison. Prosecutors said Parth Nayi, 29, organized fake holdups from 2022 to 2024 at small restaurants, convenience stores and gas stations in Chicago and its suburbs, often with help from store employees. Migrants paid him up to $10,000 each to pose as robbery victims, which let them apply for the U-visa, a program created in 2000 for crime victims who help police. One staged robbery in 2023 went wrong when the fake robber’s pistol went off and hit a store employee in the stomach; the worker survived. Nayi pleaded guilty to conspiracy to commit visa fraud, and U.S. District Judge Mary M. Rowland also fined him $50,000. Five others were convicted in the scheme, and federal officials have opened similar investigations in Massachusetts, Kentucky, Ohio and Missouri.",
+      "image_remote": "",
+      "image_local": "",
+      "id": "b0264d28c12bd3cc6acb24de351ed49bdce38144"
+    },
+    "979bb122f5cedcc83a388cff2e15407b73b2b80c": {
+      "headline": "Apple is already blocking compromised eMudhra web certificates in Safari, with a macOS fix coming for command-line tools",
+      "cat": "Apple / Security",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/25/apple-blocks-compromised-emudhra-certificates/",
+      "summary": "Earlier this month a security researcher found that the private keys behind eight intermediate certificate authority certificates from India’s eMudhra were weak. That could have let attackers impersonate legitimate websites, though there is no evidence the keys were abused. eMudhra’s certificates were trusted by Safari, Chrome, Edge and Firefox, and all of those browser makers have acted. In a support document, Apple says it has blocked the compromised TLS certificates since Oct. 19 in Safari, Mail and apps that use its networking and security frameworks, automatically and with no software update needed, so most Apple users don’t have to do anything. The exception is macOS command-line tools, some of which can still accept the bad certificates until Apple ships a macOS update. Until then, Apple says people who rely on those tools can remove the affected root CA certificates from the /etc/ssl/cert.pem file. No release date has been given for the fix.",
+      "image_remote": "",
+      "image_local": "",
+      "id": "979bb122f5cedcc83a388cff2e15407b73b2b80c"
+    },
+    "a559194f06657450e420fc06ab80d7bd50870640": {
+      "headline": "Greta Van Fleet’s Josh Kiszka says the rock world’s hate for the band’s early success stung, so he stopped reading it",
+      "cat": "Music / Rock",
+      "source": "Louder (Classic Rock)",
+      "url": "https://www.loudersound.com/bands-artists/greta-van-fleet-josh-kiszka-remembers-pile-on-early-success",
+      "summary": "Greta Van Fleet frontman Josh Kiszka has opened up about the backlash that came with the band’s fast rise. In an interview with Classic Rock, he says some fans and critics treated the young Michigan band like intruders: “I think people were so concerned we were going to penetrate their hallowed rock’n’roll world... this bunch of snot-nosed kids wanting to change things up. But it was quite the antithesis. It was our respect for the genre.” The attacks got to him. “I stopped reading them,” he says. “I’m fairly sensitive.” He recalls one review calling them talentless musicians who couldn’t write or perform a song: “Things like that stab you where you’re tender. Some of that I carry. But I don’t believe it.” He also tells of a vocal coach who admitted backstage at their first amphitheater show in New York that she had been a skeptic, then told him he deserved his success. The band’s Into The Beginning tour starts Feb. 3, 2027.",
+      "image_remote": "https://cdn.mos.cms.futurecdn.net/4ErsFXcoAkZqWci6pBqksY-1280-80.jpg",
+      "image_local": "images/story-1451.jpg",
+      "id": "a559194f06657450e420fc06ab80d7bd50870640"
     }
   },
-  "updated": "Sunday, October 25, 2026 · 6:08 PM ET"
+  "updated": "Sunday, October 25, 2026 · 10:13 PM ET"
 }
