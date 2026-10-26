@@ -1628,7 +1628,16 @@
     "67f5ce657a60ca2f752678b9eff0970a9ec9035a",
     "d1503388a38614f821ec1741da2ebf9d35783179",
     "aa8f62e8aa659250f75ffea5120c1a2f8e037c15",
-    "d39bf345aa2ac1ac697e87cafe9631a2ee658f63"
+    "d39bf345aa2ac1ac697e87cafe9631a2ee658f63",
+    "c477ae9282224d9b6c0335b551852c863afce4ad",
+    "4e53958327f79258b043dd87da7241946b6d7691",
+    "9793681648ae57bf45eb753c3ff3c6dbd6e6caab",
+    "8f686931f3d2a8ff05f3a39c3a03072b9034f9af",
+    "a94465dde6dfc9e95badfe4fdfae96575132f0bb",
+    "e20675fe001178bf70e6f741ea65965d34e46656",
+    "0da279ded4a2432e9cea13693f74b4b8a286a1da",
+    "d6b3c34487f0590429689af6fe98b45cfd268da6",
+    "c6d58a0009694534d5fe380b496914028d39c489"
   ],
   "stories": {
     "0c2ac7a5e342411678296315c4c59043b1f067cc": {
@@ -19276,7 +19285,97 @@
       "image_remote": "",
       "image_local": "",
       "id": "d39bf345aa2ac1ac697e87cafe9631a2ee658f63"
+    },
+    "c477ae9282224d9b6c0335b551852c863afce4ad": {
+      "headline": "Apple unveils the OLED iPad mini: 8.5-inch screen, A20 Pro chip, IP67 water resistance, and a $699 starting price",
+      "cat": "Tech / Apple",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/26/apple-announces-ipad-mini-with-oled-display/",
+      "summary": "Apple on Monday announced what it calls the iPad mini’s “biggest update ever,” moving its smallest tablet to an 8.5-inch OLED display (up from 8.3 inches) with higher contrast and more than twice the peak brightness, up to 1,200 nits for HDR. The new model runs on an A20 Pro chip, is about 15% thinner and lighter at 5.4mm, and is Apple’s first iPad rated IP67 for water and dust. It also adds a speaker-hole-free “Acoustic Display” audio system, a landscape front camera, Apple’s N1 wireless chip with Wi-Fi 7, and an optional $100 nano-texture glass on 256GB and 512GB models; Touch ID and USB-C stay, but there is still no 120Hz ProMotion. Pricing starts at $699 for Wi-Fi and $849 for cellular, a $100 increase, in just two colors, Midnight and Starlight. Pre-orders open Wednesday, Oct. 28, with availability Friday, Nov. 6, and Apple is teasing more products in an “exciting week” ahead of its Oct. 28 event.",
+      "image_remote": "https://images.macrumors.com/t/gv1HLtk4s4KiIwN0tHPLUiH0wvU=/2324x/article-new/2026/10/iPad-mini-OLED-feature-1.jpg",
+      "image_local": "images/story-1459.jpg",
+      "id": "c477ae9282224d9b6c0335b551852c863afce4ad"
+    },
+    "4e53958327f79258b043dd87da7241946b6d7691": {
+      "headline": "Anthropic files for an IPO that could top $2 trillion, revealing an $80.7 billion six-month loss and a $120 billion SpaceX compute deal",
+      "cat": "Tech / AI",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/business/markets/anthropic-releases-ipo-filing-ahead-highly-anticipated-stock-debut-rcna605676",
+      "summary": "Claude maker Anthropic made its IPO filing public on Monday ahead of what could be one of the largest stock debuts ever, widely expected in mid-November, with a valuation that could exceed $2 trillion and top the record set by Elon Musk’s SpaceX in June. The SEC filing shows revenue growing 1,368% year over year in the quarter ended June 30, but also a net loss of $80.7 billion for the first half of 2026, after a $42 billion loss in all of 2025, as server and chip costs tripled. Anthropic has committed to spend at least $110 billion with Amazon on cloud services through 2036, $120 billion with SpaceX through 2029, $115 billion with Google and $45 billion with Microsoft through 2033. Share price, share count and valuation will be set after an investor road show. The company says its cash and sales should cover the next 12 months but warns it may need to raise more money.",
+      "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-04/260408-anthropic-rs-a69c46.jpg",
+      "image_local": "images/story-1460.jpg",
+      "id": "4e53958327f79258b043dd87da7241946b6d7691"
+    },
+    "9793681648ae57bf45eb753c3ff3c6dbd6e6caab": {
+      "headline": "15-year-old arrested in the shooting near Florida A&M’s stadium that wounded 12 after homecoming",
+      "cat": "Crime / Courts",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/news/us-news/police-arrest-teenager-shooting-florida-stadium-rcna605677",
+      "summary": "Tallahassee police said Monday they arrested a 15-year-old on Sunday in connection with Saturday night’s shooting near Florida A&M University’s Bragg Memorial Stadium, where homecoming festivities included a football game. The teen faces 11 counts of attempted second-degree murder and possession of a firearm by a delinquent. Twelve people were wounded, including minors, and another person hurt an ankle while fleeing the gunfire near Perry and Manatee streets around 8 p.m. Police said preliminary findings show a physical altercation between people who knew each other came before the shots, and none of the victims appear to have been the intended targets. Chief Lawrence Revell called the arrest a significant step but said the investigation is not over.",
+      "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261026-Tallahassee-rs-fd1c6d.jpg",
+      "image_local": "images/story-1461.jpg",
+      "id": "9793681648ae57bf45eb753c3ff3c6dbd6e6caab"
+    },
+    "8f686931f3d2a8ff05f3a39c3a03072b9034f9af": {
+      "headline": "House GOP sends “dozens and dozens” of observers to watch ballot counting in close midterm races",
+      "cat": "Politics / Election integrity",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/inside-house-gops-unprecedented-push-monitor-midterm-elections-prepare-legal-fights",
+      "summary": "House Republicans are deploying what Committee on House Administration Chairman Bryan Steil (R-Wis.) calls the “most robust” election-observer program the House has ever run, sending congressional staff across the country for the Nov. 3 midterms to watch ballot counting in districts expected to be close. The panel, which oversees federal elections, says the observers are there to make sure elections are run cleanly and to document problems that could support legal challenges if irregularities turn up. Steil said shifts will vary by state: in places like Florida that count quickly the work may end in the evening, while in California, where he watched Los Angeles County count about 10 million people’s ballots at one site two years ago, observers may be on duty for days until the count ends. The effort comes as both parties, the Justice Department and outside groups prepare record poll-monitoring operations with control of the House at stake.",
+      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/bryan-steil-voter-poll-split.jpg",
+      "image_local": "images/story-1462.jpg",
+      "id": "8f686931f3d2a8ff05f3a39c3a03072b9034f9af"
+    },
+    "a94465dde6dfc9e95badfe4fdfae96575132f0bb": {
+      "headline": "DOJ survey: violent crime victimization fell about 25% in 2025, the biggest one-year drop since 1973",
+      "cat": "Crime / Justice",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/violent-crime-victimization-2025-survey-data/",
+      "summary": "A preliminary National Crime Victimization Survey released Monday by the Justice Department’s Bureau of Justice Statistics found the rate of violent crime victimization fell about 25% in 2025 compared with 2024, which the department called the largest decline since 1973. The Census Bureau survey, based on 101,980 household interviews with people 12 and older, estimates 669,000 fewer violent crimes (excluding simple assaults) than the year before. Aggravated assault victimization fell an estimated 31%, robbery 27%, property crime 19%, burglary and trespassing 25%, and motor vehicle theft 29%. Because the survey asks households directly, it also captures crimes never reported to police. The results line up with the FBI’s earlier crime report, which showed violent crime falling in 2025 and the murder rate at a 20-year low, figures President Trump and his allies have been quick to highlight.",
+      "image_remote": "",
+      "image_local": "",
+      "id": "a94465dde6dfc9e95badfe4fdfae96575132f0bb"
+    },
+    "e20675fe001178bf70e6f741ea65965d34e46656": {
+      "headline": "Wrong-way van sped south in the northbound lanes of Route 25 in Trumbull before troopers stopped it on I-95",
+      "cat": "Local / Trumbull CT",
+      "source": "Patch (Trumbull)",
+      "url": "https://patch.com/connecticut/trumbull/wrong-way-driver-sped-through-part-trumbull-apprehension-ct-state-police",
+      "summary": "A wrong-way driver was arrested Sunday night after racing through part of Trumbull, Connecticut State Police said. At about 9:45 p.m., Troop G got a report of a van “traveling at a high rate of speed, southbound in the northbound lanes” of Route 25 in Trumbull. Troopers found the van and stopped it on I-95 northbound near Exit 29 in Bridgeport. No injuries were reported. The driver, who has not been named, was taken into custody and arrested; police have not yet said what charges were filed.",
+      "image_remote": "",
+      "image_local": "",
+      "id": "e20675fe001178bf70e6f741ea65965d34e46656"
+    },
+    "0da279ded4a2432e9cea13693f74b4b8a286a1da": {
+      "headline": "Harley’s LiveWire will debut the production Dust Hightail electric dirt bike at EICMA next month",
+      "cat": "Motorcycles / Harley-Davidson",
+      "source": "RideApart",
+      "url": "https://www.rideapart.com/news/812975/2027-livewire-dust-hightail-ev-dirt-bike-eicma-debut-harley-davidson/",
+      "summary": "Harley-Davidson’s electric spinoff LiveWire says the production-intent version of the Dust Hightail, the lightweight electric dirt bike from the startup Dust Moto that LiveWire acquired, will make its first public appearance at the EICMA motorcycle show in Milan in November, with sales expected next year. RideApart, which rode an early Dust prototype, calls it nimble, quick and very light, and argues the bike may be the most important product LiveWire has: the brand has burned cash since its launch and has struggled to win sales or a wider audience. The Hightail is part of Harley’s “Back to the Bricks” strategy, and RideApart calls all-electric dirt bikes one of the hottest segments in motorcycling right now.",
+      "image_remote": "https://cdn.motor1.com/images/mgl/ko87gn/s1/dust-hightail.jpg",
+      "image_local": "images/story-1463.jpg",
+      "id": "0da279ded4a2432e9cea13693f74b4b8a286a1da"
+    },
+    "d6b3c34487f0590429689af6fe98b45cfd268da6": {
+      "headline": "Cheap Trick’s Rick Nielsen sells his famous five-neck Hamer for $313,600, nearly double its estimate",
+      "cat": "Music / Guitar",
+      "source": "Guitar World",
+      "url": "https://www.guitarworld.com/gear/guitars/rick-nielsen-auction-results",
+      "summary": "The results are in from the auction of Cheap Trick guitarist Rick Nielsen’s collection, and his five-neck Hamer, originally planned to have six necks, sold for $313,600, almost twice its $175,000 pre-auction estimate. The guitar combines 12-string, fretless and Strat- and Les Paul Junior-style necks and has become a symbol of Nielsen’s over-the-top stage style; the auction appraiser said it took a lot of negotiation to include that “crown jewel.” A stage-played 1975 Hamer Explorer-style guitar with a 1970s Gibson humbucker and a DiMarzio bridge pickup brought $256,000, his 1982 “One on One” Hamer fetched $44,800, and his 2007 checkerboard Hamer went for $38,400, among other unusual builds from the Rock & Roll Hall of Famer’s collection.",
+      "image_remote": "https://cdn.mos.cms.futurecdn.net/3ACKbPZEYCyDdzcSB5mruG-1200-80.jpg",
+      "image_local": "images/story-1464.jpg",
+      "id": "d6b3c34487f0590429689af6fe98b45cfd268da6"
+    },
+    "c6d58a0009694534d5fe380b496914028d39c489": {
+      "headline": "Rumor: LEGO’s first Daily Planet set is a 2,981-piece DC modular building with 12 minifigures, due July 2027",
+      "cat": "LEGO",
+      "source": "StoneWars",
+      "url": "https://stonewars.com/rumors/lego-67011-daily-planet-rumor/",
+      "summary": "Superman’s newsroom may finally get its own big LEGO set. A rumor from BrickTap says LEGO DC Daily Planet (67011) is coming in July 2027 as a modular-style building with 2,981 pieces, 12 minifigures and a $299.99 price. The set first appeared in a large LEGO leak in August; the new details add the set number, piece count and timing. It would give DC fans a counterpart to the Daily Bugle from Marvel, and it is unclear whether it will use one or two baseplates, since the Daily Planet has been drawn both with a square footprint and a longer rectangular one. The details are unconfirmed until LEGO announces the set.",
+      "image_remote": "https://stonewars.com/wp-content/uploads/2026/10/daily-planet-geruecht.jpg",
+      "image_local": "images/story-1465.jpg",
+      "id": "c6d58a0009694534d5fe380b496914028d39c489"
     }
   },
-  "updated": "Monday, October 26, 2026 · 7:14 AM ET"
+  "updated": "Monday, October 26, 2026 · 11:45 AM ET"
 }

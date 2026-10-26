@@ -1,8 +1,107 @@
 {
-  "updated": "Monday, October 26, 2026 · 7:14 AM ET",
+  "updated": "Monday, October 26, 2026 · 11:45 AM ET",
   "stories": [
     {
       "n": 1,
+      "headline": "Apple unveils the OLED iPad mini: 8.5-inch screen, A20 Pro chip, IP67 water resistance, and a $699 starting price",
+      "cat": "Tech / Apple",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/26/apple-announces-ipad-mini-with-oled-display/",
+      "image_local": "images/story-1459.jpg",
+      "image_remote": "https://images.macrumors.com/t/gv1HLtk4s4KiIwN0tHPLUiH0wvU=/2324x/article-new/2026/10/iPad-mini-OLED-feature-1.jpg",
+      "id": "c477ae9282224d9b6c0335b551852c863afce4ad",
+      "summary": "Apple on Monday announced what it calls the iPad mini’s “biggest update ever,” moving its smallest tablet to an 8.5-inch OLED display (up from 8.3 inches) with higher contrast and more than twice the peak brightness, up to 1,200 nits for HDR. The new model runs on an A20 Pro chip, is about 15% thinner and lighter at 5.4mm, and is Apple’s first iPad rated IP67 for water and dust. It also adds a speaker-hole-free “Acoustic Display” audio system, a landscape front camera, Apple’s N1 wireless chip with Wi-Fi 7, and an optional $100 nano-texture glass on 256GB and 512GB models; Touch ID and USB-C stay, but there is still no 120Hz ProMotion. Pricing starts at $699 for Wi-Fi and $849 for cellular, a $100 increase, in just two colors, Midnight and Starlight. Pre-orders open Wednesday, Oct. 28, with availability Friday, Nov. 6, and Apple is teasing more products in an “exciting week” ahead of its Oct. 28 event."
+    },
+    {
+      "n": 2,
+      "headline": "Anthropic files for an IPO that could top $2 trillion, revealing an $80.7 billion six-month loss and a $120 billion SpaceX compute deal",
+      "cat": "Tech / AI",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/business/markets/anthropic-releases-ipo-filing-ahead-highly-anticipated-stock-debut-rcna605676",
+      "image_local": "images/story-1460.jpg",
+      "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-04/260408-anthropic-rs-a69c46.jpg",
+      "id": "4e53958327f79258b043dd87da7241946b6d7691",
+      "summary": "Claude maker Anthropic made its IPO filing public on Monday ahead of what could be one of the largest stock debuts ever, widely expected in mid-November, with a valuation that could exceed $2 trillion and top the record set by Elon Musk’s SpaceX in June. The SEC filing shows revenue growing 1,368% year over year in the quarter ended June 30, but also a net loss of $80.7 billion for the first half of 2026, after a $42 billion loss in all of 2025, as server and chip costs tripled. Anthropic has committed to spend at least $110 billion with Amazon on cloud services through 2036, $120 billion with SpaceX through 2029, $115 billion with Google and $45 billion with Microsoft through 2033. Share price, share count and valuation will be set after an investor road show. The company says its cash and sales should cover the next 12 months but warns it may need to raise more money."
+    },
+    {
+      "n": 3,
+      "headline": "15-year-old arrested in the shooting near Florida A&M’s stadium that wounded 12 after homecoming",
+      "cat": "Crime / Courts",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/news/us-news/police-arrest-teenager-shooting-florida-stadium-rcna605677",
+      "image_local": "images/story-1461.jpg",
+      "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261026-Tallahassee-rs-fd1c6d.jpg",
+      "id": "9793681648ae57bf45eb753c3ff3c6dbd6e6caab",
+      "summary": "Tallahassee police said Monday they arrested a 15-year-old on Sunday in connection with Saturday night’s shooting near Florida A&M University’s Bragg Memorial Stadium, where homecoming festivities included a football game. The teen faces 11 counts of attempted second-degree murder and possession of a firearm by a delinquent. Twelve people were wounded, including minors, and another person hurt an ankle while fleeing the gunfire near Perry and Manatee streets around 8 p.m. Police said preliminary findings show a physical altercation between people who knew each other came before the shots, and none of the victims appear to have been the intended targets. Chief Lawrence Revell called the arrest a significant step but said the investigation is not over."
+    },
+    {
+      "n": 4,
+      "headline": "House GOP sends “dozens and dozens” of observers to watch ballot counting in close midterm races",
+      "cat": "Politics / Election integrity",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/inside-house-gops-unprecedented-push-monitor-midterm-elections-prepare-legal-fights",
+      "image_local": "images/story-1462.jpg",
+      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/bryan-steil-voter-poll-split.jpg",
+      "id": "8f686931f3d2a8ff05f3a39c3a03072b9034f9af",
+      "summary": "House Republicans are deploying what Committee on House Administration Chairman Bryan Steil (R-Wis.) calls the “most robust” election-observer program the House has ever run, sending congressional staff across the country for the Nov. 3 midterms to watch ballot counting in districts expected to be close. The panel, which oversees federal elections, says the observers are there to make sure elections are run cleanly and to document problems that could support legal challenges if irregularities turn up. Steil said shifts will vary by state: in places like Florida that count quickly the work may end in the evening, while in California, where he watched Los Angeles County count about 10 million people’s ballots at one site two years ago, observers may be on duty for days until the count ends. The effort comes as both parties, the Justice Department and outside groups prepare record poll-monitoring operations with control of the House at stake."
+    },
+    {
+      "n": 5,
+      "headline": "DOJ survey: violent crime victimization fell about 25% in 2025, the biggest one-year drop since 1973",
+      "cat": "Crime / Justice",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/violent-crime-victimization-2025-survey-data/",
+      "image_local": "",
+      "image_remote": "",
+      "id": "a94465dde6dfc9e95badfe4fdfae96575132f0bb",
+      "summary": "A preliminary National Crime Victimization Survey released Monday by the Justice Department’s Bureau of Justice Statistics found the rate of violent crime victimization fell about 25% in 2025 compared with 2024, which the department called the largest decline since 1973. The Census Bureau survey, based on 101,980 household interviews with people 12 and older, estimates 669,000 fewer violent crimes (excluding simple assaults) than the year before. Aggravated assault victimization fell an estimated 31%, robbery 27%, property crime 19%, burglary and trespassing 25%, and motor vehicle theft 29%. Because the survey asks households directly, it also captures crimes never reported to police. The results line up with the FBI’s earlier crime report, which showed violent crime falling in 2025 and the murder rate at a 20-year low, figures President Trump and his allies have been quick to highlight."
+    },
+    {
+      "n": 6,
+      "headline": "Wrong-way van sped south in the northbound lanes of Route 25 in Trumbull before troopers stopped it on I-95",
+      "cat": "Local / Trumbull CT",
+      "source": "Patch (Trumbull)",
+      "url": "https://patch.com/connecticut/trumbull/wrong-way-driver-sped-through-part-trumbull-apprehension-ct-state-police",
+      "image_local": "",
+      "image_remote": "",
+      "id": "e20675fe001178bf70e6f741ea65965d34e46656",
+      "summary": "A wrong-way driver was arrested Sunday night after racing through part of Trumbull, Connecticut State Police said. At about 9:45 p.m., Troop G got a report of a van “traveling at a high rate of speed, southbound in the northbound lanes” of Route 25 in Trumbull. Troopers found the van and stopped it on I-95 northbound near Exit 29 in Bridgeport. No injuries were reported. The driver, who has not been named, was taken into custody and arrested; police have not yet said what charges were filed."
+    },
+    {
+      "n": 7,
+      "headline": "Harley’s LiveWire will debut the production Dust Hightail electric dirt bike at EICMA next month",
+      "cat": "Motorcycles / Harley-Davidson",
+      "source": "RideApart",
+      "url": "https://www.rideapart.com/news/812975/2027-livewire-dust-hightail-ev-dirt-bike-eicma-debut-harley-davidson/",
+      "image_local": "images/story-1463.jpg",
+      "image_remote": "https://cdn.motor1.com/images/mgl/ko87gn/s1/dust-hightail.jpg",
+      "id": "0da279ded4a2432e9cea13693f74b4b8a286a1da",
+      "summary": "Harley-Davidson’s electric spinoff LiveWire says the production-intent version of the Dust Hightail, the lightweight electric dirt bike from the startup Dust Moto that LiveWire acquired, will make its first public appearance at the EICMA motorcycle show in Milan in November, with sales expected next year. RideApart, which rode an early Dust prototype, calls it nimble, quick and very light, and argues the bike may be the most important product LiveWire has: the brand has burned cash since its launch and has struggled to win sales or a wider audience. The Hightail is part of Harley’s “Back to the Bricks” strategy, and RideApart calls all-electric dirt bikes one of the hottest segments in motorcycling right now."
+    },
+    {
+      "n": 8,
+      "headline": "Cheap Trick’s Rick Nielsen sells his famous five-neck Hamer for $313,600, nearly double its estimate",
+      "cat": "Music / Guitar",
+      "source": "Guitar World",
+      "url": "https://www.guitarworld.com/gear/guitars/rick-nielsen-auction-results",
+      "image_local": "images/story-1464.jpg",
+      "image_remote": "https://cdn.mos.cms.futurecdn.net/3ACKbPZEYCyDdzcSB5mruG-1200-80.jpg",
+      "id": "d6b3c34487f0590429689af6fe98b45cfd268da6",
+      "summary": "The results are in from the auction of Cheap Trick guitarist Rick Nielsen’s collection, and his five-neck Hamer, originally planned to have six necks, sold for $313,600, almost twice its $175,000 pre-auction estimate. The guitar combines 12-string, fretless and Strat- and Les Paul Junior-style necks and has become a symbol of Nielsen’s over-the-top stage style; the auction appraiser said it took a lot of negotiation to include that “crown jewel.” A stage-played 1975 Hamer Explorer-style guitar with a 1970s Gibson humbucker and a DiMarzio bridge pickup brought $256,000, his 1982 “One on One” Hamer fetched $44,800, and his 2007 checkerboard Hamer went for $38,400, among other unusual builds from the Rock & Roll Hall of Famer’s collection."
+    },
+    {
+      "n": 9,
+      "headline": "Rumor: LEGO’s first Daily Planet set is a 2,981-piece DC modular building with 12 minifigures, due July 2027",
+      "cat": "LEGO",
+      "source": "StoneWars",
+      "url": "https://stonewars.com/rumors/lego-67011-daily-planet-rumor/",
+      "image_local": "images/story-1465.jpg",
+      "image_remote": "https://stonewars.com/wp-content/uploads/2026/10/daily-planet-geruecht.jpg",
+      "id": "c6d58a0009694534d5fe380b496914028d39c489",
+      "summary": "Superman’s newsroom may finally get its own big LEGO set. A rumor from BrickTap says LEGO DC Daily Planet (67011) is coming in July 2027 as a modular-style building with 2,981 pieces, 12 minifigures and a $299.99 price. The set first appeared in a large LEGO leak in August; the new details add the set number, piece count and timing. It would give DC fans a counterpart to the Daily Bugle from Marvel, and it is unclear whether it will use one or two baseplates, since the Daily Planet has been drawn both with a square footprint and a longer rectangular one. The details are unconfirmed until LEGO announces the set."
+    },
+    {
+      "n": 10,
       "headline": "Flávio Bolsonaro refuses to concede Brazil’s runoff and says he will seek to annul Lula’s win over the voting extension",
       "cat": "World / Latin America",
       "source": "Kyiv Independent",
@@ -13,7 +112,7 @@
       "summary": "Brazilian President Luiz Inácio Lula da Silva won a fourth, nonconsecutive term on Sunday, taking 51.79% of the vote to 48.21% for right-wing Sen. Flávio Bolsonaro, but Bolsonaro refused to concede and said he would seek to annul the election. He called Supreme Court Justice Cristiano Zanin’s last-minute decision to keep polls open two extra hours “unacceptable,” even though both campaigns had asked for the extension after bus disruptions and heavy rain. The electoral court has recognized Lula’s victory, and Bolsonaro’s refusal does not change the result. His father, former President Jair Bolsonaro, also refused to concede after losing to Lula in 2022 and is now in prison for a plot to overturn that election. Lula, 80, becomes the first Brazilian president to win four terms and the first candidate since the return to democracy to win a runoff after finishing second in round one. He has also tried to position Brazil as a possible mediator between Ukraine and Russia."
     },
     {
-      "n": 2,
+      "n": 11,
       "headline": "Jordan arrests three men after a dawn shootout over the attack on a Greek Orthodox funeral that killed nine",
       "cat": "World / Christians",
       "source": "CBS News",
@@ -24,7 +123,7 @@
       "summary": "Jordanian security forces arrested three men Monday over Friday’s attack on a Greek Orthodox church that killed nine people and wounded more than two dozen. The gunmen opened fire during a funeral at the church in the village of Hammoud in Karak governorate, south of Amman, an area with a minority Christian population. The Public Security Directorate said the suspects were caught after a dawn shootout in which all three were wounded; no members of the security forces were hurt. Interior Minister Mazen Al-Faraya said the three had been identified soon after what he called a “terrorist act” and “put up fierce resistance” before being taken into custody with severe injuries. There has still been no claim of responsibility, and authorities have not named the suspects or tied them to any militant group. King Abdullah II ordered an “iron fist” response against those he called outlaws of Islam trying to undermine the unity of the Jordanian people."
     },
     {
-      "n": 3,
+      "n": 12,
       "headline": "Japan indicts a 20-year-old U.S. Marine on murder and robbery charges in a woman’s strangling on Okinawa",
       "cat": "Crime / Courts",
       "source": "CBS News",
@@ -35,7 +134,7 @@
       "summary": "Japanese prosecutors have indicted a U.S. Marine on murder and robbery charges in the killing of a woman on Okinawa, a court spokesman in Naha said Monday. Police arrested Lance Cpl. Devin Jacob Ballard, 20, who is stationed at Marine Corps Air Station Futenma, on suspicion of strangling 39-year-old Anna Yagi in a hotel in Naha on Oct. 3. The Yomiuri Shimbun reported that the indictment says he used a telephone cord and took a backpack holding her wallet. He denied the allegations when arrested but has since made statements suggesting some involvement, Japanese media reported. The case caused public outrage, and Japan’s prime minister called it a “heinous crime.” The U.S. military held a two-day operational pause and then imposed a month-long curfew, and Foreign Minister Toshimitsu Motegi says Tokyo and Washington will review off-base conduct rules for U.S. troops. Once a suspect is indicted in Japan, the conviction rate is more than 99%."
     },
     {
-      "n": 4,
+      "n": 13,
       "headline": "Seahawks smother Patrick Mahomes and hand the previously unbeaten Chiefs a 20-3 loss on Sunday night",
       "cat": "Sports / NFL",
       "source": "NBC News",
@@ -46,7 +145,7 @@
       "summary": "The Seattle Seahawks’ defense dominated Sunday night in a 20-3 win over the previously undefeated Kansas City Chiefs. Patrick Mahomes threw for just 165 yards with no touchdowns and an interception, and Kansas City had its fewest total yards, first downs and red-zone drives in any Mahomes start. The three points tied the Chiefs’ lowest output with him at quarterback. Former Seahawk Kenneth Walker III, the Super Bowl MVP for Seattle in February, came in leading the NFL in rushing but was held to 36 yards on 14 carries against his old team and walked off without greeting his former teammates. Sam Darnold threw for 257 yards and a touchdown, and Jaxon Smith-Njigba caught nine passes for 150 yards and a score. The win snapped a two-game skid for Seattle, which is now two games behind San Francisco in the NFC West. “We’ll go back to the drawing board,” Chiefs coach Andy Reid said."
     },
     {
-      "n": 5,
+      "n": 14,
       "headline": "Tesla Cybercabs swarm Austin’s F1 weekend, setting a sightings record as the fleet hits 463 registered cars",
       "cat": "EVs / Tesla",
       "source": "Teslarati",
@@ -57,7 +156,7 @@
       "summary": "Tesla used the Formula 1 U.S. Grand Prix in Austin as the biggest public test yet for its driverless Cybercabs. Tesla AI software chief Ashok Elluswamy shared a photo of a long line of gold Cybercabs and Model Y robotaxis near Circuit of the Americas, writing, “Robotaxis as far as the eye can see!” Tesla quietly expanded its Austin service area around the track days earlier and kept ride requests open until 1 a.m., though some spots near the circuit were blocked and one rider said drop-off was nearly a 20-minute walk from the front gate. The tracking account Cybercab Spotter logged a record 1,250 sightings on qualifying day Saturday, beating the old high of 1,072. Texas’ automated vehicle registry listed 463 Cybercabs at midday Sunday, up from the 300-plus Tesla claimed on Oct. 10. Rival Waymo, which runs in Austin only through Uber, does not reach the track. Tesla says it plans around-the-clock robotaxi service and its first customer Cybercab deliveries before the end of 2026."
     },
     {
-      "n": 6,
+      "n": 15,
       "headline": "Eric Bauza, the modern voice of Bugs Bunny and Daffy Duck, has died suddenly at 46",
       "cat": "Entertainment",
       "source": "Gizmodo",
@@ -68,7 +167,7 @@
       "summary": "Voice actor Eric Bauza, the current voice of Looney Tunes stars including Bugs Bunny, Daffy Duck, Porky Pig and Tweety, has died at 46. His family announced his death Sunday night, calling it sudden. ABC7 reported that the Los Angeles County Medical Examiner listed hypertensive cardiovascular disease as the cause. The Canadian-born actor got his start on the Fox Kids show The Ripping Friends and later replaced Billy West as Stimpy on Ren & Stimpy “Adult Party Cartoon.” He went on to voice characters on El Tigre and Avatar: The Last Airbender, Splinter in Rise of the Teenage Mutant Ninja Turtles, Baby Fozzie in Muppet Babies, Luke Skywalker in Star Wars animation and LEGO projects, and Marvel and DC roles. This year he voiced nearly every male Looney Tunes character in Coyote vs. Acme and urged fans to see it in theaters after the film was rescued from cancellation. He also voices the Looney cast in a short attached to The Cat in the Hat."
     },
     {
-      "n": 7,
+      "n": 16,
       "headline": "Bruce Blakeman calls Gov. Kathy Hochul Mayor Zohran Mamdani’s “puppet” as the New York governor’s race nears Election Day",
       "cat": "Politics / New York",
       "source": "Fox News",
@@ -79,7 +178,7 @@
       "summary": "Republican governor candidate Bruce Blakeman called New York Gov. Kathy Hochul a “puppet” of New York City Mayor Zohran Mamdani at a Sunday rally in Yorktown Heights, accusing both Democrats of failing on crime and illegal immigration. Hochul, who is seeking a second full term on Nov. 3, has been campaigning alongside Mamdani, including at a recent rally in Brooklyn. “Kathy Hochul, she was out campaigning with Mamdani this week. And I say that’s great,” Blakeman said, according to the New York Post. “Please take him everywhere you go, Kathy, because I want to remind people that this un-American, antisemite, anti-Christian mayor is running the Democratic Party and Kathy Hochul is nothing more than his puppet.” Blakeman, the Nassau County executive, has hammered Hochul on public safety, calling her the “most pro-criminal governor” during a subway campaign stop earlier this month. The two clashed over her ties to Mamdani in a debate last week."
     },
     {
-      "n": 8,
+      "n": 17,
       "headline": "Trumbull is on the list for new and upgraded bus shelters under Connecticut’s $20 million bus stop program",
       "cat": "Local / Trumbull CT",
       "source": "Patch (Trumbull)",
@@ -90,7 +189,7 @@
       "summary": "Trumbull is one of the Connecticut towns with bus shelter projects in the works under the state Department of Transportation’s Bus Enhancement Program, Monday’s Trumbull Patch AM reports. The $20 million program, which launched in 2025, aims to install 600 new bus shelters and upgrade amenities at busy CT Transit stops statewide by 2029. Stamford will get 18 new shelters next summer, and the other towns with plans include Bridgeport, Stratford, Hartford, Farmington, Mansfield, Waterbury, West Haven and Trumbull; Hamden was first, installing five shelters in late 2025. No timeline or locations for Trumbull’s shelters have been announced yet. Patch AM also reminds residents that the Nov. 3 general election is next Tuesday and links to the state’s official resources for finding a polling place, checking registration and voting by absentee ballot or early. Weekly wellness sessions continue on the town calendar through Dec. 16."
     },
     {
-      "n": 9,
+      "n": 18,
       "headline": "Musk says SpaceX has closed a $40 billion debt deal to buy AI chips, and predicts most “neocloud” rivals will fail",
       "cat": "Elon Musk / SpaceX",
       "source": "CNBC",
@@ -101,7 +200,7 @@
       "summary": "Elon Musk said on X Sunday that SpaceX has closed $40 billion in debt financing to buy GPUs, the chips that power artificial intelligence systems. He said the company is investment grade and earns revenue from Starlink and rocket launches, and that the money, mostly callable debt tied to the chips, is expected to arrive in the first and second quarters of 2027. Bloomberg had reported that Goldman Sachs led talks with investors including Apollo, using a special purpose vehicle to keep the debt off SpaceX’s balance sheet. SpaceX’s AI business, which it calls “Super Intelligence,” is now its largest unit, with third-quarter revenue up ninefold to $7.56 billion. Musk also said debt markets have largely shut off for companies without substantial revenue outside AI data centers, and predicted that more than 200 so-called neocloud companies that rent out AI computing will face widespread failures and consolidation, with only a few surviving."
     },
     {
-      "n": 10,
+      "n": 19,
       "headline": "A back deck collapses during a William & Mary homecoming party in Williamsburg, injuring at least 28 people",
       "cat": "U.S. / Accidents",
       "source": "Fox News",
@@ -110,105 +209,6 @@
       "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/william-mary-campus-porch-collapse-homecoming.png",
       "id": "b2bd62ea0fb413f0532f08d580f4e827864ecb37",
       "summary": "A homecoming party near William & Mary turned frightening Friday night when the back deck of an off-campus home in Williamsburg, Virginia, gave way. Dispatchers got a report of a structure collapse around 10:07 p.m. on the 200 block of Matoaka Court, and police and firefighters found the deck had come down. At least 28 people were hurt, and the university confirmed students were among them. Emergency crews took 13 people to hospitals and about 15 others sought treatment on their own; city officials said all of the injuries were non-life-threatening. “All the way down the street and wrapped around just ambulances and fire trucks,” a neighbor told WAVY, describing at least nine ambulances and a stream of hospital gurneys. Photos released by the city show the wooden deck tipped down behind police tape."
-    },
-    {
-      "n": 11,
-      "headline": "Ringleader who staged fake armed robberies so migrants could claim U-visas gets two years in federal prison",
-      "cat": "Crime / Courts",
-      "source": "Breitbart",
-      "url": "https://www.breitbart.com/immigration/2026/10/25/ringleader-of-indian-fake-robbery-immigration-scam-gets-just-two-years-in-jail/",
-      "image_local": "",
-      "image_remote": "",
-      "id": "b0264d28c12bd3cc6acb24de351ed49bdce38144",
-      "summary": "A Chicago-area man who ran a ring of staged armed robberies so migrants could apply for U-visas has been sentenced to two years in federal prison. Prosecutors said Parth Nayi, 29, organized fake holdups from 2022 to 2024 at small restaurants, convenience stores and gas stations in Chicago and its suburbs, often with help from store employees. Migrants paid him up to $10,000 each to pose as robbery victims, which let them apply for the U-visa, a program created in 2000 for crime victims who help police. One staged robbery in 2023 went wrong when the fake robber’s pistol went off and hit a store employee in the stomach; the worker survived. Nayi pleaded guilty to conspiracy to commit visa fraud, and U.S. District Judge Mary M. Rowland also fined him $50,000. Five others were convicted in the scheme, and federal officials have opened similar investigations in Massachusetts, Kentucky, Ohio and Missouri."
-    },
-    {
-      "n": 12,
-      "headline": "Apple is already blocking compromised eMudhra web certificates in Safari, with a macOS fix coming for command-line tools",
-      "cat": "Apple / Security",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/10/25/apple-blocks-compromised-emudhra-certificates/",
-      "image_local": "",
-      "image_remote": "",
-      "id": "979bb122f5cedcc83a388cff2e15407b73b2b80c",
-      "summary": "Earlier this month a security researcher found that the private keys behind eight intermediate certificate authority certificates from India’s eMudhra were weak. That could have let attackers impersonate legitimate websites, though there is no evidence the keys were abused. eMudhra’s certificates were trusted by Safari, Chrome, Edge and Firefox, and all of those browser makers have acted. In a support document, Apple says it has blocked the compromised TLS certificates since Oct. 19 in Safari, Mail and apps that use its networking and security frameworks, automatically and with no software update needed, so most Apple users don’t have to do anything. The exception is macOS command-line tools, some of which can still accept the bad certificates until Apple ships a macOS update. Until then, Apple says people who rely on those tools can remove the affected root CA certificates from the /etc/ssl/cert.pem file. No release date has been given for the fix."
-    },
-    {
-      "n": 13,
-      "headline": "Greta Van Fleet’s Josh Kiszka says the rock world’s hate for the band’s early success stung, so he stopped reading it",
-      "cat": "Music / Rock",
-      "source": "Louder (Classic Rock)",
-      "url": "https://www.loudersound.com/bands-artists/greta-van-fleet-josh-kiszka-remembers-pile-on-early-success",
-      "image_local": "images/story-1451.jpg",
-      "image_remote": "https://cdn.mos.cms.futurecdn.net/4ErsFXcoAkZqWci6pBqksY-1280-80.jpg",
-      "id": "a559194f06657450e420fc06ab80d7bd50870640",
-      "summary": "Greta Van Fleet frontman Josh Kiszka has opened up about the backlash that came with the band’s fast rise. In an interview with Classic Rock, he says some fans and critics treated the young Michigan band like intruders: “I think people were so concerned we were going to penetrate their hallowed rock’n’roll world... this bunch of snot-nosed kids wanting to change things up. But it was quite the antithesis. It was our respect for the genre.” The attacks got to him. “I stopped reading them,” he says. “I’m fairly sensitive.” He recalls one review calling them talentless musicians who couldn’t write or perform a song: “Things like that stab you where you’re tender. Some of that I carry. But I don’t believe it.” He also tells of a vocal coach who admitted backstage at their first amphitheater show in New York that she had been a skeptic, then told him he deserved his success. The band’s Into The Beginning tour starts Feb. 3, 2027."
-    },
-    {
-      "n": 14,
-      "headline": "iFixit’s iPhone Duo teardown points to a stress spot near the hinge as the likely cause of “crackgate” screen failures",
-      "cat": "Apple / iPhone Duo",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/10/25/ifixit-iphone-duo-teardown/",
-      "image_local": "images/story-1442.jpg",
-      "image_remote": "https://images.macrumors.com/t/Cd9xF_TwLLv2_IJoF8mGVMGYOy8=/2500x/article-new/2026/10/ifixit-iphone-duo-teardown.jpg",
-      "id": "535f6543ea973b72be5a8b1fbba510fb17edf277",
-      "summary": "iFixit has taken apart the iPhone Duo and has a theory about the inner screens that have been failing in owners’ first days. Using a 3D hinge model built from teardown footage, patents and CT scans, it found the reported breaks cluster just below where the display’s crossing flex cable meets the central hinge support. Several edges meet there and change how the thin screen is supported as it bends, which could concentrate stress. The curved hinge rails may also be lifting above the flat plates as the phone closes. iFixit says failures could come from pressure, a trapped particle, repeated bending or a defect, and some may be wiring faults rather than snapped glass. On the plus side, the IP68 Duo kept most fluorescent dust out of its internals, though some reached the hinge and made it crunch. The outer screen is “robust,” the batteries use Apple’s electrically released adhesive, and the peel-off screen cover layer costs $19 to replace with AppleCare+ or $49 without."
-    },
-    {
-      "n": 15,
-      "headline": "At his Port Huron rally, Trump invokes Flight 93 and tells Michigan to stop El-Sayed from “walking into the Capitol”",
-      "cat": "Politics / Midterms",
-      "source": "PBS NewsHour (AP)",
-      "url": "https://www.pbs.org/newshour/politics/trump-escalates-rhetoric-against-el-sayed-as-he-tries-to-undermine-democrat-in-michigan-senate-race",
-      "image_local": "images/story-1443.jpg",
-      "image_remote": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-25T213109Z_595974795_RC2LAOA217T4_RTRMADP_3_USA-TRUMP-1024x684.jpg",
-      "id": "8af854224b36196a3a44e61c70a381d7a6715c3e",
-      "summary": "President Trump rallied in Port Huron, Michigan, on Sunday for Republican Senate candidate Mike Rogers and stepped up his attacks on Democrat Abdul El-Sayed. “I’m here today in Michigan for a very important reason,” Trump said. “I’m here to keep a jihadist Muslim Brotherhood member from becoming a United States senator.” He invoked 9/11, comparing the race to the passengers who fought back on United Flight 93: “Michigan needs to stand up and fight, just like Todd did,” he said of Michigan native Todd Beamer. Speaking first, Rogers said the Muslim Brotherhood “celebrated exactly one victory in the United States in the primary this year. Abdul El-Sayed’s.” El-Sayed says he is loyal to the U.S. and has disavowed the group, and Democrats call the attacks bigoted. Republicans haven’t won a Michigan Senate race in more than three decades, but see an opening for the open seat on Nov. 3. Rapper Nicki Minaj also appeared at the rally."
-    },
-    {
-      "n": 16,
-      "headline": "Brooklyn woman arrested in Midtown hate-crime attacks, including stabbing a visibly Jewish rabbi in the back in the Diamond District",
-      "cat": "Crime / NYC",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/us/woman-busted-nyc-rabbi-syringe-attack-allegedly-stabbed-jewish-man-hours-earlier",
-      "image_local": "images/story-1444.jpg",
-      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/anna-mochalova-midtown-assault-west-45th-street.png",
-      "id": "1d5bbc6ff885e12b4efdd8f8494b36b4c36fae1a",
-      "summary": "NYPD hate-crime detectives have arrested Anna Mochalova, 32, of Brooklyn, in two attacks in Midtown Manhattan on Wednesday evening. Police say that around 5:50 p.m. at West 45th Street and Sixth Avenue, a 37-year-old man was deliberately bumped and, when he confronted the attacker, slashed on the forearm. About two hours later, outside 15 West 47th Street in the Diamond District, a 26-year-old man was stabbed in the back with a sharp object. The New York Post identified him as a rabbi and reported the weapon was a syringe; surveillance video shows the suspect following him around a parked car as he tried to avoid her. “I never met that person before,” he said. “She passes by other people. I’m visibly Jewish.” Mochalova was arrested Saturday and charged with eight counts each of assault and menacing, plus aggravated harassment and weapon possession. Manhattan Shomrim volunteers helped with the arrest by gathering tips and video."
-    },
-    {
-      "n": 17,
-      "headline": "Serbia’s Aleksandar Vucic concedes defeat to a student-led movement, ending 14 years of near-total power",
-      "cat": "World / Europe",
-      "source": "PBS NewsHour (AP)",
-      "url": "https://www.pbs.org/newshour/world/serbias-strongman-leader-vucic-concedes-defeat-to-student-led-movement-in-seismic-political-shift",
-      "image_local": "images/story-1445.jpg",
-      "image_remote": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-25T212423Z_1001107172_RC2LAOABLY3N_RTRMADP_3_SERBIA-ELECTION-1024x683.jpg",
-      "id": "000e8e42e3606c92346ea4809414a7920a942cc7",
-      "summary": "Serbia’s long-serving strongman Aleksandar Vucic conceded Sunday’s parliamentary election to the student-led Students’ List, which spent two years protesting his government. Vucic, who had Vladimir Putin’s endorsement, said his party projects the students will win 135 to 140 of Parliament’s 250 seats, against about 105 for his Serbian Progressive Party. By his count it was roughly 2.2 million votes to 1.7 million. “The Students’ List has won,” he said, though he blamed independent media, unnamed European countries and an “American deep state.” Crowds poured into Belgrade’s streets honking and chanting “Aleksandar is gone,” and tore down the fences of a pro-Vucic camp that had stood for over a year. The movement grew out of anger over the 2024 Novi Sad train station canopy collapse that killed 16 people, which protesters blamed on corruption. Vucic had resigned the presidency last month to run for prime minister."
-    },
-    {
-      "n": 18,
-      "headline": "Trumbull officials turn down residents’ call for a one-year pause on new data centers",
-      "cat": "Local / Trumbull",
-      "source": "Patch Trumbull",
-      "url": "https://patch.com/connecticut/trumbull/patch-am-why-trumbull-officials-refused-pause-new-data-center-nodx-20261025",
-      "image_local": "",
-      "image_remote": "",
-      "id": "157936e73620e542487e867711193f8f2248fe07",
-      "summary": "Trumbull officials have rejected a push by residents for a one-year moratorium on new data centers. No new data center applications have been filed, and town leaders say existing land-use rules are enough to handle any that come. The debate centers on the town’s only facility, on Merritt Boulevard, which is preparing for a roughly $100 million modernization. The owner has proposed retrofitting it for AI with new servers and a new cooling system. For now, the upgrade isn’t expected to change the building’s footprint or its power use, which can run up to 15 megawatts. Neighbors are left weighing environmental and safety worries against the economic benefits as the upgrade goes ahead. Trumbull is one of several Connecticut towns debating data center limits."
-    },
-    {
-      "n": 19,
-      "headline": "Kimi Antonelli, 20, wins the U.S. Grand Prix and can clinch the F1 title in Mexico City next Sunday",
-      "cat": "Sports / F1",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/sports/formula-1/kimi-antonelli-wins-us-grand-prix-texas-putting-brink-f1-championship-rcna603583",
-      "image_local": "images/story-1446.jpg",
-      "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261025-F1-Grand-Prix0-ww-1359-e8b015.jpg",
-      "id": "1abfdb77b9d15f7dd8989d90e5428be464ee0200",
-      "summary": "Mercedes’ Kimi Antonelli led from start to finish to win the U.S. Grand Prix in Austin on Sunday, his ninth win of the season. With five races left, the 20-year-old Italian leads by 124 points with a maximum of 125 still available, so he is almost certain to clinch the 2026 world title, possibly as soon as Mexico City next weekend. He would beat Sebastian Vettel’s record as F1’s youngest champion, set at 23 in 2010, and become the first Italian champion since Alberto Ascari in 1953. Antonelli made one pit stop, on Lap 25 of 56, while Ferrari’s Charles Leclerc and Red Bull’s Max Verstappen tried two-stop strategies and couldn’t catch him. They finished second and third, with Lewis Hamilton fourth. Teammate George Russell took a 5-second penalty for leaving the track and gaining an advantage and finished eighth. “It was the result we needed,” Antonelli said."
     },
     {
       "n": 20,
