@@ -1,8 +1,118 @@
 {
-  "updated": "Tuesday, October 27, 2026 · 11:38 AM ET",
+  "updated": "Tuesday, October 27, 2026 · 4:07 PM ET",
   "stories": [
     {
       "n": 1,
+      "headline": "Flávio Bolsonaro reportedly leaves Brazil for the U.S. as a deadline to surrender his passports runs out",
+      "cat": "World / Brazil",
+      "source": "PBS NewsHour (AP)",
+      "url": "https://www.pbs.org/newshour/world/brazils-flavio-bolsonaro-leaves-brazil-for-the-united-states-after-presidential-loss-according-to-multiple-media-reports",
+      "image_local": "images/story-1506.jpg",
+      "image_remote": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-24T002716Z_1449764096_RC2C9OAVOOL0_RTRMADP_3_BRAZIL-ELECTION-DEBATE-1024x683.jpg",
+      "id": "2b40d07ace65345b2f2c6822656e62c4e5f06c86",
+      "summary": "Defeated presidential candidate Flávio Bolsonaro has left Brazil for the United States after losing Sunday's runoff to President Luiz Inácio Lula da Silva, according to multiple media reports. His spokesperson did not respond to requests for comment. The reported departure came as a noon Tuesday deadline expired for him to hand over his regular and diplomatic passports under a sealed Supreme Court order served on him Monday, and it was unclear whether he had complied. His brother Eduardo, who lives in Texas, had publicly urged him to leave if he lost; Eduardo was convicted in absentia in June of illegally lobbying the Trump administration. Flávio, 45, has refused to concede and asked the electoral court to annul the result, alleging fraud without evidence, though he said in a video Monday that he had no plans to leave the country. Lula won by more than 4 million votes, about 4%, and results are certified Dec. 18. Flávio is under Supreme Court investigation in two corruption and money-laundering cases, and his father, former President Jair Bolsonaro, is serving a 27-year sentence under house arrest. President Trump said Monday, without evidence, that the election was “rigged.”"
+    },
+    {
+      "n": 2,
+      "headline": "Supreme Court refuses to revive a Biden-era rule letting immigration judges pause deportation cases; New Haven was one of the cities that asked",
+      "cat": "Politics / Immigration",
+      "source": "The Federalist",
+      "url": "https://thefederalist.com/2026/10/27/scotus-rejects-dem-bid-to-revive-lax-biden-era-deportation-rule/",
+      "image_local": "images/story-1507.jpg",
+      "image_remote": "https://thefederalist.com/wp-content/uploads/2026/10/ICE-2.jpg",
+      "id": "4fc07272cc086a4458b121a8b6e41c9be5ad6ac9",
+      "summary": "The Supreme Court on Tuesday declined, with no noted dissents, to restore a Biden-era regulation that let immigration judges suspend some deportation proceedings, for example while a crime victim or witness seeks asylum or other relief. Texas had sued to end the rule, the Justice Department agreed, and Chief U.S. District Judge Reed O'Connor in Texas approved a consent judgment scrapping it. Three Democratic-led cities, Baltimore, Columbus, Ohio, and New Haven, Connecticut, joined immigrant legal group Centro Legal de la Raza in trying to intervene to save it. O'Connor ruled they lacked standing, rejecting the cities' argument that losing the rule would cost them money because their taxpayers were likely to be deported, and the 5th Circuit refused to pause the judgment. In its brief, the administration said the cities were trying to turn a narrow dispute over intervention into “a far-reaching attack on the merits” of the deal. The court's unsigned order gave no reasoning."
+    },
+    {
+      "n": 3,
+      "headline": "DNA ties Ted Bundy to the 1974 murder of Utah teen Melissa Ann Smith, 52 years to the day after her body was found",
+      "cat": "Crime / Cold Case",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/ted-bundy-utah-teenager-cold-case-murder-dna/",
+      "image_local": "images/story-1508.jpg",
+      "image_remote": "https://assets2.cbsnewsstatic.com/hub/i/r/2020/04/09/3d6146ed-d00a-4e21-88d0-3451215b411e/thumbnail/1200x630/73b401b8440bfd1601e4862077ffde89/bundy-arrest.jpg",
+      "id": "7a8cdeff9c1d62961bdc5f21d9b9e6ccc20ab61c",
+      "summary": "Utah authorities said Tuesday that serial killer Ted Bundy murdered 17-year-old Melissa Ann Smith, a police chief's daughter whose body was found by deer hunters in a wooded area near the Summit and Salt Lake county line on Oct. 27, 1974. The case had stayed open for more than five decades. Summit County Attorney Margaret Olson said DNA evidence, together with Bundy's “pattern, motive, means and opportunity,” established that he was responsible. The break came through the case of another 17-year-old, Laura Ann Aime, who vanished after leaving a Halloween party days later in 1974; DNA in that case hit on Bundy in the national CODIS database, and investigators then found a highly similar profile in evidence preserved from Smith's autopsy. “This case demonstrates the importance of preserving evidence,” said Salt Lake County Sheriff Rosie Rivera. Bundy, who moved to Salt Lake City in 1974 to study law, was executed in Florida in 1989 and killed at least 30 women and girls in several states. A vial of his blood found in 2011 put his full DNA profile in the FBI database."
+    },
+    {
+      "n": 4,
+      "headline": "Microsoft offers voluntary buyouts to about 60,000 employees, roughly a quarter of its workforce, as AI spending soars",
+      "cat": "Tech / Business",
+      "source": "Mashable",
+      "url": "https://mashable.com/tech/microsoft-buyouts-60000-employees",
+      "image_local": "images/story-1509.jpg",
+      "image_remote": "https://helios-i.mashable.com/imagery/articles/03b4IyMsr8bYYMnBdlAl3KQ/hero-image.fill.size_1200x675.v1793116140.jpg",
+      "id": "51261ec97b3e261659769a9c1482f99a20bfc7b3",
+      "summary": "Microsoft announced a voluntary buyout plan for employees in the United States, Canada, the United Kingdom and India in a Monday blog post. The company didn't give a number, but CBS News and other outlets report that about 60,000 employees, roughly a quarter of its global workforce, will receive the offer. Not everyone is expected to take it. “The Voluntary Exit Offer is new for us. We'll learn from it,” Chief People Officer Amy Coleman wrote, adding that the company will keep helping people build new skills and find other roles inside Microsoft. The move comes as Microsoft is expected to spend about $175 billion on AI infrastructure this year alone. The company has already cut thousands of jobs over the past two years, including several rounds at Xbox, while adding more AI features to Windows."
+    },
+    {
+      "n": 5,
+      "headline": "Pat McAfee invokes Charlie Kirk's killing after a University of Utah video mocked him before 'College GameDay'",
+      "cat": "Sports / Charlie Kirk",
+      "source": "Fox News (OutKick)",
+      "url": "https://www.foxnews.com/outkick-sports/pat-mcafee-invokes-charlie-kirk-killing-utah-post-sparks-uncomfortable-gameday-visit",
+      "image_local": "images/story-1510.jpg",
+      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/pat-mcafee-college-gameday-fox-news_.jpg",
+      "id": "49ad466b78f3e4f0c4084ff4566f5cea375c1bb1",
+      "summary": "ESPN's Pat McAfee said on his show Monday that a University of Utah Instagram video, posted shortly before Saturday's “College GameDay” in Salt Lake City, made him feel “very, very uncomfortable.” The video asked students to do impressions of him, and some called him “corny” and “creepy.” McAfee said he wouldn't have minded students saying it themselves, but the school posting it as he was about to walk out in front of thousands of fans “set me off a little bit.” He then pointed to the September 2025 assassination of Charlie Kirk at Utah Valley University, about 40 miles south: “Has anything like really scary happened at like a college gathering in the state of Utah recently? … Do we think we should be amplifying reasons for why people hate my guts as a university?” The video was taken down, and Utah apologized, saying it aimed for “lighthearted engagement” but “missed the mark,” and that “nothing could be further from the truth” than any perception he was unsafe. McAfee had picked Houston “10 times out of 10” and signed off with “I'll never see you again, hopefully.” Utah won 21-13."
+    },
+    {
+      "n": 6,
+      "headline": "Trumbull volleyball's perfect season ends in a five-set loss at Greenwich; field hockey ties Ridgefield 1-1",
+      "cat": "Local / Trumbull CT",
+      "source": "FCIAC",
+      "url": "https://www.fciac.net/1216400/fciac-scoreboard-and-schedule-for-oct-26-28/",
+      "image_local": "",
+      "image_remote": "",
+      "id": "1e2df2d44ae2f14c747b40d9f3e79d7e77ad6ce3",
+      "summary": "Trumbull High's girls volleyball team, 16-0 going into the week, lost for the first time this season Monday night, falling 3-2 at Greenwich in a match that went the distance: 17-25, 25-20, 25-15, 26-28, 15-8. Trumbull took the first set and forced a fifth by winning a 26-28 fourth, but Greenwich ran away with the tiebreaker. Kayah Armstrong led Greenwich with 16 kills, Heidi Zieme added 10, Victoria Sullivan had 31 assists, and libero Bailee Dayon finished with 33 digs. Also Monday, Trumbull field hockey played Ridgefield to a 1-1 tie. Volleyball is back on the court Wednesday at Bridgeport Central at 6 p.m."
+    },
+    {
+      "n": 7,
+      "headline": "Jets add a defensive tackle to the practice squad as T'Vondre Sweat's knee injury looks like it could keep him out a while",
+      "cat": "Sports / Jets",
+      "source": "Heavy",
+      "url": "https://heavy.com/sports/nfl/new-york-jets/amari-mcneill-tvondre-sweat-chiefs-move/",
+      "image_local": "",
+      "image_remote": "",
+      "id": "b6ffcb000adf83d01e077f683cd39ed5cd2cca96",
+      "summary": "The Jets signed former Chiefs undrafted rookie Amari McNeill to the practice squad Tuesday, a move that adds depth after nose tackle T'Vondre Sweat hurt his knee in Sunday's loss to the Dolphins. Sweat went down in the second quarter when defensive back Dane Belton, chasing a scrambling Malik Willis, accidentally slammed into him. He walked off with a limp and was ruled out, and coach Aaron Glenn has not given an update. ESPN's Rich Cimini said Sweat, the team's best run stuffer, “is going to be down for a while,” and that rookie Darrell Jackson Jr. would probably move into the starting role, with David Onyemata still on injured reserve. The 6-foot-4, 366-pound Sweat came over from Tennessee this offseason in a swap for pass rusher Jermaine Johnson and had 17 tackles in seven games. McNeill, who played at Tennessee and Colorado, had a sack in the preseason for Kansas City. The Jets face the Raiders on Sunday."
+    },
+    {
+      "n": 8,
+      "headline": "KISS announces 'End of the Road,' a documentary on its final tour, premiering with a livestream Nov. 19",
+      "cat": "Music / Hard Rock",
+      "source": "Blabbermouth",
+      "url": "https://blabbermouth.net/news/kiss-announces-new-end-of-the-road-documentary-focusing-on-final-tour",
+      "image_local": "images/story-1511.jpg",
+      "image_remote": "https://assets.blabbermouth.net/media/kissendoftheroaddococt2026_638.jpg",
+      "id": "9f3bae400553132dd6f9c4eb23b9d3fbea8a0c46",
+      "summary": "KISS will release “Kiss: End of the Road,” a documentary about the farewell world tour that ended with the band's last shows at Madison Square Garden. Directed by DJ Viola, the film had full access to the tour and covers the camaraderie, conflicts and emotion of the run, plus how the band plans to carry its legacy forward. It premieres with a live streaming event on KissOnline.com on Nov. 19, presented by Mercury Studios, the company behind the livestream of Ozzy Osbourne's final show, before moving to other platforms. Pre-orders start at $14.99 and include a seven-day viewing window. “The documentary takes everyone along with us to see and be a part of all the unseen moments that made this last tour one of the wildest, most memorable rides of our career,” Paul Stanley said. Gene Simmons said the Garden shows “were full of raw energy” and the film shows them from the inside “for the very first time.”"
+    },
+    {
+      "n": 9,
+      "headline": "ChatGPT can now read and send your iCloud Mail and manage your iCloud Calendar",
+      "cat": "Apple / AI",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/27/chatgpt-icloud-mail-calendar-plugin/",
+      "image_local": "images/story-1512.jpg",
+      "image_remote": "https://images.macrumors.com/t/YyQOPHtncbrpeB3tj10riaKfVTs=/2250x/article-new/2023/06/General-macOS-Mail-Feature.jpg",
+      "id": "c0c1576592fd1e38f8ce4389f5e819d8d246b7a5",
+      "summary": "OpenAI added iCloud Mail and iCloud Calendar plugins to ChatGPT on Tuesday. With the calendar plugin, ChatGPT can read, schedule and update events that show up in the iPhone's Calendar app or any other app that uses iCloud Calendar. The mail plugin lets it search and read iCloud Mail, manage messages and drafts, send email and look up iCloud contacts. It only works with Apple addresses ending in @icloud.com, @me.com or @mac.com, not with Gmail, Outlook or other accounts in the Mail app, and you have to create an app-specific password for each service. The plugins give ChatGPT some of the same access to personal data that Apple's Siri AI has, and they also work with Dots, the proactive AI agent OpenAI launched last month. They're available on every ChatGPT plan, on the web, desktop and iOS."
+    },
+    {
+      "n": 10,
+      "headline": "Melting glaciers in Italy's Dolomites gave up more than 250 unexploded World War I bombs this summer",
+      "cat": "World / History",
+      "source": "Gizmodo",
+      "url": "https://gizmodo.com/melting-glaciers-expose-more-than-250-unexploded-wwi-bombs-in-the-dolomites-2000831148",
+      "image_local": "images/story-1513.jpg",
+      "image_remote": "https://gizmodo.com/app/uploads/2026/10/WWI-bombs-1200x675.jpg",
+      "id": "359ece8bbb39549a675dc42208e60aba0e830b49",
+      "summary": "Italian Army troops from the Julia Alpine Brigade removed and defused more than 250 explosives this summer that had melted out of glaciers and high-altitude sites in the Trentino Alto Adige region, Italy's ANSA news agency reports. They included 18 Italian 75mm artillery shells and 37 French-made mortar shells, left behind from the “White War” fought between Austro-Hungarian and Italian troops from 1915 to 1918. An estimated 150,000 to 180,000 soldiers died in that mountain war, and only about a third were killed in combat; the rest died in avalanches, landslides, frostbite and hypothermia. The Dolomites had 33 glaciers in the late 1950s and now have 12, and summer 2026 was the hottest on record in Trentino and the Piedmont region. Retreating ice has been exposing relics of the war since the 1990s, including weapons, cave shelters, sleds, letters, diaries and even the bodies of soldiers still in uniform."
+    },
+    {
+      "n": 11,
       "headline": "Apple unveils the M6 14-inch MacBook Pro with a 12-core chip, Wi-Fi 7 and up to 24 hours of battery, starting at $1,999",
       "cat": "Apple / Mac",
       "source": "MacRumors",
@@ -13,7 +123,7 @@
       "summary": "Apple announced a refreshed 14-inch MacBook Pro on Tuesday built around its new M6 chip, which has a 12-core CPU (two “super” cores, four performance and six efficiency cores) and a 12-core GPU, up from 10 and 10 on the M5. Apple says graphics are up to 30% faster and AI workloads up to 25% faster than M5, and the Neural Engine doubles to a dual 16-core design with 32 cores. Memory bandwidth rises from 153GB/s to 170GB/s, but only on the 24GB and 32GB models. Apple's N1 wireless chip adds Wi-Fi 7 and Bluetooth 6, and the laptop can now drive two external 4K displays at up to 165Hz. Battery life is rated at up to 24 hours, the most of any Mac. Otherwise the design is unchanged. It starts at $1,999 with 16GB of memory and 1TB of storage, in Space Black or Silver. Preorders open Wednesday at 10:10 a.m. PT and it ships Friday, Nov. 6. A touchscreen OLED MacBook Pro is still expected at Apple's “Pro and Tell” event Wednesday."
     },
     {
-      "n": 2,
+      "n": 12,
       "headline": "Photos obtained by CBS show Ukraine's Starlink was throttled to a trickle the day a Russian drone killed 5 in a Kharkiv park",
       "cat": "World / Ukraine · Musk",
       "source": "CBS News",
@@ -24,7 +134,7 @@
       "summary": "On Oct. 19, a Russian Geran-4 jet-powered drone slammed into a park in Kharkiv, killing makeup artist Yulia Spichak, 34, and four others, including a 1-year-old girl. The attack came six days after SpaceX throttled Ukraine's Starlink service, which the country uses to coordinate air defenses. Photos obtained by CBS News show the Starlink link for ground-based air defense radars dropping to 0.1 megabytes per second that day, not enough to load a webpage, a source said. Ukrainian officials say the unannounced limits hit radars and drone interceptors. Elon Musk confirmed the throttling on X, saying Ukraine's military violated Starlink's terms by using the civilian service “for offensive drone strikes to kill people” and that “that loophole was closed last week.” Ukraine says access was restored nationwide on Saturday. Musk says the U.S. government controls any changes to Starshield, SpaceX's military network, and President Trump has said he did not order the restrictions."
     },
     {
-      "n": 3,
+      "n": 13,
       "headline": "Penguins center Ben Kindel is back on the ice two weeks after collapsing on the team plane",
       "cat": "Sports / Penguins",
       "source": "Pittsburgh Hockey Now",
@@ -35,7 +145,7 @@
       "summary": "Ben Kindel returned to practice Tuesday in Cranberry Township, two weeks after a scare on the Penguins' charter flight home from Salt Lake City at the end of an 0-4 Western road trip. General manager Kyle Dubas called it a vasovagal episode: the 19-year-old center briefly lost consciousness shortly after takeoff, the team physician treated him, the plane turned back, and he was taken to the University of Utah Medical Center before coming home two days later. On Tuesday he skated in a regular sweater with the smaller group on the second rink. Forward Justin Brazeau and recent call-ups Rutger McGroarty and Avery Hayes wore green jerseys, and defenseman Sam Girard was back in a white non-contact sweater. The team said 6-foot-8 winger Elmer Soderblom is out day-to-day with an upper-body injury. He has played six of Pittsburgh's 12 games, with one assist."
     },
     {
-      "n": 4,
+      "n": 14,
       "headline": "A YouTuber folded an iPhone Duo by hand until it broke: the inner screen cracked on fold 75,001",
       "cat": "Apple / iPhone Duo",
       "source": "Gizmodo",
@@ -46,7 +156,7 @@
       "summary": "Apple has never said how many folds the iPhone Duo is rated for, unlike Samsung, which rates its latest Galaxy Z Fold and Flip for 500,000. YouTuber Kuba Klawiter folded one by hand on a livestream until a line appeared down the middle of the inner screen on fold 75,001. The test wasn't gentle: after 50,000 folds he shook the phone in a bag of dirt and dust to mimic pocket lint, a deeper crease showed up at 60,000, and at 75,000 he put it in a bowl of ice before the fatal fold. He says Galaxy Z Flip 3 and Flip 5 phones survived more than 400,000 folds in similar tests. Joanna Stern's robot got past 32,000 folds and other reviewers passed 10,000 without breaking theirs. Gizmodo says testing conditions vary too much to call the Duo far weaker, but argues Apple should publish its own rating for a $2,000 phone. Apple said Monday it is aware of an inner-display issue affecting “a small number” of units."
     },
     {
-      "n": 5,
+      "n": 15,
       "headline": "Illinois man charged with mailing white-powder “HA HA” letters to four members of Congress, with his own return address on every one",
       "cat": "Crime / Courts",
       "source": "Fox News",
@@ -57,7 +167,7 @@
       "summary": "Matthew G. Unglesbee was charged Monday with false information and hoaxes and with mailing threatening communications, after four members of Congress from Illinois received envelopes containing a white granular substance, according to a federal complaint. Three letters read “HA HA,” and one sent to a senator's office read “HAH enjoy the gift.” All four carried Unglesbee's name and return address. The FBI got a tip on Oct. 16 from someone who overheard him at a restaurant saying he had mailed suspicious substances to Congress, and the tipster supplied his full name, address and birth date. A staffer at the first office called 911 after feeling powder in an envelope; that office had already received a similar letter weeks earlier. Preliminary lab tests found no chemical or biological toxins. Unglesbee told the FBI the powder was salt and that he sent the letters as a joke."
     },
     {
-      "n": 6,
+      "n": 16,
       "headline": "German climber falls nearly 5,000 feet to his death on Nepal's Ama Dablam, a day after reaching the summit",
       "cat": "Adventure / Mountaineering",
       "source": "CBS News",
@@ -68,7 +178,7 @@
       "summary": "Wolfgang Waschiczek, 57, of Germany, reached the 22,349-foot summit of Ama Dablam in Nepal's Khumbu region on Sunday and spent the night resting at Camp 3, around 20,300 feet. On Monday morning his personal guide, Sonam Lama, left him in the tent for a few minutes to return borrowed equipment and told him to stay inside. When Lama came back, Waschiczek was gone. Another Sherpa spotted his body near Camp 2, about 1,500 meters (nearly 5,000 feet) below. It was recovered by helicopter, flown to Lukla and then Kathmandu for a postmortem, the head of trekking company Real Himalaya told AFP. Ama Dablam is a technically difficult peak with steep faces, and more than 300 climbers are attempting it this season. Two climbers died there last October, and two Japanese climbers died on another Nepal peak last week."
     },
     {
-      "n": 7,
+      "n": 17,
       "headline": "Iron Maiden's Bruce Dickinson announces a 31-date 2027 'PsychoGod' solo tour and a new album he calls “heavy as s---”",
       "cat": "Music / Heavy Metal",
       "source": "Loudwire",
@@ -79,7 +189,7 @@
       "summary": "Bruce Dickinson will take his solo band on the road in 2027 with the PsychoGod tour, 31 dates that open June 14 at Ulster Hall in Belfast, run through summer festivals including Rock Imperium in Spain, Rockharz in Germany and Masters of Rock in Czechia, and wrap with a fall run ending Dec. 10 in Paris, with Evergrey supporting the fall dates. He'll play new music alongside favorites and deep cuts. Dickinson said in August that a new solo album is coming in 2027, his first since 2024's The Mandrake Project, and promised it would be “heavy as shit.” “A real drummer, a real bass player, real guitarists, real keyboards – AI can only copy, it can only pretend,” he said. His band is guitarists Chris DeClercq and Philip Naslund, bassist Tanya O'Callaghan, drummer Dave Moreno and keyboardist Mistheria. Iron Maiden recently added a 16-date North American leg of its Run for Your Lives tour, from April 14 in Tacoma to May 16 in Ocean City, Md. No U.S. solo dates are listed yet."
     },
     {
-      "n": 8,
+      "n": 18,
       "headline": "Apple's first iMac update in two years brings the M6 chip and Wi-Fi 7 to the same colorful 24-inch design, from $1,499",
       "cat": "Apple / Mac",
       "source": "MacRumors",
@@ -90,7 +200,7 @@
       "summary": "Apple also refreshed the 24-inch iMac on Tuesday, its first update to the all-in-one in two years. The outside is unchanged, with the same 4.5K Retina display and the same seven colors: blue, green, pink, yellow, purple, orange and silver. Inside, the M6 chip offers up to a 12-core CPU, a 12-core GPU and a dual 16-core Neural Engine, compared with up to 10 cores and a single 16-core Neural Engine on the M4 model, and the N1 chip adds Wi-Fi 7. The $1,499 model has a 10-core chip and two Thunderbolt/USB 4 ports, while the $1,699 model has the full 12-core chip and four Thunderbolt 4 ports. Both start with 16GB of memory and 256GB of storage. Preorders open Wednesday, Oct. 28, at 10:10 a.m. PT on apple.com and in the Apple Store app, and the new iMac arrives Friday, Nov. 6."
     },
     {
-      "n": 9,
+      "n": 19,
       "headline": "Susan Saint James, Emmy-winning star of 'McMillan & Wife' and 'Kate & Allie,' dies at 80",
       "cat": "TV / Obituary",
       "source": "People",
@@ -99,116 +209,6 @@
       "image_remote": "https://people.com/thmb/sFeGvEUJVBQ7VFBl2EwOjkvur_0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(999x0:1001x2)/Susan-Saint-James_Christa-Miller_PEOPLE-03-17a0e02df6834f688a3c77edc02aa1b0.jpg",
       "id": "4a77a99609bde4f75b1c64fbbbd647b584098087",
       "summary": "Susan Saint James died Monday, Oct. 26, after being diagnosed with pancreatic cancer, a representative told PEOPLE. She was 80. Born Susan Jane Miller in Los Angeles and raised in Rockford, Ill., she briefly attended Connecticut College and modeled in New York before signing with Universal at 20. She won an Emmy in 1969 for NBC's “The Name of the Game,” played Sally McMillan opposite Rock Hudson in “McMillan & Wife” from 1971 to 1976, and co-starred with Jane Curtin as two divorced moms sharing a Manhattan apartment in CBS's “Kate & Allie” in the 1980s. Her family remembered her as someone who “never met a stranger,” and recalled that weeks after her youngest son, Teddy, was killed in a 2004 plane crash, she delivered his eulogy as a note to each of her other children and her husband. She is survived by her husband, former NBC executive Dick Ebersol, four children and seven grandchildren."
-    },
-    {
-      "n": 10,
-      "headline": "Brewers rout the Rays 10-1 in Game 3 and are one win from their first World Series title",
-      "cat": "Sports / MLB",
-      "source": "NPR (AP)",
-      "url": "https://www.npr.org/2026/10/27/nx-s1-6019094/mlb-world-series-tuesday",
-      "image_local": "images/story-1489.jpg",
-      "image_remote": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5643x3174+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa6%2F3b%2F7af236a74c8ea8e48ad2280c8e6d%2Fap26300068621772.jpg",
-      "id": "58abc59cfe79e997d2774607fd7bd4c29209ad8d",
-      "summary": "The Milwaukee Brewers beat the Tampa Bay Rays 10-1 Monday night at Tropicana Field and lead the World Series 3-0. Jackson Chourio went 4 for 5 and bookended an eight-run fifth inning, which Brice Turang opened with a two-out, two-run single. Rookie left-hander Robert Gasser threw one-hit ball and faced the minimum through six innings, the first starter to do that in a World Series game since Curt Schilling in 2001 and the first lefty since Sandy Koufax in 1965. Milwaukee piled up 16 hits off ALCS MVP Freddy Peralta and five relievers to win its eighth straight game, tying the record for a single postseason, while thousands of traveling Brewers fans cheered behind the visitors' dugout. Of 43 teams to fall behind 3-0 in a best-of-seven postseason series, only the 2004 Red Sox came back. Game 4 is Tuesday night in St. Petersburg."
-    },
-    {
-      "n": 11,
-      "headline": "Israel votes today in its first election since Oct. 7, and Netanyahu's future could take weeks to settle",
-      "cat": "World / Israel",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/israel-election-benjamin-netanyahu-political-fate-key-factors/",
-      "image_local": "images/story-1490.jpg",
-      "image_remote": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/26/f493683c-126d-4c3d-94a3-f221e49b0e21/thumbnail/1200x630g6/f86fef4612636089f15b62734d61cfe6/israel-election-netanyahu-2301636862.jpg",
-      "id": "36884a07cfd9811ab4a0b68fa80340f0244e3196",
-      "summary": "Israelis are voting Tuesday in a tight election that will shape their next government, the first since Hamas' Oct. 7, 2023, attack and with the country still fighting in Gaza, Lebanon and Syria after two rounds of direct conflict with Iran. Right-leaning pollsters give Prime Minister Benjamin Netanyahu's right-wing and religious bloc the edge, while left-leaning pollsters favor the opposing “change” bloc, and most show neither side reaching a 61-seat majority in the 120-seat Knesset. That could mean drawn-out coalition talks, a minority government or even a do-over. Netanyahu argues only he can govern without Arab parties and finish the wars, especially against Iran. President Trump endorsed him last week and warned that if Israel has “the wrong Leader,” America would have to finish the Iran job itself and is “not inclined to do so.” Netanyahu's campaign slogan is “Either right wing or Palestine, either right wing or a nuclear bomb.”"
-    },
-    {
-      "n": 12,
-      "headline": "U.K. charges two men in the alleged Iran-linked plot against RAF Fairford, the base U.S. bombers used to strike Iran",
-      "cat": "World / Terrorism",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/uk-raf-fairford-terror-plot-iran-2-men-charged-security-offenses/",
-      "image_local": "images/story-1491.jpg",
-      "image_remote": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/09/29/b738f1f2-8b51-47ca-a2bd-f84e896f3cc1/thumbnail/1200x630/b3d34684271f67a2bfb3af7b74d25460/raf-fairford-uk-2297030517.jpg",
-      "id": "2eea393ed4de689660d2ea4924dc1b90730511c4",
-      "summary": "British prosecutors on Tuesday charged two London men, Mohmed Abdulkarim and Nouman Essghir, both 24, under the 2023 National Security Act in connection with last month's incident near RAF Fairford in western England. Abdulkarim is accused of assisting a foreign intelligence service, and Essghir of approaching a prohibited place for a purpose prejudicial to U.K. safety. Five men were first detained near the base on Sept. 27, when nearby residents were evacuated and police found gasoline in three vans parked near an entrance, but no explosives. Prime Minister Andy Burnham has said Iran “played a part,” and the U.S. Air Force pulled all of its B-1 bombers from Fairford, which had launched strikes on Iran during the war. Iran's embassy denies any link. Six other men, all in their 20s, remain free on bail while the investigation continues."
-    },
-    {
-      "n": 13,
-      "headline": "Valkyries beat the Dream 64-55 in Game 5 and are one win from a WNBA title in only their second season",
-      "cat": "Sports / WNBA",
-      "source": "ABC7 News (AP)",
-      "url": "https://abc7news.com/post/kiah-stokes-big-night-both-ends-leads-valkyries-past-dream-64-55-win-wnba-title/19983318/",
-      "image_local": "images/story-1492.jpg",
-      "image_remote": "https://cdn.abcotvs.com/dip/images/19983368_102626-kgo-ap-Kiah-Stokes-img.jpg?w=1600",
-      "id": "f95c5cb0128a99b219a8aea55e8ecffbfc435213",
-      "summary": "Kiah Stokes had 13 points, eight rebounds and three blocks as the Golden State Valkyries beat the Atlanta Dream 64-55 Monday night at Chase Center to take a 3-2 lead in the WNBA Finals. Veronica Burton added 13 points and eight rebounds, and former Dream guard Tiffany Hayes, who came out of retirement two years ago, scored 12. Leading scorer Gabby Williams shot 3 for 14, but the Valkyries forced 17 turnovers that led to 21 points. Angel Reese was held to seven points with 15 rebounds and was called for three offensive fouls. The teams set a WNBA Finals record for the lowest-scoring first half, with Golden State up 25-22 at the break before pulling away. Stokes has three or more blocks in six straight games, tying Lisa Leslie's 2003 postseason record. Game 6 is Thursday at 12:30 p.m. EDT in Atlanta, an unusual time because an NBA game has the arena that night. A Game 7 would be Saturday in San Francisco."
-    },
-    {
-      "n": 14,
-      "headline": "13 charged with running stolen cars and trucks through El Paso to Mexican cartels, including armored SUVs",
-      "cat": "Crime / Border",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/us/mexican-cartels-stolen-vehicles-el-paso",
-      "image_local": "images/story-1493.jpg",
-      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/damaged-white-suv-recovered-mexico-cartel-investigation.png",
-      "id": "53c494bb42fa758c2154417e54d26891074625c1",
-      "summary": "Federal prosecutors in West Texas say a cross-border pipeline moved vehicles stolen from private owners and big rental-car companies through El Paso into Mexico, where cartels used them in their day-to-day operations. Thirteen people face charges of interstate transportation of stolen property, which carries up to 10 years in federal prison, in a case called Operation Southbound Takedown. Investigators have recovered 29 vehicles worth about $1.14 million, including an armored SUV and an armored pickup. Eleven of those charged are U.S. citizens and two are Mexican citizens. HSI's El Paso chief said these “are not isolated property crimes,” and U.S. Attorney Justin Simmons warned that people driving stolen vehicles south for a “quick buck” are helping cartels with human smuggling, extortion, drug trafficking “and even murder.” “You are now on notice,” he said."
-    },
-    {
-      "n": 15,
-      "headline": "Feds say 405 noncitizens voted in Washington state elections, casting more than 1,500 ballots, and call it the “tip of the iceberg”",
-      "cat": "Politics / Elections",
-      "source": "Breitbart",
-      "url": "https://www.breitbart.com/midterm-election/2026/10/26/tip-ofthe-iceberg-feds-allege-405-migrants-voted-1500-times/",
-      "image_local": "",
-      "image_remote": "",
-      "id": "4d5a59b5c8bdf0ae413a9619b322890734d9b19b",
-      "summary": "Neil Floyd, the acting U.S. attorney for the Western District of Washington, said Monday that investigators have identified 405 people they believe are not U.S. citizens who voted in Washington elections, casting more than 1,500 ballots over multiple elections. Federal officials sent the names to state election officials and asked them to set those ballots aside until eligibility is checked. Floyd said he is confident “thousands” of noncitizens have voted, though he did not give a statewide count, and the 1,500 ballots span several decades. DHS investigators matched public voter lists against federal records one person at a time, because Washington has refused to share its full voter database with identifying information. Floyd said his office will prosecute illegal voters and anyone who knowingly helps them. The Justice Department has also sued California to hold mailed ballots from more than 20,000 voters it flagged as likely noncitizens."
-    },
-    {
-      "n": 16,
-      "headline": "Tesla's Cybercab line now builds robotaxis faster than Tesla can put them on the road",
-      "cat": "Tesla / Elon Musk",
-      "source": "Teslarati",
-      "url": "https://www.teslarati.com/tesla-has-a-cybercab-problem-nobody-saw-coming/",
-      "image_local": "images/story-1494.jpg",
-      "image_remote": "https://www.teslarati.com/wp-content/uploads/2026/10/tesal-cybercab-munro-teardown-1000x600.jpg",
-      "id": "ab17d079eb19cc9c4daad6a4a5a8ee818dfef907",
-      "summary": "Tesla's Cybercab line in Texas is running so fast that it is outpacing deployments, vehicle engineering VP Lars Moravy said in a new Munro Live deep dive. “We don't run every day because the line can run so fast,” he said. The “unboxed” process builds front, rear, side and center modules separately before they meet on a short final line with just 25 automated stations, a fifth to a tenth of what a Model Y needs. The line is about 78% automated, the goal is one Cybercab every 10 seconds, and there's no paint shop, since exterior panels get their color inside the molding machine. The two-seater is designed to run at least 500,000 miles. Its 4680 battery pack sits in a steel enclosure with modules that can be swapped one at a time, and Tesla's battery director graded it an A minus, versus a D for the Model Y structural pack. Deployment, not production, is now the bottleneck."
-    },
-    {
-      "n": 17,
-      "headline": "Cowboys beat the Eagles 38-21 on Monday Night Football, handing Philadelphia its fifth straight loss",
-      "cat": "Sports / NFL",
-      "source": "NBC 5 Dallas-Fort Worth",
-      "url": "https://www.nbcdfw.com/news/sports/blue-star/cowboys-take-control-against-eagles-on-monday-night/4096010/",
-      "image_local": "images/story-1495.jpg",
-      "image_remote": "https://media.nbcdfw.com/2026/10/2026-10-27T010119Z_1752836041_MT1USATODAY30193624_RTRMADP_3_NFL-DALLAS-COWBOYS-AT-PHILADELPHIA-EAGLES.jpg?quality=85&strip=all&resize=1200%2C675",
-      "id": "21d9b2b44446f54bec801dbaa4360c9740969b8a",
-      "summary": "Dak Prescott threw three touchdown passes, two to CeeDee Lamb, and Javonte Williams ran for a career-high 155 yards as Dallas beat Philadelphia 38-21 at Lincoln Financial Field. Brandon Aubrey opened with a 55-yard field goal, the teams traded leads, and the Cowboys led 20-14 at halftime after Prescott hit Lamb and George Pickens for scores. Tanner McKee's 4-yard pass to rookie Makai Lemon briefly put the Eagles ahead in the third quarter, but Prescott answered with a 16-yard touchdown to Lamb and ran in the two-point conversion. Aubrey added another field goal, DeMarvion Overshown intercepted McKee, and Williams closed it with a 2-yard run. Prescott finished 15 of 27 for 212 yards with no interceptions. Dallas is 3-4, and the Eagles fall to 2-5, with fans already calling for a quarterback change."
-    },
-    {
-      "n": 18,
-      "headline": "Blue Planet III keeps its murky, imperfect shots on purpose to prove no AI was used, with Attenborough narrating at 100",
-      "cat": "Photography / Nature",
-      "source": "PetaPixel",
-      "url": "https://petapixel.com/2026/10/27/blue-planet-iii-will-use-murky-footage-to-prove-no-ai-was-used/",
-      "image_local": "images/story-1496.jpg",
-      "image_remote": "https://petapixel.com/assets/uploads/2026/10/Blue-Planet-III.jpg",
-      "id": "e6ee5b9356e00ef18be4bbbb4fec5a84ed3bb046",
-      "summary": "David Attenborough, now 100, is back to narrate the BBC's Blue Planet III, and the producers say not a single frame was made with generative AI. “It's all real photography,” BBC factual commissioning head Jack Bootle said. Executive producer Elizabeth White said the crew used to cut shots with plankton-clouded water or a stray boat or buoy in frame, but now keeps those imperfections because AI “makes us want to be even more authentic.” The series was filmed over four years across five oceans with new gear, including a mini dome camera that follows octopuses, a deep-sea selfie stick, lasers to light creatures in darkness, leg-mounted scooters and splash drones. A “stonefish” camera, billed as the world's first underwater CCTV, caught dolphins using sea sponges to plug holes in coral and trap fish. Other scenes show a grouper communicating with another species and about 200,000 crabs feeding in formation."
-    },
-    {
-      "n": 19,
-      "headline": "Acer's $1,300 Predator Atlas 8 gaming handheld comes to the U.S. Nov. 1, and the first preorders already sold out",
-      "cat": "Gadgets / Gaming",
-      "source": "Android Authority",
-      "url": "https://www.androidauthority.com/acer-predator-atlas-8-us-pricing-availability-3728356/",
-      "image_local": "images/story-1497.jpg",
-      "image_remote": "https://www.androidauthority.com/wp-content/uploads/2026/05/ACER-Predator-Atlas-8-Front-view.jpg",
-      "id": "c4f9ac71afecf427f249977364841cc485b37e7e",
-      "summary": "Acer's Predator Atlas 8, a Windows 11 gaming handheld first shown at Computex 2026, goes on sale in the U.S. on Nov. 1, only at Best Buy, for $1,300. That's far more than a Steam Deck or ROG Ally, but Acer says the first round of preorders sold out last week, and online orders reopen when it hits stores. It runs on Intel's new Arc G3 Extreme chip and has an 8-inch 1920x1200 touchscreen with a 120Hz variable refresh rate, an 80Wh battery, two cooling fans, dual-mode triggers and TMR joysticks that resist drift. Because it runs Windows, it plays existing Steam and Xbox Game Pass libraries and can be docked to a bigger screen. Android Authority says that at that price it needs to run games noticeably better than rivals, not just run them."
     },
     {
       "n": 20,
