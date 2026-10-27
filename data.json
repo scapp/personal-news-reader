@@ -1,8 +1,107 @@
 {
-  "updated": "Tuesday, October 27, 2026 · 7:14 AM ET",
+  "updated": "Tuesday, October 27, 2026 · 11:38 AM ET",
   "stories": [
     {
       "n": 1,
+      "headline": "Apple unveils the M6 14-inch MacBook Pro with a 12-core chip, Wi-Fi 7 and up to 24 hours of battery, starting at $1,999",
+      "cat": "Apple / Mac",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/27/14-inch-macbook-pro-with-m6-chip/",
+      "image_local": "images/story-1498.jpg",
+      "image_remote": "https://images.macrumors.com/t/PpAQE16x5Vr4Z1yCIGsj0S8qPdg=/3840x/article-new/2026/10/Apple-MacBook-Pro-14-in-with-M6-hero.jpg",
+      "id": "58b3d35cf8b43de6a06d438625d94358420e02e6",
+      "summary": "Apple announced a refreshed 14-inch MacBook Pro on Tuesday built around its new M6 chip, which has a 12-core CPU (two “super” cores, four performance and six efficiency cores) and a 12-core GPU, up from 10 and 10 on the M5. Apple says graphics are up to 30% faster and AI workloads up to 25% faster than M5, and the Neural Engine doubles to a dual 16-core design with 32 cores. Memory bandwidth rises from 153GB/s to 170GB/s, but only on the 24GB and 32GB models. Apple's N1 wireless chip adds Wi-Fi 7 and Bluetooth 6, and the laptop can now drive two external 4K displays at up to 165Hz. Battery life is rated at up to 24 hours, the most of any Mac. Otherwise the design is unchanged. It starts at $1,999 with 16GB of memory and 1TB of storage, in Space Black or Silver. Preorders open Wednesday at 10:10 a.m. PT and it ships Friday, Nov. 6. A touchscreen OLED MacBook Pro is still expected at Apple's “Pro and Tell” event Wednesday."
+    },
+    {
+      "n": 2,
+      "headline": "Photos obtained by CBS show Ukraine's Starlink was throttled to a trickle the day a Russian drone killed 5 in a Kharkiv park",
+      "cat": "World / Ukraine · Musk",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/photos-show-ukraine-starlink-throttled-russian-strike-killed-5/",
+      "image_local": "",
+      "image_remote": "",
+      "id": "c33158d726dd9afa6945e8dc84e7281bde4f8a32",
+      "summary": "On Oct. 19, a Russian Geran-4 jet-powered drone slammed into a park in Kharkiv, killing makeup artist Yulia Spichak, 34, and four others, including a 1-year-old girl. The attack came six days after SpaceX throttled Ukraine's Starlink service, which the country uses to coordinate air defenses. Photos obtained by CBS News show the Starlink link for ground-based air defense radars dropping to 0.1 megabytes per second that day, not enough to load a webpage, a source said. Ukrainian officials say the unannounced limits hit radars and drone interceptors. Elon Musk confirmed the throttling on X, saying Ukraine's military violated Starlink's terms by using the civilian service “for offensive drone strikes to kill people” and that “that loophole was closed last week.” Ukraine says access was restored nationwide on Saturday. Musk says the U.S. government controls any changes to Starshield, SpaceX's military network, and President Trump has said he did not order the restrictions."
+    },
+    {
+      "n": 3,
+      "headline": "Penguins center Ben Kindel is back on the ice two weeks after collapsing on the team plane",
+      "cat": "Sports / Penguins",
+      "source": "Pittsburgh Hockey Now",
+      "url": "https://pittsburghhockeynow.com/pittsburgh-penguins-practice-ben-kindel-returns-others-join/",
+      "image_local": "images/story-1499.jpg",
+      "image_remote": "https://media.pittsburghhockeynow.com/wp-content/uploads/2026/10/IMG_2863-scaled-e1793114479679-1600x900.jpg",
+      "id": "f093fafa508c334a96ef72a3141a9bd2fc4a3c82",
+      "summary": "Ben Kindel returned to practice Tuesday in Cranberry Township, two weeks after a scare on the Penguins' charter flight home from Salt Lake City at the end of an 0-4 Western road trip. General manager Kyle Dubas called it a vasovagal episode: the 19-year-old center briefly lost consciousness shortly after takeoff, the team physician treated him, the plane turned back, and he was taken to the University of Utah Medical Center before coming home two days later. On Tuesday he skated in a regular sweater with the smaller group on the second rink. Forward Justin Brazeau and recent call-ups Rutger McGroarty and Avery Hayes wore green jerseys, and defenseman Sam Girard was back in a white non-contact sweater. The team said 6-foot-8 winger Elmer Soderblom is out day-to-day with an upper-body injury. He has played six of Pittsburgh's 12 games, with one assist."
+    },
+    {
+      "n": 4,
+      "headline": "A YouTuber folded an iPhone Duo by hand until it broke: the inner screen cracked on fold 75,001",
+      "cat": "Apple / iPhone Duo",
+      "source": "Gizmodo",
+      "url": "https://gizmodo.com/iphone-duo-folding-test-worse-than-samsung-foldables-2000831131",
+      "image_local": "images/story-1500.jpg",
+      "image_remote": "https://gizmodo.com/app/uploads/2026/10/iPhone-Duo-Review-40-1200x675.jpg",
+      "id": "57fdb4e2c8fd3baecaaad8f9f1fb6d98fb77d1f2",
+      "summary": "Apple has never said how many folds the iPhone Duo is rated for, unlike Samsung, which rates its latest Galaxy Z Fold and Flip for 500,000. YouTuber Kuba Klawiter folded one by hand on a livestream until a line appeared down the middle of the inner screen on fold 75,001. The test wasn't gentle: after 50,000 folds he shook the phone in a bag of dirt and dust to mimic pocket lint, a deeper crease showed up at 60,000, and at 75,000 he put it in a bowl of ice before the fatal fold. He says Galaxy Z Flip 3 and Flip 5 phones survived more than 400,000 folds in similar tests. Joanna Stern's robot got past 32,000 folds and other reviewers passed 10,000 without breaking theirs. Gizmodo says testing conditions vary too much to call the Duo far weaker, but argues Apple should publish its own rating for a $2,000 phone. Apple said Monday it is aware of an inner-display issue affecting “a small number” of units."
+    },
+    {
+      "n": 5,
+      "headline": "Illinois man charged with mailing white-powder “HA HA” letters to four members of Congress, with his own return address on every one",
+      "cat": "Crime / Courts",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/illinois-man-accused-threatening-congress-white-substances-letters-marked-return-address",
+      "image_local": "images/story-1501.jpg",
+      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/powder.jpg",
+      "id": "f4c4efee16f917ab3015ee2187567b0871bee6d3",
+      "summary": "Matthew G. Unglesbee was charged Monday with false information and hoaxes and with mailing threatening communications, after four members of Congress from Illinois received envelopes containing a white granular substance, according to a federal complaint. Three letters read “HA HA,” and one sent to a senator's office read “HAH enjoy the gift.” All four carried Unglesbee's name and return address. The FBI got a tip on Oct. 16 from someone who overheard him at a restaurant saying he had mailed suspicious substances to Congress, and the tipster supplied his full name, address and birth date. A staffer at the first office called 911 after feeling powder in an envelope; that office had already received a similar letter weeks earlier. Preliminary lab tests found no chemical or biological toxins. Unglesbee told the FBI the powder was salt and that he sent the letters as a joke."
+    },
+    {
+      "n": 6,
+      "headline": "German climber falls nearly 5,000 feet to his death on Nepal's Ama Dablam, a day after reaching the summit",
+      "cat": "Adventure / Mountaineering",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/climber-dies-5000-feet-fall-nepal-mountain-reaching-summit/",
+      "image_local": "images/story-1502.jpg",
+      "image_remote": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/27/82387632-91b1-4aca-82e3-a3e70ac25195/thumbnail/1200x630g2/4a1d801509b36f29c53ea81dc70ec5de/gettyimages-1232534493.jpg",
+      "id": "a6f8d0238441aaf384ff57fba4f318c1dd0c76a0",
+      "summary": "Wolfgang Waschiczek, 57, of Germany, reached the 22,349-foot summit of Ama Dablam in Nepal's Khumbu region on Sunday and spent the night resting at Camp 3, around 20,300 feet. On Monday morning his personal guide, Sonam Lama, left him in the tent for a few minutes to return borrowed equipment and told him to stay inside. When Lama came back, Waschiczek was gone. Another Sherpa spotted his body near Camp 2, about 1,500 meters (nearly 5,000 feet) below. It was recovered by helicopter, flown to Lukla and then Kathmandu for a postmortem, the head of trekking company Real Himalaya told AFP. Ama Dablam is a technically difficult peak with steep faces, and more than 300 climbers are attempting it this season. Two climbers died there last October, and two Japanese climbers died on another Nepal peak last week."
+    },
+    {
+      "n": 7,
+      "headline": "Iron Maiden's Bruce Dickinson announces a 31-date 2027 'PsychoGod' solo tour and a new album he calls “heavy as s---”",
+      "cat": "Music / Heavy Metal",
+      "source": "Loudwire",
+      "url": "https://loudwire.com/bruce-dickinson-2027-tour-dates/",
+      "image_local": "images/story-1503.jpg",
+      "image_remote": "https://townsquare.media/site/366/files/2026/10/attachment-social-image-366-2026-10-27-08-58-49.jpg?w=1200&q=75&format=natural",
+      "id": "2085cf0625475a4ff7ca1854a780ceb97e0922bb",
+      "summary": "Bruce Dickinson will take his solo band on the road in 2027 with the PsychoGod tour, 31 dates that open June 14 at Ulster Hall in Belfast, run through summer festivals including Rock Imperium in Spain, Rockharz in Germany and Masters of Rock in Czechia, and wrap with a fall run ending Dec. 10 in Paris, with Evergrey supporting the fall dates. He'll play new music alongside favorites and deep cuts. Dickinson said in August that a new solo album is coming in 2027, his first since 2024's The Mandrake Project, and promised it would be “heavy as shit.” “A real drummer, a real bass player, real guitarists, real keyboards – AI can only copy, it can only pretend,” he said. His band is guitarists Chris DeClercq and Philip Naslund, bassist Tanya O'Callaghan, drummer Dave Moreno and keyboardist Mistheria. Iron Maiden recently added a 16-date North American leg of its Run for Your Lives tour, from April 14 in Tacoma to May 16 in Ocean City, Md. No U.S. solo dates are listed yet."
+    },
+    {
+      "n": 8,
+      "headline": "Apple's first iMac update in two years brings the M6 chip and Wi-Fi 7 to the same colorful 24-inch design, from $1,499",
+      "cat": "Apple / Mac",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/27/m6-imac-pre-orders-release-date/",
+      "image_local": "images/story-1504.jpg",
+      "image_remote": "https://images.macrumors.com/t/LczkWXCWIjTb-jFnXXNR5GeKVX8=/3840x/article-new/2026/10/Apple-iMac-with-M6-hero-261027.jpg",
+      "id": "8c31c32ab8a7969bce0c230309b41bc75b277a51",
+      "summary": "Apple also refreshed the 24-inch iMac on Tuesday, its first update to the all-in-one in two years. The outside is unchanged, with the same 4.5K Retina display and the same seven colors: blue, green, pink, yellow, purple, orange and silver. Inside, the M6 chip offers up to a 12-core CPU, a 12-core GPU and a dual 16-core Neural Engine, compared with up to 10 cores and a single 16-core Neural Engine on the M4 model, and the N1 chip adds Wi-Fi 7. The $1,499 model has a 10-core chip and two Thunderbolt/USB 4 ports, while the $1,699 model has the full 12-core chip and four Thunderbolt 4 ports. Both start with 16GB of memory and 256GB of storage. Preorders open Wednesday, Oct. 28, at 10:10 a.m. PT on apple.com and in the Apple Store app, and the new iMac arrives Friday, Nov. 6."
+    },
+    {
+      "n": 9,
+      "headline": "Susan Saint James, Emmy-winning star of 'McMillan & Wife' and 'Kate & Allie,' dies at 80",
+      "cat": "TV / Obituary",
+      "source": "People",
+      "url": "https://people.com/susan-saint-james-dead-kate-and-allie-mcmillan-and-wife-8687066",
+      "image_local": "images/story-1505.jpg",
+      "image_remote": "https://people.com/thmb/sFeGvEUJVBQ7VFBl2EwOjkvur_0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(999x0:1001x2)/Susan-Saint-James_Christa-Miller_PEOPLE-03-17a0e02df6834f688a3c77edc02aa1b0.jpg",
+      "id": "4a77a99609bde4f75b1c64fbbbd647b584098087",
+      "summary": "Susan Saint James died Monday, Oct. 26, after being diagnosed with pancreatic cancer, a representative told PEOPLE. She was 80. Born Susan Jane Miller in Los Angeles and raised in Rockford, Ill., she briefly attended Connecticut College and modeled in New York before signing with Universal at 20. She won an Emmy in 1969 for NBC's “The Name of the Game,” played Sally McMillan opposite Rock Hudson in “McMillan & Wife” from 1971 to 1976, and co-starred with Jane Curtin as two divorced moms sharing a Manhattan apartment in CBS's “Kate & Allie” in the 1980s. Her family remembered her as someone who “never met a stranger,” and recalled that weeks after her youngest son, Teddy, was killed in a 2004 plane crash, she delivered his eulogy as a note to each of her other children and her husband. She is survived by her husband, former NBC executive Dick Ebersol, four children and seven grandchildren."
+    },
+    {
+      "n": 10,
       "headline": "Brewers rout the Rays 10-1 in Game 3 and are one win from their first World Series title",
       "cat": "Sports / MLB",
       "source": "NPR (AP)",
@@ -13,7 +112,7 @@
       "summary": "The Milwaukee Brewers beat the Tampa Bay Rays 10-1 Monday night at Tropicana Field and lead the World Series 3-0. Jackson Chourio went 4 for 5 and bookended an eight-run fifth inning, which Brice Turang opened with a two-out, two-run single. Rookie left-hander Robert Gasser threw one-hit ball and faced the minimum through six innings, the first starter to do that in a World Series game since Curt Schilling in 2001 and the first lefty since Sandy Koufax in 1965. Milwaukee piled up 16 hits off ALCS MVP Freddy Peralta and five relievers to win its eighth straight game, tying the record for a single postseason, while thousands of traveling Brewers fans cheered behind the visitors' dugout. Of 43 teams to fall behind 3-0 in a best-of-seven postseason series, only the 2004 Red Sox came back. Game 4 is Tuesday night in St. Petersburg."
     },
     {
-      "n": 2,
+      "n": 11,
       "headline": "Israel votes today in its first election since Oct. 7, and Netanyahu's future could take weeks to settle",
       "cat": "World / Israel",
       "source": "CBS News",
@@ -24,7 +123,7 @@
       "summary": "Israelis are voting Tuesday in a tight election that will shape their next government, the first since Hamas' Oct. 7, 2023, attack and with the country still fighting in Gaza, Lebanon and Syria after two rounds of direct conflict with Iran. Right-leaning pollsters give Prime Minister Benjamin Netanyahu's right-wing and religious bloc the edge, while left-leaning pollsters favor the opposing “change” bloc, and most show neither side reaching a 61-seat majority in the 120-seat Knesset. That could mean drawn-out coalition talks, a minority government or even a do-over. Netanyahu argues only he can govern without Arab parties and finish the wars, especially against Iran. President Trump endorsed him last week and warned that if Israel has “the wrong Leader,” America would have to finish the Iran job itself and is “not inclined to do so.” Netanyahu's campaign slogan is “Either right wing or Palestine, either right wing or a nuclear bomb.”"
     },
     {
-      "n": 3,
+      "n": 12,
       "headline": "U.K. charges two men in the alleged Iran-linked plot against RAF Fairford, the base U.S. bombers used to strike Iran",
       "cat": "World / Terrorism",
       "source": "CBS News",
@@ -35,7 +134,7 @@
       "summary": "British prosecutors on Tuesday charged two London men, Mohmed Abdulkarim and Nouman Essghir, both 24, under the 2023 National Security Act in connection with last month's incident near RAF Fairford in western England. Abdulkarim is accused of assisting a foreign intelligence service, and Essghir of approaching a prohibited place for a purpose prejudicial to U.K. safety. Five men were first detained near the base on Sept. 27, when nearby residents were evacuated and police found gasoline in three vans parked near an entrance, but no explosives. Prime Minister Andy Burnham has said Iran “played a part,” and the U.S. Air Force pulled all of its B-1 bombers from Fairford, which had launched strikes on Iran during the war. Iran's embassy denies any link. Six other men, all in their 20s, remain free on bail while the investigation continues."
     },
     {
-      "n": 4,
+      "n": 13,
       "headline": "Valkyries beat the Dream 64-55 in Game 5 and are one win from a WNBA title in only their second season",
       "cat": "Sports / WNBA",
       "source": "ABC7 News (AP)",
@@ -46,7 +145,7 @@
       "summary": "Kiah Stokes had 13 points, eight rebounds and three blocks as the Golden State Valkyries beat the Atlanta Dream 64-55 Monday night at Chase Center to take a 3-2 lead in the WNBA Finals. Veronica Burton added 13 points and eight rebounds, and former Dream guard Tiffany Hayes, who came out of retirement two years ago, scored 12. Leading scorer Gabby Williams shot 3 for 14, but the Valkyries forced 17 turnovers that led to 21 points. Angel Reese was held to seven points with 15 rebounds and was called for three offensive fouls. The teams set a WNBA Finals record for the lowest-scoring first half, with Golden State up 25-22 at the break before pulling away. Stokes has three or more blocks in six straight games, tying Lisa Leslie's 2003 postseason record. Game 6 is Thursday at 12:30 p.m. EDT in Atlanta, an unusual time because an NBA game has the arena that night. A Game 7 would be Saturday in San Francisco."
     },
     {
-      "n": 5,
+      "n": 14,
       "headline": "13 charged with running stolen cars and trucks through El Paso to Mexican cartels, including armored SUVs",
       "cat": "Crime / Border",
       "source": "Fox News",
@@ -57,7 +156,7 @@
       "summary": "Federal prosecutors in West Texas say a cross-border pipeline moved vehicles stolen from private owners and big rental-car companies through El Paso into Mexico, where cartels used them in their day-to-day operations. Thirteen people face charges of interstate transportation of stolen property, which carries up to 10 years in federal prison, in a case called Operation Southbound Takedown. Investigators have recovered 29 vehicles worth about $1.14 million, including an armored SUV and an armored pickup. Eleven of those charged are U.S. citizens and two are Mexican citizens. HSI's El Paso chief said these “are not isolated property crimes,” and U.S. Attorney Justin Simmons warned that people driving stolen vehicles south for a “quick buck” are helping cartels with human smuggling, extortion, drug trafficking “and even murder.” “You are now on notice,” he said."
     },
     {
-      "n": 6,
+      "n": 15,
       "headline": "Feds say 405 noncitizens voted in Washington state elections, casting more than 1,500 ballots, and call it the “tip of the iceberg”",
       "cat": "Politics / Elections",
       "source": "Breitbart",
@@ -68,7 +167,7 @@
       "summary": "Neil Floyd, the acting U.S. attorney for the Western District of Washington, said Monday that investigators have identified 405 people they believe are not U.S. citizens who voted in Washington elections, casting more than 1,500 ballots over multiple elections. Federal officials sent the names to state election officials and asked them to set those ballots aside until eligibility is checked. Floyd said he is confident “thousands” of noncitizens have voted, though he did not give a statewide count, and the 1,500 ballots span several decades. DHS investigators matched public voter lists against federal records one person at a time, because Washington has refused to share its full voter database with identifying information. Floyd said his office will prosecute illegal voters and anyone who knowingly helps them. The Justice Department has also sued California to hold mailed ballots from more than 20,000 voters it flagged as likely noncitizens."
     },
     {
-      "n": 7,
+      "n": 16,
       "headline": "Tesla's Cybercab line now builds robotaxis faster than Tesla can put them on the road",
       "cat": "Tesla / Elon Musk",
       "source": "Teslarati",
@@ -79,7 +178,7 @@
       "summary": "Tesla's Cybercab line in Texas is running so fast that it is outpacing deployments, vehicle engineering VP Lars Moravy said in a new Munro Live deep dive. “We don't run every day because the line can run so fast,” he said. The “unboxed” process builds front, rear, side and center modules separately before they meet on a short final line with just 25 automated stations, a fifth to a tenth of what a Model Y needs. The line is about 78% automated, the goal is one Cybercab every 10 seconds, and there's no paint shop, since exterior panels get their color inside the molding machine. The two-seater is designed to run at least 500,000 miles. Its 4680 battery pack sits in a steel enclosure with modules that can be swapped one at a time, and Tesla's battery director graded it an A minus, versus a D for the Model Y structural pack. Deployment, not production, is now the bottleneck."
     },
     {
-      "n": 8,
+      "n": 17,
       "headline": "Cowboys beat the Eagles 38-21 on Monday Night Football, handing Philadelphia its fifth straight loss",
       "cat": "Sports / NFL",
       "source": "NBC 5 Dallas-Fort Worth",
@@ -90,7 +189,7 @@
       "summary": "Dak Prescott threw three touchdown passes, two to CeeDee Lamb, and Javonte Williams ran for a career-high 155 yards as Dallas beat Philadelphia 38-21 at Lincoln Financial Field. Brandon Aubrey opened with a 55-yard field goal, the teams traded leads, and the Cowboys led 20-14 at halftime after Prescott hit Lamb and George Pickens for scores. Tanner McKee's 4-yard pass to rookie Makai Lemon briefly put the Eagles ahead in the third quarter, but Prescott answered with a 16-yard touchdown to Lamb and ran in the two-point conversion. Aubrey added another field goal, DeMarvion Overshown intercepted McKee, and Williams closed it with a 2-yard run. Prescott finished 15 of 27 for 212 yards with no interceptions. Dallas is 3-4, and the Eagles fall to 2-5, with fans already calling for a quarterback change."
     },
     {
-      "n": 9,
+      "n": 18,
       "headline": "Blue Planet III keeps its murky, imperfect shots on purpose to prove no AI was used, with Attenborough narrating at 100",
       "cat": "Photography / Nature",
       "source": "PetaPixel",
@@ -101,7 +200,7 @@
       "summary": "David Attenborough, now 100, is back to narrate the BBC's Blue Planet III, and the producers say not a single frame was made with generative AI. “It's all real photography,” BBC factual commissioning head Jack Bootle said. Executive producer Elizabeth White said the crew used to cut shots with plankton-clouded water or a stray boat or buoy in frame, but now keeps those imperfections because AI “makes us want to be even more authentic.” The series was filmed over four years across five oceans with new gear, including a mini dome camera that follows octopuses, a deep-sea selfie stick, lasers to light creatures in darkness, leg-mounted scooters and splash drones. A “stonefish” camera, billed as the world's first underwater CCTV, caught dolphins using sea sponges to plug holes in coral and trap fish. Other scenes show a grouper communicating with another species and about 200,000 crabs feeding in formation."
     },
     {
-      "n": 10,
+      "n": 19,
       "headline": "Acer's $1,300 Predator Atlas 8 gaming handheld comes to the U.S. Nov. 1, and the first preorders already sold out",
       "cat": "Gadgets / Gaming",
       "source": "Android Authority",
@@ -110,105 +209,6 @@
       "image_remote": "https://www.androidauthority.com/wp-content/uploads/2026/05/ACER-Predator-Atlas-8-Front-view.jpg",
       "id": "c4f9ac71afecf427f249977364841cc485b37e7e",
       "summary": "Acer's Predator Atlas 8, a Windows 11 gaming handheld first shown at Computex 2026, goes on sale in the U.S. on Nov. 1, only at Best Buy, for $1,300. That's far more than a Steam Deck or ROG Ally, but Acer says the first round of preorders sold out last week, and online orders reopen when it hits stores. It runs on Intel's new Arc G3 Extreme chip and has an 8-inch 1920x1200 touchscreen with a 120Hz variable refresh rate, an 80Wh battery, two cooling fans, dual-mode triggers and TMR joysticks that resist drift. Because it runs Windows, it plays existing Steam and Xbox Game Pass libraries and can be docked to a bigger screen. Android Authority says that at that price it needs to run games noticeably better than rivals, not just run them."
-    },
-    {
-      "n": 11,
-      "headline": "Donnie Iris, the Pittsburgh rock legend behind “Ah! Leah!” and “Love Is Like a Rock,” dies at 83",
-      "cat": "Music / Classic Rock",
-      "source": "CBS News Pittsburgh",
-      "url": "https://www.cbsnews.com/pittsburgh/news/donnie-iris-dies/",
-      "image_local": "images/story-1481.jpg",
-      "image_remote": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/26/28ee02c9-3ca3-467a-a109-9aeb2aa5a7db/thumbnail/1200x630/f4f68e700993204be4aedd2ff8f223de/snapshot-2026-10-26t193308-590.jpg",
-      "id": "23511d7ec19d473a5ce5fd42e36f14a35defb2e9",
-      "summary": "Donnie Iris, the Ellwood City, Pennsylvania, singer behind “Ah! Leah!,” has died at 83, a former bandmate said Monday. He was diagnosed with bladder cancer shortly after a sold-out 80th birthday show in 2023, canceled some dates, then returned to the stage, and he only announced his retirement this month after a Sept. 28 show at Citizens Live at The Wylie. Iris first hit No. 1 in 1970 writing and singing “The Rapper” with the Jaggerz. After joining Wild Cherry in 1978 he met Mark Avsec, and the two formed Donnie Iris & The Cruisers, whose “Back On The Streets” album produced “Ah! Leah!” A reviewer's “new king of cool” line became the follow-up album “King Cool,” with “Love Is Like A Rock” and “My Girl.” The band toured with Journey, Foreigner, Bon Jovi, Loverboy, Joan Jett and Hall & Oates. Pittsburgh Mayor Corey O'Connor said Iris “was part of the soundtrack of our city.”"
-    },
-    {
-      "n": 12,
-      "headline": "Jay-Z will headline the Apple Music Super Bowl LXI halftime show at SoFi Stadium on Valentine's Day",
-      "cat": "Music / Super Bowl",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/10/26/jay-z-2027-apple-music-halftime-show/",
-      "image_local": "images/story-1482.jpg",
-      "image_remote": "https://images.macrumors.com/t/wd-VPxAfWnOa48AlyrsMofT0XgE=/1600x/article-new/2026/10/JAY-Z-2027-Apple-Music-Halftime-Show.jpg",
-      "id": "f1c784d28df374868a1105a8aa9f48d7ced2651c",
-      "summary": "Apple and the NFL announced Monday night that Jay-Z, billed with the stylized spelling “JAŸ-Z,” will headline the Apple Music Super Bowl LXI Halftime Show at SoFi Stadium outside Los Angeles. The game is on Sunday, Feb. 14, 2027, so the show lands on Valentine's Day. In the U.S. the Super Bowl airs on ABC and ESPN, and the halftime show usually starts between about 8:00 and 8:15 p.m. Eastern. No other performers have been announced yet. Apple has sponsored the halftime show since 2022, and the announcement came with a short teaser video on Apple Music's YouTube channel."
-    },
-    {
-      "n": 13,
-      "headline": "Manhunt in Tennessee for a convicted killer who went over a prison fence in his uniform and stole a flatbed truck",
-      "cat": "Crime / Courts",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/news/us-news/manhunt-murderer-escaped-tennessee-rcna605826",
-      "image_local": "images/story-1483.jpg",
-      "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261026-Tennessee-Bureau-Investigation-vsb-1947-66fda1.jpg",
-      "id": "7597ad05081fae53f3a02ceb50dc28015a762eba",
-      "summary": "Tennessee authorities are searching for Jacob Allen Morley, 28, a convicted murderer serving life who escaped from the Northwest Correctional Complex in Tiptonville. He was reported missing at 11:30 p.m. Sunday, and security video shows he breached the perimeter fence in his prison uniform. By 1 a.m. Monday he is accused of stealing a white Ford F-350 flatbed truck in the town of about 3,500, near the Mississippi River and the Missouri line, about 100 miles north of Memphis. The TBI put him on its most-wanted list and asked residents to check doorbell and trail cameras. Morley is 5-foot-11 and 240 pounds; a reward of up to $2,500 is offered, and anyone who sees him should call 911 or 1-800-TBI-FIND. Court records say he shot co-worker Cody Birchfield in the back of the head in 2022 and hid the body in a metal box under his home. He was convicted in February 2025."
-    },
-    {
-      "n": 14,
-      "headline": "Halide's first iPhone Duo update turns the half-open foldable into a waist-level viewfinder camera",
-      "cat": "Tech / iPhone Duo",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2297806/halide-releases-its-first-batch-of-updates-for-the-iphone-duo/",
-      "image_local": "images/story-1484.jpg",
-      "image_remote": "https://www.engadget.com/img/gallery/halide-releases-its-first-batch-of-updates-for-the-iphone-duo/l-intro-1793055082.jpg",
-      "id": "7d9b64fd59331a17848e00ea0e3143f71b87395c",
-      "summary": "Camera app Halide is one of the first third-party apps to build specifically for the iPhone Duo. Developer Lux Optics released an update with separate shooting modes for each of the foldable's three poses: folded, partly open and fully open. One option lets you move the camera controls when the phone is open or half-open, and in the partly open position the Duo works much like a classic waist-level viewfinder, held low and looked down into. The update is available now for Halide Mark III users, and Lux Optics says more Duo features are coming. Engadget notes that app support was one of the big open questions in its Duo review, and Halide, once reportedly an Apple acquisition target, answered it quickly."
-    },
-    {
-      "n": 15,
-      "headline": "FTC and 20 states sue Dollar General, saying it charged more at the register than its shelf tags for years",
-      "cat": "Consumer / Courts",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/dollar-general-sued-ftc-overcharging-prices/",
-      "image_local": "images/story-1485.jpg",
-      "image_remote": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/26/d97ea04b-66fa-4a9d-84e2-54a3b934b3a6/thumbnail/1200x630/a73629fdc03fc03f56a38f14ea0b442d/gettyimages-1139364763.jpg",
-      "id": "9ce103d5df1018516b2d305f863e5c50ac23bde9",
-      "summary": "The Federal Trade Commission and 20 states sued Dollar General on Monday, accusing the 21,000-store chain of routinely charging shoppers more at checkout than the prices on its shelves, tags and ads, “extracting millions of dollars in unlawful overcharges.” The complaint, filed in federal court in Tennessee, where Dollar General is based, says the pattern lasted years, hit thousands of stores and drew thousands of consumer complaints. The FTC's consumer protection chief said the company “betrayed the trust” of shoppers who are already stretching paychecks. Dollar General says its goal is 100% price accuracy, that occasional discrepancies happen at any retailer and are corrected for customers, and that it has improved its processes. It said the FTC demanded money “orders of magnitude larger” than any realistic estimate and that it will fight the suit. The case seeks an injunction plus money and other relief."
-    },
-    {
-      "n": 16,
-      "headline": "Marty Friedman on quitting Megadeth mid-tour in 2000: “The decision was not difficult. Carrying it out was”",
-      "cat": "Music / Guitar",
-      "source": "Ultimate Guitar",
-      "url": "https://www.ultimate-guitar.com/news/general_music_news/the-decision-was-not-difficult-carrying-it-out-was-marty-friedman-speaks-on-regrets-about-megadeth-departure-and-wanting-to-evolve-beyond-strict-metal",
-      "image_local": "images/story-1486.jpg",
-      "image_remote": "https://www.ultimate-guitar.com/static/article/news/0/189110_0_meta_ver1793013378.jpg@1200",
-      "id": "b1e808351769c2a2e4e38ecca45dc554c143b8b2",
-      "summary": "Former Megadeth guitarist Marty Friedman told VRP Rocks he never doubted his decision to leave the band in 2000, but regrets how he did it, three months into the European leg of the “Risk” tour. “I was just not the coolest person at that point. It was very selfish of me,” he said, adding that he “made good with Mustaine and the band years after that, but there were a lot of things I was not proud of.” Friedman joined in 1990 and played on “Rust in Peace” and “Countdown to Extinction” in the classic lineup with Dave Mustaine, David Ellefson and Nick Menza. Asked about wanting to move past metal, he said metal is “deep in my foundation,” but “you can't be bound by a genre forever,” and that the whole band wanted Led Zeppelin- and Rolling Stones-style longevity. “It wasn't just me,” he said. Earlier this month Mustaine praised Friedman for owning how he handled the exit."
-    },
-    {
-      "n": 17,
-      "headline": "Fujifilm's Instax Mini Evo 2 hybrid camera gets a giant touchscreen, a film-lever print control and a $289.95 price",
-      "cat": "Photography / Gadgets",
-      "source": "Digital Camera World",
-      "url": "https://www.digitalcameraworld.com/cameras/instant-cameras/embargoed-fujifilm-instax-evo-2-review",
-      "image_local": "images/story-1487.jpg",
-      "image_remote": "https://cdn.mos.cms.futurecdn.net/RWQ9HeckvnTTC4WPzuVFVa-2560-80.jpg",
-      "id": "0d857ce5ca00cbeb008903cc12f8976ff84d2748",
-      "summary": "Fujifilm announced the Instax Mini Evo 2, a refresh of its hybrid camera that shoots digitally and prints only the shots you choose on Instax Mini film. It keeps the retro silver body, a top dial for 10 color film looks, a lens ring for creative effects like double exposures and light leaks, and a print lever that works like an old film-advance lever. The big change is on the back, where a touchscreen fills nearly the whole camera and shows a little beyond the frame. There's also a new sensor, a macro mode and quick exposure compensation. Digital Camera World's reviewer calls it “way more fun than a cheap camera ought to be,” but notes there's no viewfinder, the screen can be hard to see in bright sun, and the battery is rated for about 90 shots. It also prints phone photos through the Instax app. It costs $289.95, up from about $234 for the original, and ships at the end of November."
-    },
-    {
-      "n": 18,
-      "headline": "LEGO Technic's new Ducati Desmo450 MX motocrosser has a chain-driven engine, working suspension and 457 pieces",
-      "cat": "LEGO / Motorcycles",
-      "source": "MCNews",
-      "url": "https://www.mcnews.com.au/ducati-desmo450-mx-factory-lego-technic-set/",
-      "image_local": "images/story-1488.jpg",
-      "image_remote": "https://www.mcnews.com.au/wp-content/uploads/2026/10/2026-Ducati-Desmo450-MX-Lego-4.jpg",
-      "id": "57c6748cf0a2963e2290fb8b77b908c358713e65",
-      "summary": "Ducati and LEGO have released a second Technic collaboration, set 42238, a 457-piece model of the Desmo450 MX Factory, the race-ready version of Ducati's first motocross bike. Spin the rear wheel and a chain drives the engine's moving parts. The handlebars steer, the front and rear suspension compress and rebound, and the body panels come off to show the Technic frame underneath. Red-and-black Ducati Corse graphics, No. 222 plates and gold fork legs match the real bike, and a Ducati stand is included. The model, for ages 10 and up, is about 31 cm long and 19 cm tall, and the LEGO Builder app has 3D instructions. It's on sale now for £44.99 in the UK and A$89.99 in Australia. The partnership began in 2020 with the Technic Panigale V4 R, and both models will be shown with a full-size Desmo450 at Lucca Comics & Games in Italy from Oct. 28 to Nov. 1."
-    },
-    {
-      "n": 19,
-      "headline": "James Comey charged a third time, now over an alleged 2016 leak to a reporter — by prosecutors' filing, not a grand jury",
-      "cat": "Politics / Courts",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/politics/justice-department/former-fbi-james-comey-charged-third-time-trump-national-security-rcna342963",
-      "image_local": "images/story-1474.jpg",
-      "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-04/260430-james-comey-vl-307p-2a39f0.jpg",
-      "id": "a6bfed464cbbfb059b41c62571c93594f80700cc",
-      "summary": "Former FBI Director James Comey has been charged with transmitting national defense information and conspiracy to transmit it, the third federal case the Trump administration has brought against him. A filing unsealed Monday says Comey directed FBI staff to talk with a New York Times reporter about accuracy problems in an October 2016 Reuters story on Yahoo email surveillance, and that this illegally passed along classified information. Prosecutors used a criminal information rather than a grand jury indictment. Comey's lawyers, who moved to dismiss 10 days ago, argue the case is time-barred because the 10-year limit required an indictment by Oct. 5, 2026. Comey called the case “an appalling abuse of the Department of Justice” and said, “I'm still innocent. I'm still not afraid of these people.” His first case was dismissed, and a separate April indictment in North Carolina is still pending."
     },
     {
       "n": 20,

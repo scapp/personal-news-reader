@@ -1672,7 +1672,16 @@
     "ab17d079eb19cc9c4daad6a4a5a8ee818dfef907",
     "21d9b2b44446f54bec801dbaa4360c9740969b8a",
     "e6ee5b9356e00ef18be4bbbb4fec5a84ed3bb046",
-    "c4f9ac71afecf427f249977364841cc485b37e7e"
+    "c4f9ac71afecf427f249977364841cc485b37e7e",
+    "58b3d35cf8b43de6a06d438625d94358420e02e6",
+    "c33158d726dd9afa6945e8dc84e7281bde4f8a32",
+    "f093fafa508c334a96ef72a3141a9bd2fc4a3c82",
+    "57fdb4e2c8fd3baecaaad8f9f1fb6d98fb77d1f2",
+    "f4c4efee16f917ab3015ee2187567b0871bee6d3",
+    "a6f8d0238441aaf384ff57fba4f318c1dd0c76a0",
+    "2085cf0625475a4ff7ca1854a780ceb97e0922bb",
+    "8c31c32ab8a7969bce0c230309b41bc75b277a51",
+    "4a77a99609bde4f75b1c64fbbbd647b584098087"
   ],
   "stories": {
     "0c2ac7a5e342411678296315c4c59043b1f067cc": {
@@ -19760,7 +19769,97 @@
       "image_remote": "https://www.androidauthority.com/wp-content/uploads/2026/05/ACER-Predator-Atlas-8-Front-view.jpg",
       "image_local": "images/story-1497.jpg",
       "id": "c4f9ac71afecf427f249977364841cc485b37e7e"
+    },
+    "58b3d35cf8b43de6a06d438625d94358420e02e6": {
+      "headline": "Apple unveils the M6 14-inch MacBook Pro with a 12-core chip, Wi-Fi 7 and up to 24 hours of battery, starting at $1,999",
+      "cat": "Apple / Mac",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/27/14-inch-macbook-pro-with-m6-chip/",
+      "summary": "Apple announced a refreshed 14-inch MacBook Pro on Tuesday built around its new M6 chip, which has a 12-core CPU (two “super” cores, four performance and six efficiency cores) and a 12-core GPU, up from 10 and 10 on the M5. Apple says graphics are up to 30% faster and AI workloads up to 25% faster than M5, and the Neural Engine doubles to a dual 16-core design with 32 cores. Memory bandwidth rises from 153GB/s to 170GB/s, but only on the 24GB and 32GB models. Apple's N1 wireless chip adds Wi-Fi 7 and Bluetooth 6, and the laptop can now drive two external 4K displays at up to 165Hz. Battery life is rated at up to 24 hours, the most of any Mac. Otherwise the design is unchanged. It starts at $1,999 with 16GB of memory and 1TB of storage, in Space Black or Silver. Preorders open Wednesday at 10:10 a.m. PT and it ships Friday, Nov. 6. A touchscreen OLED MacBook Pro is still expected at Apple's “Pro and Tell” event Wednesday.",
+      "image_remote": "https://images.macrumors.com/t/PpAQE16x5Vr4Z1yCIGsj0S8qPdg=/3840x/article-new/2026/10/Apple-MacBook-Pro-14-in-with-M6-hero.jpg",
+      "image_local": "images/story-1498.jpg",
+      "id": "58b3d35cf8b43de6a06d438625d94358420e02e6"
+    },
+    "c33158d726dd9afa6945e8dc84e7281bde4f8a32": {
+      "headline": "Photos obtained by CBS show Ukraine's Starlink was throttled to a trickle the day a Russian drone killed 5 in a Kharkiv park",
+      "cat": "World / Ukraine · Musk",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/photos-show-ukraine-starlink-throttled-russian-strike-killed-5/",
+      "summary": "On Oct. 19, a Russian Geran-4 jet-powered drone slammed into a park in Kharkiv, killing makeup artist Yulia Spichak, 34, and four others, including a 1-year-old girl. The attack came six days after SpaceX throttled Ukraine's Starlink service, which the country uses to coordinate air defenses. Photos obtained by CBS News show the Starlink link for ground-based air defense radars dropping to 0.1 megabytes per second that day, not enough to load a webpage, a source said. Ukrainian officials say the unannounced limits hit radars and drone interceptors. Elon Musk confirmed the throttling on X, saying Ukraine's military violated Starlink's terms by using the civilian service “for offensive drone strikes to kill people” and that “that loophole was closed last week.” Ukraine says access was restored nationwide on Saturday. Musk says the U.S. government controls any changes to Starshield, SpaceX's military network, and President Trump has said he did not order the restrictions.",
+      "image_remote": "",
+      "image_local": "",
+      "id": "c33158d726dd9afa6945e8dc84e7281bde4f8a32"
+    },
+    "f093fafa508c334a96ef72a3141a9bd2fc4a3c82": {
+      "headline": "Penguins center Ben Kindel is back on the ice two weeks after collapsing on the team plane",
+      "cat": "Sports / Penguins",
+      "source": "Pittsburgh Hockey Now",
+      "url": "https://pittsburghhockeynow.com/pittsburgh-penguins-practice-ben-kindel-returns-others-join/",
+      "summary": "Ben Kindel returned to practice Tuesday in Cranberry Township, two weeks after a scare on the Penguins' charter flight home from Salt Lake City at the end of an 0-4 Western road trip. General manager Kyle Dubas called it a vasovagal episode: the 19-year-old center briefly lost consciousness shortly after takeoff, the team physician treated him, the plane turned back, and he was taken to the University of Utah Medical Center before coming home two days later. On Tuesday he skated in a regular sweater with the smaller group on the second rink. Forward Justin Brazeau and recent call-ups Rutger McGroarty and Avery Hayes wore green jerseys, and defenseman Sam Girard was back in a white non-contact sweater. The team said 6-foot-8 winger Elmer Soderblom is out day-to-day with an upper-body injury. He has played six of Pittsburgh's 12 games, with one assist.",
+      "image_remote": "https://media.pittsburghhockeynow.com/wp-content/uploads/2026/10/IMG_2863-scaled-e1793114479679-1600x900.jpg",
+      "image_local": "images/story-1499.jpg",
+      "id": "f093fafa508c334a96ef72a3141a9bd2fc4a3c82"
+    },
+    "57fdb4e2c8fd3baecaaad8f9f1fb6d98fb77d1f2": {
+      "headline": "A YouTuber folded an iPhone Duo by hand until it broke: the inner screen cracked on fold 75,001",
+      "cat": "Apple / iPhone Duo",
+      "source": "Gizmodo",
+      "url": "https://gizmodo.com/iphone-duo-folding-test-worse-than-samsung-foldables-2000831131",
+      "summary": "Apple has never said how many folds the iPhone Duo is rated for, unlike Samsung, which rates its latest Galaxy Z Fold and Flip for 500,000. YouTuber Kuba Klawiter folded one by hand on a livestream until a line appeared down the middle of the inner screen on fold 75,001. The test wasn't gentle: after 50,000 folds he shook the phone in a bag of dirt and dust to mimic pocket lint, a deeper crease showed up at 60,000, and at 75,000 he put it in a bowl of ice before the fatal fold. He says Galaxy Z Flip 3 and Flip 5 phones survived more than 400,000 folds in similar tests. Joanna Stern's robot got past 32,000 folds and other reviewers passed 10,000 without breaking theirs. Gizmodo says testing conditions vary too much to call the Duo far weaker, but argues Apple should publish its own rating for a $2,000 phone. Apple said Monday it is aware of an inner-display issue affecting “a small number” of units.",
+      "image_remote": "https://gizmodo.com/app/uploads/2026/10/iPhone-Duo-Review-40-1200x675.jpg",
+      "image_local": "images/story-1500.jpg",
+      "id": "57fdb4e2c8fd3baecaaad8f9f1fb6d98fb77d1f2"
+    },
+    "f4c4efee16f917ab3015ee2187567b0871bee6d3": {
+      "headline": "Illinois man charged with mailing white-powder “HA HA” letters to four members of Congress, with his own return address on every one",
+      "cat": "Crime / Courts",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/illinois-man-accused-threatening-congress-white-substances-letters-marked-return-address",
+      "summary": "Matthew G. Unglesbee was charged Monday with false information and hoaxes and with mailing threatening communications, after four members of Congress from Illinois received envelopes containing a white granular substance, according to a federal complaint. Three letters read “HA HA,” and one sent to a senator's office read “HAH enjoy the gift.” All four carried Unglesbee's name and return address. The FBI got a tip on Oct. 16 from someone who overheard him at a restaurant saying he had mailed suspicious substances to Congress, and the tipster supplied his full name, address and birth date. A staffer at the first office called 911 after feeling powder in an envelope; that office had already received a similar letter weeks earlier. Preliminary lab tests found no chemical or biological toxins. Unglesbee told the FBI the powder was salt and that he sent the letters as a joke.",
+      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/powder.jpg",
+      "image_local": "images/story-1501.jpg",
+      "id": "f4c4efee16f917ab3015ee2187567b0871bee6d3"
+    },
+    "a6f8d0238441aaf384ff57fba4f318c1dd0c76a0": {
+      "headline": "German climber falls nearly 5,000 feet to his death on Nepal's Ama Dablam, a day after reaching the summit",
+      "cat": "Adventure / Mountaineering",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/climber-dies-5000-feet-fall-nepal-mountain-reaching-summit/",
+      "summary": "Wolfgang Waschiczek, 57, of Germany, reached the 22,349-foot summit of Ama Dablam in Nepal's Khumbu region on Sunday and spent the night resting at Camp 3, around 20,300 feet. On Monday morning his personal guide, Sonam Lama, left him in the tent for a few minutes to return borrowed equipment and told him to stay inside. When Lama came back, Waschiczek was gone. Another Sherpa spotted his body near Camp 2, about 1,500 meters (nearly 5,000 feet) below. It was recovered by helicopter, flown to Lukla and then Kathmandu for a postmortem, the head of trekking company Real Himalaya told AFP. Ama Dablam is a technically difficult peak with steep faces, and more than 300 climbers are attempting it this season. Two climbers died there last October, and two Japanese climbers died on another Nepal peak last week.",
+      "image_remote": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/27/82387632-91b1-4aca-82e3-a3e70ac25195/thumbnail/1200x630g2/4a1d801509b36f29c53ea81dc70ec5de/gettyimages-1232534493.jpg",
+      "image_local": "images/story-1502.jpg",
+      "id": "a6f8d0238441aaf384ff57fba4f318c1dd0c76a0"
+    },
+    "2085cf0625475a4ff7ca1854a780ceb97e0922bb": {
+      "headline": "Iron Maiden's Bruce Dickinson announces a 31-date 2027 'PsychoGod' solo tour and a new album he calls “heavy as s---”",
+      "cat": "Music / Heavy Metal",
+      "source": "Loudwire",
+      "url": "https://loudwire.com/bruce-dickinson-2027-tour-dates/",
+      "summary": "Bruce Dickinson will take his solo band on the road in 2027 with the PsychoGod tour, 31 dates that open June 14 at Ulster Hall in Belfast, run through summer festivals including Rock Imperium in Spain, Rockharz in Germany and Masters of Rock in Czechia, and wrap with a fall run ending Dec. 10 in Paris, with Evergrey supporting the fall dates. He'll play new music alongside favorites and deep cuts. Dickinson said in August that a new solo album is coming in 2027, his first since 2024's The Mandrake Project, and promised it would be “heavy as shit.” “A real drummer, a real bass player, real guitarists, real keyboards – AI can only copy, it can only pretend,” he said. His band is guitarists Chris DeClercq and Philip Naslund, bassist Tanya O'Callaghan, drummer Dave Moreno and keyboardist Mistheria. Iron Maiden recently added a 16-date North American leg of its Run for Your Lives tour, from April 14 in Tacoma to May 16 in Ocean City, Md. No U.S. solo dates are listed yet.",
+      "image_remote": "https://townsquare.media/site/366/files/2026/10/attachment-social-image-366-2026-10-27-08-58-49.jpg?w=1200&q=75&format=natural",
+      "image_local": "images/story-1503.jpg",
+      "id": "2085cf0625475a4ff7ca1854a780ceb97e0922bb"
+    },
+    "8c31c32ab8a7969bce0c230309b41bc75b277a51": {
+      "headline": "Apple's first iMac update in two years brings the M6 chip and Wi-Fi 7 to the same colorful 24-inch design, from $1,499",
+      "cat": "Apple / Mac",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/27/m6-imac-pre-orders-release-date/",
+      "summary": "Apple also refreshed the 24-inch iMac on Tuesday, its first update to the all-in-one in two years. The outside is unchanged, with the same 4.5K Retina display and the same seven colors: blue, green, pink, yellow, purple, orange and silver. Inside, the M6 chip offers up to a 12-core CPU, a 12-core GPU and a dual 16-core Neural Engine, compared with up to 10 cores and a single 16-core Neural Engine on the M4 model, and the N1 chip adds Wi-Fi 7. The $1,499 model has a 10-core chip and two Thunderbolt/USB 4 ports, while the $1,699 model has the full 12-core chip and four Thunderbolt 4 ports. Both start with 16GB of memory and 256GB of storage. Preorders open Wednesday, Oct. 28, at 10:10 a.m. PT on apple.com and in the Apple Store app, and the new iMac arrives Friday, Nov. 6.",
+      "image_remote": "https://images.macrumors.com/t/LczkWXCWIjTb-jFnXXNR5GeKVX8=/3840x/article-new/2026/10/Apple-iMac-with-M6-hero-261027.jpg",
+      "image_local": "images/story-1504.jpg",
+      "id": "8c31c32ab8a7969bce0c230309b41bc75b277a51"
+    },
+    "4a77a99609bde4f75b1c64fbbbd647b584098087": {
+      "headline": "Susan Saint James, Emmy-winning star of 'McMillan & Wife' and 'Kate & Allie,' dies at 80",
+      "cat": "TV / Obituary",
+      "source": "People",
+      "url": "https://people.com/susan-saint-james-dead-kate-and-allie-mcmillan-and-wife-8687066",
+      "summary": "Susan Saint James died Monday, Oct. 26, after being diagnosed with pancreatic cancer, a representative told PEOPLE. She was 80. Born Susan Jane Miller in Los Angeles and raised in Rockford, Ill., she briefly attended Connecticut College and modeled in New York before signing with Universal at 20. She won an Emmy in 1969 for NBC's “The Name of the Game,” played Sally McMillan opposite Rock Hudson in “McMillan & Wife” from 1971 to 1976, and co-starred with Jane Curtin as two divorced moms sharing a Manhattan apartment in CBS's “Kate & Allie” in the 1980s. Her family remembered her as someone who “never met a stranger,” and recalled that weeks after her youngest son, Teddy, was killed in a 2004 plane crash, she delivered his eulogy as a note to each of her other children and her husband. She is survived by her husband, former NBC executive Dick Ebersol, four children and seven grandchildren.",
+      "image_remote": "https://people.com/thmb/sFeGvEUJVBQ7VFBl2EwOjkvur_0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(999x0:1001x2)/Susan-Saint-James_Christa-Miller_PEOPLE-03-17a0e02df6834f688a3c77edc02aa1b0.jpg",
+      "image_local": "images/story-1505.jpg",
+      "id": "4a77a99609bde4f75b1c64fbbbd647b584098087"
     }
   },
-  "updated": "Tuesday, October 27, 2026 · 7:14 AM ET"
+  "updated": "Tuesday, October 27, 2026 · 11:38 AM ET"
 }
