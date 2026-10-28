@@ -1723,7 +1723,15 @@
     "b7a7b4af3a0efec7e3b183d50df592e94378a191",
     "54d120a6fe365b306c299b89be27380e4aa1bae6",
     "01942e778e8bd9db7f520e07b81aa5c28c96c160",
-    "0a763b2f01924dcc17f8ba45250e1a1c222e9dab"
+    "0a763b2f01924dcc17f8ba45250e1a1c222e9dab",
+    "dd06744aeb0e591b156e9e9f67fde400647cf8e6",
+    "cb82c430996fa9d634eebbf7d45c12ad19ead91e",
+    "3867852b7d6013f833e42d5b467f1eaf3e033dad",
+    "79d34d2b15553a29b8392bb16f6363eb27d3852a",
+    "48f201c9317270132a82f39c3db5f31b4c0cbea3",
+    "8fbc3ab7ccf7d87985a3b41a556cd98384a4f20f",
+    "df9b92b9db1883e45e4cf40ce7d0b2f38c2bd68b",
+    "316b3efb588a5647c199208716df4ada5239d28a"
   ],
   "stories": {
     "0c2ac7a5e342411678296315c4c59043b1f067cc": {
@@ -20153,11 +20161,11 @@
       "id": "3fa25002e2dca2a1a10031442cac77c45729a309"
     },
     "2503908df296277185c3d8f79df1d376f0fe2881": {
-      "headline": "At least 64 dead after a high-speed train slams into the back of a stopped train in central Spain",
+      "headline": "Spain train crash toll rises to 68, and the transport minister blames an 'inexplicable' order to restart a train after a signal failure",
       "cat": "World / Spain",
       "source": "CBS News",
       "url": "https://www.cbsnews.com/news/spain-train-crash-toledo-urda/",
-      "summary": "A high-speed train crashed into the rear of another train that had stopped in the province of Toledo on Wednesday morning, derailing two cars and killing at least 64 people, the regional government of Castilla-La Mancha told Reuters; about 80 people were reported injured earlier in the day, and officials expect the toll to keep rising. Both trains were heading the same way, from Madrid to Seville. One belonged to state-owned RENFE, with 397 passengers aboard, and the other to the private operator IRYO, with 147. The cause is not yet known. Rail operator ADIF suspended service between Madrid, Ciudad Real and Andalusia, and the nearby town of Urda opened a sports pavilion to care for injured passengers. Trains from the same two companies were involved in a January crash in southern Spain that killed 45 people, which had already shaken confidence in the country's high-speed rail network.",
+      "summary": "A high-speed train slammed into the rear of another that had stopped in the province of Toledo on Wednesday morning, derailing two cars and killing at least 68 people, the regional government of Castilla-La Mancha said; another 58 were being treated in hospitals, and rescuers were still searching the wreckage. Transport Minister Óscar Puente said a computer malfunction knocked out the safety system on a 39-mile stretch at 8:30 a.m., stopping every train on it, but central command then told the state-owned RENFE train, carrying 397 passengers, to start again with no speed limit even though a stop signal was still active. It hit the private IRYO train, with 147 aboard, at 8:53 a.m., possibly at around 124 mph. Puente said the engineers were not to blame. Prime Minister Pedro Sánchez declared three days of national mourning and called it \"unacceptable\" for Spain to suffer two high-speed rail crashes in one year, after a January crash involving the same two companies killed 45.",
       "image_remote": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/28/9030ed7e-5d65-4d5a-ae1e-239cda254394/thumbnail/1200x630/496f8456d3825d3672e1c485aae76219/ap26301360905635.jpg",
       "image_local": "images/story-1527.jpg",
       "id": "2503908df296277185c3d8f79df1d376f0fe2881"
@@ -20321,7 +20329,87 @@
       "image_remote": "",
       "image_local": "",
       "id": "0a763b2f01924dcc17f8ba45250e1a1c222e9dab"
+    },
+    "dd06744aeb0e591b156e9e9f67fde400647cf8e6": {
+      "headline": "It's official: Apple unveils its first touchscreen Mac, an OLED MacBook Pro starting at $2,899",
+      "cat": "Apple / Mac",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/28/apple-new-macbook-pro/",
+      "summary": "Apple announced a new high-end MacBook Pro at its \"Pro and tell\" launch Wednesday, in 14-inch and 16-inch sizes starting at $2,899 and $3,399. Its new PROLED XDR display uses tandem OLED with up to 2,000 nits of brightness and 120Hz ProMotion, and it is the first Mac with a touchscreen: the touch sensor is built into the panel, a new hinge keeps the screen steady when you tap it, and macOS translates touches into clicks so existing apps work right away. The notch is replaced by a small Dynamic Island for Spotlight, Live Activities and Siri, bezels are thinner, the 14-inch weighs three pounds, and the glowing Apple logo is back on the lid for the first time in about 10 years. It uses the M5 Pro and M5 Max chips with up to 128GB of memory and up to 16TB of storage, plus three Thunderbolt 5 ports, HDMI, an SD slot and MagSafe. Pre-orders are open now, and it launches Friday, Nov. 6, alongside the existing mini-LED models and a new M6 14-inch MacBook Pro.",
+      "image_remote": "https://images.macrumors.com/t/2bugNDX7f6zrI_wlLg7-bwMKe2U=/2500x/article-new/2026/10/Apple-MacBook-Pro-with-PROLED-XDR-Display-family-lineup-feature.jpg",
+      "image_local": "images/story-1542.jpg",
+      "id": "dd06744aeb0e591b156e9e9f67fde400647cf8e6"
+    },
+    "cb82c430996fa9d634eebbf7d45c12ad19ead91e": {
+      "headline": "Fed holds rates steady under Warsh despite 3.7% inflation, and plans to cut back on rate-setting meetings",
+      "cat": "Economy / Fed",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/10/28/nx-s1-6020425/federal-reserve-interest-rates-inflation",
+      "summary": "The Federal Reserve left its benchmark interest rate unchanged at 3.75% to 4% on Wednesday, its last meeting before the midterm elections, after raising rates in September for the first time in more than three years. Inflation has kept climbing since then, with consumer prices up 3.7% from a year earlier in September, driven partly by an energy-price spike tied to the war with Iran, and investors widely expect a hike in December. Two policymakers, Fed governor Lisa Cook and Cleveland Fed President Beth Hammack, voted to raise rates a quarter point now. Mortgage rates hit a three-year high of 7.4% earlier this month. After the decision, Chairman Kevin Warsh announced that starting next fall, one of the Fed's eight yearly meetings will be devoted to big-picture strategy instead of a rate vote, rising to two in 2028, ending a calendar the Fed has followed since 1981, NBC News reported.",
+      "image_remote": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8087x4549+0+422/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc3%2Feb%2F1c48feef483e9b705d5e63e76f89%2Fgettyimages-2295625605.jpg",
+      "image_local": "images/story-1543.jpg",
+      "id": "cb82c430996fa9d634eebbf7d45c12ad19ead91e"
+    },
+    "3867852b7d6013f833e42d5b467f1eaf3e033dad": {
+      "headline": "Dolores Huerta, United Farm Workers co-founder who coined 'Sí, se puede,' dies at 96",
+      "cat": "Obituaries",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/10/28/nx-s1-6020543/dolores-huerta-dies",
+      "summary": "Dolores Huerta, who co-founded the United Farm Workers union to improve conditions for workers in the nation's fruit and vegetable fields, died Wednesday at her home, her family said through her Bakersfield, California-based foundation. She was 96. Huerta coined the slogan \"Sí, se puede!\" (\"Yes, it can be done\"), which became a widespread rallying cry, and she kept marching and speaking around the country well into her 90s. President Obama awarded her the Presidential Medal of Freedom in 2012 and joked that he had borrowed her slogan for his 2008 campaign. Earlier this year she revealed that she had been sexually abused in the 1960s by the movement's other co-founder, César Chavez, leading to the birth of two children, a secret she kept for 60 years because she feared it would unravel the progress made for workers.",
+      "image_remote": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2666x1500+0+277/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F02%2F71%2F87628dfc406cb1b6418252a2ccf5%2Fap26296676247718.jpg",
+      "image_local": "images/story-1544.jpg",
+      "id": "3867852b7d6013f833e42d5b467f1eaf3e033dad"
+    },
+    "79d34d2b15553a29b8392bb16f6363eb27d3852a": {
+      "headline": "Chiefs sign Justin Tucker, out of the NFL since 2024, and Andy Reid defends the move: 'He's done his suspension'",
+      "cat": "Sports / NFL",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/sports/nfl/justin-tucker-kansas-city-chiefs-andy-reid-nfl-suspension-rcna606197",
+      "summary": "The Kansas City Chiefs signed former Ravens kicker Justin Tucker, 37, to their practice squad Wednesday as competition for Harrison Butker, who has missed five of his 16 field-goal attempts this season. Tucker hasn't played since the 2024 season. In early 2025, 16 massage therapists accused him of inappropriate sexual behavior during sessions between 2012 and 2016, which he denied, and the NFL suspended him for the first 10 weeks of the 2025 season; no team signed him afterward, though he worked out for the Dolphins earlier this year. Asked what message the signing sends to female fans, Chiefs coach Andy Reid said, \"He's done his suspension. Took care of his business there. I'll leave it at that,\" adding that the team \"talked to a lot of people\" and did its homework first.",
+      "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261028-justin-tucker-ravens-mn-1537-1485c7.jpg",
+      "image_local": "images/story-1545.jpg",
+      "id": "79d34d2b15553a29b8392bb16f6363eb27d3852a"
+    },
+    "48f201c9317270132a82f39c3db5f31b4c0cbea3": {
+      "headline": "Rubin Observatory finds a possible new dwarf planet beyond Pluto, the biggest such find in 20 years",
+      "cat": "Science / Space",
+      "source": "Gizmodo",
+      "url": "https://gizmodo.com/rubin-observatory-spots-possible-dwarf-planet-beyond-pluto-the-biggest-in-20-years-2000831865",
+      "summary": "Just four months into its 10-year sky survey, the Vera C. Rubin Observatory in Chile has turned up an icy world orbiting beyond Pluto that could be the solar system's sixth recognized dwarf planet. Provisionally named 2026 ED138, it is roughly 1,000 kilometers (621 miles) across, making it the largest trans-Neptunian object discovered in about 20 years and one of the biggest and brightest ever found in that region. \"Finding an object this big is something that happens maybe once in a generation,\" said Mario Jurić of the University of Washington, who leads Rubin's solar system team. Harvard-Smithsonian astrophysicist Matthew Holman spotted it with search code that links billions of detections of moving objects, and said his first reaction was \"excited disbelief.\" Rubin, which has the largest digital camera ever built for astronomy, found it while the telescope was still being commissioned.",
+      "image_remote": "https://gizmodo.com/app/uploads/2026/10/2026-ED138-orbit-1200x675.jpg",
+      "image_local": "images/story-1546.jpg",
+      "id": "48f201c9317270132a82f39c3db5f31b4c0cbea3"
+    },
+    "8fbc3ab7ccf7d87985a3b41a556cd98384a4f20f": {
+      "headline": "Metallica and the Red Cross set a three-day blood drive at Mohegan Sun ahead of the band's Connecticut shows",
+      "cat": "Music / Metal",
+      "source": "Blabbermouth",
+      "url": "https://blabbermouth.net/news/metallica-and-red-cross-rock-blood-donation-ahead-of-upcoming-connecticut-shows",
+      "summary": "Metallica and the American Red Cross are teaming up again for a blood drive ahead of the band's upcoming concerts at Mohegan Sun Arena in Uncasville, which celebrate the arena's 25th anniversary. Donors of all blood types, especially type O, can give in Mohegan Sun's Uncas Ballroom on Wednesday, Nov. 18, from 10 a.m. to 4 p.m.; Friday, Nov. 20, from 10 a.m. to 4 p.m.; and Saturday, Nov. 21, from 9 a.m. to 2 p.m. Everyone who donates gets an exclusive Red Cross x Metallica T-shirt while supplies last. Appointments can be booked at rcblood.org/BleedMetallica, by calling 1-800-RED CROSS or through the Blood Donor App. Mohegan Sun says the band's blood drive campaign has collected tens of thousands of donations worldwide since it began last year.",
+      "image_remote": "https://assets.blabbermouth.net/media/metallicasandmanvirgnov2025_638.jpg",
+      "image_local": "images/story-1547.jpg",
+      "id": "8fbc3ab7ccf7d87985a3b41a556cd98384a4f20f"
+    },
+    "df9b92b9db1883e45e4cf40ce7d0b2f38c2bd68b": {
+      "headline": "VW's EV battery-fire recall grows past 85,000 vehicles as Audi Q4 e-tron owners are told to stop charging at 80%",
+      "cat": "Cars / EVs",
+      "source": "Electrek",
+      "url": "https://electrek.co/2026/10/28/volkswagens-ev-battery-recall-reaches-over-85000-with-audi/",
+      "summary": "Volkswagen's battery recall now covers 85,402 electric vehicles worldwide after the company added 12,734 Audi Q4 e-tron and Q4 Sportback e-tron SUVs, including 9,048 model-year 2024 and 2025 vehicles in the U.S. The problem is a risk that the battery overheats and catches fire when charged above 80% under certain conditions; Volkswagen's filing says some charging profiles combined with a high state of charge \"may trigger thermal propagation,\" and the root cause is still unknown. Earlier this month VW recalled 22,524 ID.4 SUVs from model years 2023 to 2026 in the U.S., and German regulators list affected ID. Buzz, ID.3, ID.4, ID.7 and Cupra Born models built since 2022. Owners are being told to limit charging to 80%, and VW is pushing a temporary setting that caps it automatically unless owners opted out.",
+      "image_remote": "https://electrek.co/wp-content/uploads/sites/3/2026/10/Volkswagen-EV-recall-Audi-1.jpeg?quality=82&strip=all&resize=1200,628",
+      "image_local": "images/story-1548.jpg",
+      "id": "df9b92b9db1883e45e4cf40ce7d0b2f38c2bd68b"
+    },
+    "316b3efb588a5647c199208716df4ada5239d28a": {
+      "headline": "Trumbull weekend: Halloween dance party and trick-or-treating at Trumbull Mall on Friday night",
+      "cat": "Local / Trumbull",
+      "source": "Patch",
+      "url": "https://patch.com/connecticut/trumbull/trumbulls-full-weekend-guide-halloween-dance-party-trick-or-treating-trumbull",
+      "summary": "Trumbull Mall is throwing a costume party the night before Halloween, with a DJ, music, games, crafts and trick-or-treating for the whole family on Friday evening, Oct. 30. Patch's weekend guide for Trumbull suggests bringing the kids in costume for a Halloween warm-up the night before the holiday.",
+      "image_remote": "",
+      "image_local": "",
+      "id": "316b3efb588a5647c199208716df4ada5239d28a"
     }
   },
-  "updated": "Wednesday, October 28, 2026 · 11:39 AM ET"
+  "updated": "Wednesday, October 28, 2026 · 4:07 PM ET"
 }

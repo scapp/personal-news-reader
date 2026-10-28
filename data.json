@@ -1,8 +1,96 @@
 {
-  "updated": "Wednesday, October 28, 2026 · 11:39 AM ET",
+  "updated": "Wednesday, October 28, 2026 · 4:07 PM ET",
   "stories": [
     {
       "n": 1,
+      "headline": "It's official: Apple unveils its first touchscreen Mac, an OLED MacBook Pro starting at $2,899",
+      "cat": "Apple / Mac",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/28/apple-new-macbook-pro/",
+      "image_local": "images/story-1542.jpg",
+      "image_remote": "https://images.macrumors.com/t/2bugNDX7f6zrI_wlLg7-bwMKe2U=/2500x/article-new/2026/10/Apple-MacBook-Pro-with-PROLED-XDR-Display-family-lineup-feature.jpg",
+      "id": "dd06744aeb0e591b156e9e9f67fde400647cf8e6",
+      "summary": "Apple announced a new high-end MacBook Pro at its \"Pro and tell\" launch Wednesday, in 14-inch and 16-inch sizes starting at $2,899 and $3,399. Its new PROLED XDR display uses tandem OLED with up to 2,000 nits of brightness and 120Hz ProMotion, and it is the first Mac with a touchscreen: the touch sensor is built into the panel, a new hinge keeps the screen steady when you tap it, and macOS translates touches into clicks so existing apps work right away. The notch is replaced by a small Dynamic Island for Spotlight, Live Activities and Siri, bezels are thinner, the 14-inch weighs three pounds, and the glowing Apple logo is back on the lid for the first time in about 10 years. It uses the M5 Pro and M5 Max chips with up to 128GB of memory and up to 16TB of storage, plus three Thunderbolt 5 ports, HDMI, an SD slot and MagSafe. Pre-orders are open now, and it launches Friday, Nov. 6, alongside the existing mini-LED models and a new M6 14-inch MacBook Pro."
+    },
+    {
+      "n": 2,
+      "headline": "Fed holds rates steady under Warsh despite 3.7% inflation, and plans to cut back on rate-setting meetings",
+      "cat": "Economy / Fed",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/10/28/nx-s1-6020425/federal-reserve-interest-rates-inflation",
+      "image_local": "images/story-1543.jpg",
+      "image_remote": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8087x4549+0+422/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc3%2Feb%2F1c48feef483e9b705d5e63e76f89%2Fgettyimages-2295625605.jpg",
+      "id": "cb82c430996fa9d634eebbf7d45c12ad19ead91e",
+      "summary": "The Federal Reserve left its benchmark interest rate unchanged at 3.75% to 4% on Wednesday, its last meeting before the midterm elections, after raising rates in September for the first time in more than three years. Inflation has kept climbing since then, with consumer prices up 3.7% from a year earlier in September, driven partly by an energy-price spike tied to the war with Iran, and investors widely expect a hike in December. Two policymakers, Fed governor Lisa Cook and Cleveland Fed President Beth Hammack, voted to raise rates a quarter point now. Mortgage rates hit a three-year high of 7.4% earlier this month. After the decision, Chairman Kevin Warsh announced that starting next fall, one of the Fed's eight yearly meetings will be devoted to big-picture strategy instead of a rate vote, rising to two in 2028, ending a calendar the Fed has followed since 1981, NBC News reported."
+    },
+    {
+      "n": 3,
+      "headline": "Dolores Huerta, United Farm Workers co-founder who coined 'Sí, se puede,' dies at 96",
+      "cat": "Obituaries",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/10/28/nx-s1-6020543/dolores-huerta-dies",
+      "image_local": "images/story-1544.jpg",
+      "image_remote": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2666x1500+0+277/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F02%2F71%2F87628dfc406cb1b6418252a2ccf5%2Fap26296676247718.jpg",
+      "id": "3867852b7d6013f833e42d5b467f1eaf3e033dad",
+      "summary": "Dolores Huerta, who co-founded the United Farm Workers union to improve conditions for workers in the nation's fruit and vegetable fields, died Wednesday at her home, her family said through her Bakersfield, California-based foundation. She was 96. Huerta coined the slogan \"Sí, se puede!\" (\"Yes, it can be done\"), which became a widespread rallying cry, and she kept marching and speaking around the country well into her 90s. President Obama awarded her the Presidential Medal of Freedom in 2012 and joked that he had borrowed her slogan for his 2008 campaign. Earlier this year she revealed that she had been sexually abused in the 1960s by the movement's other co-founder, César Chavez, leading to the birth of two children, a secret she kept for 60 years because she feared it would unravel the progress made for workers."
+    },
+    {
+      "n": 4,
+      "headline": "Chiefs sign Justin Tucker, out of the NFL since 2024, and Andy Reid defends the move: 'He's done his suspension'",
+      "cat": "Sports / NFL",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/sports/nfl/justin-tucker-kansas-city-chiefs-andy-reid-nfl-suspension-rcna606197",
+      "image_local": "images/story-1545.jpg",
+      "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261028-justin-tucker-ravens-mn-1537-1485c7.jpg",
+      "id": "79d34d2b15553a29b8392bb16f6363eb27d3852a",
+      "summary": "The Kansas City Chiefs signed former Ravens kicker Justin Tucker, 37, to their practice squad Wednesday as competition for Harrison Butker, who has missed five of his 16 field-goal attempts this season. Tucker hasn't played since the 2024 season. In early 2025, 16 massage therapists accused him of inappropriate sexual behavior during sessions between 2012 and 2016, which he denied, and the NFL suspended him for the first 10 weeks of the 2025 season; no team signed him afterward, though he worked out for the Dolphins earlier this year. Asked what message the signing sends to female fans, Chiefs coach Andy Reid said, \"He's done his suspension. Took care of his business there. I'll leave it at that,\" adding that the team \"talked to a lot of people\" and did its homework first."
+    },
+    {
+      "n": 5,
+      "headline": "Rubin Observatory finds a possible new dwarf planet beyond Pluto, the biggest such find in 20 years",
+      "cat": "Science / Space",
+      "source": "Gizmodo",
+      "url": "https://gizmodo.com/rubin-observatory-spots-possible-dwarf-planet-beyond-pluto-the-biggest-in-20-years-2000831865",
+      "image_local": "images/story-1546.jpg",
+      "image_remote": "https://gizmodo.com/app/uploads/2026/10/2026-ED138-orbit-1200x675.jpg",
+      "id": "48f201c9317270132a82f39c3db5f31b4c0cbea3",
+      "summary": "Just four months into its 10-year sky survey, the Vera C. Rubin Observatory in Chile has turned up an icy world orbiting beyond Pluto that could be the solar system's sixth recognized dwarf planet. Provisionally named 2026 ED138, it is roughly 1,000 kilometers (621 miles) across, making it the largest trans-Neptunian object discovered in about 20 years and one of the biggest and brightest ever found in that region. \"Finding an object this big is something that happens maybe once in a generation,\" said Mario Jurić of the University of Washington, who leads Rubin's solar system team. Harvard-Smithsonian astrophysicist Matthew Holman spotted it with search code that links billions of detections of moving objects, and said his first reaction was \"excited disbelief.\" Rubin, which has the largest digital camera ever built for astronomy, found it while the telescope was still being commissioned."
+    },
+    {
+      "n": 6,
+      "headline": "Metallica and the Red Cross set a three-day blood drive at Mohegan Sun ahead of the band's Connecticut shows",
+      "cat": "Music / Metal",
+      "source": "Blabbermouth",
+      "url": "https://blabbermouth.net/news/metallica-and-red-cross-rock-blood-donation-ahead-of-upcoming-connecticut-shows",
+      "image_local": "images/story-1547.jpg",
+      "image_remote": "https://assets.blabbermouth.net/media/metallicasandmanvirgnov2025_638.jpg",
+      "id": "8fbc3ab7ccf7d87985a3b41a556cd98384a4f20f",
+      "summary": "Metallica and the American Red Cross are teaming up again for a blood drive ahead of the band's upcoming concerts at Mohegan Sun Arena in Uncasville, which celebrate the arena's 25th anniversary. Donors of all blood types, especially type O, can give in Mohegan Sun's Uncas Ballroom on Wednesday, Nov. 18, from 10 a.m. to 4 p.m.; Friday, Nov. 20, from 10 a.m. to 4 p.m.; and Saturday, Nov. 21, from 9 a.m. to 2 p.m. Everyone who donates gets an exclusive Red Cross x Metallica T-shirt while supplies last. Appointments can be booked at rcblood.org/BleedMetallica, by calling 1-800-RED CROSS or through the Blood Donor App. Mohegan Sun says the band's blood drive campaign has collected tens of thousands of donations worldwide since it began last year."
+    },
+    {
+      "n": 7,
+      "headline": "VW's EV battery-fire recall grows past 85,000 vehicles as Audi Q4 e-tron owners are told to stop charging at 80%",
+      "cat": "Cars / EVs",
+      "source": "Electrek",
+      "url": "https://electrek.co/2026/10/28/volkswagens-ev-battery-recall-reaches-over-85000-with-audi/",
+      "image_local": "images/story-1548.jpg",
+      "image_remote": "https://electrek.co/wp-content/uploads/sites/3/2026/10/Volkswagen-EV-recall-Audi-1.jpeg?quality=82&strip=all&resize=1200,628",
+      "id": "df9b92b9db1883e45e4cf40ce7d0b2f38c2bd68b",
+      "summary": "Volkswagen's battery recall now covers 85,402 electric vehicles worldwide after the company added 12,734 Audi Q4 e-tron and Q4 Sportback e-tron SUVs, including 9,048 model-year 2024 and 2025 vehicles in the U.S. The problem is a risk that the battery overheats and catches fire when charged above 80% under certain conditions; Volkswagen's filing says some charging profiles combined with a high state of charge \"may trigger thermal propagation,\" and the root cause is still unknown. Earlier this month VW recalled 22,524 ID.4 SUVs from model years 2023 to 2026 in the U.S., and German regulators list affected ID. Buzz, ID.3, ID.4, ID.7 and Cupra Born models built since 2022. Owners are being told to limit charging to 80%, and VW is pushing a temporary setting that caps it automatically unless owners opted out."
+    },
+    {
+      "n": 8,
+      "headline": "Trumbull weekend: Halloween dance party and trick-or-treating at Trumbull Mall on Friday night",
+      "cat": "Local / Trumbull",
+      "source": "Patch",
+      "url": "https://patch.com/connecticut/trumbull/trumbulls-full-weekend-guide-halloween-dance-party-trick-or-treating-trumbull",
+      "image_local": "",
+      "image_remote": "",
+      "id": "316b3efb588a5647c199208716df4ada5239d28a",
+      "summary": "Trumbull Mall is throwing a costume party the night before Halloween, with a DJ, music, games, crafts and trick-or-treating for the whole family on Friday evening, Oct. 30. Patch's weekend guide for Trumbull suggests bringing the kids in costume for a Halloween warm-up the night before the holiday."
+    },
+    {
+      "n": 9,
       "headline": "Knife attacker shouting 'Allahu Akbar' is shot dead outside Israel's embassy in Serbia",
       "cat": "World / Terrorism",
       "source": "Fox News",
@@ -13,7 +101,7 @@
       "summary": "An attacker carrying two knives went after a Serbian Gendarmerie officer guarding the Israeli Embassy in Belgrade shortly after midnight Wednesday. Prosecutors say he opened the door of the guard booth around 12:15 a.m. and threw a knife that hit the officer in the left cheek, and the officer then drew his service weapon and killed him. Authorities said the attacker was a minor from the town of Sabac who shouted \"Allahu Akbar.\" Interior Minister Ivica Dacic called it a terrorist attack, said the attacker had shown support for ISIS on Instagram and had already been under watch, and raised Serbia's terror threat level to its highest. Israel's foreign ministry said the embassy was closed and none of its staff were hurt. A crossbow attacker wounded an officer at the same embassy in June 2024 before being shot dead."
     },
     {
-      "n": 2,
+      "n": 10,
       "headline": "'Back up, Ambassador!': Mike Waltz faces down Cuba's foreign minister on the UN floor, and a Cuban diplomat is being expelled",
       "cat": "Politics / Diplomacy",
       "source": "Daily Caller",
@@ -24,7 +112,7 @@
       "summary": "U.S. Ambassador Mike Waltz was in the middle of a speech at the U.N. General Assembly's annual debate on the American embargo of Cuba Tuesday, holding up photos he said showed the Castro family's luxury properties while ordinary Cubans go without power and food, when Cuban Foreign Minister Bruno Rodríguez Parrilla walked toward the podium. \"Back up, Ambassador, back away! This isn't Havana,\" Waltz told him on video. \"This is America, back up!\" The assembly president tried to suspend the meeting, the Cuban delegation banged on its desks, and a Cuban diplomat grabbed at the phone of U.S. official J.P. Freire, who was filming. Rodríguez called Waltz's claims \"crude lies.\" Later that night Waltz said on Fox's Hannity that Secretary of State Marco Rubio had signed papers expelling the Cuban delegation's first secretary for shoving an American diplomat, and that he would be on a plane to Havana within 24 hours."
     },
     {
-      "n": 3,
+      "n": 11,
       "headline": "Nearly 75% of former NFL players who died between 2008 and 2023 had CTE, a Boston University study estimates",
       "cat": "Sports / NFL",
       "source": "CBS News",
@@ -35,7 +123,7 @@
       "summary": "A new Boston University study in JAMA Network Open estimates that about three of every four former NFL players who died over a 16-year span had chronic traumatic encephalopathy, the degenerative brain disease tied to repeated hits to the head, which can only be confirmed after death. Researchers found some form of CTE in 362 of 387 deceased players whose brains were donated, or 94%. Because players with memory and thinking problems were about five times more likely to have their brains donated, the team adjusted for that bias and landed on an overall estimate of 74.5%. By comparison, CTE turns up in less than 1% of brains given to community brain banks. Lead author Julia Gallini said the numbers show the need to diagnose and treat CTE in living players and to support their families. An August study had put the range anywhere from 25% to 98%."
     },
     {
-      "n": 4,
+      "n": 12,
       "headline": "Russell Brand takes the stand at his London rape trial and denies every charge",
       "cat": "Crime / Courts",
       "source": "CBS News",
@@ -46,7 +134,7 @@
       "summary": "Comedian and actor Russell Brand, 51, testified Wednesday at his trial in London, answering a flat \"no\" when asked whether he had committed each of the charges against him: three counts of rape, three of sexual assault and one of attempted indecent assault. Six women have accused him of attacks between 1999 and 2009, and he has pleaded not guilty. \"My entire life has been consumed by these allegations,\" Brand told the court. He admitted he was promiscuous during those years but said \"consent is absolutely non-negotiable.\" He disputed details of the accounts, including a woman who says he raped her in a hotel room after a 1999 Labour Party conference and a former MTV employee who says he grabbed her and pulled her toward a bathroom in 2001, and said he had only been to those MTV offices a handful of times."
     },
     {
-      "n": 5,
+      "n": 13,
       "headline": "The clearest photo yet of China's secretive Shenlong spaceplane shows a near-twin of America's X-37B",
       "cat": "Science / Space",
       "source": "Gizmodo",
@@ -57,7 +145,7 @@
       "summary": "China's experimental Shenlong, or \"Divine Dragon,\" spaceplane has spent years in orbit releasing unidentified objects and making unusual maneuvers, but until now there were only blurry glimpses of it. A sharp image taken in 2024 by a Maxar commercial imaging satellite has now been quietly released by the U.S. Defense Intelligence Agency in its new unclassified report on threats in space, and it shows a craft that looks a lot like the U.S. Space Force's own X-37B. Shenlong first flew a two-day mission in 2020, then stayed up for 276 days starting in 2022 and 268 days starting in December 2023, and it is now on a fourth mission that launched Feb. 7. Its flights have included capture and docking operations and formation flying."
     },
     {
-      "n": 6,
+      "n": 14,
       "headline": "A Tesla Semi catches fire on its own on I-880 in California, closing the freeway for about 10 hours",
       "cat": "Tesla / EVs",
       "source": "Electrek",
@@ -68,7 +156,7 @@
       "summary": "A Tesla Semi caught fire in the southbound lanes of Interstate 880 in Hayward, California, around 5:35 p.m. Tuesday without any crash involved, and its lithium-ion battery burned long enough to keep part of the freeway shut overnight. The driver got out unhurt and told officers he didn't know why it started. The California Highway Patrol closed I-880 in both directions over the risk of hazardous smoke; northbound reopened Tuesday night, and although CHP first warned the battery might burn for 15 to 18 hours, all lanes were open by about 3:30 a.m. Wednesday. CHP photos show firefighters laying foam around the burned-out cab and a charred trailer behind it. The truck's operator hasn't been named, the cause is under investigation, and Tesla hasn't commented."
     },
     {
-      "n": 7,
+      "n": 15,
       "headline": "Ozzy and Black Sabbath's farewell show 'Back To The Beginning' is coming home on Blu-ray, CD and vinyl Dec. 11",
       "cat": "Music / Metal",
       "source": "Louder",
@@ -79,7 +167,7 @@
       "summary": "On the same day the Back To The Beginning concert film opens in theaters, Mercury Studios announced a Dec. 11 home release of Ozzy Osbourne's final show, the all-day July 5, 2025, concert at Birmingham's Villa Park held 17 days before he died at 76. Blu-ray/CD and Blu-ray/2LP bundles include the full 147-minute film plus complete sets from Black Sabbath and Ozzy's solo band, along with video tributes, Jack Black singing \"Mr. Crowley,\" Fred Durst singing \"Changes,\" a behind-the-scenes featurette and a documentary about Ozzy's hometown. A digital live album arrives the same day. A deluxe box set in April will gather every Sabbath and Ozzy cover from all 35 acts, including Metallica, Guns N' Roses and Tool, across three Blu-rays, two CDs, three LPs and a 72-page book. Pre-orders are open now."
     },
     {
-      "n": 8,
+      "n": 16,
       "headline": "LEGO reveals 67005 Doctor Strange Supreme, its first Marvel 'What If…?' set in five years, for Jan. 1",
       "cat": "LEGO",
       "source": "Brick Fanatics",
@@ -90,7 +178,7 @@
       "summary": "LEGO has announced 67005 Doctor Strange Supreme, the next small Marvel modular building and its first set based on the animated series What If…? in more than five years. The 814-piece build is a smaller Sanctum Sanctorum with three floors overrun by zombies from the Marvel Zombies storyline, removable portals and accessories including the syringe used to develop a zombie cure, Throg in frog form and the Books of Cagliostro and Vishanti. Its six minifigures are Doctor Strange Supreme, Zombie Hunter Spider-Man, F.R.I.D.A.Y. with her teddy-bear head, zombie Wanda as the Red Queen, Zombie Namor and Zombie Thor. It goes on sale Jan. 1, 2027, for $99.99, alongside 67006 The Marvel Skyline, and follows this month's 76352 New Avengers Tower."
     },
     {
-      "n": 9,
+      "n": 17,
       "headline": "Would-be robber looking for cocaine pulls a gun on a Nashville man, who fires back and leaves him critically wounded",
       "cat": "Crime / Self-defense",
       "source": "Daily Caller",
@@ -101,18 +189,18 @@
       "summary": "Metro Nashville police say a 35-year-old man approached a 31-year-old at a hookah lounge in a strip mall in Antioch early Sunday asking for cocaine, then pulled a gun on him in the parking lot around 5:15 a.m. and tried to rob him. The 31-year-old told police he said he didn't use drugs, then drew his own gun and fired once, hitting the would-be robber in the head and leaving him in \"very critical\" condition. He drove off, saying he felt unsafe, and was stopped by officers about three minutes away, when he told them he had fired in self-defense. Police recovered a gun at the scene and the 31-year-old's gun in his car."
     },
     {
-      "n": 10,
-      "headline": "At least 64 dead after a high-speed train slams into the back of a stopped train in central Spain",
+      "n": 18,
+      "headline": "Spain train crash toll rises to 68, and the transport minister blames an 'inexplicable' order to restart a train after a signal failure",
       "cat": "World / Spain",
       "source": "CBS News",
       "url": "https://www.cbsnews.com/news/spain-train-crash-toledo-urda/",
       "image_local": "images/story-1527.jpg",
       "image_remote": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/28/9030ed7e-5d65-4d5a-ae1e-239cda254394/thumbnail/1200x630/496f8456d3825d3672e1c485aae76219/ap26301360905635.jpg",
       "id": "2503908df296277185c3d8f79df1d376f0fe2881",
-      "summary": "A high-speed train crashed into the rear of another train that had stopped in the province of Toledo on Wednesday morning, derailing two cars and killing at least 64 people, the regional government of Castilla-La Mancha told Reuters; about 80 people were reported injured earlier in the day, and officials expect the toll to keep rising. Both trains were heading the same way, from Madrid to Seville. One belonged to state-owned RENFE, with 397 passengers aboard, and the other to the private operator IRYO, with 147. The cause is not yet known. Rail operator ADIF suspended service between Madrid, Ciudad Real and Andalusia, and the nearby town of Urda opened a sports pavilion to care for injured passengers. Trains from the same two companies were involved in a January crash in southern Spain that killed 45 people, which had already shaken confidence in the country's high-speed rail network."
+      "summary": "A high-speed train slammed into the rear of another that had stopped in the province of Toledo on Wednesday morning, derailing two cars and killing at least 68 people, the regional government of Castilla-La Mancha said; another 58 were being treated in hospitals, and rescuers were still searching the wreckage. Transport Minister Óscar Puente said a computer malfunction knocked out the safety system on a 39-mile stretch at 8:30 a.m., stopping every train on it, but central command then told the state-owned RENFE train, carrying 397 passengers, to start again with no speed limit even though a stop signal was still active. It hit the private IRYO train, with 147 aboard, at 8:53 a.m., possibly at around 124 mph. Puente said the engineers were not to blame. Prime Minister Pedro Sánchez declared three days of national mourning and called it \"unacceptable\" for Spain to suffer two high-speed rail crashes in one year, after a January crash involving the same two companies killed 45."
     },
     {
-      "n": 11,
+      "n": 19,
       "headline": "Rays rally in the 12th to walk off the Brewers 4-3 and force a World Series Game 5",
       "cat": "Sports / MLB",
       "source": "MLB.com",
@@ -121,94 +209,6 @@
       "image_remote": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/joxfxly9p8x7qjkl4hba.jpg",
       "id": "bc119ae942199c71400e10011f2c2a54f6140e97",
       "summary": "The Brewers were three outs from their first championship when rookie shortstop Cooper Pratt homered in the top of the 12th inning of Game 4 at Tropicana Field Tuesday night. Instead, the Rays came back. Junior Caminero reached on a throwing error by third baseman Joey Ortiz, Liam Hicks singled, Jonny DeLuca drove in the tying run and Chandler Simpson loaded the bases. Pinch-hitter Ben Williamson then chopped the first pitch he saw into right field for a 4-3 win after four hours and 20 minutes, snapping Milwaukee's eight-game postseason winning streak. The Brewers still lead the series 3-1. No team has ever come back from 3-0 down in a World Series, and only the 1910 Cubs had previously won a walk-off while facing a sweep. Game 5 is tonight at 8 p.m. ET on FOX, with Milwaukee turning to Jacob Misiorowski for a second try at closing it out."
-    },
-    {
-      "n": 12,
-      "headline": "Netanyahu gains as Israel's votes are counted, but his bloc is still short of a majority",
-      "cat": "World / Israel",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/world/netanyahu-defies-exit-polls-vote-shifts-his-favor-majority-remains-elusive",
-      "image_local": "images/story-1529.jpg",
-      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/netanyahu-post-election-speech.jpg",
-      "id": "d2b7edd7a153530181929e539454a8c5a6723484",
-      "summary": "Benjamin Netanyahu's right-wing and religious bloc gained ground Wednesday morning as Israel counted votes from its first national election since the Oct. 7, 2023, Hamas massacre, but it was still short of the 61 seats needed to govern. With about 70% of votes counted, the bloc stood at 54 seats in the 120-seat Knesset, against 47 for the main opposition and 19 for Arab parties, according to partial results reported by Israeli media. Likud led all parties with 27 seats to 20 for former army chief Gadi Eisenkot's Yashar party. The count is a shift from Tuesday night's exit polls, which set off celebrations at Eisenkot's headquarters; both men claimed victory overnight. The parties outside Netanyahu's bloc together hold 66 seats, which would give the opposition a path to power only if it can win enough cooperation from Arab lawmakers, so Israel could again face weeks of deadlock."
-    },
-    {
-      "n": 13,
-      "headline": "Epstein files point to classified material the Justice Department said didn't exist",
-      "cat": "Politics / DOJ",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/epstein-files-classified-material-missing-documents-suggest/",
-      "image_local": "images/story-1530.jpg",
-      "image_remote": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/24/4b600d3a-acbd-4d3f-8d7a-8329afe51965/thumbnail/1200x630/d51f939a90d17aa5366fe91059d6c98e/epstein-efta001.jpg",
-      "id": "dcd573721099fbb1ab3f6a9a63dba1b0904bbc74",
-      "summary": "Attorney General Todd Blanche has long said the Epstein files contain no secret national security information and that nothing was withheld on that basis. But at least three documents in the released files indicate that classified information was among the material the Justice Department collected, CBS News reports. An eight-page FBI timeline in the files shows the bureau's New York office delivered \"16 Epstein items\" to the Office of the Deputy Attorney General, then led by Blanche, on March 25, 2025. Two of them were labeled \"Epstein Transparency Project - Classified Material\" and \"CDs with classified materials (x2).\" It is not clear what was classified. The department says it gathered 6 million pages and released more than 3 million after screening for duplicates, privilege and relevance, and congressional challenges and a lawsuit are now pressing for the documents that were held back."
-    },
-    {
-      "n": 14,
-      "headline": "iOS 27.2 gives CarPlay a Siri that remembers past chats and a reworked Podcasts tab",
-      "cat": "Apple / iPhone",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2299185/ios-27-2-two-new-features-apple-carplay/",
-      "image_local": "",
-      "image_remote": "",
-      "id": "0b131d646cc3fcd4a31a9c6d85805b7773ae40ef",
-      "summary": "Because CarPlay runs from a connected iPhone, this week's iOS 27.2 update also changes what drivers see on the dash. The bigger change is Siri: on CarPlay it can now recall past conversations, so you can ask it to repeat last week's cafe recommendations, and it can draw on more sources for its answers, including voicemails, Safari history and Reading List, Calendar attendees and photos sent in Messages. The Podcasts app's Home tab drops Up Next in favor of separate New Episodes and Continue Playing sections. There's also a new monochrome Music icon, white with a black note (or the reverse in dark mode). One catch: users on the CarPlay subreddit report that the APTV workaround they used to play video on their car screens stopped working after the update."
-    },
-    {
-      "n": 15,
-      "headline": "Tesla left empty room in the Cybercab's battery pack on purpose, to switch to cheaper LFP cells later",
-      "cat": "Tesla / Elon Musk",
-      "source": "Teslarati",
-      "url": "https://www.teslarati.com/tesla-cybercab-battery-pack-design-structure/",
-      "image_local": "images/story-1531.jpg",
-      "image_remote": "https://www.teslarati.com/wp-content/uploads/2026/07/tesla-starlink-integration-cybercab-1000x600.jpeg",
-      "id": "1f165377ed96efe34b79d99b6ce7d1dba2a0c325",
-      "summary": "Tesla deliberately built extra space beside and beneath the Cybercab's battery modules so it can move to cheaper lithium iron phosphate (LFP) cells as production scales, Robert Sumpf, Tesla's director of mechanical design engineering for battery modules and packs, said in a deep dive with Munro Live. The robotaxi runs on Tesla's own nickel-based 4680 cells today. LFP stores less energy for its size, so the spare room lets Tesla add more cells to keep the range, in exchange for cells that cost less, run cooler and last more charge cycles. Vehicle engineering VP Lars Moravy said some of the space exists simply because \"we didn't need as many batteries as we thought we did.\" Unlike the structural packs in some Model Y and Cybertruck builds, the Cybercab uses four separately sealed modules, so a bad one can be swapped without scrapping the pack. Sumpf gave the Model Y structural battery \"a grade D\" for being hard to build and nearly impossible to repair."
-    },
-    {
-      "n": 16,
-      "headline": "A leak claims to show the Penguins' blue-and-yellow 'Hometown Remix' jersey, and it's not baby blue",
-      "cat": "Sports / Penguins",
-      "source": "Pittsburgh Hockey Now",
-      "url": "https://pittsburghhockeynow.com/leaked-site-claims-hometown-remix-pittsburgh-penguins-jersey/",
-      "image_local": "images/story-1532.jpg",
-      "image_remote": "https://media.pittsburghhockeynow.com/wp-content/uploads/2026/10/Hometown-jersey.jpg",
-      "id": "7da361c0878fd20b6c08c0f88e06b10ccc530d69",
-      "summary": "The Penguins have been teasing their upcoming Hometown Remix jersey by practicing in blue pants with yellow piping and matte blue helmets, and on Tuesday the Jersey Nerds social media account claimed to leak 20 of the league's 32 Remix sweaters, the Penguins' among them. The image shows a navy-blue sweater with yellow-and-light-blue striping and a yellow-trimmed number, a break from the team's traditional black and gold that also skips the heritage baby blue many fans wanted. Online reaction across the league was mixed, and the team hasn't confirmed the leak or said when it will unveil the jersey. If it's real, Pittsburgh will wear it 10 times this season, along with its yellow alternates 11 times."
-    },
-    {
-      "n": 17,
-      "headline": "Former Brooklyn resident Halima Salman convicted of taking ISIS military training in Syria",
-      "cat": "Crime / Courts",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/us/halima-salman-convicted-receiving-isis-military-training-syria-faces-10-years-prison",
-      "image_local": "images/story-1533.jpg",
-      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/halima-salman-brooklyn-federal-court-verdict.jpg",
-      "id": "f3087f72db640b5ecc27c5d123298f8469b8ca94",
-      "summary": "A federal jury in Brooklyn on Tuesday convicted Halima Salman, a 27-year-old U.S. citizen and former Brooklyn resident, of knowingly receiving military-style training from ISIS while living in Syria. The case is believed to be the first time a woman accused of joining ISIS has stood trial in a U.S. federal court. Prosecutors said her parents took her and her eight siblings out of the country in 2016 and eventually into ISIS territory, where at 18 she married an ISIS fighter, pledged loyalty to the group and sought out its training. She was authorized to carry an assault rifle and given a certificate showing she had finished the course, a document later found on her husband's phone. Jurors saw video of her holding a rifle, a photo of her with an ISIS flag and supportive texts to her husband. She faces up to 10 years in prison and is due to be sentenced Feb. 2."
-    },
-    {
-      "n": 18,
-      "headline": "Apple's OLED touchscreen MacBook Pro could start at $2,899, $400 more than today's model, on the eve of its unveiling",
-      "cat": "Apple / Mac",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/10/27/oled-macbook-pro-pricing/",
-      "image_local": "images/story-1522.jpg",
-      "image_remote": "https://images.macrumors.com/t/r-a84FeRhyCsmSrCJOuSvSywz14=/2100x/article-new/2026/10/MacBook-Pro-Dynamic-Island-multicolor.jpg",
-      "id": "62028ebb2a3545cf18d3c03bb10229ebd3e6ba64",
-      "summary": "Hours before Apple's \"Pro and tell\" event, a report relayed by MacRumors says Apple has discussed charging $2,899 for the 14-inch OLED touchscreen MacBook Pro, $400 more than the current $2,499 M5 Pro model. If the 16-inch version gets the same bump it would start at $3,399, and it may cost even more. The new machines add OLED touchscreens, a Dynamic Island, a redesigned hinge that keeps the display steady when touched, thinner bezels, a slimmer and lighter body and a reworked cooling system that pulls air through the hinge, while keeping the same M5 Pro and M5 Max chips. Apple is expected to keep selling the existing mini-LED MacBook Pros as a cheaper, non-touch option. The OLED models are due to be unveiled Wednesday morning, with pre-orders opening at 10:10 a.m. Pacific alongside the OLED iPad mini, the M6 iMac and the entry-level M6 MacBook Pro."
-    },
-    {
-      "n": 19,
-      "headline": "They bought cabins to live aboard a luxury cruise ship. Soaring fuel costs just got them kicked off in Cambodia",
-      "cat": "World / Travel",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/news/us-news/luxury-cruise-ship-high-fuel-costs-got-kicked-cambodia-rcna606031",
-      "image_local": "images/story-1523.jpg",
-      "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261027-Villa-Vie-Residences-vsb-1933-3293f4.jpg",
-      "id": "4a21635c23fc71f4bc3f7b0fa4a8e6ae49dab791",
-      "summary": "Residents of The Odyssey, a 642-foot \"residential\" cruise ship run by Florida-based Villa Vie Residences, were ordered off the vessel in Cambodia on Tuesday after the company halted operations, blaming soaring fuel costs since the war with Iran began. The ship, which left Belfast three years ago promising a life of luxury travel around the world, can house 650 residents and was said to be 85% sold. The company said cutting fuel use could not offset the price spike and that passing the cost on to residents wasn't realistic. It is now looking for temporary housing for passengers while it attempts a restructuring and recapitalization over the next 60 days, adding that \"no outcome is assured.\" One resident said a note appeared on the ship's message board early Monday announcing a \"temporary lay up\" and telling everyone to disembark by 2 p.m."
     },
     {
       "n": 20,
