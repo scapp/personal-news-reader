@@ -1706,7 +1706,15 @@
     "b76b146435f9282f277e9a5e4cd32ab23135f1c2",
     "92f815c6ff5a1e08450c5a306c655a382ec245ff",
     "8d05088fe2d567c42df668ddf45b75c8c5ae9259",
-    "3fa25002e2dca2a1a10031442cac77c45729a309"
+    "3fa25002e2dca2a1a10031442cac77c45729a309",
+    "2503908df296277185c3d8f79df1d376f0fe2881",
+    "bc119ae942199c71400e10011f2c2a54f6140e97",
+    "d2b7edd7a153530181929e539454a8c5a6723484",
+    "dcd573721099fbb1ab3f6a9a63dba1b0904bbc74",
+    "0b131d646cc3fcd4a31a9c6d85805b7773ae40ef",
+    "1f165377ed96efe34b79d99b6ce7d1dba2a0c325",
+    "7da361c0878fd20b6c08c0f88e06b10ccc530d69",
+    "f3087f72db640b5ecc27c5d123298f8469b8ca94"
   ],
   "stories": {
     "0c2ac7a5e342411678296315c4c59043b1f067cc": {
@@ -20134,7 +20142,87 @@
       "image_remote": "",
       "image_local": "",
       "id": "3fa25002e2dca2a1a10031442cac77c45729a309"
+    },
+    "2503908df296277185c3d8f79df1d376f0fe2881": {
+      "headline": "At least 30 dead after a high-speed train slams into the back of a stopped train in central Spain",
+      "cat": "World / Spain",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/spain-train-crash-toledo-urda/",
+      "summary": "A high-speed train crashed into the rear of another train that had stopped in the province of Toledo on Wednesday morning, derailing two cars and killing at least 30 people, the regional government of Castilla-La Mancha said, and officials expect the toll to rise. Both trains were heading the same way, from Madrid to Seville. One belonged to state-owned RENFE, with 397 passengers aboard, and the other to the private operator IRYO, with 147. The cause is not yet known. Rail operator ADIF suspended service between Madrid, Ciudad Real and Andalusia, and the nearby town of Urda was asked to open a sports pavilion to care for injured passengers. Trains from the same two companies were involved in a January crash in southern Spain that killed 45 people, the country's deadliest since 2013, which had already shaken confidence in its high-speed rail network.",
+      "image_remote": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/28/9030ed7e-5d65-4d5a-ae1e-239cda254394/thumbnail/1200x630/496f8456d3825d3672e1c485aae76219/ap26301360905635.jpg",
+      "image_local": "images/story-1527.jpg",
+      "id": "2503908df296277185c3d8f79df1d376f0fe2881"
+    },
+    "bc119ae942199c71400e10011f2c2a54f6140e97": {
+      "headline": "Rays rally in the 12th to walk off the Brewers 4-3 and force a World Series Game 5",
+      "cat": "Sports / MLB",
+      "source": "MLB.com",
+      "url": "https://www.mlb.com/news/rays-win-world-series-game-4-2026",
+      "summary": "The Brewers were three outs from their first championship when rookie shortstop Cooper Pratt homered in the top of the 12th inning of Game 4 at Tropicana Field Tuesday night. Instead, the Rays came back. Junior Caminero reached on a throwing error by third baseman Joey Ortiz, Liam Hicks singled, Jonny DeLuca drove in the tying run and Chandler Simpson loaded the bases. Pinch-hitter Ben Williamson then chopped the first pitch he saw into right field for a 4-3 win after four hours and 20 minutes, snapping Milwaukee's eight-game postseason winning streak. The Brewers still lead the series 3-1. No team has ever come back from 3-0 down in a World Series, and only the 1910 Cubs had previously won a walk-off while facing a sweep. Game 5 is tonight at 8 p.m. ET on FOX, with Milwaukee turning to Jacob Misiorowski for a second try at closing it out.",
+      "image_remote": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/joxfxly9p8x7qjkl4hba.jpg",
+      "image_local": "images/story-1528.jpg",
+      "id": "bc119ae942199c71400e10011f2c2a54f6140e97"
+    },
+    "d2b7edd7a153530181929e539454a8c5a6723484": {
+      "headline": "Netanyahu gains as Israel's votes are counted, but his bloc is still short of a majority",
+      "cat": "World / Israel",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/world/netanyahu-defies-exit-polls-vote-shifts-his-favor-majority-remains-elusive",
+      "summary": "Benjamin Netanyahu's right-wing and religious bloc gained ground Wednesday morning as Israel counted votes from its first national election since the Oct. 7, 2023, Hamas massacre, but it was still short of the 61 seats needed to govern. With about 70% of votes counted, the bloc stood at 54 seats in the 120-seat Knesset, against 47 for the main opposition and 19 for Arab parties, according to partial results reported by Israeli media. Likud led all parties with 27 seats to 20 for former army chief Gadi Eisenkot's Yashar party. The count is a shift from Tuesday night's exit polls, which set off celebrations at Eisenkot's headquarters; both men claimed victory overnight. The parties outside Netanyahu's bloc together hold 66 seats, which would give the opposition a path to power only if it can win enough cooperation from Arab lawmakers, so Israel could again face weeks of deadlock.",
+      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/netanyahu-post-election-speech.jpg",
+      "image_local": "images/story-1529.jpg",
+      "id": "d2b7edd7a153530181929e539454a8c5a6723484"
+    },
+    "dcd573721099fbb1ab3f6a9a63dba1b0904bbc74": {
+      "headline": "Epstein files point to classified material the Justice Department said didn't exist",
+      "cat": "Politics / DOJ",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/epstein-files-classified-material-missing-documents-suggest/",
+      "summary": "Attorney General Todd Blanche has long said the Epstein files contain no secret national security information and that nothing was withheld on that basis. But at least three documents in the released files indicate that classified information was among the material the Justice Department collected, CBS News reports. An eight-page FBI timeline in the files shows the bureau's New York office delivered \"16 Epstein items\" to the Office of the Deputy Attorney General, then led by Blanche, on March 25, 2025. Two of them were labeled \"Epstein Transparency Project - Classified Material\" and \"CDs with classified materials (x2).\" It is not clear what was classified. The department says it gathered 6 million pages and released more than 3 million after screening for duplicates, privilege and relevance, and congressional challenges and a lawsuit are now pressing for the documents that were held back.",
+      "image_remote": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/24/4b600d3a-acbd-4d3f-8d7a-8329afe51965/thumbnail/1200x630/d51f939a90d17aa5366fe91059d6c98e/epstein-efta001.jpg",
+      "image_local": "images/story-1530.jpg",
+      "id": "dcd573721099fbb1ab3f6a9a63dba1b0904bbc74"
+    },
+    "0b131d646cc3fcd4a31a9c6d85805b7773ae40ef": {
+      "headline": "iOS 27.2 gives CarPlay a Siri that remembers past chats and a reworked Podcasts tab",
+      "cat": "Apple / iPhone",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2299185/ios-27-2-two-new-features-apple-carplay/",
+      "summary": "Because CarPlay runs from a connected iPhone, this week's iOS 27.2 update also changes what drivers see on the dash. The bigger change is Siri: on CarPlay it can now recall past conversations, so you can ask it to repeat last week's cafe recommendations, and it can draw on more sources for its answers, including voicemails, Safari history and Reading List, Calendar attendees and photos sent in Messages. The Podcasts app's Home tab drops Up Next in favor of separate New Episodes and Continue Playing sections. There's also a new monochrome Music icon, white with a black note (or the reverse in dark mode). One catch: users on the CarPlay subreddit report that the APTV workaround they used to play video on their car screens stopped working after the update.",
+      "image_remote": "",
+      "image_local": "",
+      "id": "0b131d646cc3fcd4a31a9c6d85805b7773ae40ef"
+    },
+    "1f165377ed96efe34b79d99b6ce7d1dba2a0c325": {
+      "headline": "Tesla left empty room in the Cybercab's battery pack on purpose, to switch to cheaper LFP cells later",
+      "cat": "Tesla / Elon Musk",
+      "source": "Teslarati",
+      "url": "https://www.teslarati.com/tesla-cybercab-battery-pack-design-structure/",
+      "summary": "Tesla deliberately built extra space beside and beneath the Cybercab's battery modules so it can move to cheaper lithium iron phosphate (LFP) cells as production scales, Robert Sumpf, Tesla's director of mechanical design engineering for battery modules and packs, said in a deep dive with Munro Live. The robotaxi runs on Tesla's own nickel-based 4680 cells today. LFP stores less energy for its size, so the spare room lets Tesla add more cells to keep the range, in exchange for cells that cost less, run cooler and last more charge cycles. Vehicle engineering VP Lars Moravy said some of the space exists simply because \"we didn't need as many batteries as we thought we did.\" Unlike the structural packs in some Model Y and Cybertruck builds, the Cybercab uses four separately sealed modules, so a bad one can be swapped without scrapping the pack. Sumpf gave the Model Y structural battery \"a grade D\" for being hard to build and nearly impossible to repair.",
+      "image_remote": "https://www.teslarati.com/wp-content/uploads/2026/07/tesla-starlink-integration-cybercab-1000x600.jpeg",
+      "image_local": "images/story-1531.jpg",
+      "id": "1f165377ed96efe34b79d99b6ce7d1dba2a0c325"
+    },
+    "7da361c0878fd20b6c08c0f88e06b10ccc530d69": {
+      "headline": "A leak claims to show the Penguins' blue-and-yellow 'Hometown Remix' jersey, and it's not baby blue",
+      "cat": "Sports / Penguins",
+      "source": "Pittsburgh Hockey Now",
+      "url": "https://pittsburghhockeynow.com/leaked-site-claims-hometown-remix-pittsburgh-penguins-jersey/",
+      "summary": "The Penguins have been teasing their upcoming Hometown Remix jersey by practicing in blue pants with yellow piping and matte blue helmets, and on Tuesday the Jersey Nerds social media account claimed to leak 20 of the league's 32 Remix sweaters, the Penguins' among them. The image shows a navy-blue sweater with yellow-and-light-blue striping and a yellow-trimmed number, a break from the team's traditional black and gold that also skips the heritage baby blue many fans wanted. Online reaction across the league was mixed, and the team hasn't confirmed the leak or said when it will unveil the jersey. If it's real, Pittsburgh will wear it 10 times this season, along with its yellow alternates 11 times.",
+      "image_remote": "https://media.pittsburghhockeynow.com/wp-content/uploads/2026/10/Hometown-jersey.jpg",
+      "image_local": "images/story-1532.jpg",
+      "id": "7da361c0878fd20b6c08c0f88e06b10ccc530d69"
+    },
+    "f3087f72db640b5ecc27c5d123298f8469b8ca94": {
+      "headline": "Former Brooklyn resident Halima Salman convicted of taking ISIS military training in Syria",
+      "cat": "Crime / Courts",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/us/halima-salman-convicted-receiving-isis-military-training-syria-faces-10-years-prison",
+      "summary": "A federal jury in Brooklyn on Tuesday convicted Halima Salman, a 27-year-old U.S. citizen and former Brooklyn resident, of knowingly receiving military-style training from ISIS while living in Syria. The case is believed to be the first time a woman accused of joining ISIS has stood trial in a U.S. federal court. Prosecutors said her parents took her and her eight siblings out of the country in 2016 and eventually into ISIS territory, where at 18 she married an ISIS fighter, pledged loyalty to the group and sought out its training. She was authorized to carry an assault rifle and given a certificate showing she had finished the course, a document later found on her husband's phone. Jurors saw video of her holding a rifle, a photo of her with an ISIS flag and supportive texts to her husband. She faces up to 10 years in prison and is due to be sentenced Feb. 2.",
+      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/halima-salman-brooklyn-federal-court-verdict.jpg",
+      "image_local": "images/story-1533.jpg",
+      "id": "f3087f72db640b5ecc27c5d123298f8469b8ca94"
     }
   },
-  "updated": "Tuesday, October 27, 2026 · 10:10 PM ET"
+  "updated": "Wednesday, October 28, 2026 · 7:06 AM ET"
 }

@@ -1,8 +1,96 @@
 {
-  "updated": "Tuesday, October 27, 2026 · 10:10 PM ET",
+  "updated": "Wednesday, October 28, 2026 · 7:06 AM ET",
   "stories": [
     {
       "n": 1,
+      "headline": "At least 30 dead after a high-speed train slams into the back of a stopped train in central Spain",
+      "cat": "World / Spain",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/spain-train-crash-toledo-urda/",
+      "image_local": "images/story-1527.jpg",
+      "image_remote": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/28/9030ed7e-5d65-4d5a-ae1e-239cda254394/thumbnail/1200x630/496f8456d3825d3672e1c485aae76219/ap26301360905635.jpg",
+      "id": "2503908df296277185c3d8f79df1d376f0fe2881",
+      "summary": "A high-speed train crashed into the rear of another train that had stopped in the province of Toledo on Wednesday morning, derailing two cars and killing at least 30 people, the regional government of Castilla-La Mancha said, and officials expect the toll to rise. Both trains were heading the same way, from Madrid to Seville. One belonged to state-owned RENFE, with 397 passengers aboard, and the other to the private operator IRYO, with 147. The cause is not yet known. Rail operator ADIF suspended service between Madrid, Ciudad Real and Andalusia, and the nearby town of Urda was asked to open a sports pavilion to care for injured passengers. Trains from the same two companies were involved in a January crash in southern Spain that killed 45 people, the country's deadliest since 2013, which had already shaken confidence in its high-speed rail network."
+    },
+    {
+      "n": 2,
+      "headline": "Rays rally in the 12th to walk off the Brewers 4-3 and force a World Series Game 5",
+      "cat": "Sports / MLB",
+      "source": "MLB.com",
+      "url": "https://www.mlb.com/news/rays-win-world-series-game-4-2026",
+      "image_local": "images/story-1528.jpg",
+      "image_remote": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/joxfxly9p8x7qjkl4hba.jpg",
+      "id": "bc119ae942199c71400e10011f2c2a54f6140e97",
+      "summary": "The Brewers were three outs from their first championship when rookie shortstop Cooper Pratt homered in the top of the 12th inning of Game 4 at Tropicana Field Tuesday night. Instead, the Rays came back. Junior Caminero reached on a throwing error by third baseman Joey Ortiz, Liam Hicks singled, Jonny DeLuca drove in the tying run and Chandler Simpson loaded the bases. Pinch-hitter Ben Williamson then chopped the first pitch he saw into right field for a 4-3 win after four hours and 20 minutes, snapping Milwaukee's eight-game postseason winning streak. The Brewers still lead the series 3-1. No team has ever come back from 3-0 down in a World Series, and only the 1910 Cubs had previously won a walk-off while facing a sweep. Game 5 is tonight at 8 p.m. ET on FOX, with Milwaukee turning to Jacob Misiorowski for a second try at closing it out."
+    },
+    {
+      "n": 3,
+      "headline": "Netanyahu gains as Israel's votes are counted, but his bloc is still short of a majority",
+      "cat": "World / Israel",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/world/netanyahu-defies-exit-polls-vote-shifts-his-favor-majority-remains-elusive",
+      "image_local": "images/story-1529.jpg",
+      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/netanyahu-post-election-speech.jpg",
+      "id": "d2b7edd7a153530181929e539454a8c5a6723484",
+      "summary": "Benjamin Netanyahu's right-wing and religious bloc gained ground Wednesday morning as Israel counted votes from its first national election since the Oct. 7, 2023, Hamas massacre, but it was still short of the 61 seats needed to govern. With about 70% of votes counted, the bloc stood at 54 seats in the 120-seat Knesset, against 47 for the main opposition and 19 for Arab parties, according to partial results reported by Israeli media. Likud led all parties with 27 seats to 20 for former army chief Gadi Eisenkot's Yashar party. The count is a shift from Tuesday night's exit polls, which set off celebrations at Eisenkot's headquarters; both men claimed victory overnight. The parties outside Netanyahu's bloc together hold 66 seats, which would give the opposition a path to power only if it can win enough cooperation from Arab lawmakers, so Israel could again face weeks of deadlock."
+    },
+    {
+      "n": 4,
+      "headline": "Epstein files point to classified material the Justice Department said didn't exist",
+      "cat": "Politics / DOJ",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/epstein-files-classified-material-missing-documents-suggest/",
+      "image_local": "images/story-1530.jpg",
+      "image_remote": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/24/4b600d3a-acbd-4d3f-8d7a-8329afe51965/thumbnail/1200x630/d51f939a90d17aa5366fe91059d6c98e/epstein-efta001.jpg",
+      "id": "dcd573721099fbb1ab3f6a9a63dba1b0904bbc74",
+      "summary": "Attorney General Todd Blanche has long said the Epstein files contain no secret national security information and that nothing was withheld on that basis. But at least three documents in the released files indicate that classified information was among the material the Justice Department collected, CBS News reports. An eight-page FBI timeline in the files shows the bureau's New York office delivered \"16 Epstein items\" to the Office of the Deputy Attorney General, then led by Blanche, on March 25, 2025. Two of them were labeled \"Epstein Transparency Project - Classified Material\" and \"CDs with classified materials (x2).\" It is not clear what was classified. The department says it gathered 6 million pages and released more than 3 million after screening for duplicates, privilege and relevance, and congressional challenges and a lawsuit are now pressing for the documents that were held back."
+    },
+    {
+      "n": 5,
+      "headline": "iOS 27.2 gives CarPlay a Siri that remembers past chats and a reworked Podcasts tab",
+      "cat": "Apple / iPhone",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2299185/ios-27-2-two-new-features-apple-carplay/",
+      "image_local": "",
+      "image_remote": "",
+      "id": "0b131d646cc3fcd4a31a9c6d85805b7773ae40ef",
+      "summary": "Because CarPlay runs from a connected iPhone, this week's iOS 27.2 update also changes what drivers see on the dash. The bigger change is Siri: on CarPlay it can now recall past conversations, so you can ask it to repeat last week's cafe recommendations, and it can draw on more sources for its answers, including voicemails, Safari history and Reading List, Calendar attendees and photos sent in Messages. The Podcasts app's Home tab drops Up Next in favor of separate New Episodes and Continue Playing sections. There's also a new monochrome Music icon, white with a black note (or the reverse in dark mode). One catch: users on the CarPlay subreddit report that the APTV workaround they used to play video on their car screens stopped working after the update."
+    },
+    {
+      "n": 6,
+      "headline": "Tesla left empty room in the Cybercab's battery pack on purpose, to switch to cheaper LFP cells later",
+      "cat": "Tesla / Elon Musk",
+      "source": "Teslarati",
+      "url": "https://www.teslarati.com/tesla-cybercab-battery-pack-design-structure/",
+      "image_local": "images/story-1531.jpg",
+      "image_remote": "https://www.teslarati.com/wp-content/uploads/2026/07/tesla-starlink-integration-cybercab-1000x600.jpeg",
+      "id": "1f165377ed96efe34b79d99b6ce7d1dba2a0c325",
+      "summary": "Tesla deliberately built extra space beside and beneath the Cybercab's battery modules so it can move to cheaper lithium iron phosphate (LFP) cells as production scales, Robert Sumpf, Tesla's director of mechanical design engineering for battery modules and packs, said in a deep dive with Munro Live. The robotaxi runs on Tesla's own nickel-based 4680 cells today. LFP stores less energy for its size, so the spare room lets Tesla add more cells to keep the range, in exchange for cells that cost less, run cooler and last more charge cycles. Vehicle engineering VP Lars Moravy said some of the space exists simply because \"we didn't need as many batteries as we thought we did.\" Unlike the structural packs in some Model Y and Cybertruck builds, the Cybercab uses four separately sealed modules, so a bad one can be swapped without scrapping the pack. Sumpf gave the Model Y structural battery \"a grade D\" for being hard to build and nearly impossible to repair."
+    },
+    {
+      "n": 7,
+      "headline": "A leak claims to show the Penguins' blue-and-yellow 'Hometown Remix' jersey, and it's not baby blue",
+      "cat": "Sports / Penguins",
+      "source": "Pittsburgh Hockey Now",
+      "url": "https://pittsburghhockeynow.com/leaked-site-claims-hometown-remix-pittsburgh-penguins-jersey/",
+      "image_local": "images/story-1532.jpg",
+      "image_remote": "https://media.pittsburghhockeynow.com/wp-content/uploads/2026/10/Hometown-jersey.jpg",
+      "id": "7da361c0878fd20b6c08c0f88e06b10ccc530d69",
+      "summary": "The Penguins have been teasing their upcoming Hometown Remix jersey by practicing in blue pants with yellow piping and matte blue helmets, and on Tuesday the Jersey Nerds social media account claimed to leak 20 of the league's 32 Remix sweaters, the Penguins' among them. The image shows a navy-blue sweater with yellow-and-light-blue striping and a yellow-trimmed number, a break from the team's traditional black and gold that also skips the heritage baby blue many fans wanted. Online reaction across the league was mixed, and the team hasn't confirmed the leak or said when it will unveil the jersey. If it's real, Pittsburgh will wear it 10 times this season, along with its yellow alternates 11 times."
+    },
+    {
+      "n": 8,
+      "headline": "Former Brooklyn resident Halima Salman convicted of taking ISIS military training in Syria",
+      "cat": "Crime / Courts",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/us/halima-salman-convicted-receiving-isis-military-training-syria-faces-10-years-prison",
+      "image_local": "images/story-1533.jpg",
+      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/halima-salman-brooklyn-federal-court-verdict.jpg",
+      "id": "f3087f72db640b5ecc27c5d123298f8469b8ca94",
+      "summary": "A federal jury in Brooklyn on Tuesday convicted Halima Salman, a 27-year-old U.S. citizen and former Brooklyn resident, of knowingly receiving military-style training from ISIS while living in Syria. The case is believed to be the first time a woman accused of joining ISIS has stood trial in a U.S. federal court. Prosecutors said her parents took her and her eight siblings out of the country in 2016 and eventually into ISIS territory, where at 18 she married an ISIS fighter, pledged loyalty to the group and sought out its training. She was authorized to carry an assault rifle and given a certificate showing she had finished the course, a document later found on her husband's phone. Jurors saw video of her holding a rifle, a photo of her with an ISIS flag and supportive texts to her husband. She faces up to 10 years in prison and is due to be sentenced Feb. 2."
+    },
+    {
+      "n": 9,
       "headline": "Apple's OLED touchscreen MacBook Pro could start at $2,899, $400 more than today's model, on the eve of its unveiling",
       "cat": "Apple / Mac",
       "source": "MacRumors",
@@ -13,7 +101,7 @@
       "summary": "Hours before Apple's \"Pro and tell\" event, a report relayed by MacRumors says Apple has discussed charging $2,899 for the 14-inch OLED touchscreen MacBook Pro, $400 more than the current $2,499 M5 Pro model. If the 16-inch version gets the same bump it would start at $3,399, and it may cost even more. The new machines add OLED touchscreens, a Dynamic Island, a redesigned hinge that keeps the display steady when touched, thinner bezels, a slimmer and lighter body and a reworked cooling system that pulls air through the hinge, while keeping the same M5 Pro and M5 Max chips. Apple is expected to keep selling the existing mini-LED MacBook Pros as a cheaper, non-touch option. The OLED models are due to be unveiled Wednesday morning, with pre-orders opening at 10:10 a.m. Pacific alongside the OLED iPad mini, the M6 iMac and the entry-level M6 MacBook Pro."
     },
     {
-      "n": 2,
+      "n": 10,
       "headline": "They bought cabins to live aboard a luxury cruise ship. Soaring fuel costs just got them kicked off in Cambodia",
       "cat": "World / Travel",
       "source": "NBC News",
@@ -24,7 +112,7 @@
       "summary": "Residents of The Odyssey, a 642-foot \"residential\" cruise ship run by Florida-based Villa Vie Residences, were ordered off the vessel in Cambodia on Tuesday after the company halted operations, blaming soaring fuel costs since the war with Iran began. The ship, which left Belfast three years ago promising a life of luxury travel around the world, can house 650 residents and was said to be 85% sold. The company said cutting fuel use could not offset the price spike and that passing the cost on to residents wasn't realistic. It is now looking for temporary housing for passengers while it attempts a restructuring and recapitalization over the next 60 days, adding that \"no outcome is assured.\" One resident said a note appeared on the ship's message board early Monday announcing a \"temporary lay up\" and telling everyone to disembark by 2 p.m."
     },
     {
-      "n": 3,
+      "n": 11,
       "headline": "Cheap Trick reportedly cancel all of their 2027 tour dates and head into an open-ended hiatus",
       "cat": "Music / Classic Rock",
       "source": "Louder",
@@ -35,7 +123,7 @@
       "summary": "Cheap Trick appear to be taking an extended break: several venues booked for 2027, including Harrah's Cherokee in North Carolina, Thunder by the Bay in Sarasota, the Seminole Casino Hotel in Immokalee and Wild Adventures in Valdosta, Georgia, have cancelled their shows. Harrah's said that \"after many years of touring,\" the band has decided to take an unspecified amount of time off. The band hasn't confirmed the hiatus itself, and the rest of this year's All Washed Up tour, which resumes Nov. 5 in Fort Wayne, Indiana, and wraps Nov. 22 in Detroit, is still on sale. The news comes days after guitarist Rick Nielsen said an MRI had shown he does not have cancer, following a September show in Aurora, Illinois, where he had breathing trouble and briefly left the stage. The band also cancelled four concerts and postponed three in June."
     },
     {
-      "n": 4,
+      "n": 12,
       "headline": "Fires burn near a major Russian steel plant in Lipetsk after a reported Ukrainian strike",
       "cat": "World / Ukraine",
       "source": "Kyiv Independent",
@@ -46,7 +134,7 @@
       "summary": "Explosions were heard and fires broke out in the Russian city of Lipetsk late Tuesday after a reported Ukrainian attack, according to the Ukrainian monitoring channel Exilenova Plus, which said a fire started near the Novolipetsk Metallurgical Plant after air defenses opened up. Local authorities had not commented, and the reports could not be independently verified. A 2025 Ukrainska Pravda investigation found the plant supplies Russian companies that build air defense systems, drones and missiles. Ukraine has sanctioned it, and Canada and Australia have sanctioned its billionaire owner, Vladimir Lisin. The strike came the same day Russian missiles hit Kyiv, killing at least one person, injuring 15 and damaging a university campus, a major bridge and medical facilities. Ukrainian drones also reportedly hit an ammunition depot in occupied Luhansk overnight."
     },
     {
-      "n": 5,
+      "n": 13,
       "headline": "LEGO's free Ideas gift with purchase, 40889 Build, Paint and Play, is live now with a Classic Space twist",
       "cat": "LEGO",
       "source": "Brick Fanatics",
@@ -57,7 +145,7 @@
       "summary": "LEGO's latest gift with purchase, LEGO Ideas 40889 Build, Paint and Play, is now available free with orders of $130 or more at LEGO.com and LEGO Stores, through Nov. 8 or while supplies last. It went live in the UK and Europe first and may take a few hours to show up in the U.S. The 158-piece set is a brick-built hobby bench with a cutting board, glue, paint, brushes and a decal sheet. Classic Space fans will want it for a teal astronaut minifigure and the first-ever grey versions of the classic space helmet and air tank. It started as a fan design by Doomslizer that won LEGO Ideas' Build Your Hobby contest in 2025. Brick Fanatics suggests checking that the promo is actually in your cart before you pay."
     },
     {
-      "n": 6,
+      "n": 14,
       "headline": "Suspected shark knocks a fisherman off his kayak a mile off California's coast, forcing him to swim to shore",
       "cat": "USA / Outdoors",
       "source": "Fox News",
@@ -68,18 +156,7 @@
       "summary": "A fisherman was paddling about a mile off Leffingwell Landing in Cambria, California, around 9:30 a.m. Monday when something hit the underside of his kayak and threw him into the water, the Cambria Fire Department said. He climbed back on and headed for shore, but punctures in the hull flooded the kayak, so he swam the rest of the way and made it in uninjured. Firefighters later used a rescue boat to recover the damaged kayak and his gear. Dr. Chris Lowe of Cal State Long Beach's Shark Lab reviewed photos of the damage and said a shark was a reasonable suspect, though officials say that hasn't been confirmed. In May 2012, a shark hit a fishing kayak at the same spot."
     },
     {
-      "n": 7,
-      "headline": "Israel's election heads toward stalemate: exit polls show neither Netanyahu nor Eisenkot with a majority",
-      "cat": "World / Israel",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/israel-election-exit-polls-stalemate/",
-      "image_local": "images/story-1514.jpg",
-      "image_remote": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/27/52aacc86-3d63-494b-af7e-c07c43f004a0/thumbnail/1200x630/fa6808be284da43bb519802b29603ea2/gettyimages-2301773142.jpg",
-      "id": "9690d574c4f3256df7654e30d417be9933148303",
-      "summary": "Exit polls from Israel's major TV networks after Tuesday's vote suggest a majority of Israelis voted against Prime Minister Benjamin Netanyahu's coalition, but his Likud still came out as the single largest party and neither bloc reached the 61 seats needed to govern the 120-seat Knesset. AP-reported projections put Netanyahu's bloc at about 50 seats, the opposition led by former military chief Gadi Eisenkot at 52 to 53, and Arab parties at a record 17 to 18. Both camps have vowed not to form a government that relies on the Arab parties, so weeks of coalition jockeying, or even another election, may follow. Turnout topped 74% by 8 p.m. local time, the highest in decades, in the first national election since Hamas' Oct. 7, 2023, attack, widely seen as a referendum on Netanyahu's wartime leadership. Preliminary results are due within hours and final results in the coming days, and they may differ from the exit polls."
-    },
-    {
-      "n": 8,
+      "n": 15,
       "headline": "Luxury real estate brothers Alon, Oren and Tal Alexander each sentenced to 30 years for sex trafficking",
       "cat": "Crime / Courts",
       "source": "CBS News",
@@ -90,7 +167,7 @@
       "summary": "A federal judge in New York sentenced Alon and Oren Alexander, 39, and their brother Tal, 40, to 30 years in prison each on Tuesday, months after a jury convicted them in March on all 10 counts, including conspiracy to commit sex trafficking and sex trafficking by force, fraud or coercion. Prosecutors said the Miami-based brothers drugged and raped or sexually assaulted at least 70 women, including two teenagers, in a pattern that began when they were in high school, using their wealth and celebrity connections to lure victims. Alon and Oren were known as \"The A Team\" for brokering luxury homes in New York, Los Angeles and Miami; Tal worked at the family's private security firm. Several women gave tearful victim impact statements, one describing a Hamptons trip that became \"a mansion of horror.\" Prosecutors and victims had asked Judge Valerie Caproni for the maximum, while the defense sought the 15-year minimum and argued the encounters were consensual."
     },
     {
-      "n": 9,
+      "n": 16,
       "headline": "Penguins GM Kyle Dubas is 'open for business,' taking calls on Karlsson, Letang, Rust and Rakell",
       "cat": "Sports / Penguins",
       "source": "Russian Machine Never Breaks",
@@ -101,7 +178,7 @@
       "summary": "With the Penguins off to a 5-6-1 start, sixth in the Metropolitan Division, TSN's Darren Dreger reports that general manager Kyle Dubas is already listening to offers on veterans Erik Karlsson, Kris Letang, Bryan Rust and Rickard Rakell. Dreger said the focus under new owner David Hoffman, who bought the team from Fenway Sports Group, remains on getting younger, but Dubas is also working within a tight cash budget, not just the salary cap, and \"teams around the NHL are also aware that Dubas is open for business.\" Karlsson, 36, is the team's top scorer at a point a game, a pending unrestricted free agent with a $10 million cap hit and a no-movement clause that lets him veto any deal. Rust, 34, is out several weeks with a lower-body injury, and he and Rakell each carry about $5 million through 2027-28, which could make them easier to move. Nearly all of the core veterans are 33 or older and have started slowly."
     },
     {
-      "n": 10,
+      "n": 17,
       "headline": "Lita Ford releases 'Dracula,' her first new music in more than a decade, with an album on the way",
       "cat": "Music / Hard rock",
       "source": "Louder",
@@ -112,7 +189,7 @@
       "summary": "Former Runaways guitarist Lita Ford is back with a Halloween-friendly single and video, \"Dracula,\" her first new music since 2016's Time Capsule collection of lost recordings and her first release since signing with Italy's Frontiers Music earlier this month. Ford calls the song a tale of \"an entity that represents seduction and control, eventually draining you of your life,\" adding that \"there's something fun about flirting with disaster\" and that its moaning slide guitars are \"menacing.\" It was produced by Gary Hoey, who worked on her 2012 album Living Like a Runaway, and recorded with Hoey and longtime drummer Bobby Rock. Ford describes the coming album as a \"magical dark fairytale.\" She celebrates the release with shows this weekend at the Golden Nugget in Las Vegas on Friday and the Ladies of Rock Festival at Agua Caliente Resort Casino in Rancho Mirage, California, on Saturday."
     },
     {
-      "n": 11,
+      "n": 18,
       "headline": "Delaware sues Glock over illegal 'switches' while admitting in its own complaint that Glock doesn't make them",
       "cat": "Guns / Courts",
       "source": "Daily Caller",
@@ -123,7 +200,7 @@
       "summary": "Delaware Attorney General Kathy Jennings has sued Glock, claiming the gunmaker failed to stop criminals from illegally adding auto sears, known as \"Glock switches,\" that make its semiautomatic pistols fire fully automatic. The 82-page complaint asks a court to bar Glock from distributing pistols deemed \"easily convertible\" to civilians in the state and to pay restitution, damages and \"abatement of the public nuisance.\" \"Glock knew. They could have acted. They chose profit over people,\" Jennings said. Yet the complaint concedes that Glock does not manufacture the devices and that third parties make and distribute them, some stamped with a copied Glock logo without authorization. Delaware joins several states that have targeted the hugely popular handguns, either by trying to ban future sales or by suing the company, an approach gun-rights advocates say blames a lawful manufacturer for what criminals do with its products."
     },
     {
-      "n": 12,
+      "n": 19,
       "headline": "After years of air leaks, Russia is reportedly sealing off part of the International Space Station for good",
       "cat": "Science / Space",
       "source": "Gizmodo",
@@ -132,83 +209,6 @@
       "image_remote": "https://gizmodo.com/app/uploads/2026/06/international-space-station-1200x675.jpg",
       "id": "4c39eb291e9bf8d4fe0dfd219bc494202ab227d5",
       "summary": "Roscosmos appears ready to permanently close the hatch between its Zvezda module and the PrK transfer tunnel, the source of a stubborn air leak first detected in 2019, according to Anatoly Zak of RussianSpaceWeb. NASA and Russia have tried several times to patch the leak without success and have disagreed over its cause and severity. Earlier this year five astronauts had to shelter in place while cosmonauts were told to use a saw to reach a suspected leak area, a method NASA officials warned could add risk to the structure. The first mission affected would be the Progress MS-36 cargo ship launching next month, which would be unloaded through the Poisk module instead of Zvezda. A Russian space analyst claims NASA pressured Roscosmos into sealing the tunnel. Neither agency has commented, and NASA did not answer Gizmodo before publication."
-    },
-    {
-      "n": 13,
-      "headline": "Historic Four Corners flooding could cost New Mexico alone $200 million to $300 million, governor says",
-      "cat": "USA / Weather",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/10/27/nx-s1-6019352/southwest-flood-damage-estimates-are-hundreds-of-millions-for-new-mexico-alone",
-      "image_local": "images/story-1520.jpg",
-      "image_remote": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2048x1152+0+107/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F59%2F1b%2F21c1e88a49299cde572c0b4558be%2F1-862982824-1443370291313982-5556750224871304120-n.jpg",
-      "id": "9306fffba3f5f0ee7ff80d358ee3f2691fd98eb3",
-      "summary": "Intense rain tied to a very active El Niño-fueled Pacific hurricane season flooded parts of Colorado, New Mexico, Utah and Arizona last week, displacing thousands. Farmington, New Mexico, a city of about 46,000, was hit hardest after torrential rain on Colorado's San Juan mountains sent the San Juan River to about 14 feet, possibly a city record, with surges from two normally dry canyons. San Juan County officials called it \"a catastrophic flood of historic proportions\" and said crews, National Guard troops and out-of-state swift-water teams rescued 200 to 300 residents, some by helicopter off rooftops. Gov. Michelle Lujan Grisham said infrastructure damage alone could reach $200 million to $300 million. Colorado's South Fork saw neighborhoods under two to three feet of water, Sedona had sewage spills, and the Navajo and Hopi reservations reported washed-out roads and rescues. Officials are urging evacuees to stay out of contaminated floodwater for now."
-    },
-    {
-      "n": 14,
-      "headline": "iPhone 18 Pro sales fell 4% in the U.S. in their first three weeks, but China's 29% jump kept global sales up",
-      "cat": "Apple / iPhone",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/10/27/report-iphone-18-pro-sales-down-4-in-the-us-but-china-drives-3-1-global-growth/",
-      "image_local": "images/story-1521.jpg",
-      "image_remote": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iphone-18pro.jpg?quality=82&strip=all&resize=1200,628",
-      "id": "231aa6188bc2b8f91b074e31fbee4528ac1ce34e",
-      "summary": "A new Counterpoint Research report says U.S. sales of the iPhone 18 Pro and Pro Max dropped 4% in their first three weeks compared with the iPhone 17 Pro launch a year ago, while Japan fell a steep 27% as exchange rates amplified the price increases. China went the other way, with sales up 29% thanks to better early supply and price hikes on rival Chinese Android flagships, lifting global Pro-series sales 3.1%; without China, growth would have been far weaker. Counterpoint said U.S. buyers largely don't see meaningful feature or design improvements over last year's models, and that the bigger Pro Max took a slightly smaller share of Pro sales as higher prices pushed more people to the smaller Pro. The report did not give unit numbers."
-    },
-    {
-      "n": 15,
-      "headline": "Trumbull's five priciest homes for sale: a $1.8 million Tashua estate on 5 acres leads the list",
-      "cat": "Local / Trumbull CT",
-      "source": "Trumbull Patch",
-      "url": "https://patch.com/connecticut/trumbull/take-tour-trumbulls-five-priciest-homes-market-right-now",
-      "image_local": "",
-      "image_remote": "",
-      "id": "157980327c504907e0cbf624de9bd52187f69128",
-      "summary": "Patch's roundup of Trumbull's most expensive listings on Zillow this week is led by 63 Coventry Lane in Tashua, a 7,257-square-foot, five-bedroom 1995 home on 5.15 acres listed at $1.8 million after a $95,000 cut, with a 17-foot marble-inlay foyer and a $100,000 kitchen. Second is new construction at 110 Porters Hill Road for $1.749 million, followed by a new Colonial on a 1.6-acre corner lot at 18 Timberlane Trail for $1.25 million. An updated 1989 house at 3 Crescent Lane in Tashua is listed at $1,249,900, and a waterfront contemporary on motor-free Canoe Brook Lake at 141 Canoe Brook Road, with its own dock, rounds out the top five at $1.2 million after a $100,000 cut and 143 days on the market. Prices and status are as of Oct. 26 and may change."
-    },
-    {
-      "n": 16,
-      "headline": "Flávio Bolsonaro reportedly leaves Brazil for the U.S. as a deadline to surrender his passports runs out",
-      "cat": "World / Brazil",
-      "source": "PBS NewsHour (AP)",
-      "url": "https://www.pbs.org/newshour/world/brazils-flavio-bolsonaro-leaves-brazil-for-the-united-states-after-presidential-loss-according-to-multiple-media-reports",
-      "image_local": "images/story-1506.jpg",
-      "image_remote": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-24T002716Z_1449764096_RC2C9OAVOOL0_RTRMADP_3_BRAZIL-ELECTION-DEBATE-1024x683.jpg",
-      "id": "2b40d07ace65345b2f2c6822656e62c4e5f06c86",
-      "summary": "Defeated presidential candidate Flávio Bolsonaro has left Brazil for the United States after losing Sunday's runoff to President Luiz Inácio Lula da Silva, according to multiple media reports. His spokesperson did not respond to requests for comment. The reported departure came as a noon Tuesday deadline expired for him to hand over his regular and diplomatic passports under a sealed Supreme Court order served on him Monday, and it was unclear whether he had complied. His brother Eduardo, who lives in Texas, had publicly urged him to leave if he lost; Eduardo was convicted in absentia in June of illegally lobbying the Trump administration. Flávio, 45, has refused to concede and asked the electoral court to annul the result, alleging fraud without evidence, though he said in a video Monday that he had no plans to leave the country. Lula won by more than 4 million votes, about 4%, and results are certified Dec. 18. Flávio is under Supreme Court investigation in two corruption and money-laundering cases, and his father, former President Jair Bolsonaro, is serving a 27-year sentence under house arrest. President Trump said Monday, without evidence, that the election was “rigged.”"
-    },
-    {
-      "n": 17,
-      "headline": "Supreme Court refuses to revive a Biden-era rule letting immigration judges pause deportation cases; New Haven was one of the cities that asked",
-      "cat": "Politics / Immigration",
-      "source": "The Federalist",
-      "url": "https://thefederalist.com/2026/10/27/scotus-rejects-dem-bid-to-revive-lax-biden-era-deportation-rule/",
-      "image_local": "images/story-1507.jpg",
-      "image_remote": "https://thefederalist.com/wp-content/uploads/2026/10/ICE-2.jpg",
-      "id": "4fc07272cc086a4458b121a8b6e41c9be5ad6ac9",
-      "summary": "The Supreme Court on Tuesday declined, with no noted dissents, to restore a Biden-era regulation that let immigration judges suspend some deportation proceedings, for example while a crime victim or witness seeks asylum or other relief. Texas had sued to end the rule, the Justice Department agreed, and Chief U.S. District Judge Reed O'Connor in Texas approved a consent judgment scrapping it. Three Democratic-led cities, Baltimore, Columbus, Ohio, and New Haven, Connecticut, joined immigrant legal group Centro Legal de la Raza in trying to intervene to save it. O'Connor ruled they lacked standing, rejecting the cities' argument that losing the rule would cost them money because their taxpayers were likely to be deported, and the 5th Circuit refused to pause the judgment. In its brief, the administration said the cities were trying to turn a narrow dispute over intervention into “a far-reaching attack on the merits” of the deal. The court's unsigned order gave no reasoning."
-    },
-    {
-      "n": 18,
-      "headline": "DNA ties Ted Bundy to the 1974 murder of Utah teen Melissa Ann Smith, 52 years to the day after her body was found",
-      "cat": "Crime / Cold Case",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/ted-bundy-utah-teenager-cold-case-murder-dna/",
-      "image_local": "images/story-1508.jpg",
-      "image_remote": "https://assets2.cbsnewsstatic.com/hub/i/r/2020/04/09/3d6146ed-d00a-4e21-88d0-3451215b411e/thumbnail/1200x630/73b401b8440bfd1601e4862077ffde89/bundy-arrest.jpg",
-      "id": "7a8cdeff9c1d62961bdc5f21d9b9e6ccc20ab61c",
-      "summary": "Utah authorities said Tuesday that serial killer Ted Bundy murdered 17-year-old Melissa Ann Smith, a police chief's daughter whose body was found by deer hunters in a wooded area near the Summit and Salt Lake county line on Oct. 27, 1974. The case had stayed open for more than five decades. Summit County Attorney Margaret Olson said DNA evidence, together with Bundy's “pattern, motive, means and opportunity,” established that he was responsible. The break came through the case of another 17-year-old, Laura Ann Aime, who vanished after leaving a Halloween party days later in 1974; DNA in that case hit on Bundy in the national CODIS database, and investigators then found a highly similar profile in evidence preserved from Smith's autopsy. “This case demonstrates the importance of preserving evidence,” said Salt Lake County Sheriff Rosie Rivera. Bundy, who moved to Salt Lake City in 1974 to study law, was executed in Florida in 1989 and killed at least 30 women and girls in several states. A vial of his blood found in 2011 put his full DNA profile in the FBI database."
-    },
-    {
-      "n": 19,
-      "headline": "Microsoft offers voluntary buyouts to about 60,000 employees, roughly a quarter of its workforce, as AI spending soars",
-      "cat": "Tech / Business",
-      "source": "Mashable",
-      "url": "https://mashable.com/tech/microsoft-buyouts-60000-employees",
-      "image_local": "images/story-1509.jpg",
-      "image_remote": "https://helios-i.mashable.com/imagery/articles/03b4IyMsr8bYYMnBdlAl3KQ/hero-image.fill.size_1200x675.v1793116140.jpg",
-      "id": "51261ec97b3e261659769a9c1482f99a20bfc7b3",
-      "summary": "Microsoft announced a voluntary buyout plan for employees in the United States, Canada, the United Kingdom and India in a Monday blog post. The company didn't give a number, but CBS News and other outlets report that about 60,000 employees, roughly a quarter of its global workforce, will receive the offer. Not everyone is expected to take it. “The Voluntary Exit Offer is new for us. We'll learn from it,” Chief People Officer Amy Coleman wrote, adding that the company will keep helping people build new skills and find other roles inside Microsoft. The move comes as Microsoft is expected to spend about $175 billion on AI infrastructure this year alone. The company has already cut thousands of jobs over the past two years, including several rounds at Xbox, while adding more AI features to Windows."
     },
     {
       "n": 20,
