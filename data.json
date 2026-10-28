@@ -1,19 +1,118 @@
 {
-  "updated": "Wednesday, October 28, 2026 · 7:06 AM ET",
+  "updated": "Wednesday, October 28, 2026 · 11:39 AM ET",
   "stories": [
     {
       "n": 1,
-      "headline": "At least 30 dead after a high-speed train slams into the back of a stopped train in central Spain",
+      "headline": "Knife attacker shouting 'Allahu Akbar' is shot dead outside Israel's embassy in Serbia",
+      "cat": "World / Terrorism",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/world/attacker-shouting-allahu-akbar-killed-outside-israeli-embassy-serbia-police-say",
+      "image_local": "images/story-1534.jpg",
+      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/israeli-embassy-belgrade.jpg",
+      "id": "6644a5e00ab102d72b24345d4baa9236a2087121",
+      "summary": "An attacker carrying two knives went after a Serbian Gendarmerie officer guarding the Israeli Embassy in Belgrade shortly after midnight Wednesday. Prosecutors say he opened the door of the guard booth around 12:15 a.m. and threw a knife that hit the officer in the left cheek, and the officer then drew his service weapon and killed him. Authorities said the attacker was a minor from the town of Sabac who shouted \"Allahu Akbar.\" Interior Minister Ivica Dacic called it a terrorist attack, said the attacker had shown support for ISIS on Instagram and had already been under watch, and raised Serbia's terror threat level to its highest. Israel's foreign ministry said the embassy was closed and none of its staff were hurt. A crossbow attacker wounded an officer at the same embassy in June 2024 before being shot dead."
+    },
+    {
+      "n": 2,
+      "headline": "'Back up, Ambassador!': Mike Waltz faces down Cuba's foreign minister on the UN floor, and a Cuban diplomat is being expelled",
+      "cat": "Politics / Diplomacy",
+      "source": "Daily Caller",
+      "url": "https://dailycaller.com/2026/10/28/mike-waltz-shouting-cuba-foreign-minister-bruno-rodriguez-parrilla-corruption-united-nations-general-assembly-floor-speech",
+      "image_local": "images/story-1535.jpg",
+      "image_remote": "https://cdn01.dailycaller.com/wp-content/uploads/2026/10/GettyImages-2296632742-cropped.jpg",
+      "id": "3d1df8642ecfcd0892216eb71a4cbd612bd4fd13",
+      "summary": "U.S. Ambassador Mike Waltz was in the middle of a speech at the U.N. General Assembly's annual debate on the American embargo of Cuba Tuesday, holding up photos he said showed the Castro family's luxury properties while ordinary Cubans go without power and food, when Cuban Foreign Minister Bruno Rodríguez Parrilla walked toward the podium. \"Back up, Ambassador, back away! This isn't Havana,\" Waltz told him on video. \"This is America, back up!\" The assembly president tried to suspend the meeting, the Cuban delegation banged on its desks, and a Cuban diplomat grabbed at the phone of U.S. official J.P. Freire, who was filming. Rodríguez called Waltz's claims \"crude lies.\" Later that night Waltz said on Fox's Hannity that Secretary of State Marco Rubio had signed papers expelling the Cuban delegation's first secretary for shoving an American diplomat, and that he would be on a plane to Havana within 24 hours."
+    },
+    {
+      "n": 3,
+      "headline": "Nearly 75% of former NFL players who died between 2008 and 2023 had CTE, a Boston University study estimates",
+      "cat": "Sports / NFL",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/nfl-cte-study-boston-university/",
+      "image_local": "images/story-1536.jpg",
+      "image_remote": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/28/7026fa76-3d6b-4fd4-bc3c-63939fbb5862/thumbnail/1200x630/2e9128fe9f6bcaa64e22b189652a3665/nfl-field-logo.jpg",
+      "id": "e6f5cf66d207341eaa9f14c081e5387b44af6d34",
+      "summary": "A new Boston University study in JAMA Network Open estimates that about three of every four former NFL players who died over a 16-year span had chronic traumatic encephalopathy, the degenerative brain disease tied to repeated hits to the head, which can only be confirmed after death. Researchers found some form of CTE in 362 of 387 deceased players whose brains were donated, or 94%. Because players with memory and thinking problems were about five times more likely to have their brains donated, the team adjusted for that bias and landed on an overall estimate of 74.5%. By comparison, CTE turns up in less than 1% of brains given to community brain banks. Lead author Julia Gallini said the numbers show the need to diagnose and treat CTE in living players and to support their families. An August study had put the range anywhere from 25% to 98%."
+    },
+    {
+      "n": 4,
+      "headline": "Russell Brand takes the stand at his London rape trial and denies every charge",
+      "cat": "Crime / Courts",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/russell-brand-takes-stand-rape-sexual-assault-trial-london/",
+      "image_local": "images/story-1537.jpg",
+      "image_remote": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/28/e9d7017d-5887-4ed1-9f04-9d4c095425c7/thumbnail/1200x630/8fba5251f10f9eff3c8c093c7958d740/gettyimages-2302353723.jpg",
+      "id": "1454b5b16bc7ba6a9dfcb84fbf37f5a8a0efd70d",
+      "summary": "Comedian and actor Russell Brand, 51, testified Wednesday at his trial in London, answering a flat \"no\" when asked whether he had committed each of the charges against him: three counts of rape, three of sexual assault and one of attempted indecent assault. Six women have accused him of attacks between 1999 and 2009, and he has pleaded not guilty. \"My entire life has been consumed by these allegations,\" Brand told the court. He admitted he was promiscuous during those years but said \"consent is absolutely non-negotiable.\" He disputed details of the accounts, including a woman who says he raped her in a hotel room after a 1999 Labour Party conference and a former MTV employee who says he grabbed her and pulled her toward a bathroom in 2001, and said he had only been to those MTV offices a handful of times."
+    },
+    {
+      "n": 5,
+      "headline": "The clearest photo yet of China's secretive Shenlong spaceplane shows a near-twin of America's X-37B",
+      "cat": "Science / Space",
+      "source": "Gizmodo",
+      "url": "https://gizmodo.com/heres-what-chinas-mysterious-spaceplane-actually-looks-like-2000831719",
+      "image_local": "images/story-1538.jpg",
+      "image_remote": "https://gizmodo.com/app/uploads/2026/10/China-Spaceplane-1200x675.jpg",
+      "id": "101f382f9bf96cba291d3ad2a2e2fc31833270f6",
+      "summary": "China's experimental Shenlong, or \"Divine Dragon,\" spaceplane has spent years in orbit releasing unidentified objects and making unusual maneuvers, but until now there were only blurry glimpses of it. A sharp image taken in 2024 by a Maxar commercial imaging satellite has now been quietly released by the U.S. Defense Intelligence Agency in its new unclassified report on threats in space, and it shows a craft that looks a lot like the U.S. Space Force's own X-37B. Shenlong first flew a two-day mission in 2020, then stayed up for 276 days starting in 2022 and 268 days starting in December 2023, and it is now on a fourth mission that launched Feb. 7. Its flights have included capture and docking operations and formation flying."
+    },
+    {
+      "n": 6,
+      "headline": "A Tesla Semi catches fire on its own on I-880 in California, closing the freeway for about 10 hours",
+      "cat": "Tesla / EVs",
+      "source": "Electrek",
+      "url": "https://electrek.co/2026/10/28/tesla-semi-fire-i-880-hayward-no-crash/",
+      "image_local": "images/story-1539.jpg",
+      "image_remote": "https://electrek.co/wp-content/uploads/sites/3/2026/10/tesla-semi-fire-i-880-hayward-chp.jpg?quality=82&strip=all&resize=1200,628",
+      "id": "b7a7b4af3a0efec7e3b183d50df592e94378a191",
+      "summary": "A Tesla Semi caught fire in the southbound lanes of Interstate 880 in Hayward, California, around 5:35 p.m. Tuesday without any crash involved, and its lithium-ion battery burned long enough to keep part of the freeway shut overnight. The driver got out unhurt and told officers he didn't know why it started. The California Highway Patrol closed I-880 in both directions over the risk of hazardous smoke; northbound reopened Tuesday night, and although CHP first warned the battery might burn for 15 to 18 hours, all lanes were open by about 3:30 a.m. Wednesday. CHP photos show firefighters laying foam around the burned-out cab and a charred trailer behind it. The truck's operator hasn't been named, the cause is under investigation, and Tesla hasn't commented."
+    },
+    {
+      "n": 7,
+      "headline": "Ozzy and Black Sabbath's farewell show 'Back To The Beginning' is coming home on Blu-ray, CD and vinyl Dec. 11",
+      "cat": "Music / Metal",
+      "source": "Louder",
+      "url": "https://www.loudersound.com/news/black-sabbath-ozzy-osbourne-live-album-concert-film-home-release-annoucned-2026",
+      "image_local": "images/story-1540.jpg",
+      "image_remote": "https://cdn.mos.cms.futurecdn.net/mFoge2QKLFrooxiR5xdgne-1280-80.jpg",
+      "id": "54d120a6fe365b306c299b89be27380e4aa1bae6",
+      "summary": "On the same day the Back To The Beginning concert film opens in theaters, Mercury Studios announced a Dec. 11 home release of Ozzy Osbourne's final show, the all-day July 5, 2025, concert at Birmingham's Villa Park held 17 days before he died at 76. Blu-ray/CD and Blu-ray/2LP bundles include the full 147-minute film plus complete sets from Black Sabbath and Ozzy's solo band, along with video tributes, Jack Black singing \"Mr. Crowley,\" Fred Durst singing \"Changes,\" a behind-the-scenes featurette and a documentary about Ozzy's hometown. A digital live album arrives the same day. A deluxe box set in April will gather every Sabbath and Ozzy cover from all 35 acts, including Metallica, Guns N' Roses and Tool, across three Blu-rays, two CDs, three LPs and a 72-page book. Pre-orders are open now."
+    },
+    {
+      "n": 8,
+      "headline": "LEGO reveals 67005 Doctor Strange Supreme, its first Marvel 'What If…?' set in five years, for Jan. 1",
+      "cat": "LEGO",
+      "source": "Brick Fanatics",
+      "url": "https://www.brickfanatics.com/first-lego-marvel-what-if-set-five-years-revealed",
+      "image_local": "images/story-1541.jpg",
+      "image_remote": "https://www.brickfanatics.com/storage/uploads/fa383e8f-1f92-4261-a83e-b636b6ea7a67.png",
+      "id": "01942e778e8bd9db7f520e07b81aa5c28c96c160",
+      "summary": "LEGO has announced 67005 Doctor Strange Supreme, the next small Marvel modular building and its first set based on the animated series What If…? in more than five years. The 814-piece build is a smaller Sanctum Sanctorum with three floors overrun by zombies from the Marvel Zombies storyline, removable portals and accessories including the syringe used to develop a zombie cure, Throg in frog form and the Books of Cagliostro and Vishanti. Its six minifigures are Doctor Strange Supreme, Zombie Hunter Spider-Man, F.R.I.D.A.Y. with her teddy-bear head, zombie Wanda as the Red Queen, Zombie Namor and Zombie Thor. It goes on sale Jan. 1, 2027, for $99.99, alongside 67006 The Marvel Skyline, and follows this month's 76352 New Avengers Tower."
+    },
+    {
+      "n": 9,
+      "headline": "Would-be robber looking for cocaine pulls a gun on a Nashville man, who fires back and leaves him critically wounded",
+      "cat": "Crime / Self-defense",
+      "source": "Daily Caller",
+      "url": "https://dailycaller.com/2026/10/28/alleged-cocaine-seeking-robber-targets-armed-citizen-gets-very-critical-head-wound-instead",
+      "image_local": "",
+      "image_remote": "",
+      "id": "0a763b2f01924dcc17f8ba45250e1a1c222e9dab",
+      "summary": "Metro Nashville police say a 35-year-old man approached a 31-year-old at a hookah lounge in a strip mall in Antioch early Sunday asking for cocaine, then pulled a gun on him in the parking lot around 5:15 a.m. and tried to rob him. The 31-year-old told police he said he didn't use drugs, then drew his own gun and fired once, hitting the would-be robber in the head and leaving him in \"very critical\" condition. He drove off, saying he felt unsafe, and was stopped by officers about three minutes away, when he told them he had fired in self-defense. Police recovered a gun at the scene and the 31-year-old's gun in his car."
+    },
+    {
+      "n": 10,
+      "headline": "At least 64 dead after a high-speed train slams into the back of a stopped train in central Spain",
       "cat": "World / Spain",
       "source": "CBS News",
       "url": "https://www.cbsnews.com/news/spain-train-crash-toledo-urda/",
       "image_local": "images/story-1527.jpg",
       "image_remote": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/28/9030ed7e-5d65-4d5a-ae1e-239cda254394/thumbnail/1200x630/496f8456d3825d3672e1c485aae76219/ap26301360905635.jpg",
       "id": "2503908df296277185c3d8f79df1d376f0fe2881",
-      "summary": "A high-speed train crashed into the rear of another train that had stopped in the province of Toledo on Wednesday morning, derailing two cars and killing at least 30 people, the regional government of Castilla-La Mancha said, and officials expect the toll to rise. Both trains were heading the same way, from Madrid to Seville. One belonged to state-owned RENFE, with 397 passengers aboard, and the other to the private operator IRYO, with 147. The cause is not yet known. Rail operator ADIF suspended service between Madrid, Ciudad Real and Andalusia, and the nearby town of Urda was asked to open a sports pavilion to care for injured passengers. Trains from the same two companies were involved in a January crash in southern Spain that killed 45 people, the country's deadliest since 2013, which had already shaken confidence in its high-speed rail network."
+      "summary": "A high-speed train crashed into the rear of another train that had stopped in the province of Toledo on Wednesday morning, derailing two cars and killing at least 64 people, the regional government of Castilla-La Mancha told Reuters; about 80 people were reported injured earlier in the day, and officials expect the toll to keep rising. Both trains were heading the same way, from Madrid to Seville. One belonged to state-owned RENFE, with 397 passengers aboard, and the other to the private operator IRYO, with 147. The cause is not yet known. Rail operator ADIF suspended service between Madrid, Ciudad Real and Andalusia, and the nearby town of Urda opened a sports pavilion to care for injured passengers. Trains from the same two companies were involved in a January crash in southern Spain that killed 45 people, which had already shaken confidence in the country's high-speed rail network."
     },
     {
-      "n": 2,
+      "n": 11,
       "headline": "Rays rally in the 12th to walk off the Brewers 4-3 and force a World Series Game 5",
       "cat": "Sports / MLB",
       "source": "MLB.com",
@@ -24,7 +123,7 @@
       "summary": "The Brewers were three outs from their first championship when rookie shortstop Cooper Pratt homered in the top of the 12th inning of Game 4 at Tropicana Field Tuesday night. Instead, the Rays came back. Junior Caminero reached on a throwing error by third baseman Joey Ortiz, Liam Hicks singled, Jonny DeLuca drove in the tying run and Chandler Simpson loaded the bases. Pinch-hitter Ben Williamson then chopped the first pitch he saw into right field for a 4-3 win after four hours and 20 minutes, snapping Milwaukee's eight-game postseason winning streak. The Brewers still lead the series 3-1. No team has ever come back from 3-0 down in a World Series, and only the 1910 Cubs had previously won a walk-off while facing a sweep. Game 5 is tonight at 8 p.m. ET on FOX, with Milwaukee turning to Jacob Misiorowski for a second try at closing it out."
     },
     {
-      "n": 3,
+      "n": 12,
       "headline": "Netanyahu gains as Israel's votes are counted, but his bloc is still short of a majority",
       "cat": "World / Israel",
       "source": "Fox News",
@@ -35,7 +134,7 @@
       "summary": "Benjamin Netanyahu's right-wing and religious bloc gained ground Wednesday morning as Israel counted votes from its first national election since the Oct. 7, 2023, Hamas massacre, but it was still short of the 61 seats needed to govern. With about 70% of votes counted, the bloc stood at 54 seats in the 120-seat Knesset, against 47 for the main opposition and 19 for Arab parties, according to partial results reported by Israeli media. Likud led all parties with 27 seats to 20 for former army chief Gadi Eisenkot's Yashar party. The count is a shift from Tuesday night's exit polls, which set off celebrations at Eisenkot's headquarters; both men claimed victory overnight. The parties outside Netanyahu's bloc together hold 66 seats, which would give the opposition a path to power only if it can win enough cooperation from Arab lawmakers, so Israel could again face weeks of deadlock."
     },
     {
-      "n": 4,
+      "n": 13,
       "headline": "Epstein files point to classified material the Justice Department said didn't exist",
       "cat": "Politics / DOJ",
       "source": "CBS News",
@@ -46,7 +145,7 @@
       "summary": "Attorney General Todd Blanche has long said the Epstein files contain no secret national security information and that nothing was withheld on that basis. But at least three documents in the released files indicate that classified information was among the material the Justice Department collected, CBS News reports. An eight-page FBI timeline in the files shows the bureau's New York office delivered \"16 Epstein items\" to the Office of the Deputy Attorney General, then led by Blanche, on March 25, 2025. Two of them were labeled \"Epstein Transparency Project - Classified Material\" and \"CDs with classified materials (x2).\" It is not clear what was classified. The department says it gathered 6 million pages and released more than 3 million after screening for duplicates, privilege and relevance, and congressional challenges and a lawsuit are now pressing for the documents that were held back."
     },
     {
-      "n": 5,
+      "n": 14,
       "headline": "iOS 27.2 gives CarPlay a Siri that remembers past chats and a reworked Podcasts tab",
       "cat": "Apple / iPhone",
       "source": "Engadget",
@@ -57,7 +156,7 @@
       "summary": "Because CarPlay runs from a connected iPhone, this week's iOS 27.2 update also changes what drivers see on the dash. The bigger change is Siri: on CarPlay it can now recall past conversations, so you can ask it to repeat last week's cafe recommendations, and it can draw on more sources for its answers, including voicemails, Safari history and Reading List, Calendar attendees and photos sent in Messages. The Podcasts app's Home tab drops Up Next in favor of separate New Episodes and Continue Playing sections. There's also a new monochrome Music icon, white with a black note (or the reverse in dark mode). One catch: users on the CarPlay subreddit report that the APTV workaround they used to play video on their car screens stopped working after the update."
     },
     {
-      "n": 6,
+      "n": 15,
       "headline": "Tesla left empty room in the Cybercab's battery pack on purpose, to switch to cheaper LFP cells later",
       "cat": "Tesla / Elon Musk",
       "source": "Teslarati",
@@ -68,7 +167,7 @@
       "summary": "Tesla deliberately built extra space beside and beneath the Cybercab's battery modules so it can move to cheaper lithium iron phosphate (LFP) cells as production scales, Robert Sumpf, Tesla's director of mechanical design engineering for battery modules and packs, said in a deep dive with Munro Live. The robotaxi runs on Tesla's own nickel-based 4680 cells today. LFP stores less energy for its size, so the spare room lets Tesla add more cells to keep the range, in exchange for cells that cost less, run cooler and last more charge cycles. Vehicle engineering VP Lars Moravy said some of the space exists simply because \"we didn't need as many batteries as we thought we did.\" Unlike the structural packs in some Model Y and Cybertruck builds, the Cybercab uses four separately sealed modules, so a bad one can be swapped without scrapping the pack. Sumpf gave the Model Y structural battery \"a grade D\" for being hard to build and nearly impossible to repair."
     },
     {
-      "n": 7,
+      "n": 16,
       "headline": "A leak claims to show the Penguins' blue-and-yellow 'Hometown Remix' jersey, and it's not baby blue",
       "cat": "Sports / Penguins",
       "source": "Pittsburgh Hockey Now",
@@ -79,7 +178,7 @@
       "summary": "The Penguins have been teasing their upcoming Hometown Remix jersey by practicing in blue pants with yellow piping and matte blue helmets, and on Tuesday the Jersey Nerds social media account claimed to leak 20 of the league's 32 Remix sweaters, the Penguins' among them. The image shows a navy-blue sweater with yellow-and-light-blue striping and a yellow-trimmed number, a break from the team's traditional black and gold that also skips the heritage baby blue many fans wanted. Online reaction across the league was mixed, and the team hasn't confirmed the leak or said when it will unveil the jersey. If it's real, Pittsburgh will wear it 10 times this season, along with its yellow alternates 11 times."
     },
     {
-      "n": 8,
+      "n": 17,
       "headline": "Former Brooklyn resident Halima Salman convicted of taking ISIS military training in Syria",
       "cat": "Crime / Courts",
       "source": "Fox News",
@@ -90,7 +189,7 @@
       "summary": "A federal jury in Brooklyn on Tuesday convicted Halima Salman, a 27-year-old U.S. citizen and former Brooklyn resident, of knowingly receiving military-style training from ISIS while living in Syria. The case is believed to be the first time a woman accused of joining ISIS has stood trial in a U.S. federal court. Prosecutors said her parents took her and her eight siblings out of the country in 2016 and eventually into ISIS territory, where at 18 she married an ISIS fighter, pledged loyalty to the group and sought out its training. She was authorized to carry an assault rifle and given a certificate showing she had finished the course, a document later found on her husband's phone. Jurors saw video of her holding a rifle, a photo of her with an ISIS flag and supportive texts to her husband. She faces up to 10 years in prison and is due to be sentenced Feb. 2."
     },
     {
-      "n": 9,
+      "n": 18,
       "headline": "Apple's OLED touchscreen MacBook Pro could start at $2,899, $400 more than today's model, on the eve of its unveiling",
       "cat": "Apple / Mac",
       "source": "MacRumors",
@@ -101,7 +200,7 @@
       "summary": "Hours before Apple's \"Pro and tell\" event, a report relayed by MacRumors says Apple has discussed charging $2,899 for the 14-inch OLED touchscreen MacBook Pro, $400 more than the current $2,499 M5 Pro model. If the 16-inch version gets the same bump it would start at $3,399, and it may cost even more. The new machines add OLED touchscreens, a Dynamic Island, a redesigned hinge that keeps the display steady when touched, thinner bezels, a slimmer and lighter body and a reworked cooling system that pulls air through the hinge, while keeping the same M5 Pro and M5 Max chips. Apple is expected to keep selling the existing mini-LED MacBook Pros as a cheaper, non-touch option. The OLED models are due to be unveiled Wednesday morning, with pre-orders opening at 10:10 a.m. Pacific alongside the OLED iPad mini, the M6 iMac and the entry-level M6 MacBook Pro."
     },
     {
-      "n": 10,
+      "n": 19,
       "headline": "They bought cabins to live aboard a luxury cruise ship. Soaring fuel costs just got them kicked off in Cambodia",
       "cat": "World / Travel",
       "source": "NBC News",
@@ -110,105 +209,6 @@
       "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261027-Villa-Vie-Residences-vsb-1933-3293f4.jpg",
       "id": "4a21635c23fc71f4bc3f7b0fa4a8e6ae49dab791",
       "summary": "Residents of The Odyssey, a 642-foot \"residential\" cruise ship run by Florida-based Villa Vie Residences, were ordered off the vessel in Cambodia on Tuesday after the company halted operations, blaming soaring fuel costs since the war with Iran began. The ship, which left Belfast three years ago promising a life of luxury travel around the world, can house 650 residents and was said to be 85% sold. The company said cutting fuel use could not offset the price spike and that passing the cost on to residents wasn't realistic. It is now looking for temporary housing for passengers while it attempts a restructuring and recapitalization over the next 60 days, adding that \"no outcome is assured.\" One resident said a note appeared on the ship's message board early Monday announcing a \"temporary lay up\" and telling everyone to disembark by 2 p.m."
-    },
-    {
-      "n": 11,
-      "headline": "Cheap Trick reportedly cancel all of their 2027 tour dates and head into an open-ended hiatus",
-      "cat": "Music / Classic Rock",
-      "source": "Louder",
-      "url": "https://www.loudersound.com/bands-artists/cheap-trick-have-reportedly-cancelled-all-of-next-years-tour-dates",
-      "image_local": "images/story-1524.jpg",
-      "image_remote": "https://cdn.mos.cms.futurecdn.net/GAxUfnh2EHPMj6bajcwyeW-1097-80.jpg",
-      "id": "b76b146435f9282f277e9a5e4cd32ab23135f1c2",
-      "summary": "Cheap Trick appear to be taking an extended break: several venues booked for 2027, including Harrah's Cherokee in North Carolina, Thunder by the Bay in Sarasota, the Seminole Casino Hotel in Immokalee and Wild Adventures in Valdosta, Georgia, have cancelled their shows. Harrah's said that \"after many years of touring,\" the band has decided to take an unspecified amount of time off. The band hasn't confirmed the hiatus itself, and the rest of this year's All Washed Up tour, which resumes Nov. 5 in Fort Wayne, Indiana, and wraps Nov. 22 in Detroit, is still on sale. The news comes days after guitarist Rick Nielsen said an MRI had shown he does not have cancer, following a September show in Aurora, Illinois, where he had breathing trouble and briefly left the stage. The band also cancelled four concerts and postponed three in June."
-    },
-    {
-      "n": 12,
-      "headline": "Fires burn near a major Russian steel plant in Lipetsk after a reported Ukrainian strike",
-      "cat": "World / Ukraine",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/fires-burn-in-russian-city-of-lipetsk-after-reported-ukrainian-attack/",
-      "image_local": "images/story-1525.jpg",
-      "image_remote": "https://assets.kyivindependent.com/content/images/2026/10/Screenshot-2026-10-27-at-6_16_13-PM_20261027-223416_20261027-230624.png",
-      "id": "92f815c6ff5a1e08450c5a306c655a382ec245ff",
-      "summary": "Explosions were heard and fires broke out in the Russian city of Lipetsk late Tuesday after a reported Ukrainian attack, according to the Ukrainian monitoring channel Exilenova Plus, which said a fire started near the Novolipetsk Metallurgical Plant after air defenses opened up. Local authorities had not commented, and the reports could not be independently verified. A 2025 Ukrainska Pravda investigation found the plant supplies Russian companies that build air defense systems, drones and missiles. Ukraine has sanctioned it, and Canada and Australia have sanctioned its billionaire owner, Vladimir Lisin. The strike came the same day Russian missiles hit Kyiv, killing at least one person, injuring 15 and damaging a university campus, a major bridge and medical facilities. Ukrainian drones also reportedly hit an ammunition depot in occupied Luhansk overnight."
-    },
-    {
-      "n": 13,
-      "headline": "LEGO's free Ideas gift with purchase, 40889 Build, Paint and Play, is live now with a Classic Space twist",
-      "cat": "LEGO",
-      "source": "Brick Fanatics",
-      "url": "https://www.brickfanatics.com/free-lego-ideas-gift-available-classic-space-twist",
-      "image_local": "images/story-1526.jpg",
-      "image_remote": "https://www.brickfanatics.com/bf-derivatives/webp/dff08f962d6465cac7f627c09d5fc6637a4476e0dedeb9a03fb18039b4c0d6fe.webp",
-      "id": "8d05088fe2d567c42df668ddf45b75c8c5ae9259",
-      "summary": "LEGO's latest gift with purchase, LEGO Ideas 40889 Build, Paint and Play, is now available free with orders of $130 or more at LEGO.com and LEGO Stores, through Nov. 8 or while supplies last. It went live in the UK and Europe first and may take a few hours to show up in the U.S. The 158-piece set is a brick-built hobby bench with a cutting board, glue, paint, brushes and a decal sheet. Classic Space fans will want it for a teal astronaut minifigure and the first-ever grey versions of the classic space helmet and air tank. It started as a fan design by Doomslizer that won LEGO Ideas' Build Your Hobby contest in 2025. Brick Fanatics suggests checking that the promo is actually in your cart before you pay."
-    },
-    {
-      "n": 14,
-      "headline": "Suspected shark knocks a fisherman off his kayak a mile off California's coast, forcing him to swim to shore",
-      "cat": "USA / Outdoors",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/us/suspected-shark-knocks-fisherman-off-kayak-mile-california-coast-forcing-swim-shore",
-      "image_local": "",
-      "image_remote": "",
-      "id": "3fa25002e2dca2a1a10031442cac77c45729a309",
-      "summary": "A fisherman was paddling about a mile off Leffingwell Landing in Cambria, California, around 9:30 a.m. Monday when something hit the underside of his kayak and threw him into the water, the Cambria Fire Department said. He climbed back on and headed for shore, but punctures in the hull flooded the kayak, so he swam the rest of the way and made it in uninjured. Firefighters later used a rescue boat to recover the damaged kayak and his gear. Dr. Chris Lowe of Cal State Long Beach's Shark Lab reviewed photos of the damage and said a shark was a reasonable suspect, though officials say that hasn't been confirmed. In May 2012, a shark hit a fishing kayak at the same spot."
-    },
-    {
-      "n": 15,
-      "headline": "Luxury real estate brothers Alon, Oren and Tal Alexander each sentenced to 30 years for sex trafficking",
-      "cat": "Crime / Courts",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/alexander-brothers-sentenced-sex-trafficking/",
-      "image_local": "images/story-1515.jpg",
-      "image_remote": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/03/10/c493299a-22eb-43f6-aeb6-6ccfac0b517c/thumbnail/1200x630/d47adacb323724d7fe66ac057ec7bd98/cbsn-fusion-alexander-brothers-found-guilty-in-sex-trafficking-trial-thumbnail.jpg",
-      "id": "cbf388635a604c32b10e2b453fa3b7664ae46e2c",
-      "summary": "A federal judge in New York sentenced Alon and Oren Alexander, 39, and their brother Tal, 40, to 30 years in prison each on Tuesday, months after a jury convicted them in March on all 10 counts, including conspiracy to commit sex trafficking and sex trafficking by force, fraud or coercion. Prosecutors said the Miami-based brothers drugged and raped or sexually assaulted at least 70 women, including two teenagers, in a pattern that began when they were in high school, using their wealth and celebrity connections to lure victims. Alon and Oren were known as \"The A Team\" for brokering luxury homes in New York, Los Angeles and Miami; Tal worked at the family's private security firm. Several women gave tearful victim impact statements, one describing a Hamptons trip that became \"a mansion of horror.\" Prosecutors and victims had asked Judge Valerie Caproni for the maximum, while the defense sought the 15-year minimum and argued the encounters were consensual."
-    },
-    {
-      "n": 16,
-      "headline": "Penguins GM Kyle Dubas is 'open for business,' taking calls on Karlsson, Letang, Rust and Rakell",
-      "cat": "Sports / Penguins",
-      "source": "Russian Machine Never Breaks",
-      "url": "https://russianmachineneverbreaks.com/2026/10/27/erik-karlsson-kris-letang-pittsburgh-penguins-trade-rumor-kyle-dubas-nhl/",
-      "image_local": "images/story-1516.jpg",
-      "image_remote": "https://i0.wp.com/russianmachineneverbreaks.com/wp-content/uploads/2026/10/kris-letang-erik-karlsson-pengui.jpg?fit=1200%2C800&ssl=1",
-      "id": "7e40c46068d8577e230f739961a2ff4914241656",
-      "summary": "With the Penguins off to a 5-6-1 start, sixth in the Metropolitan Division, TSN's Darren Dreger reports that general manager Kyle Dubas is already listening to offers on veterans Erik Karlsson, Kris Letang, Bryan Rust and Rickard Rakell. Dreger said the focus under new owner David Hoffman, who bought the team from Fenway Sports Group, remains on getting younger, but Dubas is also working within a tight cash budget, not just the salary cap, and \"teams around the NHL are also aware that Dubas is open for business.\" Karlsson, 36, is the team's top scorer at a point a game, a pending unrestricted free agent with a $10 million cap hit and a no-movement clause that lets him veto any deal. Rust, 34, is out several weeks with a lower-body injury, and he and Rakell each carry about $5 million through 2027-28, which could make them easier to move. Nearly all of the core veterans are 33 or older and have started slowly."
-    },
-    {
-      "n": 17,
-      "headline": "Lita Ford releases 'Dracula,' her first new music in more than a decade, with an album on the way",
-      "cat": "Music / Hard rock",
-      "source": "Louder",
-      "url": "https://www.loudersound.com/music/tracks-singles/lita-ford-dracula",
-      "image_local": "images/story-1517.jpg",
-      "image_remote": "https://cdn.mos.cms.futurecdn.net/irnChWJkcgxXgKU3jy9vX5-1280-80.jpg",
-      "id": "c8005e996724f19f84b8d69c2d406209835d85d8",
-      "summary": "Former Runaways guitarist Lita Ford is back with a Halloween-friendly single and video, \"Dracula,\" her first new music since 2016's Time Capsule collection of lost recordings and her first release since signing with Italy's Frontiers Music earlier this month. Ford calls the song a tale of \"an entity that represents seduction and control, eventually draining you of your life,\" adding that \"there's something fun about flirting with disaster\" and that its moaning slide guitars are \"menacing.\" It was produced by Gary Hoey, who worked on her 2012 album Living Like a Runaway, and recorded with Hoey and longtime drummer Bobby Rock. Ford describes the coming album as a \"magical dark fairytale.\" She celebrates the release with shows this weekend at the Golden Nugget in Las Vegas on Friday and the Ladies of Rock Festival at Agua Caliente Resort Casino in Rancho Mirage, California, on Saturday."
-    },
-    {
-      "n": 18,
-      "headline": "Delaware sues Glock over illegal 'switches' while admitting in its own complaint that Glock doesn't make them",
-      "cat": "Guns / Courts",
-      "source": "Daily Caller",
-      "url": "https://dailycaller.com/2026/10/27/blue-state-launches-lawsuit-alleges-glock-responsible-for-what-criminals-do-to-pistol",
-      "image_local": "images/story-1518.jpg",
-      "image_remote": "https://images.dailycaller.com/image/width=1280,height=549,fit=cover,format=webp,f=auto/https://cdn01.dailycaller.com/wp-content/uploads/2026/10/DCNF%20-%20Glock%20DE%20Suit%202A%20-%20Featured.jpg",
-      "id": "90d24b5391dab9db54730cf5774e98b7b5fc9796",
-      "summary": "Delaware Attorney General Kathy Jennings has sued Glock, claiming the gunmaker failed to stop criminals from illegally adding auto sears, known as \"Glock switches,\" that make its semiautomatic pistols fire fully automatic. The 82-page complaint asks a court to bar Glock from distributing pistols deemed \"easily convertible\" to civilians in the state and to pay restitution, damages and \"abatement of the public nuisance.\" \"Glock knew. They could have acted. They chose profit over people,\" Jennings said. Yet the complaint concedes that Glock does not manufacture the devices and that third parties make and distribute them, some stamped with a copied Glock logo without authorization. Delaware joins several states that have targeted the hugely popular handguns, either by trying to ban future sales or by suing the company, an approach gun-rights advocates say blames a lawful manufacturer for what criminals do with its products."
-    },
-    {
-      "n": 19,
-      "headline": "After years of air leaks, Russia is reportedly sealing off part of the International Space Station for good",
-      "cat": "Science / Space",
-      "source": "Gizmodo",
-      "url": "https://gizmodo.com/after-years-of-air-leaks-russia-is-reportedly-closing-off-part-of-the-iss-for-good-2000831227",
-      "image_local": "images/story-1519.jpg",
-      "image_remote": "https://gizmodo.com/app/uploads/2026/06/international-space-station-1200x675.jpg",
-      "id": "4c39eb291e9bf8d4fe0dfd219bc494202ab227d5",
-      "summary": "Roscosmos appears ready to permanently close the hatch between its Zvezda module and the PrK transfer tunnel, the source of a stubborn air leak first detected in 2019, according to Anatoly Zak of RussianSpaceWeb. NASA and Russia have tried several times to patch the leak without success and have disagreed over its cause and severity. Earlier this year five astronauts had to shelter in place while cosmonauts were told to use a saw to reach a suspected leak area, a method NASA officials warned could add risk to the structure. The first mission affected would be the Progress MS-36 cargo ship launching next month, which would be unloaded through the Poisk module instead of Zvezda. A Russian space analyst claims NASA pressured Roscosmos into sealing the tunnel. Neither agency has commented, and NASA did not answer Gizmodo before publication."
     },
     {
       "n": 20,
