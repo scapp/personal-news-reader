@@ -1,8 +1,74 @@
 {
-  "updated": "Tuesday, October 27, 2026 · 6:10 PM ET",
+  "updated": "Tuesday, October 27, 2026 · 10:10 PM ET",
   "stories": [
     {
       "n": 1,
+      "headline": "Apple's OLED touchscreen MacBook Pro could start at $2,899, $400 more than today's model, on the eve of its unveiling",
+      "cat": "Apple / Mac",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/27/oled-macbook-pro-pricing/",
+      "image_local": "images/story-1522.jpg",
+      "image_remote": "https://images.macrumors.com/t/r-a84FeRhyCsmSrCJOuSvSywz14=/2100x/article-new/2026/10/MacBook-Pro-Dynamic-Island-multicolor.jpg",
+      "id": "62028ebb2a3545cf18d3c03bb10229ebd3e6ba64",
+      "summary": "Hours before Apple's \"Pro and tell\" event, a report relayed by MacRumors says Apple has discussed charging $2,899 for the 14-inch OLED touchscreen MacBook Pro, $400 more than the current $2,499 M5 Pro model. If the 16-inch version gets the same bump it would start at $3,399, and it may cost even more. The new machines add OLED touchscreens, a Dynamic Island, a redesigned hinge that keeps the display steady when touched, thinner bezels, a slimmer and lighter body and a reworked cooling system that pulls air through the hinge, while keeping the same M5 Pro and M5 Max chips. Apple is expected to keep selling the existing mini-LED MacBook Pros as a cheaper, non-touch option. The OLED models are due to be unveiled Wednesday morning, with pre-orders opening at 10:10 a.m. Pacific alongside the OLED iPad mini, the M6 iMac and the entry-level M6 MacBook Pro."
+    },
+    {
+      "n": 2,
+      "headline": "They bought cabins to live aboard a luxury cruise ship. Soaring fuel costs just got them kicked off in Cambodia",
+      "cat": "World / Travel",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/news/us-news/luxury-cruise-ship-high-fuel-costs-got-kicked-cambodia-rcna606031",
+      "image_local": "images/story-1523.jpg",
+      "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261027-Villa-Vie-Residences-vsb-1933-3293f4.jpg",
+      "id": "4a21635c23fc71f4bc3f7b0fa4a8e6ae49dab791",
+      "summary": "Residents of The Odyssey, a 642-foot \"residential\" cruise ship run by Florida-based Villa Vie Residences, were ordered off the vessel in Cambodia on Tuesday after the company halted operations, blaming soaring fuel costs since the war with Iran began. The ship, which left Belfast three years ago promising a life of luxury travel around the world, can house 650 residents and was said to be 85% sold. The company said cutting fuel use could not offset the price spike and that passing the cost on to residents wasn't realistic. It is now looking for temporary housing for passengers while it attempts a restructuring and recapitalization over the next 60 days, adding that \"no outcome is assured.\" One resident said a note appeared on the ship's message board early Monday announcing a \"temporary lay up\" and telling everyone to disembark by 2 p.m."
+    },
+    {
+      "n": 3,
+      "headline": "Cheap Trick reportedly cancel all of their 2027 tour dates and head into an open-ended hiatus",
+      "cat": "Music / Classic Rock",
+      "source": "Louder",
+      "url": "https://www.loudersound.com/bands-artists/cheap-trick-have-reportedly-cancelled-all-of-next-years-tour-dates",
+      "image_local": "images/story-1524.jpg",
+      "image_remote": "https://cdn.mos.cms.futurecdn.net/GAxUfnh2EHPMj6bajcwyeW-1097-80.jpg",
+      "id": "b76b146435f9282f277e9a5e4cd32ab23135f1c2",
+      "summary": "Cheap Trick appear to be taking an extended break: several venues booked for 2027, including Harrah's Cherokee in North Carolina, Thunder by the Bay in Sarasota, the Seminole Casino Hotel in Immokalee and Wild Adventures in Valdosta, Georgia, have cancelled their shows. Harrah's said that \"after many years of touring,\" the band has decided to take an unspecified amount of time off. The band hasn't confirmed the hiatus itself, and the rest of this year's All Washed Up tour, which resumes Nov. 5 in Fort Wayne, Indiana, and wraps Nov. 22 in Detroit, is still on sale. The news comes days after guitarist Rick Nielsen said an MRI had shown he does not have cancer, following a September show in Aurora, Illinois, where he had breathing trouble and briefly left the stage. The band also cancelled four concerts and postponed three in June."
+    },
+    {
+      "n": 4,
+      "headline": "Fires burn near a major Russian steel plant in Lipetsk after a reported Ukrainian strike",
+      "cat": "World / Ukraine",
+      "source": "Kyiv Independent",
+      "url": "https://kyivindependent.com/fires-burn-in-russian-city-of-lipetsk-after-reported-ukrainian-attack/",
+      "image_local": "images/story-1525.jpg",
+      "image_remote": "https://assets.kyivindependent.com/content/images/2026/10/Screenshot-2026-10-27-at-6_16_13-PM_20261027-223416_20261027-230624.png",
+      "id": "92f815c6ff5a1e08450c5a306c655a382ec245ff",
+      "summary": "Explosions were heard and fires broke out in the Russian city of Lipetsk late Tuesday after a reported Ukrainian attack, according to the Ukrainian monitoring channel Exilenova Plus, which said a fire started near the Novolipetsk Metallurgical Plant after air defenses opened up. Local authorities had not commented, and the reports could not be independently verified. A 2025 Ukrainska Pravda investigation found the plant supplies Russian companies that build air defense systems, drones and missiles. Ukraine has sanctioned it, and Canada and Australia have sanctioned its billionaire owner, Vladimir Lisin. The strike came the same day Russian missiles hit Kyiv, killing at least one person, injuring 15 and damaging a university campus, a major bridge and medical facilities. Ukrainian drones also reportedly hit an ammunition depot in occupied Luhansk overnight."
+    },
+    {
+      "n": 5,
+      "headline": "LEGO's free Ideas gift with purchase, 40889 Build, Paint and Play, is live now with a Classic Space twist",
+      "cat": "LEGO",
+      "source": "Brick Fanatics",
+      "url": "https://www.brickfanatics.com/free-lego-ideas-gift-available-classic-space-twist",
+      "image_local": "images/story-1526.jpg",
+      "image_remote": "https://www.brickfanatics.com/bf-derivatives/webp/dff08f962d6465cac7f627c09d5fc6637a4476e0dedeb9a03fb18039b4c0d6fe.webp",
+      "id": "8d05088fe2d567c42df668ddf45b75c8c5ae9259",
+      "summary": "LEGO's latest gift with purchase, LEGO Ideas 40889 Build, Paint and Play, is now available free with orders of $130 or more at LEGO.com and LEGO Stores, through Nov. 8 or while supplies last. It went live in the UK and Europe first and may take a few hours to show up in the U.S. The 158-piece set is a brick-built hobby bench with a cutting board, glue, paint, brushes and a decal sheet. Classic Space fans will want it for a teal astronaut minifigure and the first-ever grey versions of the classic space helmet and air tank. It started as a fan design by Doomslizer that won LEGO Ideas' Build Your Hobby contest in 2025. Brick Fanatics suggests checking that the promo is actually in your cart before you pay."
+    },
+    {
+      "n": 6,
+      "headline": "Suspected shark knocks a fisherman off his kayak a mile off California's coast, forcing him to swim to shore",
+      "cat": "USA / Outdoors",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/us/suspected-shark-knocks-fisherman-off-kayak-mile-california-coast-forcing-swim-shore",
+      "image_local": "",
+      "image_remote": "",
+      "id": "3fa25002e2dca2a1a10031442cac77c45729a309",
+      "summary": "A fisherman was paddling about a mile off Leffingwell Landing in Cambria, California, around 9:30 a.m. Monday when something hit the underside of his kayak and threw him into the water, the Cambria Fire Department said. He climbed back on and headed for shore, but punctures in the hull flooded the kayak, so he swam the rest of the way and made it in uninjured. Firefighters later used a rescue boat to recover the damaged kayak and his gear. Dr. Chris Lowe of Cal State Long Beach's Shark Lab reviewed photos of the damage and said a shark was a reasonable suspect, though officials say that hasn't been confirmed. In May 2012, a shark hit a fishing kayak at the same spot."
+    },
+    {
+      "n": 7,
       "headline": "Israel's election heads toward stalemate: exit polls show neither Netanyahu nor Eisenkot with a majority",
       "cat": "World / Israel",
       "source": "CBS News",
@@ -13,7 +79,7 @@
       "summary": "Exit polls from Israel's major TV networks after Tuesday's vote suggest a majority of Israelis voted against Prime Minister Benjamin Netanyahu's coalition, but his Likud still came out as the single largest party and neither bloc reached the 61 seats needed to govern the 120-seat Knesset. AP-reported projections put Netanyahu's bloc at about 50 seats, the opposition led by former military chief Gadi Eisenkot at 52 to 53, and Arab parties at a record 17 to 18. Both camps have vowed not to form a government that relies on the Arab parties, so weeks of coalition jockeying, or even another election, may follow. Turnout topped 74% by 8 p.m. local time, the highest in decades, in the first national election since Hamas' Oct. 7, 2023, attack, widely seen as a referendum on Netanyahu's wartime leadership. Preliminary results are due within hours and final results in the coming days, and they may differ from the exit polls."
     },
     {
-      "n": 2,
+      "n": 8,
       "headline": "Luxury real estate brothers Alon, Oren and Tal Alexander each sentenced to 30 years for sex trafficking",
       "cat": "Crime / Courts",
       "source": "CBS News",
@@ -24,7 +90,7 @@
       "summary": "A federal judge in New York sentenced Alon and Oren Alexander, 39, and their brother Tal, 40, to 30 years in prison each on Tuesday, months after a jury convicted them in March on all 10 counts, including conspiracy to commit sex trafficking and sex trafficking by force, fraud or coercion. Prosecutors said the Miami-based brothers drugged and raped or sexually assaulted at least 70 women, including two teenagers, in a pattern that began when they were in high school, using their wealth and celebrity connections to lure victims. Alon and Oren were known as \"The A Team\" for brokering luxury homes in New York, Los Angeles and Miami; Tal worked at the family's private security firm. Several women gave tearful victim impact statements, one describing a Hamptons trip that became \"a mansion of horror.\" Prosecutors and victims had asked Judge Valerie Caproni for the maximum, while the defense sought the 15-year minimum and argued the encounters were consensual."
     },
     {
-      "n": 3,
+      "n": 9,
       "headline": "Penguins GM Kyle Dubas is 'open for business,' taking calls on Karlsson, Letang, Rust and Rakell",
       "cat": "Sports / Penguins",
       "source": "Russian Machine Never Breaks",
@@ -35,7 +101,7 @@
       "summary": "With the Penguins off to a 5-6-1 start, sixth in the Metropolitan Division, TSN's Darren Dreger reports that general manager Kyle Dubas is already listening to offers on veterans Erik Karlsson, Kris Letang, Bryan Rust and Rickard Rakell. Dreger said the focus under new owner David Hoffman, who bought the team from Fenway Sports Group, remains on getting younger, but Dubas is also working within a tight cash budget, not just the salary cap, and \"teams around the NHL are also aware that Dubas is open for business.\" Karlsson, 36, is the team's top scorer at a point a game, a pending unrestricted free agent with a $10 million cap hit and a no-movement clause that lets him veto any deal. Rust, 34, is out several weeks with a lower-body injury, and he and Rakell each carry about $5 million through 2027-28, which could make them easier to move. Nearly all of the core veterans are 33 or older and have started slowly."
     },
     {
-      "n": 4,
+      "n": 10,
       "headline": "Lita Ford releases 'Dracula,' her first new music in more than a decade, with an album on the way",
       "cat": "Music / Hard rock",
       "source": "Louder",
@@ -46,7 +112,7 @@
       "summary": "Former Runaways guitarist Lita Ford is back with a Halloween-friendly single and video, \"Dracula,\" her first new music since 2016's Time Capsule collection of lost recordings and her first release since signing with Italy's Frontiers Music earlier this month. Ford calls the song a tale of \"an entity that represents seduction and control, eventually draining you of your life,\" adding that \"there's something fun about flirting with disaster\" and that its moaning slide guitars are \"menacing.\" It was produced by Gary Hoey, who worked on her 2012 album Living Like a Runaway, and recorded with Hoey and longtime drummer Bobby Rock. Ford describes the coming album as a \"magical dark fairytale.\" She celebrates the release with shows this weekend at the Golden Nugget in Las Vegas on Friday and the Ladies of Rock Festival at Agua Caliente Resort Casino in Rancho Mirage, California, on Saturday."
     },
     {
-      "n": 5,
+      "n": 11,
       "headline": "Delaware sues Glock over illegal 'switches' while admitting in its own complaint that Glock doesn't make them",
       "cat": "Guns / Courts",
       "source": "Daily Caller",
@@ -57,7 +123,7 @@
       "summary": "Delaware Attorney General Kathy Jennings has sued Glock, claiming the gunmaker failed to stop criminals from illegally adding auto sears, known as \"Glock switches,\" that make its semiautomatic pistols fire fully automatic. The 82-page complaint asks a court to bar Glock from distributing pistols deemed \"easily convertible\" to civilians in the state and to pay restitution, damages and \"abatement of the public nuisance.\" \"Glock knew. They could have acted. They chose profit over people,\" Jennings said. Yet the complaint concedes that Glock does not manufacture the devices and that third parties make and distribute them, some stamped with a copied Glock logo without authorization. Delaware joins several states that have targeted the hugely popular handguns, either by trying to ban future sales or by suing the company, an approach gun-rights advocates say blames a lawful manufacturer for what criminals do with its products."
     },
     {
-      "n": 6,
+      "n": 12,
       "headline": "After years of air leaks, Russia is reportedly sealing off part of the International Space Station for good",
       "cat": "Science / Space",
       "source": "Gizmodo",
@@ -68,7 +134,7 @@
       "summary": "Roscosmos appears ready to permanently close the hatch between its Zvezda module and the PrK transfer tunnel, the source of a stubborn air leak first detected in 2019, according to Anatoly Zak of RussianSpaceWeb. NASA and Russia have tried several times to patch the leak without success and have disagreed over its cause and severity. Earlier this year five astronauts had to shelter in place while cosmonauts were told to use a saw to reach a suspected leak area, a method NASA officials warned could add risk to the structure. The first mission affected would be the Progress MS-36 cargo ship launching next month, which would be unloaded through the Poisk module instead of Zvezda. A Russian space analyst claims NASA pressured Roscosmos into sealing the tunnel. Neither agency has commented, and NASA did not answer Gizmodo before publication."
     },
     {
-      "n": 7,
+      "n": 13,
       "headline": "Historic Four Corners flooding could cost New Mexico alone $200 million to $300 million, governor says",
       "cat": "USA / Weather",
       "source": "NPR",
@@ -79,7 +145,7 @@
       "summary": "Intense rain tied to a very active El Niño-fueled Pacific hurricane season flooded parts of Colorado, New Mexico, Utah and Arizona last week, displacing thousands. Farmington, New Mexico, a city of about 46,000, was hit hardest after torrential rain on Colorado's San Juan mountains sent the San Juan River to about 14 feet, possibly a city record, with surges from two normally dry canyons. San Juan County officials called it \"a catastrophic flood of historic proportions\" and said crews, National Guard troops and out-of-state swift-water teams rescued 200 to 300 residents, some by helicopter off rooftops. Gov. Michelle Lujan Grisham said infrastructure damage alone could reach $200 million to $300 million. Colorado's South Fork saw neighborhoods under two to three feet of water, Sedona had sewage spills, and the Navajo and Hopi reservations reported washed-out roads and rescues. Officials are urging evacuees to stay out of contaminated floodwater for now."
     },
     {
-      "n": 8,
+      "n": 14,
       "headline": "iPhone 18 Pro sales fell 4% in the U.S. in their first three weeks, but China's 29% jump kept global sales up",
       "cat": "Apple / iPhone",
       "source": "9to5Mac",
@@ -90,7 +156,7 @@
       "summary": "A new Counterpoint Research report says U.S. sales of the iPhone 18 Pro and Pro Max dropped 4% in their first three weeks compared with the iPhone 17 Pro launch a year ago, while Japan fell a steep 27% as exchange rates amplified the price increases. China went the other way, with sales up 29% thanks to better early supply and price hikes on rival Chinese Android flagships, lifting global Pro-series sales 3.1%; without China, growth would have been far weaker. Counterpoint said U.S. buyers largely don't see meaningful feature or design improvements over last year's models, and that the bigger Pro Max took a slightly smaller share of Pro sales as higher prices pushed more people to the smaller Pro. The report did not give unit numbers."
     },
     {
-      "n": 9,
+      "n": 15,
       "headline": "Trumbull's five priciest homes for sale: a $1.8 million Tashua estate on 5 acres leads the list",
       "cat": "Local / Trumbull CT",
       "source": "Trumbull Patch",
@@ -101,7 +167,7 @@
       "summary": "Patch's roundup of Trumbull's most expensive listings on Zillow this week is led by 63 Coventry Lane in Tashua, a 7,257-square-foot, five-bedroom 1995 home on 5.15 acres listed at $1.8 million after a $95,000 cut, with a 17-foot marble-inlay foyer and a $100,000 kitchen. Second is new construction at 110 Porters Hill Road for $1.749 million, followed by a new Colonial on a 1.6-acre corner lot at 18 Timberlane Trail for $1.25 million. An updated 1989 house at 3 Crescent Lane in Tashua is listed at $1,249,900, and a waterfront contemporary on motor-free Canoe Brook Lake at 141 Canoe Brook Road, with its own dock, rounds out the top five at $1.2 million after a $100,000 cut and 143 days on the market. Prices and status are as of Oct. 26 and may change."
     },
     {
-      "n": 10,
+      "n": 16,
       "headline": "Flávio Bolsonaro reportedly leaves Brazil for the U.S. as a deadline to surrender his passports runs out",
       "cat": "World / Brazil",
       "source": "PBS NewsHour (AP)",
@@ -112,7 +178,7 @@
       "summary": "Defeated presidential candidate Flávio Bolsonaro has left Brazil for the United States after losing Sunday's runoff to President Luiz Inácio Lula da Silva, according to multiple media reports. His spokesperson did not respond to requests for comment. The reported departure came as a noon Tuesday deadline expired for him to hand over his regular and diplomatic passports under a sealed Supreme Court order served on him Monday, and it was unclear whether he had complied. His brother Eduardo, who lives in Texas, had publicly urged him to leave if he lost; Eduardo was convicted in absentia in June of illegally lobbying the Trump administration. Flávio, 45, has refused to concede and asked the electoral court to annul the result, alleging fraud without evidence, though he said in a video Monday that he had no plans to leave the country. Lula won by more than 4 million votes, about 4%, and results are certified Dec. 18. Flávio is under Supreme Court investigation in two corruption and money-laundering cases, and his father, former President Jair Bolsonaro, is serving a 27-year sentence under house arrest. President Trump said Monday, without evidence, that the election was “rigged.”"
     },
     {
-      "n": 11,
+      "n": 17,
       "headline": "Supreme Court refuses to revive a Biden-era rule letting immigration judges pause deportation cases; New Haven was one of the cities that asked",
       "cat": "Politics / Immigration",
       "source": "The Federalist",
@@ -123,7 +189,7 @@
       "summary": "The Supreme Court on Tuesday declined, with no noted dissents, to restore a Biden-era regulation that let immigration judges suspend some deportation proceedings, for example while a crime victim or witness seeks asylum or other relief. Texas had sued to end the rule, the Justice Department agreed, and Chief U.S. District Judge Reed O'Connor in Texas approved a consent judgment scrapping it. Three Democratic-led cities, Baltimore, Columbus, Ohio, and New Haven, Connecticut, joined immigrant legal group Centro Legal de la Raza in trying to intervene to save it. O'Connor ruled they lacked standing, rejecting the cities' argument that losing the rule would cost them money because their taxpayers were likely to be deported, and the 5th Circuit refused to pause the judgment. In its brief, the administration said the cities were trying to turn a narrow dispute over intervention into “a far-reaching attack on the merits” of the deal. The court's unsigned order gave no reasoning."
     },
     {
-      "n": 12,
+      "n": 18,
       "headline": "DNA ties Ted Bundy to the 1974 murder of Utah teen Melissa Ann Smith, 52 years to the day after her body was found",
       "cat": "Crime / Cold Case",
       "source": "CBS News",
@@ -134,7 +200,7 @@
       "summary": "Utah authorities said Tuesday that serial killer Ted Bundy murdered 17-year-old Melissa Ann Smith, a police chief's daughter whose body was found by deer hunters in a wooded area near the Summit and Salt Lake county line on Oct. 27, 1974. The case had stayed open for more than five decades. Summit County Attorney Margaret Olson said DNA evidence, together with Bundy's “pattern, motive, means and opportunity,” established that he was responsible. The break came through the case of another 17-year-old, Laura Ann Aime, who vanished after leaving a Halloween party days later in 1974; DNA in that case hit on Bundy in the national CODIS database, and investigators then found a highly similar profile in evidence preserved from Smith's autopsy. “This case demonstrates the importance of preserving evidence,” said Salt Lake County Sheriff Rosie Rivera. Bundy, who moved to Salt Lake City in 1974 to study law, was executed in Florida in 1989 and killed at least 30 women and girls in several states. A vial of his blood found in 2011 put his full DNA profile in the FBI database."
     },
     {
-      "n": 13,
+      "n": 19,
       "headline": "Microsoft offers voluntary buyouts to about 60,000 employees, roughly a quarter of its workforce, as AI spending soars",
       "cat": "Tech / Business",
       "source": "Mashable",
@@ -143,72 +209,6 @@
       "image_remote": "https://helios-i.mashable.com/imagery/articles/03b4IyMsr8bYYMnBdlAl3KQ/hero-image.fill.size_1200x675.v1793116140.jpg",
       "id": "51261ec97b3e261659769a9c1482f99a20bfc7b3",
       "summary": "Microsoft announced a voluntary buyout plan for employees in the United States, Canada, the United Kingdom and India in a Monday blog post. The company didn't give a number, but CBS News and other outlets report that about 60,000 employees, roughly a quarter of its global workforce, will receive the offer. Not everyone is expected to take it. “The Voluntary Exit Offer is new for us. We'll learn from it,” Chief People Officer Amy Coleman wrote, adding that the company will keep helping people build new skills and find other roles inside Microsoft. The move comes as Microsoft is expected to spend about $175 billion on AI infrastructure this year alone. The company has already cut thousands of jobs over the past two years, including several rounds at Xbox, while adding more AI features to Windows."
-    },
-    {
-      "n": 14,
-      "headline": "Pat McAfee invokes Charlie Kirk's killing after a University of Utah video mocked him before 'College GameDay'",
-      "cat": "Sports / Charlie Kirk",
-      "source": "Fox News (OutKick)",
-      "url": "https://www.foxnews.com/outkick-sports/pat-mcafee-invokes-charlie-kirk-killing-utah-post-sparks-uncomfortable-gameday-visit",
-      "image_local": "images/story-1510.jpg",
-      "image_remote": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/pat-mcafee-college-gameday-fox-news_.jpg",
-      "id": "49ad466b78f3e4f0c4084ff4566f5cea375c1bb1",
-      "summary": "ESPN's Pat McAfee said on his show Monday that a University of Utah Instagram video, posted shortly before Saturday's “College GameDay” in Salt Lake City, made him feel “very, very uncomfortable.” The video asked students to do impressions of him, and some called him “corny” and “creepy.” McAfee said he wouldn't have minded students saying it themselves, but the school posting it as he was about to walk out in front of thousands of fans “set me off a little bit.” He then pointed to the September 2025 assassination of Charlie Kirk at Utah Valley University, about 40 miles south: “Has anything like really scary happened at like a college gathering in the state of Utah recently? … Do we think we should be amplifying reasons for why people hate my guts as a university?” The video was taken down, and Utah apologized, saying it aimed for “lighthearted engagement” but “missed the mark,” and that “nothing could be further from the truth” than any perception he was unsafe. McAfee had picked Houston “10 times out of 10” and signed off with “I'll never see you again, hopefully.” Utah won 21-13."
-    },
-    {
-      "n": 15,
-      "headline": "Trumbull volleyball's perfect season ends in a five-set loss at Greenwich; field hockey ties Ridgefield 1-1",
-      "cat": "Local / Trumbull CT",
-      "source": "FCIAC",
-      "url": "https://www.fciac.net/1216400/fciac-scoreboard-and-schedule-for-oct-26-28/",
-      "image_local": "",
-      "image_remote": "",
-      "id": "1e2df2d44ae2f14c747b40d9f3e79d7e77ad6ce3",
-      "summary": "Trumbull High's girls volleyball team, 16-0 going into the week, lost for the first time this season Monday night, falling 3-2 at Greenwich in a match that went the distance: 17-25, 25-20, 25-15, 26-28, 15-8. Trumbull took the first set and forced a fifth by winning a 26-28 fourth, but Greenwich ran away with the tiebreaker. Kayah Armstrong led Greenwich with 16 kills, Heidi Zieme added 10, Victoria Sullivan had 31 assists, and libero Bailee Dayon finished with 33 digs. Also Monday, Trumbull field hockey played Ridgefield to a 1-1 tie. Volleyball is back on the court Wednesday at Bridgeport Central at 6 p.m."
-    },
-    {
-      "n": 16,
-      "headline": "Jets add a defensive tackle to the practice squad as T'Vondre Sweat's knee injury looks like it could keep him out a while",
-      "cat": "Sports / Jets",
-      "source": "Heavy",
-      "url": "https://heavy.com/sports/nfl/new-york-jets/amari-mcneill-tvondre-sweat-chiefs-move/",
-      "image_local": "",
-      "image_remote": "",
-      "id": "b6ffcb000adf83d01e077f683cd39ed5cd2cca96",
-      "summary": "The Jets signed former Chiefs undrafted rookie Amari McNeill to the practice squad Tuesday, a move that adds depth after nose tackle T'Vondre Sweat hurt his knee in Sunday's loss to the Dolphins. Sweat went down in the second quarter when defensive back Dane Belton, chasing a scrambling Malik Willis, accidentally slammed into him. He walked off with a limp and was ruled out, and coach Aaron Glenn has not given an update. ESPN's Rich Cimini said Sweat, the team's best run stuffer, “is going to be down for a while,” and that rookie Darrell Jackson Jr. would probably move into the starting role, with David Onyemata still on injured reserve. The 6-foot-4, 366-pound Sweat came over from Tennessee this offseason in a swap for pass rusher Jermaine Johnson and had 17 tackles in seven games. McNeill, who played at Tennessee and Colorado, had a sack in the preseason for Kansas City. The Jets face the Raiders on Sunday."
-    },
-    {
-      "n": 17,
-      "headline": "KISS announces 'End of the Road,' a documentary on its final tour, premiering with a livestream Nov. 19",
-      "cat": "Music / Hard Rock",
-      "source": "Blabbermouth",
-      "url": "https://blabbermouth.net/news/kiss-announces-new-end-of-the-road-documentary-focusing-on-final-tour",
-      "image_local": "images/story-1511.jpg",
-      "image_remote": "https://assets.blabbermouth.net/media/kissendoftheroaddococt2026_638.jpg",
-      "id": "9f3bae400553132dd6f9c4eb23b9d3fbea8a0c46",
-      "summary": "KISS will release “Kiss: End of the Road,” a documentary about the farewell world tour that ended with the band's last shows at Madison Square Garden. Directed by DJ Viola, the film had full access to the tour and covers the camaraderie, conflicts and emotion of the run, plus how the band plans to carry its legacy forward. It premieres with a live streaming event on KissOnline.com on Nov. 19, presented by Mercury Studios, the company behind the livestream of Ozzy Osbourne's final show, before moving to other platforms. Pre-orders start at $14.99 and include a seven-day viewing window. “The documentary takes everyone along with us to see and be a part of all the unseen moments that made this last tour one of the wildest, most memorable rides of our career,” Paul Stanley said. Gene Simmons said the Garden shows “were full of raw energy” and the film shows them from the inside “for the very first time.”"
-    },
-    {
-      "n": 18,
-      "headline": "ChatGPT can now read and send your iCloud Mail and manage your iCloud Calendar",
-      "cat": "Apple / AI",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/10/27/chatgpt-icloud-mail-calendar-plugin/",
-      "image_local": "images/story-1512.jpg",
-      "image_remote": "https://images.macrumors.com/t/YyQOPHtncbrpeB3tj10riaKfVTs=/2250x/article-new/2023/06/General-macOS-Mail-Feature.jpg",
-      "id": "c0c1576592fd1e38f8ce4389f5e819d8d246b7a5",
-      "summary": "OpenAI added iCloud Mail and iCloud Calendar plugins to ChatGPT on Tuesday. With the calendar plugin, ChatGPT can read, schedule and update events that show up in the iPhone's Calendar app or any other app that uses iCloud Calendar. The mail plugin lets it search and read iCloud Mail, manage messages and drafts, send email and look up iCloud contacts. It only works with Apple addresses ending in @icloud.com, @me.com or @mac.com, not with Gmail, Outlook or other accounts in the Mail app, and you have to create an app-specific password for each service. The plugins give ChatGPT some of the same access to personal data that Apple's Siri AI has, and they also work with Dots, the proactive AI agent OpenAI launched last month. They're available on every ChatGPT plan, on the web, desktop and iOS."
-    },
-    {
-      "n": 19,
-      "headline": "Melting glaciers in Italy's Dolomites gave up more than 250 unexploded World War I bombs this summer",
-      "cat": "World / History",
-      "source": "Gizmodo",
-      "url": "https://gizmodo.com/melting-glaciers-expose-more-than-250-unexploded-wwi-bombs-in-the-dolomites-2000831148",
-      "image_local": "images/story-1513.jpg",
-      "image_remote": "https://gizmodo.com/app/uploads/2026/10/WWI-bombs-1200x675.jpg",
-      "id": "359ece8bbb39549a675dc42208e60aba0e830b49",
-      "summary": "Italian Army troops from the Julia Alpine Brigade removed and defused more than 250 explosives this summer that had melted out of glaciers and high-altitude sites in the Trentino Alto Adige region, Italy's ANSA news agency reports. They included 18 Italian 75mm artillery shells and 37 French-made mortar shells, left behind from the “White War” fought between Austro-Hungarian and Italian troops from 1915 to 1918. An estimated 150,000 to 180,000 soldiers died in that mountain war, and only about a third were killed in combat; the rest died in avalanches, landslides, frostbite and hypothermia. The Dolomites had 33 glaciers in the late 1950s and now have 12, and summer 2026 was the hottest on record in Trentino and the Piedmont region. Retreating ice has been exposing relics of the war since the 1990s, including weapons, cave shelters, sleds, letters, diaries and even the bodies of soldiers still in uniform."
     },
     {
       "n": 20,

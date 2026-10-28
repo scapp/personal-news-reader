@@ -1700,7 +1700,13 @@
     "4c39eb291e9bf8d4fe0dfd219bc494202ab227d5",
     "9306fffba3f5f0ee7ff80d358ee3f2691fd98eb3",
     "231aa6188bc2b8f91b074e31fbee4528ac1ce34e",
-    "157980327c504907e0cbf624de9bd52187f69128"
+    "157980327c504907e0cbf624de9bd52187f69128",
+    "62028ebb2a3545cf18d3c03bb10229ebd3e6ba64",
+    "4a21635c23fc71f4bc3f7b0fa4a8e6ae49dab791",
+    "b76b146435f9282f277e9a5e4cd32ab23135f1c2",
+    "92f815c6ff5a1e08450c5a306c655a382ec245ff",
+    "8d05088fe2d567c42df668ddf45b75c8c5ae9259",
+    "3fa25002e2dca2a1a10031442cac77c45729a309"
   ],
   "stories": {
     "0c2ac7a5e342411678296315c4c59043b1f067cc": {
@@ -20068,7 +20074,67 @@
       "image_remote": "",
       "image_local": "",
       "id": "157980327c504907e0cbf624de9bd52187f69128"
+    },
+    "62028ebb2a3545cf18d3c03bb10229ebd3e6ba64": {
+      "headline": "Apple's OLED touchscreen MacBook Pro could start at $2,899, $400 more than today's model, on the eve of its unveiling",
+      "cat": "Apple / Mac",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/27/oled-macbook-pro-pricing/",
+      "summary": "Hours before Apple's \"Pro and tell\" event, a report relayed by MacRumors says Apple has discussed charging $2,899 for the 14-inch OLED touchscreen MacBook Pro, $400 more than the current $2,499 M5 Pro model. If the 16-inch version gets the same bump it would start at $3,399, and it may cost even more. The new machines add OLED touchscreens, a Dynamic Island, a redesigned hinge that keeps the display steady when touched, thinner bezels, a slimmer and lighter body and a reworked cooling system that pulls air through the hinge, while keeping the same M5 Pro and M5 Max chips. Apple is expected to keep selling the existing mini-LED MacBook Pros as a cheaper, non-touch option. The OLED models are due to be unveiled Wednesday morning, with pre-orders opening at 10:10 a.m. Pacific alongside the OLED iPad mini, the M6 iMac and the entry-level M6 MacBook Pro.",
+      "image_remote": "https://images.macrumors.com/t/r-a84FeRhyCsmSrCJOuSvSywz14=/2100x/article-new/2026/10/MacBook-Pro-Dynamic-Island-multicolor.jpg",
+      "image_local": "images/story-1522.jpg",
+      "id": "62028ebb2a3545cf18d3c03bb10229ebd3e6ba64"
+    },
+    "4a21635c23fc71f4bc3f7b0fa4a8e6ae49dab791": {
+      "headline": "They bought cabins to live aboard a luxury cruise ship. Soaring fuel costs just got them kicked off in Cambodia",
+      "cat": "World / Travel",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/news/us-news/luxury-cruise-ship-high-fuel-costs-got-kicked-cambodia-rcna606031",
+      "summary": "Residents of The Odyssey, a 642-foot \"residential\" cruise ship run by Florida-based Villa Vie Residences, were ordered off the vessel in Cambodia on Tuesday after the company halted operations, blaming soaring fuel costs since the war with Iran began. The ship, which left Belfast three years ago promising a life of luxury travel around the world, can house 650 residents and was said to be 85% sold. The company said cutting fuel use could not offset the price spike and that passing the cost on to residents wasn't realistic. It is now looking for temporary housing for passengers while it attempts a restructuring and recapitalization over the next 60 days, adding that \"no outcome is assured.\" One resident said a note appeared on the ship's message board early Monday announcing a \"temporary lay up\" and telling everyone to disembark by 2 p.m.",
+      "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261027-Villa-Vie-Residences-vsb-1933-3293f4.jpg",
+      "image_local": "images/story-1523.jpg",
+      "id": "4a21635c23fc71f4bc3f7b0fa4a8e6ae49dab791"
+    },
+    "b76b146435f9282f277e9a5e4cd32ab23135f1c2": {
+      "headline": "Cheap Trick reportedly cancel all of their 2027 tour dates and head into an open-ended hiatus",
+      "cat": "Music / Classic Rock",
+      "source": "Louder",
+      "url": "https://www.loudersound.com/bands-artists/cheap-trick-have-reportedly-cancelled-all-of-next-years-tour-dates",
+      "summary": "Cheap Trick appear to be taking an extended break: several venues booked for 2027, including Harrah's Cherokee in North Carolina, Thunder by the Bay in Sarasota, the Seminole Casino Hotel in Immokalee and Wild Adventures in Valdosta, Georgia, have cancelled their shows. Harrah's said that \"after many years of touring,\" the band has decided to take an unspecified amount of time off. The band hasn't confirmed the hiatus itself, and the rest of this year's All Washed Up tour, which resumes Nov. 5 in Fort Wayne, Indiana, and wraps Nov. 22 in Detroit, is still on sale. The news comes days after guitarist Rick Nielsen said an MRI had shown he does not have cancer, following a September show in Aurora, Illinois, where he had breathing trouble and briefly left the stage. The band also cancelled four concerts and postponed three in June.",
+      "image_remote": "https://cdn.mos.cms.futurecdn.net/GAxUfnh2EHPMj6bajcwyeW-1097-80.jpg",
+      "image_local": "images/story-1524.jpg",
+      "id": "b76b146435f9282f277e9a5e4cd32ab23135f1c2"
+    },
+    "92f815c6ff5a1e08450c5a306c655a382ec245ff": {
+      "headline": "Fires burn near a major Russian steel plant in Lipetsk after a reported Ukrainian strike",
+      "cat": "World / Ukraine",
+      "source": "Kyiv Independent",
+      "url": "https://kyivindependent.com/fires-burn-in-russian-city-of-lipetsk-after-reported-ukrainian-attack/",
+      "summary": "Explosions were heard and fires broke out in the Russian city of Lipetsk late Tuesday after a reported Ukrainian attack, according to the Ukrainian monitoring channel Exilenova Plus, which said a fire started near the Novolipetsk Metallurgical Plant after air defenses opened up. Local authorities had not commented, and the reports could not be independently verified. A 2025 Ukrainska Pravda investigation found the plant supplies Russian companies that build air defense systems, drones and missiles. Ukraine has sanctioned it, and Canada and Australia have sanctioned its billionaire owner, Vladimir Lisin. The strike came the same day Russian missiles hit Kyiv, killing at least one person, injuring 15 and damaging a university campus, a major bridge and medical facilities. Ukrainian drones also reportedly hit an ammunition depot in occupied Luhansk overnight.",
+      "image_remote": "https://assets.kyivindependent.com/content/images/2026/10/Screenshot-2026-10-27-at-6_16_13-PM_20261027-223416_20261027-230624.png",
+      "image_local": "images/story-1525.jpg",
+      "id": "92f815c6ff5a1e08450c5a306c655a382ec245ff"
+    },
+    "8d05088fe2d567c42df668ddf45b75c8c5ae9259": {
+      "headline": "LEGO's free Ideas gift with purchase, 40889 Build, Paint and Play, is live now with a Classic Space twist",
+      "cat": "LEGO",
+      "source": "Brick Fanatics",
+      "url": "https://www.brickfanatics.com/free-lego-ideas-gift-available-classic-space-twist",
+      "summary": "LEGO's latest gift with purchase, LEGO Ideas 40889 Build, Paint and Play, is now available free with orders of $130 or more at LEGO.com and LEGO Stores, through Nov. 8 or while supplies last. It went live in the UK and Europe first and may take a few hours to show up in the U.S. The 158-piece set is a brick-built hobby bench with a cutting board, glue, paint, brushes and a decal sheet. Classic Space fans will want it for a teal astronaut minifigure and the first-ever grey versions of the classic space helmet and air tank. It started as a fan design by Doomslizer that won LEGO Ideas' Build Your Hobby contest in 2025. Brick Fanatics suggests checking that the promo is actually in your cart before you pay.",
+      "image_remote": "https://www.brickfanatics.com/bf-derivatives/webp/dff08f962d6465cac7f627c09d5fc6637a4476e0dedeb9a03fb18039b4c0d6fe.webp",
+      "image_local": "images/story-1526.jpg",
+      "id": "8d05088fe2d567c42df668ddf45b75c8c5ae9259"
+    },
+    "3fa25002e2dca2a1a10031442cac77c45729a309": {
+      "headline": "Suspected shark knocks a fisherman off his kayak a mile off California's coast, forcing him to swim to shore",
+      "cat": "USA / Outdoors",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/us/suspected-shark-knocks-fisherman-off-kayak-mile-california-coast-forcing-swim-shore",
+      "summary": "A fisherman was paddling about a mile off Leffingwell Landing in Cambria, California, around 9:30 a.m. Monday when something hit the underside of his kayak and threw him into the water, the Cambria Fire Department said. He climbed back on and headed for shore, but punctures in the hull flooded the kayak, so he swam the rest of the way and made it in uninjured. Firefighters later used a rescue boat to recover the damaged kayak and his gear. Dr. Chris Lowe of Cal State Long Beach's Shark Lab reviewed photos of the damage and said a shark was a reasonable suspect, though officials say that hasn't been confirmed. In May 2012, a shark hit a fishing kayak at the same spot.",
+      "image_remote": "",
+      "image_local": "",
+      "id": "3fa25002e2dca2a1a10031442cac77c45729a309"
     }
   },
-  "updated": "Tuesday, October 27, 2026 · 6:10 PM ET"
+  "updated": "Tuesday, October 27, 2026 · 10:10 PM ET"
 }
