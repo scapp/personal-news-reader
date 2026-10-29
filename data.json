@@ -1,8 +1,107 @@
 {
-  "updated": "Thursday, October 29, 2026 · 11:37 AM ET",
+  "updated": "Thursday, October 29, 2026 · 4:11 PM ET",
   "stories": [
     {
       "n": 1,
+      "headline": "Patrick Stewart, Star Trek's Captain Picard and X-Men's Professor X, dies at 86",
+      "cat": "Entertainment / Obituary",
+      "source": "Consequence",
+      "url": "https://consequence.net/2026/10/patrick-stewart-dead/",
+      "image_local": "images/story-1575.jpg",
+      "image_remote": "https://consequence.net/wp-content/uploads/2026/10/Patrick-Stewart.jpeg",
+      "id": "4db80bd626b5c9beca7e2d32ee8bf557acc05573",
+      "summary": "Patrick Stewart, the stage-trained actor who became Captain Jean-Luc Picard on \"Star Trek: The Next Generation\" and Professor Charles Xavier in the \"X-Men\" films, has died at 86. A statement on his official social media pages said he died Wednesday at his home in Los Angeles with his wife Sunny, after a \"brief and poignant journey\" with Alzheimer's disease and Lewy body dementia. Born in 1940 in Yorkshire, England, Stewart joined the Royal Shakespeare Company in 1966 and long considered the stage his home; he once said he wouldn't want to do science fiction. He took the Picard job expecting the show to flop quickly, but it ran seven seasons and made him a household name, and he later said he couldn't tell where Jean-Luc left off and Patrick Stewart began. He played Professor X in eight films, returned for three seasons of \"Star Trek: Picard\" ending in 2023, and will appear as Xavier one last time in \"Avengers: Doomsday.\""
+    },
+    {
+      "n": 2,
+      "headline": "Christine Lagarde will step down as European Central Bank president in February, nine months early",
+      "cat": "World / Economy",
+      "source": "Daily Caller",
+      "url": "https://dailycaller.com/2026/10/29/christine-lagarde-steps-down-european-central-bank-world-economic-forum",
+      "image_local": "images/story-1576.jpg",
+      "image_remote": "https://images.dailycaller.com/image/width=1280,height=549,fit=cover,format=webp,f=auto/https://cdn01.dailycaller.com/wp-content/uploads/2026/10/GettyImages-2163647109%202.jpg",
+      "id": "6a95715ad9d6c087294844abf74c1bce606e0948",
+      "summary": "European Central Bank President Christine Lagarde announced Thursday in a video on X that she will step down Feb. 7, 2027, nearly nine months before her term was due to end. The 70-year-old former head of the International Monetary Fund said she is leaving \"because I want to have the freedom of speech, the freedom of expression, and the freedom to engage on matters that are not monetary policy matters.\" Her tenure steering monetary policy for the eurozone ran through the pandemic, a massive bond-buying program to hold the currency bloc together, and the energy shock after Russia invaded Ukraine, which pushed the ECB from negative rates to fighting runaway inflation. The announcement came the same day the ECB held interest rates steady and warned that rising energy prices could push inflation higher and weaken growth. French President Emmanuel Macron, whose government she once served as finance minister, thanked her and said the handover should be prepared in an orderly way with European partners."
+    },
+    {
+      "n": 3,
+      "headline": "Polymarket halts trading after hackers get in through a vendor and drain user wallets",
+      "cat": "Business / Crypto",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/business/consumer/polymarket-trading-halt-hack-wallets-rcna606405",
+      "image_local": "images/story-1577.jpg",
+      "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261029-Polymarket-ch-1457-e04c7f.jpg",
+      "id": "04c7874916b568d1c59ef20346dad4138ffd1153",
+      "summary": "Prediction market Polymarket halted trading on its international platform for nearly an hour Thursday after what it called a compromise of third-party software, and users on its Discord reported their wallets had been drained. A person familiar with the details told NBC News the hackers got in through software from DebugBear, a website analytics and performance tool that said around 2 p.m. ET it was dealing with an \"ongoing security incident.\" Crypto site The Block reported about $2.65 million was taken from users' wallets, citing blockchain analysts at Arkham; Polymarket wouldn't comment on the figure but said \"we'll make this right and are fully reimbursing all affected traders.\" The company said the attack appeared to come from the United Kingdom and referred it to British law enforcement. Its U.S. platform did not appear to be affected. Polymarket was valued at $21 billion in September after investors led by Donald Trump Jr. put in $1 billion, and it handles about $200 million in trades a day."
+    },
+    {
+      "n": 4,
+      "headline": "GM will pay $220 million to settle claims it sold drivers' data to brokers that fed insurers",
+      "cat": "Cars / Privacy",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/transportation/1022555/gm-data-privacy-attorneys-general-lawsuit",
+      "image_local": "images/story-1578.jpg",
+      "image_remote": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2255455204.jpg?quality=90&strip=all&crop=0%2C10.737892056687%2C100%2C78.524215886627&w=1200",
+      "id": "cf9641e5406c7afce06a883b5552f1c5f53e7894",
+      "summary": "General Motors has agreed to pay $220 million to settle claims from a coalition of 36 state attorneys general, including Connecticut's, that it illegally sold driver and location information to data brokers. The case centers on GM's now-discontinued Smart Driver program, which tracked driving habits such as acceleration, braking and trip length. The states say GM passed that data to brokers, letting insurance companies buy it and raise premiums, and failed to tell drivers they were enrolled or that their data was being collected. The settlement also requires GM to limit the driving data it collects and get \"express consent\" from drivers before collecting it. It comes months after GM paid $12.75 million to settle similar claims in California. \"People bought a car, not a tracking device,\" said Oregon Attorney General Dan Rayfield, who co-led the case with Washington's attorney general. \"Our investigation found GM sold that data anyway, and some drivers paid for it with higher premiums.\""
+    },
+    {
+      "n": 5,
+      "headline": "Judge blocks Trump administration rule making chronically ill Medicaid patients prove they can't work",
+      "cat": "Politics / Health",
+      "source": "PBS NewsHour (AP)",
+      "url": "https://www.pbs.org/newshour/politics/judge-blocks-trump-administrations-medicaid-work-requirement-rule-forcing-proof-of-medical-frailty",
+      "image_local": "",
+      "image_remote": "",
+      "id": "2462c67a96eb032298c4b5c6d829c543b9e6637e",
+      "summary": "A federal judge in Boston on Thursday blocked part of the Trump administration's new Medicaid work requirement rules, siding partly with 25 states and the District of Columbia. The 2025 tax and policy law requires many adults on Medicaid expansion, ages 19 to 64, to work, volunteer or go to school at least 80 hours a month starting Jan. 1, with exemptions for people who are \"medically frail.\" The law lists who counts, including people who are blind or disabled or have serious medical conditions or substance use disorders, but federal guidance added a requirement that those conditions also \"significantly impair\" their ability to meet the work rules. U.S. District Judge Richard Stearns blocked that added test, saying the states showed irreparable harm. He did not strike down the work requirements themselves, and he upheld rules letting states reject frailty diagnoses more than a year old and accept only one self-attestation per enrollment period."
+    },
+    {
+      "n": 6,
+      "headline": "Reddit plans to make everyone log in to read the site",
+      "cat": "Tech",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1022571/reddit-login-requirement-q3-2026-earnings",
+      "image_local": "images/story-1579.jpg",
+      "image_remote": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK115_Reddit_04.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "id": "ffa2578e2501f1ec0ae55001fa011dfa2f46248c",
+      "summary": "Reddit is going to start requiring people to log in, ending two decades of letting anyone browse without an account, CEO Steve Huffman announced alongside the company's third-quarter earnings Thursday. There's no firm timeline: Reddit will first test the requirement in \"select markets outside the US\" in the coming months and decide how far to take it. Huffman says the change is better for users and for advertising and is \"more protective of Reddit data,\" since the \"vast majority\" of unauthorized scraping happens through logged-out access. He says Reddit doesn't need to know who you are, only that you're logged in, and it is also bringing back a rebuilt incognito mode in its app. The company said search traffic fell \"meaningfully\" in the quarter, by more than 1 million referrals a week on average in October, while app and logged-in users already bring in over 80% of its revenue. It's unclear what people will see if they open a shared Reddit link without an account."
+    },
+    {
+      "n": 7,
+      "headline": "Harley's electric spinoff LiveWire loses its CEO and warns it may not survive another year",
+      "cat": "Motorcycles",
+      "source": "RideApart",
+      "url": "https://www.rideapart.com/news/813771/harley-davidson-livewire-ceo-out-restructuring-plan-ev-motorcycles/",
+      "image_local": "images/story-1580.jpg",
+      "image_remote": "https://cdn.motor1.com/images/mgl/XBGJ0l/s1/livewire-s2-del-mar---livewire-badge-closeup.jpg",
+      "id": "5c587964c21157536d3eb3b924f80a918f3d0f14",
+      "summary": "LiveWire, Harley-Davidson's electric motorcycle brand, is restructuring after CEO Karim Donnez resigned effective immediately last week and the company brought in Roy Gallagher of Ankura Consulting Group as chief restructuring officer, at a cost of $140,000 a month. In its third-quarter financial statements, LiveWire said its recurring losses, negative cash flow and limited liquidity \"raise substantial doubt\" about its ability to continue as a going concern over the next year, with substantial debt coming due next year. The brand has never sold much more than 1,000 bikes in a year. RideApart says its smartest moves came this year: buying EV dirt bike startup Dust Moto and launching the small Honcho pit and city bike, both aimed at markets riders actually want. The shake-up comes just before LiveWire is expected to show the production Dust Hightail electric dirt bike at the EICMA motorcycle show in Milan next week."
+    },
+    {
+      "n": 8,
+      "headline": "Divers pull a 3,300-year-old Bronze Age sword from an Italian crater lake, and it's still sharp",
+      "cat": "Science / History",
+      "source": "Gizmodo",
+      "url": "https://gizmodo.com/archaeologists-fished-a-3300-year-old-sword-from-a-volcanic-crater-lake-and-its-still-sharp-2000832478",
+      "image_local": "images/story-1581.jpg",
+      "image_remote": "https://gizmodo.com/app/uploads/2026/10/mezzano-lake-bronze-age-sword-held-up-by-diver-1200x675.jpg",
+      "id": "e37f0ee922e38520a3aa882d770b9b47ee8a5123",
+      "summary": "Underwater archaeologists working at Lake Mezzano, a volcanic crater lake in central Italy, have recovered a Bronze Age sword from the 13th century BCE that authorities say is still exceptionally sharp. The find was announced by Italy's archaeology superintendency for the Viterbo province and southern Etruria, whose underwater team worked with the Carabinieri's Rome dive unit. They also brought up axes, arrowheads, daggers, spearheads, pins and a razor. It is the third sword found at the site since the 1970s. Archaeologists say the objects point to a pile-dwelling village on the lake during the Late Bronze Age, and that metal weapons left in lakes are often read as deliberate offerings tied to water rituals. The metal pieces were found at roughly the same depth across the area surveyed. The team plans more research at the site, and the artifacts will go on display in a special exhibition."
+    },
+    {
+      "n": 9,
+      "headline": "Sirui's new Swift autofocus primes are compact full-frame lenses for $149 each",
+      "cat": "Cameras",
+      "source": "PetaPixel",
+      "url": "https://petapixel.com/2026/10/29/siruis-first-swift-series-full-frame-lenses-are-just-149/",
+      "image_local": "images/story-1582.jpg",
+      "image_remote": "https://petapixel.com/assets/uploads/2026/10/sirui-20-40-swift-featured.jpg",
+      "id": "5846ebbdb3b1a3ce544f1a43f01abfac1a3b3fef",
+      "summary": "Sirui has launched Swift, a new line of compact, inexpensive full-frame autofocus lenses, starting with a 20mm f/2.4 and a 40mm f/2.2 at $149 each. They come in Sony E-mount and L-Mount for full-frame cameras plus Fujifilm X-mount for APS-C bodies. Both weigh about 210 grams (7.4 ounces), are around 2.4 inches long and take 58mm filters. The optics are all glass, with 11 elements each, two ED elements and aspherical elements, and nine-blade apertures. Unlike some recent budget primes, they keep a manual focus ring that turns 360 degrees and add an aperture ring with an auto \"A\" setting. They aren't macro lenses, with a maximum magnification of about 1:7.3. Pre-orders are open now directly from Sirui, with other retailers expected to carry them by the Nov. 6 release date."
+    },
+    {
+      "n": 10,
       "headline": "Ernie Johnson says this season will be his last hosting 'Inside the NBA'",
       "cat": "Sports / NBA",
       "source": "NBC News",
@@ -13,7 +112,7 @@
       "summary": "Ernie Johnson, the longtime host of \"Inside the NBA,\" announced Wednesday that this season behind the desk will be his last, ending a 37-year run alongside Shaquille O'Neal, Kenny Smith and Charles Barkley. Johnson, 70, said the daily preparation he has always prided himself on has become \"more of a challenge than it is a joy,\" and that he always vowed to step away when that happened. He has dealt with heart disease and had bypass surgery 14 months ago, and he was previously diagnosed with non-Hodgkin's lymphoma in 2003 and prostate cancer in 2019. The show began on TNT and TBS in 1990 and moved to ESPN last year. His exit raises questions about Barkley's future, since Barkley has called the two of them \"a package deal.\" Barkley appeared to fight back tears on ESPN, saying fans always ask whether Johnson is as good a person as he seems, and \"I say, 'Man, he's better than that.'\""
     },
     {
-      "n": 2,
+      "n": 11,
       "headline": "DoorDash is buying Instacart for $17 billion to build a grocery delivery giant",
       "cat": "Business / Tech",
       "source": "CBS News",
@@ -24,7 +123,7 @@
       "summary": "DoorDash said Thursday it will buy Instacart for $17 billion, or $65 a share, combining the biggest U.S. food delivery company with a major grocery delivery service and making it a stronger rival to Amazon and Walmart. DoorDash says Instacart customers could shop at more than 50,000 additional stores on top of the nearly 100,000 already on Instacart, and that more supermarkets will be able to run their websites on Instacart's platform. DoorDash held nearly 61% of the food delivery market at the end of 2024, while Instacart's share of U.S. delivery spending has slipped to 18% from 26% five years ago. The deal lands as the Federal Trade Commission opened a probe Thursday into how DoorDash, Instacart and seven other companies set prices, after an advocacy group found identical Instacart items varied by up to 23% between shoppers. The companies will run separately until the merger closes, expected in late 2027 or early 2028."
     },
     {
-      "n": 3,
+      "n": 12,
       "headline": "HomePod mini 2 arrives Friday at $149, but its Siri AI upgrade comes later",
       "cat": "Apple",
       "source": "MacRumors",
@@ -35,7 +134,7 @@
       "summary": "After more than two weeks of pre-orders, Apple's HomePod mini 2 starts arriving to customers and goes on sale in stores Friday, Oct. 30, for $149 in the U.S., in new green and pink plus blue, midnight and white. One of its headline features, the smarter Apple Intelligence-powered Siri AI, won't be there at launch; Apple says it will come in a future software update but hasn't said when. The speaker moves to the S10 chip from the Apple Watch Series 10 for \"advanced computational audio,\" though Apple hasn't said outright that it sounds better. It has three microphones instead of four. With the new Apple TV 4K you can pair four HomePod mini 2 or HomePod 2 speakers as front and rear pairs for basic surround sound, and Macs with Wi-Fi 6E or later can use it as their default speaker. The new Sound Glow light effect also comes to older HomePods through a software update."
     },
     {
-      "n": 4,
+      "n": 13,
       "headline": "Trumbull starts a pumpkin drop-off at the Transfer Station after Halloween",
       "cat": "Local / Trumbull CT",
       "source": "Town of Trumbull",
@@ -46,7 +145,7 @@
       "summary": "The Town of Trumbull has posted what to do with leftover Halloween pumpkins, including a new pilot program at the Transfer Station. From Nov. 2 to 20, residents can drop pumpkins in a clearly marked dumpster there. After that, pumpkins can go on the organic brush pile at the Transfer Station along with hay bales and cornstalks. Pumpkins can also be set out with your leaf pile and will be picked up during regular curbside leaf collection with no extra steps. Or you can compost them at home: chop them up, remove the seeds, bury the pieces and cover them with 6 to 10 inches of soil, and keep critters away by securing trash and leaving meat and oils out of the pile. The town asks that you compost only pumpkins with no paint, glitter, stickers or other synthetic decorations."
     },
     {
-      "n": 5,
+      "n": 14,
       "headline": "Skid Row name New Jersey singer Justin Sargent as their new frontman and cover The Who",
       "cat": "Music / Hard rock",
       "source": "Loudwire",
@@ -57,7 +156,7 @@
       "summary": "Skid Row have picked Justin Sargent, a fellow New Jersey native found through an open audition earlier this year, as their new singer. The band spent months rehearsing with him before deciding, after parting ways with Erik Gronwall in 2024; Halestorm's Lzzy Hale filled in for a few shows that year. Co-founder Rachel Bolan said it felt like Sargent \"had been here from the beginning,\" and that he sang \"with so much power and conviction, it blew me away.\" Sargent said he'd been singing Skid Row songs for years but \"never imagined I'd actually be joining the band.\" Their first release together is a cover of The Who's \"Won't Get Fooled Again,\" on streaming services Friday. They also announced 2027 tour dates starting March 5 in Rancho Mirage, California, including Foxwoods in Mashantucket, Connecticut, on April 9 and the Welcome to Rockville and Sonic Temple festivals in May."
     },
     {
-      "n": 6,
+      "n": 15,
       "headline": "The Gibson SG Pete Townshend broke onstage in 1970 and handed to a superfan resurfaces after 56 years",
       "cat": "Music / Guitar",
       "source": "Guitar World",
@@ -68,7 +167,7 @@
       "summary": "Pete Townshend's 1969 Cherry Red Gibson SG Special, broken onstage at the Who's chaotic June 7, 1970, show at New York's Metropolitan Opera House, has resurfaced and is headed to Matt's Guitar Shop in Paris. Founder Matthieu Lucas, who earlier this year tracked down Eric Clapton's long-lost \"Summersburst\" Les Paul, told Guitar World the damage was not planned: Townshend brushed his Hiwatt amps mid-solo during \"Shakin' All Over,\" went badly out of tune and threw the guitar down, then stepped on it and cracked the headstock. He looked at superfan Binky Philips, who was at his 17th Who show, and said, \"You ready?!\" Philips caught it and had luthier Charles LoBue graft new wood onto the headstock to make it playable. He kept it for 56 years. Lucas says that while the shop has it, any musician who wants to play it on stage will get to."
     },
     {
-      "n": 7,
+      "n": 16,
       "headline": "Kevin Bleyer, Emmy-winning 'Daily Show' writer and Obama speechwriter, killed in a car crash at 54",
       "cat": "Media / Comedy",
       "source": "NBC News",
@@ -79,7 +178,7 @@
       "summary": "Kevin Bleyer, who wrote for \"The Daily Show\" with Jon Stewart for nine years, died in a car crash Sunday, his wife Nella Vera said on Instagram. His family told Variety it happened on a rural road in Millrift, Pennsylvania, where he had a home. He was 54. \"I am devastated, heartbroken, shattered,\" she wrote. Bleyer also spent eight years writing for \"Politically Incorrect\" with Bill Maher and for Dennis Miller, and won four Primetime Emmys, a Writers Guild Award and a Peabody. He wrote speeches for President Barack Obama and New York City Mayor Bill de Blasio, wrote books and plays, and worked for NBC's \"TODAY\" and CNN. He also worked in Kenya, Jordan and Moldova, and in Kyrgyzstan he executive produced \"Studio 7,\" the first political satire news show in Central Asia. Vera, who married him in June 2025, asked people to donate in his honor to the Alzheimer's Association's New York City chapter, where he volunteered."
     },
     {
-      "n": 8,
+      "n": 17,
       "headline": "Brewers beat the Rays 4-1 in Game 5 to win the first World Series title in franchise history",
       "cat": "Sports / MLB",
       "source": "MLB.com",
@@ -90,7 +189,7 @@
       "summary": "The Milwaukee Brewers are World Series champions for the first time. They beat the Tampa Bay Rays 4-1 in Game 5 Wednesday night at Tropicana Field to take the series 4-1, giving Milwaukee its first title since the 1957 Braves. Young ace Jacob Misiorowski threw 5 2/3 scoreless innings, allowing two hits, before leaving with a right calf cramp. Rookie Cooper Pratt drove in two runs after setting a Series rookie record with six straight hits, Jackson Chourio set a five-game Series record with 11 hits, and catcher William Contreras, who had an RBI double, was named World Series MVP. Milwaukee went 11-2 this postseason under manager Pat Murphy. Thousands of traveling fans packed the stands in St. Petersburg while 31,000 watched on the scoreboard back at American Family Field. The Rays, Mariners, Padres and Rockies are now the only franchises without a title. Milwaukee's championship parade is set for Friday."
     },
     {
-      "n": 9,
+      "n": 18,
       "headline": "Russian jet-powered drone hits trains at Dnipro station platform, killing at least 13",
       "cat": "World / Ukraine",
       "source": "Kyiv Independent",
@@ -99,105 +198,6 @@
       "image_remote": "https://assets.kyivindependent.com/content/images/2026/10/2026-10-29-12_35_08_20261029-104351_20261029-104946.jpg",
       "id": "8bf97901419ac0e98780d2bc6de934b761bcc02a",
       "summary": "A Russian jet-powered drone hit a platform at the Dnipro railway station Thursday morning where a commuter train and a passenger train bound for Zaporizhzhia were standing, killing at least 13 people and wounding at least 13 more, Ukrainian authorities said. Ukraine's Air Force said four jet-powered drones attacked the area around 11 a.m. local time and air defenses shot down three. Ukrainian Railways said people stayed on the platform despite an air raid alert and warnings of a heightened threat. President Volodymyr Zelensky called it \"a horrific Russian attack\" and criticized the recent easing of sanctions on some Russian oligarchs and energy companies. The strike is the latest in a Russian campaign against Ukraine's rail network, which has forced strict new rules that often have passengers leaving trains during alerts. Overnight drone strikes also killed people in Kremenchuk and Chernihiv. The toll is still preliminary and may rise."
-    },
-    {
-      "n": 10,
-      "headline": "Alaska's governor orders a criminal probe into claims Peltola allies recruited a second 'Dan Sullivan' for the Senate ballot",
-      "cat": "Politics / Elections",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/trump-peltola-dan-sullivan-alaska-senate/",
-      "image_local": "images/story-1562.jpg",
-      "image_remote": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/06/30/42c34be0-8269-4674-8360-94c8446f7110/thumbnail/1200x630/1bac6e28302e64e29f1dd3c65bb0eb7b/dan-sullivan-x-2.png",
-      "id": "cd69c03336f70d8baa031647bcb230bdff3b19c8",
-      "summary": "Alaska Republican Gov. Mike Dunleavy has ordered the Department of Public Safety to investigate whether people aligned with Democratic Senate candidate Mary Peltola's campaign broke the law by helping recruit a second candidate named Dan Sullivan to run against Republican Sen. Dan Sullivan. The order follows a New York Times report on the alleged scheme. \"Deliberately tricking voters into casting their ballots for someone else strikes at the integrity of our elections,\" Dunleavy wrote, adding that the probe will look at whether criminal charges or civil action are warranted. The ranked-choice ballot lists four candidates, including the incumbent, shown as a Republican, and a retired teacher named Daniel J. Sullivan Jr. with no party listed. Peltola and the Democrats' Senate campaign arm deny any role, and Peltola called the report \"a distraction.\" President Trump said Peltola and the other Sullivan \"should be prosecuted,\" and Breitbart reports the Justice Department is expanding its own investigation ahead of Tuesday's election."
-    },
-    {
-      "n": 11,
-      "headline": "Ship burns in the Strait of Hormuz as Iran says three tankers hit mines on the U.S.-backed southern route",
-      "cat": "World / Iran war",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/live-updates/iran-war-donald-trump-qatar-mediators-new-proposal-end-war/",
-      "image_local": "images/story-1563.jpg",
-      "image_remote": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/29/43ea1302-6cd2-4794-9ff2-dc505c81a3ce/thumbnail/1200x630/ea7fdcf9643acbe842100ba27da5fb78/gettyimages-2293188953.jpg",
-      "id": "8522f7440e23bad3664b07c29422a65f00ee5628",
-      "summary": "Iran's Revolutionary Guard said Thursday that three oil tankers exploded and caught fire after hitting naval mines over the past 24 hours while using what it called \"the unauthorized southern route\" through the Strait of Hormuz, and that the ships were left stranded along the strait's southern shore. The U.S. has been steering shippers to that southern lane, which President Trump declared mine-free at the end of August, while Iran insists ships must use routes it controls closer to its coast. The IRGC said the tankers had switched off their radar and navigation systems and ignored warnings, and it blamed their owners and crews. Separately, a Pentagon official told CBS that Defense Secretary Pete Hegseth has fired the Pentagon's top military planner, Lt. Gen. Brett Sylvia, over accusations that he leaked classified information about the Iran war. Qatari mediators have given Tehran a new draft deal to end the war, with a reply expected by about Saturday, though an Iranian official called the ideas \"unacceptable.\""
-    },
-    {
-      "n": 12,
-      "headline": "Trumbull's Coventry Lane neighbors fight a proposal for 84 apartments just over the Monroe line",
-      "cat": "Local / Trumbull CT",
-      "source": "The Monroe Sun",
-      "url": "https://themonroesun.com/proposal-for-84-apartments-in-monroe-looms-over-a-trumbull-neighborhood/",
-      "image_local": "images/story-1564.jpg",
-      "image_remote": "https://media.themonroesun.com/2026/10/IMG_0034.jpeg",
-      "id": "7f7e2dcd0020f784029b656573f0bf0a71e08b72",
-      "summary": "Residents of Coventry Lane, a quiet Trumbull cul-de-sac of single-family homes, are organizing against a plan for two apartment buildings with 84 units on the lot behind their backyards at 1, 7 and 15 Main St. in Monroe. Owner Gold Coast Properties LLC has asked Monroe's Planning and Zoning Commission to add the site to the Main Street Development District and approve a special development district. A proposed text amendment would allow multifamily housing on lots over two acres within a mile of the Route 25 and Route 111 intersection, instead of the current 15-acre minimum. The buildings would sit more than 400 feet back from Route 25, and neighbors say the 40-plus-foot structures would bring traffic, noise, light, blasting and lower property values. They have put up \"No 84 Unit Apartment Buildings\" lawn signs and started a website and a Facebook group. A nearby shooting range also opposes the plan. The hearing continues Nov. 5 so the developer can revise the proposal. Trumbull First Selectman Vicki Tesoro issued a statement on the plan earlier this month."
-    },
-    {
-      "n": 13,
-      "headline": "Divers find the wreck of SS Cornwallis, sunk off Maine in 1944 by the U-boat that had just landed Nazi spies",
-      "cat": "U.S. / History",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/ss-cornwallis-sunk-nazi-sub-found-maine/",
-      "image_local": "images/story-1565.jpg",
-      "image_remote": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/29/d7992485-a049-49f5-a34a-470bc52321da/thumbnail/1200x630/3ed5ddbe30fcbec5bef35d9ac3ba5edb/cornwallis-side-scan.png",
-      "id": "12ba00cb1fb2bc2914122880d76d28615b6b0514",
-      "summary": "The New Hampshire-based Nomad Exploration Team says it has found the wreck of the SS Cornwallis, a 400-foot Canadian steamship torpedoed off the Maine coast on Dec. 3, 1944. Side-scan sonar found the wreck in July, nearly 400 feet down, and later dives confirmed it after years of searching in cold water and strong currents. The ship was sunk by U-1230, the same German submarine that had secretly landed two Nazi spies in Maine four days earlier. The torpedo hit near the bow and the Cornwallis, carrying sugar and molasses from Barbados to St. John, New Brunswick, sank in about 10 minutes. Only five of the 48 people aboard survived. Built in Vancouver in 1921, the ship had already survived a 1942 torpedo attack while anchored in Barbados. A team member said the find brings renewed attention to \"a largely forgotten tragedy.\""
-    },
-    {
-      "n": 14,
-      "headline": "South Korea fines Google $32 million and Apple $15.6 million and orders both to allow outside payments",
-      "cat": "Apple / Tech",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2300690/apple-google-fined-south-korea-app-store-violations/",
-      "image_local": "",
-      "image_remote": "",
-      "id": "e030643677477d3aa60dc73c0925bb0b8a06ba7e",
-      "summary": "South Korea's communications regulator, the Korea Media and Communications Commission, has found that Apple and Google broke the country's Telecommunications Business Act with their app stores. It fined Google 42.9 billion won (about $32 million) and Apple 20.81 billion won (about $15.6 million). After investigations and on-site inspections going back to 2022, the regulator said the companies forced use of their own in-app payment systems, charged a 26 percent commission on third-party payments and blocked external payments. It also said they delayed app reviews without clear reasons. It found that Apple calculated its cut on VAT-inclusive prices for Korean developers but on pre-VAT prices for overseas developers. Both companies must now accept external payments and revise their app review procedures, and Apple must stop treating domestic and foreign developers differently. Apple and Google already allow external payments in the U.S. and the EU."
-    },
-    {
-      "n": 15,
-      "headline": "Connecticut's free Mobile ID app for driver's licenses launches Nov. 18 and will work at TSA checkpoints",
-      "cat": "Connecticut / Tech",
-      "source": "NBC Connecticut",
-      "url": "https://www.nbcconnecticut.com/news/local/connecticut-dmv-launching-mobile-id-app-nov-18/3789953/",
-      "image_local": "",
-      "image_remote": "",
-      "id": "420ef5b49a7f6c1024b64d010d7b2fc4194b0ed3",
-      "summary": "The Connecticut DMV says Connecticut Mobile ID, a free app that puts a secure digital version of your driver's license or state ID on your phone, launches Nov. 18 on the Apple App Store and Google Play. You'll need your physical license or ID card to set it up. At launch, TSA will accept it at participating airport checkpoints nationwide, including Bradley International and Tweed New Haven. It's meant to complement your physical card, not replace it. It can't be used with police, for voting or as a \"flash pass,\" businesses don't have to accept it, and those that do need a compatible verification app. The Department of Consumer Protection will give businesses guidance. Gov. Ned Lamont called it \"another step forward\" in making state services more convenient."
-    },
-    {
-      "n": 16,
-      "headline": "Nikon's $13,999 Nikkor Z 120-300mm f/2.8 TC VR S is the first 120-300mm f/2.8 zoom with a built-in teleconverter",
-      "cat": "Cameras",
-      "source": "PetaPixel",
-      "url": "https://petapixel.com/2026/10/28/nikons-nikkor-z-120-300mm-f-2-8-tc-vr-s-picks-up-where-a-legend-left-off/",
-      "image_local": "images/story-1566.jpg",
-      "image_remote": "https://petapixel.com/assets/uploads/2026/10/AH_P_Z_120-300mm_f2.8_TC_VR_PBS_NI_06.jpg",
-      "id": "861407dd3cd202efa7aba21759f6216c595070f8",
-      "summary": "Nikon has fully announced the Nikkor Z 120-300mm f/2.8 TC VR S, a professional S-Line telephoto zoom for its full-frame mirrorless cameras, first teased in May. Its standout feature is a built-in 1.4x teleconverter, switched on with a lever on the barrel, which turns it into a 168-400mm f/4. That makes it a spiritual successor to Nikon's much-loved F-mount 200-400mm f/4, and no other 120-300mm f/2.8 has one. Nikon is aiming it at indoor sports like basketball and hockey, field sports like baseball, soccer and football, and wildlife. The optical design has 30 elements in 24 groups, including fluorite, Super ED, ED, SR and aspherical elements, with ARNEO and Meso Amorphous coatings against flare and a nine-blade aperture. DPReview puts the price at $13,999."
-    },
-    {
-      "n": 17,
-      "headline": "Maynard James Keenan says he became Tool's singer on a dare after criticizing the LA scene",
-      "cat": "Music / Metal",
-      "source": "Louder",
-      "url": "https://www.loudersound.com/news/tool-maynard-james-keenan-dared-to-join-2026",
-      "image_local": "images/story-1567.jpg",
-      "image_remote": "https://cdn.mos.cms.futurecdn.net/ad8MszjSpu8tRTpxzUf7GU-1280-80.jpg",
-      "id": "641ee4f8cad0c4e6433d8b3c79de9d526b16f7a2",
-      "summary": "Tool frontman Maynard James Keenan told Metal Hammer that he joined the band because someone dared him to. \"Somebody challenged me when I was being critical about the things I was seeing in LA,\" the 62-year-old said. \"It was like, 'If you think you can do better...' I knew I could. It was an accident, but I took the call and I'm going to be here a while.\" Tool went on to sell more than 14 million albums and win three Grammys, and Lateralus, 10,000 Days and Fear Inoculum all debuted at No. 1 on the Billboard 200. Keenan said the success eventually drove him out of Los Angeles, not because of fans but because of a \"parade of vampires\": lawyers, agents and bookers trying to profit from the band. He now lives in Jerome, Arizona, and despite hip replacement surgery in August he is back on the road with Puscifer."
-    },
-    {
-      "n": 18,
-      "headline": "Retired Lion Knights' Castle flags and cape are back on US Pick a Brick, but only until Nov. 1",
-      "cat": "LEGO",
-      "source": "Brick Fanatics",
-      "url": "https://www.brickfanatics.com/retired-lego-lion-knights-castle-elements-pick-a-brick",
-      "image_local": "images/story-1568.jpg",
-      "image_remote": "https://www.brickfanatics.com/storage/uploads/6e70d989-be76-479c-886d-6cfd8e1171f8.jpg",
-      "id": "6d2a493fe430002afa1bc3a89d19c7a9bb29be09",
-      "summary": "The fabric pieces from the retired LEGO 10305 Lion Knights' Castle, two flags and a cape, are available again from Pick a Brick in the US as a multipack for $5.09. They are listed as Standard rather than Bestseller pieces, so the window is short. On Nov. 2, LEGO will temporarily stop US Standard orders while it moves its Pick a Brick stock to its Illinois warehouse, a process expected to take a few months. That makes the end of Sunday, Nov. 1 the firm deadline. New Classic Space and Castle elements from July's sets are coming soon after. Orders over $130 also get 40889 Build, Paint and Play free through Nov. 8 or while supplies last. Other 10305 parts, including minifigure shields, are still listed as Bestsellers."
     },
     {
       "n": 19,

@@ -1760,7 +1760,16 @@
     "226661513d3ab73a3f457f31710335380dfa01ba",
     "58f6a5a7a53b4d8a046eb493bdcd37d17bbd05c8",
     "deac2e15267af879a05420e31b9a69705da01e33",
-    "b30c582d9f7d09e27ff07f0178625e08c8eeb9ea"
+    "b30c582d9f7d09e27ff07f0178625e08c8eeb9ea",
+    "4db80bd626b5c9beca7e2d32ee8bf557acc05573",
+    "6a95715ad9d6c087294844abf74c1bce606e0948",
+    "04c7874916b568d1c59ef20346dad4138ffd1153",
+    "cf9641e5406c7afce06a883b5552f1c5f53e7894",
+    "2462c67a96eb032298c4b5c6d829c543b9e6637e",
+    "ffa2578e2501f1ec0ae55001fa011dfa2f46248c",
+    "5c587964c21157536d3eb3b924f80a918f3d0f14",
+    "e37f0ee922e38520a3aa882d770b9b47ee8a5123",
+    "5846ebbdb3b1a3ce544f1a43f01abfac1a3b3fef"
   ],
   "stories": {
     "0c2ac7a5e342411678296315c4c59043b1f067cc": {
@@ -20728,7 +20737,97 @@
       "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261029-bleyer-rs-44e7bd.jpg",
       "image_local": "images/story-1574.jpg",
       "id": "b30c582d9f7d09e27ff07f0178625e08c8eeb9ea"
+    },
+    "4db80bd626b5c9beca7e2d32ee8bf557acc05573": {
+      "headline": "Patrick Stewart, Star Trek's Captain Picard and X-Men's Professor X, dies at 86",
+      "cat": "Entertainment / Obituary",
+      "source": "Consequence",
+      "url": "https://consequence.net/2026/10/patrick-stewart-dead/",
+      "summary": "Patrick Stewart, the stage-trained actor who became Captain Jean-Luc Picard on \"Star Trek: The Next Generation\" and Professor Charles Xavier in the \"X-Men\" films, has died at 86. A statement on his official social media pages said he died Wednesday at his home in Los Angeles with his wife Sunny, after a \"brief and poignant journey\" with Alzheimer's disease and Lewy body dementia. Born in 1940 in Yorkshire, England, Stewart joined the Royal Shakespeare Company in 1966 and long considered the stage his home; he once said he wouldn't want to do science fiction. He took the Picard job expecting the show to flop quickly, but it ran seven seasons and made him a household name, and he later said he couldn't tell where Jean-Luc left off and Patrick Stewart began. He played Professor X in eight films, returned for three seasons of \"Star Trek: Picard\" ending in 2023, and will appear as Xavier one last time in \"Avengers: Doomsday.\"",
+      "image_remote": "https://consequence.net/wp-content/uploads/2026/10/Patrick-Stewart.jpeg",
+      "image_local": "images/story-1575.jpg",
+      "id": "4db80bd626b5c9beca7e2d32ee8bf557acc05573"
+    },
+    "6a95715ad9d6c087294844abf74c1bce606e0948": {
+      "headline": "Christine Lagarde will step down as European Central Bank president in February, nine months early",
+      "cat": "World / Economy",
+      "source": "Daily Caller",
+      "url": "https://dailycaller.com/2026/10/29/christine-lagarde-steps-down-european-central-bank-world-economic-forum",
+      "summary": "European Central Bank President Christine Lagarde announced Thursday in a video on X that she will step down Feb. 7, 2027, nearly nine months before her term was due to end. The 70-year-old former head of the International Monetary Fund said she is leaving \"because I want to have the freedom of speech, the freedom of expression, and the freedom to engage on matters that are not monetary policy matters.\" Her tenure steering monetary policy for the eurozone ran through the pandemic, a massive bond-buying program to hold the currency bloc together, and the energy shock after Russia invaded Ukraine, which pushed the ECB from negative rates to fighting runaway inflation. The announcement came the same day the ECB held interest rates steady and warned that rising energy prices could push inflation higher and weaken growth. French President Emmanuel Macron, whose government she once served as finance minister, thanked her and said the handover should be prepared in an orderly way with European partners.",
+      "image_remote": "https://images.dailycaller.com/image/width=1280,height=549,fit=cover,format=webp,f=auto/https://cdn01.dailycaller.com/wp-content/uploads/2026/10/GettyImages-2163647109%202.jpg",
+      "image_local": "images/story-1576.jpg",
+      "id": "6a95715ad9d6c087294844abf74c1bce606e0948"
+    },
+    "04c7874916b568d1c59ef20346dad4138ffd1153": {
+      "headline": "Polymarket halts trading after hackers get in through a vendor and drain user wallets",
+      "cat": "Business / Crypto",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/business/consumer/polymarket-trading-halt-hack-wallets-rcna606405",
+      "summary": "Prediction market Polymarket halted trading on its international platform for nearly an hour Thursday after what it called a compromise of third-party software, and users on its Discord reported their wallets had been drained. A person familiar with the details told NBC News the hackers got in through software from DebugBear, a website analytics and performance tool that said around 2 p.m. ET it was dealing with an \"ongoing security incident.\" Crypto site The Block reported about $2.65 million was taken from users' wallets, citing blockchain analysts at Arkham; Polymarket wouldn't comment on the figure but said \"we'll make this right and are fully reimbursing all affected traders.\" The company said the attack appeared to come from the United Kingdom and referred it to British law enforcement. Its U.S. platform did not appear to be affected. Polymarket was valued at $21 billion in September after investors led by Donald Trump Jr. put in $1 billion, and it handles about $200 million in trades a day.",
+      "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261029-Polymarket-ch-1457-e04c7f.jpg",
+      "image_local": "images/story-1577.jpg",
+      "id": "04c7874916b568d1c59ef20346dad4138ffd1153"
+    },
+    "cf9641e5406c7afce06a883b5552f1c5f53e7894": {
+      "headline": "GM will pay $220 million to settle claims it sold drivers' data to brokers that fed insurers",
+      "cat": "Cars / Privacy",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/transportation/1022555/gm-data-privacy-attorneys-general-lawsuit",
+      "summary": "General Motors has agreed to pay $220 million to settle claims from a coalition of 36 state attorneys general, including Connecticut's, that it illegally sold driver and location information to data brokers. The case centers on GM's now-discontinued Smart Driver program, which tracked driving habits such as acceleration, braking and trip length. The states say GM passed that data to brokers, letting insurance companies buy it and raise premiums, and failed to tell drivers they were enrolled or that their data was being collected. The settlement also requires GM to limit the driving data it collects and get \"express consent\" from drivers before collecting it. It comes months after GM paid $12.75 million to settle similar claims in California. \"People bought a car, not a tracking device,\" said Oregon Attorney General Dan Rayfield, who co-led the case with Washington's attorney general. \"Our investigation found GM sold that data anyway, and some drivers paid for it with higher premiums.\"",
+      "image_remote": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2255455204.jpg?quality=90&strip=all&crop=0%2C10.737892056687%2C100%2C78.524215886627&w=1200",
+      "image_local": "images/story-1578.jpg",
+      "id": "cf9641e5406c7afce06a883b5552f1c5f53e7894"
+    },
+    "2462c67a96eb032298c4b5c6d829c543b9e6637e": {
+      "headline": "Judge blocks Trump administration rule making chronically ill Medicaid patients prove they can't work",
+      "cat": "Politics / Health",
+      "source": "PBS NewsHour (AP)",
+      "url": "https://www.pbs.org/newshour/politics/judge-blocks-trump-administrations-medicaid-work-requirement-rule-forcing-proof-of-medical-frailty",
+      "summary": "A federal judge in Boston on Thursday blocked part of the Trump administration's new Medicaid work requirement rules, siding partly with 25 states and the District of Columbia. The 2025 tax and policy law requires many adults on Medicaid expansion, ages 19 to 64, to work, volunteer or go to school at least 80 hours a month starting Jan. 1, with exemptions for people who are \"medically frail.\" The law lists who counts, including people who are blind or disabled or have serious medical conditions or substance use disorders, but federal guidance added a requirement that those conditions also \"significantly impair\" their ability to meet the work rules. U.S. District Judge Richard Stearns blocked that added test, saying the states showed irreparable harm. He did not strike down the work requirements themselves, and he upheld rules letting states reject frailty diagnoses more than a year old and accept only one self-attestation per enrollment period.",
+      "image_remote": "",
+      "image_local": "",
+      "id": "2462c67a96eb032298c4b5c6d829c543b9e6637e"
+    },
+    "ffa2578e2501f1ec0ae55001fa011dfa2f46248c": {
+      "headline": "Reddit plans to make everyone log in to read the site",
+      "cat": "Tech",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1022571/reddit-login-requirement-q3-2026-earnings",
+      "summary": "Reddit is going to start requiring people to log in, ending two decades of letting anyone browse without an account, CEO Steve Huffman announced alongside the company's third-quarter earnings Thursday. There's no firm timeline: Reddit will first test the requirement in \"select markets outside the US\" in the coming months and decide how far to take it. Huffman says the change is better for users and for advertising and is \"more protective of Reddit data,\" since the \"vast majority\" of unauthorized scraping happens through logged-out access. He says Reddit doesn't need to know who you are, only that you're logged in, and it is also bringing back a rebuilt incognito mode in its app. The company said search traffic fell \"meaningfully\" in the quarter, by more than 1 million referrals a week on average in October, while app and logged-in users already bring in over 80% of its revenue. It's unclear what people will see if they open a shared Reddit link without an account.",
+      "image_remote": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK115_Reddit_04.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "image_local": "images/story-1579.jpg",
+      "id": "ffa2578e2501f1ec0ae55001fa011dfa2f46248c"
+    },
+    "5c587964c21157536d3eb3b924f80a918f3d0f14": {
+      "headline": "Harley's electric spinoff LiveWire loses its CEO and warns it may not survive another year",
+      "cat": "Motorcycles",
+      "source": "RideApart",
+      "url": "https://www.rideapart.com/news/813771/harley-davidson-livewire-ceo-out-restructuring-plan-ev-motorcycles/",
+      "summary": "LiveWire, Harley-Davidson's electric motorcycle brand, is restructuring after CEO Karim Donnez resigned effective immediately last week and the company brought in Roy Gallagher of Ankura Consulting Group as chief restructuring officer, at a cost of $140,000 a month. In its third-quarter financial statements, LiveWire said its recurring losses, negative cash flow and limited liquidity \"raise substantial doubt\" about its ability to continue as a going concern over the next year, with substantial debt coming due next year. The brand has never sold much more than 1,000 bikes in a year. RideApart says its smartest moves came this year: buying EV dirt bike startup Dust Moto and launching the small Honcho pit and city bike, both aimed at markets riders actually want. The shake-up comes just before LiveWire is expected to show the production Dust Hightail electric dirt bike at the EICMA motorcycle show in Milan next week.",
+      "image_remote": "https://cdn.motor1.com/images/mgl/XBGJ0l/s1/livewire-s2-del-mar---livewire-badge-closeup.jpg",
+      "image_local": "images/story-1580.jpg",
+      "id": "5c587964c21157536d3eb3b924f80a918f3d0f14"
+    },
+    "e37f0ee922e38520a3aa882d770b9b47ee8a5123": {
+      "headline": "Divers pull a 3,300-year-old Bronze Age sword from an Italian crater lake, and it's still sharp",
+      "cat": "Science / History",
+      "source": "Gizmodo",
+      "url": "https://gizmodo.com/archaeologists-fished-a-3300-year-old-sword-from-a-volcanic-crater-lake-and-its-still-sharp-2000832478",
+      "summary": "Underwater archaeologists working at Lake Mezzano, a volcanic crater lake in central Italy, have recovered a Bronze Age sword from the 13th century BCE that authorities say is still exceptionally sharp. The find was announced by Italy's archaeology superintendency for the Viterbo province and southern Etruria, whose underwater team worked with the Carabinieri's Rome dive unit. They also brought up axes, arrowheads, daggers, spearheads, pins and a razor. It is the third sword found at the site since the 1970s. Archaeologists say the objects point to a pile-dwelling village on the lake during the Late Bronze Age, and that metal weapons left in lakes are often read as deliberate offerings tied to water rituals. The metal pieces were found at roughly the same depth across the area surveyed. The team plans more research at the site, and the artifacts will go on display in a special exhibition.",
+      "image_remote": "https://gizmodo.com/app/uploads/2026/10/mezzano-lake-bronze-age-sword-held-up-by-diver-1200x675.jpg",
+      "image_local": "images/story-1581.jpg",
+      "id": "e37f0ee922e38520a3aa882d770b9b47ee8a5123"
+    },
+    "5846ebbdb3b1a3ce544f1a43f01abfac1a3b3fef": {
+      "headline": "Sirui's new Swift autofocus primes are compact full-frame lenses for $149 each",
+      "cat": "Cameras",
+      "source": "PetaPixel",
+      "url": "https://petapixel.com/2026/10/29/siruis-first-swift-series-full-frame-lenses-are-just-149/",
+      "summary": "Sirui has launched Swift, a new line of compact, inexpensive full-frame autofocus lenses, starting with a 20mm f/2.4 and a 40mm f/2.2 at $149 each. They come in Sony E-mount and L-Mount for full-frame cameras plus Fujifilm X-mount for APS-C bodies. Both weigh about 210 grams (7.4 ounces), are around 2.4 inches long and take 58mm filters. The optics are all glass, with 11 elements each, two ED elements and aspherical elements, and nine-blade apertures. Unlike some recent budget primes, they keep a manual focus ring that turns 360 degrees and add an aperture ring with an auto \"A\" setting. They aren't macro lenses, with a maximum magnification of about 1:7.3. Pre-orders are open now directly from Sirui, with other retailers expected to carry them by the Nov. 6 release date.",
+      "image_remote": "https://petapixel.com/assets/uploads/2026/10/sirui-20-40-swift-featured.jpg",
+      "image_local": "images/story-1582.jpg",
+      "id": "5846ebbdb3b1a3ce544f1a43f01abfac1a3b3fef"
     }
   },
-  "updated": "Thursday, October 29, 2026 · 11:37 AM ET"
+  "updated": "Thursday, October 29, 2026 · 4:11 PM ET"
 }
