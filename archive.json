@@ -1753,7 +1753,14 @@
     "420ef5b49a7f6c1024b64d010d7b2fc4194b0ed3",
     "861407dd3cd202efa7aba21759f6216c595070f8",
     "641ee4f8cad0c4e6433d8b3c79de9d526b16f7a2",
-    "6d2a493fe430002afa1bc3a89d19c7a9bb29be09"
+    "6d2a493fe430002afa1bc3a89d19c7a9bb29be09",
+    "59416432141abe3b5e30e6f2b4ff4a6b1671d71b",
+    "7f417d79e2cffdd3a6ba941789c6b9224ba330ff",
+    "516fb3457b6093d30b39da6ca8deabd495da54eb",
+    "226661513d3ab73a3f457f31710335380dfa01ba",
+    "58f6a5a7a53b4d8a046eb493bdcd37d17bbd05c8",
+    "deac2e15267af879a05420e31b9a69705da01e33",
+    "b30c582d9f7d09e27ff07f0178625e08c8eeb9ea"
   ],
   "stories": {
     "0c2ac7a5e342411678296315c4c59043b1f067cc": {
@@ -20651,7 +20658,77 @@
       "image_remote": "https://www.brickfanatics.com/storage/uploads/6e70d989-be76-479c-886d-6cfd8e1171f8.jpg",
       "image_local": "images/story-1568.jpg",
       "id": "6d2a493fe430002afa1bc3a89d19c7a9bb29be09"
+    },
+    "59416432141abe3b5e30e6f2b4ff4a6b1671d71b": {
+      "headline": "Ernie Johnson says this season will be his last hosting 'Inside the NBA'",
+      "cat": "Sports / NBA",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/news/us-news/ernie-johnson-set-hang-nba-microphone-season-rcna606323",
+      "summary": "Ernie Johnson, the longtime host of \"Inside the NBA,\" announced Wednesday that this season behind the desk will be his last, ending a 37-year run alongside Shaquille O'Neal, Kenny Smith and Charles Barkley. Johnson, 70, said the daily preparation he has always prided himself on has become \"more of a challenge than it is a joy,\" and that he always vowed to step away when that happened. He has dealt with heart disease and had bypass surgery 14 months ago, and he was previously diagnosed with non-Hodgkin's lymphoma in 2003 and prostate cancer in 2019. The show began on TNT and TBS in 1990 and moved to ESPN last year. His exit raises questions about Barkley's future, since Barkley has called the two of them \"a package deal.\" Barkley appeared to fight back tears on ESPN, saying fans always ask whether Johnson is as good a person as he seems, and \"I say, 'Man, he's better than that.'\"",
+      "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261029-ernie-johnson-mn-0955-075a14.jpg",
+      "image_local": "images/story-1569.jpg",
+      "id": "59416432141abe3b5e30e6f2b4ff4a6b1671d71b"
+    },
+    "7f417d79e2cffdd3a6ba941789c6b9224ba330ff": {
+      "headline": "DoorDash is buying Instacart for $17 billion to build a grocery delivery giant",
+      "cat": "Business / Tech",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/doordash-buys-instacart-in-17-billion-deal/",
+      "summary": "DoorDash said Thursday it will buy Instacart for $17 billion, or $65 a share, combining the biggest U.S. food delivery company with a major grocery delivery service and making it a stronger rival to Amazon and Walmart. DoorDash says Instacart customers could shop at more than 50,000 additional stores on top of the nearly 100,000 already on Instacart, and that more supermarkets will be able to run their websites on Instacart's platform. DoorDash held nearly 61% of the food delivery market at the end of 2024, while Instacart's share of U.S. delivery spending has slipped to 18% from 26% five years ago. The deal lands as the Federal Trade Commission opened a probe Thursday into how DoorDash, Instacart and seven other companies set prices, after an advocacy group found identical Instacart items varied by up to 23% between shoppers. The companies will run separately until the merger closes, expected in late 2027 or early 2028.",
+      "image_remote": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/12/11/801071d5-9875-47a4-92f0-77df9c04fa87/thumbnail/1200x630/ddfd6197bfdf89269dde107ec1c49271/cbsn-fusion-instacarts-ai-pricing-can-vary-by-user-and-bump-up-your-grocery-costs-study-finds-thumbnail.jpg",
+      "image_local": "images/story-1570.jpg",
+      "id": "7f417d79e2cffdd3a6ba941789c6b9224ba330ff"
+    },
+    "516fb3457b6093d30b39da6ca8deabd495da54eb": {
+      "headline": "HomePod mini 2 arrives Friday at $149, but its Siri AI upgrade comes later",
+      "cat": "Apple",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/29/homepod-mini-2-release-date-features/",
+      "summary": "After more than two weeks of pre-orders, Apple's HomePod mini 2 starts arriving to customers and goes on sale in stores Friday, Oct. 30, for $149 in the U.S., in new green and pink plus blue, midnight and white. One of its headline features, the smarter Apple Intelligence-powered Siri AI, won't be there at launch; Apple says it will come in a future software update but hasn't said when. The speaker moves to the S10 chip from the Apple Watch Series 10 for \"advanced computational audio,\" though Apple hasn't said outright that it sounds better. It has three microphones instead of four. With the new Apple TV 4K you can pair four HomePod mini 2 or HomePod 2 speakers as front and rear pairs for basic surround sound, and Macs with Wi-Fi 6E or later can use it as their default speaker. The new Sound Glow light effect also comes to older HomePods through a software update.",
+      "image_remote": "https://images.macrumors.com/t/i0L0_y-u_c-HgB6GhJPFUufFzNc=/2500x/article-new/2026/10/homepod-mini-2-feature2.jpg",
+      "image_local": "images/story-1571.jpg",
+      "id": "516fb3457b6093d30b39da6ca8deabd495da54eb"
+    },
+    "226661513d3ab73a3f457f31710335380dfa01ba": {
+      "headline": "Trumbull starts a pumpkin drop-off at the Transfer Station after Halloween",
+      "cat": "Local / Trumbull CT",
+      "source": "Town of Trumbull",
+      "url": "https://www.trumbull-ct.gov/CivicAlerts.aspx?AID=3205",
+      "summary": "The Town of Trumbull has posted what to do with leftover Halloween pumpkins, including a new pilot program at the Transfer Station. From Nov. 2 to 20, residents can drop pumpkins in a clearly marked dumpster there. After that, pumpkins can go on the organic brush pile at the Transfer Station along with hay bales and cornstalks. Pumpkins can also be set out with your leaf pile and will be picked up during regular curbside leaf collection with no extra steps. Or you can compost them at home: chop them up, remove the seeds, bury the pieces and cover them with 6 to 10 inches of soil, and keep critters away by securing trash and leaving meat and oils out of the pile. The town asks that you compost only pumpkins with no paint, glitter, stickers or other synthetic decorations.",
+      "image_remote": "",
+      "image_local": "",
+      "id": "226661513d3ab73a3f457f31710335380dfa01ba"
+    },
+    "58f6a5a7a53b4d8a046eb493bdcd37d17bbd05c8": {
+      "headline": "Skid Row name New Jersey singer Justin Sargent as their new frontman and cover The Who",
+      "cat": "Music / Hard rock",
+      "source": "Loudwire",
+      "url": "https://loudwire.com/skid-row-new-vocalist-2027-tour-dates-cover/",
+      "summary": "Skid Row have picked Justin Sargent, a fellow New Jersey native found through an open audition earlier this year, as their new singer. The band spent months rehearsing with him before deciding, after parting ways with Erik Gronwall in 2024; Halestorm's Lzzy Hale filled in for a few shows that year. Co-founder Rachel Bolan said it felt like Sargent \"had been here from the beginning,\" and that he sang \"with so much power and conviction, it blew me away.\" Sargent said he'd been singing Skid Row songs for years but \"never imagined I'd actually be joining the band.\" Their first release together is a cover of The Who's \"Won't Get Fooled Again,\" on streaming services Friday. They also announced 2027 tour dates starting March 5 in Rancho Mirage, California, including Foxwoods in Mashantucket, Connecticut, on April 9 and the Welcome to Rockville and Sonic Temple festivals in May.",
+      "image_remote": "https://townsquare.media/site/366/files/2026/10/attachment-skid_row_2026.jpg?w=1200&q=75&format=natural",
+      "image_local": "images/story-1572.jpg",
+      "id": "58f6a5a7a53b4d8a046eb493bdcd37d17bbd05c8"
+    },
+    "deac2e15267af879a05420e31b9a69705da01e33": {
+      "headline": "The Gibson SG Pete Townshend broke onstage in 1970 and handed to a superfan resurfaces after 56 years",
+      "cat": "Music / Guitar",
+      "source": "Guitar World",
+      "url": "https://www.guitarworld.com/gear/electric-guitars/pete-townshend-smashed-1969-gibson-sg-unearthed-after-five-decades",
+      "summary": "Pete Townshend's 1969 Cherry Red Gibson SG Special, broken onstage at the Who's chaotic June 7, 1970, show at New York's Metropolitan Opera House, has resurfaced and is headed to Matt's Guitar Shop in Paris. Founder Matthieu Lucas, who earlier this year tracked down Eric Clapton's long-lost \"Summersburst\" Les Paul, told Guitar World the damage was not planned: Townshend brushed his Hiwatt amps mid-solo during \"Shakin' All Over,\" went badly out of tune and threw the guitar down, then stepped on it and cracked the headstock. He looked at superfan Binky Philips, who was at his 17th Who show, and said, \"You ready?!\" Philips caught it and had luthier Charles LoBue graft new wood onto the headstock to make it playable. He kept it for 56 years. Lucas says that while the shop has it, any musician who wants to play it on stage will get to.",
+      "image_remote": "https://cdn.mos.cms.futurecdn.net/VEsK4hfQaphGutu6V4hvNH-1200-80.jpg",
+      "image_local": "images/story-1573.jpg",
+      "id": "deac2e15267af879a05420e31b9a69705da01e33"
+    },
+    "b30c582d9f7d09e27ff07f0178625e08c8eeb9ea": {
+      "headline": "Kevin Bleyer, Emmy-winning 'Daily Show' writer and Obama speechwriter, killed in a car crash at 54",
+      "cat": "Media / Comedy",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/news/us-news/kevin-bleyer-emmy-winning-daily-show-writer-dies-54-rcna606300",
+      "summary": "Kevin Bleyer, who wrote for \"The Daily Show\" with Jon Stewart for nine years, died in a car crash Sunday, his wife Nella Vera said on Instagram. His family told Variety it happened on a rural road in Millrift, Pennsylvania, where he had a home. He was 54. \"I am devastated, heartbroken, shattered,\" she wrote. Bleyer also spent eight years writing for \"Politically Incorrect\" with Bill Maher and for Dennis Miller, and won four Primetime Emmys, a Writers Guild Award and a Peabody. He wrote speeches for President Barack Obama and New York City Mayor Bill de Blasio, wrote books and plays, and worked for NBC's \"TODAY\" and CNN. He also worked in Kenya, Jordan and Moldova, and in Kyrgyzstan he executive produced \"Studio 7,\" the first political satire news show in Central Asia. Vera, who married him in June 2025, asked people to donate in his honor to the Alzheimer's Association's New York City chapter, where he volunteered.",
+      "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261029-bleyer-rs-44e7bd.jpg",
+      "image_local": "images/story-1574.jpg",
+      "id": "b30c582d9f7d09e27ff07f0178625e08c8eeb9ea"
     }
   },
-  "updated": "Thursday, October 29, 2026 · 7:12 AM ET"
+  "updated": "Thursday, October 29, 2026 · 11:37 AM ET"
 }
