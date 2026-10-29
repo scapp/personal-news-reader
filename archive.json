@@ -1769,7 +1769,16 @@
     "ffa2578e2501f1ec0ae55001fa011dfa2f46248c",
     "5c587964c21157536d3eb3b924f80a918f3d0f14",
     "e37f0ee922e38520a3aa882d770b9b47ee8a5123",
-    "5846ebbdb3b1a3ce544f1a43f01abfac1a3b3fef"
+    "5846ebbdb3b1a3ce544f1a43f01abfac1a3b3fef",
+    "57fa1626d770c0c70ffb6d0072b38c2b42458c5a",
+    "fb0a6393a58fe65a034e9536d28dcf5693562358",
+    "bebe2478a11be1bc7aeb70fa5387c847ace04adb",
+    "4026973d8581b78f41639a27cd98d4614d8921a7",
+    "7d75e069695f4927495f4eb28723b947ee356d80",
+    "9121415ea8578b6b9c8f49279792ba57c7f7c98e",
+    "673f1d9eae61cbc46a13cefcac263880bfa056a4",
+    "45694cca32ec0750f876ff593843d48c49b3aad8",
+    "a434570fd0ca625b1220346cae1b3ce2e88c532e"
   ],
   "stories": {
     "0c2ac7a5e342411678296315c4c59043b1f067cc": {
@@ -20827,7 +20836,97 @@
       "image_remote": "https://petapixel.com/assets/uploads/2026/10/sirui-20-40-swift-featured.jpg",
       "image_local": "images/story-1582.jpg",
       "id": "5846ebbdb3b1a3ce544f1a43f01abfac1a3b3fef"
+    },
+    "57fa1626d770c0c70ffb6d0072b38c2b42458c5a": {
+      "headline": "Alphabet stock has its worst day ever, falling 13% and wiping out about $500 billion in value",
+      "cat": "Business / Tech",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/29/alphabet-google-microsoft-msft-shares-today-earnings.html",
+      "summary": "Shares of Google parent Alphabet fell 13% on Thursday, the biggest drop since Google went public in 2004, erasing roughly $500 billion in market value. In its earnings report late Wednesday, Alphabet posted negative free cash flow of $9.07 billion for the third quarter, far worse than the $2.7 billion analysts expected, while keeping its full-year capital spending plan at $195 billion to $205 billion. Search advertising, its biggest business, grew 12% to $63.35 billion but still missed forecasts. Chief business officer Philipp Schindler said search was partly hurt by lower ad revenue inside Google's AI Mode, and that the company is now expanding ads in AI Overviews and AI Mode, including overseas. Google is facing competition from chatbots like ChatGPT and Claude. Microsoft shares were mostly flat after it reported $45.2 billion in quarterly capital spending, below estimates, and still-positive free cash flow.",
+      "image_remote": "https://image.cnbcfm.com/api/v1/image/108338204-1784672317305-gettyimages-2286485984-ALPHABET_EARNS.jpeg?v=1788361563&w=1920&h=1080",
+      "image_local": "images/story-1583.jpg",
+      "id": "57fa1626d770c0c70ffb6d0072b38c2b42458c5a"
+    },
+    "fb0a6393a58fe65a034e9536d28dcf5693562358": {
+      "headline": "Dream rout Valkyries 80-69 to force a Game 7 in the WNBA Finals",
+      "cat": "Sports / WNBA",
+      "source": "NBC News (AP)",
+      "url": "https://www.nbcnews.com/sports/wnba/atlanta-dream-golden-state-valkyries-wnba-finals-game-6-result-rcna606438",
+      "summary": "The Atlanta Dream beat the Golden State Valkyries 80-69 in Game 6 on Thursday afternoon to tie the WNBA Finals at three games each. Allisha Gray scored 23 points and Rhyne Howard added 21, and Angel Reese had 15 points and 13 rebounds. After scoring poorly in losses in Games 4 and 5, Atlanta made 11 of its first 15 shots and led 32-15 after one quarter and 46-26 at halftime, building a lead as big as 25. Golden State rallied late and got within 77-66 with under two minutes left before a Gray 3-pointer ended the comeback. Gabby Williams led the Valkyries with 26 points. Game 6 tipped off at 12:30 p.m. Eastern because an NBA game needed the arena that night, but the Dream still announced a sellout. Game 7 is Saturday night at Golden State, with both teams chasing their first WNBA title.",
+      "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261029-Allisha-Gray-dream-wnba-ww-1428-6f5043.jpg",
+      "image_local": "images/story-1584.jpg",
+      "id": "fb0a6393a58fe65a034e9536d28dcf5693562358"
+    },
+    "bebe2478a11be1bc7aeb70fa5387c847ace04adb": {
+      "headline": "Utah files felony gambling charges against Kalshi and its two co-founders",
+      "cat": "Crime & Courts / Business",
+      "source": "Utah News Dispatch",
+      "url": "https://utahnewsdispatch.com/2026/10/29/utah-criminal-charges-against-kalshi-gambling-ban/",
+      "summary": "Utah Attorney General Derek Brown has filed criminal charges against prediction-market company Kalshi and its co-founders, CEO Tarek Mansour and COO Luana Lopes Lara. Each faces 12 felony counts of promoting online gambling, a felony count of pattern of unlawful activity and a misdemeanor, based on sports bets Kalshi took from Utahns in September. No arrest warrants were issued; they were summoned to state court in Salt Lake County. Brown said calling it a prediction market doesn't change that it's gambling, which Utah bans in its constitution and law, and noted a federal court already ruled Utah's laws apply to Kalshi. Kalshi called the charges \"a crazy overreach\" and said it would beat them as it did similar charges in Arizona. The case comes days after Utah sued Kalshi civilly, and the federal Commodity Futures Trading Commission has now sued Utah, arguing federal law preempts state efforts to shut down regulated markets.",
+      "image_remote": "https://utahnewsdispatch.com/wp-content/uploads/2026/08/040726_Kalshi_004-700x467-1.jpg",
+      "image_local": "images/story-1585.jpg",
+      "id": "bebe2478a11be1bc7aeb70fa5387c847ace04adb"
+    },
+    "4026973d8581b78f41639a27cd98d4614d8921a7": {
+      "headline": "Report: NVIDIA CEO Jensen Huang was in contact with a suspected Chinese intelligence asset",
+      "cat": "Tech / National Security",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2301447/nvidia-ceo-jensen-huang-may-have-been-the-target-of-a-chinese-government-spy/",
+      "summary": "U.S. officials believe NVIDIA CEO Jensen Huang was the target of a Chinese government spy, according to a New York Times report summarized by Engadget. Intelligence agencies had been watching Alice Huang, no relation, a Chinese citizen and executive at Singapore data center company Megaspeed, and found she was in contact with an American later identified as Jensen Huang. Officials concluded she was passing information to Beijing, and she was already suspected of helping steer advanced NVIDIA chips into China; Megaspeed's Malaysian sister company bought at least $4.8 billion in NVIDIA-based equipment in under two years. A 2024 photo shows her seated near Jensen Huang at a gathering of AI executives. The report says President Trump was briefed a year ago and took no action, and Huang never received a defensive briefing. It isn't clear what information she may have passed along, and she reportedly remains under surveillance.",
+      "image_remote": "https://www.engadget.com/img/gallery/nvidia-ceo-jensen-huang-may-have-been-the-target-of-a-chinese-government-spy/l-intro-1793298712.jpg",
+      "image_local": "images/story-1586.jpg",
+      "id": "4026973d8581b78f41639a27cd98d4614d8921a7"
+    },
+    "7d75e069695f4927495f4eb28723b947ee356d80": {
+      "headline": "Rivian's cheaper R2 is now its best-selling vehicle as revenue jumps 38%",
+      "cat": "Cars / EVs",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/transportation/1022420/rivian-q3-earnings-r2-sales-volkswagen-software",
+      "summary": "Rivian said its mass-market R2 SUV is now outselling all its other models, as the automaker reported third-quarter revenue of $2.155 billion, up 38% from a year earlier. Automotive revenue rose 36% to $1.55 billion, while software and services brought in $605 million, up 45%. Rivian posted $176 million in overall gross profit, a $152 million improvement, although the car business on its own still had an $80 million gross loss, down from $130 million a year ago. Software and services made $256 million in gross profit at a 42% margin, mostly from licensing technology to Volkswagen and from subscriptions to its Autonomy Plus driver-assist package. Regulatory credit sales and a tariff refund also counted as revenue. Earlier this month Rivian reported record quarterly production of 19,751 vehicles and 19,248 deliveries, an 85% jump in production from a year earlier.",
+      "image_remote": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268434_Rivian_Factory_ATahlier_0015.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "image_local": "images/story-1587.jpg",
+      "id": "7d75e069695f4927495f4eb28723b947ee356d80"
+    },
+    "9121415ea8578b6b9c8f49279792ba57c7f7c98e": {
+      "headline": "Routes into Russian-occupied Oleshky are cleared of mines as an aid convoy gets ready to roll in",
+      "cat": "World / Ukraine",
+      "source": "Kyiv Independent",
+      "url": "https://kyivindependent.com/route-demining-completed-in-russian-occupied-oleshky-as-humanitarian-convoy-prepares-to-enter-ukraines-ombudsman-says/",
+      "summary": "Demining of agreed routes into Russian-occupied Oleshky in Ukraine's Kherson region is complete and a humanitarian convoy is ready to go, Ukraine's human rights commissioner Dmytro Lubinets said Thursday. The convoy is headed for the city's central hospital, where aid will be handed out to residents after 2:30 p.m. local time. Residents who want to leave can do so until 2 p.m. with security arrangements in place. Delegations and journalists from Ukraine, Russia and the United States gathered to coordinate the mission, which is being run with Russia's rights commissioner and mediated by U.S. first lady Melania Trump. It follows a temporary ceasefire around Oleshky announced by the White House on Oct. 23 that took effect Oct. 27 and is set to last until Nov. 1. Oleshky, across the Dnipro River from Kherson, had about 24,000 people before the war and has been blockaded and short of food and medicine under occupation since 2022.",
+      "image_remote": "https://assets.kyivindependent.com/content/images/2026/10/photo_2026-10-29_20-35-26_20261029-183535_20261029-184207.jpg",
+      "image_local": "images/story-1588.jpg",
+      "id": "9121415ea8578b6b9c8f49279792ba57c7f7c98e"
+    },
+    "673f1d9eae61cbc46a13cefcac263880bfa056a4": {
+      "headline": "Scientists expected bird flu, but avian cholera turned out to have killed thousands of Antarctic penguins",
+      "cat": "Science / Nature",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/10/29/nx-s1-6020451/avian-flu-penguins-pathogen-antarctica-cholera",
+      "summary": "When researchers sailed to Antarctica's Danger Islands in March 2024 after a mass die-off, they assumed bird flu had killed the Adélie penguins there. Wildlife veterinarian Ralph Vanstreels of UC Davis and his team found more than 537 carcasses on a single landing ramp about the size of an airport runway, and estimate thousands of penguins and other birds died across the islands. Samples tested on their ship showed bird flu was present but at low levels, which didn't fit fresh carcasses. Months later, colleagues in the Netherlands saw bacteria in the tissue under the microscope: the killer was avian cholera, a bacterial disease distinct from human cholera and not considered a major threat to people. The findings were published this month in Proceedings of the Royal Society B. Nobody had looked for avian cholera on the Antarctic Peninsula in 25 years, and the strain closely matches one found 5,000 miles away on Île Amsterdam in the Indian Ocean, so scientists say such outbreaks may be more common than anyone knew.",
+      "image_remote": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5472x3078+0+285/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F63%2F04%2Fc5dc45604e3b8d741917e4b6b3ec%2Fadelie-penguins-c-ralph-vanstreels-uc-davis-12.jpg",
+      "image_local": "images/story-1589.jpg",
+      "id": "673f1d9eae61cbc46a13cefcac263880bfa056a4"
+    },
+    "45694cca32ec0750f876ff593843d48c49b3aad8": {
+      "headline": "Trumbull's annual Business Appreciation Breakfast is Nov. 13 at the Marriott; RSVP by Nov. 5",
+      "cat": "Local / Trumbull CT",
+      "source": "Patch Trumbull",
+      "url": "https://patch.com/connecticut/trumbull/trumbull-business-appreciation-breakfast-set-nov-13",
+      "summary": "The Town of Trumbull is inviting the local business community to its Annual Business Appreciation Breakfast on Friday, Nov. 13, from 8 to 10 a.m. at the Trumbull Marriott. The keynote speaker is Guy LeBas, chief fixed income strategist at Janney Capital Management, who will talk about the local, regional and national economy. The town says the breakfast fills up quickly every year and usually has a waiting list, so it encourages early registration. RSVPs go to Rina Bakalar at rbakalar@trumbull-ct.gov and are due by Thursday, Nov. 5.",
+      "image_remote": "",
+      "image_local": "",
+      "id": "45694cca32ec0750f876ff593843d48c49b3aad8"
+    },
+    "a434570fd0ca625b1220346cae1b3ce2e88c532e": {
+      "headline": "Cheap Trick will take their first break in 50 years after November shows — 'not for health reasons'",
+      "cat": "Music / Rock",
+      "source": "Blabbermouth",
+      "url": "https://blabbermouth.net/news/cheap-trick-weve-decided-to-take-some-time-off-after-decades-of-touring-because-we-need-a-break",
+      "summary": "Cheap Trick say they are stepping off the road after their November shows and have pulled out of several concerts booked for 2027. The band's remaining 2026 dates, resuming Nov. 5 in Fort Wayne, Indiana, are not affected. After a canceled Feb. 13 casino show set off fan speculation, the band posted Thursday: \"We've decided to take some time off after decades of touring because we need a break. Not for health reasons. We'll play our November shows and then take our first break in 50 years.\" Concern had grown after guitarist Rick Nielsen left the stage at a September show in Aurora, Illinois, with trouble breathing, then came back to finish seated; he later said an MRI showed no cancer. The band also canceled or postponed several shows in June. Their 21st studio album, \"All Washed Up,\" came out last November.",
+      "image_remote": "https://assets.blabbermouth.net/media/cheaptrickmarch2026_638.jpg",
+      "image_local": "images/story-1590.jpg",
+      "id": "a434570fd0ca625b1220346cae1b3ce2e88c532e"
     }
   },
-  "updated": "Thursday, October 29, 2026 · 4:11 PM ET"
+  "updated": "Thursday, October 29, 2026 · 6:13 PM ET"
 }
