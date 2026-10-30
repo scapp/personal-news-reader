@@ -1796,7 +1796,15 @@
     "1e0fc03fe7d158871ed441a3881461ba0346a710",
     "1f02303ef745d3f9dbdb1b176af9b88d7273859b",
     "d80a50e8c118e8fd5000183f242c93e9d64c91e6",
-    "256c462f1cfc951bf5d751e10b8b944c723a6189"
+    "256c462f1cfc951bf5d751e10b8b944c723a6189",
+    "bf93c25782e034e499e5dc70661cccfa721879eb",
+    "c25838956f03c76891c9cc8ae2325fac0c30e814",
+    "22b8c9e927d97502a6750495e155e15595ffb76c",
+    "05e391c6ca484a7beafbb097aef156c9ba73d589",
+    "a1e2fe5d02c49354d790b4b022a2f3b3220fcc5a",
+    "4e4b3b09e104ed1014238c42c6eb6cdb1689d56a",
+    "19163e5661a075a8658f0c111c6ba711fa5a12a2",
+    "adce18d8bd532a459891474807a3afbb3e5df125"
   ],
   "stories": {
     "0c2ac7a5e342411678296315c4c59043b1f067cc": {
@@ -21124,7 +21132,87 @@
       "image_remote": "",
       "image_local": "",
       "id": "256c462f1cfc951bf5d751e10b8b944c723a6189"
+    },
+    "bf93c25782e034e499e5dc70661cccfa721879eb": {
+      "headline": "Tech stocks get crushed as the Nasdaq drops more than 600 points on AI fears",
+      "cat": "Business / Markets",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/nasdaq-futures-tumble-tech-earnings-ai/",
+      "summary": "The Nasdaq Composite fell 610 points, or 2.3%, in early trading Friday after disappointing earnings from Alphabet, Amazon and Intel revived fears that the artificial intelligence boom may not pay off the way Wall Street expected. Intel plunged nearly 29% at the open, and Alphabet kept sliding after its Class A shares fell more than 12% on Thursday, the company's worst day since it went public as Google in 2004, wiping out roughly $500 billion in market value. The S&P 500 dropped 1.2% and the Dow 0.4% after the opening bell. One analyst called it \"one of the worst tech earnings seasons in memory.\" Investors are also uneasy about the debt companies are piling up to build AI data centers, and UBS has been advising clients to diversify beyond AI stocks.",
+      "image_remote": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/03/09/79d66ab2-a42c-475b-91aa-6e8c0ecca229/thumbnail/1200x630/b8fe2e5c8cb8472bf24a59cca378a141/11-mcnicholas-image.jpg",
+      "image_local": "images/story-1606.jpg",
+      "id": "bf93c25782e034e499e5dc70661cccfa721879eb"
+    },
+    "c25838956f03c76891c9cc8ae2325fac0c30e814": {
+      "headline": "Pope Leo becomes the first pope ever to vote in a U.S. election, mailing in his ballot",
+      "cat": "World / Faith",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/pope-leo-xiv-votes-us-election/",
+      "summary": "The Vatican confirmed Friday that Chicago-born Pope Leo XIV has cast a mail-in ballot in next week's midterm elections, making him the first pontiff to vote in a U.S. election. He is registered at an address in New Lenox, Illinois, in Will County, and requested his ballot on Oct. 3, days before his lung cancer surgery; the Vatican said he \"has exercised his right to vote as a United States citizen, whenever he was eligible to do so\" and believes in citizens' duty to take part in democracy. Illinois records show that, as Robert Prevost, he voted in every general election since 2000 except 2020 and 2022, and in five primaries, taking Democratic ballots in 2008 and 2019 and Republican ballots in 2012, 2014 and 2016. He holds U.S. and Peruvian citizenship. The pope left the hospital Oct. 17 and is still planning a trip to South America next month.",
+      "image_remote": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/30/40bb7fec-456c-46c9-9cac-69a25f685374/thumbnail/1200x630/d395d6fd8b70660ab02f265c53847e17/gettyimages-2302129250.jpg",
+      "image_local": "images/story-1607.jpg",
+      "id": "c25838956f03c76891c9cc8ae2325fac0c30e814"
+    },
+    "22b8c9e927d97502a6750495e155e15595ffb76c": {
+      "headline": "Justice Department sends grand jury subpoenas in the Alaska 'second Dan Sullivan' probe as Peltola says she knew nothing",
+      "cat": "Politics / Elections",
+      "source": "PBS News (AP)",
+      "url": "https://www.pbs.org/newshour/politics/peltola-denies-knowing-about-alaska-spoiler-candidate-as-justice-department-escalates-investigation",
+      "summary": "The Justice Department has stepped up its criminal investigation into whether a second candidate named Dan Sullivan was put on Alaska's Senate ballot to pull votes from Republican Sen. Dan S. Sullivan, issuing grand jury subpoenas and records-preservation demands, with more expected, according to a person familiar with the probe. The subpoenas followed reporting that Democrat Mary Peltola's campaign appeared to be involved in recruiting Dan J. Sullivan Jr. Speaking at a bar in Juneau on Thursday, Peltola said, \"I knew nothing about any other candidate on the ballot except for me and the incumbent,\" adding that she is \"not interested in tricking voters.\" Dan J. Sullivan has long denied running at Democrats' urging. Attorney General Todd Blanche accused Democrats of \"cheating,\" President Trump has called for Peltola's prosecution, Gov. Mike Dunleavy has ordered a state investigation, and the Justice Department has already sued to block certification if Sullivan loses. The race could decide control of the Senate.",
+      "image_remote": "",
+      "image_local": "",
+      "id": "22b8c9e927d97502a6750495e155e15595ffb76c"
+    },
+    "05e391c6ca484a7beafbb097aef156c9ba73d589": {
+      "headline": "Sports' top court clears Russia to return to world hockey tournaments, and European federations push back",
+      "cat": "Sports / Hockey",
+      "source": "Kyiv Independent",
+      "url": "https://kyivindependent.com/russia-set-to-return-to-international-hockey-tournaments-after-top-sports-courts-ruling/",
+      "summary": "The Court of Arbitration for Sport ruled Friday that the International Ice Hockey Federation acted unlawfully in barring Russian teams over safety and security concerns, saying the evidence was insufficient. The IIHF said it was disappointed but will comply, which means Russia can enter all IIHF championships immediately, including upcoming tournaments in Canada, the U.S., Czechia and Germany. Russia has been shut out of international hockey since its 2022 invasion of Ukraine. The Czech, German and Austrian hockey associations criticized the decision and said their opposition hasn't changed, while Finland's federation called it \"incomprehensible\" and said its players are not obligated to face Russian or Belarusian teams. The European Commission voiced regret but said it respects the independence of sports bodies. The same court upheld a ban on Russia in world curling earlier this month.",
+      "image_remote": "https://assets.kyivindependent.com/content/images/2026/10/GettyImages-634501886_20261030-131257.jpg",
+      "image_local": "images/story-1608.jpg",
+      "id": "05e391c6ca484a7beafbb097aef156c9ba73d589"
+    },
+    "a1e2fe5d02c49354d790b4b022a2f3b3220fcc5a": {
+      "headline": "Goodwill is auctioning what looks like a second copy of a rare Leica prototype lens that once sold for $47,000",
+      "cat": "Cameras / Oddities",
+      "source": "PetaPixel",
+      "url": "https://petapixel.com/2026/10/30/goodwill-seemingly-has-no-clue-its-selling-a-previously-unknown-leica-prototype-lens/",
+      "summary": "A Goodwill store in Sioux Falls, South Dakota, has listed a 26-pound Leica / Hughes Leitz 17mm f/2 prototype lens in \"as is\" condition, apparently without realizing what it is. Lenstag founder Trevor Sehrer says it looks like a previously unknown second copy of a prototype that was believed to be one of a kind; that lens sold through Leica Store Lisse for $47,200 in 2021 after being listed on eBay for $24,000 in 2018. The Goodwill lens carries model number C530-0004, versus C530-0007 on the earlier one. Goodwill's listing warns that it isn't an expert and tells bidders to study the photos. When PetaPixel checked, bidding was at $3,008 after seven bids, with the auction ending at 9:50 p.m. ET Friday, Oct. 30.",
+      "image_remote": "https://petapixel.com/assets/uploads/2026/10/leica-fisheye-goodwill-featured.jpg",
+      "image_local": "images/story-1609.jpg",
+      "id": "a1e2fe5d02c49354d790b4b022a2f3b3220fcc5a"
+    },
+    "4e4b3b09e104ed1014238c42c6eb6cdb1689d56a": {
+      "headline": "Australia's death cap mushroom killer Erin Patterson will never be released, appeals court rules",
+      "cat": "Crime / Courts",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/mushroom-poison-murders-australia-erin-patterson-harsher-sentence/",
+      "summary": "An Australian appeals court on Friday ordered that Erin Patterson spend the rest of her life in prison for poisoning four of her estranged husband's relatives with death cap mushrooms hidden in beef Wellington at a July 2023 lunch at her home in Leongatha. The three judges of Victoria's Court of Appeal rejected her appeal of the convictions and agreed with prosecutors that her original 33-year non-parole period was too lenient, calling the crime \"extraordinarily cold and calculated.\" Her in-laws Don and Gail Patterson and Gail's sister Heather Wilkinson died, and Heather's husband Ian, a Baptist pastor, survived after weeks in the hospital. The judges noted she had invented a cancer diagnosis to explain why her children weren't at the meal. Patterson, who says the poisoning was accidental, is only the second woman in Australia sentenced to life without parole, and her last option is the High Court.",
+      "image_remote": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/30/0fc53874-4c1c-4df0-8888-86405762e954/thumbnail/1200x630/3192500bab8e507597ba02df7e2f75b2/ap26302853354505.jpg",
+      "image_local": "images/story-1610.jpg",
+      "id": "4e4b3b09e104ed1014238c42c6eb6cdb1689d56a"
+    },
+    "19163e5661a075a8658f0c111c6ba711fa5a12a2": {
+      "headline": "SZA, Dua Lipa and Tame Impala will headline Coachella 2027, report says, after BTS and Rage Against the Machine said no",
+      "cat": "Music / Festivals",
+      "source": "Consequence",
+      "url": "https://consequence.net/2026/10/coachella-2027-sza-dua-lipa-and-tame-impala-to-headline-per-new-report/",
+      "summary": "SZA, Dua Lipa and Tame Impala are set to headline Coachella 2027, according to a TMZ report cited by Consequence. Dua Lipa and Tame Impala's bookings were first reported in September, when SZA was said to be in talks for the third headlining slot and Fred again.. was tipped for the festival's \"Returning to the Desert\" spot. TMZ also reported that organizers approached BTS and Rage Against the Machine, but both turned it down. Coachella 2027 runs over two weekends, April 9-11 and April 16-18, at the Empire Polo Club in Indio, California, and the official lineup is expected to be announced soon.",
+      "image_remote": "https://consequence.net/wp-content/uploads/2026/10/Tame-SZA-Dua-Lipa.jpeg",
+      "image_local": "images/story-1611.jpg",
+      "id": "19163e5661a075a8658f0c111c6ba711fa5a12a2"
+    },
+    "adce18d8bd532a459891474807a3afbb3e5df125": {
+      "headline": "Russia puts Apple and Microsoft on its state surveillance registry, demanding they keep user data for security agencies",
+      "cat": "Tech / Apple",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/30/apple-russian-state-surveillance-registry/",
+      "summary": "Russia's communications regulator, Roskomnadzor, has added Apple and Microsoft to its list of \"organizers of information dissemination,\" a designation that requires companies to preserve users' communications, including messages with audio or video, and make that data available to Russian security services. Listed companies must also keep information identifying users and records of their communications within Russia for three years, and those that don't comply face fines and eventually restrictions on their services. The two companies join WhatsApp, Telegram and Snapchat on the registry, with Google added in January. The move follows Russia's December 2025 block on FaceTime, which the regulator claimed was being used for terrorism, recruiting and fraud. Russia has also restricted WhatsApp and Telegram calls and blocked Signal and Viber. Apple stopped selling products in Russia in March 2022 after the invasion of Ukraine.",
+      "image_remote": "",
+      "image_local": "",
+      "id": "adce18d8bd532a459891474807a3afbb3e5df125"
     }
   },
-  "updated": "Friday, October 30, 2026 · 7:14 AM ET"
+  "updated": "Friday, October 30, 2026 · 11:39 AM ET"
 }

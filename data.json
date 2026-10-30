@@ -1,8 +1,96 @@
 {
-  "updated": "Friday, October 30, 2026 · 7:14 AM ET",
+  "updated": "Friday, October 30, 2026 · 11:39 AM ET",
   "stories": [
     {
       "n": 1,
+      "headline": "Tech stocks get crushed as the Nasdaq drops more than 600 points on AI fears",
+      "cat": "Business / Markets",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/nasdaq-futures-tumble-tech-earnings-ai/",
+      "image_local": "images/story-1606.jpg",
+      "image_remote": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/03/09/79d66ab2-a42c-475b-91aa-6e8c0ecca229/thumbnail/1200x630/b8fe2e5c8cb8472bf24a59cca378a141/11-mcnicholas-image.jpg",
+      "id": "bf93c25782e034e499e5dc70661cccfa721879eb",
+      "summary": "The Nasdaq Composite fell 610 points, or 2.3%, in early trading Friday after disappointing earnings from Alphabet, Amazon and Intel revived fears that the artificial intelligence boom may not pay off the way Wall Street expected. Intel plunged nearly 29% at the open, and Alphabet kept sliding after its Class A shares fell more than 12% on Thursday, the company's worst day since it went public as Google in 2004, wiping out roughly $500 billion in market value. The S&P 500 dropped 1.2% and the Dow 0.4% after the opening bell. One analyst called it \"one of the worst tech earnings seasons in memory.\" Investors are also uneasy about the debt companies are piling up to build AI data centers, and UBS has been advising clients to diversify beyond AI stocks."
+    },
+    {
+      "n": 2,
+      "headline": "Pope Leo becomes the first pope ever to vote in a U.S. election, mailing in his ballot",
+      "cat": "World / Faith",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/pope-leo-xiv-votes-us-election/",
+      "image_local": "images/story-1607.jpg",
+      "image_remote": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/30/40bb7fec-456c-46c9-9cac-69a25f685374/thumbnail/1200x630/d395d6fd8b70660ab02f265c53847e17/gettyimages-2302129250.jpg",
+      "id": "c25838956f03c76891c9cc8ae2325fac0c30e814",
+      "summary": "The Vatican confirmed Friday that Chicago-born Pope Leo XIV has cast a mail-in ballot in next week's midterm elections, making him the first pontiff to vote in a U.S. election. He is registered at an address in New Lenox, Illinois, in Will County, and requested his ballot on Oct. 3, days before his lung cancer surgery; the Vatican said he \"has exercised his right to vote as a United States citizen, whenever he was eligible to do so\" and believes in citizens' duty to take part in democracy. Illinois records show that, as Robert Prevost, he voted in every general election since 2000 except 2020 and 2022, and in five primaries, taking Democratic ballots in 2008 and 2019 and Republican ballots in 2012, 2014 and 2016. He holds U.S. and Peruvian citizenship. The pope left the hospital Oct. 17 and is still planning a trip to South America next month."
+    },
+    {
+      "n": 3,
+      "headline": "Justice Department sends grand jury subpoenas in the Alaska 'second Dan Sullivan' probe as Peltola says she knew nothing",
+      "cat": "Politics / Elections",
+      "source": "PBS News (AP)",
+      "url": "https://www.pbs.org/newshour/politics/peltola-denies-knowing-about-alaska-spoiler-candidate-as-justice-department-escalates-investigation",
+      "image_local": "",
+      "image_remote": "",
+      "id": "22b8c9e927d97502a6750495e155e15595ffb76c",
+      "summary": "The Justice Department has stepped up its criminal investigation into whether a second candidate named Dan Sullivan was put on Alaska's Senate ballot to pull votes from Republican Sen. Dan S. Sullivan, issuing grand jury subpoenas and records-preservation demands, with more expected, according to a person familiar with the probe. The subpoenas followed reporting that Democrat Mary Peltola's campaign appeared to be involved in recruiting Dan J. Sullivan Jr. Speaking at a bar in Juneau on Thursday, Peltola said, \"I knew nothing about any other candidate on the ballot except for me and the incumbent,\" adding that she is \"not interested in tricking voters.\" Dan J. Sullivan has long denied running at Democrats' urging. Attorney General Todd Blanche accused Democrats of \"cheating,\" President Trump has called for Peltola's prosecution, Gov. Mike Dunleavy has ordered a state investigation, and the Justice Department has already sued to block certification if Sullivan loses. The race could decide control of the Senate."
+    },
+    {
+      "n": 4,
+      "headline": "Sports' top court clears Russia to return to world hockey tournaments, and European federations push back",
+      "cat": "Sports / Hockey",
+      "source": "Kyiv Independent",
+      "url": "https://kyivindependent.com/russia-set-to-return-to-international-hockey-tournaments-after-top-sports-courts-ruling/",
+      "image_local": "images/story-1608.jpg",
+      "image_remote": "https://assets.kyivindependent.com/content/images/2026/10/GettyImages-634501886_20261030-131257.jpg",
+      "id": "05e391c6ca484a7beafbb097aef156c9ba73d589",
+      "summary": "The Court of Arbitration for Sport ruled Friday that the International Ice Hockey Federation acted unlawfully in barring Russian teams over safety and security concerns, saying the evidence was insufficient. The IIHF said it was disappointed but will comply, which means Russia can enter all IIHF championships immediately, including upcoming tournaments in Canada, the U.S., Czechia and Germany. Russia has been shut out of international hockey since its 2022 invasion of Ukraine. The Czech, German and Austrian hockey associations criticized the decision and said their opposition hasn't changed, while Finland's federation called it \"incomprehensible\" and said its players are not obligated to face Russian or Belarusian teams. The European Commission voiced regret but said it respects the independence of sports bodies. The same court upheld a ban on Russia in world curling earlier this month."
+    },
+    {
+      "n": 5,
+      "headline": "Goodwill is auctioning what looks like a second copy of a rare Leica prototype lens that once sold for $47,000",
+      "cat": "Cameras / Oddities",
+      "source": "PetaPixel",
+      "url": "https://petapixel.com/2026/10/30/goodwill-seemingly-has-no-clue-its-selling-a-previously-unknown-leica-prototype-lens/",
+      "image_local": "images/story-1609.jpg",
+      "image_remote": "https://petapixel.com/assets/uploads/2026/10/leica-fisheye-goodwill-featured.jpg",
+      "id": "a1e2fe5d02c49354d790b4b022a2f3b3220fcc5a",
+      "summary": "A Goodwill store in Sioux Falls, South Dakota, has listed a 26-pound Leica / Hughes Leitz 17mm f/2 prototype lens in \"as is\" condition, apparently without realizing what it is. Lenstag founder Trevor Sehrer says it looks like a previously unknown second copy of a prototype that was believed to be one of a kind; that lens sold through Leica Store Lisse for $47,200 in 2021 after being listed on eBay for $24,000 in 2018. The Goodwill lens carries model number C530-0004, versus C530-0007 on the earlier one. Goodwill's listing warns that it isn't an expert and tells bidders to study the photos. When PetaPixel checked, bidding was at $3,008 after seven bids, with the auction ending at 9:50 p.m. ET Friday, Oct. 30."
+    },
+    {
+      "n": 6,
+      "headline": "Australia's death cap mushroom killer Erin Patterson will never be released, appeals court rules",
+      "cat": "Crime / Courts",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/mushroom-poison-murders-australia-erin-patterson-harsher-sentence/",
+      "image_local": "images/story-1610.jpg",
+      "image_remote": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/30/0fc53874-4c1c-4df0-8888-86405762e954/thumbnail/1200x630/3192500bab8e507597ba02df7e2f75b2/ap26302853354505.jpg",
+      "id": "4e4b3b09e104ed1014238c42c6eb6cdb1689d56a",
+      "summary": "An Australian appeals court on Friday ordered that Erin Patterson spend the rest of her life in prison for poisoning four of her estranged husband's relatives with death cap mushrooms hidden in beef Wellington at a July 2023 lunch at her home in Leongatha. The three judges of Victoria's Court of Appeal rejected her appeal of the convictions and agreed with prosecutors that her original 33-year non-parole period was too lenient, calling the crime \"extraordinarily cold and calculated.\" Her in-laws Don and Gail Patterson and Gail's sister Heather Wilkinson died, and Heather's husband Ian, a Baptist pastor, survived after weeks in the hospital. The judges noted she had invented a cancer diagnosis to explain why her children weren't at the meal. Patterson, who says the poisoning was accidental, is only the second woman in Australia sentenced to life without parole, and her last option is the High Court."
+    },
+    {
+      "n": 7,
+      "headline": "SZA, Dua Lipa and Tame Impala will headline Coachella 2027, report says, after BTS and Rage Against the Machine said no",
+      "cat": "Music / Festivals",
+      "source": "Consequence",
+      "url": "https://consequence.net/2026/10/coachella-2027-sza-dua-lipa-and-tame-impala-to-headline-per-new-report/",
+      "image_local": "images/story-1611.jpg",
+      "image_remote": "https://consequence.net/wp-content/uploads/2026/10/Tame-SZA-Dua-Lipa.jpeg",
+      "id": "19163e5661a075a8658f0c111c6ba711fa5a12a2",
+      "summary": "SZA, Dua Lipa and Tame Impala are set to headline Coachella 2027, according to a TMZ report cited by Consequence. Dua Lipa and Tame Impala's bookings were first reported in September, when SZA was said to be in talks for the third headlining slot and Fred again.. was tipped for the festival's \"Returning to the Desert\" spot. TMZ also reported that organizers approached BTS and Rage Against the Machine, but both turned it down. Coachella 2027 runs over two weekends, April 9-11 and April 16-18, at the Empire Polo Club in Indio, California, and the official lineup is expected to be announced soon."
+    },
+    {
+      "n": 8,
+      "headline": "Russia puts Apple and Microsoft on its state surveillance registry, demanding they keep user data for security agencies",
+      "cat": "Tech / Apple",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/30/apple-russian-state-surveillance-registry/",
+      "image_local": "",
+      "image_remote": "",
+      "id": "adce18d8bd532a459891474807a3afbb3e5df125",
+      "summary": "Russia's communications regulator, Roskomnadzor, has added Apple and Microsoft to its list of \"organizers of information dissemination,\" a designation that requires companies to preserve users' communications, including messages with audio or video, and make that data available to Russian security services. Listed companies must also keep information identifying users and records of their communications within Russia for three years, and those that don't comply face fines and eventually restrictions on their services. The two companies join WhatsApp, Telegram and Snapchat on the registry, with Google added in January. The move follows Russia's December 2025 block on FaceTime, which the regulator claimed was being used for terrorism, recruiting and fraud. Russia has also restricted WhatsApp and Telegram calls and blocked Signal and Viber. Apple stopped selling products in Russia in March 2022 after the invasion of Ukraine."
+    },
+    {
+      "n": 9,
       "headline": "Where did all the iPhone Duos go? Apple sent about 80% of launch stock to its stores, some with as few as 50",
       "cat": "Tech / Apple",
       "source": "MacRumors",
@@ -13,7 +101,7 @@
       "summary": "Apple put roughly 80% of its first iPhone Duo inventory into its own retail stores rather than online orders, according to reporting cited by MacRumors from people close to the device's logistics. Some stores held as few as 50 units, flagship locations had up to about 250, and New York's Fifth Avenue store was stocked unusually heavily because Apple executives attended the launch there. That split explains why online pre-orders slipped to late January within minutes on October 16, while most people who waited in line on launch day walked out with a phone. Apple has called demand \"nothing short of extraordinary\" and says it is working to fill orders as quickly as possible, so delivery estimates that look far off may improve. The Duo starts at $1,999 for 256GB, with 512GB at $2,199, 1TB at $2,599 and 2TB at $3,199."
     },
     {
-      "n": 2,
+      "n": 10,
       "headline": "Christian Watson goes to the hospital mid-game, comes back, and the Packers beat the Panthers 27-19",
       "cat": "Sports / NFL",
       "source": "Yahoo Sports (AFP)",
@@ -24,7 +112,7 @@
       "summary": "Green Bay won Thursday Night Football 27-19 over Carolina at Lambeau Field, and receiver Christian Watson was the story. After catching a 53-yard pass he left the field spitting blood and was taken to a nearby hospital by ambulance with a suspected chest injury, then returned to the stadium with extra rib padding once tests came back clear and finished with eight catches for 113 yards. Jordan Love threw for 288 yards and three touchdowns, to Tucker Kraft, Matthew Golden and Josh Jacobs, who also ran for a score, while the Packers' defense sacked Bryce Young six times and Ty'Ron Hopper added an interception. Green Bay's running game managed only 66 yards on 26 carries. Carolina's Chuba Hubbard ran for a touchdown and 81 yards, and Jalen Coker's late touchdown cut it to eight before a failed two-point try. The Packers are 5-3 but still last in the NFC North; the Panthers fall to 3-4 and still lead the NFC South."
     },
     {
-      "n": 3,
+      "n": 11,
       "headline": "Aerosmith play their first show since retiring, with Dave Grohl on drums and Joey Kramer back for 'Walk This Way'",
       "cat": "Music / Rock",
       "source": "Loudwire",
@@ -35,7 +123,7 @@
       "summary": "Aerosmith took the stage at the Hollywood Bowl on Thursday night for their first performance as a band since September 2023, when Steven Tyler's vocal injury cut short the Peace Out farewell tour and later led the band to retire from touring. Tyler, Joe Perry, Brad Whitford and Tom Hamilton played six songs with Dave Grohl on drums for most of the set: \"Toys in the Attic,\" \"Back in the Saddle,\" \"Sweet Emotion,\" \"Dream On,\" \"Train Kept a Rollin'\" with Johnny Depp, and \"Walk This Way\" with founding drummer Joey Kramer, who hadn't played with the band since 2020. The \"Aerosmith + Friends\" night also featured Guns N' Roses, who covered three Aerosmith songs for the first time, plus The Black Crowes, Billy Idol, Sammy Hagar, Ann and Nancy Wilson of Heart, Godsmack's Sully Erna with Nuno Bettencourt, Eric Church and Warren Haynes. A second Hollywood Bowl show is set for Sunday, Nov. 1."
     },
     {
-      "n": 4,
+      "n": 12,
       "headline": "Three killed as two helicopters collide in midair near Oregon's McMinnville airport",
       "cat": "U.S. / Aviation",
       "source": "CBS News",
@@ -46,7 +134,7 @@
       "summary": "Three people died Thursday afternoon when an Airbus H125 and a Robinson R22 collided near McMinnville Municipal Airport, about 35 miles southwest of Portland, Oregon, at about 2:15 p.m. local time. The Yamhill County Sheriff's Office identified those killed as 22-year-old flight instructor Maddie Aasbo of Texas and a British student pilot whose name was not released, and 38-year-old Tyler Delane Sturdevant of Newberg, Oregon, who was flying the Airbus. One of the helicopters belonged to Jerry Trimble Helicopters, a flight school based at the airport, which said its thoughts were with the families. The wreckage came down in a field near a highway southeast of town, and surrounding roads were closed. It is not yet clear how the collision happened; the National Transportation Safety Board is leading the investigation."
     },
     {
-      "n": 5,
+      "n": 13,
       "headline": "Italy braces for nationwide strikes and port blockades as Meloni keeps troops on the streets",
       "cat": "World / Europe",
       "source": "NBC News",
@@ -57,7 +145,7 @@
       "summary": "Thousands of people were gathering in Rome, Milan and other Italian cities on Friday for a nationwide strike and protests against the cost of living and high military spending, called by the USB union and others for both public and private sector workers. Protesters also planned to blockade the ports of Genoa, Livorno and Trieste. The day follows weeks of unrest in which masked groups looted stores in Milan and threw projectiles at police, protesters stormed Rome's Colosseum last Saturday, and farmers and truckers blockaded highways and ports over fuel prices that have climbed since the war in Iran. Prime Minister Giorgia Meloni's government has deployed 500 army troops alongside police in Milan through the end of 2026 and passed tougher penalties for rioters, including making parents financially liable for children who loot. \"Vandalism and theft are not protest, they are criminality,\" Meloni said. Similar protests have hit France, Spain, Portugal and Belgium."
     },
     {
-      "n": 6,
+      "n": 14,
       "headline": "Mexico arrests a city official accused of covering up the cartel-ordered killing of an anti-crime mayor",
       "cat": "World / Crime",
       "source": "CBS News",
@@ -68,7 +156,7 @@
       "summary": "Prosecutors in Mexico's Michoacán state have arrested Rosa Alejandra Vargas, the welfare secretary of the city of Uruapan, on suspicion of concealment in the killing of Mayor Carlos Manzo. Manzo, 40, a popular crusader against organized crime, was shot dead during Day of the Dead celebrations last November, a killing that set off huge anti-government protests. Investigators say the Jalisco New Generation Cartel ordered the attack. State prosecutor Israel Vega said Vargas is related to several people already arrested in the case and had failed to show up when investigators summoned her. Manzo is one of at least 13 mayors killed in Mexico since President Claudia Sheinbaum took office two years ago, by an Associated Press count, as the Trump administration presses her government to crack down on cartels and corruption in local governments."
     },
     {
-      "n": 7,
+      "n": 15,
       "headline": "Canon warns camera prices will go up in 2027 if the AI-driven memory shortage keeps costs high",
       "cat": "Cameras / Canon",
       "source": "Digital Camera World",
@@ -79,7 +167,7 @@
       "summary": "Canon has told investors that if memory chip costs stay high into next year, it will pass them on through price increases. The warning came in translated Q&A from the company's October 27 earnings presentation, where Canon trimmed its fourth-quarter outlook because of a component shortage hitting compact cameras and a slight dip in mirrorless sales. \"For components that are in short supply, we are using every possible means to secure the quantities we need for next year,\" Canon said, adding that its policy is to offset higher procurement costs with price increases from next year onward. Canon confirmed it is considering higher prices in its imaging division, citing memory costs, cost increases from conflict in the Middle East, and unusually strong network camera sales. The company has so far avoided big hikes because it stockpiled memory for 2026 early; the increases depend on whether high costs persist once that stock runs out. Memory cards and drives have already climbed in price as AI data centers soak up supply."
     },
     {
-      "n": 8,
+      "n": 16,
       "headline": "Waymo and Toyota will test self-driving bZ4X robotaxis in Japan next year, then the UK",
       "cat": "Tech / Self-Driving",
       "source": "Engadget",
@@ -90,7 +178,7 @@
       "summary": "Waymo and Toyota say they will begin testing a fleet of autonomous Toyota bZ4X electric SUVs in Japan in 2027, and plan to bring them to the UK and other right-hand-drive markets in the years after. Toyota is building the vehicles at its Takaoka plant in Toyota City, where they are also being fitted with Waymo's self-driving hardware. The companies, which signed a preliminary partnership in April 2025, said pairing Toyota's manufacturing with Waymo's technology will speed up scaling Level 4 autonomous vehicles worldwide. Waymo has been testing Jaguar I-PACE robotaxis in Tokyo since 2025 with drivers from the taxi company Nihon Kotsu, and it plans to launch a fully driverless ride-hailing service in Tokyo next year, though it hasn't said when the bZ4X will join that commercial fleet."
     },
     {
-      "n": 9,
+      "n": 17,
       "headline": "Clocks fall back this Sunday: daylight saving time ends at 2 a.m. on Nov. 1",
       "cat": "Service / Time Change",
       "source": "CBS News",
@@ -99,94 +187,6 @@
       "image_remote": "",
       "id": "256c462f1cfc951bf5d751e10b8b944c723a6189",
       "summary": "Daylight saving time ends for 2026 this weekend, so most of the U.S. sets clocks back one hour at 2 a.m. on Sunday, Nov. 1, and everyone gets an extra hour of sleep. Mornings get lighter and evenings darker: in Boston, for example, sunrise moves from 7:16 a.m. on Saturday to 6:17 a.m. on Sunday, and sunset from 5:39 p.m. to 4:37 p.m. The U.S. first adopted the clock change in 1918 during World War I to save fuel, and Congress didn't set uniform start and end dates until 1966. This year, the Sunshine Protection Act, which would make daylight saving time permanent and let states opt out, passed the House in July and now sits in the Senate, where President Trump has accused Arkansas Sen. Tom Cotton of holding it up."
-    },
-    {
-      "n": 10,
-      "headline": "Binance says hackers took about $6.3 billion in the biggest crypto heist ever, and it will cover all losses",
-      "cat": "Business / Crypto",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/business/markets/binance-hack-tether-circle-stablecoins-rcna606445",
-      "image_local": "images/story-1591.jpg",
-      "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261029-binance-vsb-1816-fb8d39.jpg",
-      "id": "f2ea8aac94bc5331a083444fb015b9f2664c75e2",
-      "summary": "Binance, the world's largest cryptocurrency exchange by trading volume, suspended all deposits and withdrawals on Thursday after a series of very large transfers raised fears it had been hacked. The company called it a \"security issue\" and said it was freezing funds and working with law enforcement, blockchain analysts and other firms to trace assets, adding that billions of dollars had already been frozen. If the money was stolen, it would most likely be the largest crypto theft in history. Stablecoin issuer Tether froze more than $1.567 billion of its tokens, and Circle said it had frozen hundreds of millions of dollars more. Bitcoin fell about 4.3% and Ethereum 4.6% as word spread. Unlike bank deposits, money held on exchanges is not automatically insured, so any refunds would be up to Binance; founder Changpeng Zhao, who was pardoned by President Trump after pleading guilty to money-laundering violations, said he expects all user funds to be fully covered. Update Friday: Binance now puts the total at about $6.3 billion, more than four times the $1.5 billion Bybit hack that was the previous record, and says roughly $3 billion has been frozen on-chain. It says it will cover all losses from its SAFU user-protection fund and company money, and that deposits are working again while withdrawals stay frozen for a security overhaul. Its early investigation suggests a compromised DevOps engineer's laptop let the attacker reach a service container and submit unauthorized withdrawals; security firm TRM Labs blamed TraderTraitor, North Korea's elite hacking unit. The scare came the same day Polymarket froze trading after a separate hack."
-    },
-    {
-      "n": 11,
-      "headline": "Israel's final count leaves neither Netanyahu nor rival Eisenkot able to form a government",
-      "cat": "World / Israel",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/world/israel/israels-final-election-results-show-neither-netanyahu-rival-can-immedi-rcna606290",
-      "image_local": "images/story-1592.jpg",
-      "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261029-netanyahu-israel-mn-1400-2b8edb.jpg",
-      "id": "06e373aa475cf4d03431bcb1a0b00d5e5535fde1",
-      "summary": "With all votes counted from Tuesday's election, Prime Minister Benjamin Netanyahu's right-wing bloc won 53 of the Knesset's 120 seats, well below the 68 it held at its peak, while the bloc backing his main rival, former army chief Gadi Eisenkot, won 48. Neither side has the 61 seats needed to govern. The results must be certified and sent to President Isaac Herzog next Wednesday, after which he will consult party leaders and pick the candidate he thinks has the best chance of building a coalition. Arab-led parties made historic gains with a combined 19 seats after record turnout among Arab citizens, but both main blocs have ruled out governing with the two main Arab parties, Ra'am and the Joint List. Netanyahu's Likud party claimed the election was \"stolen by Arab parties,\" though the acting head of Israel's Central Elections Committee said there is \"no basis\" for claims of systematic violations."
-    },
-    {
-      "n": 12,
-      "headline": "Penguins lead with 24 seconds left, then Cooley's hat trick at the buzzer and Sergachev in OT sink them 4-3",
-      "cat": "Sports / NHL",
-      "source": "NHL.com",
-      "url": "https://www.nhl.com/news/utah-mammoth-pittsburgh-penguins-game-recap-october-29-2026",
-      "image_local": "images/story-1593.jpg",
-      "image_remote": "https://media.d3.nhle.com/image/private/t_ratio16_9-size50/prd/tc0ungmhgjyom6vmdenu.png",
-      "id": "c7da114d896aac0689569d72539f907fcd7bbd24",
-      "summary": "The Penguins were seconds from a third straight win Thursday night at PPG Paints Arena before Pittsburgh native Logan Cooley batted a puck out of the air with one second left in regulation to complete his hat trick and tie it 3-3, and Mikhail Sergachev won it for the Utah Mammoth at 3:27 of overtime. Cooley had scored twice in the first period for a 2-0 Utah lead. Erik Karlsson cut it to 2-1 in the second, and Rickard Rakell tied it with a short-handed goal at 10:59 of the third, his third goal in four games. Ben Kindel, the 19-year-old who was playing for the first time since a fainting episode on the team plane after leaving Salt Lake City on Oct. 20, then put Pittsburgh ahead 3-2 with 25 seconds left, only for Cooley to answer 24 seconds later. Kindel finished with a goal and an assist, Evgeni Malkin had two assists, and Arturs Silovs made 30 saves. Pittsburgh is now 5-6-2; Utah goalie Sebastian Cossa stopped 31 shots as the Mammoth improved to 9-5-0."
-    },
-    {
-      "n": 13,
-      "headline": "Bears land All-Pro DT Jeffery Simmons from the Titans for two first-round picks",
-      "cat": "Sports / NFL",
-      "source": "NBC Chicago",
-      "url": "https://www.nbcchicago.com/news/sports/nfl/chicago-bears/bears-trade-jeffery-simmons-titans-first-round-picks/4009115/",
-      "image_local": "images/story-1594.jpg",
-      "image_remote": "https://media.nbcchicago.com/2026/10/261029-jeffery-simmons-getty.jpg?quality=85&strip=all&resize=1200%2C675",
-      "id": "c73198f4481182238bd2d9363af364d88fe7d7ed",
-      "summary": "The Chicago Bears acquired star defensive tackle Jeffery Simmons from the Tennessee Titans on Thursday in one of the biggest moves ahead of the Nov. 10 trade deadline. Chicago sends first-round picks in 2027 and 2028 plus a 2027 fourth-rounder to Tennessee, and gets Simmons and a 2028 fifth-round pick back. Simmons, 29, is a four-time Pro Bowler and was a first-team All-Pro last season, when he had career highs of 11 sacks and three forced fumbles; he signed a three-year extension worth a reported $105.8 million in July and has four sacks in seven games this year. The Titans, 1-6, are moving into rebuilding mode, and owner Amy Adams Strunk thanked the five-time team captain for what he gave Nashville on and off the field. The 5-2 Bears, in their second season under coach Ben Johnson, could debut Simmons Monday night in Seattle against a Seahawks team that just traded for guard Quenton Nelson."
-    },
-    {
-      "n": 14,
-      "headline": "Hegseth fires the Pentagon's top military planner over alleged leaks about the Iran and Ukraine wars",
-      "cat": "Politics / Defense",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/hegseth-fires-pentagons-top-military-planner/",
-      "image_local": "images/story-1595.jpg",
-      "image_remote": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/29/de97269c-125e-4352-9039-c0c69ba36544/thumbnail/1200x630g2/f3c095c5fd3b10dbb5e2870501815d11/ap26302086135824.jpg",
-      "id": "97dbf6f5e07d8f6a676f0f4e285133573d44dfc9",
-      "summary": "Defense Secretary Pete Hegseth has fired Army Lt. Gen. Brett Sylvia, the Joint Staff's director for strategy, plans and policy, who was coordinating the Iran battle plan. A Pentagon official told CBS News that Sylvia was accused of leaking classified information about the Iran war and the Russia-Ukraine war, failed three polygraph tests about talking to the press, and that the case has been referred to the Justice Department. Two other Pentagon sources said the firing was tied to the polygraphs but that the accusations are not true. Pentagon spokesperson Sean Parnell said that after an Air Force investigation the department took \"necessary personnel action,\" adding, \"We vowed to find you, and we meant it.\" The Joint Staff first thanked Sylvia for 32 years of service, then retracted that statement. Sylvia, a former 101st Airborne commander, earned a Bronze Star for Valor and a Purple Heart. He is the second general removed from that post under Hegseth, as President Trump weighs resuming strikes on Iran after the Nov. 3 midterms."
-    },
-    {
-      "n": 15,
-      "headline": "A Pompeii wardrobe untouched since Vesuvius erupted held a woman's makeup tools, 38 coins and a childhood charm necklace",
-      "cat": "Science / History",
-      "source": "Archaeology Magazine",
-      "url": "https://archaeologymag.com/2026/10/pompeii-wardrobe-found-untouched-since-79-ce/",
-      "image_local": "images/story-1596.jpg",
-      "image_remote": "https://archaeologymag.com/wp-content/uploads/pompeii-wardrobe-1.jpg",
-      "id": "05c1d59560cb83006dd7402d18ff23f754403f8b",
-      "summary": "Archaeologists at Pompeii have reconstructed a wooden wardrobe, and everything in it, that nobody opened again after Mount Vesuvius buried the city in 79 A.D. It stood in the House of Cornelius Maximus on Via dell'Abbondanza, one of the ancient city's busiest streets. The shelves held a woman's grooming kit, including tweezers, a small pestle for mixing makeup, a glass perfume bottle and an incense burner, along with a bronze lamp, lead trade weights, cookware and a fine little mug decorated with pine-cone scales. The most personal item was a necklace of at least 24 tiny charms showing gods, hands, feet and bunches of grapes, kept in a cloth bag. Once thought to be magic objects, these are crepundia, rattles hung on children to protect them, which adults often kept for life as a reminder of home. A woven basket held 38 bronze coins, and the remains of two mice were also found. Nobody ever came back for any of it, suggesting the owners fled with nothing or died in the eruption."
-    },
-    {
-      "n": 16,
-      "headline": "'Breaking Away' Oscar nominee Barbara Barrie dies at 95 under New York's new medical aid-in-dying law",
-      "cat": "Entertainment / Obituary",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/news/us-news/barbara-barrie-dies-medical-assistance-95-rcna606361",
-      "image_local": "images/story-1597.jpg",
-      "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261029-barbara-barrie-mn-1155-3363d6.jpg",
-      "id": "f2eee28185c78dc802549dfa6036ea10d8549eec",
-      "summary": "Barbara Barrie, the actor nominated for an Oscar for playing the mom, Evelyn Stohler, in 1979's \"Breaking Away,\" died Wednesday at her New York City home at 95. Her agent said her death was medically assisted under New York's Medical Aid in Dying law, which took effect Aug. 5 and lets terminally ill adults with less than six months to live obtain medication to end their lives. Her daughter, Jane Harnick, said Barrie had terminal cancer and had long said she wanted to go on her own terms, adding that the timing of the law was \"perfect\" because her mother didn't want her family to watch her suffer. Barrie had also lived for years with idiopathic pulmonary fibrosis. She earned a 1971 Tony nomination for the musical \"Company\" and Emmy nominations for \"Law & Order,\" \"Law & Order: Special Victims Unit\" and the \"Breaking Away\" TV series, and also appeared on Broadway in \"The Prisoner of Second Avenue.\""
-    },
-    {
-      "n": 17,
-      "headline": "Bodum recalls 5.9 million French presses because the glass carafe can shatter and burn you",
-      "cat": "Consumer / Recalls",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/french-press-coffee-makers-recall-bodum-usa/",
-      "image_local": "",
-      "image_remote": "",
-      "id": "8db62d425c5af20da01a62dde45772664b6712e3",
-      "summary": "Bodum USA is recalling about 5.9 million French press coffee makers sold since 1974 at Target, Walmart, Amazon and other stores, because the glass carafe can break unexpectedly and cause burns. The Consumer Product Safety Commission says Bodum has received 70 reports of carafes breaking, 48 of which led to burn injuries. Damage often starts when people stir the coffee with metal spoons, which can crack the glass. The recall covers 8-cup French presses and 12-cup Bistro, Brazil, Caffettiera, Chambord, Crema, Java, Jesper and Kenya models (recall number 27-055). Bodum is not offering refunds; instead, owners can contact the company for a free plastic stirring spoon. Regulators say to stop using metal utensils in the press and stop using any carafe that is cracked or damaged. Bodum can be reached at 888-879-8213, weekdays 8 a.m. to 5 p.m. Eastern, or through the recall page on bodum.com."
     },
     {
       "n": 18,
