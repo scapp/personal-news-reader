@@ -1804,7 +1804,14 @@
     "a1e2fe5d02c49354d790b4b022a2f3b3220fcc5a",
     "4e4b3b09e104ed1014238c42c6eb6cdb1689d56a",
     "19163e5661a075a8658f0c111c6ba711fa5a12a2",
-    "adce18d8bd532a459891474807a3afbb3e5df125"
+    "adce18d8bd532a459891474807a3afbb3e5df125",
+    "8d273a5f60352da9cbc262a7d3a9befcf6488cf6",
+    "1f8c8c01d649f3d77b9204dd59fb48f80dea1f0a",
+    "31dc5998d8aebf6bd49432c8cfc7f9fe18de57e7",
+    "3767d3200c790896de7b13c6279abb9d80b66b14",
+    "13d5cb5fe456412fa74d72b84ca6f02898f25f32",
+    "06e6d3e668cd1d4afe561bdfeaae3481d56a8e51",
+    "44607bc1208b632ba6c7366b89593668111b9387"
   ],
   "stories": {
     "0c2ac7a5e342411678296315c4c59043b1f067cc": {
@@ -21212,7 +21219,77 @@
       "image_remote": "",
       "image_local": "",
       "id": "adce18d8bd532a459891474807a3afbb3e5df125"
+    },
+    "8d273a5f60352da9cbc262a7d3a9befcf6488cf6": {
+      "headline": "Meta settles a social media addiction lawsuit days before trial, leaving Snap to face the jury alone",
+      "cat": "Tech / Courts",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/meta-settles-social-media-addiction-lawsuit-snapchat/",
+      "summary": "Meta has settled a lawsuit claiming its platforms were designed to hook young users, resolving the case before a trial set to begin next month in Los Angeles, according to a lawyer for one of the plaintiffs. The suit was brought by an 18-year-old identified in court papers as K.D.B., who alleged that Meta and Snapchat's parent company Snap built their apps to foster addictive behavior that fed her mental health struggles; a second plaintiff, S.J., settled with Meta last week, and TikTok and YouTube had already settled separately. Snap remains a defendant, and the plaintiffs' lawyers say features like Snapstreaks, Snapscores, push notifications and filters drove compulsive use that contributed to depression, anxiety, an eating disorder and self-harm. Snap disputes the claims. Jury selection began this week, with opening statements expected in early November and a trial that could run into mid-December.",
+      "image_remote": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/26/d9d445ff-0c00-44c6-8a12-28d85aa99fd9/thumbnail/1200x630/f9b54e305c30c993c91ce4d41a5625ff/cbsn-fusion-meta-settles-social-media-addiction-case-thumbnail.jpg",
+      "image_local": "images/story-1612.jpg",
+      "id": "8d273a5f60352da9cbc262a7d3a9befcf6488cf6"
+    },
+    "1f8c8c01d649f3d77b9204dd59fb48f80dea1f0a": {
+      "headline": "Jets rule out T'Vondre Sweat and list rookie David Bailey as doubtful for Sunday's game against the Raiders",
+      "cat": "Sports / NFL",
+      "source": "New York Jets",
+      "url": "https://www.newyorkjets.com/news/notebook-tvondre-sweat-out-rookie-david-bailey-doubtful-against-raiders-on-sunday-10-30-2026",
+      "summary": "Jets head coach Aaron Glenn said Friday that defensive tackle T'Vondre Sweat (knee), edge rusher Joseph Ossai (ankle) and offensive lineman Max Mitchell (concussion protocol) will miss Sunday's game against the Las Vegas Raiders at MetLife Stadium. Rookie edge rusher David Bailey, limited in practice Wednesday and Thursday, sat out Friday and is doubtful, which would push Nate Lynn, who had his first career sack against Miami last week, into a bigger role. Running back Breece Hall and left guard Dylan Parham are questionable after limited practices; Glenn called Hall \"a key cog of what we're doing.\" Defensive tackle Harrison Phillips said the defensive line room is one of the deepest he has played in and that fans shouldn't expect a big drop-off without the 366-pound Sweat.",
+      "image_remote": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/jets/shicyfbt6faueazvvw9n",
+      "image_local": "images/story-1613.jpg",
+      "id": "1f8c8c01d649f3d77b9204dd59fb48f80dea1f0a"
+    },
+    "31dc5998d8aebf6bd49432c8cfc7f9fe18de57e7": {
+      "headline": "Archaeologists at Troy dig up a 2,700-year-old bone flute, the first musical instrument ever found at the site",
+      "cat": "Science / Archaeology",
+      "source": "Gizmodo",
+      "url": "https://gizmodo.com/archaeologists-at-ancient-troy-unearth-a-2700-year-old-bone-flute-odysseus-never-heard-it-2000832280",
+      "summary": "Excavators at ancient Troy in modern-day Turkey have found two notable artifacts from before and after the era usually linked to Homer's Trojan War: a roughly 4,500-year-old idol head and a bone flute fragment from about the 700s BCE. Reyhan Körpe, deputy director of the Troy Excavations, told Gizmodo the flute piece is, as far as researchers know, the first identifiable musical instrument recovered at Troy; one end is shaped to slot into another tube, suggesting it was the top of a wind instrument whose wood or reed body has rotted away. It came from the community that resettled Troy after centuries of near-abandonment, and the team's work suggests that resettlement began earlier than thought. The idol head, from around 2500 BCE, was found beneath the floor of a citadel entrance called the FN Gate, raising questions about whether it was deliberately buried there for protection.",
+      "image_remote": "https://gizmodo.com/app/uploads/2026/10/idol-head-and-bone-flute-1200x675.jpg",
+      "image_local": "images/story-1614.jpg",
+      "id": "31dc5998d8aebf6bd49432c8cfc7f9fe18de57e7"
+    },
+    "3767d3200c790896de7b13c6279abb9d80b66b14": {
+      "headline": "Canada says it expects to become the European Union's first 'associate member' after talks wrap up in June",
+      "cat": "World / Canada",
+      "source": "PBS News (AP)",
+      "url": "https://www.pbs.org/newshour/world/canada-is-taking-steps-toward-becoming-european-unions-first-associate-member",
+      "summary": "Prime Minister Mark Carney said Friday that he expects to finish negotiations in June on an unprecedented partnership that would make Canada the European Union's first associate member, a relationship that would stop short of full membership. The designation wasn't in the joint declaration issued at the end of a two-day summit in Montreal, which instead launched an \"Alliance for the Future\" and committed to defining an \"ever-closer association\" by the next summit in 2027. Carney said Canadian cabinet ministers and European commissioners will meet in March before he attends European Council meetings in June. The two sides also finished the main talks on a digital trade deal to make it easier to do business and move data across the Atlantic, and agreed on European investment in Canadian critical minerals, as both look to rely less on the United States.",
+      "image_remote": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/Carney-and-Leyen-1024x683.jpg",
+      "image_local": "images/story-1615.jpg",
+      "id": "3767d3200c790896de7b13c6279abb9d80b66b14"
+    },
+    "13d5cb5fe456412fa74d72b84ca6f02898f25f32": {
+      "headline": "'Call of Duty' will cut real footage of Seoul's deadly Halloween crowd crush after families protest",
+      "cat": "Gaming / World",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/world/asia/outcry-prompts-call-duty-cut-seoul-tragedy-footage-rcna606496",
+      "summary": "Activision said Friday it will remove real news footage of the 2022 Itaewon crowd crush from \"Call of Duty: Modern Warfare 4\" after an outcry in South Korea. The game, released worldwide last week just before the Oct. 29 anniversary of the disaster that killed nearly 160 people in Seoul's nightlife district, is set during a fictional North Korean invasion of the South and used about 10 seconds of heavily edited footage to show the aftermath of an attack, without naming the tragedy. Groups representing victims' families called it appalling that the game reproduced real scenes of people performing CPR \"while victims lay on the cold streets amid chaos and desperation.\" Activision apologized and said the footage will be fully removed in a game update scheduled for Nov. 12.",
+      "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261030-call-of-duty-mb-0825-04c003.jpg",
+      "image_local": "images/story-1616.jpg",
+      "id": "13d5cb5fe456412fa74d72b84ca6f02898f25f32"
+    },
+    "06e6d3e668cd1d4afe561bdfeaae3481d56a8e51": {
+      "headline": "Queens of the Stone Age release 'Perfecth,' their ninth album, ahead of a spring tour with Pixies",
+      "cat": "Music / Rock",
+      "source": "Consequence",
+      "url": "https://consequence.net/2026/10/queens-of-the-stone-age-perfecth-album-stream/",
+      "summary": "Queens of the Stone Age have released Perfecth, their ninth studio album, which Consequence says blends the band's early \"robot rock\" sound with the moody, psychedelic art rock of their middle period and the darker crooner style they developed on their Catacombs tour. Consequence gave the record a B+, praising its cinematic sound and a return to sharp, clever lyrics. The album was preceded by the singles \"Easy Street,\" \"Insignificant Other\" and \"Where the Goth Girls At?,\" which the band also played on The Tonight Show. In a cover-story interview, Josh Homme talked about the songs, his friendship with Dave Grohl and the chance of reunions with Them Crooked Vultures and Kyuss. The band has a spring 2027 North American tour lined up with Pixies and Wheelchair Sports Camp.",
+      "image_remote": "https://consequence.net/wp-content/uploads/2026/10/Queens-of-the-Stone-Age.jpg",
+      "image_local": "images/story-1617.jpg",
+      "id": "06e6d3e668cd1d4afe561bdfeaae3481d56a8e51"
+    },
+    "44607bc1208b632ba6c7366b89593668111b9387": {
+      "headline": "FDA warns Medline electric hospital beds can catch fire after two deaths and 16 serious injuries",
+      "cat": "Health / Safety",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/medline-hospital-bed-fire-hazard-fda-warning/",
+      "summary": "The Food and Drug Administration is warning that motorized hospital beds from medical supplier Medline can overheat and catch fire, after two people died and 16 others were seriously injured. Medline, based in Northfield, Illinois, issued an urgent notice this week telling customers to stop using the beds and related products until they are modified, saying that when motors or other parts jam, the electrical components can smoke, spark, melt, burn or ignite. The company also warned that bed accessories can pose asphyxiation or entrapment risks. Medline told vendors to halt sales of its branded beds, rails, mattresses and bed kits, and says it is ending production of homecare and long-term care beds and leaving that market. A spokesperson said customers can keep using the products if they follow the company's instructions, which were first issued Oct. 24.",
+      "image_remote": "",
+      "image_local": "",
+      "id": "44607bc1208b632ba6c7366b89593668111b9387"
     }
   },
-  "updated": "Friday, October 30, 2026 · 11:39 AM ET"
+  "updated": "Friday, October 30, 2026 · 4:05 PM ET"
 }
