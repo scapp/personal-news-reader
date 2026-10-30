@@ -1,8 +1,85 @@
 {
-  "updated": "Friday, October 30, 2026 · 4:05 PM ET",
+  "updated": "Friday, October 30, 2026 · 6:03 PM ET",
   "stories": [
     {
       "n": 1,
+      "headline": "U.S. approves a $2.1 billion sale of 500 Patriot interceptors to Ukraine, paid for by allies",
+      "cat": "World / Ukraine",
+      "source": "Kyiv Independent",
+      "url": "https://kyivindependent.com/us-approves-2-1-billion-patriot-missile-sale-to-ukraine-as-nato-commander-dismisses-delivery-concerns/",
+      "image_local": "images/story-1618.jpg",
+      "image_remote": "https://assets.kyivindependent.com/content/images/2026/10/GettyImages-1251802290_20261030-212007_20261030-212201.jpg",
+      "id": "14604f4ad863a4eca3548553e70549af62492819",
+      "summary": "The State Department on Friday approved a possible $2.1 billion sale of 500 PAC-3 MSE Patriot interceptor missiles to Ukraine, along with spare parts and logistics support. Canada, Germany and Norway would finance the deal through the U.S.-led JUMPSTART fast-track program, with the rest covered by Ukrainian funds backed by an EU loan, so no U.S. government money would be used. The approval is a step toward a sale rather than a done deal: Congress generally has 30 days to review it, and building and delivering the missiles can take years. The same day, NATO's top commander, Gen. Alexus Grynkewich, said U.S. deliveries of weapons bought by European allies for Ukraine are arriving without delays, pushing back on President Volodymyr Zelensky's complaints that Washington has been slow to approve Patriot transfers."
+    },
+    {
+      "n": 2,
+      "headline": "Apple passes Nvidia again as the world's most valuable company despite the tech sell-off",
+      "cat": "Tech / Apple",
+      "source": "AppleInsider",
+      "url": "https://appleinsider.com/articles/26/10/30/iphone-demand-sees-apple-topple-nvidia-as-most-valuable-company-again",
+      "image_local": "",
+      "image_remote": "",
+      "id": "ba421a38929d5addf52c2f49db0081e19c614c33",
+      "summary": "Apple ended Friday as the world's most valuable company once more, closing at $344.63 a share for a market value of about $5.03 trillion, while Nvidia finished at $204.64 and roughly $4.93 trillion after a rough day for chip and AI stocks. AppleInsider credits steady iPhone and Services demand, a run of new hardware including the iPhone Duo foldable and the HomeView smart home device, both of which sold out in preorders, and a smooth handover of the CEO job from Tim Cook to John Ternus. Not everyone is upbeat: Loop Capital argues that moving the base iPhone launch from September to early 2027 has confused buyers and cost sales. The top spot has flipped between the two companies for months and could flip back quickly."
+    },
+    {
+      "n": 3,
+      "headline": "ATF's top lawyer Robert Leider, who led the overhaul of federal gun rules, is stepping down",
+      "cat": "Politics / Guns",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/robert-leider-top-lawyer-atf-resigns/",
+      "image_local": "",
+      "image_remote": "",
+      "id": "a366d15226c3d0b72dc78365d511ebd9eeeb4265",
+      "summary": "Robert Leider, chief counsel at the Bureau of Alcohol, Tobacco, Firearms and Explosives, announced Friday that he is resigning, CBS News reported, and the ATF confirmed it in a brief statement. Leider, a former clerk for Justice Clarence Thomas and a strong Second Amendment supporter, has overseen the Justice Department's April overhaul of dozens of firearms regulations, including a proposal to repeal the Biden-era \"engaged in the business\" rule that widened who must get a dealer license and run background checks. Sources said he sometimes disagreed with Justice Department leadership on how to handle lawsuits from gun-rights groups, most recently over a decision not to appeal a Texas ruling that loosened rules on short-barreled rifles, shotguns and suppressors. He is expected to stay until the new year and then return to teaching at George Mason University's Antonin Scalia Law School."
+    },
+    {
+      "n": 4,
+      "headline": "Overnight repaving on Route 111 (Main Street) in Trumbull will start after the polls close on Election Day",
+      "cat": "Local / Trumbull CT",
+      "source": "Town of Trumbull",
+      "url": "https://www.trumbull-ct.gov/CivicAlerts.aspx?AID=3207",
+      "image_local": "",
+      "image_remote": "",
+      "id": "fe4ba3233219626d20b0adff8f8f436652c9ac1a",
+      "summary": "The Connecticut Department of Transportation will mill and resurface a short stretch of Route 111 (Main Street) in Trumbull between Whalburn Avenue and Chestnut Hill Road, the town said Friday. To avoid traffic trouble on Election Day, crews from Waters Construction won't start until the polls close on Tuesday, Nov. 3, and will work overnight to finish on Wednesday, Nov. 4. Drivers should expect lane closures on that 0.09-mile segment, with traffic control personnel, signs and local police guiding motorists through the work zone. CTDOT says the schedule could change because of weather or other unforeseen conditions and asks drivers to keep their speed down in the area."
+    },
+    {
+      "n": 5,
+      "headline": "Triumph cancel the second leg of their 'Rock & Roll Machine Reloaded' U.S. tour over sudden medical issues",
+      "cat": "Music / Rock",
+      "source": "Blabbermouth",
+      "url": "https://blabbermouth.net/news/triumph-cancels-leg-two-of-2026-rock-roll-machine-reloaded-u-s-tour-due-to-sudden-and-unexpected-medical-circumstances",
+      "image_local": "images/story-1619.jpg",
+      "image_remote": "https://assets.blabbermouth.net/media/triumphpressaug2026_638.jpg",
+      "id": "8c377429f4426e714ea28fea2aa41beca53b1e08",
+      "summary": "Canadian rock veterans Triumph have called off the rest of their 2026 \"Rock & Roll Machine Reloaded\" tour, citing \"sudden and unexpected medical circumstances affecting the band.\" The second leg was due to start in under three weeks and run through the Midwest, Northeast, Southwest and West Coast in November and December, with Rik Emmett and Gil Moore joined by Bon Jovi guitarist Phil X and Brent Fitz and Todd Kerns of Slash's Conspirators. The band said the situation keeps them from rehearsing, apologized for the short notice, and said that \"thankfully, the outlook is positive\" and they will return to the stage as soon as possible. Tickets for the canceled dates will be refunded automatically. Original bassist Mike Levine sat out this year's shows because of a hand problem."
+    },
+    {
+      "n": 6,
+      "headline": "Hackers get Hasselblad's X2D II 100C to shoot video, run ChatGPT and even boot Linux",
+      "cat": "Cameras / Tech",
+      "source": "PetaPixel",
+      "url": "https://petapixel.com/2026/10/30/hacked-hasselblad-x2d-ii-100c-shoots-video-has-chatgpt-and-runs-linux/",
+      "image_local": "images/story-1620.jpg",
+      "image_remote": "https://petapixel.com/assets/uploads/2026/10/hassel-hack.jpg",
+      "id": "50909962bf7b68f2945994bacd608b1bb50db502",
+      "summary": "Weeks after a developer named Radium Wang got Doom running on Hasselblad's X2D II 100C medium format camera, other tinkerers have used Wang's open-source GitHub work to push the camera much further, PetaPixel reports. A Chinese creator built experimental firmware that adds video recording, something the stills-only camera can't do out of the box and Hasselblad has shown no plans to add. Wang has also put Apple CarPlay and ChatGPT on the camera, and a Reddit user booted a Linux kernel on it. Wang's repositories cover features such as LiDAR, autofocus and stabilization, which could open the door to more practical upgrades, much like the Magic Lantern firmware did for Canon cameras. PetaPixel cautions that hacking a camera carries risks and possible legal issues."
+    },
+    {
+      "n": 7,
+      "headline": "Houston grand jury indicts an ICE officer on a felony charge for hitting a man with his vehicle during a chase",
+      "cat": "Crime / Courts",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/ice-officer-indicted-felony-texas-hit-man-vehicle/",
+      "image_local": "images/story-1621.jpg",
+      "image_remote": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/30/3c37452a-13f6-416e-8285-cdde68e171a3/thumbnail/1200x630g2/c4b03861ab7a837eaab8ae28636a0488/ap26303598517837.jpg",
+      "id": "562f869d97095de123db1f3eae4f12b40549a3cd",
+      "summary": "A Harris County grand jury has indicted ICE officer Mario Alberto Morales on a charge of aggravated assault with a deadly weapon, District Attorney Sean Teare announced Friday, which carries two to 20 years in prison if he is convicted. Prosecutors say that on Oct. 10 in Houston, Morales chased a vehicle driven by Miguel Parra-Hernandez, a 48-year-old Mexican national living in Texas without legal status for more than 30 years with no criminal record, and struck him with a Jeep Grand Cherokee after he fled on foot, breaking his leg. Teare played body camera footage in which the officer says, \"I was coming in, and I hit him with the car,\" and said Morales \"aggressively steered\" into him and ran over both legs. ICE had initially said the man ran in front of the vehicle. Teare expects Morales to be taken into custody soon."
+    },
+    {
+      "n": 8,
       "headline": "Meta settles a social media addiction lawsuit days before trial, leaving Snap to face the jury alone",
       "cat": "Tech / Courts",
       "source": "CBS News",
@@ -13,7 +90,7 @@
       "summary": "Meta has settled a lawsuit claiming its platforms were designed to hook young users, resolving the case before a trial set to begin next month in Los Angeles, according to a lawyer for one of the plaintiffs. The suit was brought by an 18-year-old identified in court papers as K.D.B., who alleged that Meta and Snapchat's parent company Snap built their apps to foster addictive behavior that fed her mental health struggles; a second plaintiff, S.J., settled with Meta last week, and TikTok and YouTube had already settled separately. Snap remains a defendant, and the plaintiffs' lawyers say features like Snapstreaks, Snapscores, push notifications and filters drove compulsive use that contributed to depression, anxiety, an eating disorder and self-harm. Snap disputes the claims. Jury selection began this week, with opening statements expected in early November and a trial that could run into mid-December."
     },
     {
-      "n": 2,
+      "n": 9,
       "headline": "Jets rule out T'Vondre Sweat and list rookie David Bailey as doubtful for Sunday's game against the Raiders",
       "cat": "Sports / NFL",
       "source": "New York Jets",
@@ -24,7 +101,7 @@
       "summary": "Jets head coach Aaron Glenn said Friday that defensive tackle T'Vondre Sweat (knee), edge rusher Joseph Ossai (ankle) and offensive lineman Max Mitchell (concussion protocol) will miss Sunday's game against the Las Vegas Raiders at MetLife Stadium. Rookie edge rusher David Bailey, limited in practice Wednesday and Thursday, sat out Friday and is doubtful, which would push Nate Lynn, who had his first career sack against Miami last week, into a bigger role. Running back Breece Hall and left guard Dylan Parham are questionable after limited practices; Glenn called Hall \"a key cog of what we're doing.\" Defensive tackle Harrison Phillips said the defensive line room is one of the deepest he has played in and that fans shouldn't expect a big drop-off without the 366-pound Sweat."
     },
     {
-      "n": 3,
+      "n": 10,
       "headline": "Archaeologists at Troy dig up a 2,700-year-old bone flute, the first musical instrument ever found at the site",
       "cat": "Science / Archaeology",
       "source": "Gizmodo",
@@ -35,7 +112,7 @@
       "summary": "Excavators at ancient Troy in modern-day Turkey have found two notable artifacts from before and after the era usually linked to Homer's Trojan War: a roughly 4,500-year-old idol head and a bone flute fragment from about the 700s BCE. Reyhan Körpe, deputy director of the Troy Excavations, told Gizmodo the flute piece is, as far as researchers know, the first identifiable musical instrument recovered at Troy; one end is shaped to slot into another tube, suggesting it was the top of a wind instrument whose wood or reed body has rotted away. It came from the community that resettled Troy after centuries of near-abandonment, and the team's work suggests that resettlement began earlier than thought. The idol head, from around 2500 BCE, was found beneath the floor of a citadel entrance called the FN Gate, raising questions about whether it was deliberately buried there for protection."
     },
     {
-      "n": 4,
+      "n": 11,
       "headline": "Canada says it expects to become the European Union's first 'associate member' after talks wrap up in June",
       "cat": "World / Canada",
       "source": "PBS News (AP)",
@@ -46,7 +123,7 @@
       "summary": "Prime Minister Mark Carney said Friday that he expects to finish negotiations in June on an unprecedented partnership that would make Canada the European Union's first associate member, a relationship that would stop short of full membership. The designation wasn't in the joint declaration issued at the end of a two-day summit in Montreal, which instead launched an \"Alliance for the Future\" and committed to defining an \"ever-closer association\" by the next summit in 2027. Carney said Canadian cabinet ministers and European commissioners will meet in March before he attends European Council meetings in June. The two sides also finished the main talks on a digital trade deal to make it easier to do business and move data across the Atlantic, and agreed on European investment in Canadian critical minerals, as both look to rely less on the United States."
     },
     {
-      "n": 5,
+      "n": 12,
       "headline": "'Call of Duty' will cut real footage of Seoul's deadly Halloween crowd crush after families protest",
       "cat": "Gaming / World",
       "source": "NBC News",
@@ -57,7 +134,7 @@
       "summary": "Activision said Friday it will remove real news footage of the 2022 Itaewon crowd crush from \"Call of Duty: Modern Warfare 4\" after an outcry in South Korea. The game, released worldwide last week just before the Oct. 29 anniversary of the disaster that killed nearly 160 people in Seoul's nightlife district, is set during a fictional North Korean invasion of the South and used about 10 seconds of heavily edited footage to show the aftermath of an attack, without naming the tragedy. Groups representing victims' families called it appalling that the game reproduced real scenes of people performing CPR \"while victims lay on the cold streets amid chaos and desperation.\" Activision apologized and said the footage will be fully removed in a game update scheduled for Nov. 12."
     },
     {
-      "n": 6,
+      "n": 13,
       "headline": "Queens of the Stone Age release 'Perfecth,' their ninth album, ahead of a spring tour with Pixies",
       "cat": "Music / Rock",
       "source": "Consequence",
@@ -68,7 +145,7 @@
       "summary": "Queens of the Stone Age have released Perfecth, their ninth studio album, which Consequence says blends the band's early \"robot rock\" sound with the moody, psychedelic art rock of their middle period and the darker crooner style they developed on their Catacombs tour. Consequence gave the record a B+, praising its cinematic sound and a return to sharp, clever lyrics. The album was preceded by the singles \"Easy Street,\" \"Insignificant Other\" and \"Where the Goth Girls At?,\" which the band also played on The Tonight Show. In a cover-story interview, Josh Homme talked about the songs, his friendship with Dave Grohl and the chance of reunions with Them Crooked Vultures and Kyuss. The band has a spring 2027 North American tour lined up with Pixies and Wheelchair Sports Camp."
     },
     {
-      "n": 7,
+      "n": 14,
       "headline": "FDA warns Medline electric hospital beds can catch fire after two deaths and 16 serious injuries",
       "cat": "Health / Safety",
       "source": "CBS News",
@@ -79,18 +156,18 @@
       "summary": "The Food and Drug Administration is warning that motorized hospital beds from medical supplier Medline can overheat and catch fire, after two people died and 16 others were seriously injured. Medline, based in Northfield, Illinois, issued an urgent notice this week telling customers to stop using the beds and related products until they are modified, saying that when motors or other parts jam, the electrical components can smoke, spark, melt, burn or ignite. The company also warned that bed accessories can pose asphyxiation or entrapment risks. Medline told vendors to halt sales of its branded beds, rails, mattresses and bed kits, and says it is ending production of homecare and long-term care beds and leaving that market. A spokesperson said customers can keep using the products if they follow the company's instructions, which were first issued Oct. 24."
     },
     {
-      "n": 8,
-      "headline": "Tech stocks get crushed as the Nasdaq drops more than 600 points on AI fears",
+      "n": 15,
+      "headline": "Tech stocks get crushed as the Nasdaq closes down more than 700 points on AI fears",
       "cat": "Business / Markets",
       "source": "CBS News",
       "url": "https://www.cbsnews.com/news/nasdaq-futures-tumble-tech-earnings-ai/",
       "image_local": "images/story-1606.jpg",
       "image_remote": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/03/09/79d66ab2-a42c-475b-91aa-6e8c0ecca229/thumbnail/1200x630/b8fe2e5c8cb8472bf24a59cca378a141/11-mcnicholas-image.jpg",
       "id": "bf93c25782e034e499e5dc70661cccfa721879eb",
-      "summary": "The Nasdaq Composite fell 610 points, or 2.3%, in early trading Friday after disappointing earnings from Alphabet, Amazon and Intel revived fears that the artificial intelligence boom may not pay off the way Wall Street expected. Intel plunged nearly 29% at the open, and Alphabet kept sliding after its Class A shares fell more than 12% on Thursday, the company's worst day since it went public as Google in 2004, wiping out roughly $500 billion in market value. The S&P 500 dropped 1.2% and the Dow 0.4% after the opening bell. One analyst called it \"one of the worst tech earnings seasons in memory.\" Investors are also uneasy about the debt companies are piling up to build AI data centers, and UBS has been advising clients to diversify beyond AI stocks."
+      "summary": "The Nasdaq Composite tumbled more than 700 points on Friday, a rough end to October trading, after disappointing earnings from Alphabet, Amazon and Intel revived fears that the artificial intelligence boom may not pay off the way Wall Street expected. Intel closed down nearly 29%, the chipmaker's biggest one-day drop since 1974, and Alphabet kept sliding after a 12% fall on Thursday that erased roughly $500 billion in market value. Nvidia fell 4.2%. The selling spread across the market: the S&P 500 sank 140 points, or 1.8%, and the Dow lost 572 points, or 1.1%. One analyst called it \"one of the worst tech earnings seasons in memory.\" Investors are also uneasy about the debt companies are taking on to build AI data centers and about expectations that the Federal Reserve will keep raising interest rates."
     },
     {
-      "n": 9,
+      "n": 16,
       "headline": "Pope Leo becomes the first pope ever to vote in a U.S. election, mailing in his ballot",
       "cat": "World / Faith",
       "source": "CBS News",
@@ -101,18 +178,7 @@
       "summary": "The Vatican confirmed Friday that Chicago-born Pope Leo XIV has cast a mail-in ballot in next week's midterm elections, making him the first pontiff to vote in a U.S. election. He is registered at an address in New Lenox, Illinois, in Will County, and requested his ballot on Oct. 3, days before his lung cancer surgery; the Vatican said he \"has exercised his right to vote as a United States citizen, whenever he was eligible to do so\" and believes in citizens' duty to take part in democracy. Illinois records show that, as Robert Prevost, he voted in every general election since 2000 except 2020 and 2022, and in five primaries, taking Democratic ballots in 2008 and 2019 and Republican ballots in 2012, 2014 and 2016. He holds U.S. and Peruvian citizenship. The pope left the hospital Oct. 17 and is still planning a trip to South America next month."
     },
     {
-      "n": 10,
-      "headline": "Justice Department sends grand jury subpoenas in the Alaska 'second Dan Sullivan' probe as Peltola says she knew nothing",
-      "cat": "Politics / Elections",
-      "source": "PBS News (AP)",
-      "url": "https://www.pbs.org/newshour/politics/peltola-denies-knowing-about-alaska-spoiler-candidate-as-justice-department-escalates-investigation",
-      "image_local": "",
-      "image_remote": "",
-      "id": "22b8c9e927d97502a6750495e155e15595ffb76c",
-      "summary": "The Justice Department has stepped up its criminal investigation into whether a second candidate named Dan Sullivan was put on Alaska's Senate ballot to pull votes from Republican Sen. Dan S. Sullivan, issuing grand jury subpoenas and records-preservation demands, with more expected, according to a person familiar with the probe. The subpoenas followed reporting that Democrat Mary Peltola's campaign appeared to be involved in recruiting Dan J. Sullivan Jr. Speaking at a bar in Juneau on Thursday, Peltola said, \"I knew nothing about any other candidate on the ballot except for me and the incumbent,\" adding that she is \"not interested in tricking voters.\" Dan J. Sullivan has long denied running at Democrats' urging. Attorney General Todd Blanche accused Democrats of \"cheating,\" President Trump has called for Peltola's prosecution, Gov. Mike Dunleavy has ordered a state investigation, and the Justice Department has already sued to block certification if Sullivan loses. The race could decide control of the Senate."
-    },
-    {
-      "n": 11,
+      "n": 17,
       "headline": "Sports' top court clears Russia to return to world hockey tournaments, and European federations push back",
       "cat": "Sports / Hockey",
       "source": "Kyiv Independent",
@@ -123,62 +189,7 @@
       "summary": "The Court of Arbitration for Sport ruled Friday that the International Ice Hockey Federation acted unlawfully in barring Russian teams over safety and security concerns, saying the evidence was insufficient. The IIHF said it was disappointed but will comply, which means Russia can enter all IIHF championships immediately, including upcoming tournaments in Canada, the U.S., Czechia and Germany. Russia has been shut out of international hockey since its 2022 invasion of Ukraine. The Czech, German and Austrian hockey associations criticized the decision and said their opposition hasn't changed, while Finland's federation called it \"incomprehensible\" and said its players are not obligated to face Russian or Belarusian teams. The European Commission voiced regret but said it respects the independence of sports bodies. The same court upheld a ban on Russia in world curling earlier this month."
     },
     {
-      "n": 12,
-      "headline": "Goodwill is auctioning what looks like a second copy of a rare Leica prototype lens that once sold for $47,000",
-      "cat": "Cameras / Oddities",
-      "source": "PetaPixel",
-      "url": "https://petapixel.com/2026/10/30/goodwill-seemingly-has-no-clue-its-selling-a-previously-unknown-leica-prototype-lens/",
-      "image_local": "images/story-1609.jpg",
-      "image_remote": "https://petapixel.com/assets/uploads/2026/10/leica-fisheye-goodwill-featured.jpg",
-      "id": "a1e2fe5d02c49354d790b4b022a2f3b3220fcc5a",
-      "summary": "A Goodwill store in Sioux Falls, South Dakota, has listed a 26-pound Leica / Hughes Leitz 17mm f/2 prototype lens in \"as is\" condition, apparently without realizing what it is. Lenstag founder Trevor Sehrer says it looks like a previously unknown second copy of a prototype that was believed to be one of a kind; that lens sold through Leica Store Lisse for $47,200 in 2021 after being listed on eBay for $24,000 in 2018. The Goodwill lens carries model number C530-0004, versus C530-0007 on the earlier one. Goodwill's listing warns that it isn't an expert and tells bidders to study the photos. When PetaPixel checked, bidding was at $3,008 after seven bids, with the auction ending at 9:50 p.m. ET Friday, Oct. 30."
-    },
-    {
-      "n": 13,
-      "headline": "Australia's death cap mushroom killer Erin Patterson will never be released, appeals court rules",
-      "cat": "Crime / Courts",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/mushroom-poison-murders-australia-erin-patterson-harsher-sentence/",
-      "image_local": "images/story-1610.jpg",
-      "image_remote": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/30/0fc53874-4c1c-4df0-8888-86405762e954/thumbnail/1200x630/3192500bab8e507597ba02df7e2f75b2/ap26302853354505.jpg",
-      "id": "4e4b3b09e104ed1014238c42c6eb6cdb1689d56a",
-      "summary": "An Australian appeals court on Friday ordered that Erin Patterson spend the rest of her life in prison for poisoning four of her estranged husband's relatives with death cap mushrooms hidden in beef Wellington at a July 2023 lunch at her home in Leongatha. The three judges of Victoria's Court of Appeal rejected her appeal of the convictions and agreed with prosecutors that her original 33-year non-parole period was too lenient, calling the crime \"extraordinarily cold and calculated.\" Her in-laws Don and Gail Patterson and Gail's sister Heather Wilkinson died, and Heather's husband Ian, a Baptist pastor, survived after weeks in the hospital. The judges noted she had invented a cancer diagnosis to explain why her children weren't at the meal. Patterson, who says the poisoning was accidental, is only the second woman in Australia sentenced to life without parole, and her last option is the High Court."
-    },
-    {
-      "n": 14,
-      "headline": "SZA, Dua Lipa and Tame Impala will headline Coachella 2027, report says, after BTS and Rage Against the Machine said no",
-      "cat": "Music / Festivals",
-      "source": "Consequence",
-      "url": "https://consequence.net/2026/10/coachella-2027-sza-dua-lipa-and-tame-impala-to-headline-per-new-report/",
-      "image_local": "images/story-1611.jpg",
-      "image_remote": "https://consequence.net/wp-content/uploads/2026/10/Tame-SZA-Dua-Lipa.jpeg",
-      "id": "19163e5661a075a8658f0c111c6ba711fa5a12a2",
-      "summary": "SZA, Dua Lipa and Tame Impala are set to headline Coachella 2027, according to a TMZ report cited by Consequence. Dua Lipa and Tame Impala's bookings were first reported in September, when SZA was said to be in talks for the third headlining slot and Fred again.. was tipped for the festival's \"Returning to the Desert\" spot. TMZ also reported that organizers approached BTS and Rage Against the Machine, but both turned it down. Coachella 2027 runs over two weekends, April 9-11 and April 16-18, at the Empire Polo Club in Indio, California, and the official lineup is expected to be announced soon."
-    },
-    {
-      "n": 15,
-      "headline": "Russia puts Apple and Microsoft on its state surveillance registry, demanding they keep user data for security agencies",
-      "cat": "Tech / Apple",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/10/30/apple-russian-state-surveillance-registry/",
-      "image_local": "",
-      "image_remote": "",
-      "id": "adce18d8bd532a459891474807a3afbb3e5df125",
-      "summary": "Russia's communications regulator, Roskomnadzor, has added Apple and Microsoft to its list of \"organizers of information dissemination,\" a designation that requires companies to preserve users' communications, including messages with audio or video, and make that data available to Russian security services. Listed companies must also keep information identifying users and records of their communications within Russia for three years, and those that don't comply face fines and eventually restrictions on their services. The two companies join WhatsApp, Telegram and Snapchat on the registry, with Google added in January. The move follows Russia's December 2025 block on FaceTime, which the regulator claimed was being used for terrorism, recruiting and fraud. Russia has also restricted WhatsApp and Telegram calls and blocked Signal and Viber. Apple stopped selling products in Russia in March 2022 after the invasion of Ukraine."
-    },
-    {
-      "n": 16,
-      "headline": "Where did all the iPhone Duos go? Apple sent about 80% of launch stock to its stores, some with as few as 50",
-      "cat": "Tech / Apple",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/10/30/apple-stores-as-few-as-50-iphone-duo-units/",
-      "image_local": "images/story-1598.jpg",
-      "image_remote": "https://images.macrumors.com/t/vQoWWBdb9EXLwtxwl0qVyebYGfQ=/1600x/article-new/2026/09/iphone-duo-colors.jpg",
-      "id": "08425fa3a2cd60f97775b802348ca47ae908fe90",
-      "summary": "Apple put roughly 80% of its first iPhone Duo inventory into its own retail stores rather than online orders, according to reporting cited by MacRumors from people close to the device's logistics. Some stores held as few as 50 units, flagship locations had up to about 250, and New York's Fifth Avenue store was stocked unusually heavily because Apple executives attended the launch there. That split explains why online pre-orders slipped to late January within minutes on October 16, while most people who waited in line on launch day walked out with a phone. Apple has called demand \"nothing short of extraordinary\" and says it is working to fill orders as quickly as possible, so delivery estimates that look far off may improve. The Duo starts at $1,999 for 256GB, with 512GB at $2,199, 1TB at $2,599 and 2TB at $3,199."
-    },
-    {
-      "n": 17,
+      "n": 18,
       "headline": "Clocks fall back this Sunday: daylight saving time ends at 2 a.m. on Nov. 1",
       "cat": "Service / Time Change",
       "source": "CBS News",
@@ -187,17 +198,6 @@
       "image_remote": "",
       "id": "256c462f1cfc951bf5d751e10b8b944c723a6189",
       "summary": "Daylight saving time ends for 2026 this weekend, so most of the U.S. sets clocks back one hour at 2 a.m. on Sunday, Nov. 1, and everyone gets an extra hour of sleep. Mornings get lighter and evenings darker: in Boston, for example, sunrise moves from 7:16 a.m. on Saturday to 6:17 a.m. on Sunday, and sunset from 5:39 p.m. to 4:37 p.m. The U.S. first adopted the clock change in 1918 during World War I to save fuel, and Congress didn't set uniform start and end dates until 1966. This year, the Sunshine Protection Act, which would make daylight saving time permanent and let states opt out, passed the House in July and now sits in the Senate, where President Trump has accused Arkansas Sen. Tom Cotton of holding it up."
-    },
-    {
-      "n": 18,
-      "headline": "Trumbull's annual Business Appreciation Breakfast is Nov. 13 at the Marriott; RSVP by Nov. 5",
-      "cat": "Local / Trumbull CT",
-      "source": "Patch Trumbull",
-      "url": "https://patch.com/connecticut/trumbull/trumbull-business-appreciation-breakfast-set-nov-13",
-      "image_local": "",
-      "image_remote": "",
-      "id": "45694cca32ec0750f876ff593843d48c49b3aad8",
-      "summary": "The Town of Trumbull is inviting the local business community to its Annual Business Appreciation Breakfast on Friday, Nov. 13, from 8 to 10 a.m. at the Trumbull Marriott. The keynote speaker is Guy LeBas, chief fixed income strategist at Janney Capital Management, who will talk about the local, regional and national economy. The town says the breakfast fills up quickly every year and usually has a waiting list, so it encourages early registration. RSVPs go to Rina Bakalar at rbakalar@trumbull-ct.gov and are due by Thursday, Nov. 5."
     },
     {
       "n": 19,
