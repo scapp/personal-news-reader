@@ -1787,7 +1787,16 @@
     "05c1d59560cb83006dd7402d18ff23f754403f8b",
     "f2eee28185c78dc802549dfa6036ea10d8549eec",
     "8db62d425c5af20da01a62dde45772664b6712e3",
-    "2bd6a19d22809192c677250d5f1ea4f9afe324fa"
+    "2bd6a19d22809192c677250d5f1ea4f9afe324fa",
+    "08425fa3a2cd60f97775b802348ca47ae908fe90",
+    "d35261f0250a764cb2aca12c730e085ad43e61ee",
+    "63cb46f078be8de93394d460eaed3c1c20e1fec8",
+    "04f617908f3788564cefab11a8cf9ce903a89f7f",
+    "febfe4002b8fc7b2263afee4497285e60e777242",
+    "1e0fc03fe7d158871ed441a3881461ba0346a710",
+    "1f02303ef745d3f9dbdb1b176af9b88d7273859b",
+    "d80a50e8c118e8fd5000183f242c93e9d64c91e6",
+    "256c462f1cfc951bf5d751e10b8b944c723a6189"
   ],
   "stories": {
     "0c2ac7a5e342411678296315c4c59043b1f067cc": {
@@ -20937,11 +20946,11 @@
       "id": "a434570fd0ca625b1220346cae1b3ce2e88c532e"
     },
     "f2ea8aac94bc5331a083444fb015b9f2664c75e2": {
-      "headline": "Binance halts deposits and withdrawals over a suspected hack that could be the biggest crypto heist ever",
+      "headline": "Binance says hackers took about $6.3 billion in the biggest crypto heist ever, and it will cover all losses",
       "cat": "Business / Crypto",
       "source": "NBC News",
       "url": "https://www.nbcnews.com/business/markets/binance-hack-tether-circle-stablecoins-rcna606445",
-      "summary": "Binance, the world's largest cryptocurrency exchange by trading volume, suspended all deposits and withdrawals on Thursday after a series of very large transfers raised fears it had been hacked. The company called it a \"security issue\" and said it was freezing funds and working with law enforcement, blockchain analysts and other firms to trace assets, adding that billions of dollars had already been frozen. If the money was stolen, it would most likely be the largest crypto theft in history. Stablecoin issuer Tether froze more than $1.567 billion of its tokens, and Circle said it had frozen hundreds of millions of dollars more. Bitcoin fell about 4.3% and Ethereum 4.6% as word spread. Unlike bank deposits, money held on exchanges is not automatically insured, so any refunds would be up to Binance; founder Changpeng Zhao, who was pardoned by President Trump after pleading guilty to money-laundering violations, said he expects all user funds to be fully covered. The scare came the same day Polymarket froze trading after a separate hack.",
+      "summary": "Binance, the world's largest cryptocurrency exchange by trading volume, suspended all deposits and withdrawals on Thursday after a series of very large transfers raised fears it had been hacked. The company called it a \"security issue\" and said it was freezing funds and working with law enforcement, blockchain analysts and other firms to trace assets, adding that billions of dollars had already been frozen. If the money was stolen, it would most likely be the largest crypto theft in history. Stablecoin issuer Tether froze more than $1.567 billion of its tokens, and Circle said it had frozen hundreds of millions of dollars more. Bitcoin fell about 4.3% and Ethereum 4.6% as word spread. Unlike bank deposits, money held on exchanges is not automatically insured, so any refunds would be up to Binance; founder Changpeng Zhao, who was pardoned by President Trump after pleading guilty to money-laundering violations, said he expects all user funds to be fully covered. Update Friday: Binance now puts the total at about $6.3 billion, more than four times the $1.5 billion Bybit hack that was the previous record, and says roughly $3 billion has been frozen on-chain. It says it will cover all losses from its SAFU user-protection fund and company money, and that deposits are working again while withdrawals stay frozen for a security overhaul. Its early investigation suggests a compromised DevOps engineer's laptop let the attacker reach a service container and submit unauthorized withdrawals; security firm TRM Labs blamed TraderTraitor, North Korea's elite hacking unit. The scare came the same day Polymarket froze trading after a separate hack.",
       "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261029-binance-vsb-1816-fb8d39.jpg",
       "image_local": "images/story-1591.jpg",
       "id": "f2ea8aac94bc5331a083444fb015b9f2664c75e2"
@@ -21025,7 +21034,97 @@
       "image_remote": "",
       "image_local": "",
       "id": "2bd6a19d22809192c677250d5f1ea4f9afe324fa"
+    },
+    "08425fa3a2cd60f97775b802348ca47ae908fe90": {
+      "headline": "Where did all the iPhone Duos go? Apple sent about 80% of launch stock to its stores, some with as few as 50",
+      "cat": "Tech / Apple",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/30/apple-stores-as-few-as-50-iphone-duo-units/",
+      "summary": "Apple put roughly 80% of its first iPhone Duo inventory into its own retail stores rather than online orders, according to reporting cited by MacRumors from people close to the device's logistics. Some stores held as few as 50 units, flagship locations had up to about 250, and New York's Fifth Avenue store was stocked unusually heavily because Apple executives attended the launch there. That split explains why online pre-orders slipped to late January within minutes on October 16, while most people who waited in line on launch day walked out with a phone. Apple has called demand \"nothing short of extraordinary\" and says it is working to fill orders as quickly as possible, so delivery estimates that look far off may improve. The Duo starts at $1,999 for 256GB, with 512GB at $2,199, 1TB at $2,599 and 2TB at $3,199.",
+      "image_remote": "https://images.macrumors.com/t/vQoWWBdb9EXLwtxwl0qVyebYGfQ=/1600x/article-new/2026/09/iphone-duo-colors.jpg",
+      "image_local": "images/story-1598.jpg",
+      "id": "08425fa3a2cd60f97775b802348ca47ae908fe90"
+    },
+    "d35261f0250a764cb2aca12c730e085ad43e61ee": {
+      "headline": "Christian Watson goes to the hospital mid-game, comes back, and the Packers beat the Panthers 27-19",
+      "cat": "Sports / NFL",
+      "source": "Yahoo Sports (AFP)",
+      "url": "https://sports.yahoo.com/articles/packers-beat-panthers-27-19-040223751.html",
+      "summary": "Green Bay won Thursday Night Football 27-19 over Carolina at Lambeau Field, and receiver Christian Watson was the story. After catching a 53-yard pass he left the field spitting blood and was taken to a nearby hospital by ambulance with a suspected chest injury, then returned to the stadium with extra rib padding once tests came back clear and finished with eight catches for 113 yards. Jordan Love threw for 288 yards and three touchdowns, to Tucker Kraft, Matthew Golden and Josh Jacobs, who also ran for a score, while the Packers' defense sacked Bryce Young six times and Ty'Ron Hopper added an interception. Green Bay's running game managed only 66 yards on 26 carries. Carolina's Chuba Hubbard ran for a touchdown and 81 yards, and Jalen Coker's late touchdown cut it to eight before a failed two-point try. The Packers are 5-3 but still last in the NFC North; the Panthers fall to 3-4 and still lead the NFC South.",
+      "image_remote": "https://s.yimg.com/lo/mysterio/api/bbc9d1fa2df374ba84a8fbb4d3b1a52bdab852c846268c2cbb7dd29586426429/lightyear_networkapi/resizefill_w768_h512%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F3349548eb5f94dc6404a80c499eaf30b.jpg",
+      "image_local": "images/story-1599.jpg",
+      "id": "d35261f0250a764cb2aca12c730e085ad43e61ee"
+    },
+    "63cb46f078be8de93394d460eaed3c1c20e1fec8": {
+      "headline": "Aerosmith play their first show since retiring, with Dave Grohl on drums and Joey Kramer back for 'Walk This Way'",
+      "cat": "Music / Rock",
+      "source": "Loudwire",
+      "url": "https://loudwire.com/aerosmith-first-show-hollywood-bowl-setlist/",
+      "summary": "Aerosmith took the stage at the Hollywood Bowl on Thursday night for their first performance as a band since September 2023, when Steven Tyler's vocal injury cut short the Peace Out farewell tour and later led the band to retire from touring. Tyler, Joe Perry, Brad Whitford and Tom Hamilton played six songs with Dave Grohl on drums for most of the set: \"Toys in the Attic,\" \"Back in the Saddle,\" \"Sweet Emotion,\" \"Dream On,\" \"Train Kept a Rollin'\" with Johnny Depp, and \"Walk This Way\" with founding drummer Joey Kramer, who hadn't played with the band since 2020. The \"Aerosmith + Friends\" night also featured Guns N' Roses, who covered three Aerosmith songs for the first time, plus The Black Crowes, Billy Idol, Sammy Hagar, Ann and Nancy Wilson of Heart, Godsmack's Sully Erna with Nuno Bettencourt, Eric Church and Warren Haynes. A second Hollywood Bowl show is set for Sunday, Nov. 1.",
+      "image_remote": "https://townsquare.media/site/366/files/2026/10/attachment-social-image-366-2026-10-15-16-41-18.jpg?w=1200&q=75&format=natural",
+      "image_local": "images/story-1600.jpg",
+      "id": "63cb46f078be8de93394d460eaed3c1c20e1fec8"
+    },
+    "04f617908f3788564cefab11a8cf9ce903a89f7f": {
+      "headline": "Three killed as two helicopters collide in midair near Oregon's McMinnville airport",
+      "cat": "U.S. / Aviation",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/2-helicopters-midair-collision-mcminnville-oregon/",
+      "summary": "Three people died Thursday afternoon when an Airbus H125 and a Robinson R22 collided near McMinnville Municipal Airport, about 35 miles southwest of Portland, Oregon, at about 2:15 p.m. local time. The Yamhill County Sheriff's Office identified those killed as 22-year-old flight instructor Maddie Aasbo of Texas and a British student pilot whose name was not released, and 38-year-old Tyler Delane Sturdevant of Newberg, Oregon, who was flying the Airbus. One of the helicopters belonged to Jerry Trimble Helicopters, a flight school based at the airport, which said its thoughts were with the families. The wreckage came down in a field near a highway southeast of town, and surrounding roads were closed. It is not yet clear how the collision happened; the National Transportation Safety Board is leading the investigation.",
+      "image_remote": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/30/ae552ed7-d5aa-4a6d-8d69-ccf5f86de82f/thumbnail/1200x630/2146171a74827f3af2c367dccb351d9b/chopper-crash.jpg",
+      "image_local": "images/story-1601.jpg",
+      "id": "04f617908f3788564cefab11a8cf9ce903a89f7f"
+    },
+    "febfe4002b8fc7b2263afee4497285e60e777242": {
+      "headline": "Italy braces for nationwide strikes and port blockades as Meloni keeps troops on the streets",
+      "cat": "World / Europe",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/world/italy/italy-strikes-violent-protests-rome-colosseum-meloni-army-rome-milan-rcna606503",
+      "summary": "Thousands of people were gathering in Rome, Milan and other Italian cities on Friday for a nationwide strike and protests against the cost of living and high military spending, called by the USB union and others for both public and private sector workers. Protesters also planned to blockade the ports of Genoa, Livorno and Trieste. The day follows weeks of unrest in which masked groups looted stores in Milan and threw projectiles at police, protesters stormed Rome's Colosseum last Saturday, and farmers and truckers blockaded highways and ports over fuel prices that have climbed since the war in Iran. Prime Minister Giorgia Meloni's government has deployed 500 army troops alongside police in Milan through the end of 2026 and passed tougher penalties for rioters, including making parents financially liable for children who loot. \"Vandalism and theft are not protest, they are criminality,\" Meloni said. Similar protests have hit France, Spain, Portugal and Belgium.",
+      "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261030-italy-protests-mb-1022-dd7c01.jpg",
+      "image_local": "images/story-1602.jpg",
+      "id": "febfe4002b8fc7b2263afee4497285e60e777242"
+    },
+    "1e0fc03fe7d158871ed441a3881461ba0346a710": {
+      "headline": "Mexico arrests a city official accused of covering up the cartel-ordered killing of an anti-crime mayor",
+      "cat": "World / Crime",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/official-arrested-mayor-killing-alleged-cover-up-mexico/",
+      "summary": "Prosecutors in Mexico's Michoacán state have arrested Rosa Alejandra Vargas, the welfare secretary of the city of Uruapan, on suspicion of concealment in the killing of Mayor Carlos Manzo. Manzo, 40, a popular crusader against organized crime, was shot dead during Day of the Dead celebrations last November, a killing that set off huge anti-government protests. Investigators say the Jalisco New Generation Cartel ordered the attack. State prosecutor Israel Vega said Vargas is related to several people already arrested in the case and had failed to show up when investigators summoned her. Manzo is one of at least 13 mayors killed in Mexico since President Claudia Sheinbaum took office two years ago, by an Associated Press count, as the Trump administration presses her government to crack down on cartels and corruption in local governments.",
+      "image_remote": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/30/d8e794f4-f37f-45f7-8262-4ac910d1530c/thumbnail/1200x630g2/07b1ae4c05f1e5dbc065919f3674ed8d/rosa-867271432-1865406124889736-3272277012162554691-n.jpg",
+      "image_local": "images/story-1603.jpg",
+      "id": "1e0fc03fe7d158871ed441a3881461ba0346a710"
+    },
+    "1f02303ef745d3f9dbdb1b176af9b88d7273859b": {
+      "headline": "Canon warns camera prices will go up in 2027 if the AI-driven memory shortage keeps costs high",
+      "cat": "Cameras / Canon",
+      "source": "Digital Camera World",
+      "url": "https://www.digitalcameraworld.com/cameras/a-camera-price-increase-is-coming-in-2027-if-high-memory-costs-continue-canon-says",
+      "summary": "Canon has told investors that if memory chip costs stay high into next year, it will pass them on through price increases. The warning came in translated Q&A from the company's October 27 earnings presentation, where Canon trimmed its fourth-quarter outlook because of a component shortage hitting compact cameras and a slight dip in mirrorless sales. \"For components that are in short supply, we are using every possible means to secure the quantities we need for next year,\" Canon said, adding that its policy is to offset higher procurement costs with price increases from next year onward. Canon confirmed it is considering higher prices in its imaging division, citing memory costs, cost increases from conflict in the Middle East, and unusually strong network camera sales. The company has so far avoided big hikes because it stockpiled memory for 2026 early; the increases depend on whether high costs persist once that stock runs out. Memory cards and drives have already climbed in price as AI data centers soak up supply.",
+      "image_remote": "https://cdn.mos.cms.futurecdn.net/iKyo48LYwdaXDChaWf6TL3-2560-80.jpg",
+      "image_local": "images/story-1604.jpg",
+      "id": "1f02303ef745d3f9dbdb1b176af9b88d7273859b"
+    },
+    "d80a50e8c118e8fd5000183f242c93e9d64c91e6": {
+      "headline": "Waymo and Toyota will test self-driving bZ4X robotaxis in Japan next year, then the UK",
+      "cat": "Tech / Self-Driving",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2301972/waymo-toyota-soon-start-testing-bz4x-robotaxis-japan/",
+      "summary": "Waymo and Toyota say they will begin testing a fleet of autonomous Toyota bZ4X electric SUVs in Japan in 2027, and plan to bring them to the UK and other right-hand-drive markets in the years after. Toyota is building the vehicles at its Takaoka plant in Toyota City, where they are also being fitted with Waymo's self-driving hardware. The companies, which signed a preliminary partnership in April 2025, said pairing Toyota's manufacturing with Waymo's technology will speed up scaling Level 4 autonomous vehicles worldwide. Waymo has been testing Jaguar I-PACE robotaxis in Tokyo since 2025 with drivers from the taxi company Nihon Kotsu, and it plans to launch a fully driverless ride-hailing service in Tokyo next year, though it hasn't said when the bZ4X will join that commercial fleet.",
+      "image_remote": "https://www.engadget.com/img/gallery/waymo-and-toyota-will-soon-start-testing-their-robotaxis-japan/l-intro-1793355754.jpg",
+      "image_local": "images/story-1605.jpg",
+      "id": "d80a50e8c118e8fd5000183f242c93e9d64c91e6"
+    },
+    "256c462f1cfc951bf5d751e10b8b944c723a6189": {
+      "headline": "Clocks fall back this Sunday: daylight saving time ends at 2 a.m. on Nov. 1",
+      "cat": "Service / Time Change",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/daylight-savings-time-ends-2026/",
+      "summary": "Daylight saving time ends for 2026 this weekend, so most of the U.S. sets clocks back one hour at 2 a.m. on Sunday, Nov. 1, and everyone gets an extra hour of sleep. Mornings get lighter and evenings darker: in Boston, for example, sunrise moves from 7:16 a.m. on Saturday to 6:17 a.m. on Sunday, and sunset from 5:39 p.m. to 4:37 p.m. The U.S. first adopted the clock change in 1918 during World War I to save fuel, and Congress didn't set uniform start and end dates until 1966. This year, the Sunshine Protection Act, which would make daylight saving time permanent and let states opt out, passed the House in July and now sits in the Senate, where President Trump has accused Arkansas Sen. Tom Cotton of holding it up.",
+      "image_remote": "",
+      "image_local": "",
+      "id": "256c462f1cfc951bf5d751e10b8b944c723a6189"
     }
   },
-  "updated": "Thursday, October 29, 2026 · 10:14 PM ET"
+  "updated": "Friday, October 30, 2026 · 7:14 AM ET"
 }
