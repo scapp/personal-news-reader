@@ -1872,7 +1872,25 @@
     "e352c5f64baf5fa1a2bae06f4d0dce6a65197e30",
     "59df568dd2a40d524713cea73c159f0528423a35",
     "88f5ab9e2581d8c7a2e4214e4b1cc34e8f5798c9",
-    "085a3b402f3efa7db02c0a501986e9146554ddeb"
+    "085a3b402f3efa7db02c0a501986e9146554ddeb",
+    "5ba23fb8df22b02b29faa7791a56d7bda56895f1",
+    "066790dcd50e8bbcab0d7a6476d3c3cc31e4f4b4",
+    "f379d8ebca28063fa8044c9e1757baa4d617b45d",
+    "090a92bc491a8fef1bd6e4e2f6251e236df13b81",
+    "5e33d88df7bb2ff98efa8b5c639d7666a38ed484",
+    "bbc94676a4b089a7a379549d1e0a657a98070492",
+    "68898372b8c50f7f30fe25eda94e941eb0b16ab1",
+    "9b3ef50de606d162fc20bfb67fa9eb236cbb1db1",
+    "4e5ca65b7d643e30391f8e62231261356053b10c",
+    "55374518ad54c2acf4270a3a8d09fb669d84e8ac",
+    "cfa0ae909a60a090d76548cf8c1f7efeb88b50bf",
+    "eb919a1b5067449fc9c31fc69af214cf8852b00e",
+    "bcdf5afdc5cacd0f3c437d05945ee0581d5fa50a",
+    "aa7da29b2a8922e565a8befcd423806dd048f0ca",
+    "ae2c3f44b15f43dd1657544caf73363903c32b4f",
+    "bbeea5cb98f973867bc7d32a8ea3774a9746e9a2",
+    "828b480006b70e3812d468887ea543d49acfcb97",
+    "250819b8354dd1fb4cdc26fa6e65834b5a7d4142"
   ],
   "stories": {
     "0c2ac7a5e342411678296315c4c59043b1f067cc": {
@@ -21960,7 +21978,187 @@
       "image_remote": "",
       "image_local": "",
       "id": "085a3b402f3efa7db02c0a501986e9146554ddeb"
+    },
+    "5ba23fb8df22b02b29faa7791a56d7bda56895f1": {
+      "headline": "It's Election Day: House control looks within Democrats' reach, while the Senate fight is still anyone's guess",
+      "cat": "Politics / Elections",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/11/03/nx-s1-5992757/election-day-live-updates-key-races",
+      "summary": "More than 54 million people have already voted heading into Tuesday's midterms — nearly half of all ballots cast in the last midterm — and Democrats hold a double-digit edge in available early-voting data. The swing factor is Election Day turnout among Republicans, who vote overwhelmingly in person. Democrats are favored to take the House (they need only three seats), despite GOP mid-decade redistricting. In the Senate they need four flips; North Carolina is the clearest pickup, and most remaining races are toss-ups on Trump-won turf. Results start at 6 p.m. ET in Kentucky and Indiana; many close races may take days.",
+      "image_remote": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6804x3827+0+354/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fae%2F55%2Fec98ce1e44558904733dc6c91531%2Fgettyimages-2302583836.jpg",
+      "image_local": "images/story-1671.jpg",
+      "id": "5ba23fb8df22b02b29faa7791a56d7bda56895f1"
+    },
+    "066790dcd50e8bbcab0d7a6476d3c3cc31e4f4b4": {
+      "headline": "In John Ternus's first earnings as CEO, Apple posts a $114.5B September quarter and its best fiscal year ever",
+      "cat": "Tech / Apple",
+      "source": "AppleInsider",
+      "url": "https://appleinsider.com/articles/26/11/02/apple-beats-wall-street-forecasts-in-first-ternus-led-q4-earnings",
+      "summary": "Apple reported fiscal Q4 revenue of $114.5 billion, up from $102.5 billion a year ago and ahead of Wall Street's roughly $113.4 billion consensus, in CEO John Ternus's first results call. iPhone revenue hit $57.58 billion, Mac $10.79 billion, Services $31.57 billion (an all-time high), and full-year sales reached about $478–479 billion. Ternus called it the company's best fiscal year yet and said the holiday quarter should be Apple's biggest-revenue quarter ever even with supply constraints, while higher memory costs and Siri AI weigh on margins. iPhone Duo demand still outruns supply with no clear catch-up date.",
+      "image_remote": "https://media.appleinsider.com/gallery/69522-146530-financialsq4header-xl.jpg",
+      "image_local": "images/story-1672.jpg",
+      "id": "066790dcd50e8bbcab0d7a6476d3c3cc31e4f4b4"
+    },
+    "f379d8ebca28063fa8044c9e1757baa4d617b45d": {
+      "headline": "U.S. carries out limited defensive strikes on Iran's Qeshm Island on the eve of the midterms",
+      "cat": "World / Middle East",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/world/iran/us-conducted-defensive-strikes-iranian-targets-strait-hormuz-us-offici-rcna607161",
+      "summary": "U.S. officials say the military hit targets on Iran's Qeshm Island Monday in a limited self-defense strike after the Islamic Revolutionary Guard Corps fired at U.S. aircraft near the Strait of Hormuz — not a return to major combat. Officials said Iran has been targeting shipping and U.S. assets, and that the U.S. occasionally strikes launchers when aircraft are shot at; Iranian media reported five explosions on the island. The action came despite President Trump saying the U.S. would not strike Iran before Tuesday's elections, with the unpopular Iran war and gasoline prices a vulnerability for Republicans.",
+      "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261102-strait-of-hormuz-vsb-2102-289231.jpg",
+      "image_local": "images/story-1673.jpg",
+      "id": "f379d8ebca28063fa8044c9e1757baa4d617b45d"
+    },
+    "090a92bc491a8fef1bd6e4e2f6251e236df13b81": {
+      "headline": "Russia launches its biggest mass strike of the year on Ukraine's power grid, hitting plants across 10 oblasts",
+      "cat": "World / Ukraine",
+      "source": "Kyiv Independent",
+      "url": "https://kyivindependent.com/russia-unleashes-biggest-mass-attack-on-ukraines-energy-this-year-2/",
+      "summary": "On Nov. 3 Russia unleashed its largest mass attack this year on Ukraine's energy system, hitting substations, transmission lines and power plants across 10 oblasts and forcing outages nationwide. Ukrenergo CEO Vitalii Zaichenko said one of the biggest waves of ballistic missiles of the war, plus cruise missiles and drones, targeted critical infrastructure. Private utility DTEK reported significant damage that halted three thermal plants; the Energy Ministry cited heavy damage in Vinnytsia, Zhytomyr and Kharkiv oblasts and outages in Kyiv and surrounding regions. Officials fear another hard wartime winter after last year's blackouts.",
+      "image_remote": "https://assets.kyivindependent.com/content/images/2026/10/GettyImages-2246093609_20261014-153648.jpg",
+      "image_local": "images/story-1674.jpg",
+      "id": "090a92bc491a8fef1bd6e4e2f6251e236df13b81"
+    },
+    "5e33d88df7bb2ff98efa8b5c639d7666a38ed484": {
+      "headline": "A 17-year-old is arrested in the Fairfield Spirit Halloween shooting that killed pregnant Constance Hages",
+      "cat": "Crime / Courts",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/news/us-news/teen-arrested-spirit-halloween-shooting-fairfield-california-rcna607147",
+      "summary": "Fairfield, California, police say a 17-year-old boy was arrested Monday in Suisun City in connection with Friday night's shooting at a Spirit Halloween store in Solano Town Center that killed 31-year-old Constance Hages, who was pregnant, and injured six others. Chief Dan Marshall said the teen will be charged with murder and could face an additional murder count because Hages was pregnant; his name was withheld as a minor. A 16-year-old and two men (19 and 32) were left in critical condition; others were hospitalized or treated and released. Officers said the shooter entered the store and targeted someone specific.",
+      "image_remote": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261031-spirit-halloween-ch-0938-8686b1.jpg",
+      "image_local": "images/story-1675.jpg",
+      "id": "5e33d88df7bb2ff98efa8b5c639d7666a38ed484"
+    },
+    "bbc94676a4b089a7a379549d1e0a657a98070492": {
+      "headline": "Penguins unveil blue-and-yellow Hometown Remix jerseys with Warhol-style polka dots; fan reaction is mixed",
+      "cat": "Sports / NHL",
+      "source": "Pittsburgh Hockey Now",
+      "url": "https://pittsburghhockeynow.com/penguins-go-blue-release-hometown-remix-jersey-fan-reaction/",
+      "summary": "The Penguins released their NHL Hometown Remix alternate on Monday, a blue-and-yellow sweater shown first to Sidney Crosby in a promo video. The design brings back early-franchise blues with yellow piping, polka-dot numbers and crest details that nod to Andy Warhol, and departs from the black-and-gold look Pittsburgh has used since 1980. Replicas are $290 at team shops ($185 kids; $499 authentic at Fanatics). Local reaction has been mixed-to-supportive, with the polka dots the most polarizing detail after an accurate internet leak and an early Macy's listing.",
+      "image_remote": "https://media.pittsburghhockeynow.com/wp-content/uploads/2026/11/IMG_2916-1600x900.jpg",
+      "image_local": "images/story-1676.jpg",
+      "id": "bbc94676a4b089a7a379549d1e0a657a98070492"
+    },
+    "68898372b8c50f7f30fe25eda94e941eb0b16ab1": {
+      "headline": "After another blown lead, Aaron Glenn says the Jets still need a 'killer instinct' with nine games left",
+      "cat": "Sports / NFL",
+      "source": "NewYorkJets.com",
+      "url": "https://www.newyorkjets.com/news/notebook-jets-fighting-for-killer-instinct-11-02-2026",
+      "summary": "Coming off a 38-33 loss to the Raiders in which New York scored on its first six drives and still lost, Jets coach Aaron Glenn said Monday the team's record is what it is and that they must keep fighting to finish games. Braelon Allen, filling in for injured Breece Hall, ran for 147 yards and a touchdown on 21 carries and has 504 rushing yards over the five games Hall has missed, helped by left guard Dylan Parham's return. The Jets are 2-6 with nine games left, next up at the Chiefs.",
+      "image_remote": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/jets/kkbph2znk0wrubr5tdjb",
+      "image_local": "images/story-1677.jpg",
+      "id": "68898372b8c50f7f30fe25eda94e941eb0b16ab1"
+    },
+    "9b3ef50de606d162fc20bfb67fa9eb236cbb1db1": {
+      "headline": "Deep Purple postpones the rest of its fall European tour after Ian Gillan's medical emergency",
+      "cat": "Music / Metal",
+      "source": "Blabbermouth",
+      "url": "https://blabbermouth.net/news/deep-purple-cancels-remainder-of-fall-2026-european-tour-on-advice-of-ian-gillans-medical-team",
+      "summary": "Deep Purple has canceled the remainder of the European leg of its \"Splat!\" world tour on the advice of singer Ian Gillan's medical team. Gillan was hospitalized after a medical problem in Leipzig that already scrubbed the Oct. 31 Leipzig and Nov. 1 Hamburg shows. In a Monday statement he thanked fans, said he had hoped to finish the tour, but that \"there are very serious risks\" in continuing, so the rest of the European/UK dates are postponed until further notice. Bassist Roger Glover had recently insisted the band was not planning a farewell tour.",
+      "image_remote": "https://assets.blabbermouth.net/media/iangillannov2026live_638.jpg",
+      "image_local": "images/story-1678.jpg",
+      "id": "9b3ef50de606d162fc20bfb67fa9eb236cbb1db1"
+    },
+    "4e5ca65b7d643e30391f8e62231261356053b10c": {
+      "headline": "Steven Tyler pushes back after Bill Burr calls Aerosmith's Hollywood Bowl nights their final shows",
+      "cat": "Music / Rock",
+      "source": "Loudwire",
+      "url": "https://loudwire.com/steven-tyler-aerosmith-future/",
+      "summary": "At Aerosmith's Sunday Hollywood Bowl comeback show, Steven Tyler answered MC Bill Burr's Friday claim that the two Bowl nights were \"the final two shows in Aerosmith's history.\" Tyler told the crowd you can't get rid of Aerosmith and joked that at the end of the world there will be \"cockroaches, Aerosmith and… Bill Burr.\" The band's first live dates in over three years followed a guest-heavy format similar to Ozzy/Black Sabbath's farewell, with Heart and Guns N' Roses among the acts covering Aerosmith songs. Tyler still called the 55-year ride with his \"brothers\" a special night.",
+      "image_remote": "https://townsquare.media/site/366/files/2026/11/attachment-social-image-366-2026-11-02-10-18-03.jpg?w=1200&format=natural",
+      "image_local": "images/story-1679.jpg",
+      "id": "4e5ca65b7d643e30391f8e62231261356053b10c"
+    },
+    "55374518ad54c2acf4270a3a8d09fb669d84e8ac": {
+      "headline": "Behringer teases a flood of $10–$15 metal stompboxes, including open-source pedals you can hack",
+      "cat": "Music / Guitar Gear",
+      "source": "Guitar World",
+      "url": "https://www.guitarworld.com/gear/guitar-pedals/behringer-teases-10-15-dollar-pedal-range",
+      "summary": "Behringer says it is planning 200–300 all-metal analog and digital guitar pedals priced around $10–$15, ranging from \"legendary legacy\" copies to new designs and open-source boxes players can modify. In a social post the company joked that it forgot guitarists while disrupting synths and mixers and asked whether the line will upset boutique makers. The firm is already known for ultra-cheap Klon-style pedals and past legal fights over clones. Details on exact models and ship dates were not yet listed.",
+      "image_remote": "https://cdn.mos.cms.futurecdn.net/CgBNZAJGYs4zpC8o7P8TG3-1200-80.jpg",
+      "image_local": "images/story-1680.jpg",
+      "id": "55374518ad54c2acf4270a3a8d09fb669d84e8ac"
+    },
+    "cfa0ae909a60a090d76548cf8c1f7efeb88b50bf": {
+      "headline": "New Classic Space and Castle parts hit LEGO Pick a Brick, from a Sea Serpent GWP and a pinball set",
+      "cat": "LEGO",
+      "source": "Brick Fanatics",
+      "url": "https://www.brickfanatics.com/lego-pick-a-brick-classic-space-castle-parts-out",
+      "summary": "LEGO's November Pick a Brick drop is live with new Classic Space and Castle elements drawn from a recent gift-with-purchase and the Arcade Pinball Machine set — including light-blue astronaut/space-baby pieces and Black Knights parts. Brick Fanatics says prices are posted (the Sea Serpent sail is among the pricier pieces at just over £6), some elements have quantity limits, and the light-blue astronaut torso and Black Knights shield are delayed in the U.S. Search Pick a Brick for \"2026novnew\" to see the wave; stock varies by region.",
+      "image_remote": "https://www.brickfanatics.com/storage/uploads/3911fd66-5145-4dcb-b10f-880a941a8f2a.png",
+      "image_local": "images/story-1681.jpg",
+      "id": "cfa0ae909a60a090d76548cf8c1f7efeb88b50bf"
+    },
+    "eb919a1b5067449fc9c31fc69af214cf8852b00e": {
+      "headline": "Jeep's Wrangler Scrambler SRT Concept debuts at SEMA with long-travel IFS built for desert speed",
+      "cat": "Autos / Jeep",
+      "source": "Mopar Insiders",
+      "url": "https://moparinsiders.com/jeep-wrangler-scrambler-srt-concept-makes-debut-at-sema/",
+      "summary": "SRT Performance unveiled the Wrangler Scrambler SRT Concept at SEMA, Jeep's first high-speed desert-performance concept with an SRT badge. Inspired by the CJ-8 Scrambler pickup, it pairs open-air seating and a bed with a custom long-travel independent front suspension developed with off-road racer Casey Currie — a first for Wrangler — plus trophy-truck-style rear hardware. Jeep frames it as overbuilt for desert racing demands; V8 power is referenced as part of the performance brief. The concept follows Scrambler teases from Stellantis Investor Day in May.",
+      "image_remote": "https://moparinsiders.com/wp-content/uploads/2026/11/CN026_045JP.jpeg",
+      "image_local": "images/story-1682.jpg",
+      "id": "eb919a1b5067449fc9c31fc69af214cf8852b00e"
+    },
+    "bcdf5afdc5cacd0f3c437d05945ee0581d5fa50a": {
+      "headline": "Dakar Rally leaves Saudi Arabia over the U.S./Iran war and maps a 2027 Portugal-to-Morocco route",
+      "cat": "Motorcycles / Racing",
+      "source": "RideApart",
+      "url": "https://www.rideapart.com/news/813918/dakar-rally-new-route-released-europe-africa-portugal-to-morocco/",
+      "summary": "Dakar organizers have abandoned Saudi Arabia — home of the rally for the past six years — because of the ongoing U.S./Iran war and regional insecurity, and released a full 2027 route that runs from Portugal to Morocco instead of a rumored Paris–Dakar revival. RideApart notes the conflict has already raised fuel and shipping costs worldwide and forced other Middle East sporting events to relocate. The January 2027 edition returns the race to a Europe–Africa path after years in the Middle East, with teams now reworking logistics for the new staging.",
+      "image_remote": "https://cdn.motor1.com/images/mgl/0eNBZm/s1/adrien-van-beveren---dakar-2024.jpg",
+      "image_local": "images/story-1683.jpg",
+      "id": "bcdf5afdc5cacd0f3c437d05945ee0581d5fa50a"
+    },
+    "aa7da29b2a8922e565a8befcd423806dd048f0ca": {
+      "headline": "Apple threat notices hit users in 99 countries as German officials get mercenary-spyware warnings",
+      "cat": "Tech / Security",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/11/02/apple-recently-notified-users-in-99-countries-of-potential-mercenary-spyware-attacks/",
+      "summary": "Apple recently sent threat notifications to users in 99 countries warning they may have been targeted by mercenary spyware, according to reports cited by 9to5Mac. German lawmakers and government officials began receiving alerts last Thursday, prompting the Federal Office for Information Security to issue an urgent weekend warning. As usual Apple does not name a vendor or confirm a compromise, but urges recipients to take the notices seriously, update software, consider Lockdown Mode and seek expert help. The wave continues Apple's periodic warnings to high-risk users.",
+      "image_remote": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/mercenary-alert-2.jpg?quality=82&strip=all&resize=1200,628",
+      "image_local": "images/story-1684.jpg",
+      "id": "aa7da29b2a8922e565a8befcd423806dd048f0ca"
+    },
+    "ae2c3f44b15f43dd1657544caf73363903c32b4f": {
+      "headline": "Ricoh will open its first U.S. GR Space in New York City for GR shooters and street photographers",
+      "cat": "Photography / Ricoh",
+      "source": "PetaPixel",
+      "url": "https://petapixel.com/2026/11/02/ricoh-is-opening-its-first-gr-space-in-the-us/",
+      "summary": "Ricoh Imaging Americas says it will open a dedicated GR Space in New York City, the brand's first in the United States after shops in Tokyo, Shanghai, Beijing, Guangzhou, Brisbane and Seoul. President Ken Curry framed the city and the GR compact as sharing a snapshooting ethos — observation and everyday moments — and said the space is meant for product demos plus community learning and inspiration for amateurs through pros. PetaPixel visited the Brisbane location last year; NYC extends that boutique model to North America.",
+      "image_remote": "https://petapixel.com/assets/uploads/2026/11/ricoh-gr-space-nyc-featured.jpg",
+      "image_local": "images/story-1685.jpg",
+      "id": "ae2c3f44b15f43dd1657544caf73363903c32b4f"
+    },
+    "bbeea5cb98f973867bc7d32a8ea3774a9746e9a2": {
+      "headline": "SpaceX puts Starfall on a public storefront: 1,000 kg microgravity missions with live Starlink data",
+      "cat": "Tech / SpaceX",
+      "source": "Teslarati",
+      "url": "https://www.teslarati.com/spacexs-starfall-just-went-from-secret-to-storefront/",
+      "summary": "SpaceX has published a commercial page at spacex.com/starfall for its disk-shaped reentry capsule, pitching \"affordable, routine access to microgravity\" for manufacturing, research and testing payloads. Each mission can carry up to 1,000 kg, supply 1 kW of power over Ethernet, and keep the payload online via Starlink for the whole flight so researchers can pull data before splashdown. SpaceX is targeting biomedical organoids and tissue work, pharmaceutical crystal growth, and other in-space manufacturing customers. Mission length is tailored per booking.",
+      "image_remote": "https://www.teslarati.com/wp-content/uploads/2026/10/spacex-starfall-capsule-1000x600.jpg",
+      "image_local": "images/story-1686.jpg",
+      "id": "bbeea5cb98f973867bc7d32a8ea3774a9746e9a2"
+    },
+    "828b480006b70e3812d468887ea543d49acfcb97": {
+      "headline": "European grocery chains report more fridge and freezer hacks that spike temperatures and spoil food",
+      "cat": "World / Cyber",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/europe-grocery-store-refrigerator-freezer-cyberattack-hack-food-wasted/",
+      "summary": "More European supermarket operators say cyberattacks are pushing refrigerator and freezer temperatures out of safe range, forcing stores to dump spoiled food. CBS News reports the apparent hacks are spreading beyond the first wave of incidents, with temperature spikes in cold cases and walk-ins pointing to compromised refrigeration controls. Retailers and authorities are treating the pattern as a cyber incident rather than equipment failure. Investigators have not publicly named a culprit.",
+      "image_remote": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/02/a328d5cb-5e9a-41f1-a4b1-24224d521678/thumbnail/1200x630/305f20a908cd98cb22c277b2f1f1ba69/sweden-grocery-supermarket-hack-refrigerator-2302673071.jpg",
+      "image_local": "images/story-1687.jpg",
+      "id": "828b480006b70e3812d468887ea543d49acfcb97"
+    },
+    "250819b8354dd1fb4cdc26fa6e65834b5a7d4142": {
+      "headline": "DOJ election monitors are headed to New Haven on Election Day; city registrars say they can't enter polling places",
+      "cat": "Connecticut / Elections",
+      "source": "CT Mirror",
+      "url": "https://ctmirror.org/2026/11/02/u-s-doj-to-send-election-monitors-to-new-haven-tuesday/",
+      "summary": "The U.S. Justice Department plans to send election monitors to New Haven on Tuesday — the only Connecticut city expected to get them, according to the secretary of the state's office. Mayor Justin Elicker publicized a letter from Democratic and Republican registrars telling DOJ that monitors may not enter any polling places, arguing federal rhetoric could intimidate voters. The dispute lands as DOJ is also suing New Haven over its sanctuary policies. Officials say monitors are meant to observe, not interfere.",
+      "image_remote": "https://ctmirror.org/wp-content/uploads/2026/09/IMG_2015-scaled.jpeg",
+      "image_local": "images/story-1688.jpg",
+      "id": "250819b8354dd1fb4cdc26fa6e65834b5a7d4142"
     }
   },
-  "updated": "Monday, November 2, 2026 · 7:10 AM ET"
+  "updated": "Tuesday, November 3, 2026 · 7:12 AM ET"
 }
